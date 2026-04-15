@@ -28,33 +28,33 @@ When creating a character, all characteristics begin at 0. This initial value do
 Characteristics are divided into three groups: Physical, Mental, and Social.
 
 ### Physical Characteristics
-### Strength
+#### Strength
 Strength represents the character's physical power and their ability to apply force effectively to the environment. It influences actions like lifting weight, breaking obstacles, grappling, pushing, or striking with force. A character with high Strength can dominate through raw vigor and make better use of weapons or maneuvers that depend on physical power.
 
-### Agility
+#### Agility
 Agility reflects coordination, reaction speed, and bodily precision. It governs balance, movement, execution of delicate physical maneuvers, and adaptation to the motion of combat or environment. A character with high Agility moves with ease, dodges more effectively, and performs physical actions with greater control.
 
-### Tenacity
+#### Tenacity
 Tenacity indicates physical endurance, the character's ability to withstand fatigue, pain, and prolonged strain. It also reflects recovery capacity against wear and physical adversity. A character with high Tenacity can remain standing longer, endure harsh conditions better, and sustain higher levels of effort.
 
 ### Mental Characteristics
-### Intellect
+#### Intellect
 Intellect measures the character's reasoning, memory, and formal understanding. It covers logical analysis, academic knowledge, and ease in understanding complex concepts or recalling important information. A character with high Intellect excels at study, research, interpretation, and structured problem-solving.
 
-### Cunning
+#### Cunning
 Cunning represents mental sharpness, practical creativity, and the ability to find effective solutions in changing situations. It depends less on accumulated knowledge and more on improvisation, deception, reading intentions, or finding alternative paths when circumstances grow difficult. A character with high Cunning is usually adaptable, resourceful, and hard to surprise.
 
-### Wisdom
+#### Wisdom
 Wisdom represents perception, intuition, and the ability to interpret the world and its inhabitants correctly. It reflects applied experience, judgment, and sensitivity to nuance in environments, behavior, or complex situations. A character with high Wisdom often notices what others miss and makes decisions with clearer judgment.
 
 ### Social Characteristics
-### Composure
+#### Composure
 Composure reflects self-control, emotional stability, and the ability to remain calm under pressure. It is the basis of inner discipline when dealing with social tension, psychological threats, or delicate situations. A character with high Composure resists manipulation better, stays calm more easily, and makes firmer decisions when others break down.
 
-### Aura
+#### Aura
 Aura is the natural and involuntary impression the character projects onto others. It is not a trained skill, but the imprint of their nature: a mixture of instinct, temperament, and essential presence that can be perceived even before speaking or acting. Aura defines how the character's existence feels to those around them, and can inspire fascination, unease, respect, or rejection.
 
-### Presence
+#### Presence
 Presence represents the character's active ability to project themselves into the environment and affect the behavior, perception, or mood of others. Unlike Aura, which is passive and involuntary, Presence implies intention, force of personality, and character. A character with high Presence can impose, inspire, intimidate, persuade, or draw attention more easily.
 
 ## Initial Value of Characteristics

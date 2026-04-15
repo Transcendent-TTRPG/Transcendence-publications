@@ -28,33 +28,33 @@ Al crear un personaje, todas sus características comienzan en 0. Este valor ini
 Las características se dividen en tres grupos: Físicas, Mentales y Sociales.
 
 ### Características Físicas
-### Fuerza
+#### Fuerza
 La Fuerza representa la potencia física del personaje y su capacidad para ejercer fuerza de manera efectiva sobre el entorno. Influye en acciones como levantar peso, derribar obstáculos, sujetar, empujar o golpear con potencia. Un personaje con alta Fuerza puede imponerse mediante el vigor bruto y aprovechar mejor las armas o maniobras que dependen del poder físico.
 
-### Agilidad
+#### Agilidad
 La Agilidad refleja la coordinación, la rapidez de reacción y la precisión corporal del personaje. Interviene en el equilibrio, la movilidad, la ejecución de maniobras físicas delicadas y la capacidad de adaptarse al movimiento del combate o del entorno. Un personaje con alta Agilidad se desplaza con soltura, esquiva con mayor facilidad y ejecuta acciones físicas con mayor control.
 
-### Tenacidad
+#### Tenacidad
 La Tenacidad indica la resistencia física del personaje, su capacidad para soportar fatiga, dolor y exigencias prolongadas. También refleja su capacidad de recuperación frente al desgaste y a las dificultades corporales. Un personaje con alta Tenacidad puede mantenerse en pie durante más tiempo, soportar mejor condiciones adversas y resistir mayores niveles de esfuerzo.
 
 ### Características Mentales
-### Intelecto
+#### Intelecto
 El Intelecto mide la capacidad de razonamiento, memoria y comprensión formal del personaje. Abarca el análisis lógico, el conocimiento académico y la facilidad para entender conceptos complejos o recordar información importante. Un personaje con alto Intelecto destaca al estudiar, investigar, interpretar información y resolver problemas mediante el pensamiento estructurado.
 
-### Astucia
+#### Astucia
 La Astucia representa la agudeza mental, la creatividad práctica y la capacidad para encontrar soluciones eficaces en situaciones cambiantes. No depende tanto del conocimiento acumulado como de la habilidad para improvisar, engañar, prever intenciones ajenas o encontrar caminos alternativos cuando las circunstancias se complican. Un personaje con alta Astucia suele ser adaptable, ingenioso y difícil de sorprender.
 
-### Sabiduría
+#### Sabiduría
 La Sabiduría representa la percepción, la intuición y la capacidad de interpretar correctamente el mundo y a quienes lo habitan. Refleja experiencia aplicada, criterio y sensibilidad para reconocer matices en el entorno, en el comportamiento ajeno o en una situación compleja. Un personaje con alta Sabiduría suele notar lo que otros pasan por alto y tomar decisiones con mayor claridad de juicio.
 
 ### Características Sociales
-### Compostura
+#### Compostura
 La Compostura refleja el autocontrol, la estabilidad emocional y la capacidad del personaje para mantenerse sereno bajo presión. Es la base de la disciplina interna con la que enfrenta tensiones sociales, amenazas psicológicas o situaciones delicadas. Un personaje con alta Compostura resiste mejor la manipulación, conserva la calma con más facilidad y toma decisiones más firmes cuando otros se desmoronan.
 
-### Aura
+#### Aura
 El Aura es la impresión natural e involuntaria que el personaje proyecta sobre los demás. No representa una habilidad entrenada, sino la huella que deja su propia naturaleza: una mezcla de instinto, temperamento y presencia esencial que puede percibirse incluso antes de hablar o actuar. El Aura define cómo se siente la existencia del personaje para quienes lo rodean y puede inspirar fascinación, inquietud, respeto o rechazo.
 
-### Presencia
+#### Presencia
 La Presencia representa la capacidad del personaje para proyectarse activamente en el entorno y afectar la conducta, percepción o ánimo de otros. A diferencia del Aura, que es pasiva e involuntaria, la Presencia implica intención, carácter y fuerza de personalidad. Un personaje con alta Presencia puede imponerse, inspirar, intimidar, convencer o atraer la atención con mayor facilidad.
 
 ## Valor inicial de las características
