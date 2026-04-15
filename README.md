@@ -28,7 +28,7 @@ Publications should remain aligned with the design repository, while applying ed
 
 ## Main Areas
 
-### `core-book/`
+### `core-books/`
 Main TTRPG rulebook manuscript and export pipeline.
 
 ### `novels/`
