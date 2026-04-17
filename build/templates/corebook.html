@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="$lang$" xml:lang="$lang$" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+$if(title)$
+  <title>$title$</title>
+$endif$
+$if(author)$
+  <meta name="author" content="$for(author)$$author$$sep$, $endfor$" />
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$" />
+$endfor$
+</head>
+<body>
+
+<div class="page-wrapper">
+
+$if(title)$
+<header>
+  <p class="title">$title$</p>
+$if(subtitle)$
+  <p class="subtitle">$subtitle$</p>
+$endif$
+$if(author)$
+  <p class="author">$for(author)$$author$$sep$ · $endfor$</p>
+$endif$
+$if(date)$
+  <p class="date">$date$</p>
+$endif$
+</header>
+$endif$
+
+$if(toc)$
+<nav id="TOC" role="doc-toc">
+  <h2>$if(toc-title)$$toc-title$$else$Contents$endif$</h2>
+$table-of-contents$
+</nav>
+$endif$
+
+$body$
+
+</div>
+
+</body>
+</html>

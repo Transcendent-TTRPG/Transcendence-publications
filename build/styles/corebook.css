@@ -1,0 +1,363 @@
+/* =============================================
+   Transcendence Corebook — Print Stylesheet
+   Palette: Abyssal Green / Cosmic Horror
+   ============================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* --- Page Setup --- */
+/* @page handles margins (Chrome always respects these) and background-color
+   covers the full page including margin areas in supporting engines */
+@page {
+  size: A4;
+  margin: 22mm 18mm 22mm 22mm;
+  background-color: #f3f5f3;
+}
+
+/* --- Base --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+html {
+  background-color: #f3f5f3;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.09'/%3E%3C/svg%3E");
+}
+
+body {
+  font-family: 'Crimson Text', Georgia, 'Times New Roman', serif;
+  font-size: 11.5pt;
+  line-height: 1.65;
+  color: #1a1a1a;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+.page-wrapper {
+  padding: 0;
+}
+
+/* --- Chapter headers (h1) — new page each --- */
+h1 {
+  break-before: page;
+  font-family: 'Cinzel', 'Palatino Linotype', serif;
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #0a1a0f;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  padding-top: 2.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 3px solid #2a4a30;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background: #4a7a55;
+  margin-top: 5px;
+}
+
+/* --- Section headers --- */
+h2 {
+  font-family: 'Cinzel', 'Palatino Linotype', serif;
+  font-size: 1.4em;
+  font-weight: 600;
+  color: #152a1a;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 1.5px solid #4a7a55;
+  break-after: avoid;
+}
+
+h3 {
+  font-family: 'Cinzel', 'Palatino Linotype', serif;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #1f3a25;
+  margin-top: 1.4em;
+  margin-bottom: 0.3em;
+  break-after: avoid;
+}
+
+h4 {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1.05em;
+  font-weight: 600;
+  font-style: italic;
+  color: #2a4a30;
+  margin-top: 1.2em;
+  margin-bottom: 0.2em;
+  break-after: avoid;
+}
+
+h5, h6 {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 1em;
+  font-weight: 600;
+  color: #2a4a30;
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+}
+
+/* --- Paragraphs --- */
+p {
+  margin: 0 0 0.75em 0;
+  text-align: justify;
+  hyphens: auto;
+  orphans: 3;
+  widows: 3;
+}
+
+/* --- Lists --- */
+ul, ol {
+  padding-left: 1.6em;
+  margin: 0.4em 0 0.75em 0;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+/* --- Tables --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  font-size: 0.95em;
+  break-inside: avoid;
+}
+
+thead {
+  background-color: #0a1a0f;
+  color: #c8daca;
+}
+
+thead th {
+  font-family: 'Cinzel', serif;
+  font-size: 0.88em;
+  font-weight: 600;
+  padding: 0.5em 0.9em;
+  text-align: left;
+  letter-spacing: 0.04em;
+  border: 1px solid #1a3020;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #e8ede9;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f3f5f3;
+}
+
+tbody td {
+  padding: 0.4em 0.9em;
+  border: 1px solid #4a7a55;
+  vertical-align: top;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+  margin: 1.2em 0;
+  padding: 0.9em 1.3em;
+  border-left: 4px solid #2a4a30;
+  background-color: #e8ede9;
+  color: #152a1a;
+  font-style: italic;
+  break-inside: avoid;
+}
+
+blockquote p {
+  margin: 0 0 0.4em 0;
+}
+
+blockquote p:last-child {
+  margin: 0;
+}
+
+/* --- Inline code --- */
+code {
+  font-family: 'Courier New', monospace;
+  font-size: 0.88em;
+  background: #dde8de;
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+  color: #0a1a0f;
+}
+
+/* --- Horizontal rules --- */
+hr {
+  border: none;
+  border-top: 2px solid #4a7a55;
+  margin: 2em 0;
+}
+
+/* --- Strong --- */
+strong {
+  color: #0a1a0f;
+  font-weight: 700;
+}
+
+/* --- Table of Contents --- */
+#TOC {
+  padding: 1em 0 2em 0;
+  margin: 2em 0 3em 0;
+  break-after: page;
+  border-top: 2px solid #2a4a30;
+  border-bottom: 2px solid #2a4a30;
+}
+
+#TOC h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5em;
+  color: #0a1a0f;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border: none;
+  margin-top: 0.8em;
+  margin-bottom: 1.2em;
+}
+
+#TOC > ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+#TOC > ul > li {
+  margin: 0.5em 0 0 0;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #c8d8ca;
+}
+
+#TOC > ul > li:last-child {
+  border-bottom: none;
+}
+
+#TOC > ul > li > a {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: 0.95em;
+  color: #0a1a0f;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+#TOC ul ul {
+  list-style: none;
+  padding-left: 1.4em;
+  margin: 0.25em 0 0 0;
+}
+
+#TOC ul ul li {
+  margin: 0.12em 0;
+}
+
+#TOC ul ul a {
+  font-family: 'Crimson Text', serif;
+  font-size: 0.92em;
+  color: #1f3a25;
+  text-decoration: none;
+}
+
+#TOC ul ul ul {
+  padding-left: 1.2em;
+}
+
+#TOC ul ul ul a {
+  font-size: 0.88em;
+  color: #2a4a30;
+  font-style: italic;
+}
+
+/* --- Cover / title block --- */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 90vh;
+  break-after: page;
+}
+
+header .title {
+  font-family: 'Cinzel', serif;
+  font-size: 3em;
+  color: #0a1a0f;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  text-align: center;
+  line-height: 1.2;
+  margin: 0 0 0.3em 0;
+}
+
+header .title::after {
+  content: '';
+  display: block;
+  width: 60%;
+  margin: 0.4em auto 0 auto;
+  border-bottom: 3px solid #2a4a30;
+}
+
+header .subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15em;
+  color: #2a4a30;
+  margin-top: 1em;
+  font-style: italic;
+  text-align: center;
+}
+
+header .author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.1em;
+  color: #1f3a25;
+  margin-top: 2.5em;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+
+header .date {
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+  color: #3a5a40;
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+/* --- Print overrides --- */
+@media print {
+  html, body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  h1, h2, h3, h4 {
+    break-after: avoid;
+  }
+
+  table, figure, blockquote {
+    break-inside: avoid;
+  }
+}
