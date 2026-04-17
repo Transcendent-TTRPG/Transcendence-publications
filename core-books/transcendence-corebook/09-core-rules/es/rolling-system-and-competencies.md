@@ -1,4 +1,4 @@
-﻿
+
 # Sistema de Tiradas y Competencias
 
 ## Sistema de Tiradas
@@ -86,6 +86,7 @@ No representa entrenamiento específico, sino capacidad general aplicada a una s
 `Tirada de Característica = 1d10 + Característica + Nivel de Resonancia + Bonificadores adicionales`
 
 Se usa para resolver acciones que dependen de cualidades innatas o desarrolladas del personaje, especialmente cuando no interviene una competencia específica.
+
 ### Tirada de Resistencia (T.R.)
 
 La Tirada de Resistencia representa la capacidad del personaje para soportar o superar efectos perjudiciales como venenos, infecciones, aflicciones, maldiciones o alteraciones.
@@ -189,6 +190,7 @@ Las especializaciones progresan solo cuando la dificultad de la prueba es cohere
 - Adepto: progresa con pruebas de Fundamentos o superiores.
 - Experto: progresa con pruebas Desafiantes o superiores.
 - Maestro: progresa con pruebas Rigurosas o más altas.
+
 ## Tipos de competencias y sus efectos
 
 ### Armas

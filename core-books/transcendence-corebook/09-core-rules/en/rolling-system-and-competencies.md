@@ -1,4 +1,4 @@
-﻿
+
 # Rolling System and Competencies
 
 ## Rolling System
@@ -86,6 +86,7 @@ It does not represent specific training, but general capability applied to a con
 `Characteristic Roll = 1d10 + Characteristic + Resonance Level + Additional Bonuses`
 
 It is used to resolve actions that depend on innate or developed qualities of the character, especially when a specific competency is not involved.
+
 ### Resistance Roll (R.R.)
 
 The Resistance Roll represents the character's ability to withstand or overcome harmful effects such as poisons, infections, afflictions, curses, or alterations.
@@ -189,6 +190,7 @@ Specializations only progress when test difficulty is coherent with the characte
 - Adept: progresses with Fundamental tests or higher.
 - Expert: progresses with Challenging tests or higher.
 - Master: progresses with Rigorous tests or higher.
+
 ## Competency Types and Their Effects
 
 ### Weapons
