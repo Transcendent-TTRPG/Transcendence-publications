@@ -20,6 +20,14 @@ The Transcendence voice is precise, restrained, and perceptive. It describes sys
 
 ---
 
+## Text intent
+
+- Rules text exists to enable decisions.
+- Narrative text exists to guide perception.
+- Example text exists to bridge both — concrete situation, no atmosphere.
+
+---
+
 ## Rhythm and sentence structure
 
 - Rules text favors short to medium declarative sentences.
@@ -33,6 +41,8 @@ The Transcendence voice is precise, restrained, and perceptive. It describes sys
 ---
 
 ## Vocabulary
+
+The glossary is authoritative. If a term appears in `canon/glossary.md`, it must be used exactly as defined — same spelling, same capitalization, no synonyms.
 
 - Prefer concrete, physical language over abstract descriptors.
   Write: "the ground gives underfoot"
@@ -75,6 +85,8 @@ The Transcendence voice is precise, restrained, and perceptive. It describes sys
 ---
 
 ## AI-patterns to avoid
+
+These rules are filters, not templates. Apply them to eliminate AI-generated patterns — not to produce uniformity. Intentional variation in rhythm, sentence length, and structure is expected.
 
 These patterns make prose sound generated. **Any text exhibiting these patterns must be rewritten before it can advance past `status: draft`.**
 
