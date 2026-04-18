@@ -33,9 +33,9 @@ This file instructs AI agents working in this repository on how to approach edit
 
 ## What good prose looks like
 
-See `canon/voice-samples.md` for approved paragraphs. The short description of the Transcendence voice:
+See `canon/voice-samples.md` for approved paragraphs. The Transcendence voice:
 
-> **[To be filled by project owner — see canon/voice-samples.md]**
+> Precise, restrained, and perceptive. It describes systems as processes unfolding in real time, not as static rules. It prioritizes what can be observed or experienced, and avoids explaining more than necessary. When describing the world, it focuses on specific, limited sensory anchors rather than broad abstraction.
 
 ## Bilingual consistency
 

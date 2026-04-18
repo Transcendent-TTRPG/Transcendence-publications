@@ -10,42 +10,67 @@ related: []
 
 # Transcendence Style Guide
 
-**Status: skeleton — needs voice content from project owner.**
-
-This file is the primary editorial anchor for all Transcendence prose. Once populated, it governs every writing, revision, and AI-assisted editing task in this repository.
+This file is the primary editorial anchor for all Transcendence prose. It governs every writing, revision, and AI-assisted editing task in this repository.
 
 ---
 
 ## Voice description
 
-> **[Project owner: write a 1–3 sentence description of the Transcendence voice here.]**
->
-> Example of the kind of entry this needs:
-> *"The Transcendence voice is precise and unhurried. It describes mechanical systems as if they were living processes. It never explains more than necessary, and trusts the reader to follow."*
+The Transcendence voice is precise, restrained, and perceptive. It describes systems as processes unfolding in real time, not as static rules. It prioritizes what can be observed or experienced, and avoids explaining more than necessary. When describing the world, it focuses on specific, limited sensory anchors rather than broad abstraction.
 
 ---
 
 ## Rhythm and sentence structure
 
-> **[Project owner: describe sentence length patterns, paragraph length, use of short vs. long sentences, cadence preferences.]**
-
-Placeholder notes (to be confirmed or replaced):
-
-- Short declarative sentences are preferred for rules text.
-- Longer sentences are acceptable in scene-setting prose when they build tension.
-- Paragraphs should not exceed 4–5 sentences in rules text.
+- Rules text favors short to medium declarative sentences.
+- Each sentence should introduce a single idea or consequence.
+- Paragraphs in rules text are compact (2–4 sentences).
+- Narrative text may use longer sentences, but only when they build a clear sensory or temporal progression.
+- Each paragraph should center on a single perceptual anomaly or interaction.
+- Avoid chaining multiple metaphors or concepts within the same sentence.
+- Prefer sequence over density: one idea, then the next.
 
 ---
 
 ## Vocabulary
 
-> **[Project owner: list preferred words and phrasing for common concepts.]**
+- Prefer concrete, physical language over abstract descriptors.
+  Write: "the ground gives underfoot"
+  Avoid: "the environment feels unstable"
+- Canonical system terms remain in Spanish in all contexts:
+  Preparación, Desgaste, Aguante, ATB, Aflicciones.
+- Avoid synonyms for canonical terms.
+  A concept must always be named the same way.
+- Prefer verbs over adjectives.
+  Write: "the sound arrives late"
+  Avoid: "the sound is strange and unnatural"
+- Avoid emotional labeling.
+  Do not write: "it feels unsettling"
+  Show why it is unsettling through perception.
 
-Placeholder notes:
+---
 
-- Prefer active voice over passive.
-- System terms always use their canonical Spanish names even in English text (Preparación, Desgaste, Aguante, ATB, Aflicciones).
-- Numbers in rules text are written as numerals (not words): "3 Desgaste", not "three Desgaste".
+## Perception rules
+
+- Each narrative passage should be anchored in one primary sensory channel.
+- A secondary sensory detail may be added if it reinforces the same phenomenon.
+
+- Do not distribute attention across multiple unrelated sensory inputs.
+
+- Every passage should present a perceivable anomaly:
+  something that behaves differently than expected.
+
+- If a detail cannot be physically perceived, it should not be described directly.
+
+---
+
+## Narrative vs Rules boundary
+
+- Narrative text shows. It does not explain underlying systems.
+- Rules text defines. It does not attempt to evoke atmosphere.
+
+- When both are required, separate them explicitly:
+  rules first, then example or flavor text.
 
 ---
 
@@ -85,7 +110,7 @@ Write the mechanism. Do not describe how the mechanism feels.
 
 ### Excessive hedging in rules text
 
-Rules text must be declaritive. Do not write:
+Rules text must be declarative. Do not write:
 
 - "The Narrator may want to consider ..."
 - "Players might find it useful to ..."
