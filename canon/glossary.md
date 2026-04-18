@@ -27,7 +27,7 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Posición inicial | initial position | No | Starting placement on the track at combat opening |
 | Apertura del combate | combat opening | No | The setup phase before the ATB begins flowing |
 | Valor de Apertura | Opening Value | No | Preparación + situational modifiers; determines initial position |
-| Preparación | Preparación | Yes | Derived stat; determines reaction speed and initial ATB position |
+| Preparación | Preparation | No | Derived stat; determines reaction speed and initial ATB position |
 | Costo de ritmo | rhythm cost | No | How far a marker moves right after an action |
 | Banda de acción | action band | No | Category grouping of actions by rhythm cost |
 | Acción rápida | quick action | No | Lowest rhythm cost band |

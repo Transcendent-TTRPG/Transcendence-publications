@@ -33,7 +33,7 @@ When a hostile scene begins, no prior order exists on the track yet. The combat 
 
 Each participant calculates an Opening Value:
 
-Opening Value = Preparación + situational modifiers
+Opening Value = Preparation + situational modifiers
 
 Participants act in descending order according to that value. Whoever has the highest value is the one who reacts first as the conflict begins.
 
@@ -70,9 +70,9 @@ A character who uses quick, efficient actions can act again sooner. One who over
 
 ## Tiebreaking
 
-If two or more markers occupy the same leftmost position, whoever has the higher Preparación acts first.
+If two or more markers occupy the same leftmost position, whoever has the higher Preparation acts first.
 
-If Preparación is also tied, the Narrator or table may use a fixed secondary criterion to maintain clarity and consistency.
+If Preparation is also tied, the Narrator or table may use a fixed secondary criterion to maintain clarity and consistency.
 
 ---
 
