@@ -65,11 +65,12 @@ Fields: `title`, `type`, `language`, `chapter` (optional), `section` (optional),
 
 | ES | EN | Notes |
 | --- | --- | --- |
-| Preparación | Preparación | Derived stat — do not translate the term |
-| Desgaste | Desgaste | Strain/attrition — do not translate |
-| Aguante | Aguante | Endurance — do not translate |
+| Preparación | Preparation | Derived stat |
+| Desgaste | Attrition | Use "Attrition" in all EN files |
+| Aguante | Endurance | Use "Endurance" in all EN files |
+| Fatiga | Fatigue | Use "Fatigue" in all EN files |
+| Aflicciones | Afflictions | Use "Afflictions" in all EN files |
 | ATB | ATB | Active Time Battle — keep initialism |
 | Narrador | Narrator | GM equivalent |
-| Aflicciones | Aflicciones | Conditions — do not translate |
 
 Full glossary: `canon/glossary.md`

@@ -29,7 +29,8 @@ This file instructs AI agents working in this repository on how to approach edit
 - Do not change `canonical: true` files without explicit instruction.
 - Numbers (Desgaste values, rhythm costs, thresholds) must match the design YAML — never invent values.
 - ES files are written entirely in Spanish. EN files entirely in English. Do not mix.
-- The term **Preparación**, **Desgaste**, **Aguante**, **ATB**, **Aflicciones** are never translated.
+- **ATB** is never translated — use the initialism in both languages.
+- All other system terms use their EN equivalent in EN files (see `canon/glossary.md`). Do not use the Spanish form in EN prose.
 
 ## What good prose looks like
 

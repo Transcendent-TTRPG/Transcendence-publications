@@ -43,11 +43,12 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
-| Desgaste | Desgaste | Yes | Accumulated strain on body, mind, and composure |
-| Aguante | Aguante | Yes | Endurance; determines Desgaste recovery capacity |
-| Aflicciones | Aflicciones | Yes | Conditions; cleared on Full Rest |
-| Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces 1/2/3 Desgaste |
-| Descanso Completo | Full Rest | No | 8-hour recovery; clears Desgaste and Aflicciones |
+| Desgaste | Attrition | No | Accumulated strain on body, mind, and composure |
+| Aguante | Endurance | No | Determines Attrition recovery capacity |
+| Fatiga | Fatigue | No | Threshold states triggered by accumulated Attrition |
+| Aflicciones | Afflictions | No | Conditions; cleared on Full Rest |
+| Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces 1/2/3 Attrition |
+| Descanso Completo | Full Rest | No | 8-hour recovery; clears Attrition and Afflictions |
 
 ---
 
@@ -85,6 +86,6 @@ List terms that have appeared in draft files but have not yet been formally appr
 ## Glossary maintenance rules
 
 - Add a term here before using it in any prose file.
-- Do not abbreviate canonical terms in prose (write "Desgaste", not "DG").
+- Do not abbreviate canonical terms in prose (write "Attrition", not "Attr"; write "Desgaste", not "DG").
 - If the EN equivalent column is blank, use the ES term verbatim in EN files.
 - Changes to this file require explicit approval — it is `canonical: true`.
