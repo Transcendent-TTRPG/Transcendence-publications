@@ -8,8 +8,6 @@ tags: [style, voice, editorial, prose]
 related: []
 ---
 
-# Transcendence Style Guide
-
 This file is the primary editorial anchor for all Transcendence prose. It governs every writing, revision, and AI-assisted editing task in this repository.
 
 ---

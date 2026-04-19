@@ -9,8 +9,6 @@ related:
   - canon/style-guide.md
 ---
 
-# Transcendence Glossary
-
 Canonical terms for the Transcendence TTRPG system and universe. Spelling and capitalization in this file are authoritative. All prose files must match these exactly.
 
 Terms are listed in Spanish. The EN column shows the English equivalent used in EN prose files. Terms marked **Do not translate** appear in their Spanish form in both ES and EN files.
@@ -22,6 +20,11 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
 | ATB | ATB | Yes | Active Time Battle; the combat timeline system |
+| Acción libre | Free action | No | Cost 0 — does not advance the ATB marker; covers Drop and Speak within defined constraints |
+| Acción rápida | Quick action | No | Rhythm cost 3 |
+| Acción estándar | Standard action | No | Rhythm cost 5 |
+| Acción pesada | Heavy action | No | Rhythm cost 7 |
+| Acción extrema | Extreme action | No | Rhythm cost 9 — reserved for major abilities; not used at base layer |
 | Línea de tiempo | combat timeline | No | The ATB track as a whole |
 | Ficha / marcador | marker | No | A participant's position token on the track |
 | Posición inicial | initial position | No | Starting placement on the track at combat opening |

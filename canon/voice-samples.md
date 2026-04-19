@@ -10,8 +10,6 @@ related:
   - canon/glossary.md
 ---
 
-# Voice Samples
-
 This file is the rhythm reference for all Transcendence prose. Samples here are treated as the gold standard. When rewriting a passage, find a sample with similar purpose and use it as a template for cadence and vocabulary — not content.
 
 ---
