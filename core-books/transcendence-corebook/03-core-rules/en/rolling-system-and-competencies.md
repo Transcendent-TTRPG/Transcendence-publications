@@ -117,6 +117,30 @@ During exploration or conflict, a player may propose that one of their Personali
 
 This roll does not depend on competencies, but on the narrative and psychological strength of the invoked trait.
 
+## Difficulty Thresholds
+
+Every roll is compared against a number. That number either comes from another participant's roll, or from a fixed threshold established by the system or the Narrator.
+
+When the challenge comes from an active opponent, both parties roll and compare results directly. When it comes from the environment, from the intrinsic complexity of a task, or from another system, the Narrator sets a threshold using one of five difficulty tiers.
+
+```text
+Threshold = Base + NR
+```
+
+**Base** is the fixed value of the chosen difficulty tier. **NR** is the Reference Level of the context: the NR of the creature or entity posing the challenge, or the equivalent the Narrator assigns to the environment or the task.
+
+| Tier | Base | Formula |
+| --- | --- | --- |
+| **Fundamental** | 5 | 5 + NR |
+| **Challenging** | 8 | 8 + NR |
+| **Rigorous** | 11 | 11 + NR |
+| **Demanding** | 14 | 14 + NR |
+| **Extreme** | 17 | 17 + NR |
+
+These five tiers apply to all systems in the game: S.R., C.R., R.R., crafting, afflictions, and any other test that requires beating a fixed number. The Narrator announces the tier before requesting the roll. The player knows the threshold before deciding between Execution Advantage and Learning Advantage.
+
+---
+
 ## Competencies
 
 Competencies represent the degree of mastery a character has in a specific field. Some are combat-oriented, others relate to survival, knowledge, or concrete skills.
@@ -135,15 +159,17 @@ Each competency has a level and a rank.
 - Competency level represents accumulated numeric progress.
 - Competency rank represents the overall degree of mastery reached.
 
-Ranks are:
+| Rank | Name | Levels |
+| --- | --- | --- |
+| 0 | Untrained | — |
+| 1 | Novice | 1–2 |
+| 2 | Adept | 3–4 |
+| 3 | Expert | 5–6 |
+| 4 | Master | 7–8 |
+| 5 | Consummate | 9–10 |
+| 6 | Transcendent | 11+ |
 
-- Untrained
-- Novice
-- Adept
-- Expert
-- Master
-
-A new rank is gained every 3 competency levels.
+A new rank is reached every 2 competency levels. Specializations grant Synapsis on entering each new rank — see the Specializations chapter.
 
 ### Starting competencies
 
@@ -186,6 +212,8 @@ Specializations only progress when test difficulty is coherent with the characte
 - Adept: progresses with Fundamental tests or higher.
 - Expert: progresses with Challenging tests or higher.
 - Master: progresses with Rigorous tests or higher.
+- Consummate: progresses with Demanding tests or higher.
+- Transcendent: progresses with Extreme tests.
 
 ## Competency Types and Their Effects
 

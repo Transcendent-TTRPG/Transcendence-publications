@@ -117,6 +117,30 @@ Durante la exploración o el conflicto, un jugador puede proponer que uno de sus
 
 Esta tirada no depende de competencias, sino de la fuerza narrativa y psicológica del rasgo invocado.
 
+## Umbrales de Dificultad
+
+Toda tirada se compara contra un número. Ese número puede provenir de la tirada de otro participante o de un umbral fijo establecido por el sistema o el Narrador.
+
+Cuando el desafío proviene de un oponente activo, ambas partes tiran y se comparan resultados directamente. Cuando proviene del entorno, de la complejidad de una tarea o de otro sistema, el Narrador fija un umbral usando uno de los cinco niveles de dificultad.
+
+```text
+Umbral = Base + NR
+```
+
+**Base** es el valor fijo del nivel de dificultad elegido. **NR** es el Nivel de Referencia del contexto: el de la criatura o entidad que plantea el reto, o el equivalente que el Narrador asigna al entorno o a la tarea.
+
+| Nivel | Base | Fórmula |
+| --- | --- | --- |
+| **Fundamentos** | 5 | 5 + NR |
+| **Desafiante** | 8 | 8 + NR |
+| **Rigurosa** | 11 | 11 + NR |
+| **Exigente** | 14 | 14 + NR |
+| **Extrema** | 17 | 17 + NR |
+
+Estos cinco niveles aplican a todos los sistemas del juego: T.E., T.C., T.R., fabricación, agravios y cualquier otra prueba que requiera superar un umbral fijo. El Narrador anuncia el nivel antes de pedir la tirada. El jugador conoce el umbral antes de decidir entre Ventaja en la Ejecución o Ventaja en el Aprendizaje.
+
+---
+
 ## Competencias
 
 Las competencias representan el grado de dominio que un personaje posee en un campo específico. Algunas están orientadas al combate, otras a la supervivencia, otras al conocimiento o a destrezas concretas.
@@ -135,15 +159,17 @@ Cada competencia posee un nivel y un rango.
 - El nivel de competencia representa el progreso numérico acumulado.
 - El rango de competencia representa el grado general de dominio alcanzado.
 
-Los rangos son:
+| Rango | Nombre | Niveles |
+| --- | --- | --- |
+| 0 | No Entrenado | — |
+| 1 | Novato | 1–2 |
+| 2 | Adepto | 3–4 |
+| 3 | Experto | 5–6 |
+| 4 | Maestro | 7–8 |
+| 5 | Consumado | 9–10 |
+| 6 | Trascendente | 11+ |
 
-- No Entrenado
-- Novato
-- Adepto
-- Experto
-- Maestro
-
-Se obtiene un nuevo rango cada 3 niveles de competencia.
+Se obtiene un nuevo rango cada 2 niveles de competencia. Las especializaciones otorgan Sinapsis al entrar en cada nuevo rango — ver el capítulo de Especializaciones.
 
 ### Competencias iniciales
 
@@ -185,7 +211,9 @@ Las especializaciones progresan solo cuando la dificultad de la prueba es cohere
 - Novato: puede progresar con pruebas de cualquier nivel.
 - Adepto: progresa con pruebas de Fundamentos o superiores.
 - Experto: progresa con pruebas Desafiantes o superiores.
-- Maestro: progresa con pruebas Rigurosas o más altas.
+- Maestro: progresa con pruebas Rigurosas o superiores.
+- Consumado: progresa con pruebas Exigentes o superiores.
+- Trascendente: progresa con pruebas Extremas.
 
 ## Tipos de competencias y sus efectos
 
