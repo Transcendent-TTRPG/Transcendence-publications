@@ -27,9 +27,10 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Acción extrema | Extreme action | No | Rhythm cost 9 — reserved for major abilities; not used at base layer |
 | Línea de tiempo | combat timeline | No | The ATB track as a whole |
 | Ficha / marcador | marker | No | A participant's position token on the track |
-| Posición inicial | initial position | No | Starting placement on the track at combat opening |
+| Posición inicial | initial position | No | Reference Point − Opening Value; where the participant's marker is placed on the track. Highest Opening Value → position 0 |
 | Apertura del combate | combat opening | No | The setup phase before the ATB begins flowing |
-| Valor de Apertura | Opening Value | No | Preparación + situational modifiers; determines initial position |
+| Valor de Apertura | Opening Value | No | Preparation + situational modifiers; the raw readiness score used to derive initial position |
+| Punto de Referencia | Reference Point | No | The highest Opening Value among all participants; used to normalize all initial positions |
 | Preparación | Preparation | No | Derived stat; determines reaction speed and initial ATB position |
 | Costo de ritmo | rhythm cost | No | How far a marker moves right after an action |
 | Banda de acción | action band | No | Category grouping of actions by rhythm cost |
@@ -49,9 +50,19 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Desgaste | Attrition | No | Accumulated strain on body, mind, and composure |
 | Aguante | Endurance | No | Determines Attrition recovery capacity |
 | Fatiga | Fatigue | No | Threshold states triggered by accumulated Attrition |
+| Fatiga proyectada | Projected Fatigue | No | Fatigue tracked but not yet applied during an active hostile scene |
+| Fatiga asentada | Settled Fatigue | No | Fatigue applied when the hostile scene ends or clearly drops in intensity |
 | Aflicciones | Afflictions | No | Conditions; cleared on Full Rest |
 | Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces 1/2/3 Attrition |
 | Descanso Completo | Full Rest | No | 8-hour recovery; clears Attrition and Afflictions |
+
+---
+
+## System terms — techniques
+
+| ES term | EN equivalent | Do not translate | Notes |
+| --- | --- | --- | --- |
+| Técnica | Technique | No | A defined competency-based action with explicit narrative + mechanical effect; always requires at least one competency prerequisite; distinct from raw specialization use which produces narrative effect only |
 
 ---
 

@@ -4,7 +4,6 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Transcendence Corebook</title>
-  <meta name="author" content="Transcendence Studio" />
   <style type="text/css">
 @font-face {
 font-family: 'Cinzel';
@@ -364,12 +363,48 @@ break-inside: avoid;
 
 <header>
   <p class="title">Transcendence Corebook</p>
-  <p class="author">Transcendence Studio</p>
 </header>
 
 <nav id="TOC" role="doc-toc">
   <h2>Contents</h2>
 <ul>
+<li><a href="#reglas-generales" id="toc-reglas-generales">Reglas
+Generales</a>
+<ul>
+<li><a href="#sistema-de-dados" id="toc-sistema-de-dados">Sistema de
+Dados</a></li>
+<li><a href="#materiales-necesarios" id="toc-materiales-necesarios">Materiales Necesarios</a></li>
+<li><a href="#regla-de-especificidad-sobre-generalidad" id="toc-regla-de-especificidad-sobre-generalidad">Regla de Especificidad
+sobre Generalidad</a></li>
+<li><a href="#regla-de-flexibilidad-narrativa" id="toc-regla-de-flexibilidad-narrativa">Regla de Flexibilidad
+Narrativa</a></li>
+<li><a href="#regla-de-redondeo" id="toc-regla-de-redondeo">Regla de
+Redondeo</a></li>
+<li><a href="#regla-de-la-condición-más-fuerte" id="toc-regla-de-la-condición-más-fuerte">Regla de la Condición Más
+Fuerte</a></li>
+<li><a href="#regla-para-el-manejo-de-herramientas" id="toc-regla-para-el-manejo-de-herramientas">Regla para el Manejo de
+Herramientas</a></li>
+<li><a href="#ciclo-de-aventura" id="toc-ciclo-de-aventura">Ciclo de
+Aventura</a></li>
+</ul></li>
+<li><a href="#sistema-de-tiradas-y-competencias" id="toc-sistema-de-tiradas-y-competencias">Sistema de Tiradas y
+Competencias</a>
+<ul>
+<li><a href="#sistema-de-tiradas" id="toc-sistema-de-tiradas">Sistema de
+Tiradas</a></li>
+<li><a href="#ventaja-evolutiva" id="toc-ventaja-evolutiva">Ventaja
+Evolutiva</a></li>
+<li><a href="#npcs-y-otras-criaturas" id="toc-npcs-y-otras-criaturas">NPCs y otras criaturas</a></li>
+<li><a href="#tipos-de-tirada" id="toc-tipos-de-tirada">Tipos de
+Tirada</a></li>
+<li><a href="#competencias" id="toc-competencias">Competencias</a></li>
+<li><a href="#tipos-de-competencias-y-sus-efectos" id="toc-tipos-de-competencias-y-sus-efectos">Tipos de competencias y sus
+efectos</a></li>
+<li><a href="#nivel-de-referencia" id="toc-nivel-de-referencia">Nivel de
+Referencia</a></li>
+<li><a href="#relación-entre-tiradas-y-competencias" id="toc-relación-entre-tiradas-y-competencias">Relación entre tiradas y
+competencias</a></li>
+</ul></li>
 <li><a href="#creación-de-personaje" id="toc-creación-de-personaje">Creación de Personaje</a>
 <ul>
 <li><a href="#concepto-del-personaje" id="toc-concepto-del-personaje">Concepto del Personaje</a></li>
@@ -387,9 +422,10 @@ Trasfondo</a></li>
 <li><a href="#trasfondos-disponibles" id="toc-trasfondos-disponibles">Trasfondos disponibles</a></li>
 <li><a href="#importante-trasfondo-y-sinapsis" id="toc-importante-trasfondo-y-sinapsis">Importante: trasfondo y
 Sinapsis</a></li>
-<li><a href="#especializaciones" id="toc-especializaciones">Especializaciones</a></li>
 <li><a href="#escoger-especializaciones-iniciales" id="toc-escoger-especializaciones-iniciales">Escoger Especializaciones
 Iniciales</a></li>
+<li><a href="#especialización-universal-inicial-vigor" id="toc-especialización-universal-inicial-vigor">Especialización
+universal inicial: Vigor</a></li>
 <li><a href="#relación-entre-trasfondo-y-especializaciones-iniciales" id="toc-relación-entre-trasfondo-y-especializaciones-iniciales">Relación
 entre trasfondo y especializaciones iniciales</a></li>
 <li><a href="#aplicar-sinapsis" id="toc-aplicar-sinapsis">Aplicar
@@ -411,6 +447,7 @@ registrarlos</a></li>
 breve</a></li>
 <li><a href="#elegir-rasgos-de-personalidad" id="toc-elegir-rasgos-de-personalidad">Elegir Rasgos de
 Personalidad</a></li>
+<li><a href="#cómo-abordar-este-paso" id="toc-cómo-abordar-este-paso">Cómo abordar este paso</a></li>
 <li><a href="#los-cinco-factores" id="toc-los-cinco-factores">Los cinco
 factores</a></li>
 <li><a href="#intensidad-del-rasgo" id="toc-intensidad-del-rasgo">Intensidad del rasgo</a></li>
@@ -428,51 +465,595 @@ debes registrar</a></li>
 <li><a href="#cierre-de-la-creación-de-personaje" id="toc-cierre-de-la-creación-de-personaje">Cierre de la creación de
 personaje</a></li>
 </ul></li>
-<li><a href="#reglas-generales" id="toc-reglas-generales">Reglas
-Generales</a>
+<li><a href="#acciones" id="toc-acciones">Acciones</a>
 <ul>
-<li><a href="#sistema-de-dados" id="toc-sistema-de-dados">Sistema de
-Dados</a></li>
-<li><a href="#materiales-necesarios" id="toc-materiales-necesarios">Materiales Necesarios</a></li>
-<li><a href="#regla-de-especificidad-sobre-generalidad" id="toc-regla-de-especificidad-sobre-generalidad">Regla de Especificidad
-sobre Generalidad</a></li>
-<li><a href="#regla-de-flexibilidad-narrativa" id="toc-regla-de-flexibilidad-narrativa">Regla de Flexibilidad
-Narrativa</a></li>
-<li><a href="#regla-de-redondeo" id="toc-regla-de-redondeo">Regla de
-Redondeo</a></li>
-<li><a href="#regla-de-la-condicion-mas-fuerte" id="toc-regla-de-la-condicion-mas-fuerte">Regla de la Condicion Mas
-Fuerte</a></li>
-<li><a href="#regla-para-el-manejo-de-herramientas" id="toc-regla-para-el-manejo-de-herramientas">Regla para el Manejo de
-Herramientas</a></li>
-<li><a href="#ciclo-de-aventura" id="toc-ciclo-de-aventura">Ciclo de
-Aventura</a></li>
+<li><a href="#acciones-activas" id="toc-acciones-activas">Acciones
+Activas</a></li>
+<li><a href="#reacciones" id="toc-reacciones">Reacciones</a></li>
+<li><a href="#acciones-gratuitas" id="toc-acciones-gratuitas">Acciones
+Gratuitas</a></li>
+<li><a href="#relación-con-el-atb" id="toc-relación-con-el-atb">Relación
+con el ATB</a></li>
+<li><a href="#acciones-base" id="toc-acciones-base">Acciones
+Base</a></li>
 </ul></li>
-<li><a href="#sistema-de-tiradas-y-competencias" id="toc-sistema-de-tiradas-y-competencias">Sistema de Tiradas y
-Competencias</a>
+<li><a href="#atb-línea-de-tiempo-de-combate" id="toc-atb-línea-de-tiempo-de-combate">ATB: Línea de Tiempo de
+Combate</a>
 <ul>
-<li><a href="#sistema-de-tiradas" id="toc-sistema-de-tiradas">Sistema de
-Tiradas</a></li>
-<li><a href="#ventaja-evolutiva" id="toc-ventaja-evolutiva">Ventaja
-Evolutiva</a></li>
-<li><a href="#npcs-y-otras-criaturas" id="toc-npcs-y-otras-criaturas">NPCs y otras criaturas</a></li>
-<li><a href="#tipos-de-tirada" id="toc-tipos-de-tirada">Tipos de
-Tirada</a></li>
-<li><a href="#competencias" id="toc-competencias">Competencias</a></li>
-<li><a href="#tipos-de-competencias-y-sus-efectos" id="toc-tipos-de-competencias-y-sus-efectos">Tipos de competencias y sus
-efectos</a></li>
-<li><a href="#relación-entre-tiradas-y-competencias" id="toc-relación-entre-tiradas-y-competencias">Relación entre tiradas y
-competencias</a></li>
+<li><a href="#qué-representa-el-atb" id="toc-qué-representa-el-atb">Qué
+representa el ATB</a></li>
+<li><a href="#apertura-del-combate" id="toc-apertura-del-combate">Apertura del combate</a></li>
+<li><a href="#la-línea-de-tiempo" id="toc-la-línea-de-tiempo">La línea
+de tiempo</a></li>
+<li><a href="#desempates" id="toc-desempates">Desempates</a></li>
+<li><a href="#costo-de-ritmo" id="toc-costo-de-ritmo">Costo de
+ritmo</a></li>
+<li><a href="#bandas-de-acción" id="toc-bandas-de-acción">Bandas de
+acción</a></li>
+<li><a href="#reacciones-1" id="toc-reacciones-1">Reacciones</a></li>
+<li><a href="#movimiento-y-atb" id="toc-movimiento-y-atb">Movimiento y
+ATB</a></li>
+</ul></li>
+<li><a href="#descanso" id="toc-descanso">Descanso</a>
+<ul>
+<li><a href="#el-descanso-y-el-desgaste" id="toc-el-descanso-y-el-desgaste">El descanso y el Desgaste</a></li>
+<li><a href="#tipos-de-descanso" id="toc-tipos-de-descanso">Tipos de
+descanso</a></li>
+<li><a href="#riesgos-del-descanso" id="toc-riesgos-del-descanso">Riesgos del descanso</a></li>
+</ul></li>
+<li><a href="#desgaste-aguante-y-fatiga" id="toc-desgaste-aguante-y-fatiga">Desgaste, Aguante y Fatiga</a>
+<ul>
+<li><a href="#desgaste" id="toc-desgaste">Desgaste</a></li>
+<li><a href="#aguante" id="toc-aguante">Aguante</a></li>
+<li><a href="#vigor" id="toc-vigor">Vigor</a></li>
+<li><a href="#fatiga" id="toc-fatiga">Fatiga</a></li>
+<li><a href="#costos-de-desgaste" id="toc-costos-de-desgaste">Costos de
+Desgaste</a></li>
+<li><a href="#acciones-físicas-mentales-y-sociales" id="toc-acciones-físicas-mentales-y-sociales">Acciones físicas, mentales
+y sociales</a></li>
+<li><a href="#reacciones-y-desgaste" id="toc-reacciones-y-desgaste">Reacciones y Desgaste</a></li>
 </ul></li>
 </ul>
 </nav>
 
+<h1 id="reglas-generales">Reglas Generales</h1>
+<h2 id="sistema-de-dados">Sistema de Dados</h2>
+<p>El juego utiliza principalmente un sistema de dados d10 para la
+mayoría de las tiradas. Este sistema se centra en el uso de uno o dos
+dados de diez caras para determinar el éxito o fracaso de las acciones
+de los personajes.</p>
+<h2 id="materiales-necesarios">Materiales Necesarios</h2>
+<h3 id="dados">Dados</h3>
+<ul>
+<li>1d4: dado tetraédrico, usado para resultados de bajo rango o daños
+menores.</li>
+<li>1d6: dado cúbico clásico, usado para resultados moderados.</li>
+<li>1d8: dado octaédrico, usado para resultados y daños
+intermedios.</li>
+<li>1d10: dado decaédrico, usado para la mayoría de las tiradas del
+juego.</li>
+<li>1d12: dado dodecaédrico, usado para resultados y daños altos.</li>
+<li>1d20: dado icosaédrico, usado principalmente para tiradas asociadas
+a salud de criaturas.</li>
+</ul>
+<h3 id="hojas-de-personaje">Hojas de Personaje</h3>
+<p>Documentos para registrar estadísticas, habilidades, equipo y
+progresión de cada personaje.</p>
+<h3 id="tokens">Tokens</h3>
+<p>Fichas o marcadores para representar personajes, criaturas y
+elementos importantes en tablero o mapa.</p>
+<h2 id="regla-de-especificidad-sobre-generalidad">Regla de Especificidad
+sobre Generalidad</h2>
+<p>Si existe conflicto entre una regla específica y una regla general,
+la regla específica prevalece.</p>
+<blockquote>
+<p>Si una habilidad define su duración como Nivel / 2 (redondeado hacia
+abajo), esta especificación anula la regla general de redondeo hacia
+arriba.</p>
+</blockquote>
+<h2 id="regla-de-flexibilidad-narrativa">Regla de Flexibilidad
+Narrativa</h2>
+<p>El Narrador puede adaptar, modificar u omitir reglas para enriquecer
+la narrativa y mantener una experiencia fluida para la mesa.</p>
+<p>Estas modificaciones deben ser:</p>
+<ul>
+<li>justas</li>
+<li>consistentes</li>
+<li>transparentes</li>
+</ul>
+<p>El objetivo es priorizar coherencia, colaboración y disfrute de los
+jugadores sobre una aplicación rígida del reglamento.</p>
+<h2 id="regla-de-redondeo">Regla de Redondeo</h2>
+<p>Siempre que un cálculo produzca fracciones o decimales, el resultado
+se redondea hacia arriba al entero más cercano, salvo que una regla
+específica indique lo contrario.</p>
+<p>Aplica a:</p>
+<ul>
+<li>daño</li>
+<li>duraciones</li>
+<li>puntuaciones</li>
+<li>otros valores numéricos relevantes</li>
+</ul>
+<h2 id="regla-de-la-condición-más-fuerte">Regla de la Condición Más
+Fuerte</h2>
+<p>Cuando una criatura recibe múltiples bonificaciones o penalizaciones
+del mismo tipo, solo se aplica la más significativa.</p>
+<h3 id="aplicación">Aplicación</h3>
+<p>Si ya existe un efecto activo y llega uno nuevo del mismo tipo, se
+comparan magnitud e impacto. Prevalece el más significativo.</p>
+<h3 id="sobrescritura-de-efectos-existentes">Sobrescritura de Efectos
+Existentes</h3>
+<p>Si la nueva condición es más fuerte, o es igual de fuerte pero dura
+más, reemplaza la condición existente y su duración se reinicia desde la
+nueva aplicación.</p>
+<blockquote>
+<p>Thorgar recibe una penalización que reduce su velocidad de movimiento
+a la mitad durante 3 turnos. Luego recibe otra penalización del mismo
+tipo (−2 a velocidad de movimiento) durante 6 turnos. Se mantiene la
+condición más fuerte y la duración pasa a 6 turnos.</p>
+</blockquote>
+<h2 id="regla-para-el-manejo-de-herramientas">Regla para el Manejo de
+Herramientas</h2>
+<p>Las actividades de fabricación, reparación, refinamiento y
+especialización requieren herramientas específicas.</p>
+<h3 id="uso-de-herramientas-alternativas">Uso de Herramientas
+Alternativas</h3>
+<p>Si el personaje no posee las herramientas adecuadas, puede usar
+herramientas similares con mayor dificultad en la prueba.</p>
+<p>El Narrador evalúa la viabilidad de la sustitución para mantener
+coherencia narrativa.</p>
+<h2 id="ciclo-de-aventura">Ciclo de Aventura</h2>
+<p>Los Ciclos de Aventura estructuran la experiencia de juego sin
+microgestión excesiva. Cada fase indica qué ocurre y qué reglas se
+activan.</p>
+<h3 id="fase-de-exploración">Fase de Exploración</h3>
+<p>En esta fase, los jugadores exploran entornos, descubren misterios,
+buscan recursos e interactúan con el mundo.</p>
+<p>Comportamientos habituales:</p>
+<ul>
+<li>evaluación del entorno</li>
+<li>actividades de mantenimiento</li>
+<li>descanso y recuperación</li>
+<li>planificación y estrategia</li>
+</ul>
+<h3 id="fase-de-conflicto">Fase de Conflicto</h3>
+<p>En esta fase se resuelven encuentros de alto riesgo, combate y
+obstáculos tácticos.</p>
+<h4 id="términos">Términos</h4>
+<ul>
+<li><strong>Criatura</strong>: entidad que participa en el juego (PJ,
+PNJ o monstruo).</li>
+<li><strong>Personaje (PJ)</strong>: protagonista controlado por un
+jugador.</li>
+<li><strong>Personaje no jugador (PNJ)</strong>: figura controlada por
+el Narrador.</li>
+<li><strong>Monstruo</strong>: subtipo de PNJ con comportamiento
+instintivo o antinatural.</li>
+</ul>
+<h4 id="flujo-de-conflicto">Flujo de Conflicto</h4>
+<ol type="1">
+<li>El Narrador establece las condiciones del conflicto.</li>
+<li>Se establece la posición inicial de cada participante en la línea de
+tiempo ATB.</li>
+<li>Actúa la ficha más a la izquierda.</li>
+<li>La criatura activa revisa su estado, decide su intención y elige una
+acción.</li>
+<li>La criatura declara su intención.</li>
+<li>Se revisan reacciones posibles.</li>
+<li>Se resuelven interrupciones o respuestas.</li>
+<li>Se resuelve la acción principal.</li>
+<li>Se mueve la ficha hacia la derecha según el costo de ritmo de la
+acción.</li>
+<li>La nueva ficha más a la izquierda actúa a continuación. Se repite
+hasta que el conflicto termine.</li>
+</ol>
+<h3 id="fase-de-interludio">Fase de Interludio</h3>
+<p>Período extendido donde los personajes realizan actividades
+importantes fuera de escena detallada.</p>
+<p>Actividades frecuentes:</p>
+<ul>
+<li>creación y mejora de equipo</li>
+<li>recuperación y descanso</li>
+<li>gestión de recursos</li>
+<li>planificación y estrategia</li>
+<li>desarrollo personal y relaciones</li>
+</ul>
+<h1 id="sistema-de-tiradas-y-competencias">Sistema de Tiradas y
+Competencias</h1>
+<h2 id="sistema-de-tiradas">Sistema de Tiradas</h2>
+<p>El Sistema de Tiradas define cómo se determina el resultado de una
+acción, ya sea en combate, exploración o interacción social. Las tiradas
+utilizan un <code>d10</code> modificado por características,
+competencias, equipo y circunstancias.</p>
+<p>Los jugadores eligen cómo afrontar ciertas acciones mediante la
+Ventaja Evolutiva. Los NPCs y criaturas emplean un sistema simplificado
+acorde con su función narrativa.</p>
+<h2 id="ventaja-evolutiva">Ventaja Evolutiva</h2>
+<p>Para las tiradas de Ataque, Defensa y Especialización, los jugadores
+pueden elegir una de dos aproximaciones antes de tirar.</p>
+<h3 id="ventaja-en-la-ejecución">Ventaja en la Ejecución</h3>
+<p>El jugador lanza dos dados y escoge el resultado mayor. La
+posibilidad de aprendizaje derivada de esa tirada se pierde.</p>
+<h3 id="ventaja-en-el-aprendizaje">Ventaja en el Aprendizaje</h3>
+<p>El jugador lanza dos dados y utiliza el resultado menor para resolver
+la acción. El dado mayor se reserva para la tirada de aprendizaje. Si
+ese dado mayor supera la suma del dado menor y el rango de competencia
+correspondiente, el personaje marca un punto de progreso en esa
+competencia.</p>
+<h2 id="npcs-y-otras-criaturas">NPCs y otras criaturas</h2>
+<p>Los NPCs y monstruos no siguen necesariamente las mismas reglas de
+progresión que los personajes jugadores. En su lugar, cuentan con
+Rasgos, que representan ventajas, desventajas o capacidades especiales
+ligadas a su naturaleza, comportamiento, entorno, estado emocional o rol
+de combate.</p>
+<h2 id="tipos-de-tirada">Tipos de Tirada</h2>
+<p>Las fórmulas de este capítulo incluyen
+<strong>características</strong> como Agilidad, Fuerza, Tenacidad,
+Compostura y Resiliencia. Estos valores se definen y se asignan durante
+la creación del personaje, en el capítulo correspondiente. Aquí aparecen
+como componentes de las fórmulas de tirada.</p>
+<h3 id="tirada-de-ataque-t.a.">Tirada de Ataque (T.A.)</h3>
+<p>La Tirada de Ataque representa la capacidad del personaje para
+asestar un golpe efectivo con un arma, maniobra, habilidad u objeto. Se
+utiliza para impactar a un objetivo y superar su defensa, resistencia u
+otra tirada opuesta, según corresponda.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Ataque = 1d10 + Nivel de Competencia con arma/objeto + Característica asociada</code></p>
+<p>La competencia refleja el dominio técnico del personaje con el medio
+que emplea, mientras que la característica asociada representa la
+aptitud física, mental o marcial con la que ejecuta la acción.</p>
+<h3 id="tirada-de-defensa-t.d.">Tirada de Defensa (T.D.)</h3>
+<p>La Tirada de Defensa representa la capacidad del personaje para
+evitar un ataque entrante. Combina reflejos, movilidad, entrenamiento
+evasivo y protección proporcionada por la armadura.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Defensa = 1d10 + Nivel de Competencia Evasiva + Agilidad + Armadura</code></p>
+<p>Su objetivo es igualar o superar la tirada ofensiva del oponente para
+evitar el daño o los efectos adicionales del ataque.</p>
+<h3 id="tirada-de-impacto-t.i.">Tirada de Impacto (T.I.)</h3>
+<p>La Tirada de Impacto determina el daño real que se inflige al
+objetivo una vez que el ataque ha superado la defensa o la tirada
+opuesta correspondiente.</p>
+<p>En esta tirada, el rango de competencia define cuántos dados de daño
+puede aprovechar el personaje, mientras que la característica asociada y
+el grado del arma representan la calidad de la ejecución y la potencia
+del equipo utilizado.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Impacto = (Rango de Competencia × Daño del arma) + (Característica asociada × Grado del arma)</code></p>
+<h4 id="daño-de-arma">Daño de arma</h4>
+<p>El daño base del arma se expresa mediante su dado correspondiente:
+<code>d4</code>, <code>d6</code>, <code>d8</code>, <code>d10</code> o
+<code>d12</code>. Ese valor se multiplica por el rango de competencia
+del personaje con el arma empleada.</p>
+<h4 id="impacto-con-armas-sin-competencia">Impacto con armas sin
+competencia</h4>
+<p>Cuando un personaje utiliza un arma en la que no posee competencia,
+puede atacar, pero su capacidad de causar daño efectivo se reduce de
+forma considerable.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Impacto = ((1 × Daño del arma) + (Característica asociada × Grado)) / 2</code></p>
+<p>Esto representa una ejecución ineficiente y una menor capacidad para
+aprovechar correctamente el arma.</p>
+<h3 id="tirada-de-característica-t.c.">Tirada de Característica
+(T.C.)</h3>
+<p>La Tirada de Característica se utiliza cuando una acción depende
+principalmente de una aptitud general del personaje, como Fuerza,
+Agilidad, Tenacidad, Sabiduría o cualquier otra característica
+relevante.</p>
+<p>No representa entrenamiento específico, sino capacidad general
+aplicada a una situación concreta.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Característica = 1d10 + Característica + Nivel de Referencia + Bonificadores adicionales</code></p>
+<p>Se usa para resolver acciones que dependen de cualidades innatas o
+desarrolladas del personaje, especialmente cuando no interviene una
+competencia específica.</p>
+<h3 id="tirada-de-resistencia-t.r.">Tirada de Resistencia (T.R.)</h3>
+<p>La Tirada de Resistencia representa la capacidad del personaje para
+soportar o superar efectos perjudiciales como venenos, infecciones,
+aflicciones, maldiciones o alteraciones.</p>
+<p>La característica base depende del tipo de efecto enfrentado,
+mientras que la competencia en la resistencia correspondiente refleja la
+experiencia acumulada del personaje frente a ese peligro.</p>
+<p><strong>Fórmulas:</strong></p>
+<ul>
+<li>Resistencia a venenos o infecciones:
+<code>1d10 + Tenacidad + Resistencias + Bonificadores adicionales</code></li>
+<li>Resistencia a aflicciones o maldiciones:
+<code>1d10 + Compostura + Resistencias + Bonificadores adicionales</code></li>
+<li>Resistencia a alteraciones:
+<code>1d10 + Resiliencia + Resistencias + Bonificadores adicionales</code></li>
+</ul>
+<p>El objetivo es igualar o superar la dificultad del efecto para
+evitarlo, mitigarlo o reducir sus consecuencias.</p>
+<h3 id="tirada-de-especialización-t.e.">Tirada de Especialización
+(T.E.)</h3>
+<p>La Tirada de Especialización refleja el dominio del personaje en una
+habilidad concreta, como escalar, nadar, desactivar trampas o escapar de
+ataduras. A diferencia de una Tirada de Característica, aquí sí existe
+entrenamiento específico.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Especialización = 1d10 + Nivel de Competencia en la Especialización + Rango de Competencia + Característica asociada + Bonificadores adicionales</code></p>
+<p>El nivel de competencia representa la experiencia acumulada, mientras
+que el rango resume el grado general de dominio alcanzado en esa
+especialización.</p>
+<h3 id="tirada-de-rasgo-de-personalidad-t.p.">Tirada de Rasgo de
+Personalidad (T.P.)</h3>
+<p>Durante la exploración o el conflicto, un jugador puede proponer que
+uno de sus Rasgos de Personalidad influya de manera decisiva en la
+situación. Si el Narrador acepta la justificación, el personaje puede
+realizar una Tirada de Rasgo de Personalidad en lugar de una Tirada de
+Característica o de Especialización.</p>
+<p><strong>Fórmula:</strong></p>
+<p><code>Tirada de Rasgo de Personalidad = 2d10</code></p>
+<p>Esta tirada no depende de competencias, sino de la fuerza narrativa y
+psicológica del rasgo invocado.</p>
+<h2 id="competencias">Competencias</h2>
+<p>Las competencias representan el grado de dominio que un personaje
+posee en un campo específico. Algunas están orientadas al combate, otras
+a la supervivencia, otras al conocimiento o a destrezas concretas.</p>
+<p>Las competencias cumplen dos funciones:</p>
+<ul>
+<li>modifican tiradas</li>
+<li>permiten progresar a medida que el personaje las pone a prueba en
+situaciones relevantes</li>
+</ul>
+<p>Las competencias no sustituyen a las características: ambas operan
+juntas. Las características expresan el potencial del personaje; las
+competencias expresan cuánto ha entrenado, practicado o refinado ese
+potencial.</p>
+<h3 id="niveles-y-rangos-de-competencia">Niveles y rangos de
+competencia</h3>
+<p>Cada competencia posee un nivel y un rango.</p>
+<ul>
+<li>El nivel de competencia representa el progreso numérico
+acumulado.</li>
+<li>El rango de competencia representa el grado general de dominio
+alcanzado.</li>
+</ul>
+<p>Los rangos son:</p>
+<ul>
+<li>No Entrenado</li>
+<li>Novato</li>
+<li>Adepto</li>
+<li>Experto</li>
+<li>Maestro</li>
+</ul>
+<p>Se obtiene un nuevo rango cada 3 niveles de competencia.</p>
+<h3 id="competencias-iniciales">Competencias iniciales</h3>
+<p>El trasfondo del personaje determina con qué competencias comienza
+entrenado. Las competencias otorgadas por el trasfondo empiezan en nivel
+1, lo que equivale al rango Novato.</p>
+<p>Todas las demás competencias comienzan en nivel 0, por lo que el
+personaje se considera No Entrenado en ellas.</p>
+<h3 id="progresión-de-competencias">Progresión de competencias</h3>
+<p>Las competencias aumentan cuando el personaje las pone en juego de
+forma significativa y opta por una aproximación orientada al
+aprendizaje.</p>
+<p>Cada vez que un personaje utiliza Ventaja en el Aprendizaje en una
+T.A., T.D. o T.E., y cumple la condición de aprendizaje correspondiente,
+obtiene 1 punto de progreso en la competencia asociada.</p>
+<p>Además, las competencias defensivas o de resistencia pueden progresar
+al enfrentar peligros adecuados a su nivel, según el tipo de competencia
+de que se trate.</p>
+<p>Para subir un nivel de competencia se requieren:</p>
+<ul>
+<li>5 puntos de progreso en especializaciones de afinidad mayor.</li>
+<li>10 puntos de progreso en el resto de competencias.</li>
+</ul>
+<h3 id="pruebas-adecuadas-para-progresar">Pruebas adecuadas para
+progresar</h3>
+<p>No toda acción sirve para mejorar una competencia. Para que exista
+progreso, la situación debe representar un desafío apropiado.</p>
+<h4 id="competencias-marciales">Competencias marciales</h4>
+<p>Las competencias marciales progresan cuando el personaje se enfrenta
+a adversarios de dificultad adecuada y pone realmente en práctica su
+entrenamiento.</p>
+<p>En el caso de armas, el personaje debe atacar y golpear a criaturas
+cuyo nivel sea, al menos, igual a su nivel de referencia -1.</p>
+<h4 id="competencias-de-evasión-armadura-escudo-y-resistencias">Competencias
+de evasión, armadura, escudo y resistencias</h4>
+<p>Estas competencias progresan cuando el personaje se convierte en
+objetivo de peligros relevantes y logra resistirlos, mitigarlos o
+sobrevivirlos.</p>
+<h4 id="competencias-de-especialización">Competencias de
+especialización</h4>
+<p>Las especializaciones progresan solo cuando la dificultad de la
+prueba es coherente con el rango del personaje.</p>
+<ul>
+<li>Novato: puede progresar con pruebas de cualquier nivel.</li>
+<li>Adepto: progresa con pruebas de Fundamentos o superiores.</li>
+<li>Experto: progresa con pruebas Desafiantes o superiores.</li>
+<li>Maestro: progresa con pruebas Rigurosas o más altas.</li>
+</ul>
+<h2 id="tipos-de-competencias-y-sus-efectos">Tipos de competencias y sus
+efectos</h2>
+<h3 id="armas">Armas</h3>
+<p>Representan el dominio de un tipo de arma concreto.</p>
+<p><strong>Bonificadores</strong></p>
+<ul>
+<li>Cada nivel de competencia con un arma otorga <code>+1</code> a la
+T.A.</li>
+<li>Cada rango de competencia otorga <code>+1</code> adicional a la T.A.
+y un dado adicional a la T.I.</li>
+</ul>
+<p><strong>Progresión</strong></p>
+<p>La competencia en armas aumenta cuando el personaje impacta e inflige
+daño con éxito usando esa arma en enfrentamientos relevantes.</p>
+<h3 id="armaduras">Armaduras</h3>
+<p>Reflejan la capacidad del personaje para usar armaduras de forma
+eficiente.</p>
+<p><strong>Bonificadores</strong></p>
+<ul>
+<li>Cada nivel de competencia aumenta el bloqueo en 1.</li>
+<li>Alcanzar Maestro reduce en una categoría la penalización a la
+velocidad de movimiento.</li>
+</ul>
+<p><strong>Progresión</strong></p>
+<p>La competencia en armaduras aumenta cuando el personaje recibe un
+impacto y la armadura reduce efectivamente parte del daño.</p>
+<h3 id="escudos">Escudos</h3>
+<p>Representan el dominio técnico del uso de escudos en combate.</p>
+<p><strong>Bonificadores</strong></p>
+<ul>
+<li>Cada rango de competencia otorga acceso a maniobras adicionales
+según el tipo de escudo.</li>
+</ul>
+<p><strong>Progresión</strong></p>
+<p>La competencia en escudos aumenta cuando el personaje emplea
+maniobras marciales de escudo de forma efectiva.</p>
+<h3 id="evasión">Evasión</h3>
+<p>La evasión representa la habilidad del personaje para anticipar y
+evitar ataques.</p>
+<p><strong>Bonificadores</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.D.</li>
+<li>Cada rango de competencia otorga <code>+1</code> a la T.D.</li>
+</ul>
+<p><strong>Progresión</strong></p>
+<p>La evasión aumenta cuando el personaje evita con éxito ataques o
+peligros relevantes mediante su movilidad y reflejos.</p>
+<h3 id="especialización">Especialización</h3>
+<p>La competencia en especialización refleja el dominio técnico en una
+habilidad concreta.</p>
+<p><strong>Bonificadores</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.E.</li>
+<li>Cada rango de competencia otorga <code>+1</code> adicional a la
+T.E.</li>
+</ul>
+<p><strong>Progresión</strong></p>
+<p>La especialización aumenta al superar pruebas apropiadas para el
+rango actual del personaje.</p>
+<h3 id="resistencias">Resistencias</h3>
+<p>Las resistencias representan la capacidad del personaje para soportar
+tipos concretos de peligro. A diferencia de otras competencias, suelen
+desarrollarse a través de la exposición, la supervivencia y la
+adaptación.</p>
+<h4 id="daño-elemental">Daño elemental</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
+efectos producidos por daño elemental.</li>
+</ul>
+<h4 id="veneno">Veneno</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
+venenos.</li>
+</ul>
+<h4 id="infección">Infección</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
+infecciones.</li>
+</ul>
+<h4 id="aflicción">Aflicción</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la tirada
+correspondiente contra aflicciones.</li>
+<li>Cada rango de competencia otorga <code>+1</code> a las T.R de
+Aflicciones durante la meditación.</li>
+</ul>
+<h4 id="alteración">Alteración</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
+alteraciones.</li>
+</ul>
+<h4 id="maldiciones">Maldiciones</h4>
+<p><strong>Bonificador</strong></p>
+<ul>
+<li>Cada nivel de competencia otorga <code>+1</code> a la tirada
+correspondiente para detectar o resistir maldiciones.</li>
+</ul>
+<h2 id="nivel-de-referencia">Nivel de Referencia</h2>
+<p>El Nivel de Referencia (NR) es un valor derivado que resume la
+competencia global de un personaje. No se elige ni se asigna
+directamente — emerge del conjunto de competencias que el personaje ha
+desarrollado.</p>
+<h3 id="nr-de-personaje">NR de Personaje</h3>
+<p>El NR de un personaje se calcula como el promedio redondeado hacia
+arriba de todas sus competencias base:</p>
+<p><code>NRₚ = ⌈promedio de todas las competencias iniciales del personaje⌉</code></p>
+<p>Se incluyen todas las competencias listadas en la hoja del personaje
+con un valor inicial distinto de “—”.</p>
+<h3 id="nr-de-grupo">NR de Grupo</h3>
+<p>Cuando el encuentro involucra a varios personajes jugadores, el NR
+del grupo es:</p>
+<p><code>NRg = ⌈promedio de los NRₚ de todos los PJ activos en el encuentro⌉</code></p>
+<p>El Narrador usa el NR de grupo para escalar criaturas, fijar
+dificultades base y comparar fuerzas entre bandos sin tener que
+consultar cada competencia individual.</p>
+<h3 id="actualización-del-nr">Actualización del NR</h3>
+<p>El NRₚ puede revisarse cuando:</p>
+<ul>
+<li>el personaje gana nuevas competencias</li>
+<li>suben varios rangos en competencias relevantes</li>
+<li>al inicio de un arco o episodio</li>
+</ul>
+<p>No es necesario recalcularlo en cada sesión.</p>
+<h3 id="nr-en-la-tirada-de-característica">NR en la Tirada de
+Característica</h3>
+<p>El NR entra directamente en la Tirada de Característica. Representa
+que, a medida que el personaje se vuelve más competente en general,
+también mejora su capacidad de respuesta en situaciones que dependen de
+aptitudes generales y no de entrenamiento específico. Un personaje más
+capaz globalmente es también más capaz en lo que no ha entrenado a
+fondo.</p>
+<hr />
+<h2 id="relación-entre-tiradas-y-competencias">Relación entre tiradas y
+competencias</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Tirada</th>
+<th>Competencia utilizada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T.A.</td>
+<td>competencia del arma u objeto empleado</td>
+</tr>
+<tr>
+<td>T.D.</td>
+<td>Evasión</td>
+</tr>
+<tr>
+<td>T.I.</td>
+<td>rango de competencia del arma (factor principal)</td>
+</tr>
+<tr>
+<td>T.C.</td>
+<td>ninguna por defecto — reglas específicas pueden agregar
+bonificadores</td>
+</tr>
+<tr>
+<td>T.R.</td>
+<td>resistencia correspondiente al tipo de efecto</td>
+</tr>
+<tr>
+<td>T.E.</td>
+<td>competencia de la especialización implicada</td>
+</tr>
+<tr>
+<td>T.P.</td>
+<td>ninguna</td>
+</tr>
+</tbody>
+</table>
 <h1 id="creación-de-personaje">Creación de Personaje</h1>
 <p>La creación de personaje es el proceso mediante el cual defines quién
 es tu personaje, de dónde proviene y qué capacidades ha desarrollado
-antes del inicio de la aventura. En este sistema, un personaje no se
-construye únicamente a partir de números, sino de la relación entre su
-naturaleza, su experiencia y la forma en que ambas han moldeado su
-cuerpo, mente y conducta.</p>
+antes del inicio de la aventura. Un personaje no se construye únicamente
+a partir de números, sino de la relación entre su naturaleza, su
+experiencia y la forma en que ambas han moldeado su cuerpo, mente y
+conducta.</p>
 <p>Todo personaje surge de la combinación de tres elementos
 fundamentales: su especie, que determina su base biológica y cultural;
 su trasfondo, que representa la vida que llevó antes de convertirse en
@@ -488,8 +1069,7 @@ se aplican los efectos que estas tienen sobre sus características.
 Finalmente, se calculan sus atributos derivados, se eligen sus rasgos de
 personalidad y se registran los atributos adicionales otorgados por su
 especie.</p>
-<p>Este proceso no solo sirve para preparar una ficha, sino para dar
-forma a una identidad jugable coherente. Un personaje no es solo alguien
+<p>Este proceso no solo llena una ficha. Un personaje no es solo alguien
 con ciertos valores, sino una criatura con herencia, hábitos,
 fortalezas, limitaciones y una historia previa que explica por qué es
 capaz de hacer lo que hace.</p>
@@ -505,8 +1085,8 @@ acorde con su pasado, especializaciones coherentes con su experiencia y
 rasgos de personalidad que reflejen su manera de pensar y actuar. Cuanto
 más claro sea el concepto, más fácil será construir un personaje sólido
 y consistente.</p>
-<p>Un buen concepto suele incluir tres elementos: una identidad general,
-una motivación y una forma de relacionarse con el mundo. La identidad
+<p>Un concepto incluye tres elementos: una identidad general, una
+motivación y una forma de relacionarse con el mundo. La identidad
 general define qué tipo de figura representa el personaje. La motivación
 expresa qué lo empuja a actuar. La forma de relacionarse con el mundo
 ayuda a entender cómo enfrenta el peligro, la incertidumbre, los demás y
@@ -520,15 +1100,12 @@ aunque ambos puedan terminar compartiendo algunas capacidades físicas.
 Del mismo modo, dos personajes con el mismo trasfondo pueden sentirse
 completamente distintos si sus motivaciones, temperamento y visión del
 mundo no son las mismas.</p>
-<p>También es importante que el concepto encaje con el tono de la
-campaña y con la clase de historia que el grupo quiere contar. Un
-personaje puede ser extraño, complejo o contradictorio, pero debe seguir
-sintiéndose parte del mismo mundo que los demás. El concepto ideal no
-solo explica quién es el personaje, sino también por qué tiene sentido
-que forme parte de la aventura.</p>
-<p>Si lo deseas, puedes resumir tu concepto en una sola frase antes de
-continuar. Esa frase no reemplaza la historia del personaje, pero sí
-sirve como guía durante todo el proceso de creación.</p>
+<p>El concepto debe encajar con el tono de la campaña y con la clase de
+historia que el grupo quiere contar. Un personaje puede ser extraño,
+complejo o contradictorio, pero debe seguir sintiéndose parte del mismo
+mundo que los demás. El concepto ideal no solo explica quién es el
+personaje, sino también por qué tiene sentido que forme parte de la
+aventura.</p>
 <h2 id="características-base">Características Base</h2>
 <p>Las características base representan los pilares fundamentales del
 personaje. Expresan sus aptitudes físicas, mentales y sociales antes de
@@ -548,7 +1125,7 @@ Sociales.</p>
 para ejercer fuerza de manera efectiva sobre el entorno. Influye en
 acciones como levantar peso, derribar obstáculos, sujetar, empujar o
 golpear con potencia. Un personaje con alta Fuerza puede imponerse
-mediante el vigor bruto y aprovechar mejor las armas o maniobras que
+mediante la potencia bruta y aprovechar mejor las armas o maniobras que
 dependen del poder físico.</p>
 <h4 id="agilidad">Agilidad</h4>
 <p>La Agilidad refleja la coordinación, la rapidez de reacción y la
@@ -671,11 +1248,12 @@ características</h3>
 específicas. Estos aumentos representan la base innata del personaje y
 son la primera fuente de desarrollo de sus características, antes de
 aplicar la Sinapsis derivada de las especializaciones.</p>
-<h3 id="vigor-u-otros-valores-iniciales-equivalentes">Vigor u otros
-valores iniciales equivalentes</h3>
+<h3 id="otros-valores-iniciales-equivalentes">Otros valores iniciales
+equivalentes</h3>
 <p>Algunas especies pueden otorgar valores iniciales adicionales ligados
-a sus capacidades naturales, como niveles o rangos de competencia
-específicos.</p>
+a sus capacidades naturales, como competencias específicas, sentidos
+especializados o rasgos innatos fuera de las características
+básicas.</p>
 <h3 id="herencia">Herencia</h3>
 <p>La herencia representa una vulnerabilidad, limitación o marca
 ancestral que acompaña a la especie. No es una debilidad accidental,
@@ -828,152 +1406,6 @@ activan de inmediato la Sinapsis correspondiente y aumentan la
 característica asociada a cada especialización elegida. Así, el
 trasfondo participa directamente en la formación de las características
 finales del personaje y no se limita a definir su progreso futuro.</p>
-<h2 id="especializaciones">Especializaciones</h2>
-<p>Las especializaciones son habilidades específicas que un personaje
-puede desarrollar a lo largo de su vida. Estas habilidades reflejan
-tanto el conocimiento teórico como la destreza práctica, permitiendo a
-los personajes desempeñarse en diversas áreas de competencia. Las
-especializaciones se dividen en varias categorías principales que
-abarcan diferentes aspectos de la vida y la aventura, desde habilidades
-físicas y mentales hasta sociales, oficios, artes y saberes.</p>
-<h3 id="habilidades-físicas">Habilidades Físicas</h3>
-<p>Las habilidades físicas son aquellas que requieren destreza corporal,
-fuerza, agilidad y control físico. Estas habilidades se desarrollan a
-través del entrenamiento constante y la práctica intensiva, permitiendo
-a los personajes realizar tareas que requieren un alto grado de
-condición física y coordinación. Son esenciales para la supervivencia en
-entornos hostiles, la realización de maniobras acrobáticas y el
-desempeño en combates.</p>
-<h3 id="habilidades-mentales">Habilidades Mentales</h3>
-<p>Las habilidades mentales abarcan el intelecto, la sabiduría y la
-astucia. Estas habilidades se basan en la capacidad del personaje para
-pensar críticamente, analizar información y aplicar conocimientos
-teóricos a situaciones prácticas. El desarrollo de estas habilidades
-implica el estudio, la observación y la práctica intelectual, siendo
-cruciales para la resolución de problemas complejos, la identificación
-de patrones y la toma de decisiones informadas.</p>
-<h3 id="habilidades-sociales-y-emocionales">Habilidades Sociales y
-Emocionales</h3>
-<p>Las habilidades sociales y emocionalesestán centradas en la
-interacción y comunicación efectiva con otros. Estas habilidades son
-esenciales para liderar, persuadir, engañar y negociar, permitiendo a
-los personajes influir en las decisiones y comportamientos de los demás.
-Desarrollar habilidades sociales implica la práctica de técnicas de
-comunicación, la comprensión de la dinámica social y la capacidad de
-manejar las relaciones interpersonales.</p>
-<h3 id="artes-y-oficios">Artes y Oficios</h3>
-<p>Los oficios y las artes son especializaciones que combinan tanto el
-conocimiento teórico como la habilidad práctica. Los oficios incluyen
-habilidades técnicas y manuales como la herrería y la carpintería,
-mientras que las artes abarcan expresiones creativas como la música, la
-pintura y la danza. Estas habilidades se desarrollan a través del
-aprendizaje formal, la práctica intensiva y la experimentación creativa,
-permitiendo a los personajes crear, construir y diseñar.</p>
-<h3 id="saberes">Saberes</h3>
-<p>Los saberes representan el conocimiento profundo y especializado en
-diversas áreas de estudio. Estas especializaciones abarcan disciplinas
-académicas y científicas como la alquimia, la medicina y la astronomía.
-El desarrollo de los saberes implica el estudio detallado, la
-investigación y la aplicación práctica de teorías y principios,
-proporcionando a los personajes una comprensión avanzada de los temas y
-la capacidad de innovar y descubrir nuevos conocimientos.</p>
-<h3 id="habilidades-fisicas">Habilidades Fisicas</h3>
-<h3 id="saltar">Saltar</h3>
-<p>La especialización en Saltar implica el uso de fuerza y técnica para
-lanzarse al aire desde una posición elevada o con impulso, con el
-objetivo de superar distancias horizontales o verticales. Los personajes
-deben calcular cuidadosamente la distancia, el impulso y la fuerza
-necesarios para realizar saltos exitosos, adaptándose a las condiciones
-del entorno. Esta especialización es clave para aquellos que desean
-superar obstáculos físicos, ya sea en combate o durante la
-exploración.</p>
-<h3 id="salto-horizontal">Salto Horizontal</h3>
-<p>Realizar un salto hacia adelante para cubrir una distancia
-horizontal. Requiere calcular el impulso necesario para aterrizar con
-seguridad en la posición deseada. Esta habilidad es útil para atravesar
-fosos, alcanzar plataformas o escapar de peligros.</p>
-<p>Situaciones: Saltar sobre fosos, superar obstáculos como grietas o
-abismos, alcanzar posiciones elevadas en combate.</p>
-<h3 id="salto-vertical">Salto Vertical</h3>
-<p>Saltar hacia arriba para superar obstáculos verticales o alcanzar
-lugares elevados. Esta habilidad requiere un gran control de la fuerza y
-la técnica para elevar el cuerpo en el aire.</p>
-<p>Situaciones: Escalar muros bajos, alcanzar repisas o ramas de
-árboles, saltar para agarrarse a salientes.</p>
-<h3 id="salto-de-precisión">Salto de Precisión</h3>
-<p>La capacidad para calcular y ejecutar un salto con alta precisión,
-asegurando un aterrizaje en áreas reducidas o peligrosas. Es crucial
-cuando el margen de error es mínimo.</p>
-<p>Situaciones: Saltar entre piedras en un río, aterrizar en salientes
-estrechos, moverse rápidamente entre espacios reducidos.</p>
-<h3 id="salto-con-obstáculos">Salto con Obstáculos</h3>
-<p>Realizar un salto que implica esquivar o superar obstáculos en el
-camino. Requiere un ajuste dinámico en el aire y coordinación para
-evitar colisiones.</p>
-<p>Situaciones: Saltar a través de ramas bajas, esquivar trampas en el
-aire, atravesar un campo de batalla.</p>
-<h3 id="salto-de-potencia">Salto de Potencia</h3>
-<p>Ejecutar un salto que combina fuerza bruta y técnica avanzada para
-cubrir distancias significativas o realizar saltos más altos de lo
-normal.</p>
-<p>Situaciones: Saltar desde una posición en movimiento, realizar un
-salto extremo para cruzar un gran abismo, saltar con carga pesada o con
-armadura.</p>
-<h3 id="tipos-de-saltos">Tipos de saltos</h3>
-<table>
-<thead>
-<tr>
-<th>Salto</th>
-<th>Prueba de Salto</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Horizontal</td>
-<td>2/mt</td>
-</tr>
-<tr>
-<td>Vertical</td>
-<td>2/medio mt</td>
-</tr>
-</tbody>
-</table>
-<h3 id="penalizadores-al-realizar-saltos">Penalizadores al realizar
-saltos</h3>
-<p>Los modificadores a escalar pueden ser aditivos según el caso.</p>
-<table>
-<thead>
-<tr>
-<th>Situación</th>
-<th>Penalización</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Armadura pesada</td>
-<td>-(Grado de la Pieza + 1)</td>
-</tr>
-<tr>
-<td>Armadura intermedia</td>
-<td>-(Grado de la Pieza)</td>
-</tr>
-<tr>
-<td>Terreno liso</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>Fatiga</td>
-<td>-1 por nivel de Fatiga</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>Característica relacionada: Fuerza.</li>
-<li>Genera reacción: No.</li>
-<li>Dificultad de la prueba: Dificultad del entorno.</li>
-<li>Reintentos: Según situación.</li>
-<li>Tipo: Activa.</li>
-</ul>
 <h2 id="escoger-especializaciones-iniciales">Escoger Especializaciones
 Iniciales</h2>
 <p>Las especializaciones representan los campos concretos en los que el
@@ -1019,25 +1451,39 @@ creación la Sinapsis correspondiente y otorgan un aumento a su
 característica asociada. Esto convierte a las especializaciones en una
 pieza fundamental de la construcción del personaje, ya que no solo
 definen lo que sabe hacer, sino también cómo su experiencia previa ha
-moldeado sus capacidades generales. Esta idea ya está insinuada en tu
-material cuando presentas que las especializaciones pertenecen a
-categorías concretas y que el trasfondo concede tres de inicio.</p>
+moldeado sus capacidades generales.</p>
 <p>En esta etapa no es necesario detallar todas las reglas particulares
 de cada especialización. Esas descripciones completas se encuentran en
 el capítulo correspondiente. Durante la creación, basta con elegir tres
 opciones válidas según el trasfondo, anotar que comienzan en Nivel 1 /
 Rango 1, registrar su característica asociada y aplicar la Sinapsis que
 generan.</p>
+<h2 id="especialización-universal-inicial-vigor">Especialización
+universal inicial: Vigor</h2>
+<p>Además de las tres especializaciones iniciales otorgadas por el
+trasfondo, todo personaje comienza con la especialización Vigor en Nivel
+1 / Rango 1.</p>
+<p>Esto refleja una realidad básica del mundo: sobrevivir en este
+entorno exige una base mínima de resistencia física, adaptación al
+esfuerzo y tolerancia a condiciones adversas. Incluso antes de
+convertirse en aventurero, toda criatura jugable ha debido desarrollar
+al menos un grado elemental de vigor para subsistir.</p>
+<p>Como Vigor es una especialización asociada a Tenacidad, su rango
+inicial también activa de inmediato la Sinapsis correspondiente.</p>
+<p>Por ello, salvo que una regla específica indique lo contrario, todo
+personaje obtiene al menos +1 en Tenacidad por su Vigor inicial.</p>
+<p>Este aumento no reemplaza los bonificadores otorgados por la especie.
+Si la especie del personaje también otorga un aumento a Tenacidad, ambos
+valores se acumulan.</p>
 <h2 id="relación-entre-trasfondo-y-especializaciones-iniciales">Relación
 entre trasfondo y especializaciones iniciales</h2>
 <p>Tu trasfondo no solo define qué categorías puedes escoger al inicio,
 sino también en qué área aprenderás más rápido en el futuro. La
 categoría favorecida por tu trasfondo se considera tu afinidad mayor, y
 las especializaciones que pertenezcan a ella requerirán menos progreso
-para subir de nivel. De esta manera, las especializaciones iniciales no
-son una elección aislada: forman parte de una estructura mayor que
-conecta la historia previa del personaje con su desarrollo
-posterior.</p>
+para subir de nivel. Las especializaciones iniciales no son una elección
+aislada: forman parte de una estructura mayor que conecta la historia
+previa del personaje con su desarrollo posterior.</p>
 <h3 id="importante-1">Importante</h3>
 <p>La lista completa de especializaciones, junto con sus usos,
 situaciones comunes, penalizadores, dificultades y reglas particulares,
@@ -1048,9 +1494,7 @@ sus efectos básicos.</p>
 <p>La Sinapsis representa la forma en que la práctica moldea al
 personaje. Mientras la especie define su base natural, la Sinapsis
 expresa cómo el entrenamiento, la repetición y la experiencia han
-fortalecido ciertas áreas de su cuerpo, mente o conducta. En otras
-palabras, la Sinapsis es el vínculo entre lo que el personaje ha hecho y
-en lo que se ha convertido.</p>
+fortalecido ciertas áreas de su cuerpo, mente o conducta.</p>
 <p>Cada especialización está asociada a una característica concreta.
 Cuando una especialización alcanza un nuevo rango, el personaje obtiene
 un aumento permanente en la característica asociada a esa
@@ -1059,10 +1503,13 @@ habilidad no solo mejora la ejecución de esa tarea, sino que transforma
 al personaje en un nivel más profundo.</p>
 <p>La Sinapsis se aplica tanto durante la creación del personaje como a
 lo largo de su progresión. Durante la creación, esto ocurre
-inmediatamente después de escoger las especializaciones iniciales, ya
-que todas ellas comienzan en Nivel 1 / Rango 1. Por ello, cada
-especialización inicial elegida otorga desde el principio un aumento de
-+1 a su característica asociada.</p>
+inmediatamente después de registrar las especializaciones iniciales.
+Esto incluye tanto las especializaciones elegidas mediante el trasfondo
+como la especialización universal inicial Vigor, que también comienza en
+Nivel 1 / Rango 1.</p>
+<p>Por ello, cada especialización inicial registrada otorga desde el
+principio un aumento de +1 a su característica asociada, incluida Vigor,
+que aporta +1 a Tenacidad.</p>
 <h2 id="regla-general-de-sinapsis">Regla general de Sinapsis</h2>
 <p>Cada vez que una especialización alcanza un nuevo rango, el personaje
 obtiene:</p>
@@ -1103,14 +1550,12 @@ del personaje. Una parte proviene de su naturaleza; la otra, de su
 desarrollo.</p>
 <h2 id="importancia-de-la-sinapsis">Importancia de la Sinapsis</h2>
 <p>La Sinapsis cumple una función central en la creación y progresión
-del personaje. Gracias a ella, las especializaciones no son solo una
-lista de habilidades aisladas, sino la fuente directa del crecimiento de
-las características. Esto hace que el personaje evolucione de forma
-orgánica: cuanto más practica, más cambia.</p>
-<p>En este sistema, un personaje no mejora sus características de forma
-arbitraria ni por aumentos separados de su experiencia. Mejora porque ha
-vivido, entrenado, fallado, aprendido y repetido. La Sinapsis es la
-expresión mecánica de ese proceso.</p>
+del personaje. Las especializaciones no son solo una lista de
+habilidades aisladas — son la fuente directa del crecimiento de las
+características.</p>
+<p>Un personaje no mejora sus características de forma arbitraria ni por
+aumentos separados de su experiencia. Mejora porque ha vivido,
+entrenado, fallado, aprendido y repetido.</p>
 <h2 id="calcular-atributos-derivados">Calcular Atributos Derivados</h2>
 <p>Una vez hayas aplicado los aumentos otorgados por la especie y por la
 Sinapsis de tus especializaciones iniciales, ya puedes calcular los
@@ -1133,6 +1578,7 @@ personaje con alta Preparación detecta con mayor facilidad el ritmo de
 una situación y está mejor preparado para responder a ella.</p>
 <p>Fórmula:</p>
 <p>Preparación = (Agilidad + Astucia + Compostura)/3</p>
+<p>Valor mínimo: 1.</p>
 <h3 id="resiliencia">Resiliencia</h3>
 <p>La Resiliencia representa la capacidad del personaje para resistir y
 recuperarse de alteraciones adversas. Es una medida de equilibrio
@@ -1143,6 +1589,7 @@ corporal, sino también la capacidad de mantenerse entero frente al
 deterioro o la perturbación.</p>
 <p>Fórmula:</p>
 <p>Resiliencia = (Tenacidad + Sabiduría + Compostura)/3</p>
+<p>Valor mínimo: 1.</p>
 <h2 id="cuándo-se-calculan">Cuándo se calculan</h2>
 <p>La Preparación y la Resiliencia deben calcularse después de haber
 determinado las características finales del personaje. Como ambas
@@ -1167,9 +1614,8 @@ claridad desde la creación del personaje.</p>
 características que los componen. Cada vez que una característica
 relevante se modifique de forma permanente, debes recalcular cualquier
 atributo derivado que dependa de ella.</p>
-<p>De este modo, los atributos derivados se mantienen como una expresión
-viva del desarrollo del personaje y no como valores estáticos separados
-de su evolución.</p>
+<p>Los atributos derivados no son valores fijos — siguen el crecimiento
+de las características.</p>
 <h2 id="ejemplo-breve">Ejemplo breve</h2>
 <p>Supón que, después de aplicar especie y Sinapsis, un personaje tiene
 los siguientes valores:</p>
@@ -1177,7 +1623,7 @@ los siguientes valores:</p>
 <p>Entonces sus atributos derivados serían:</p>
 <p>Preparación = (2 + 1 + 1)/3 = 2 (redondeando hacia arriba)
 Resiliencia = (2 + 1 + 1)/3 = 2 (redondeando hacia arriba)</p>
-<p>Así, ambos atributos expresan una síntesis de varias capacidades del
+<p>Ambos atributos expresan una síntesis de varias capacidades del
 personaje, no una aptitud aislada.</p>
 <h2 id="elegir-rasgos-de-personalidad">Elegir Rasgos de
 Personalidad</h2>
@@ -1188,18 +1634,34 @@ ante el mundo. Esto se representa mediante sus Rasgos de
 Personalidad.</p>
 <p>Los rasgos de personalidad no describen lo que el personaje puede
 hacer, sino la manera en que tiende a comportarse, interpretar lo que
-ocurre y responder a distintas situaciones. Son la expresión más directa
+ocurre y responder a distintas situaciones. Son la expresión más clara
 de su temperamento, sus hábitos emocionales y su forma de relacionarse
-con los demás y consigo mismo. En conjunto, ayudan a que el personaje no
-sea solo una suma de capacidades, sino una identidad coherente dentro de
-la ficción.</p>
+con los demás y consigo mismo.</p>
 <p>Además de su valor narrativo, los rasgos de personalidad también
 tienen una función mecánica. En determinadas situaciones, un rasgo puede
 sustituir una tirada de especialización o de característica si el
 jugador describe de forma convincente cómo ese rasgo influye en la
-escena actual y el Narrador acepta la justificación. Esto permite que la
-personalidad del personaje no sea un elemento decorativo, sino una parte
-activa de la resolución del juego.</p>
+escena actual y el Narrador acepta la justificación. La personalidad no
+es un elemento decorativo — es una vía legítima de resolución de
+acciones.</p>
+<h2 id="cómo-abordar-este-paso">Cómo abordar este paso</h2>
+<p>Hay dos formas de elegir los rasgos de personalidad.</p>
+<h3 id="opción-estructurada">Opción estructurada</h3>
+<p>Elige un rasgo para cada uno de los cinco factores descritos más
+adelante, junto con su intensidad (alta o baja). Esta opción da forma a
+un perfil psicológico coherente y estructurado.</p>
+<h3 id="opción-libre">Opción libre</h3>
+<p>Elige directamente cinco rasgos que sientas que definen a tu
+personaje, sin asignarlos a ningún factor ni indicar intensidad. Pueden
+ser palabras o frases cortas: <em>inquieto, analítico, leal, impulsivo,
+sombrío</em>.</p>
+<p>Esta opción es más rápida y funciona igual de bien. Los rasgos siguen
+teniendo función mecánica: cualquiera puede invocar una Tirada de Rasgo
+de Personalidad si el jugador describe cómo influye en la escena y el
+Narrador acepta la justificación.</p>
+<p>La lista completa de rasgos sugeridos se encuentra en el capítulo
+Rasgos de Personalidad. También puedes crear los tuyos propios si se
+ajustan al concepto del personaje.</p>
 <h2 id="los-cinco-factores">Los cinco factores</h2>
 <p>Cada personaje debe elegir un rasgo de personalidad para cada uno de
 los cinco factores que estructuran su perfil psicológico:</p>
@@ -1355,7 +1817,7 @@ encontrarse:</p>
 <li>velocidad de movimiento</li>
 <li>herencia</li>
 <li>legado</li>
-<li>vigor u otros valores iniciales equivalentes</li>
+<li>otros valores iniciales equivalentes</li>
 <li>ataques corporales o armas naturales</li>
 <li>variante, si la especie posee una</li>
 <li>cualquier capacidad especial adicional indicada en la descripción de
@@ -1381,478 +1843,1126 @@ personaje</h2>
 </ul>
 <p>Con esto, la creación de personaje queda completa y tu personaje está
 listo para entrar en juego.</p>
-<h1 id="reglas-generales">Reglas Generales</h1>
-<h2 id="sistema-de-dados">Sistema de Dados</h2>
-<p>El juego utiliza principalmente un sistema de dados d10 para la
-mayoria de las tiradas. Este sistema se centra en el uso de uno o dos
-dados de diez caras para determinar el exito o fracaso de las acciones
-de los personajes.</p>
-<h2 id="materiales-necesarios">Materiales Necesarios</h2>
-<h3 id="dados">Dados</h3>
+<h1 id="acciones">Acciones</h1>
+<p>En combate y en escenas de alta presión, todo lo que un personaje
+hace tiene un lugar y un costo dentro del flujo temporal. No todas las
+acciones ocupan ese lugar de la misma manera.</p>
+<p>Algunas exigen compromiso total y alteran el ritmo del personaje.
+Otras ocurren como respuesta a un peligro inmediato. Otras son tan
+breves que no justifican por sí solas un costo de tiempo o esfuerzo.</p>
+<p>Las acciones se dividen en tres tipos:</p>
 <ul>
-<li>1d4: dado tetraedrico, usado para resultados de bajo rango o danos
-menores.</li>
-<li>1d6: dado cubico clasico, usado para resultados moderados.</li>
-<li>1d8: dado octaedrico, usado para resultados y danos
-intermedios.</li>
-<li>1d10: dado decaedrico, usado para la mayoria de las tiradas del
-juego.</li>
-<li>1d12: dado dodecaedrico, usado para resultados y danos altos.</li>
-<li>1d20: dado icosaedrico, usado principalmente para tiradas asociadas
-a salud de criaturas.</li>
+<li><strong>Acciones Activas</strong></li>
+<li><strong>Reacciones</strong></li>
+<li><strong>Acciones Gratuitas</strong></li>
 </ul>
-<h3 id="hojas-de-personaje">Hojas de Personaje</h3>
-<p>Documentos para registrar estadisticas, habilidades, equipo y
-progresion de cada personaje.</p>
-<h3 id="tokens">Tokens</h3>
-<p>Fichas o marcadores para representar personajes, criaturas y
-elementos importantes en tablero o mapa.</p>
-<h2 id="regla-de-especificidad-sobre-generalidad">Regla de Especificidad
-sobre Generalidad</h2>
-<p>Si existe conflicto entre una regla especifica y una regla general,
-la regla especifica prevalece.</p>
-<h3 id="ejemplo">Ejemplo</h3>
-<p>Si una habilidad define su duracion como Nivel / 2 (redondeado hacia
-abajo), esta especificacion anula la regla general de redondeo hacia
-arriba.</p>
-<h2 id="regla-de-flexibilidad-narrativa">Regla de Flexibilidad
-Narrativa</h2>
-<p>El Narrador puede adaptar, modificar u omitir reglas para enriquecer
-la narrativa y mantener una experiencia fluida para la mesa.</p>
-<p>Estas modificaciones deben ser:</p>
+<p>Esta división no reemplaza al ATB. Existe para aclarar cómo entra
+cada tipo de acción dentro del flujo temporal del combate.</p>
+<hr />
+<h2 id="acciones-activas">Acciones Activas</h2>
+<p>Las Acciones Activas son aquellas que un personaje realiza de forma
+deliberada durante su activación normal en la línea de tiempo ATB.
+Representan lo que el personaje dedica su cuerpo, su atención o su
+intención principal en ese momento.</p>
+<p>Una Acción Activa:</p>
 <ul>
-<li>justas</li>
-<li>consistentes</li>
-<li>transparentes</li>
+<li>ocurre durante la activación normal del personaje</li>
+<li>tiene un costo de ritmo que desplaza su ficha en la línea de
+tiempo</li>
+<li>puede generar Desgaste</li>
+<li>altera de forma clara la situación de la escena</li>
 </ul>
-<p>El objetivo es priorizar coherencia, colaboracion y disfrute de los
-jugadores sobre una aplicacion rigida del reglamento.</p>
-<h2 id="regla-de-redondeo">Regla de Redondeo</h2>
-<p>Siempre que un calculo produzca fracciones o decimales, el resultado
-se redondea hacia arriba al entero mas cercano, salvo que una regla
-especifica indique lo contrario.</p>
-<p>Aplica a:</p>
+<p>Son la forma más común de actuar en combate y en escenas de alta
+presión.</p>
+<hr />
+<h2 id="reacciones">Reacciones</h2>
+<p>Las Reacciones son acciones permitidas por un disparador. No ocurren
+porque haya llegado la activación natural del personaje, sino porque
+algo en la escena ofrece — o exige — una respuesta inmediata.</p>
+<p>Una Reacción puede usarse para:</p>
 <ul>
-<li>dano</li>
-<li>duraciones</li>
-<li>puntuaciones</li>
-<li>otros valores numericos relevantes</li>
+<li>interrumpir una acción entrante</li>
+<li>protegerse o cubrir a otro personaje</li>
+<li>desviar un ataque</li>
+<li>aprovechar un error o una apertura del enemigo</li>
+<li>responder a una amenaza inminente</li>
 </ul>
-<h2 id="regla-de-la-condicion-mas-fuerte">Regla de la Condicion Mas
-Fuerte</h2>
-<p>Cuando una criatura recibe multiples bonificaciones o penalizaciones
-del mismo tipo, solo se aplica la mas significativa.</p>
-<h3 id="aplicacion">Aplicacion</h3>
-<p>Si ya existe un efecto activo y llega uno nuevo del mismo tipo, se
-comparan magnitud e impacto. Prevalece el mas significativo.</p>
-<h3 id="sobrescritura-de-efectos-existentes">Sobrescritura de Efectos
-Existentes</h3>
-<p>Si la nueva condicion es mas fuerte, o es igual de fuerte pero dura
-mas, reemplaza la condicion existente y su duracion se reinicia desde la
-nueva aplicacion.</p>
-<h3 id="ejemplo-1">Ejemplo</h3>
-<p>Thorgar recibe una penalizacion que reduce su velocidad de movimiento
-a la mitad durante 3 turnos. Luego recibe otra penalizacion del mismo
-tipo (-2 a velocidad de movimiento) durante 6 turnos. Se mantiene la
-condicion mas fuerte y la duracion pasa a 6 turnos.</p>
-<h2 id="regla-para-el-manejo-de-herramientas">Regla para el Manejo de
-Herramientas</h2>
-<p>Las actividades de fabricacion, reparacion, refinamiento y
-especializacion requieren herramientas especificas.</p>
-<h3 id="uso-de-herramientas-alternativas">Uso de Herramientas
-Alternativas</h3>
-<p>Si el personaje no posee las herramientas adecuadas, puede usar
-herramientas similares con mayor dificultad en la prueba.</p>
-<p>El Narrador evalua la viabilidad de la sustitucion para mantener
-coherencia narrativa.</p>
-<h2 id="ciclo-de-aventura">Ciclo de Aventura</h2>
-<p>Los Ciclos de Aventura estructuran la experiencia de juego sin
-microgestion excesiva. Cada fase indica que ocurre y que reglas se
-activan.</p>
-<h3 id="fase-de-exploracion">Fase de Exploracion</h3>
-<p>En esta fase, los jugadores exploran entornos, descubren misterios,
-buscan recursos e interactuan con el mundo.</p>
-<p>Comportamientos habituales:</p>
+<p><strong>Las Reacciones no son gratuitas.</strong></p>
+<p>Aunque ocurran fuera de la activación natural del personaje, siguen
+formando parte del mismo sistema temporal. Por ello, una Reacción
+puede:</p>
 <ul>
-<li>evaluacion del entorno</li>
-<li>actividades de mantenimiento</li>
-<li>descanso y recuperacion</li>
-<li>planificacion y estrategia</li>
+<li>tener costo de ritmo</li>
+<li>generar Desgaste</li>
+<li>modificar la posición futura del personaje en el ATB</li>
 </ul>
-<h3 id="fase-de-conflicto">Fase de Conflicto</h3>
-<p>En esta fase se resuelven encuentros de alto riesgo, combate y
-obstaculos tacticos.</p>
-<h4 id="terminos">Terminos</h4>
+<hr />
+<h2 id="acciones-gratuitas">Acciones Gratuitas</h2>
+<p>Las Acciones Gratuitas son acciones tan breves que no justifican por
+sí solas un costo de ritmo ni de Desgaste.</p>
+<p>Se usan para gestos mínimos, coordinación inmediata o detalles que
+permiten que la escena fluya sin convertir todo en una activación
+formal.</p>
+<p>Ejemplos:</p>
 <ul>
-<li><strong>Criatura</strong>: entidad que participa en el juego (PJ,
-PNJ o monstruo).</li>
-<li><strong>Personaje (PJ)</strong>: protagonista controlado por un
-jugador.</li>
-<li><strong>Personaje no jugador (PNJ)</strong>: figura controlada por
-el Narrador.</li>
-<li><strong>Monstruo</strong>: subtipo de PNJ con comportamiento
-instintivo o antinatural.</li>
+<li>soltar un objeto</li>
+<li>decir una frase breve sin intención táctica</li>
+<li>señalar una dirección</li>
+<li>asentir, negar o emitir una advertencia corta</li>
+<li>ajustar ligeramente la postura sin alterar la escena</li>
 </ul>
-<h4 id="flujo-de-conflicto">Flujo de Conflicto</h4>
+<h3 id="importante-5">Importante</h3>
+<p>Una acción no es gratuita por parecer pequeña. Si una acción:</p>
+<ul>
+<li>cambia de forma importante la situación de la escena</li>
+<li>exige precisión real bajo presión</li>
+<li>sustituye algo que normalmente sería una Acción Activa</li>
+<li>se repite de forma abusiva para multiplicar efectos sin costo</li>
+</ul>
+<p>el Narrador puede decidir que deja de ser gratuita y pasa a costar
+ritmo, Desgaste o ambos.</p>
+<p>Las Acciones Gratuitas existen para mantener naturalidad y fluidez —
+no para multiplicar ventajas sin costo.</p>
+<hr />
+<h2 id="relación-con-el-atb">Relación con el ATB</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Cuándo ocurre</th>
+<th>Efecto en el ATB</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acción Activa</td>
+<td>Durante la activación normal del personaje</td>
+<td>Desplaza la ficha según su costo de ritmo</td>
+</tr>
+<tr>
+<td>Reacción</td>
+<td>Por disparador, fuera de la activación natural</td>
+<td>También desplaza la ficha</td>
+</tr>
+<tr>
+<td>Acción Gratuita</td>
+<td>En cualquier momento razonable</td>
+<td>No suele alterar la posición, salvo decisión del Narrador</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="acciones-base">Acciones Base</h2>
+<p>Las siguientes acciones están disponibles para cualquier personaje en
+una escena de combate o alta presión. Cada una indica su tipo, su costo
+de ritmo y su costo de Desgaste base.</p>
+<hr />
+<h3 id="movimiento">Movimiento</h3>
+<p>Un Movimiento representa el desplazamiento deliberado del personaje a
+través del espacio de combate. Correr hacia una posición de ventaja,
+retroceder ante una amenaza, flanquear a un enemigo, cruzar una zona
+peligrosa — cualquier cambio de posición con intención táctica es un
+Movimiento. La distancia que puede recorrer y las dificultades que
+encuentra dependen del tipo de terreno y de las circunstancias de la
+escena.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 5 (Estándar)<br />
+<strong>Desgaste:</strong> 1</p>
+<p>La distancia base proviene de los valores de velocidad de la especie
+del personaje. El terreno no altera el costo de ritmo: lo que cambia es
+cuánto avanza el personaje, si el trayecto requiere una tirada, o las
+consecuencias del desplazamiento.</p>
+<table>
+<thead>
+<tr>
+<th>Condición</th>
+<th>Efecto en la distancia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Terreno difícil</td>
+<td>Velocidad a la mitad</td>
+</tr>
+<tr>
+<td>Reptar</td>
+<td>Velocidad a la mitad</td>
+</tr>
+<tr>
+<td>Correr</td>
+<td>Velocidad al doble</td>
+</tr>
+</tbody>
+</table>
+<p>Nadar, trepar y saltar exigen una Tirada de Especialización. El
+Narrador la solicita antes o durante el Movimiento según lo que el
+trayecto requiera.</p>
+<hr />
+<h3 id="atacar">Atacar</h3>
+<p>Atacar es el intento directo de infligir daño o presión física sobre
+un objetivo. La familia de ataque determina cómo se resuelve la acción y
+qué lugar ocupa en el ATB.</p>
+<h4 id="armas-naturales">Armas Naturales</h4>
+<p>Las armas naturales son garras, mordida, cuernos, cola — cualquier
+elemento ofensivo que forme parte del cuerpo de la criatura. No
+requieren equipo, no pueden ser desarmadas, y están disponibles mientras
+el cuerpo del personaje funcione.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 5 (Estándar)<br />
+<strong>Desgaste:</strong> 1</p>
+<p>Se resuelve con una T.A. estándar usando la competencia y la
+característica asociada.</p>
+<h4 id="arma-a-una-mano">Arma a una mano</h4>
+<p>El ataque con arma a una mano cubre toda la familia de armas
+ofensivas que se sostienen y operan con una sola mano: espadas cortas,
+hachas, mazas, dagas de combate y similares. Es el ataque base más
+versátil: deja la otra mano libre y permite al personaje volver a actuar
+sin una demora significativa. Las diferencias entre las armas de esta
+familia no están en el ritmo base, sino en los efectos que causan, los
+rasgos que tienen y las Técnicas que cada una puede activar.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 5 (Estándar)<br />
+<strong>Desgaste:</strong> 1</p>
+<p>Se resuelve con una T.A. estándar.</p>
+<h4 id="arma-a-dos-manos">Arma a dos manos</h4>
+<p>Algunas armas exigen el cuerpo entero — espadones, hachas de guerra,
+lanzas sostenidas con ambas manos, grandes mazas. Lo que ganan en
+alcance, masa o poder de amenaza tiene un precio: la ejecución es más
+lenta, la recuperación más larga, y los errores pueden dejar aberturas
+reales. Son armas que modifican el ritmo del combate tanto para quien
+las empuña como para quienes las enfrentan.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 7 (Pesado)<br />
+<strong>Desgaste:</strong> 1</p>
+<p>Se resuelve con una T.A. estándar. El personaje regresa al ATB más
+tarde que con cualquier otro ataque base.</p>
+<h4 id="dos-armas">Dos armas</h4>
+<p>Combatir con un arma en cada mano permite encadenar más golpes en una
+sola activación. La mano principal ataca sin penalización; lo que
+determina cuántos golpes adicionales conectan es la capacidad del
+personaje para sostener esa coordinación bajo presión. No es simplemente
+dos ataques — es una secuencia que puede colapsar si la habilidad no
+acompaña.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 7 (Pesado)<br />
+<strong>Desgaste:</strong> 1</p>
 <ol type="1">
-<li>El Narrador establece las condiciones del conflicto.</li>
-<li>Se colocan las fichas de cada criatura en el track de
-iniciativa.</li>
-<li>Actua la criatura mas a la izquierda del track.</li>
-<li>La criatura activa revisa estado, decide objetivo y elige
-accion.</li>
-<li>La criatura declara su intencion.</li>
-<li>Se revisan reacciones posibles.</li>
-<li>Se resuelven interrupciones o respuestas.</li>
-<li>Se resuelve la accion principal.</li>
-<li>Se mueve la ficha en el track de iniciativa.</li>
-<li>Una vez todas las criaturas se activen, se repite desde el paso 3
-hasta el fin del conflicto.</li>
+<li><strong>T.A. inicial</strong> con la mano principal, sin
+penalización.</li>
+<li><strong>T.E. de combate con dos armas</strong> contra la T.D. del
+objetivo. Si supera la T.D., el personaje puede declarar ataques
+adicionales.</li>
+<li><strong>Ataques adicionales:</strong> 1 por cada 2 puntos de
+Agilidad del personaje (mínimo 1). Los ataques alternan entre ambas
+manos.</li>
 </ol>
-<h3 id="fase-de-interludio">Fase de Interludio</h3>
-<p>Periodo extendido donde los personajes realizan actividades
-importantes fuera de escena detallada.</p>
-<p>Actividades frecuentes:</p>
+<p>La T.E. utiliza la especialización en combate con dos armas con
+Agilidad como característica asociada.</p>
+<hr />
+<h3 id="interactuar">Interactuar</h3>
+<p>Interactuar cubre las intervenciones físicas breves que no son
+ataques ni desplazamientos: tomar un objeto, abrir o cerrar algo,
+recoger algo del suelo, activar un mecanismo, ajustar el equipo. Son
+acciones que ocurren dentro del flujo del combate pero no se dirigen
+directamente a un adversario. Requieren presencia física y atención —
+por eso tienen costo de ritmo — pero no exigen el compromiso de un
+ataque ni el alcance de un desplazamiento.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 3 (Rápido)<br />
+<strong>Desgaste:</strong> 1*</p>
+<p><strong>Cambio de arma:</strong> Cambiar el arma en la mano requiere
+dos acciones de Interactuar — una para dejar el arma actual y otra para
+tomar la nueva. Si el personaje suelta primero (Acción Gratuita), solo
+necesita una acción de Interactuar para tomar la siguiente.</p>
+<p>* El Desgaste solo se genera cuando la interacción ocurre bajo
+presión real de la escena. Las interacciones triviales o sin presión
+activa no generan Desgaste.</p>
+<hr />
+<h3 id="especialización-1">Especialización</h3>
+<p>Una Especialización representa el uso de cualquier habilidad
+entrenada en el contexto de una escena hostil: saltar un obstáculo,
+escalar bajo amenaza, nadar contra una corriente mientras el combate
+continúa, rastrear en movimiento, interpretar una inscripción antes de
+que el enemigo llegue, leer el lenguaje corporal de un adversario,
+fabricar algo bajo presión. La habilidad puede ser física, mental o
+social — la escena impone la misma presión sin importar cuál sea.</p>
+<p><strong>Tipo:</strong> Acción Activa<br />
+<strong>Costo de ritmo:</strong> 5 (Estándar)<br />
+<strong>Desgaste:</strong> 1</p>
+<p>Una Especialización produce un efecto narrativo: el personaje salta
+el abismo, interpreta el código, detecta la trampa. Si ese resultado
+tiene consecuencias mecánicas directas, esos efectos se resuelven a
+través de las acciones que siguen o a través de una Técnica.</p>
+<hr />
+<h3 id="técnicas">Técnicas</h3>
+<p>Las Técnicas son el resultado de entrenamiento acumulado expresado en
+una acción concreta. Donde una Especialización produce un efecto
+narrativo, una Técnica añade un efecto mecánico definido en la misma
+activación — sin pasos adicionales, sin esperar a la siguiente acción.
+Esa capacidad de combinar lo que se hace con lo que se produce
+mecánicamente es lo que las distingue, y lo que justifica que solo sean
+accesibles a través de competencias.</p>
+<p><strong>Tipo:</strong> Variable<br />
+<strong>Costo de ritmo:</strong> Definido por la Técnica<br />
+<strong>Desgaste:</strong> Definido por la Técnica</p>
+<p>La mayoría son Acciones Activas; algunas funcionan como Reacciones y
+pueden activarse fuera de la secuencia normal si su disparador lo
+permite.</p>
+<p>El catálogo completo de Técnicas y sus condiciones de activación se
+encuentra en el capítulo de Competencias y Técnicas.</p>
+<hr />
+<h3 id="soltar">Soltar</h3>
+<p>Hay momentos en que lo más útil es simplemente abrir la mano: dejar
+caer el arma secundaria para usar esa mano en otra cosa, soltar un
+objeto que ya no forma parte de la acción, liberar algo antes de que
+comience el siguiente movimiento. Cuando el objeto no está involucrado
+en ninguna maniobra activa, hacerlo no tiene costo.</p>
+<p><strong>Tipo:</strong> Acción Gratuita<br />
+<strong>Costo de ritmo:</strong> 0<br />
+<strong>Desgaste:</strong> 0</p>
+<p>Esto cubre:</p>
 <ul>
-<li>creacion y mejora de equipo</li>
-<li>recuperacion y descanso</li>
-<li>gestion de recursos</li>
-<li>planificacion y estrategia</li>
-<li>desarrollo personal y relaciones</li>
+<li>soltar un arma de la mano no activa mientras la otra actúa</li>
+<li>dejar caer un objeto antes o después de la acción principal</li>
+<li>liberar algo que ya no forma parte de lo que el personaje está
+haciendo</li>
 </ul>
-<h1 id="sistema-de-tiradas-y-competencias">Sistema de Tiradas y
-Competencias</h1>
-<h2 id="sistema-de-tiradas">Sistema de Tiradas</h2>
-<p>El Sistema de Tiradas define la mecánica de resolución para las
-acciones que los personajes intentan llevar a cabo, ya sea en combate,
-durante la exploración o en interacciones sociales. Su función es
-determinar el éxito o fracaso de una acción y, en ciertos casos,
-permitir el progreso de las competencias asociadas.</p>
-<p>En términos generales, las tiradas utilizan un <code>d10</code> y se
-modifican con características, competencias, equipo y circunstancias.
-Los jugadores pueden decidir cómo afrontar ciertas acciones mediante la
-Ventaja Evolutiva, mientras que los NPCs y criaturas emplean un sistema
-simplificado acorde con su función narrativa.</p>
-<p>Las competencias influyen directamente en varias tiradas del sistema.
-Por ello, primero se presentan aquí los tipos de tiradas y, más
-adelante, en la sección Competencias, se explica cómo se obtienen sus
-bonificadores y cómo progresan.</p>
-<h2 id="ventaja-evolutiva">Ventaja Evolutiva</h2>
-<p>Para las tiradas de Ataque, Defensa y Especialización, los jugadores
-pueden elegir una de dos aproximaciones antes de tirar.</p>
-<h3 id="ventaja-en-la-ejecución">Ventaja en la Ejecución</h3>
-<p>El jugador lanza dos dados y escoge el resultado mayor para resolver
-la acción. Al hacerlo, renuncia a cualquier posibilidad de aprendizaje
-derivada de esa tirada.</p>
-<p>Esta opción representa un enfoque orientado exclusivamente al
-resultado: el personaje prioriza el éxito inmediato por encima del
-perfeccionamiento técnico.</p>
-<h3 id="ventaja-en-el-aprendizaje">Ventaja en el Aprendizaje</h3>
-<p>El jugador lanza dos dados y utiliza el resultado menor para resolver
-la acción. El dado mayor se reserva para la tirada de aprendizaje. Si
-ese dado mayor supera la suma del dado menor y el rango de competencia
-correspondiente, el personaje marca un punto de progreso en esa
-competencia.</p>
-<p>Esta opción representa una ejecución más cuidadosa y reflexiva: el
-personaje asume un mayor riesgo de fallar a cambio de aprender de la
-experiencia.</p>
-<h2 id="npcs-y-otras-criaturas">NPCs y otras criaturas</h2>
-<p>Los NPCs y monstruos no siguen necesariamente las mismas reglas de
-progresión que los personajes jugadores. En su lugar, cuentan con
-Rasgos, que representan ventajas, desventajas o capacidades especiales
-ligadas a su naturaleza, comportamiento, entorno, estado emocional o rol
-de combate.</p>
-<h2 id="tipos-de-tirada">Tipos de Tirada</h2>
-<h3 id="tirada-de-ataque-t.a.">Tirada de Ataque (T.A.)</h3>
-<p>La Tirada de Ataque representa la capacidad del personaje para
-asestar un golpe efectivo con un arma, maniobra, habilidad u objeto. Se
-utiliza para impactar a un objetivo y superar su defensa, resistencia u
-otra tirada opuesta, según corresponda.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Ataque = 1d10 + Nivel de Competencia con arma/objeto + Característica asociada</code></p>
-<p>La competencia refleja el dominio técnico del personaje con el medio
-que emplea, mientras que la característica asociada representa la
-aptitud física, mental o marcial con la que ejecuta la acción.</p>
-<h3 id="tirada-de-defensa-t.d.">Tirada de Defensa (T.D.)</h3>
-<p>La Tirada de Defensa representa la capacidad del personaje para
-evitar un ataque entrante. Combina reflejos, movilidad, entrenamiento
-evasivo y protección proporcionada por la armadura.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Defensa = 1d10 + Nivel de Competencia Evasiva + Agilidad + Armadura</code></p>
-<p>Su objetivo es igualar o superar la tirada ofensiva del oponente para
-evitar el daño o los efectos adicionales del ataque.</p>
-<h3 id="tirada-de-impacto-t.i.">Tirada de Impacto (T.I.)</h3>
-<p>La Tirada de Impacto determina el daño real que se inflige al
-objetivo una vez que el ataque ha superado la defensa o la tirada
-opuesta correspondiente.</p>
-<p>En esta tirada, el rango de competencia define cuántos dados de daño
-puede aprovechar el personaje, mientras que la característica asociada y
-el grado del arma representan la calidad de la ejecución y la potencia
-del equipo utilizado.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Impacto = (Rango de Competencia × Daño del arma) + (Característica asociada × Grado del arma)</code></p>
-<h4 id="daño-de-arma">Daño de arma</h4>
-<p>El daño base del arma se expresa mediante su dado correspondiente:
-<code>d4</code>, <code>d6</code>, <code>d8</code>, <code>d10</code> o
-<code>d12</code>. Ese valor se multiplica por el rango de competencia
-del personaje con el arma empleada.</p>
-<h4 id="impacto-con-armas-sin-competencia">Impacto con armas sin
-competencia</h4>
-<p>Cuando un personaje utiliza un arma en la que no posee competencia,
-puede atacar, pero su capacidad de causar daño efectivo se reduce de
-forma considerable.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Impacto = ((1 × Daño del arma) + (Característica asociada × Grado)) / 2</code></p>
-<p>Esto representa una ejecución ineficiente y una menor capacidad para
-aprovechar correctamente el arma.</p>
-<h3 id="tirada-de-característica-t.c.">Tirada de Característica
-(T.C.)</h3>
-<p>La Tirada de Característica se utiliza cuando una acción depende
-principalmente de una aptitud general del personaje, como Fuerza,
-Agilidad, Tenacidad, Sabiduría o cualquier otra característica
-relevante.</p>
-<p>No representa entrenamiento específico, sino capacidad general
-aplicada a una situación concreta.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Característica = 1d10 + Característica + Nivel de Resonancia + Bonificadores adicionales</code></p>
-<p>Se usa para resolver acciones que dependen de cualidades innatas o
-desarrolladas del personaje, especialmente cuando no interviene una
-competencia específica.</p>
-<h3 id="tirada-de-resistencia-t.r.">Tirada de Resistencia (T.R.)</h3>
-<p>La Tirada de Resistencia representa la capacidad del personaje para
-soportar o superar efectos perjudiciales como venenos, infecciones,
-aflicciones, maldiciones o alteraciones.</p>
-<p>La característica base depende del tipo de efecto enfrentado,
-mientras que la competencia en la resistencia correspondiente refleja la
-experiencia acumulada del personaje frente a ese peligro.</p>
-<p><strong>Fórmulas:</strong></p>
+<p>Un objeto que es parte activa de un agarre o maniobra conjunta
+comprometida no puede soltarse de forma gratuita — eso requiere una
+acción de Interactuar (ritmo 3).</p>
+<h3 id="hablar">Hablar</h3>
+<p>No todo lo que se dice requiere tiempo. Una advertencia, una señal,
+un nombre gritado al aliado más cercano — palabras que transmiten
+información sin interrumpir el flujo del personaje ni desplazar su ficha
+en el ATB.</p>
+<p><strong>Tipo:</strong> Acción Gratuita<br />
+<strong>Costo de ritmo:</strong> 0<br />
+<strong>Desgaste:</strong> 0</p>
+<p>Esto cubre:</p>
 <ul>
-<li>Resistencia a venenos o infecciones:
-<code>1d10 + Tenacidad + Resistencias + Bonificadores adicionales</code></li>
-<li>Resistencia a aflicciones o maldiciones:
-<code>1d10 + Compostura + Resistencias + Bonificadores adicionales</code></li>
-<li>Resistencia a alteraciones:
-<code>1d10 + Resiliencia + Resistencias + Bonificadores adicionales</code></li>
+<li>una señal táctica o advertencia breve</li>
+<li>un comando de una palabra o frase corta dirigido a un aliado</li>
+<li>una exclamación involuntaria</li>
 </ul>
-<p>El objetivo es igualar o superar la dificultad del efecto para
-evitarlo, mitigarlo o reducir sus consecuencias.</p>
-<h3 id="tirada-de-especialización-t.e.">Tirada de Especialización
-(T.E.)</h3>
-<p>La Tirada de Especialización refleja el dominio del personaje en una
-habilidad concreta, como escalar, nadar, desactivar trampas o escapar de
-ataduras. A diferencia de una Tirada de Característica, aquí sí existe
-entrenamiento específico.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Especialización = 1d10 + Nivel de Competencia en la Especialización + Rango de Competencia + Característica asociada + Bonificadores adicionales</code></p>
-<p>El nivel de competencia representa la experiencia acumulada, mientras
-que el rango resume el grado general de dominio alcanzado en esa
-especialización.</p>
-<h3 id="tirada-de-rasgo-de-personalidad-t.p.">Tirada de Rasgo de
-Personalidad (T.P.)</h3>
-<p>Durante la exploración o el conflicto, un jugador puede proponer que
-uno de sus Rasgos de Personalidad influya de manera decisiva en la
-situación. Si el Narrador acepta la justificación, el personaje puede
-realizar una Tirada de Rasgo de Personalidad en lugar de una Tirada de
-Característica o de Especialización.</p>
-<p><strong>Fórmula:</strong></p>
-<p><code>Tirada de Rasgo de Personalidad = 2d10</code></p>
-<p>Esta tirada no depende de competencias, sino de la fuerza narrativa y
-psicológica del rasgo invocado.</p>
-<h2 id="competencias">Competencias</h2>
-<p>Las competencias representan el grado de dominio que un personaje
-posee en un campo específico. Algunas están orientadas al combate, otras
-a la supervivencia, otras al conocimiento o a destrezas concretas.</p>
-<p>En todos los casos, las competencias cumplen dos funciones:</p>
+<p>Engañar, persuadir, negociar o ejercer presión social no es gratuito.
+La distinción no es de longitud sino de función: transmitir información
+es gratuito; intentar influir no lo es.</p>
+<h1 id="atb-línea-de-tiempo-de-combate">ATB: Línea de Tiempo de
+Combate</h1>
+<p>El combate no se divide en rondas fijas. Cada personaje, criatura o
+sistema importante del encuentro actúa según su ritmo, su preparación y
+el costo temporal de sus decisiones.</p>
+<p>La línea de tiempo de combate — también llamada ATB — representa esto
+directamente. Cada participante ocupa una posición en un track. Quien se
+encuentre más a la izquierda actúa primero.</p>
+<p>Cuando una entidad actúa, su ficha se desplaza hacia la derecha según
+el costo de ritmo de la acción elegida. Actuar antes cuesta más;
+retrasar una acción preserva el tempo pero cede terreno.</p>
+<p>El ATB existe para responder una pregunta simple:</p>
+<blockquote>
+<p>¿Quién está listo para actuar ahora, y cuánto tardará en volver a
+estarlo?</p>
+</blockquote>
+<hr />
+<h2 id="qué-representa-el-atb">Qué representa el ATB</h2>
+<p>La posición de una ficha en el track no representa solo “iniciativa”.
+Representa el tiempo que le tomará a una criatura recuperarse,
+reorganizarse y volver a generar una acción significativa dentro del
+combate.</p>
+<p>Una acción rápida deja a la criatura lista antes. Una acción pesada o
+exigente la retrasa más.</p>
+<p>El track hace esto visible en tiempo real:</p>
 <ul>
-<li>modifican tiradas</li>
-<li>permiten progresar a medida que el personaje las pone a prueba en
-situaciones relevantes</li>
+<li>quién reacciona antes</li>
+<li>quién se sobrecompromete</li>
+<li>quién fuerza una acción muy poderosa a costa de perder tempo</li>
+<li>quién consigue actuar dos veces antes que otro porque sus decisiones
+fueron más ligeras o más eficientes</li>
 </ul>
-<p>En el sistema, las competencias no sustituyen a las características:
-ambas se complementan. Las características expresan el potencial del
-personaje; las competencias expresan cuánto ha entrenado, practicado o
-refinado ese potencial.</p>
-<h3 id="niveles-y-rangos-de-competencia">Niveles y rangos de
-competencia</h3>
-<p>Cada competencia posee un nivel y un rango.</p>
+<hr />
+<h2 id="apertura-del-combate">Apertura del combate</h2>
+<p>Cuando comienza una escena hostil, cada participante recibe una
+posición en el track antes de que se resuelva la primera acción.</p>
+<p>Cada participante calcula su Valor de Apertura:</p>
+<p>Valor de Apertura = Preparación + modificadores de situación</p>
+<p>El Valor de Apertura más alto entre todos los participantes establece
+el Punto de Referencia del encuentro. La posición inicial de cada
+participante es la diferencia entre ese Punto de Referencia y su propio
+Valor de Apertura.</p>
+<p>Quien tenga el Valor de Apertura más alto queda en la posición 0 — el
+extremo izquierdo del track — y actúa primero. Los demás quedan a la
+derecha a una distancia igual a la diferencia entre el Punto de
+Referencia y su propio Valor de Apertura.</p>
+<p>Los modificadores de situación representan circunstancias como:</p>
 <ul>
-<li>El nivel de competencia representa el progreso numérico
-acumulado.</li>
-<li>El rango de competencia representa el grado general de dominio
-alcanzado.</li>
+<li>estar alerta</li>
+<li>emboscar</li>
+<li>estar sorprendido</li>
+<li>encontrarse mal posicionado</li>
+<li>tener el arma preparada</li>
+<li>estar distraído, herido o reorganizándose</li>
 </ul>
-<p>Los rangos son:</p>
+<p>La apertura del combate no es un sistema separado del track. Es el
+estado inicial desde el que parte. Los costos de ritmo se acumulan sobre
+esa posición desde la primera activación en adelante.</p>
+<hr />
+<h2 id="la-línea-de-tiempo">La línea de tiempo</h2>
+<p>Una vez resuelta la apertura, el combate entra en el flujo completo
+del ATB.</p>
+<p>Tres principios lo rigen:</p>
 <ul>
-<li>No Entrenado</li>
-<li>Novato</li>
-<li>Adepto</li>
-<li>Experto</li>
-<li>Maestro</li>
+<li>La ficha más a la izquierda actúa primero.</li>
+<li>Después de actuar, esa ficha se mueve a la derecha.</li>
+<li>La distancia que avanza es el costo de ritmo de la acción
+elegida.</li>
 </ul>
-<p>Se obtiene un nuevo rango cada 3 niveles de competencia.</p>
-<h3 id="competencias-iniciales">Competencias iniciales</h3>
-<p>El trasfondo del personaje determina con qué competencias comienza
-entrenado. Las competencias otorgadas por el trasfondo empiezan en nivel
-1, lo que equivale al rango Novato.</p>
-<p>Todas las demás competencias comienzan en nivel 0, por lo que el
-personaje se considera No Entrenado en ellas.</p>
-<h3 id="progresión-de-competencias">Progresión de competencias</h3>
-<p>Las competencias aumentan cuando el personaje las pone en juego de
-forma significativa y opta por una aproximación orientada al
-aprendizaje.</p>
-<p>Cada vez que un personaje utiliza Ventaja en el Aprendizaje en una
-T.A., T.D. o T.E., y cumple la condición de aprendizaje correspondiente,
-obtiene 1 punto de progreso en la competencia asociada.</p>
-<p>Además, las competencias defensivas o de resistencia pueden progresar
-al enfrentar peligros adecuados a su nivel, según el tipo de competencia
-de que se trate.</p>
-<p>Para subir un nivel de competencia se requieren:</p>
+<p>El orden no queda fijo desde el principio. Se ajusta con cada
+activación.</p>
+<p>Un personaje que use acciones rápidas y eficientes puede volver a
+actuar antes. Otro que se sobreextienda con una maniobra muy pesada
+tardará más en recuperar su siguiente oportunidad.</p>
+<hr />
+<h2 id="desempates">Desempates</h2>
+<p>Si dos o más fichas ocupan la misma posición más a la izquierda,
+actúa primero quien tenga mayor Preparación.</p>
+<p>Si también empatan en Preparación, el Narrador o la mesa puede usar
+un criterio fijo secundario para mantener claridad y consistencia.</p>
+<hr />
+<h2 id="costo-de-ritmo">Costo de ritmo</h2>
+<p>Cada acción significativa tiene un costo de ritmo. Ese costo indica
+cuánto retrasa la próxima oportunidad de actuar.</p>
+<p>El costo de ritmo no es lo mismo que el Desgaste:</p>
 <ul>
-<li>5 puntos de progreso en especializaciones de afinidad mayor.</li>
-<li>10 puntos de progreso en el resto de competencias.</li>
+<li>El ritmo responde a cuánto tiempo tardas en volver a actuar.</li>
+<li>El Desgaste responde a cuánto esfuerzo acumulado deja esa acción
+sobre tu cuerpo, tu mente y tu compostura.</li>
 </ul>
-<h3 id="pruebas-adecuadas-para-progresar">Pruebas adecuadas para
-progresar</h3>
-<p>No toda acción sirve para mejorar una competencia. Para que exista
-progreso, la situación debe representar un desafío apropiado.</p>
-<h4 id="competencias-marciales">Competencias marciales</h4>
-<p>Las competencias marciales progresan cuando el personaje se enfrenta
-a adversarios de dificultad adecuada y pone realmente en práctica su
-entrenamiento.</p>
-<p>En el caso de armas, el personaje debe atacar y golpear a criaturas
-cuyo nivel sea, al menos, igual a su nivel de referencia -1.</p>
-<h4 id="competencias-de-evasión-armadura-escudo-y-resistencias">Competencias
-de evasión, armadura, escudo y resistencias</h4>
-<p>Estas competencias progresan cuando el personaje se convierte en
-objetivo de peligros relevantes y logra resistirlos, mitigarlos o
-sobrevivirlos.</p>
-<h4 id="competencias-de-especialización">Competencias de
-especialización</h4>
-<p>Las especializaciones progresan solo cuando la dificultad de la
-prueba es coherente con el rango del personaje.</p>
+<p>Una acción más exigente suele comprometer más en ambas dimensiones —
+pero no siempre en la misma medida.</p>
+<p>Una acción puede ser:</p>
 <ul>
-<li>Novato: puede progresar con pruebas de cualquier nivel.</li>
-<li>Adepto: progresa con pruebas de Fundamentos o superiores.</li>
-<li>Experto: progresa con pruebas Desafiantes o superiores.</li>
-<li>Maestro: progresa con pruebas Rigurosas o más altas.</li>
+<li>rápida pero exigente</li>
+<li>lenta pero estable</li>
+<li>eficiente para un personaje entrenado</li>
+<li>costosa para quien no ha desarrollado esa habilidad</li>
 </ul>
-<h2 id="tipos-de-competencias-y-sus-efectos">Tipos de competencias y sus
-efectos</h2>
-<h3 id="armas">Armas</h3>
-<p>Representan el dominio de un tipo de arma concreto.</p>
-<p><strong>Bonificadores</strong></p>
+<hr />
+<h2 id="bandas-de-acción">Bandas de acción</h2>
+<p>Cada acción tiene un costo de ritmo — el número de posiciones que su
+ficha avanza a la derecha al resolverse.</p>
+<table>
+<thead>
+<tr>
+<th>Banda</th>
+<th style="text-align: right;">Costo de ritmo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acción libre</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Acción rápida</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td>Acción estándar</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td>Acción pesada</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr>
+<td>Acción extrema</td>
+<td style="text-align: right;">9</td>
+</tr>
+</tbody>
+</table>
+<p>Costo de ritmo 0 significa que la ficha no se mueve. La criatura
+mantiene su posición y procede la siguiente activación en línea. Las
+acciones libres están limitadas por alcance: Soltar y Hablar califican
+dentro de los límites definidos en las reglas de acción.</p>
+<p>Las acciones extremas no están disponibles en el nivel base. Aparecen
+a través de Técnicas.</p>
+<h3 id="familias-de-acción-base">Familias de acción base</h3>
+<p>Estos costos aplican cuando ninguna habilidad, entrenamiento o
+bonificador por competencia los modifica.</p>
+<table>
+<thead>
+<tr>
+<th>Acción</th>
+<th style="text-align: right;">Costo de ritmo</th>
+<th style="text-align: right;">Desgaste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acción libre (soltar, hablar)</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Interactuar</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">1 *</td>
+</tr>
+<tr>
+<td>Moverse</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Especialización</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Atacar con arma a una mano</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Atacar con arma a dos manos</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>Atacar con dos armas a una mano</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<p>* El Desgaste aplica solo bajo presión real de la escena. Las
+interacciones triviales generan 0.</p>
+<p>El terreno no cambia el costo de ritmo. El terreno afecta la
+distancia recorrida, las tiradas requeridas y las consecuencias del
+movimiento.</p>
+<hr />
+<h2 id="reacciones-1">Reacciones</h2>
+<p>Las Reacciones existen dentro de la misma economía temporal que
+cualquier otra acción. Aunque ocurran fuera de la activación planificada
+del personaje, tienen costo de ritmo, costo de Desgaste y desplazan la
+ficha en el track.</p>
+<p>La ventaja de una Reacción no está en que sea gratuita, sino en que
+permite intervenir en el momento en lugar de esperar la siguiente
+activación normal.</p>
+<p>La definición completa de Reacciones — qué las activa, cuándo se
+declaran y cómo se usan — se encuentra en el capítulo de Acciones.</p>
+<hr />
+<h2 id="movimiento-y-atb">Movimiento y ATB</h2>
+<p>El movimiento no es una capa invisible separada del combate. El
+desplazamiento forma parte del ritmo de la escena y tiene su propio
+costo de ritmo.</p>
+<p>Ese costo es fijo: el Movimiento siempre ocupa la banda Estándar del
+ATB. Moverse para salir de un aliento, alcanzar una posición ventajosa o
+interceptar una carga cuesta lo mismo en el track — lo que varía no es
+el tiempo de decisión, sino lo que ese movimiento puede lograr.</p>
+<p>El terreno no modifica el costo de ritmo. Lo que el terreno cambia
+es:</p>
 <ul>
-<li>Cada nivel de competencia con un arma otorga <code>+1</code> a la
-T.A.</li>
-<li>Cada rango de competencia otorga <code>+1</code> adicional a la T.A.
-y un dado adicional a la T.I.</li>
+<li>la distancia que el personaje puede recorrer</li>
+<li>si el trayecto requiere una tirada</li>
+<li>las consecuencias o peligros del desplazamiento</li>
 </ul>
-<p><strong>Progresión</strong></p>
-<p>La competencia en armas aumenta cuando el personaje impacta e inflige
-daño con éxito usando esa arma en enfrentamientos relevantes.</p>
-<h3 id="armaduras">Armaduras</h3>
-<p>Reflejan la capacidad del personaje para usar armaduras de forma
-eficiente.</p>
-<p><strong>Bonificadores</strong></p>
+<p>La posición determina lo que es posible. Ese es el valor táctico del
+Movimiento dentro del ATB.</p>
+<h1 id="descanso">Descanso</h1>
+<p>El descanso es la forma más básica en la que un personaje recupera
+control sobre su cuerpo, su mente y su compostura después de una escena
+exigente. Un combate, una persecución, una travesía hostil o una
+confrontación intensa no solo dejan heridas visibles: también dejan
+respiración pesada, temblores, saturación mental, tensión emocional y
+una fatiga que no desaparece solo porque el peligro haya terminado.</p>
+<p>Descansar no significa resetear al personaje. Significa recuperar
+parte del margen perdido al exponerse repetidamente al conflicto.</p>
+<p>El descanso cumple tres funciones principales:</p>
 <ul>
-<li>Cada nivel de competencia aumenta el bloqueo en 1.</li>
-<li>Alcanzar Experto reduce en una categoría la penalización a la
-velocidad de movimiento.</li>
-<li>Alcanzar Maestro reduce nuevamente esa penalización en una
-categoría.</li>
+<li>reducir el Desgaste acumulado</li>
+<li>permitir tareas de mantenimiento, tratamiento y preparación</li>
+<li>dar espacio para reorganizarse antes de volver a exponerse al
+peligro</li>
 </ul>
-<p><strong>Progresión</strong></p>
-<p>La competencia en armaduras aumenta cuando el personaje recibe un
-impacto y la armadura reduce efectivamente parte del daño.</p>
-<h3 id="escudos">Escudos</h3>
-<p>Representan el dominio técnico del uso de escudos en combate.</p>
-<p><strong>Bonificadores</strong></p>
+<p>No todo descanso es igual. Una pausa breve puede devolver algo de
+control, pero también puede ser interrumpida o poner al grupo en riesgo.
+Un descanso largo permite una recuperación mucho más profunda, pero
+exige tiempo, condiciones adecuadas y una relativa seguridad.</p>
+<hr />
+<h2 id="el-descanso-y-el-desgaste">El descanso y el Desgaste</h2>
+<p>El Desgaste no desaparece automáticamente cuando termina una escena
+hostil. El cuerpo sigue cansado, la mente sigue saturada y la compostura
+tarda en recomponerse.</p>
+<p>Por eso, descansar reduce Desgaste, no “borra” el esfuerzo
+narrativamente porque sí. Al bajar el Desgaste, el personaje puede salir
+de umbrales de Fatiga y recuperar parte de su margen funcional.</p>
+<p>Un personaje puede terminar un combate por debajo de su primer umbral
+de Fatiga y aun así seguir arrastrando Desgaste hacia la siguiente
+escena. Descansar alivia esa carga antes de que se acumule hasta
+volverse un problema mayor.</p>
+<hr />
+<h2 id="tipos-de-descanso">Tipos de descanso</h2>
+<p>Existen dos formas principales de descanso:</p>
 <ul>
-<li>Cada rango de competencia otorga acceso a maniobras adicionales
-según el tipo de escudo.</li>
+<li>Descanso Corto</li>
+<li>Descanso Completo</li>
 </ul>
-<p><strong>Progresión</strong></p>
-<p>La competencia en escudos aumenta cuando el personaje emplea
-maniobras marciales de escudo de forma efectiva.</p>
-<h3 id="evasión">Evasión</h3>
-<p>La evasión representa la habilidad del personaje para anticipar y
-evitar ataques.</p>
-<p><strong>Bonificadores</strong></p>
+<p>Cada uno ofrece una recuperación distinta y responde a necesidades
+distintas dentro de la aventura.</p>
+<hr />
+<h3 id="descanso-corto">Descanso Corto</h3>
+<p>El Descanso Corto representa una pausa breve para tomar aire,
+estabilizar el cuerpo, reorganizar recursos y recuperar algo de control
+antes de continuar.</p>
+<p>No implica retirarse por completo del peligro ni “pasar página” a lo
+ocurrido. Es una pausa funcional: suficiente para bajar parte del
+desgaste, atender molestias inmediatas y tomar decisiones rápidas, pero
+no para una recuperación total.</p>
+<p>El grupo puede optar por una de tres duraciones:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.D.</li>
+<li>15 minutos</li>
+<li>30 minutos</li>
+<li>60 minutos</li>
 </ul>
-<p><strong>Progresión</strong></p>
-<p>La evasión aumenta cuando el personaje evita con éxito ataques o
-peligros relevantes mediante su movilidad y reflejos.</p>
-<h3 id="especialización">Especialización</h3>
-<p>La competencia en especialización refleja el dominio técnico en una
-habilidad concreta.</p>
-<p><strong>Bonificadores</strong></p>
+<p>Cada una ofrece una recuperación mayor, pero también aumenta el
+riesgo de ser detectado, interrumpido o sorprendido.</p>
+<h4 id="descanso-de-15-minutos">Descanso de 15 minutos</h4>
+<p>Este descanso representa un respiro breve. Sirve para bajar
+pulsaciones, ordenar el equipo, beber agua, revisar heridas
+superficiales y recuperar un mínimo de control.</p>
+<p>Reduce 1 punto de Desgaste y permite realizar 1 tarea breve de
+mantenimiento o preparación.</p>
+<p>Tareas breves disponibles:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.E.</li>
-<li>Cada rango de competencia otorga <code>+1</code> adicional a la
-T.E.</li>
+<li>ajustar una correa o pieza del equipo</li>
+<li>reorganizar un arma o herramienta</li>
+<li>revisar rápidamente una herida</li>
+<li>intercambiar información inmediata</li>
+<li>decidir una ruta o prioridad táctica simple</li>
 </ul>
-<p><strong>Progresión</strong></p>
-<p>La especialización aumenta al superar pruebas apropiadas para el
-rango actual del personaje.</p>
-<h3 id="resistencias">Resistencias</h3>
-<p>Las resistencias representan la capacidad del personaje para soportar
-tipos concretos de peligro. A diferencia de otras competencias, suelen
-desarrollarse a través de la exposición, la supervivencia y la
-adaptación.</p>
-<h4 id="daño-elemental">Daño elemental</h4>
-<p><strong>Bonificador</strong></p>
+<p>Este descanso es útil cuando el grupo no quiere exponerse demasiado
+tiempo, pero necesita estabilizarse antes de seguir avanzando.</p>
+<h4 id="descanso-de-30-minutos">Descanso de 30 minutos</h4>
+<p>Este descanso representa una pausa real de recuperación breve. Ya no
+es solo tomar aire: permite recuperar algo de margen funcional y dedicar
+tiempo a tareas más útiles.</p>
+<p>Reduce 2 puntos de Desgaste y permite realizar 1 tarea significativa
+de mantenimiento, tratamiento o preparación.</p>
+<p>Tareas significativas disponibles:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
-efectos producidos por daño elemental.</li>
+<li>aplicar primeros auxilios</li>
+<li>estudiar una pista reciente</li>
+<li>revisar huellas, mapas o notas</li>
+<li>repartir recursos</li>
 </ul>
-<h4 id="veneno">Veneno</h4>
-<p><strong>Bonificador</strong></p>
+<p>Esta es la forma más estable de descanso corto. Permite una
+recuperación útil sin abandonar por completo el ritmo de la
+expedición.</p>
+<h4 id="descanso-de-60-minutos">Descanso de 60 minutos</h4>
+<p>Este descanso representa una pausa profunda dentro de la jornada, sin
+llegar todavía a un sueño completo. El personaje tiene tiempo de
+recuperar control sobre su cuerpo, ordenar la mente y tratar el desgaste
+acumulado con mayor eficacia.</p>
+<p>Reduce 3 puntos de Desgaste y permite realizar hasta 2 tareas de
+mantenimiento, tratamiento o preparación. Si las condiciones son
+favorables, el Narrador puede permitir recuperar 1 punto adicional de
+Desgaste.</p>
+<p>El Narrador puede considerar favorables las condiciones si el grupo
+cuenta con elementos como:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
-venenos.</li>
+<li>refugio razonable</li>
+<li>abrigo o calor</li>
+<li>agua y alimento</li>
+<li>vigilancia organizada</li>
+<li>espacio para sentarse o recostarse</li>
+<li>herramientas apropiadas para tratar el cuerpo o el equipo</li>
 </ul>
-<h4 id="infección">Infección</h4>
-<p><strong>Bonificador</strong></p>
+<p>Es la mejor forma de recuperación breve antes de un nuevo tramo
+exigente, pero también es la que más fácilmente expone al grupo a
+eventos inesperados.</p>
+<h4 id="límite-de-recuperación-breve">Límite de recuperación breve</h4>
+<p>Para evitar que el grupo encadene pausas hasta anular toda presión
+del juego:</p>
+<p>Solo el primer Descanso Corto tomado después de una escena hostil
+reduce Desgaste de forma normal.</p>
+<p>Las pausas posteriores antes de una nueva escena significativa pueden
+seguir usarse para hablar, planificar, vigilar, reorganizar equipo,
+tratar heridas y preparar recursos, pero no vuelven a reducir Desgaste
+salvo que una regla específica lo permita.</p>
+<p>Esto representa que una breve pausa puede estabilizarte, pero no
+reemplaza una recuperación real ni puede repetirse indefinidamente para
+borrar el costo del peligro.</p>
+<hr />
+<h3 id="descanso-completo">Descanso Completo</h3>
+<p>El Descanso Completo representa una verdadera interrupción de la
+jornada. Requiere al menos 8 horas de reposo, sueño o recuperación
+equivalente en condiciones razonablemente adecuadas.</p>
+<p>No es solo una necesidad física. También es el momento en que los
+personajes vuelven a centrarse, organizan el día siguiente, comparten
+información, reparan equipo, atienden consecuencias persistentes y
+recuperan parte de lo que el viaje les ha arrancado.</p>
+<h4 id="recuperación-de-desgaste">1. Recuperación de Desgaste</h4>
+<p>Un Descanso Completo reduce el Desgaste en una cantidad igual a 2 ×
+Aguante.</p>
+<p>Esta recuperación representa una restauración profunda. No significa
+que todas las heridas desaparezcan ni que cualquier deterioro grave se
+resuelva automáticamente, pero sí devuelve al personaje una parte
+importante de su margen operativo.</p>
+<h4 id="alivio-de-la-fatiga">2. Alivio de la Fatiga</h4>
+<p>Como la Fatiga depende del Desgaste acumulado, reducir Desgaste
+mediante un Descanso Completo también reduce automáticamente los niveles
+de Fatiga si el personaje desciende por debajo de los umbrales
+correspondientes.</p>
+<h4 id="reparación-de-equipo">3. Reparación de equipo</h4>
+<p>Durante un Descanso Completo, el personaje puede intentar reparar su
+equipo y recuperar 5 puntos de durabilidad en cada pieza relevante,
+superando la tirada apropiada según la especialización necesaria y el
+grado del objeto. Esto se aplica a armaduras, armas y otros elementos
+que lo permitan.</p>
+<h4 id="progresión-o-alivio-de-aflicciones">4. Progresión o alivio de
+aflicciones</h4>
+<p>Cada día de Descanso Completo reduce en 1 la intensidad de cada
+aflicción activa, salvo que una regla específica indique lo contrario.
+Esto mantiene la idea de que ciertas consecuencias requieren tiempo,
+cuidado y recuperación real para empezar a ceder.</p>
+<h4 id="preparación-del-día">5. Preparación del día</h4>
+<p>El grupo puede:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
-infecciones.</li>
+<li>revisar mapas y notas</li>
+<li>discutir la ruta a seguir</li>
+<li>reorganizar provisiones</li>
+<li>intercambiar información sobre amenazas y decisiones pendientes</li>
+<li>reforzar vínculos o enfrentar tensiones narrativas</li>
 </ul>
-<h4 id="aflicción">Aflicción</h4>
-<p><strong>Bonificador</strong></p>
+<h4 id="sobre-la-recuperación-física">Sobre la recuperación física</h4>
+<p>Un Descanso Completo no hace desaparecer automáticamente cualquier
+herida grave, fractura o condición persistente. Recupera parte
+importante de la funcionalidad del personaje, pero no reemplaza
+tratamiento, medicina o curación prolongada cuando estas sean
+necesarias.</p>
+<p>Dormir bien puede devolverte margen. No siempre puede devolverte
+integridad.</p>
+<hr />
+<h2 id="riesgos-del-descanso">Riesgos del descanso</h2>
+<p>Descansar no siempre es seguro.</p>
+<p>Detenerse puede significar:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la tirada
-correspondiente contra aflicciones.</li>
-<li>Cada rango de competencia otorga <code>+1</code> a las T.R de
-Aflicciones durante la meditación cognitiva.</li>
+<li>ser encontrado</li>
+<li>perder posición</li>
+<li>sufrir un cambio ambiental</li>
+<li>quedar expuesto a amenazas cercanas</li>
+<li>dar tiempo a que la situación empeore</li>
 </ul>
-<h4 id="alteración">Alteración</h4>
-<p><strong>Bonificador</strong></p>
+<p>Por ello, cuando el grupo descansa en un lugar inseguro, incierto o
+activamente hostil, el Narrador puede realizar una tirada secreta para
+determinar si ocurre un evento inesperado.</p>
+<h3 id="cuándo-debería-tirarse">Cuándo debería tirarse</h3>
+<p>La tirada de riesgo no debe hacerse siempre por costumbre. Debe
+usarse cuando el descanso realmente entraña peligro.</p>
+<p>Esto incluye situaciones como:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la T.R contra
-alteraciones.</li>
+<li>territorio hostil</li>
+<li>persecución activa</li>
+<li>presencia probable de depredadores o enemigos</li>
+<li>clima severo</li>
+<li>zonas inestables o desconocidas</li>
+<li>escenas donde detenerse tiene consecuencias narrativas claras</li>
 </ul>
-<h4 id="maldiciones">Maldiciones</h4>
-<p><strong>Bonificador</strong></p>
+<p>Si el grupo descansa en un refugio seguro, controlado o bien
+protegido, el Narrador puede simplemente omitir la tirada.</p>
+<h3 id="riesgo-base-por-duración">Riesgo base por duración</h3>
+<p>Cuando corresponda hacer una tirada de riesgo, el Narrador lanza
+1d100 en secreto y aplica el modificador por duración del descanso.</p>
+<table>
+<thead>
+<tr>
+<th>Duración</th>
+<th>Modificador base</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15 minutos</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>30 minutos</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>60 minutos</td>
+<td>+20</td>
+</tr>
+</tbody>
+</table>
+<p>El Narrador puede también aplicar modificadores según la
+situación:</p>
+<table>
+<thead>
+<tr>
+<th>Situación</th>
+<th>Modificador</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>refugio seguro</td>
+<td>-20</td>
+</tr>
+<tr>
+<td>vigilancia organizada</td>
+<td>-10</td>
+</tr>
+<tr>
+<td>mal clima</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>territorio hostil</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>persecución activa</td>
+<td>+20</td>
+</tr>
+</tbody>
+</table>
+<p>Estos modificadores no son obligatorios ni exclusivos, pero ayudan a
+que el riesgo del descanso dependa del mundo y no solo del reloj.</p>
+<h3 id="eventos-inesperados">Eventos inesperados</h3>
+<p>Si el Narrador determina que el descanso está sujeto a riesgo,
+consulta la siguiente tabla tras la tirada secreta.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>1d100</th>
+<th>Evento</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1–45</td>
+<td>Sin incidentes</td>
+<td>El descanso transcurre sin interrupciones y el grupo puede
+recuperarse con normalidad.</td>
+</tr>
+<tr>
+<td>46–55</td>
+<td>Señal inquietante</td>
+<td>El grupo detecta huellas recientes, sonidos lejanos, un olor extraño
+o signos de actividad cercana. No hay interrupción inmediata, pero la
+tensión aumenta.</td>
+</tr>
+<tr>
+<td>56–65</td>
+<td>Cambio ambiental</td>
+<td>El clima empeora, baja la visibilidad, la temperatura cambia o el
+terreno se vuelve más difícil. El descanso se completa, pero la
+situación general empeora.</td>
+</tr>
+<tr>
+<td>66–75</td>
+<td>Incomodidad o desplazamiento</td>
+<td>El lugar resulta menos seguro de lo esperado: humedad, pequeños
+derrumbes, escarcha agresiva, ruidos que obligan a moverse o a
+interrumpir parte del reposo.</td>
+</tr>
+<tr>
+<td>76–85</td>
+<td>Pérdida de posición o rumbo</td>
+<td>El grupo se ve obligado a cambiar de ubicación, pierde orientación o
+debe invertir tiempo adicional para recuperar una posición segura o una
+ruta confiable.</td>
+</tr>
+<tr>
+<td>86–93</td>
+<td>Interrupción hostil</td>
+<td>Una criatura, explorador enemigo o amenaza del entorno interrumpe el
+descanso. Puede no derivar de inmediato en combate, pero obliga al grupo
+a reaccionar.</td>
+</tr>
+<tr>
+<td>94–100</td>
+<td>Evento nefasto</td>
+<td>Ocurre una complicación seria: emboscada, revelación peligrosa,
+traición, colapso del entorno o un giro narrativo que altera de forma
+grave la situación.</td>
+</tr>
+</tbody>
+</table>
+<p>La tirada de eventos inesperados siempre es secreta y la realiza el
+Narrador.</p>
+<h1 id="desgaste-aguante-y-fatiga">Desgaste, Aguante y Fatiga</h1>
+<p>El combate y las escenas de alta tensión no solo ponen en riesgo la
+vida de un personaje: también desgastan su cuerpo, su mente y su
+compostura. Actuar bajo presión tiene un costo. Ese costo se registra
+mediante el sistema de Desgaste, Aguante y Fatiga.</p>
+<p>Este sistema no reemplaza al daño ni al orden de activación. Registra
+cuánto esfuerzo puede seguir sosteniendo un personaje antes de empezar a
+deteriorarse.</p>
+<p>El Desgaste representa la carga acumulada de actuar bajo presión. El
+Aguante representa cuánto de esa carga puede soportar un personaje. La
+Fatiga representa el deterioro que aparece cuando el Desgaste supera sus
+límites.</p>
+<p>Un personaje puede seguir luchando, analizando, resistiendo y
+reaccionando durante un tiempo — pero no indefinidamente.</p>
+<hr />
+<h2 id="desgaste">Desgaste</h2>
+<p>El Desgaste es la carga acumulada que un personaje soporta al
+ejecutar acciones significativas en una escena hostil.</p>
+<p>No representa daño físico directo. Tampoco es una medida exclusiva de
+cansancio muscular. El Desgaste incluye todo aquello que obliga al
+personaje a seguir rindiendo bajo tensión: esfuerzo corporal,
+concentración, lectura táctica, control emocional y respuesta inmediata
+ante el peligro.</p>
+<p>Un personaje puede acumular Desgaste por:</p>
 <ul>
-<li>Cada nivel de competencia otorga <code>+1</code> a la tirada
-correspondiente para detectar o resistir maldiciones.</li>
+<li>atacar, defenderse o moverse en combate</li>
+<li>reaccionar a amenazas repentinas</li>
+<li>analizar una criatura bajo presión</li>
+<li>sostener una maniobra exigente</li>
+<li>imponer presión mental o social en medio de una escena
+conflictiva</li>
+<li>actuar mientras sufre condiciones adversas o presión ambiental</li>
 </ul>
-<h2 id="relación-entre-tiradas-y-competencias">Relación entre tiradas y
-competencias</h2>
-<p>Para evitar confusión, esta es la relación base entre ambos
-sistemas:</p>
+<p>No toda acción genera Desgaste. Solo lo hacen aquellas que exigen un
+esfuerzo real y que tienen peso dentro de la escena.</p>
+<hr />
+<h2 id="aguante">Aguante</h2>
+<p>El Aguante representa la capacidad del personaje para seguir
+funcionando antes de empezar a sufrir Fatiga.</p>
+<p>Todo personaje posee una reserva mínima de funcionamiento en tres
+planos fundamentales del conflicto:</p>
 <ul>
-<li>T.A. usa la competencia del arma u objeto empleado.</li>
-<li>T.D. usa la competencia en Evasión.</li>
-<li>T.I. usa principalmente el rango de competencia del arma.</li>
-<li>T.C. no depende necesariamente de competencias, salvo que una regla
-específica lo indique.</li>
-<li>T.R. usa la resistencia correspondiente al tipo de efecto.</li>
-<li>T.E. usa la competencia de la especialización implicada.</li>
-<li>T.P. no usa competencias.</li>
+<li>el <strong>cuerpo</strong>, que sostiene esfuerzo, impacto y
+movimiento</li>
+<li>la <strong>mente</strong>, que sostiene atención, lectura e
+interpretación</li>
+<li>la <strong>compostura</strong>, que sostiene control, intención y
+claridad bajo tensión</li>
 </ul>
+<p>Todo personaje cuenta con una Reserva Base de Aguante de 3. A esa
+base se le suma la resistencia corporal del personaje y su desarrollo en
+Vigor.</p>
+<h3 id="fórmula-de-aguante">Fórmula de Aguante</h3>
+<p><strong>Aguante</strong> = 3 + Tenacidad + Rango de Vigor</p>
+<p>El Aguante depende de tres cosas:</p>
+<ul>
+<li>capacidad natural para soportar esfuerzo (Tenacidad)</li>
+<li>entrenamiento para sostener actividad exigente (Vigor)</li>
+<li>una reserva mínima universal que representa la continuidad operativa
+en cuerpo, mente y compostura</li>
+</ul>
+<h3 id="ejemplo">Ejemplo</h3>
+<p>Un personaje con Tenacidad 1 y Vigor Rango 1 tiene:</p>
+<p>Aguante = 3 + 1 + 1 = 5</p>
+<hr />
+<h2 id="vigor">Vigor</h2>
+<p>Vigor es una especialización física asociada a Tenacidad. Representa
+la capacidad de sostener esfuerzo prolongado, soportar condiciones
+adversas y seguir operando cuando el cuerpo ya está siendo exigido.</p>
+<p>Vigor se usa en situaciones como:</p>
+<ul>
+<li>cargar peso</li>
+<li>resistir ambientes hostiles</li>
+<li>mantener esfuerzo físico durante largos periodos</li>
+<li>seguir luchando cuando el cuerpo comienza a resentirse</li>
+</ul>
+<p>Además, Vigor ocupa un papel central dentro de este sistema porque no
+solo mejora pruebas relacionadas con la resistencia, sino que también
+incrementa el Aguante del personaje.</p>
+<p>Todo personaje comienza con Vigor Nivel 1 / Rango 1. Operar bajo
+cualquier presión seria exige una base mínima de resistencia física.</p>
+<hr />
+<h2 id="fatiga">Fatiga</h2>
+<p>La Fatiga es el deterioro progresivo que aparece cuando el personaje
+acumula más Desgaste del que puede sostener.</p>
+<p>No surge por una sola acción aislada, sino por acumulación. A medida
+que el Desgaste aumenta, el personaje empieza a perder eficacia. Le
+cuesta más mantener precisión, sostener el ritmo, conservar la claridad
+o responder con la misma firmeza.</p>
+<p>La Fatiga no representa solo agotamiento físico. También puede
+reflejar:</p>
+<ul>
+<li>saturación corporal</li>
+<li>sobrecarga mental</li>
+<li>pérdida de compostura</li>
+<li>dificultad para sostener el mismo nivel de rendimiento</li>
+</ul>
+<h3 id="fatiga-proyectada-y-fatiga-asentada">Fatiga proyectada y Fatiga
+asentada</h3>
+<p>Durante una escena hostil, el personaje puede seguir actuando aunque
+ya haya acumulado bastante Desgaste. Por eso, el sistema distingue entre
+dos momentos distintos:</p>
+<h4 id="fatiga-proyectada">Fatiga proyectada</h4>
+<p>Mientras el combate o la situación de peligro sigue activa, el
+jugador registra cuánto Desgaste lleva acumulado y puede ver qué nivel
+de Fatiga sufriría si la escena terminara en ese momento.</p>
+<p>Esto no significa que la penalización completa se aplique
+inmediatamente. Significa que el personaje ya está forzando su margen y
+que, si continúa así, saldrá de la escena en peor estado.</p>
+<h4 id="fatiga-asentada">Fatiga asentada</h4>
+<p>Cuando la escena hostil termina o desciende claramente de intensidad,
+la adrenalina deja de sostener artificialmente el rendimiento. En ese
+momento, la Fatiga proyectada se convierte en Fatiga real y se aplican
+sus efectos.</p>
+<ul>
+<li>Durante el combate, la Fatiga se proyecta.</li>
+<li>Al terminar el combate, la Fatiga se asienta.</li>
+</ul>
+<h3 id="umbrales-de-fatiga">Umbrales de Fatiga</h3>
+<p>La Fatiga se determina comparando el Desgaste acumulado con el
+Aguante del personaje.</p>
+<table>
+<thead>
+<tr>
+<th>Nivel</th>
+<th>Condición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fatiga 0</td>
+<td>el Desgaste es menor que el Aguante</td>
+</tr>
+<tr>
+<td>Fatiga 1</td>
+<td>el Desgaste es igual o mayor al Aguante</td>
+</tr>
+<tr>
+<td>Fatiga 2</td>
+<td>el Desgaste es igual o mayor a 2 × Aguante</td>
+</tr>
+<tr>
+<td>Fatiga 3</td>
+<td>el Desgaste es igual o mayor a 3 × Aguante</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ejemplo-de-umbrales">Ejemplo de umbrales</h3>
+<p>Si un personaje tiene Aguante 5:</p>
+<ul>
+<li>Desgaste 0 a 4 → sin Fatiga</li>
+<li>Desgaste 5 a 9 → Fatiga 1</li>
+<li>Desgaste 10 a 14 → Fatiga 2</li>
+<li>Desgaste 15 o más → Fatiga 3</li>
+</ul>
+<hr />
+<h2 id="costos-de-desgaste">Costos de Desgaste</h2>
+<p>Las acciones no generan todas el mismo nivel de carga. Para
+reflejarlo, el sistema usa una escala simple de costos.</p>
+<h3 id="escala-de-desgaste">Escala de Desgaste</h3>
+<table>
+<thead>
+<tr>
+<th>Costo</th>
+<th>Tipo de acción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>acción sin exigencia real</td>
+</tr>
+<tr>
+<td>1</td>
+<td>acción significativa estándar</td>
+</tr>
+<tr>
+<td>2</td>
+<td>acción de alta exigencia</td>
+</tr>
+<tr>
+<td>3</td>
+<td>acción extrema o de sobreextensión</td>
+</tr>
+</tbody>
+</table>
+<h3 id="desgaste-1">0 Desgaste</h3>
+<p>Acciones triviales o puramente narrativas que no exigen esfuerzo real
+dentro de la escena.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>una observación evidente</li>
+<li>una frase breve sin peso táctico</li>
+<li>una acción menor sin amenaza inmediata</li>
+</ul>
+<h3 id="desgaste-2">1 Desgaste</h3>
+<p>Acciones significativas normales.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>un ataque estándar</li>
+<li>una defensa sencilla</li>
+<li>un desplazamiento importante bajo presión</li>
+<li>una observación activa del enemigo</li>
+<li>una lectura básica del comportamiento de una criatura</li>
+</ul>
+<h3 id="desgaste-3">2 Desgaste</h3>
+<p>Acciones de alta exigencia.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>interceptar una carga</li>
+<li>proteger a otro personaje absorbiendo presión</li>
+<li>analizar en profundidad a un enemigo durante el combate</li>
+<li>ejecutar una maniobra que altere de verdad el ritmo de la
+escena</li>
+<li>usar una acción mental o social que quite una ventaja
+importante</li>
+</ul>
+<h3 id="desgaste-4">3 Desgaste</h3>
+<p>Acciones extremas o de sobreextensión.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>un esfuerzo límite cuando el personaje ya está muy presionado</li>
+<li>una intervención heroica por encima del margen seguro</li>
+<li>una maniobra especialmente exigente que fuerce al personaje más allá
+de su ritmo normal</li>
+</ul>
+<hr />
+<h2 id="acciones-físicas-mentales-y-sociales">Acciones físicas, mentales
+y sociales</h2>
+<p>El Desgaste no depende del tipo de atributo utilizado, sino de la
+exigencia real de la acción.</p>
+<p>Una acción mental o social genera Desgaste si:</p>
+<ul>
+<li>exige foco real bajo amenaza</li>
+<li>altera la situación táctica</li>
+<li>compite con otras acciones importantes del combate</li>
+<li>obliga al personaje a sostener lectura, control o presión en medio
+del caos</li>
+</ul>
+<p>No toda acción mental o social genera Desgaste. Lo generan aquellas
+que aportan una ventaja real o imponen una carga significativa bajo
+presión.</p>
+<p>Leer a una criatura, quebrar su patrón, forzar una reacción o
+desestabilizar su conducta puede costar tanto como atacar o defenderse,
+cuando la situación lo justifica.</p>
+<hr />
+<h2 id="reacciones-y-desgaste">Reacciones y Desgaste</h2>
+<p>Las reacciones no son costosas por ser reacciones, sino por la
+exigencia que suelen implicar.</p>
+<p>Responder fuera del ritmo natural del personaje suele requerir más
+precisión, tensión y rapidez. Por ello, una reacción puede costar más o
+menos Desgaste según lo difícil que resulte ejecutarla.</p>
+<ul>
+<li>una reacción simple puede costar 1</li>
+<li>una reacción exigente puede costar 2</li>
+<li>una reacción límite puede costar 3</li>
+</ul>
+<p>Lo importante no es su categoría, sino su intensidad dentro de la
+escena.</p>
 
 </div>
 

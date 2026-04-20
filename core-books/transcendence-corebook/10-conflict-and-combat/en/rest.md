@@ -1,8 +1,8 @@
 # Rest
 
-Rest is the most basic way a character recovers control over their body, mind, and composure after a demanding scene. A combat, a chase, a hostile traverse, or an intense confrontation leave more than visible wounds: they also leave heavy breathing, trembling, mental saturation, emotional strain, and a fatigue that does not disappear just because the danger has ended.
+Rest is the primary way a character recovers control over their body, mind, and composure after a demanding scene. A combat, a chase, a hostile traverse, or an intense confrontation leave more than visible wounds: they also leave heavy breathing, trembling, mental saturation, emotional strain, and a fatigue that does not disappear just because the danger has ended.
 
-In Transcendence, resting does not mean "resetting" the character — it means recovering part of the margin they have lost through repeated exposure to conflict.
+Resting does not reset a character. It recovers part of the margin lost through repeated exposure to conflict.
 
 Rest serves three main functions:
 
@@ -20,7 +20,7 @@ Attrition does not disappear automatically when a hostile scene ends. The body i
 
 For this reason, resting reduces Attrition — it does not "erase" the effort narratively for free. By lowering Attrition, the character can drop below Fatigue thresholds and recover part of their functional margin.
 
-This means a character can finish a combat still below their first Fatigue threshold and yet carry Attrition forward into the next scene. Resting is precisely the way to ease that burden before it accumulates into a greater problem.
+A character can finish a combat below their first Fatigue threshold and still carry Attrition into the next scene. Resting eases that burden before it accumulates into a greater problem.
 
 ---
 
@@ -77,7 +77,6 @@ Significant tasks available:
 - studying a recent clue
 - reviewing tracks, maps, or notes
 - distributing resources
-- preparing a daily discipline or ability, if applicable
 
 This is the most stable form of short rest. It allows useful recovery without fully abandoning the expedition's rhythm.
 
@@ -141,13 +140,8 @@ The group may:
 - review maps and notes
 - discuss the route ahead
 - reorganize provisions
-- prepare daily abilities
 - exchange information about threats and pending decisions
 - strengthen bonds or address narrative tensions
-
-#### 6. Daily Resource Recovery
-
-Any ability, discipline, or resource defined as "per day" or "after a full rest" is recovered here.
 
 #### On Physical Recovery
 

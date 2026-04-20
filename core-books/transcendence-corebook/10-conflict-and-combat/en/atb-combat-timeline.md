@@ -1,10 +1,10 @@
 # ATB: The Combat Timeline
 
-In Transcendence, combat is not divided into fixed rounds. Instead, each character, creature, or significant system in the encounter acts according to its own rhythm, its readiness, and the temporal cost of its decisions.
+Combat is not divided into fixed rounds. Each character, creature, or significant system in the encounter acts according to its own rhythm, its readiness, and the temporal cost of its decisions.
 
-This system is represented by the combat timeline, also called the ATB. In it, each participant occupies a position on a track. Whoever is furthest to the left is the one who can act first.
+The combat timeline — also called the ATB — represents this directly. Each participant occupies a position on a track. Whoever is furthest to the left acts first.
 
-When an entity acts, its marker moves to the right according to the rhythm cost of the chosen action. In this way, combat stops feeling like a rigid sequence of isolated turns and begins to function as a continuous flow of pressure, response, and opportunity.
+When an entity acts, its marker moves to the right by the rhythm cost of the chosen action. Acting earlier costs more; delaying an action preserves tempo but surrenders ground.
 
 The ATB exists to answer a simple question:
 
@@ -18,7 +18,7 @@ A marker's position on the track does not represent only "initiative." It repres
 
 A quick action leaves the creature ready sooner. A heavy or demanding action delays it more.
 
-This is why the ATB models the real rhythm of conflict:
+The track makes this visible in real time:
 
 - who reacts first
 - who overcommits
@@ -29,13 +29,15 @@ This is why the ATB models the real rhythm of conflict:
 
 ## Combat Opening
 
-When a hostile scene begins, no prior order exists on the track yet. The combat opening is resolved first.
+When a hostile scene begins, each participant is placed on the track before the first action resolves.
 
 Each participant calculates an Opening Value:
 
 Opening Value = Preparation + situational modifiers
 
-Participants act in descending order according to that value. Whoever has the highest value is the one who reacts first as the conflict begins.
+The highest Opening Value among all participants establishes the Reference Point for this encounter. Each participant's initial position is the difference between that Reference Point and their own Opening Value.
+
+The participant with the highest Opening Value starts at position 0 — the leftmost point on the track — and acts first. All others start to the right at a distance equal to the gap between the Reference Point and their own Opening Value.
 
 Situational modifiers represent circumstances such as:
 
@@ -46,9 +48,7 @@ Situational modifiers represent circumstances such as:
 - having a weapon ready
 - being distracted, wounded, or reorganizing
 
-The opening does not replace the ATB. It only orders the first actions of the combat.
-
-After an entity performs its first action, its marker enters the track according to that action's rhythm cost. From that point on, combat continues normally using the timeline.
+The combat opening is not a separate system from the track. It is the track's starting state. Rhythm costs stack on top of it from the first activation onward.
 
 ---
 
@@ -56,13 +56,13 @@ After an entity performs its first action, its marker enters the track according
 
 Once the opening is resolved, combat enters the full ATB flow.
 
-The base rule is very simple:
+Three principles govern it:
 
 - The leftmost marker acts first.
 - After acting, that marker moves to the right.
-- The distance it moves depends on the rhythm cost of the chosen action.
+- The distance it moves is the action's rhythm cost.
 
-This means the order of action is not fixed from the start. It changes constantly based on what each participant does.
+The order is not fixed from the start. It adjusts with every activation.
 
 A character who uses quick, efficient actions can act again sooner. One who overextends with a very heavy maneuver will take longer to recover their next opportunity.
 
@@ -85,69 +85,73 @@ Rhythm cost is not the same as Attrition:
 - Rhythm responds to how long it takes you to act again.
 - Attrition responds to how much accumulated strain that action leaves on your body, mind, and composure.
 
-Both are usually related, because a more demanding action typically commits you more in both time and effort. However, they are not always identical.
+A more demanding action often commits more in both dimensions — but not always in equal measure.
 
 An action can be:
 
 - quick but demanding
-- slow but relatively stable
-- very efficient for a trained character
-- clumsy and costly for a less competent one
-
-This is why the system separates both dimensions.
+- slow but stable
+- efficient for a trained character
+- costly for one who has not developed that skill
 
 ---
 
 ## Action Bands
 
-Although exact values may be refined later, the system's actions are understood structurally in four bands:
+Every action has a rhythm cost — the number of positions its marker moves right after resolving.
 
-- Quick action
-- Standard action
-- Heavy action
-- Extreme action
+| Band | Rhythm cost |
+| --- | ---: |
+| Free action | 0 |
+| Quick action | 3 |
+| Standard action | 5 |
+| Heavy action | 7 |
+| Extreme action | 9 |
 
-These bands help determine how far an action moves the marker on the track and how significant the temporal commitment it represents.
+Rhythm cost 0 means the marker does not move. The creature holds its position and the next activation in line proceeds. Free actions are constrained by scope: Drop and Speak qualify within limits defined in the action rules.
 
-In practice:
+Extreme actions are not available at the base layer. They appear through Techniques.
 
-- a quick action returns initiative sooner
-- a heavy action creates a larger window for others to act first
-- an extreme action is usually decisive, but also leaves the character more exposed in time
+### Base action families
+
+These costs apply when no specific ability, training, or competency bonus modifies them.
+
+| Action | Rhythm cost | Attrition |
+| --- | ---: | ---: |
+| Free action (drop, speak) | 0 | 0 |
+| Interact | 3 | 1 * |
+| Move | 5 | 1 |
+| Specialization | 5 | 1 |
+| Attack with one-handed weapon | 5 | 1 |
+| Attack with two-handed weapon | 7 | 1 |
+| Attack with two one-handed weapons | 7 | 1 |
+
+\* Attrition cost applies only under real scene pressure. Trivial interactions generate 0.
+
+Terrain does not change rhythm cost. Terrain affects distance covered, required checks, and consequences of movement.
 
 ---
 
 ## Reactions
 
-In Transcendence, reactions exist within the same temporal system as the rest of combat. They are not free actions separate from the general economy.
+Reactions exist within the same timing economy as every other action. Even though they occur outside the character's planned activation, they carry a rhythm cost, an Attrition cost, and advance the marker on the track.
 
-A reaction is an action permitted by a trigger:
+The advantage of a Reaction is not that it is free — it is that it allows the character to intervene now rather than waiting for the next normal activation.
 
-- an enemy attack
-- a tactical opening
-- a threat entering range
-- a need to protect or interrupt
-
-But even though it happens outside your next natural activation, a reaction still has:
-
-- a rhythm cost
-- a possible Attrition cost
-- consequences for your future position on the track
-
-The advantage of a reaction is not that it is free — it is that it allows you to intervene now rather than waiting for your next normal activation.
+The full definition of Reactions — what triggers them, when they are declared, and how they are used — is found in the Actions chapter.
 
 ---
 
 ## Movement and ATB
 
-Moving is not an invisible layer separate from combat. Displacement is also part of the scene's rhythm.
+Movement is not a separate invisible layer. Displacement is part of the scene's rhythm and carries its own rhythm cost.
 
-Its cost depends on factors such as:
+That cost is fixed: Movement always occupies the Standard band of the ATB. Moving to escape a breath attack, reach an advantageous position, or intercept a charge costs the same on the track — what varies is not the time it takes to decide to move, but what that movement can achieve.
 
-- distance
-- terrain
-- urgency
-- conditions
-- the type of movement being attempted
+Terrain does not modify the rhythm cost. What terrain changes is:
 
-This matters because in a system where the environment, telegraphs, and vital points are meaningful, position cannot be a minor detail. Moving to escape a breath attack, reach an exposed throat, or intercept a charge is a central part of the temporal economy of combat.
+- the distance the character can cover
+- whether the path requires a roll
+- the consequences or hazards of the displacement
+
+Position determines what is possible. That is the tactical value of Movement within the ATB.

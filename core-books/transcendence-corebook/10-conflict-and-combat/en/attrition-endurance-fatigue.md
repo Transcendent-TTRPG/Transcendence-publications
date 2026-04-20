@@ -1,14 +1,14 @@
 # Attrition, Endurance, and Fatigue
 
-Combat and high-tension scenes do not only put a character's life at risk — they also wear down their body, mind, and composure. In Transcendence, acting under pressure has a cost. That cost is represented through the Attrition, Endurance, and Fatigue system.
+Combat and high-tension scenes do not only put a character's life at risk — they also wear down their body, mind, and composure. Acting under pressure has a cost. That cost is tracked through the Attrition, Endurance, and Fatigue system.
 
-This system does not replace damage or the activation order. Its function is different: to show how much effort a character can keep sustaining before they begin to deteriorate.
+This system does not replace damage or the activation order. It tracks how much effort a character can sustain before they begin to deteriorate.
 
 Attrition represents the accumulated burden of acting under pressure.
 Endurance represents how much of that burden a character can bear.
 Fatigue represents the deterioration that appears when Attrition exceeds its limits.
 
-In simple terms: a character can keep fighting, analyzing, resisting, and reacting for a time — but they cannot do so indefinitely without consequences.
+A character can keep fighting, analyzing, resisting, and reacting for a time — but not indefinitely.
 
 ---
 
@@ -35,23 +35,23 @@ Not every action generates Attrition. Only those that demand real effort and car
 
 Endurance represents a character's capacity to keep functioning before they begin suffering Fatigue.
 
-Every character possesses a minimum reserve of functionality across three fundamental planes of conflict:
+Every character has a minimum reserve of functionality across three planes of conflict:
 
 - the **body**, which sustains effort, impact, and movement
 - the **mind**, which sustains attention, reading, and interpretation
 - **composure**, which sustains control, intent, and clarity under tension
 
-For this reason, every character has a Base Endurance Reserve of 3. To that base is added the character's physical resilience and their development in Vigor.
+Every character starts with a Base Endurance Reserve of 3. To that base is added the character's physical resilience and their development in Vigor.
 
 ### Endurance Formula
 
 Endurance = 3 + Tenacity + Vigor Rank
 
-This means a character's Endurance depends on:
+Endurance depends on three things:
 
-- their natural capacity to bear effort (Tenacity)
-- their training to sustain demanding activity (Vigor)
-- and a universal minimum reserve representing their capacity to keep operating across body, mind, and composure
+- natural capacity to bear effort (Tenacity)
+- training to sustain demanding activity (Vigor)
+- a universal minimum representing continued function across body, mind, and composure
 
 ### Example
 
@@ -74,7 +74,7 @@ Vigor is used in situations such as:
 
 In addition, Vigor plays a central role within this system because it not only improves rolls related to physical endurance — it also increases the character's Endurance.
 
-Every character begins with Vigor Level 1 / Rank 1, reflecting that surviving in the world of Transcendence requires a minimum baseline of physical resistance.
+Every character begins with Vigor Level 1 / Rank 1. Operating under any serious pressure requires a minimum baseline of physical resistance.
 
 ---
 
@@ -105,9 +105,7 @@ This does not mean the full penalty applies immediately. It means the character 
 
 When the hostile scene ends or clearly drops in intensity, adrenaline stops artificially sustaining performance. At that moment, Projected Fatigue becomes real Fatigue and its effects are applied.
 
-In simple terms:
-
-- During combat, Fatigue is forecasted.
+- During combat, Fatigue is projected.
 - When combat ends, Fatigue settles.
 
 ### Fatigue Thresholds
@@ -193,21 +191,18 @@ Examples:
 
 ## Physical, Mental, and Social Actions
 
-In Transcendence, Attrition does not depend solely on the type of attribute used — it depends on the real demand of the action.
+Attrition does not depend on the type of attribute used — it depends on the real demand of the action.
 
-For this reason, a mental or social action can also generate Attrition if it:
+A mental or social action generates Attrition if it:
 
 - requires genuine focus under threat
 - alters the tactical situation
 - competes with other important combat actions
 - forces the character to sustain reading, control, or pressure in the middle of chaos
 
-This means:
+Not every mental or social action generates Attrition. Those that provide a real advantage or impose a meaningful burden under pressure do.
 
-- not every mental or social action generates Attrition
-- but those that provide a real advantage or impose a meaningful burden under pressure do
-
-In this way, reading a creature, breaking its pattern, forcing a reaction, or destabilizing its behavior can be just as costly as attacking or defending — if the situation warrants it.
+Reading a creature, breaking its pattern, forcing a reaction, or destabilizing its behavior can cost as much as attacking or defending — when the situation warrants it.
 
 ---
 
@@ -222,34 +217,3 @@ Responding outside a character's natural rhythm usually requires more precision,
 - a limit reaction may cost 3
 
 What matters is not its category, but its intensity within the scene.
-
----
-
-## Conditions and Environmental Pressure
-
-Conditions and the environment can also increase the pressure of a scene.
-
-Their function is not to replace Attrition, but to make it harder to keep acting normally. A condition can first hinder, then restrict, and finally accelerate the arrival of Fatigue.
-
-For example, a severe cold condition may not only penalize physical actions — it may also cause each relevant action to cost more Attrition while it remains active.
-
-This allows the environment to be a genuine threat and not merely a descriptive element.
-
----
-
-## Encounter Category and Pressure
-
-An enemy's category does not change a character's Endurance.
-
-A character does not endure more or less because they are fighting a common creature, a champion, or an elite. What changes is the pressure of the encounter:
-
-- how many active threats are present
-- how many demanding actions the group must perform
-- how much environmental pressure accumulates
-- how difficult it is to reach a phase of tactical control
-
-In other words:
-
-- Endurance belongs to the character
-- Attrition belongs to the scene
-- Fatigue appears when the scene exceeds what the character can sustain

@@ -1,14 +1,14 @@
 # Desgaste, Aguante y Fatiga
 
-El combate y las escenas de alta tensión no solo ponen en riesgo la vida de un personaje: también desgastan su cuerpo, su mente y su compostura. En Transcendence, actuar bajo presión tiene un costo. Ese costo se representa mediante el sistema de Desgaste, Aguante y Fatiga.
+El combate y las escenas de alta tensión no solo ponen en riesgo la vida de un personaje: también desgastan su cuerpo, su mente y su compostura. Actuar bajo presión tiene un costo. Ese costo se registra mediante el sistema de Desgaste, Aguante y Fatiga.
 
-Este sistema no reemplaza al daño ni al orden de activación. Su función es distinta: mostrar cuánto esfuerzo puede seguir sosteniendo un personaje antes de empezar a deteriorarse.
+Este sistema no reemplaza al daño ni al orden de activación. Registra cuánto esfuerzo puede seguir sosteniendo un personaje antes de empezar a deteriorarse.
 
 El Desgaste representa la carga acumulada de actuar bajo presión.
 El Aguante representa cuánto de esa carga puede soportar un personaje.
 La Fatiga representa el deterioro que aparece cuando el Desgaste supera sus límites.
 
-En términos simples: un personaje puede seguir luchando, analizando, resistiendo y reaccionando durante un tiempo, pero no puede hacerlo indefinidamente sin consecuencias.
+Un personaje puede seguir luchando, analizando, resistiendo y reaccionando durante un tiempo — pero no indefinidamente.
 
 ---
 
@@ -41,17 +41,17 @@ Todo personaje posee una reserva mínima de funcionamiento en tres planos fundam
 - la **mente**, que sostiene atención, lectura e interpretación
 - la **compostura**, que sostiene control, intención y claridad bajo tensión
 
-Por eso, todo personaje cuenta con una Reserva Base de Aguante de 3. A esa base se le suma la resistencia corporal del personaje y su desarrollo en Vigor.
+Todo personaje cuenta con una Reserva Base de Aguante de 3. A esa base se le suma la resistencia corporal del personaje y su desarrollo en Vigor.
 
 ### Fórmula de Aguante
 
 **Aguante** = 3 + Tenacidad + Rango de Vigor
 
-Esto significa que el Aguante de un personaje depende de:
+El Aguante depende de tres cosas:
 
-- su capacidad natural para soportar esfuerzo (Tenacidad)
-- su entrenamiento para sostener actividad exigente (Vigor)
-- y una reserva mínima universal que representa su capacidad de seguir operando en cuerpo, mente y compostura
+- capacidad natural para soportar esfuerzo (Tenacidad)
+- entrenamiento para sostener actividad exigente (Vigor)
+- una reserva mínima universal que representa la continuidad operativa en cuerpo, mente y compostura
 
 ### Ejemplo
 
@@ -74,7 +74,7 @@ Vigor se usa en situaciones como:
 
 Además, Vigor ocupa un papel central dentro de este sistema porque no solo mejora pruebas relacionadas con la resistencia, sino que también incrementa el Aguante del personaje.
 
-Todo personaje comienza con Vigor Nivel 1 / Rango 1, reflejando que sobrevivir en el mundo de Transcendence exige una base mínima de resistencia.
+Todo personaje comienza con Vigor Nivel 1 / Rango 1. Operar bajo cualquier presión seria exige una base mínima de resistencia física.
 
 ---
 
@@ -105,9 +105,7 @@ Esto no significa que la penalización completa se aplique inmediatamente. Signi
 
 Cuando la escena hostil termina o desciende claramente de intensidad, la adrenalina deja de sostener artificialmente el rendimiento. En ese momento, la Fatiga proyectada se convierte en Fatiga real y se aplican sus efectos.
 
-En términos simples:
-
-- Durante el combate, la Fatiga se pronostica.
+- Durante el combate, la Fatiga se proyecta.
 - Al terminar el combate, la Fatiga se asienta.
 
 ### Umbrales de Fatiga
@@ -193,21 +191,18 @@ Ejemplos:
 
 ## Acciones físicas, mentales y sociales
 
-En Transcendence, el Desgaste no depende únicamente del tipo de atributo utilizado, sino de la exigencia real de la acción.
+El Desgaste no depende del tipo de atributo utilizado, sino de la exigencia real de la acción.
 
-Por eso, una acción mental o social también puede generar Desgaste si:
+Una acción mental o social genera Desgaste si:
 
 - exige foco real bajo amenaza
 - altera la situación táctica
 - compite con otras acciones importantes del combate
 - obliga al personaje a sostener lectura, control o presión en medio del caos
 
-Esto significa que:
+No toda acción mental o social genera Desgaste. Lo generan aquellas que aportan una ventaja real o imponen una carga significativa bajo presión.
 
-- no toda acción mental o social genera Desgaste
-- pero sí lo hacen aquellas que aportan una ventaja real o exigen una carga significativa bajo presión
-
-De esta manera, leer a una criatura, quebrar su patrón, forzar una reacción o desestabilizar su conducta puede ser tan costoso como atacar o defenderse, si la situación lo justifica.
+Leer a una criatura, quebrar su patrón, forzar una reacción o desestabilizar su conducta puede costar tanto como atacar o defenderse, cuando la situación lo justifica.
 
 ---
 
@@ -222,34 +217,3 @@ Responder fuera del ritmo natural del personaje suele requerir más precisión, 
 - una reacción límite puede costar 3
 
 Lo importante no es su categoría, sino su intensidad dentro de la escena.
-
----
-
-## Condiciones y presión ambiental
-
-Las condiciones y el entorno también pueden aumentar la presión de una escena.
-
-Su función no es sustituir el Desgaste, sino volver más difícil seguir actuando con normalidad. Una condición puede primero entorpecer, luego limitar, y finalmente acelerar la llegada de la Fatiga.
-
-Por ejemplo, una condición severa de frío puede no solo penalizar acciones físicas, sino también hacer que cada acción relevante cueste más Desgaste mientras permanezca activa.
-
-Esto permite que el entorno sea una amenaza real y no solo un elemento descriptivo.
-
----
-
-## Categoría del encuentro y presión
-
-La categoría del enemigo no cambia el Aguante del personaje.
-
-Un personaje no aguanta más o menos porque luche contra una criatura común, un campeón o una élite. Lo que cambia es la presión del encuentro:
-
-- cuántas amenazas activas existen
-- cuántas acciones exigentes debe realizar el grupo
-- cuánta presión ambiental se acumula
-- qué tan difícil es llegar a una fase de control del combate
-
-En otras palabras:
-
-- el Aguante pertenece al personaje
-- el Desgaste pertenece a la escena
-- la Fatiga aparece cuando la escena supera lo que el personaje puede sostener

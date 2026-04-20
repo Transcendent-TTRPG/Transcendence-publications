@@ -2,7 +2,7 @@
 
 El descanso es la forma más básica en la que un personaje recupera control sobre su cuerpo, su mente y su compostura después de una escena exigente. Un combate, una persecución, una travesía hostil o una confrontación intensa no solo dejan heridas visibles: también dejan respiración pesada, temblores, saturación mental, tensión emocional y una fatiga que no desaparece solo porque el peligro haya terminado.
 
-En Transcendence, descansar no significa "resetear" al personaje, sino recuperar parte del margen que ha perdido al exponerse repetidamente al conflicto.
+Descansar no significa resetear al personaje. Significa recuperar parte del margen perdido al exponerse repetidamente al conflicto.
 
 El descanso cumple tres funciones principales:
 
@@ -20,7 +20,7 @@ El Desgaste no desaparece automáticamente cuando termina una escena hostil. El 
 
 Por eso, descansar reduce Desgaste, no "borra" el esfuerzo narrativamente porque sí. Al bajar el Desgaste, el personaje puede salir de umbrales de Fatiga y recuperar parte de su margen funcional.
 
-Esto significa que un personaje puede terminar un combate todavía por debajo de su primer umbral de Fatiga y, aun así, seguir arrastrando desgaste hacia la siguiente escena. Descansar es precisamente la forma de aliviar esa carga antes de que se acumule hasta volverse un problema mayor.
+Un personaje puede terminar un combate por debajo de su primer umbral de Fatiga y aun así seguir arrastrando Desgaste hacia la siguiente escena. Descansar alivia esa carga antes de que se acumule hasta volverse un problema mayor.
 
 ---
 
@@ -77,7 +77,6 @@ Tareas significativas disponibles:
 - estudiar una pista reciente
 - revisar huellas, mapas o notas
 - repartir recursos
-- preparar una disciplina o capacidad diaria, si corresponde
 
 Esta es la forma más estable de descanso corto. Permite una recuperación útil sin abandonar por completo el ritmo de la expedición.
 
@@ -141,13 +140,8 @@ El grupo puede:
 - revisar mapas y notas
 - discutir la ruta a seguir
 - reorganizar provisiones
-- preparar capacidades diarias
 - intercambiar información sobre amenazas y decisiones pendientes
 - reforzar vínculos o enfrentar tensiones narrativas
-
-#### 6. Recuperación de recursos diarios
-
-Cualquier capacidad, disciplina o recurso definido como "por día" o "tras descanso completo" se recupera aquí.
 
 #### Sobre la recuperación física
 
