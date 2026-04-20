@@ -2,22 +2,22 @@
 
 ## Sistema de Dados
 
-El juego utiliza principalmente un sistema de dados d10 para la mayoria de las tiradas. Este sistema se centra en el uso de uno o dos dados de diez caras para determinar el exito o fracaso de las acciones de los personajes.
+El juego utiliza principalmente un sistema de dados d10 para la mayoría de las tiradas. Este sistema se centra en el uso de uno o dos dados de diez caras para determinar el éxito o fracaso de las acciones de los personajes.
 
 ## Materiales Necesarios
 
 ### Dados
 
-- 1d4: dado tetraedrico, usado para resultados de bajo rango o danos menores.
-- 1d6: dado cubico clasico, usado para resultados moderados.
-- 1d8: dado octaedrico, usado para resultados y danos intermedios.
-- 1d10: dado decaedrico, usado para la mayoria de las tiradas del juego.
-- 1d12: dado dodecaedrico, usado para resultados y danos altos.
-- 1d20: dado icosaedrico, usado principalmente para tiradas asociadas a salud de criaturas.
+- 1d4: dado tetraédrico, usado para resultados de bajo rango o daños menores.
+- 1d6: dado cúbico clásico, usado para resultados moderados.
+- 1d8: dado octaédrico, usado para resultados y daños intermedios.
+- 1d10: dado decaédrico, usado para la mayoría de las tiradas del juego.
+- 1d12: dado dodecaédrico, usado para resultados y daños altos.
+- 1d20: dado icosaédrico, usado principalmente para tiradas asociadas a salud de criaturas.
 
 ### Hojas de Personaje
 
-Documentos para registrar estadisticas, habilidades, equipo y progresion de cada personaje.
+Documentos para registrar estadísticas, habilidades, equipo y progresión de cada personaje.
 
 ### Tokens
 
@@ -25,11 +25,9 @@ Fichas o marcadores para representar personajes, criaturas y elementos important
 
 ## Regla de Especificidad sobre Generalidad
 
-Si existe conflicto entre una regla especifica y una regla general, la regla especifica prevalece.
+Si existe conflicto entre una regla específica y una regla general, la regla específica prevalece.
 
-### Ejemplo
-
-Si una habilidad define su duracion como Nivel / 2 (redondeado hacia abajo), esta especificacion anula la regla general de redondeo hacia arriba.
+> Si una habilidad define su duración como Nivel / 2 (redondeado hacia abajo), esta especificación anula la regla general de redondeo hacia arriba.
 
 ## Regla de Flexibilidad Narrativa
 
@@ -41,65 +39,63 @@ Estas modificaciones deben ser:
 - consistentes
 - transparentes
 
-El objetivo es priorizar coherencia, colaboracion y disfrute de los jugadores sobre una aplicacion rigida del reglamento.
+El objetivo es priorizar coherencia, colaboración y disfrute de los jugadores sobre una aplicación rígida del reglamento.
 
 ## Regla de Redondeo
 
-Siempre que un calculo produzca fracciones o decimales, el resultado se redondea hacia arriba al entero mas cercano, salvo que una regla especifica indique lo contrario.
+Siempre que un cálculo produzca fracciones o decimales, el resultado se redondea hacia arriba al entero más cercano, salvo que una regla específica indique lo contrario.
 
 Aplica a:
 
-- dano
+- daño
 - duraciones
 - puntuaciones
-- otros valores numericos relevantes
+- otros valores numéricos relevantes
 
-## Regla de la Condicion Mas Fuerte
+## Regla de la Condición Más Fuerte
 
-Cuando una criatura recibe multiples bonificaciones o penalizaciones del mismo tipo, solo se aplica la mas significativa.
+Cuando una criatura recibe múltiples bonificaciones o penalizaciones del mismo tipo, solo se aplica la más significativa.
 
-### Aplicacion
+### Aplicación
 
-Si ya existe un efecto activo y llega uno nuevo del mismo tipo, se comparan magnitud e impacto. Prevalece el mas significativo.
+Si ya existe un efecto activo y llega uno nuevo del mismo tipo, se comparan magnitud e impacto. Prevalece el más significativo.
 
 ### Sobrescritura de Efectos Existentes
 
-Si la nueva condicion es mas fuerte, o es igual de fuerte pero dura mas, reemplaza la condicion existente y su duracion se reinicia desde la nueva aplicacion.
+Si la nueva condición es más fuerte, o es igual de fuerte pero dura más, reemplaza la condición existente y su duración se reinicia desde la nueva aplicación.
 
-### Ejemplo
-
-Thorgar recibe una penalizacion que reduce su velocidad de movimiento a la mitad durante 3 turnos. Luego recibe otra penalizacion del mismo tipo (-2 a velocidad de movimiento) durante 6 turnos. Se mantiene la condicion mas fuerte y la duracion pasa a 6 turnos.
+> Thorgar recibe una penalización que reduce su velocidad de movimiento a la mitad durante 3 turnos. Luego recibe otra penalización del mismo tipo (−2 a velocidad de movimiento) durante 6 turnos. Se mantiene la condición más fuerte y la duración pasa a 6 turnos.
 
 ## Regla para el Manejo de Herramientas
 
-Las actividades de fabricacion, reparacion, refinamiento y especializacion requieren herramientas especificas.
+Las actividades de fabricación, reparación, refinamiento y especialización requieren herramientas específicas.
 
 ### Uso de Herramientas Alternativas
 
 Si el personaje no posee las herramientas adecuadas, puede usar herramientas similares con mayor dificultad en la prueba.
 
-El Narrador evalua la viabilidad de la sustitucion para mantener coherencia narrativa.
+El Narrador evalúa la viabilidad de la sustitución para mantener coherencia narrativa.
 
 ## Ciclo de Aventura
 
-Los Ciclos de Aventura estructuran la experiencia de juego sin microgestion excesiva. Cada fase indica que ocurre y que reglas se activan.
+Los Ciclos de Aventura estructuran la experiencia de juego sin microgestión excesiva. Cada fase indica qué ocurre y qué reglas se activan.
 
-### Fase de Exploracion
+### Fase de Exploración
 
-En esta fase, los jugadores exploran entornos, descubren misterios, buscan recursos e interactuan con el mundo.
+En esta fase, los jugadores exploran entornos, descubren misterios, buscan recursos e interactúan con el mundo.
 
 Comportamientos habituales:
 
-- evaluacion del entorno
+- evaluación del entorno
 - actividades de mantenimiento
-- descanso y recuperacion
-- planificacion y estrategia
+- descanso y recuperación
+- planificación y estrategia
 
 ### Fase de Conflicto
 
-En esta fase se resuelven encuentros de alto riesgo, combate y obstaculos tacticos.
+En esta fase se resuelven encuentros de alto riesgo, combate y obstáculos tácticos.
 
-#### Terminos
+#### Términos
 
 - **Criatura**: entidad que participa en el juego (PJ, PNJ o monstruo).
 - **Personaje (PJ)**: protagonista controlado por un jugador.
@@ -109,24 +105,24 @@ En esta fase se resuelven encuentros de alto riesgo, combate y obstaculos tactic
 #### Flujo de Conflicto
 
 1. El Narrador establece las condiciones del conflicto.
-2. Se colocan las fichas de cada criatura en el track de iniciativa.
-3. Actua la criatura mas a la izquierda del track.
-4. La criatura activa revisa estado, decide objetivo y elige accion.
-5. La criatura declara su intencion.
+2. Se establece la posición inicial de cada participante en la línea de tiempo ATB.
+3. Actúa la ficha más a la izquierda.
+4. La criatura activa revisa su estado, decide su intención y elige una acción.
+5. La criatura declara su intención.
 6. Se revisan reacciones posibles.
 7. Se resuelven interrupciones o respuestas.
-8. Se resuelve la accion principal.
-9. Se mueve la ficha en el track de iniciativa.
-10. Una vez todas las criaturas se activen, se repite desde el paso 3 hasta el fin del conflicto.
+8. Se resuelve la acción principal.
+9. Se mueve la ficha hacia la derecha según el costo de ritmo de la acción.
+10. La nueva ficha más a la izquierda actúa a continuación. Se repite hasta que el conflicto termine.
 
 ### Fase de Interludio
 
-Periodo extendido donde los personajes realizan actividades importantes fuera de escena detallada.
+Período extendido donde los personajes realizan actividades importantes fuera de escena detallada.
 
 Actividades frecuentes:
 
-- creacion y mejora de equipo
-- recuperacion y descanso
-- gestion de recursos
-- planificacion y estrategia
+- creación y mejora de equipo
+- recuperación y descanso
+- gestión de recursos
+- planificación y estrategia
 - desarrollo personal y relaciones

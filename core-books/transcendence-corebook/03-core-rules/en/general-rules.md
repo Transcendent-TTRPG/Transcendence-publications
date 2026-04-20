@@ -27,9 +27,7 @@ Markers used to represent characters, creatures, and other important elements on
 
 If there is a conflict between a specific rule and a general rule, the specific rule takes precedence.
 
-### Example
-
-If an ability defines duration as Level / 2 (rounded down), that specification overrides the general round-up rule.
+> If an ability defines duration as Level / 2 (rounded down), that specification overrides the general round-up rule.
 
 ## Narrative Flexibility Rule
 
@@ -66,9 +64,7 @@ If an effect is already active and a new effect of the same type is applied, com
 
 If the new condition is stronger, or equally strong but longer in duration, it replaces the existing condition and resets duration from the new application.
 
-### Example
-
-Thorgar receives a penalty that halves movement speed for 3 turns. Later he receives another same-type movement penalty (-2 movement speed) for 6 turns. The strongest condition remains active, and duration becomes 6 turns.
+> Thorgar receives a penalty that halves movement speed for 3 turns. Later he receives another same-type movement penalty (−2 movement speed) for 6 turns. The strongest condition remains active, and duration becomes 6 turns.
 
 ## Tool Handling Rule
 
@@ -109,15 +105,15 @@ This phase resolves high-risk encounters, combat, and tactical obstacles.
 #### Conflict Flow
 
 1. The Narrator sets the conflict conditions.
-2. Place each creature token on the initiative track.
-3. The leftmost creature on the track acts.
-4. The active creature reviews status, picks intent, and chooses an action.
+2. Establish each participant's initial position on the ATB combat timeline.
+3. The leftmost marker acts.
+4. The active creature reviews its status, picks its intent, and chooses an action.
 5. The creature declares intent.
 6. Possible reactions are checked.
 7. Interruptions or responses are resolved.
 8. The main action is resolved.
-9. Move the token on the initiative track.
-10. After all creatures activate, repeat from step 3 until the conflict ends.
+9. Move the marker right by the action's rhythm cost.
+10. The new leftmost marker acts next. Continue until the conflict ends.
 
 ### Interlude Phase
 
