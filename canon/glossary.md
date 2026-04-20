@@ -47,6 +47,7 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
+| Extranatural | Extranatural | No | Environmental condition caused by Void-influenced taumatic forces; physically impossible element combinations |
 | Fundamentos | Fundamental | No | Difficulty tier 1 — threshold: 5 + NR; standard conditions |
 | Desafiante | Challenging | No | Difficulty tier 2 — threshold: 8 + NR; minor disruptions |
 | Rigurosa | Rigorous | No | Difficulty tier 3 — threshold: 11 + NR; significant adverse factors |
