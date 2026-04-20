@@ -43,6 +43,19 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 ---
 
+## System terms — difficulty
+
+| ES term | EN equivalent | Do not translate | Notes |
+| --- | --- | --- | --- |
+| Fundamentos | Fundamental | No | Difficulty tier 1 — threshold: 5 + NR; standard conditions |
+| Desafiante | Challenging | No | Difficulty tier 2 — threshold: 8 + NR; minor disruptions |
+| Rigurosa | Rigorous | No | Difficulty tier 3 — threshold: 11 + NR; significant adverse factors |
+| Exigente | Demanding | No | Difficulty tier 4 — threshold: 14 + NR; near-disabling conditions |
+| Extrema | Extreme | No | Difficulty tier 5 — threshold: 17 + NR; limit of the executable |
+| Nivel de Referencia | Reference Level | No | NR — the scaling component added to every difficulty base value |
+
+---
+
 ## System terms — attrition
 
 | ES term | EN equivalent | Do not translate | Notes |
