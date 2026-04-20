@@ -58,6 +58,22 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 ---
 
+## System terms — character development
+
+| ES term | EN equivalent | Do not translate | Notes |
+| --- | --- | --- | --- |
+| Especialización | Specialization | No | A trainable technical, practical, or methodological domain tied to one attribute; the primary route for Synapsis and character differentiation; raw use produces narrative effect only |
+| Sinapsis | Synapsis | No | Attribute growth mechanism; characters improve attributes by practicing specializations tied to those attributes, not by level-based point assignment |
+| Vigor | Vigor | Yes | Universal starting specialization; associated with Tenacity; every character begins at Level 1 / Novice; grants +1 Tenacity at creation; stacks with species bonuses |
+| Novato | Novice | No | Competency rank 1; levels 1–2; first rank granting Synapsis |
+| Adepto | Adept | No | Competency rank 2; levels 3–4 |
+| Experto | Expert | No | Competency rank 3; levels 5–6 |
+| Maestro | Master | No | Competency rank 4; levels 7–8 |
+| Consumado | Consummate | No | Competency rank 5; levels 9–10 |
+| Trascendente | Transcendent | No | Competency rank 6; levels 11+ |
+
+---
+
 ## System terms — techniques
 
 | ES term | EN equivalent | Do not translate | Notes |
