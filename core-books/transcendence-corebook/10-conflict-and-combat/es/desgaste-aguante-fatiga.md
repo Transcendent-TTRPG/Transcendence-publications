@@ -1,3 +1,31 @@
+---
+title: "Desgaste, Aguante y Fatiga"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: es
+chapter: 10
+status: draft
+canonical: false
+tags: [attrition, endurance, fatigue, vigor, combat, strain, fatigue-thresholds]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/descanso.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/acciones.md
+  - core-books/transcendence-corebook/08-skills-and-proficiencies/es/especializaciones.md
+authority_refs:
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/specializations.yaml
+section_modes:
+  - heading: "Ejemplo"
+    writing_mode: example
+  - heading: "Ejemplo de umbrales"
+    writing_mode: example
+---
+
 # Desgaste, Aguante y Fatiga
 
 El combate y las escenas de alta tensión no solo ponen en riesgo la vida de un personaje: también desgastan su cuerpo, su mente y su compostura. Actuar bajo presión tiene un costo. Ese costo se registra mediante el sistema de Desgaste, Aguante y Fatiga.

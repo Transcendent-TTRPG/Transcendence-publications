@@ -1,3 +1,31 @@
+---
+title: "Attrition, Endurance, and Fatigue"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: en
+chapter: 10
+status: draft
+canonical: false
+tags: [attrition, endurance, fatigue, vigor, combat, strain, fatigue-thresholds]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/rest.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/actions.md
+  - core-books/transcendence-corebook/08-skills-and-proficiencies/en/specializations.md
+authority_refs:
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/specializations.yaml
+section_modes:
+  - heading: "Example"
+    writing_mode: example
+  - heading: "Example of thresholds"
+    writing_mode: example
+---
+
 # Attrition, Endurance, and Fatigue
 
 Combat and high-tension scenes do not only put a character's life at risk — they also wear down their body, mind, and composure. Acting under pressure has a cost. That cost is tracked through the Attrition, Endurance, and Fatigue system.

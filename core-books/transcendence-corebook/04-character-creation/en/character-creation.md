@@ -1,12 +1,43 @@
-﻿# Character Creation
+﻿---
+title: "Character Creation"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: en
+chapter: 4
+status: review
+canonical: false
+tags: [character-creation, species, background, specializations, synapsis, attributes, personality-traits, derived-attributes]
+related:
+  - core-books/transcendence-corebook/04-character-creation/es/character-creation.md
+  - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
+  - core-books/transcendence-corebook/08-skills-and-proficiencies/en/specializations.md
+authority_refs:
+  - Transcendence-design/docs/system/backgrounds.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/system/characteristics.md
+  - Transcendence-design/docs/adr/system-abilities-and-specializations.md
+  - Transcendence-design/docs/adr/system-specialization-rank-restructure.md
+  - Transcendence-design/data/system/backgrounds.yaml
+  - Transcendence-design/data/system/specializations.yaml
+  - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/data/system/competencies.yaml
+section_modes:
+  - heading: "Brief Example"
+    writing_mode: example
+  - heading: "Example"
+    writing_mode: example
+---
 
-Character creation is the process through which you define who your character is, where they come from, and what capabilities they have developed before the adventure begins. A character is not built only from numbers, but from the relationship between their nature, their experience, and the way both have shaped their body, mind, and behavior.
+# Character Creation
+
+Character creation is the process through which you define who your character is, where they come from, and what capabilities they have developed before the adventure begins. A character is not built only from numbers, but from the relation between nature, experience, and the way both have shaped body, mind, and behavior.
 
 Every character emerges from the combination of three core elements: species, which defines their biological and cultural foundation; background, which represents the life they lived before becoming an adventurer; and specializations, which express the specific areas where they developed practice, craft, or discipline. From these elements come their characteristics, derived attributes, and overall way of confronting the world.
 
-Creating a character means moving through a sequence of steps in order, each building on the previous one. First, you define the general concept. Then you establish the initial base, choose species and background, select starting specializations, and apply the effects those choices have on characteristics. Finally, you calculate derived attributes, choose personality traits, and record additional attributes granted by species.
+Creating a character means moving through a sequence of steps in order. First, you define the general concept. Then you choose species and background, select starting specializations, and apply the effects those choices have on characteristics. Finally, you calculate derived attributes, choose personality traits, and record additional species attributes.
 
-This process does not only fill a sheet. A character is not only someone with certain values, but a creature with heritage, habits, strengths, limitations, and a prior history that explains why they can do what they do.
+This process does not only fill a sheet. It establishes why the character can do what they do, what shaped them before play, and what kind of presence they bring into the story.
 
 ## Character Concept
 
@@ -86,9 +117,9 @@ Some values are not base characteristics, but derived attributes calculated from
 
 ## Choose Species
 
-Species defines the character's biological and cultural baseline. It does not only determine appearance or origin, but also what kind of body they inhabit, what inherited adaptations they carry, how they move through the world, and what distinctive traits belong to their nature from the beginning.
+Species defines the character's biological and cultural baseline. It determines what kind of body they inhabit, what inherited adaptations they carry, how they move through the world, and what distinctive traits belong to their nature from the beginning.
 
-In narrative terms, species places the character in the world. It indicates which people they belong to, what place their culture holds in the continent's history, and what traditions, habits, beliefs, or tensions they may carry from origin. Choosing species is not only choosing bonuses; it is deciding what kind of being you are before background, discipline, and experience finish shaping you.
+In narrative terms, species places the character in the world. It indicates which people they belong to and what traditions, habits, beliefs, or tensions they may carry from origin. Choosing species is not only choosing bonuses; it is deciding what kind of being you are before background, discipline, and experience finish shaping you.
 
 In mechanical terms, species establishes the character's first permanent traits. Each species offers its own combination of attributes and capabilities. When choosing one, record every element shown in its species profile.
 
@@ -140,7 +171,7 @@ Some species have internal variants. A variant does not replace the species, but
 
 ## What Happens When You Choose a Species
 
-When you choose species, your character immediately gains their natural baseline. This includes biological and cultural identity, languages, size, speed, initial characteristic bonuses, and any additional racial trait listed in the profile.
+When you choose species, your character immediately gains their natural baseline. This includes biological and cultural identity, languages, size, speed, initial characteristic bonuses, and any additional species trait listed in the profile.
 
 At this step, what the character learned or refined is still not defined. That comes later through background and starting specializations. Species expresses what the character is by nature; background and Synapsis express what they have come to develop.
 
@@ -156,9 +187,9 @@ Complete species descriptions, including qualities, legacy, heritage, variants, 
 
 ## Choose Background
 
-Background represents the character's life before adventuring. It defines what experiences shaped them, in what environment they learned to survive, and in which areas they had already developed practice, discipline, or knowledge before story start. While species expresses what the character is by nature, background expresses what they learned and cultivated through prior life.
+Background represents the character's life before adventuring. It defines what experiences shaped them, in what environment they learned to survive, and in which areas they had already developed practice, discipline, or knowledge before the story begins. While species expresses what the character is by nature, background expresses what they learned and cultivated through prior life.
 
-Choosing a background is not only choosing an interesting history, but determining the first concrete form of the character's experience. Through background you define what specialization fields come most naturally, what kind of training they received, and what areas progress faster once the adventure begins. In that sense, background is the bridge between narrative concept and first mechanical capabilities.
+Choosing a background determines the first concrete form of the character's experience. Through background you define what specialization fields come most naturally, what kind of training they received, and what areas progress faster once the adventure begins. In that sense, background is the bridge between narrative concept and first mechanical capabilities.
 
 Each background grants two primary benefits: a major affinity and a set of starting specializations. Major affinity indicates the specialization category where the character progresses faster. When a specialization belongs to that affinity, it levels with 5 progress points; others require 10.
 
@@ -174,30 +205,30 @@ Narratively, background answers a simple but fundamental question: what did your
 
 The Martial Artist has devoted life to bodily perfection. Their training may come from combat schools, warrior clans, arenas, discipline rituals, or a life where the body was the only real survival tool. This background represents those who learned to overcome pain, fatigue, and adversity through repetition, resilience, and constant physical demand.
 
-Major affinity: Physical Specializations.
+Major affinity: Physical.
 Starting specializations: 2 Physical + 1 Mental.
-Additionally, may replace any amount of starting competencies in species natural weapons with crafted weapons.
+May also replace any number of starting species natural-weapon competencies with crafted-weapon competencies.
 
 ### Artisan
 
 The Artisan represents someone who dedicated life to transforming matter, tools, and resources into useful, beautiful, or dangerous objects. Smiths, alchemists, tailors, carvers, builders, and similar trades fit this background. Their value is not only in making, but in observing the world through a technical, patient, precise lens.
 
 Major affinity: Arts and Crafts.
-Starting specializations: 2 Arts and Crafts + 1 Lore or 1 Social.
+Starting specializations: 2 Arts and Crafts + 1 Knowledge or 1 Social.
 
 ### Wanderer
 
 The Wanderer is someone formed by the road. They had no fixed home, or if they once did, learned to live far from it. Their experiences took them across frontiers, ruins, foreign cities, and uncertain landscapes, where they developed ingenuity, intuition, and adaptation. This background embodies those who survive by reading signs, intentions, and opportunities where others see only threat or emptiness.
 
-Major affinity: Mental Specializations.
+Major affinity: Mental.
 Starting specializations: 2 Mental + 1 Physical.
 
 ### Custodian
 
 The Custodian is heir to traditions, institutions, or duties tied to preserving knowledge. They may come from archives, temples, schools, libraries, guardian orders, or lineages tasked with protecting relics, writings, or memory. More than an impulsive explorer, the Custodian represents a character who understands the value of the old and feels moral weight in preserving or interpreting it correctly.
 
-Major affinity: Lore.
-Starting specializations: 2 Lore + 1 Social or 1 Mental.
+Major affinity: Knowledge.
+Starting specializations: 2 Knowledge + 1 Social or 1 Mental.
 
 ### Noble
 
@@ -214,15 +245,15 @@ Starting specializations granted by background are not only a technical baseline
 
 Starting specializations represent concrete fields where the character has developed practice, training, or knowledge before adventure start. Unlike characteristics, which express general aptitudes, specializations describe specific capabilities: actions, trades, lore fields, or practical skills exercised across life.
 
-These specializations are grouped into broad categories that cover different domains of experience: Physical, Mental, Social and Emotional, Arts and Crafts, and Lore. Each category represents a different training mode.
+These specializations are grouped into broad categories that cover different domains of experience: Physical, Mental, Social, Arts and Crafts, and Knowledge. Each category represents a different training mode.
 
 During character creation you do not choose from all game specializations freely, but from those allowed by your background. Background determines how many starting specializations you gain and from which categories they may come. This ensures first competencies are coherent with prior life and training.
 
 Each character gains three starting specializations when creating sheet, following restrictions from background. The same specialization cannot be chosen more than once. All selected options start at Level 1, equivalent to Rank 1.
 
-Choosing starting specializations not only determines where the character stands out in early checks. It also defines a major part of identity. Two characters with the same background can feel very different if their starting specializations differ.
+Choosing starting specializations determines where the character stands out in early checks. It also defines a major part of identity. Two characters with the same background can feel very different if their starting specializations differ.
 
-Additionally, each specialization is tied to an associated characteristic. This relation is not decorative: it expresses what part of the character is strengthened through practice of that skill. Since starting specializations begin at Rank 1, they activate Synapsis at creation and grant an increase to associated characteristics.
+Each specialization is tied to an associated characteristic. This relation is not decorative: it expresses what part of the character is strengthened through practice of that skill. Since starting specializations begin at Rank 1, they activate Synapsis at creation and grant an increase to associated characteristics.
 
 At this stage it is not necessary to detail every specific rule for each specialization. Full descriptions belong in the dedicated chapter. During creation, it is enough to choose three valid options by background, record Level 1 / Rank 1, record associated characteristic, and apply resulting Synapsis.
 
@@ -230,7 +261,7 @@ At this stage it is not necessary to detail every specific rule for each special
 
 In addition to the three starting specializations granted by background, every character begins with the Vigor specialization at Level 1 / Rank 1.
 
-This reflects a basic reality of the world: surviving in this environment demands a minimum foundation of physical endurance, adaptation to effort, and tolerance for adverse conditions. Even before becoming an adventurer, every playable creature must have developed at least an elemental degree of vigor in order to subsist.
+This reflects a basic reality of the world: surviving in this environment demands a minimum foundation of physical endurance, adaptation to effort, and tolerance for adverse conditions. Even before becoming an adventurer, every playable creature must have developed at least an elemental degree of vigor to subsist.
 
 Since Vigor is a specialization associated with Tenacity, its initial rank also immediately activates the corresponding Synapsis.
 
@@ -292,7 +323,7 @@ This formula clearly tracks origin of each value: one part from nature, one from
 
 ## Importance of Synapsis
 
-Synapsis has a central role in character creation and progression. Specializations are not an isolated skill list — they are the direct source of characteristic growth.
+Synapsis has a central role in character creation and progression. Specializations are not an isolated skill list; they are the direct source of characteristic growth.
 
 Characteristics do not increase arbitrarily or through detached bonus packages. They increase because the character has lived, trained, failed, learned, and repeated.
 
@@ -470,9 +501,9 @@ At the end of this stage, your character should have:
 - 1 trait for Neuroticism
 - intensity for each: high or low
 
-## Record Additional Racial Attributes
+## Record Additional Species Attributes
 
-Once species, background, starting specializations, Synapsis, and personality traits are chosen, the final character creation step is recording all additional racial attributes your species grants that are not yet on the sheet.
+Once species, background, starting specializations, Synapsis, and personality traits are chosen, the final character creation step is recording all additional species attributes your species grants that are not yet on the sheet.
 
 This step does not change core identity; it completes it. Its purpose is ensuring every species-derived trait is clearly recorded from the start so it can be used correctly during play. While characteristic bonuses were already applied when choosing species, this step records other elements defining bodily, sensory, and cultural nature.
 
@@ -480,11 +511,11 @@ These attributes include, depending on chosen species: size, height, weight, lan
 
 Recording these attributes matters because many are not purely descriptive. Some affect movement, perception, resistance to specific effects, or combat without crafted weapons. Others influence narrative interaction with the world, such as known languages, a specific heritage mark, or belonging to a certain species variant.
 
-At this stage, review full species profile and ensure no trait remains unrecorded. If a racial capability grants situational bonuses, access to specific attacks, usage restrictions, or additional effects, all details should be recorded from the beginning.
+At this stage, review full species profile and ensure no trait remains unrecorded. If a species capability grants situational bonuses, access to specific attacks, usage restrictions, or additional effects, all details should be recorded from the beginning.
 
 ## What You Must Record
 
-At the end of this step, your sheet should include, in addition to already applied characteristic bonuses, every racial element relevant to your species. These may include:
+At the end of this step, your sheet should include, in addition to already applied characteristic bonuses, every species element relevant to your character. These may include:
 
 - size, height, and weight
 - starting languages
@@ -510,6 +541,12 @@ When you complete this step, your character will already have:
 - three starting specializations
 - derived attributes
 - personality traits
-- all required additional racial attributes
+- all required additional species attributes
 
 With this, character creation is complete and your character is ready to play.
+
+---
+
+## Example
+
+A player creates a hunter from a species with a Tenacity bonus. The player selects a background that grants three starting specializations and then adds the universal Vigor specialization. Those four starting specializations trigger Synapsis where applicable, modify the relevant characteristics, and only then allow the player to calculate derived attributes. The order matters because later values depend on earlier choices.

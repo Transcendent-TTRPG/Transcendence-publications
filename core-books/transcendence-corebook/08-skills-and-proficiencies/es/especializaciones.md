@@ -1,21 +1,37 @@
 ---
 title: "Especializaciones"
 type: corebook
+content_kind: rules
+writing_mode: rules
 language: es
 chapter: 8
 section: especializaciones
-status: draft
+status: review
 canonical: false
 tags: [specializations, progression, synapsis, competencies, character-development]
 related:
   - core-books/transcendence-corebook/08-skills-and-proficiencies/en/specializations.md
-  - core-books/transcendence-corebook/04-character-creation/es/creacion-de-personaje.md
-  - core-books/transcendence-corebook/03-core-rules/es/rolling-system-and-competencies.md
+  - core-books/transcendence-corebook/04-character-creation/es/character-creation.md
+  - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
+authority_refs:
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/system/competencies.md
+  - Transcendence-design/docs/system/backgrounds.md
+  - Transcendence-design/docs/system/characteristics.md
+  - Transcendence-design/docs/adr/system-abilities-and-specializations.md
+  - Transcendence-design/docs/adr/system-specialization-rank-restructure.md
+  - Transcendence-design/data/system/specializations.yaml
+  - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/data/system/competencies.yaml
+  - Transcendence-design/data/system/backgrounds.yaml
+section_modes:
+  - heading: "Ejemplo"
+    writing_mode: example
 ---
 
 # Especializaciones
 
-Las especializaciones son dominios practicables. No representan poderes que el personaje posee, sino disciplinas que ha trabajado: cosas que pueden intentarse, fallarse y refinarse con el tiempo. Una característica mide lo que el personaje es capaz de hacer por naturaleza. Una especialización mide lo que ha elegido practicar.
+Las especializaciones son dominios entrenables. No representan poderes que el personaje simplemente posee, sino disciplinas que ha practicado: cosas que pueden intentarse, fallarse y refinarse con el tiempo. Una característica mide lo que el personaje es capaz de hacer por naturaleza. Una especialización mide lo que ha elegido practicar.
 
 ---
 
@@ -25,7 +41,7 @@ Sin clases que asignen roles, la diferenciación entre personajes depende de lo 
 
 Las especializaciones habilitan el acceso a Técnicas. Una Técnica no surge de una competencia genérica: nace de un dominio específico que el personaje ya ha trabajado. Sin la especialización de base, la Técnica no existe.
 
-Cada vez que un personaje alcanza un nuevo rango en cualquier especialización, gana +1 a la característica asociada a ese dominio. A esto se le llama **Sinapsis**. Las características no aumentan por asignación libre, sino como consecuencia directa del uso.
+Cada vez que un personaje alcanza un nuevo rango en una especialización, gana +1 a la característica asociada a ese dominio. A esto se le llama **Sinapsis**. Las características no aumentan por asignación libre; aumentan como consecuencia directa del uso practicado.
 
 ---
 
@@ -105,7 +121,7 @@ La competencia en una especialización se mide en rangos. Cada rango agrupa dos 
 
 Alcanzar el nivel umbral de un nuevo rango otorga automáticamente +1 a la característica asociada a esa especialización. Esto es la Sinapsis: el incremento de una característica como consecuencia directa de practicar dominios vinculados a ella.
 
-La tensión es real. Alcanzar el Rango 1 en muchas especializaciones distintas genera Sinapsis en múltiples características. Profundizar en una sola genera bonificadores de T.E. mayores y acceso a Técnicas más avanzadas. Ninguna de las dos rutas es superior en abstracto. La elección refleja qué tipo de personaje se está construyendo.
+La tensión es estructural. Alcanzar el Rango 1 en muchas especializaciones distintas genera Sinapsis en múltiples características. Profundizar en una sola genera bonificadores de T.E. mayores y acceso a Técnicas más avanzadas. Ninguna de las dos rutas es superior por defecto; cada una prioriza una forma distinta de crecimiento.
 
 ---
 
@@ -126,3 +142,9 @@ Usar una especialización produce un efecto narrativo. El personaje observa, int
 Una **Técnica** es diferente. Es una aplicación específica, con costo de ritmo y Desgaste definidos, que el personaje desbloquea al alcanzar cierto nivel de competencia en una o más especializaciones. Una Técnica produce efecto narrativo y efecto mecánico en la misma activación, sin requerir acciones adicionales.
 
 Esta distinción es estructural. El uso directo de una especialización abre posibilidades. La Técnica convierte una de esas posibilidades en consecuencia mecánica inmediata.
+
+---
+
+## Ejemplo
+
+Un personaje usa Supervivencia para leer huellas rotas al borde de un camino inundado. Ese uso puede revelar por dónde pasó un grupo y qué ruta sigue siendo viable, pero no daña a un enemigo, no cambia la iniciativa ni impone una condición por sí mismo. Si más adelante el personaje desbloquea una Técnica vinculada al rastreo o a la lectura de campo, esa Técnica sí puede añadir una consecuencia mecánica definida a ese mismo tipo de acción entrenada.

@@ -1,3 +1,43 @@
+---
+title: "Acciones"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: es
+chapter: 10
+status: draft
+canonical: false
+tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/actions.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/atb-linea-de-tiempo.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/desgaste-aguante-fatiga.md
+authority_refs:
+  - Transcendence-design/docs/system/atb-reference.md
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/adr/combat-atb-rhythm-costs.md
+  - Transcendence-design/docs/adr/combat-atb-timeline.md
+  - Transcendence-design/data/system/atb-combat.yaml
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/specializations.yaml
+section_modes:
+  - heading: "Atacar"
+    writing_mode: flavor
+  - heading: "Interactuar"
+    writing_mode: flavor
+  - heading: "Especialización"
+    writing_mode: flavor
+  - heading: "Técnicas"
+    writing_mode: flavor
+  - heading: "Soltar"
+    writing_mode: flavor
+  - heading: "Hablar"
+    writing_mode: flavor
+  - heading: "Ejemplo"
+    writing_mode: example
+---
+
 # Acciones
 
 En combate y en escenas de alta presión, todo lo que un personaje hace tiene un lugar y un costo dentro del flujo temporal. No todas las acciones ocupan ese lugar de la misma manera.
@@ -112,7 +152,7 @@ La distancia base proviene de los valores de velocidad de la especie del persona
 | Reptar | Velocidad a la mitad |
 | Correr | Velocidad al doble |
 
-Nadar, trepar y saltar exigen una Tirada de Especialización. El Narrador la solicita antes o durante el Movimiento según lo que el trayecto requiera.
+Nadar, trepar y saltar exigen cada uno una Tirada de Especialización de su competencia correspondiente — Nadar, Trepar y Saltar. El Narrador la solicita antes o durante el Movimiento según lo que el trayecto requiera.
 
 ---
 
@@ -237,3 +277,9 @@ Esto cubre:
 - una exclamación involuntaria
 
 Engañar, persuadir, negociar o ejercer presión social no es gratuito. La distinción no es de longitud sino de función: transmitir información es gratuito; intentar influir no lo es.
+
+---
+
+## Ejemplo
+
+Un personaje sostiene un pasillo mientras un aliado se repliega. Puede gritar "¡Izquierda!" como Acción Gratuita porque esa frase solo transmite información inmediata. Si ese mismo personaje intenta calmar a un aliado en pánico, provocar a un enemigo o forzar una rendición, ya no es gratuito: la acción busca alterar el estado de decisión de otro participante y debe resolverse con la estructura de acción correspondiente.

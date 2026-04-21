@@ -1,3 +1,45 @@
+---
+title: "Actions"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: en
+chapter: 10
+status: draft
+canonical: false
+tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/acciones.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/atb-combat-timeline.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/attrition-endurance-fatigue.md
+authority_refs:
+  - Transcendence-design/docs/system/atb-reference.md
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/adr/combat-atb-rhythm-costs.md
+  - Transcendence-design/docs/adr/combat-atb-timeline.md
+  - Transcendence-design/data/system/atb-combat.yaml
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/specializations.yaml
+section_modes:
+  - heading: "Two-Handed Weapon"
+    writing_mode: flavor
+  - heading: "Two Weapons"
+    writing_mode: flavor
+  - heading: "Interact"
+    writing_mode: flavor
+  - heading: "Specialization"
+    writing_mode: flavor
+  - heading: "Techniques"
+    writing_mode: flavor
+  - heading: "Drop"
+    writing_mode: flavor
+  - heading: "Speak"
+    writing_mode: flavor
+  - heading: "Example"
+    writing_mode: example
+---
+
 # Actions
 
 In combat and high-tension scenes, everything a character does has a place and a cost within the temporal flow. Not all actions occupy that place the same way.
@@ -112,7 +154,7 @@ The base distance comes from the character's species speed values. Terrain does 
 | Crawling | Half speed |
 | Running | Double speed |
 
-Swimming, climbing, and jumping require a Specialization Roll. The Narrator calls for it before or during the Movement, depending on what the path demands.
+Swimming, climbing, and jumping each require a Specialization Roll using their matching specialization — Swim, Climb, or Jump. The Narrator calls for it before or during the Movement, depending on what the path demands.
 
 ---
 
@@ -237,3 +279,9 @@ This covers:
 - an involuntary exclamation
 
 Deceiving, persuading, negotiating, or applying social pressure is not free. The distinction is not one of length but of function: transmitting information is free; attempting to influence is not.
+
+---
+
+## Example
+
+A character is holding a corridor while an ally withdraws. The character can shout "Left side!" as a Free Action because that line only transmits immediate information. If the same character tries to calm a panicking ally, provoke an enemy, or force a surrender, that is no longer free: the action is now trying to alter another participant's decision state and must be resolved through the appropriate action structure.

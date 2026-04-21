@@ -1,3 +1,25 @@
+---
+title: "Descanso"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: es
+chapter: 10
+status: draft
+canonical: false
+tags: [rest, short-rest, full-rest, attrition, recovery, afflictions, maintenance]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/rest.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/desgaste-aguante-fatiga.md
+authority_refs:
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+section_modes:
+  - heading: "Ejemplo"
+    writing_mode: example
+---
+
 # Descanso
 
 El descanso es la forma más básica en la que un personaje recupera control sobre su cuerpo, su mente y su compostura después de una escena exigente. Un combate, una persecución, una travesía hostil o una confrontación intensa no solo dejan heridas visibles: también dejan respiración pesada, temblores, saturación mental, tensión emocional y una fatiga que no desaparece solo porque el peligro haya terminado.
@@ -217,3 +239,9 @@ Si el Narrador determina que el descanso está sujeto a riesgo, consulta la sigu
 | 94–100 | Evento nefasto | Ocurre una complicación seria: emboscada, revelación peligrosa, traición, colapso del entorno o un giro narrativo que altera de forma grave la situación. |
 
 La tirada de eventos inesperados siempre es secreta y la realiza el Narrador.
+
+---
+
+## Ejemplo
+
+El grupo intenta un Descanso Corto dentro de unas ruinas abandonadas mientras se sabe que hay exploradores enemigos cerca. El Narrador decide que el descanso es posible, pero arriesgado, y hace la tirada secreta aplicando la presión de territorio hostil. El descanso aún puede completarse, pero el resultado puede producir ruido, desplazamiento o interrupción que cambie lo que el grupo enfrentará después. Descansar es tiempo de recuperación, no inmunidad frente a las consecuencias.

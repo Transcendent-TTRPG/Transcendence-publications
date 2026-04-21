@@ -1,4 +1,4 @@
-# 09-core-rules
+# 03-core-rules
 
 Language folders:
 
@@ -7,5 +7,6 @@ Language folders:
 
 Core files:
 
-- `es/general-rules.md` and `en/general-rules.md`
-- `es/rolling-system-and-competencies.md` and `en/rolling-system-and-competencies.md`
+- `es/01-general-rules.md` and `en/01-general-rules.md`
+- `es/02-rolling-system-and-competencies.md` and `en/02-rolling-system-and-competencies.md`
+- `es/03-environmental-conditions.md` and `en/03-environmental-conditions.md`

@@ -1,21 +1,37 @@
 ---
 title: "Specializations"
 type: corebook
+content_kind: rules
+writing_mode: rules
 language: en
 chapter: 8
 section: specializations
-status: draft
+status: review
 canonical: false
 tags: [specializations, progression, synapsis, competencies, character-development]
 related:
   - core-books/transcendence-corebook/08-skills-and-proficiencies/es/especializaciones.md
   - core-books/transcendence-corebook/04-character-creation/en/character-creation.md
-  - core-books/transcendence-corebook/03-core-rules/en/rolling-system-and-competencies.md
+  - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
+authority_refs:
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/system/competencies.md
+  - Transcendence-design/docs/system/backgrounds.md
+  - Transcendence-design/docs/system/characteristics.md
+  - Transcendence-design/docs/adr/system-abilities-and-specializations.md
+  - Transcendence-design/docs/adr/system-specialization-rank-restructure.md
+  - Transcendence-design/data/system/specializations.yaml
+  - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/data/system/competencies.yaml
+  - Transcendence-design/data/system/backgrounds.yaml
+section_modes:
+  - heading: "Example"
+    writing_mode: example
 ---
 
 # Specializations
 
-Specializations are practicable domains. They do not represent powers the character possesses, but disciplines they have worked at: things that can be attempted, failed, and refined over time. A characteristic measures what the character is naturally capable of. A specialization measures what they have chosen to practice.
+Specializations are trainable domains. They do not represent powers a character simply possesses, but disciplines they have practiced: things that can be attempted, failed, and refined over time. A characteristic measures what the character is naturally capable of. A specialization measures what they have chosen to practice.
 
 ---
 
@@ -25,7 +41,7 @@ Without classes to assign roles, differentiation between characters depends on w
 
 Specializations enable access to Techniques. A Technique does not emerge from a generic competency: it grows from a specific domain the character has already worked at. Without the base specialization, the Technique does not exist.
 
-Every time a character reaches a new rank in any specialization, they gain +1 to the characteristic associated with that domain. This is called **Synapsis**. Characteristics do not increase through free point assignment, but as a direct consequence of use.
+Every time a character reaches a new rank in a specialization, they gain +1 to the characteristic associated with that domain. This is called **Synapsis**. Characteristics do not increase through free point assignment; they increase as a direct consequence of practiced use.
 
 ---
 
@@ -105,7 +121,7 @@ Competency in a specialization is measured in ranks. Each rank spans two levels 
 
 Reaching the threshold level of a new rank automatically grants +1 to the characteristic associated with that specialization. This is Synapsis: the increase of a characteristic as a direct consequence of practicing domains linked to it.
 
-The tension is real. Reaching Rank 1 in many different specializations generates Synapsis across multiple characteristics. Deepening one specialization generates higher S.R. bonuses and access to more advanced Techniques. Neither path is superior in the abstract. The choice reflects what kind of character is being built.
+The trade-off is structural. Reaching Rank 1 in many different specializations generates Synapsis across multiple characteristics. Deepening one specialization generates higher S.R. bonuses and access to more advanced Techniques. Neither path is superior by default; each one prioritizes a different kind of growth.
 
 ---
 
@@ -126,3 +142,9 @@ Using a specialization produces a **narrative effect**. The character observes, 
 A **Technique** is different. It is a specific application, with defined rhythm cost and Attrition cost, that the character unlocks by reaching a certain competency level in one or more specializations. A Technique produces narrative effect and mechanical effect in the same activation, without requiring additional actions.
 
 This distinction is structural. Direct use of a specialization opens possibilities. A Technique converts one of those possibilities into an immediate mechanical consequence.
+
+---
+
+## Example
+
+A character uses Survival to read broken tracks at the edge of a flooded road. That use may reveal where a group passed and what route remains viable, but it does not damage an enemy, change initiative, or impose a condition by itself. If the character later unlocks a Technique tied to tracking or field reading, that Technique can attach a defined mechanical consequence to the same kind of trained action.

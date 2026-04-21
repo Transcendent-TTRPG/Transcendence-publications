@@ -1,3 +1,25 @@
+---
+title: "Rest"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: en
+chapter: 10
+status: draft
+canonical: false
+tags: [rest, short-rest, full-rest, attrition, recovery, afflictions, maintenance]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/descanso.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/attrition-endurance-fatigue.md
+authority_refs:
+  - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/data/system/attrition-fatigue.yaml
+section_modes:
+  - heading: "Example"
+    writing_mode: example
+---
+
 # Rest
 
 Rest is the primary way a character recovers control over their body, mind, and composure after a demanding scene. A combat, a chase, a hostile traverse, or an intense confrontation leave more than visible wounds: they also leave heavy breathing, trembling, mental saturation, emotional strain, and a fatigue that does not disappear just because the danger has ended.
@@ -217,3 +239,9 @@ If the Narrator determines the rest is subject to risk, consult the following ta
 | 94–100 | Dire event | A serious complication occurs: an ambush, dangerous revelation, betrayal, environmental collapse, or a narrative turn that severely alters the situation. |
 
 The unexpected events roll is always secret and made by the Narrator.
+
+---
+
+## Example
+
+The group attempts a Short Rest inside abandoned ruins while enemy scouts are known to be nearby. The Narrator decides the rest is possible, but risky, and makes the secret roll with hostile-territory pressure applied. The rest may still succeed, yet the result can produce noise, displacement, or interruption that changes what the group faces next. Rest is recovery time, not immunity from consequence.

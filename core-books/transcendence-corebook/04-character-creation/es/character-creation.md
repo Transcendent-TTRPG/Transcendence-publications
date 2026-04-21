@@ -1,12 +1,43 @@
+---
+title: "Creación de Personaje"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: es
+chapter: 4
+status: review
+canonical: false
+tags: [character-creation, species, background, specializations, synapsis, attributes, personality-traits, derived-attributes]
+related:
+  - core-books/transcendence-corebook/04-character-creation/en/character-creation.md
+  - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
+  - core-books/transcendence-corebook/08-skills-and-proficiencies/es/especializaciones.md
+authority_refs:
+  - Transcendence-design/docs/system/backgrounds.md
+  - Transcendence-design/docs/system/specializations.md
+  - Transcendence-design/docs/system/characteristics.md
+  - Transcendence-design/docs/adr/system-abilities-and-specializations.md
+  - Transcendence-design/docs/adr/system-specialization-rank-restructure.md
+  - Transcendence-design/data/system/backgrounds.yaml
+  - Transcendence-design/data/system/specializations.yaml
+  - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/data/system/competencies.yaml
+section_modes:
+  - heading: "Ejemplo breve"
+    writing_mode: example
+  - heading: "Ejemplo"
+    writing_mode: example
+---
+
 # Creación de Personaje
 
-La creación de personaje es el proceso mediante el cual defines quién es tu personaje, de dónde proviene y qué capacidades ha desarrollado antes del inicio de la aventura. Un personaje no se construye únicamente a partir de números, sino de la relación entre su naturaleza, su experiencia y la forma en que ambas han moldeado su cuerpo, mente y conducta.
+La creación de personaje es el proceso mediante el cual defines quién es tu personaje, de dónde proviene y qué capacidades ha desarrollado antes del inicio de la aventura. Un personaje no se construye únicamente a partir de números, sino de la relación entre naturaleza, experiencia y la forma en que ambas han moldeado su cuerpo, mente y conducta.
 
 Todo personaje surge de la combinación de tres elementos fundamentales: su especie, que determina su base biológica y cultural; su trasfondo, que representa la vida que llevó antes de convertirse en aventurero; y sus especializaciones, que expresan las áreas concretas en las que ha desarrollado práctica, oficio o disciplina. A partir de estos elementos se forman sus características, sus atributos derivados y su forma de enfrentar el mundo.
 
-Crear un personaje implica recorrer una serie de pasos en orden, cada uno construyendo sobre el anterior. Primero se define el concepto general del personaje. Luego se establece su base inicial, se elige su especie y su trasfondo, se seleccionan sus especializaciones iniciales y se aplican los efectos que estas tienen sobre sus características. Finalmente, se calculan sus atributos derivados, se eligen sus rasgos de personalidad y se registran los atributos adicionales otorgados por su especie.
+Crear un personaje implica recorrer una serie de pasos en orden. Primero se define el concepto general del personaje. Luego se eligen su especie y su trasfondo, se seleccionan sus especializaciones iniciales y se aplican los efectos que estas tienen sobre sus características. Finalmente, se calculan sus atributos derivados, se eligen sus rasgos de personalidad y se registran los atributos adicionales de especie.
 
-Este proceso no solo llena una ficha. Un personaje no es solo alguien con ciertos valores, sino una criatura con herencia, hábitos, fortalezas, limitaciones y una historia previa que explica por qué es capaz de hacer lo que hace.
+Este proceso no solo llena una ficha. Establece por qué el personaje puede hacer lo que hace, qué lo formó antes de entrar en juego y qué clase de presencia trae a la historia.
 
 ## Concepto del Personaje
 
@@ -86,9 +117,9 @@ Algunos valores del personaje no son características base, sino atributos deriv
 
 ## Elegir Especie
 
-La especie define la base biológica y cultural del personaje. No solo determina cómo luce o de dónde proviene, sino también qué clase de cuerpo habita, qué adaptaciones heredó, cómo se mueve por el mundo y qué rasgos distintivos forman parte de su naturaleza desde el inicio.
+La especie define la base biológica y cultural del personaje. Determina qué clase de cuerpo habita, qué adaptaciones heredó, cómo se mueve por el mundo y qué rasgos distintivos forman parte de su naturaleza desde el inicio.
 
-En términos narrativos, la especie sitúa al personaje dentro del mundo. Indica a qué pueblo pertenece, qué lugar ocupa su cultura dentro de la historia del continente y qué tradiciones, hábitos, creencias o tensiones puede arrastrar desde su origen. Elegir una especie no consiste únicamente en escoger bonificadores, sino en decidir qué clase de ser eres antes de que el trasfondo, la disciplina o la experiencia terminen de moldearte.
+En términos narrativos, la especie sitúa al personaje dentro del mundo. Indica a qué pueblo pertenece y qué tradiciones, hábitos, creencias o tensiones puede arrastrar desde su origen. Elegir una especie no consiste únicamente en escoger bonificadores, sino en decidir qué clase de ser eres antes de que el trasfondo, la disciplina o la experiencia terminen de moldearte.
 
 En términos mecánicos, la especie establece los primeros rasgos permanentes del personaje. Cada especie ofrece una combinación propia de atributos y capacidades que la diferencian del resto. Al elegirla, debes registrar todos los elementos que aparecen en su perfil de especie.
 
@@ -140,7 +171,7 @@ Algunas especies presentan variantes internas. Una variante no reemplaza la espe
 
 ## Qué ocurre al elegir una especie
 
-Cuando eliges una especie, tu personaje obtiene de inmediato su base natural. Esto incluye su identidad biológica y cultural, sus idiomas, su tamaño, su velocidad, sus bonificaciones iniciales a características y cualquier rasgo racial adicional que figure en su perfil.
+Cuando eliges una especie, tu personaje obtiene de inmediato su base natural. Esto incluye su identidad biológica y cultural, sus idiomas, su tamaño, su velocidad, sus bonificaciones iniciales a características y cualquier rasgo de especie adicional que figure en su perfil.
 
 En este paso todavía no se define qué aprendió el personaje ni cómo refinó sus talentos. Eso vendrá después, al elegir el trasfondo y las especializaciones iniciales. La especie expresa lo que el personaje es por naturaleza; el trasfondo y la Sinapsis expresarán lo que ha llegado a desarrollar.
 
@@ -158,7 +189,7 @@ La descripción completa de cada especie, junto con sus cualidades, legado, here
 
 El trasfondo representa la vida del personaje antes de la aventura. Define el tipo de experiencias que lo formaron, el entorno en el que aprendió a sobrevivir y las áreas en las que ya había desarrollado práctica, disciplina o conocimiento antes del inicio de la historia. Mientras la especie expresa lo que el personaje es por naturaleza, el trasfondo expresa lo que llegó a aprender y cultivar a lo largo de su vida previa.
 
-Elegir un trasfondo no consiste solo en escoger una historia interesante, sino en determinar la primera forma concreta que toma la experiencia del personaje. A través del trasfondo se define qué campos de especialización le resultan más naturales, qué clase de formación recibió y qué áreas progresan con mayor rapidez una vez comienza la aventura. En este sentido, el trasfondo es el puente entre el concepto narrativo del personaje y sus primeras capacidades mecánicas.
+Elegir un trasfondo determina la primera forma concreta que toma la experiencia del personaje. A través del trasfondo se define qué campos de especialización le resultan más naturales, qué clase de formación recibió y qué áreas progresan con mayor rapidez una vez comienza la aventura. En este sentido, el trasfondo es el puente entre el concepto narrativo del personaje y sus primeras capacidades mecánicas.
 
 Cada trasfondo otorga dos beneficios principales: una afinidad mayor y un conjunto de especializaciones iniciales. La afinidad mayor indica la categoría de especializaciones en la que el personaje progresa con mayor rapidez. Cuando una especialización pertenece a esa afinidad, sube de nivel con 5 progresos; las demás requieren 10 progresos. Esto representa que el personaje ya posee una base sólida en ese tipo de formación y aprende con mayor facilidad dentro de ese campo.
 
@@ -174,7 +205,7 @@ En términos narrativos, el trasfondo responde a una pregunta simple pero fundam
 
 El Artista Marcial ha dedicado su vida al perfeccionamiento del cuerpo. Su formación puede provenir de escuelas de combate, clanes guerreros, arenas, rituales de disciplina o de una existencia en la que el cuerpo fue su única herramienta real de supervivencia. Este trasfondo representa a quienes aprendieron a superar el dolor, la fatiga y la adversidad a través de la repetición, la resistencia y la exigencia física constante.
 
-Afinidad mayor: Especializaciones Físicas.
+Afinidad mayor: Física.
 Especializaciones iniciales: 2 Físicas + 1 Mental.
 Además, puede sustituir cualquier cantidad de competencias iniciales en armas naturales de su especie por armas fabricadas.
 
@@ -183,27 +214,27 @@ Además, puede sustituir cualquier cantidad de competencias iniciales en armas n
 El Artesano representa a quien dedicó su vida a transformar materia, herramientas y recursos en objetos útiles, bellos o peligrosos. Herreros, alquimistas, sastres, talladores, constructores y otros oficios similares caben dentro de este trasfondo. Su valor no está solo en fabricar, sino también en observar el mundo con una mirada técnica, paciente y precisa.
 
 Afinidad mayor: Artes y Oficios.
-Especializaciones iniciales: 2 de Artes y Oficios + 1 de Saberes o 1 Social.
+Especializaciones iniciales: 2 de Artes y Oficios + 1 de Conocimiento o 1 Social.
 
 ### Errante
 
 El Errante es alguien formado por el camino. No tuvo un hogar fijo o, si alguna vez lo tuvo, aprendió a vivir lejos de él. Sus experiencias lo llevaron por fronteras, ruinas, ciudades ajenas y paisajes inciertos, donde tuvo que desarrollar ingenio, intuición y capacidad de adaptación. Este trasfondo encarna a quienes sobreviven observando señales, leyendo intenciones y encontrando oportunidades donde otros solo perciben amenaza o vacío.
 
-Afinidad mayor: Especializaciones Mentales.
+Afinidad mayor: Mental.
 Especializaciones iniciales: 2 Mentales + 1 Física.
 
 ### Custodio
 
 El Custodio es heredero de tradiciones, instituciones o deberes ligados a la preservación del conocimiento. Puede provenir de archivos, templos, escuelas, bibliotecas, órdenes guardianas o linajes encargados de proteger reliquias, escrituras o memorias. Más que un explorador impulsivo, el Custodio representa al personaje que comprende el valor de lo antiguo y siente el peso moral de conservarlo o interpretarlo correctamente.
 
-Afinidad mayor: Saberes.
-Especializaciones iniciales: 2 Saberes + 1 Social o 1 Mental.
+Afinidad mayor: Conocimiento.
+Especializaciones iniciales: 2 de Conocimiento + 1 Social o 1 Mental.
 
 ### Noble
 
 El Noble nació o fue criado en un entorno marcado por privilegios, educación, jerarquía y vínculos sociales, aunque no necesariamente por riqueza o poder vigente. Este trasfondo representa a quienes aprendieron a moverse entre estructuras de influencia, negociación, prestigio y deber. Su fuerza suele estar menos en el trabajo bruto y más en la capacidad de proyectar autoridad, interpretar intereses y mover voluntades.
 
-Afinidad mayor: Sociales.
+Afinidad mayor: Social.
 Especializaciones iniciales: 1 Social + 2 de cualquier otra categoría, a elección.
 
 ## Importante: trasfondo y Sinapsis
@@ -214,13 +245,13 @@ Las especializaciones iniciales otorgadas por el trasfondo no son solo un punto 
 
 Las especializaciones representan los campos concretos en los que el personaje ha desarrollado práctica, entrenamiento o conocimiento antes del inicio de la aventura. A diferencia de las características, que expresan aptitudes generales, las especializaciones describen capacidades específicas: acciones, oficios, saberes o destrezas que el personaje realmente ha ejercitado a lo largo de su vida. En ellas se expresa de forma más precisa lo que sabe hacer y cómo ha aprendido a desenvolverse en el mundo.
 
-Estas especializaciones se agrupan en varias grandes categorías que abarcan distintos ámbitos de la experiencia: Físicas, Mentales, Sociales y Emocionales, Artes y Oficios y Saberes. Cada categoría representa un tipo distinto de formación. Algunas se desarrollan a través del entrenamiento corporal y la repetición; otras mediante el estudio, la observación, la interacción social o la práctica técnica prolongada.
+Estas especializaciones se agrupan en varias grandes categorías que abarcan distintos ámbitos de la experiencia: Físicas, Mentales, Sociales, Artes y Oficios y Conocimiento. Cada categoría representa un tipo distinto de formación. Algunas se desarrollan a través del entrenamiento corporal y la repetición; otras mediante el estudio, la observación, la interacción social o la práctica técnica prolongada.
 
 Durante la creación de personaje no eliges entre todas las especializaciones del juego de forma libre, sino entre aquellas que tu trasfondo te permite seleccionar. El trasfondo determina cuántas especializaciones iniciales obtienes y de qué categorías pueden provenir. Esto asegura que las primeras competencias del personaje sean coherentes con su vida previa y con el tipo de formación que recibió antes de convertirse en aventurero.
 
 Cada personaje obtiene tres especializaciones iniciales al crear su ficha, siguiendo las restricciones indicadas por su trasfondo. No puede elegirse la misma especialización más de una vez. Todas las especializaciones escogidas de este modo comienzan en Nivel 1, lo que equivale a Rango 1. Esto significa que el personaje ya posee una base real de entrenamiento en ellas desde el principio.
 
-Elegir especializaciones iniciales no solo determina en qué pruebas destacará el personaje al comenzar la campaña. También define una parte importante de su identidad. Dos personajes con el mismo trasfondo pueden sentirse completamente distintos si sus especializaciones iniciales no son las mismas. Un Errante centrado en Percepción, Rastreo y Supervivencia no se siente igual que otro Errante enfocado en Engaño, Sigilo y Observación, aunque ambos compartan una misma vida previa en términos generales.
+Elegir especializaciones iniciales determina en qué pruebas destacará el personaje al comenzar la campaña. También define una parte importante de su identidad. Dos personajes con el mismo trasfondo pueden sentirse completamente distintos si sus especializaciones iniciales no son las mismas. Un Errante centrado en Percepción, Rastreo y Supervivencia no se siente igual que otro Errante enfocado en Engaño, Sigilo e Intuición, aunque ambos compartan una misma vida previa en términos generales.
 
 Además, cada especialización está vinculada a una característica asociada. Esa relación no es decorativa: expresa qué parte del personaje se fortalece a través de la práctica de dicha habilidad. Por ello, como las especializaciones iniciales comienzan en Rango 1, activan desde la creación la Sinapsis correspondiente y otorgan un aumento a su característica asociada. Esto convierte a las especializaciones en una pieza fundamental de la construcción del personaje, ya que no solo definen lo que sabe hacer, sino también cómo su experiencia previa ha moldeado sus capacidades generales.
 
@@ -343,7 +374,7 @@ En particular, la Resiliencia ya forma parte de las tiradas de resistencia contr
 
 Los atributos derivados pueden cambiar si, más adelante, aumentan las características que los componen. Cada vez que una característica relevante se modifique de forma permanente, debes recalcular cualquier atributo derivado que dependa de ella.
 
-Los atributos derivados no son valores fijos — siguen el crecimiento de las características.
+Los atributos derivados no son valores fijos; siguen el crecimiento de las características.
 
 ## Ejemplo breve
 
@@ -469,9 +500,9 @@ Al terminar esta etapa, tu personaje debe tener:
 - 1 rasgo para Neuroticismo
 - y la intensidad de cada uno: alta o baja
 
-## Registrar Atributos Raciales Adicionales
+## Registrar Atributos Adicionales de Especie
 
-Una vez elegidos la especie, el trasfondo, las especializaciones iniciales, la Sinapsis y los rasgos de personalidad, el último paso de la creación de personaje consiste en registrar todos los atributos raciales adicionales que tu especie aporta y que aún no hayan sido anotados en la ficha.
+Una vez elegidos la especie, el trasfondo, las especializaciones iniciales, la Sinapsis y los rasgos de personalidad, el último paso de la creación de personaje consiste en registrar todos los atributos de especie adicionales que tu especie aporta y que aún no hayan sido anotados en la ficha.
 
 Este paso no modifica la identidad central del personaje, sino que la completa. Su función es asegurarse de que todos los rasgos derivados de la especie queden registrados de forma clara desde el inicio, para que puedan utilizarse correctamente durante el juego. Mientras que las bonificaciones a características ya fueron aplicadas al escoger especie, aquí se anotan los demás elementos que definen la naturaleza corporal, sensorial y cultural del personaje.
 
@@ -479,11 +510,11 @@ Entre estos atributos se incluyen, según la especie elegida, elementos como su 
 
 Registrar estos atributos es importante porque muchos de ellos no son meramente descriptivos. Algunos afectan la forma en que el personaje se desplaza, percibe el entorno, resiste ciertos efectos o combate sin necesidad de armas fabricadas. Otros influyen en la interacción narrativa con el mundo, como los idiomas conocidos, la presencia de una herencia particular o la pertenencia a una variante concreta dentro de la especie.
 
-En esta etapa debes revisar el perfil completo de tu especie y asegurarte de que no quede ningún rasgo sin anotar. Si una capacidad racial concede bonificaciones situacionales, acceso a ataques específicos, restricciones de uso o efectos adicionales, todos esos detalles deben quedar registrados desde el principio. De este modo, la ficha del personaje queda completa y lista para jugar sin depender de revisar constantemente la entrada completa de la especie.
+En esta etapa debes revisar el perfil completo de tu especie y asegurarte de que no quede ningún rasgo sin anotar. Si una capacidad de especie concede bonificaciones situacionales, acceso a ataques específicos, restricciones de uso o efectos adicionales, todos esos detalles deben quedar registrados desde el principio. De este modo, la ficha del personaje queda completa y lista para jugar sin depender de revisar constantemente la entrada completa de la especie.
 
 ## Qué debes registrar
 
-Al finalizar este paso, tu ficha debería incluir, además de las bonificaciones de características ya aplicadas, todos los elementos raciales que correspondan a tu especie. Entre ellos pueden encontrarse:
+Al finalizar este paso, tu ficha debería incluir, además de las bonificaciones de características ya aplicadas, todos los elementos de especie que correspondan a tu personaje. Entre ellos pueden encontrarse:
 
 - tamaño, estatura y peso
 - idiomas iniciales
@@ -509,6 +540,12 @@ Cuando hayas terminado este paso, tu personaje ya contará con:
 - tres especializaciones iniciales
 - atributos derivados
 - rasgos de personalidad
-- todos los atributos raciales adicionales necesarios
+- todos los atributos de especie adicionales necesarios
 
 Con esto, la creación de personaje queda completa y tu personaje está listo para entrar en juego.
+
+---
+
+## Ejemplo
+
+Una jugadora crea a una exploradora de una especie con bonificador a Agilidad. Luego elige un trasfondo que le concede tres especializaciones iniciales y añade Vigor como especialización universal. Esas cuatro especializaciones activan la Sinapsis correspondiente, modifican las características asociadas y solo entonces permiten calcular los atributos derivados. El orden importa porque cada paso se apoya en el anterior.

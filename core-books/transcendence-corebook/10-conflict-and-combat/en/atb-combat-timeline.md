@@ -1,3 +1,28 @@
+---
+title: "ATB: The Combat Timeline"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: en
+chapter: 10
+status: draft
+canonical: false
+tags: [atb, combat, timeline, rhythm, initiative, actions, rhythm-cost, opening]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/atb-linea-de-tiempo.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/actions.md
+  - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
+authority_refs:
+  - Transcendence-design/docs/system/atb-reference.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/docs/adr/combat-atb-timeline.md
+  - Transcendence-design/docs/adr/combat-atb-rhythm-costs.md
+  - Transcendence-design/data/system/atb-combat.yaml
+section_modes:
+  - heading: "Example"
+    writing_mode: example
+---
+
 # ATB: The Combat Timeline
 
 Combat is not divided into fixed rounds. Each character, creature, or significant system in the encounter acts according to its own rhythm, its readiness, and the temporal cost of its decisions.
@@ -72,7 +97,7 @@ A character who uses quick, efficient actions can act again sooner. One who over
 
 If two or more markers occupy the same leftmost position, whoever has the higher Preparation acts first.
 
-If Preparation is also tied, the Narrator or table may use a fixed secondary criterion to maintain clarity and consistency.
+If Preparation is also tied, each participant makes a contested Agility Characteristic Roll. The higher result acts first.
 
 ---
 
@@ -155,3 +180,9 @@ Terrain does not modify the rhythm cost. What terrain changes is:
 - the consequences or hazards of the displacement
 
 Position determines what is possible. That is the tactical value of Movement within the ATB.
+
+---
+
+## Example
+
+Two characters begin the encounter near the same point on the timeline. One chooses a quick reposition to secure cover; the other commits to a heavier action with greater payoff. The first acts again sooner because the rhythm cost paid was lower. The second creates more immediate pressure, but returns later on the track. The timeline records those choices directly instead of converting them into abstract rounds.

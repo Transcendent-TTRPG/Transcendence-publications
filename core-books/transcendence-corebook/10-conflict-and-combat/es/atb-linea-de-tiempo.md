@@ -1,3 +1,28 @@
+---
+title: "ATB: Línea de Tiempo de Combate"
+type: corebook
+content_kind: rules
+writing_mode: rules
+language: es
+chapter: 10
+status: draft
+canonical: false
+tags: [atb, combat, timeline, rhythm, initiative, actions, rhythm-cost, opening]
+related:
+  - core-books/transcendence-corebook/10-conflict-and-combat/en/atb-combat-timeline.md
+  - core-books/transcendence-corebook/10-conflict-and-combat/es/acciones.md
+  - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
+authority_refs:
+  - Transcendence-design/docs/system/atb-reference.md
+  - Transcendence-design/docs/system/mechanics-overview.md
+  - Transcendence-design/docs/adr/combat-atb-timeline.md
+  - Transcendence-design/docs/adr/combat-atb-rhythm-costs.md
+  - Transcendence-design/data/system/atb-combat.yaml
+section_modes:
+  - heading: "Ejemplo"
+    writing_mode: example
+---
+
 # ATB: Línea de Tiempo de Combate
 
 El combate no se divide en rondas fijas. Cada personaje, criatura o sistema importante del encuentro actúa según su ritmo, su preparación y el costo temporal de sus decisiones.
@@ -72,7 +97,7 @@ Un personaje que use acciones rápidas y eficientes puede volver a actuar antes.
 
 Si dos o más fichas ocupan la misma posición más a la izquierda, actúa primero quien tenga mayor Preparación.
 
-Si también empatan en Preparación, el Narrador o la mesa puede usar un criterio fijo secundario para mantener claridad y consistencia.
+Si también empatan en Preparación, cada uno realiza una Tirada de Característica de Agilidad enfrentada. El resultado más alto actúa primero.
 
 ---
 
@@ -155,3 +180,9 @@ El terreno no modifica el costo de ritmo. Lo que el terreno cambia es:
 - las consecuencias o peligros del desplazamiento
 
 La posición determina lo que es posible. Ese es el valor táctico del Movimiento dentro del ATB.
+
+---
+
+## Ejemplo
+
+Dos personajes comienzan el encuentro cerca del mismo punto de la línea de tiempo. Uno elige un reposicionamiento rápido para ganar cobertura; el otro se compromete con una acción más pesada y de mayor impacto. El primero vuelve a actuar antes porque pagó un costo de ritmo menor. El segundo genera más presión inmediata, pero regresa más tarde al track. La línea de tiempo registra esas elecciones de forma directa en lugar de convertirlas en rondas abstractas.

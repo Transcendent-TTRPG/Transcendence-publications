@@ -10,6 +10,8 @@ related: []
 
 This file is the primary editorial anchor for all Transcendence prose. It governs every writing, revision, and AI-assisted editing task in this repository.
 
+For operational mode selection — rules, example, description, narrative, flavor, reference — see `canon/text-modes.md`.
+
 ---
 
 ## Voice description
@@ -23,6 +25,9 @@ The Transcendence voice is precise, restrained, and perceptive. It describes sys
 - Rules text exists to enable decisions.
 - Narrative text exists to guide perception.
 - Example text exists to bridge both — concrete situation, no atmosphere.
+- Description text exists to orient the reader to observable state.
+- Flavor text exists to reinforce tone without carrying essential mechanics.
+- Reference text exists to maximize lookup speed.
 
 ---
 
