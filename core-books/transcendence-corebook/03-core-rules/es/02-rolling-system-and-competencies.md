@@ -37,7 +37,7 @@ Los jugadores eligen cómo afrontar ciertas acciones mediante la Ventaja Evoluti
 
 ## Ventaja Evolutiva
 
-Para las tiradas de Ataque, Defensa y Especialización, los jugadores pueden elegir una de dos aproximaciones antes de tirar.
+Para las tiradas de Ataque, Defensa, Resistencia y Especialización, los jugadores pueden elegir una de dos aproximaciones antes de tirar.
 
 ### Ventaja en la Ejecución
 
@@ -45,7 +45,11 @@ El jugador lanza dos dados y escoge el resultado mayor. La posibilidad de aprend
 
 ### Ventaja en el Aprendizaje
 
-El jugador lanza dos dados y utiliza el resultado menor para resolver la acción. El dado mayor se reserva para la tirada de aprendizaje. Si ese dado mayor supera la suma del dado menor y el rango de competencia correspondiente, el personaje marca un punto de progreso en esa competencia.
+El jugador lanza dos dados y utiliza el resultado menor para resolver la acción.
+
+El dado mayor se reserva para la tirada de aprendizaje.
+
+Si ese dado mayor supera la suma del dado menor y el rango de la competencia que la regla de progresión de esa tirada designe, el personaje marca un punto de progreso en esa competencia.
 
 ## PNJs y otras criaturas
 
@@ -67,13 +71,21 @@ La competencia refleja el dominio técnico del personaje con el medio que emplea
 
 ### Tirada de Defensa (T.D.)
 
-La Tirada de Defensa representa la capacidad del personaje para evitar un ataque entrante. Combina reflejos, movilidad, entrenamiento evasivo y protección proporcionada por la armadura.
+La Tirada de Defensa representa la capacidad del personaje para evitar un ataque entrante. Combina reflejos, movilidad, entrenamiento evasivo, el tipo de armadura en la zona amenazada y la protección adicional que aporte un escudo u otros efectos defensivos.
 
 **Fórmula:**
 
-`Tirada de Defensa = 1d10 + Nivel de Competencia Evasiva + Agilidad + Armadura`
+`Tirada de Defensa = 1d10 + Nivel de Competencia Evasiva + Agilidad aplicable + Bonificadores defensivos`
 
-Su objetivo es igualar o superar la tirada ofensiva del oponente para evitar el daño o los efectos adicionales del ataque.
+La Agilidad aplicable depende del tipo de armadura que proteja la zona impactada:
+
+- armadura ligera: usa toda la Agilidad
+- armadura intermedia: usa la mitad de la Agilidad, mínimo 1
+- armadura pesada: no usa Agilidad
+
+El escudo aporta un bonificador general a la T.D. como parte del equipo defensivo, pero su competencia progresa por Técnicas y maniobras propias, no por la tirada defensiva genérica.
+
+Su objetivo es igualar o superar la tirada ofensiva del oponente para evitar el daño o los efectos adicionales del ataque. Si no lo logra, la armadura de la zona todavía puede absorber parte del impacto. El detalle completo de zonas, piezas y bloqueo pertenece al capítulo de Equipo.
 
 ### Tirada de Impacto (T.I.)
 
@@ -209,9 +221,7 @@ Todas las demás competencias comienzan en nivel 0, por lo que el personaje se c
 
 Las competencias aumentan cuando el personaje las pone en juego de forma significativa y opta por una aproximación orientada al aprendizaje.
 
-Cada vez que un personaje utiliza Ventaja en el Aprendizaje en una T.A., T.D. o T.E., y cumple la condición de aprendizaje correspondiente, obtiene 1 punto de progreso en la competencia asociada.
-
-Además, las competencias defensivas o de resistencia pueden progresar al enfrentar peligros adecuados a su nivel, según el tipo de competencia de que se trate.
+Cada vez que un personaje utiliza Ventaja en el Aprendizaje, la tirada puede generar progreso en una competencia distinta según el tipo de acción y el resultado obtenido.
 
 Para subir un nivel de competencia se requieren:
 
@@ -227,10 +237,11 @@ No toda acción sirve para mejorar una competencia. Para que exista progreso, la
 Las competencias marciales progresan cuando el personaje se enfrenta a adversarios de dificultad adecuada y pone realmente en práctica su entrenamiento.
 
 En el caso de armas, el personaje debe atacar y golpear a criaturas cuyo nivel sea, al menos, igual a su nivel de referencia -1.
+Además, para que la competencia progrese, ese ataque debe causar daño efectivo.
 
 #### Competencias de evasión, armadura, escudo y resistencias
 
-Estas competencias progresan cuando el personaje se convierte en objetivo de peligros relevantes y logra resistirlos, mitigarlos o sobrevivirlos.
+Estas competencias progresan cuando el personaje se convierte en objetivo de peligros relevantes y responde a ellos de una forma que produzca aprendizaje real: evitar, absorber, sobrevivir o soportar la exposición correspondiente.
 
 #### Competencias de especialización
 
@@ -256,20 +267,20 @@ Representan el dominio de un tipo de arma concreto.
 
 **Progresión**
 
-La competencia en armas aumenta cuando el personaje impacta e inflige daño con éxito usando esa arma en enfrentamientos relevantes.
+La competencia en armas aumenta cuando el personaje usa Ventaja en el Aprendizaje, impacta con esa arma u objeto y causa daño efectivo en un enfrentamiento relevante.
 
 ### Armaduras
 
-Reflejan la capacidad del personaje para usar armaduras de forma eficiente.
+Reflejan la capacidad del personaje para usar armaduras de forma eficiente. Se separan por tipo: ligera, intermedia y pesada.
 
 **Bonificadores**
 
-- Cada nivel de competencia aumenta el bloqueo en 1.
-- Alcanzar Maestro reduce en una categoría la penalización a la velocidad de movimiento.
+- Cada nivel de competencia aumenta en 1 el bloqueo de la armadura del tipo correspondiente cuando esa pieza resuelve el impacto en su zona.
+- Alcanzar Maestro reduce la penalización de movimiento de ese tipo de armadura cuando corresponda.
 
 **Progresión**
 
-La competencia en armaduras aumenta cuando el personaje recibe un impacto y la armadura reduce efectivamente parte del daño.
+La competencia en armaduras aumenta con una T.D. fallida bajo Ventaja en el Aprendizaje, siempre que el impacto se resuelva en una zona protegida y la armadura absorba efectivamente parte del daño. El progreso se aplica al tipo de armadura que protegía esa zona.
 
 ### Escudos
 
@@ -277,11 +288,12 @@ Representan el dominio técnico del uso de escudos en combate.
 
 **Bonificadores**
 
-- Cada rango de competencia otorga acceso a maniobras adicionales según el tipo de escudo.
+- El escudo aporta un bonificador general a la T.D. según el equipo usado.
+- Cada rango de competencia otorga acceso a Técnicas adicionales según el tipo de escudo.
 
 **Progresión**
 
-La competencia en escudos aumenta cuando el personaje emplea maniobras marciales de escudo de forma efectiva.
+La competencia en escudos aumenta cuando el personaje emplea Técnicas de escudo de forma efectiva. No progresa por la T.D. genérica.
 
 ### Evasión
 
@@ -294,7 +306,7 @@ La evasión representa la habilidad del personaje para anticipar y evitar ataque
 
 **Progresión**
 
-La evasión aumenta cuando el personaje evita con éxito ataques o peligros relevantes mediante su movilidad y reflejos.
+La evasión aumenta con una T.D. exitosa bajo Ventaja en el Aprendizaje, cuando el personaje evita con éxito ataques o peligros relevantes mediante su movilidad y reflejos.
 
 ### Especialización
 
@@ -318,6 +330,12 @@ Las resistencias representan la capacidad del personaje para soportar tipos conc
 **Bonificador**
 
 - Cada nivel de competencia otorga `+1` a la T.R contra efectos producidos por daño elemental.
+
+#### Física
+
+**Bonificador**
+
+- Cada nivel de competencia otorga `+1` a la T.R en casos generales de resistencia física.
 
 #### Veneno
 
@@ -349,6 +367,10 @@ Las resistencias representan la capacidad del personaje para soportar tipos conc
 **Bonificador**
 
 - Cada nivel de competencia otorga `+1` a la tirada correspondiente para detectar o resistir maldiciones.
+
+**Progresión general de resistencias**
+
+Las resistencias aumentan con una T.R. fallida bajo Ventaja en el Aprendizaje, siempre que el personaje realmente sufra y sobreviva al efecto correspondiente. Resistir por completo un peligro no genera por sí mismo el mismo aprendizaje que soportarlo.
 
 ## Nivel de Referencia
 
@@ -388,18 +410,20 @@ El NR entra directamente en la Tirada de Característica. Representa que, a medi
 
 ## Relación entre tiradas y competencias
 
-| Tirada | Competencia utilizada |
-| --- | --- |
-| T.A. | competencia del arma u objeto empleado |
-| T.D. | Evasión |
-| T.I. | rango de competencia del arma (factor principal) |
-| T.C. | ninguna por defecto — reglas específicas pueden agregar bonificadores |
-| T.R. | resistencia correspondiente al tipo de efecto |
-| T.E. | competencia de la especialización implicada |
-| T.P. | ninguna |
+| Tirada | Competencia utilizada | Progresión con Ventaja en el Aprendizaje |
+| --- | --- | --- |
+| T.A. | competencia del arma u objeto empleado | si el ataque tiene éxito y causa daño, progresa el arma u objeto usado |
+| T.D. | Evasión | si la tirada tiene éxito, progresa Evasión; si falla y la armadura absorbe impacto, progresa el tipo de armadura de la zona resuelta |
+| T.I. | rango de competencia del arma (factor principal) | no progresa por sí sola |
+| T.C. | ninguna por defecto | no progresa por sí sola |
+| T.R. | resistencia correspondiente al tipo de efecto | si falla y el efecto se sufre, progresa la resistencia correspondiente |
+| T.E. | competencia de la especialización implicada | si la tirada tiene éxito, progresa la especialización usada |
+| T.P. | ninguna | no progresa por sí sola |
+
+La competencia de escudo progresa aparte, mediante Técnicas y maniobras de escudo exitosas.
 
 ---
 
 ## Ejemplo
 
-Un personaje intenta cruzar un terreno inestable bajo presión. El Narrador fija un umbral en lugar de pedir una tirada opuesta. El jugador conoce ese umbral antes de elegir entre Ventaja en la Ejecución o Ventaja en el Aprendizaje. Si el personaje usa una especialización para superar el peligro, la prueba se resuelve como una T.E.; si solo depende de aptitud general, se resuelve como una T.C.
+Un personaje intenta esquivar el golpe de una criatura pesada mientras lleva Ventaja en el Aprendizaje. Resuelve la T.D. con el dado menor. Si evita el ataque, la tirada puede generar progreso en Evasión. Si falla, pero la armadura de la zona resuelta absorbe parte del impacto, la misma situación puede generar progreso en el tipo de armadura correspondiente. La competencia que progresa depende del resultado de la tirada, no solo del tipo de acción.

@@ -33,6 +33,8 @@ section_modes:
 
 Las especializaciones son dominios entrenables. No representan poderes que el personaje simplemente posee, sino disciplinas que ha practicado: cosas que pueden intentarse, fallarse y refinarse con el tiempo. Una característica mide lo que el personaje es capaz de hacer por naturaleza. Una especialización mide lo que ha elegido practicar.
 
+En creación de personaje, las especializaciones ayudan a definir qué sabe hacer el personaje, cómo aborda problemas y por qué se diferencia de otros con características similares.
+
 ---
 
 ## Para qué sirven
@@ -42,6 +44,16 @@ Sin clases que asignen roles, la diferenciación entre personajes depende de lo 
 Las especializaciones habilitan el acceso a Técnicas. Una Técnica no surge de una competencia genérica: nace de un dominio específico que el personaje ya ha trabajado. Sin la especialización de base, la Técnica no existe.
 
 Cada vez que un personaje alcanza un nuevo rango en una especialización, gana +1 a la característica asociada a ese dominio. A esto se le llama **Sinapsis**. Las características no aumentan por asignación libre; aumentan como consecuencia directa del uso practicado.
+
+---
+
+## Especializaciones de inicio
+
+Todo personaje comienza con cuatro especializaciones en Nivel 1 / Novato. Tres provienen del trasfondo, según sus restricciones de categoría. La cuarta es universal: **Vigor**.
+
+Vigor está vinculada a Tenacidad. Todo personaje parte con ella independientemente del trasfondo elegido. Representa el mínimo de resistencia física y tolerancia al esfuerzo necesario para operar en este mundo. No reemplaza los bonificadores de especie a Tenacidad; ambos se acumulan.
+
+La misma especialización no puede escogerse dos veces en la creación. Las demás comienzan en Nivel 0, No entrenado.
 
 ---
 
@@ -125,21 +137,11 @@ La tensión es estructural. Alcanzar el Rango 1 en muchas especializaciones dist
 
 ---
 
-## Especializaciones de inicio
-
-Todo personaje comienza con cuatro especializaciones en Nivel 1 / Novato. Tres provienen del trasfondo, según sus restricciones de categoría. La cuarta es universal: **Vigor**.
-
-Vigor está vinculada a Tenacidad. Todo personaje parte con ella independientemente del trasfondo elegido. Representa el mínimo de resistencia física y tolerancia al esfuerzo necesario para operar en este mundo. No reemplaza los bonificadores de especie a Tenacidad; ambos se acumulan.
-
-La misma especialización no puede escogerse dos veces en la creación. Las demás comienzan en Nivel 0, No entrenado.
-
----
-
 ## Uso directo y Técnicas
 
 Usar una especialización produce un efecto narrativo. El personaje observa, interpreta, actúa — pero el estado mecánico de la escena no cambia de forma automática. Cambiar ese estado requiere acciones adicionales que partan de lo aprendido.
 
-Una **Técnica** es diferente. Es una aplicación específica, con costo de ritmo y Desgaste definidos, que el personaje desbloquea al alcanzar cierto nivel de competencia en una o más especializaciones. Una Técnica produce efecto narrativo y efecto mecánico en la misma activación, sin requerir acciones adicionales.
+Una **Técnica** es diferente. Es una aplicación específica que el personaje desbloquea al alcanzar cierto nivel de competencia en una o más especializaciones. A diferencia del uso directo, una Técnica produce una consecuencia mecánica definida en el momento de activarse. Su detalle completo aparece en el capítulo correspondiente.
 
 Esta distinción es estructural. El uso directo de una especialización abre posibilidades. La Técnica convierte una de esas posibilidades en consecuencia mecánica inmediata.
 

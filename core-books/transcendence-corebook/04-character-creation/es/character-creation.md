@@ -39,6 +39,19 @@ Crear un personaje implica recorrer una serie de pasos en orden. Primero se defi
 
 Este proceso no solo llena una ficha. Establece por qué el personaje puede hacer lo que hace, qué lo formó antes de entrar en juego y qué clase de presencia trae a la historia.
 
+## Resumen del proceso
+
+Si estás creando personaje por primera vez, este es el orden práctico:
+
+1. Define el concepto general.
+2. Elige especie.
+3. Elige trasfondo.
+4. Escoge tus especializaciones iniciales.
+5. Aplica la Sinapsis.
+6. Calcula atributos derivados.
+7. Elige rasgos de personalidad.
+8. Registra los atributos adicionales de especie.
+
 ## Concepto del Personaje
 
 Antes de elegir valores, rasgos o especializaciones, el primer paso consiste en definir el concepto del personaje. El concepto es una idea breve pero clara de quién es tu personaje como individuo. No necesita ser una historia completa, pero sí debe responder a la pregunta central: ¿qué clase de persona o criatura es este personaje dentro del mundo?
@@ -183,7 +196,7 @@ Por ello, al elegir especie conviene pensar tanto en el concepto narrativo del p
 
 ### Importante
 
-La descripción completa de cada especie, junto con sus cualidades, legado, herencia, variantes y armas naturales, se encuentra en el capítulo Especies. Durante la creación de personaje solo debes escoger una de ellas y registrar todos los atributos indicados en su perfil.
+La descripción completa de cada especie, junto con sus cualidades, legado, herencia, variantes y armas naturales, se desarrolla en el capítulo Especies. Durante la creación de personaje, registra todos los atributos indicados por la opción elegida.
 
 ## Elegir Trasfondo
 

@@ -39,6 +39,19 @@ Creating a character means moving through a sequence of steps in order. First, y
 
 This process does not only fill a sheet. It establishes why the character can do what they do, what shaped them before play, and what kind of presence they bring into the story.
 
+## Process Summary
+
+If this is your first time creating a character, this is the practical order:
+
+1. Define the general concept.
+2. Choose species.
+3. Choose background.
+4. Select your starting specializations.
+5. Apply Synapsis.
+6. Calculate derived attributes.
+7. Choose personality traits.
+8. Record additional species attributes.
+
 ## Character Concept
 
 Before choosing values, traits, or specializations, the first step is to define your character concept. A concept is a brief but clear idea of who your character is as an individual. It does not need to be a full backstory, but it should answer the central question: what kind of person or creature is this character within the world?
@@ -183,7 +196,7 @@ For this reason, when choosing species, consider both narrative concept and the 
 
 ### Important
 
-Complete species descriptions, including qualities, legacy, heritage, variants, and natural weapons, are in the Species chapter. During character creation you only need to choose one and record every attribute indicated in that profile.
+Complete species descriptions, including qualities, legacy, heritage, variants, and natural weapons, are covered in the Species chapter. During character creation, record every attribute indicated by the option chosen.
 
 ## Choose Background
 

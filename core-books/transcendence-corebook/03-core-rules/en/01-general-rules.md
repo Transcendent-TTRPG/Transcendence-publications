@@ -86,4 +86,4 @@ An extended period outside detailed scene-by-scene play. Characters craft, repai
 
 ## Example
 
-A character is affected by two conditions that seem to overlap. One rule defines how duration stacks, and another states that specific text overrides general procedure. The Narrator resolves the situation by applying the more specific rule first, then using the general rule only where no direct exception exists.
+A group moves through ruins in search of a relic: they investigate corridors, read traces, and decide which route to follow. When a creature emerges from the depths of the sanctuary and forces immediate action under pressure, the scene shifts into Conflict. After they survive the encounter, patch equipment, treat wounds, and organize the next advance, they enter Interlude.

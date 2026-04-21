@@ -50,7 +50,7 @@ Las acciones se dividen en tres tipos:
 - **Reacciones**
 - **Acciones Gratuitas**
 
-Esta división no reemplaza al ATB. Existe para aclarar cómo entra cada tipo de acción dentro del flujo temporal del combate.
+Esta división no reemplaza a la línea de tiempo ATB. Existe para aclarar cómo entra cada tipo de acción dentro del flujo temporal del combate una vez que ese sistema ya está en juego.
 
 ---
 
@@ -242,7 +242,7 @@ Las Técnicas son el resultado de entrenamiento acumulado expresado en una acci�
 
 La mayoría son Acciones Activas; algunas funcionan como Reacciones y pueden activarse fuera de la secuencia normal si su disparador lo permite.
 
-El catálogo completo de Técnicas y sus condiciones de activación se encuentra en el capítulo de Competencias y Técnicas.
+El catálogo completo de Técnicas y sus condiciones de activación se encuentra en el capítulo de Técnicas.
 
 ---
 

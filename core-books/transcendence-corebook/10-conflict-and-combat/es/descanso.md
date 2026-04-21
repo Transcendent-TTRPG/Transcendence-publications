@@ -177,6 +177,8 @@ Dormir bien puede devolverte margen. No siempre puede devolverte integridad.
 
 Descansar no siempre es seguro.
 
+La recuperación es una regla general. La evaluación de riesgo, en cambio, pertenece al Narrador y se usa solo cuando detenerse realmente expone al grupo a consecuencias.
+
 Detenerse puede significar:
 
 - ser encontrado

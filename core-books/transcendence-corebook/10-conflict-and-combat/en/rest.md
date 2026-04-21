@@ -177,6 +177,8 @@ Sleeping well can return your margin. It cannot always return your integrity.
 
 Resting is not always safe.
 
+Recovery is a general rule. Risk evaluation, by contrast, belongs to the Narrator and is used only when stopping truly exposes the group to consequences.
+
 Stopping can mean:
 
 - being found

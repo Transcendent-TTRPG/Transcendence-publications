@@ -33,6 +33,8 @@ section_modes:
 
 Specializations are trainable domains. They do not represent powers a character simply possesses, but disciplines they have practiced: things that can be attempted, failed, and refined over time. A characteristic measures what the character is naturally capable of. A specialization measures what they have chosen to practice.
 
+During character creation, specializations help define what the character knows how to do, how they approach problems, and why they differ from others with similar characteristics.
+
 ---
 
 ## What They Are For
@@ -42,6 +44,16 @@ Without classes to assign roles, differentiation between characters depends on w
 Specializations enable access to Techniques. A Technique does not emerge from a generic competency: it grows from a specific domain the character has already worked at. Without the base specialization, the Technique does not exist.
 
 Every time a character reaches a new rank in a specialization, they gain +1 to the characteristic associated with that domain. This is called **Synapsis**. Characteristics do not increase through free point assignment; they increase as a direct consequence of practiced use.
+
+---
+
+## Starting Specializations
+
+Every character begins with four specializations at Level 1 / Novice. Three come from their background, according to its category restrictions. The fourth is universal: **Vigor**.
+
+Vigor is linked to Tenacity. Every character starts with it regardless of the background chosen. It represents the minimum physical resilience and tolerance for effort required to operate in this world. It does not replace species bonuses to Tenacity — both accumulate.
+
+The same specialization cannot be chosen twice at creation. All others begin at Level 0, Untrained.
 
 ---
 
@@ -125,21 +137,11 @@ The trade-off is structural. Reaching Rank 1 in many different specializations g
 
 ---
 
-## Starting Specializations
-
-Every character begins with four specializations at Level 1 / Novice. Three come from their background, according to its category restrictions. The fourth is universal: **Vigor**.
-
-Vigor is linked to Tenacity. Every character starts with it regardless of the background chosen. It represents the minimum physical resilience and tolerance for effort required to operate in this world. It does not replace species bonuses to Tenacity — both accumulate.
-
-The same specialization cannot be chosen twice at creation. All others begin at Level 0, Untrained.
-
----
-
 ## Direct Use and Techniques
 
 Using a specialization produces a **narrative effect**. The character observes, interprets, acts — but the mechanical state of the scene does not change automatically. Changing that state requires additional actions that follow from what was learned.
 
-A **Technique** is different. It is a specific application, with defined rhythm cost and Attrition cost, that the character unlocks by reaching a certain competency level in one or more specializations. A Technique produces narrative effect and mechanical effect in the same activation, without requiring additional actions.
+A **Technique** is different. It is a specific application the character unlocks by reaching a certain competency level in one or more specializations. Unlike direct use, a Technique produces a defined mechanical consequence at the moment of activation. Its full detail belongs to the corresponding chapter.
 
 This distinction is structural. Direct use of a specialization opens possibilities. A Technique converts one of those possibilities into an immediate mechanical consequence.
 

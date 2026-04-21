@@ -86,4 +86,4 @@ Un período extendido fuera de la escena detallada. Los personajes fabrican, rep
 
 ## Ejemplo
 
-Un personaje queda afectado por dos condiciones que parecen superponerse. Una regla define cómo se acumula la duración y otra establece que el texto específico tiene prioridad sobre el procedimiento general. El Narrador resuelve la situación aplicando primero la regla más específica y usando la general solo donde no exista una excepción directa.
+Un grupo atraviesa unas ruinas en busca de una reliquia: explora pasillos, revisa rastros y decide qué ruta seguir. Cuando una criatura emerge del fondo del santuario y obliga a reaccionar bajo presión inmediata, la escena pasa a Conflicto. Después, cuando sobreviven al encuentro, remiendan equipo, atienden heridas y organizan el siguiente avance, entran en Interludio.

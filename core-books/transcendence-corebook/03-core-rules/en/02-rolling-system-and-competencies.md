@@ -37,7 +37,7 @@ Players choose how to approach certain actions through Evolutionary Advantage. N
 
 ## Evolutionary Advantage
 
-For Attack, Defense, and Specialization checks, players can choose one of two approaches before rolling.
+For Attack, Defense, Resistance, and Specialization checks, players can choose one of two approaches before rolling.
 
 ### Execution Advantage
 
@@ -45,7 +45,11 @@ The player rolls two dice and chooses the higher result. The learning opportunit
 
 ### Learning Advantage
 
-The player rolls two dice and uses the lower result to resolve the action. The higher die is reserved for the learning check. If that higher die exceeds the sum of the lower die and the corresponding competency rank, the character marks one progress point in that competency.
+The player rolls two dice and uses the lower result to resolve the action.
+
+The higher die is reserved for the learning check.
+
+If that higher die exceeds the sum of the lower die and the rank of the competency designated by that roll's progression rule, the character marks one progress point in that competency.
 
 ## NPCs and Other Creatures
 
@@ -67,13 +71,21 @@ Competency reflects the character's technical mastery with the medium being used
 
 ### Defense Roll (D.R.)
 
-The Defense Roll represents the character's ability to avoid an incoming attack. It combines reflexes, mobility, evasive training, and protection provided by armor.
+The Defense Roll represents the character's ability to avoid an incoming attack. It combines reflexes, mobility, evasive training, the armor type protecting the threatened zone, and any additional protection provided by shields or other defensive effects.
 
 **Formula:**
 
-`Defense Roll = 1d10 + Evasion Competency Level + Agility + Armor`
+`Defense Roll = 1d10 + Evasion Competency Level + Applicable Agility + Defense Bonuses`
 
-Its goal is to match or exceed the opponent's offensive roll to avoid damage or additional effects.
+Applicable Agility depends on the armor type protecting the resolved hit zone:
+
+- light armor: use full Agility
+- medium armor: use half Agility, minimum 1
+- heavy armor: Agility does not apply
+
+A shield contributes a general bonus to D.R. as part of defensive equipment, but shield competency progresses through shield-specific Techniques rather than through the generic defense roll.
+
+Its goal is to match or exceed the opponent's offensive roll to avoid damage or additional effects. If it fails, armor in the resolved zone may still absorb part of the impact. Full details for zones, pieces, and block belong in the Equipment chapter.
 
 ### Impact Roll (I.R.)
 
@@ -209,9 +221,7 @@ All other competencies begin at level 0, so the character is considered Untraine
 
 Competencies increase when the character uses them meaningfully and chooses a learning-oriented approach.
 
-Each time a character uses Learning Advantage on an A.R., D.R., or S.R., and meets the corresponding learning condition, they gain 1 progress point in the associated competency.
-
-Defensive and resistance competencies can also progress when the character faces threats appropriate to their level, depending on competency type.
+Each time a character uses Learning Advantage, the roll may generate progress in a different competency depending on the type of action and the result obtained.
 
 To gain one competency level, the following are required:
 
@@ -227,10 +237,11 @@ Not every action can improve a competency. For progression to occur, the situati
 Martial competencies progress when the character faces appropriately difficult adversaries and truly puts their training into practice.
 
 In the case of weapons, the character must attack and hit creatures whose level is at least equal to their reference level -1.
+In addition, for the competency to progress, that attack must deal effective damage.
 
 #### Evasion, armor, shield, and resistance competencies
 
-These competencies progress when the character becomes the target of relevant threats and manages to resist, mitigate, or survive them.
+These competencies progress when the character becomes the target of relevant threats and responds to them in a way that produces real learning: avoiding, absorbing, surviving, or enduring the corresponding exposure.
 
 #### Specialization competencies
 
@@ -256,20 +267,20 @@ They represent mastery of a specific weapon type.
 
 **Progression**
 
-Weapon competency increases when the character successfully hits and deals damage with that weapon in relevant encounters.
+Weapon competency increases when the character uses Learning Advantage, hits with that weapon or object, and deals effective damage in a relevant encounter.
 
 ### Armors
 
-They reflect the character's ability to use armor efficiently.
+They reflect the character's ability to use armor efficiently. They are split by armor type: light, medium, and heavy.
 
 **Bonuses**
 
-- Each competency level increases block by 1.
-- Reaching Master reduces movement speed penalty by one category.
+- Each competency level increases by 1 the block of the corresponding armor type when that piece resolves the impact in its zone.
+- Reaching Master reduces the movement penalty of that armor type where applicable.
 
 **Progression**
 
-Armor competency increases when the character receives a hit and armor effectively reduces part of the damage.
+Armor competency increases on a failed D.R. with Learning Advantage, provided the impact resolves in a protected zone and the armor actually absorbs part of the damage. Progress applies to the armor type protecting that zone.
 
 ### Shields
 
@@ -277,11 +288,12 @@ They represent technical mastery of shield use in combat.
 
 **Bonuses**
 
+- The shield grants a general bonus to D.R. according to the equipment used.
 - Each competency rank grants access to additional maneuvers depending on shield type.
 
 **Progression**
 
-Shield competency increases when the character effectively uses martial shield maneuvers.
+Shield competency increases when the character effectively uses shield Techniques. It does not progress through generic D.R.
 
 ### Evasion
 
@@ -290,10 +302,11 @@ Evasion represents the character's skill at anticipating and avoiding attacks.
 **Bonuses**
 
 - Each competency level grants `+1` to D.R.
+- Each competency rank grants `+1` to D.R.
 
 **Progression**
 
-Evasion increases when the character successfully avoids relevant attacks or threats through mobility and reflexes.
+Evasion increases on a successful D.R. with Learning Advantage, when the character avoids relevant attacks or threats through mobility and reflexes.
 
 ### Specialization
 
@@ -317,6 +330,12 @@ Resistances represent the character's ability to withstand specific types of dan
 **Bonus**
 
 - Each competency level grants `+1` to R.R. against effects produced by elemental damage.
+
+#### Physical
+
+**Bonus**
+
+- Each competency level grants `+1` to R.R. in general cases of physical resistance.
 
 #### Poison
 
@@ -348,6 +367,10 @@ Resistances represent the character's ability to withstand specific types of dan
 **Bonus**
 
 - Each competency level grants `+1` to the corresponding roll to detect or resist curses.
+
+**General resistance progression**
+
+Resistances increase on a failed R.R. with Learning Advantage, provided the character actually suffers and survives the corresponding effect. Completely negating a danger does not create the same kind of learning as enduring it.
 
 ## Reference Level
 
@@ -387,18 +410,20 @@ The RL enters directly into the Characteristic Roll. It represents the fact that
 
 ## Relationship Between Rolls and Competencies
 
-| Roll | Competency used |
-| --- | --- |
-| A.R. | weapon or object competency |
-| D.R. | Evasion |
-| I.R. | weapon competency rank (primary factor) |
-| C.R. | none by default — specific rules may add bonuses |
-| R.R. | resistance corresponding to the effect type |
-| S.R. | specialization competency |
-| P.R. | none |
+| Roll | Competency used | Progression with Learning Advantage |
+| --- | --- | --- |
+| A.R. | weapon or object competency | if the attack succeeds and deals damage, the weapon or object used progresses |
+| D.R. | Evasion | if the roll succeeds, Evasion progresses; if it fails and armor absorbs impact, the armor type of the resolved zone progresses |
+| I.R. | weapon competency rank (primary factor) | does not progress by itself |
+| C.R. | none by default | does not progress by itself |
+| R.R. | resistance corresponding to the effect type | if it fails and the effect is suffered, the corresponding resistance progresses |
+| S.R. | specialization competency | if the roll succeeds, the specialization used progresses |
+| P.R. | none | does not progress by itself |
+
+Shield competency progresses separately, through successful shield Techniques.
 
 ---
 
 ## Example
 
-A character tries to cross unstable ground while under pressure. The Narrator sets a fixed threshold rather than calling for an opposed roll. The player knows that threshold before choosing between Execution Advantage and Learning Advantage. If the character uses a specialization to cross the hazard, the check is resolved as an S.R.; if the character relies only on raw aptitude, it is resolved as a C.R.
+A character tries to evade the strike of a heavy creature while using Learning Advantage. The D.R. is resolved with the lower die. If the character avoids the attack, the check may generate progress in Evasion. If the defense fails, but the armor in the resolved zone absorbs part of the impact, the same situation may generate progress in the corresponding armor type instead. The competency that progresses depends on the result of the roll, not only on the kind of action.

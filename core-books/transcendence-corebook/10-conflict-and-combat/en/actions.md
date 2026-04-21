@@ -52,7 +52,7 @@ Actions are divided into three types:
 - **Reactions**
 - **Free Actions**
 
-This division does not replace the ATB. It exists to clarify how each type of action enters the temporal flow of combat.
+This division does not replace the ATB timeline. It exists to clarify how each type of action enters the temporal flow of combat once that system is already in play.
 
 ---
 
@@ -244,7 +244,7 @@ Techniques are the result of accumulated training expressed in a concrete action
 
 Most are Active Actions; some function as Reactions and may trigger outside the normal sequence if their condition allows it.
 
-The full catalog of Techniques and their activation conditions is found in the Competencies and Techniques chapter.
+The full catalog of Techniques and their activation conditions is found in the Techniques chapter.
 
 ---
 
