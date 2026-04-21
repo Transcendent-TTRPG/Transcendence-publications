@@ -409,6 +409,8 @@ Between Rolls and Competencies</a></li>
 </ul></li>
 <li><a href="#environmental-conditions" id="toc-environmental-conditions">Environmental Conditions</a>
 <ul>
+<li><a href="#sources-of-pressure" id="toc-sources-of-pressure">Sources
+of pressure</a></li>
 <li><a href="#two-types-of-condition" id="toc-two-types-of-condition">Two types of condition</a></li>
 <li><a href="#severity-levels" id="toc-severity-levels">Severity
 levels</a></li>
@@ -419,9 +421,25 @@ tools</a></li>
 <li><a href="#relevant-specializations" id="toc-relevant-specializations">Relevant specializations</a></li>
 <li><a href="#example-2" id="toc-example-2">Example</a></li>
 </ul></li>
+<li><a href="#specializations" id="toc-specializations">Specializations</a>
+<ul>
+<li><a href="#what-they-are-for" id="toc-what-they-are-for">What They
+Are For</a></li>
+<li><a href="#starting-specializations" id="toc-starting-specializations">Starting Specializations</a></li>
+<li><a href="#categories" id="toc-categories">Categories</a></li>
+<li><a href="#specialization-roll" id="toc-specialization-roll">Specialization Roll</a></li>
+<li><a href="#how-they-are-acquired" id="toc-how-they-are-acquired">How
+They Are Acquired</a></li>
+<li><a href="#ranks-and-synapsis" id="toc-ranks-and-synapsis">Ranks and
+Synapsis</a></li>
+<li><a href="#direct-use-and-techniques" id="toc-direct-use-and-techniques">Direct Use and Techniques</a></li>
+<li><a href="#example-3" id="toc-example-3">Example</a></li>
+</ul></li>
 <li><a href="#character-creation" id="toc-character-creation">Character
 Creation</a>
 <ul>
+<li><a href="#process-summary" id="toc-process-summary">Process
+Summary</a></li>
 <li><a href="#character-concept" id="toc-character-concept">Character
 Concept</a></li>
 <li><a href="#base-characteristics" id="toc-base-characteristics">Base
@@ -481,20 +499,6 @@ Attributes</a></li>
 <li><a href="#what-you-must-record" id="toc-what-you-must-record">What
 You Must Record</a></li>
 <li><a href="#character-creation-closure" id="toc-character-creation-closure">Character Creation Closure</a></li>
-<li><a href="#example-3" id="toc-example-3">Example</a></li>
-</ul></li>
-<li><a href="#specializations" id="toc-specializations">Specializations</a>
-<ul>
-<li><a href="#what-they-are-for" id="toc-what-they-are-for">What They
-Are For</a></li>
-<li><a href="#categories" id="toc-categories">Categories</a></li>
-<li><a href="#specialization-roll" id="toc-specialization-roll">Specialization Roll</a></li>
-<li><a href="#how-they-are-acquired" id="toc-how-they-are-acquired">How
-They Are Acquired</a></li>
-<li><a href="#ranks-and-synapsis" id="toc-ranks-and-synapsis">Ranks and
-Synapsis</a></li>
-<li><a href="#starting-specializations" id="toc-starting-specializations">Starting Specializations</a></li>
-<li><a href="#direct-use-and-techniques" id="toc-direct-use-and-techniques">Direct Use and Techniques</a></li>
 <li><a href="#example-4" id="toc-example-4">Example</a></li>
 </ul></li>
 <li><a href="#actions" id="toc-actions">Actions</a>
@@ -742,11 +746,12 @@ prepare for what comes next. Time flows more freely and consequences
 tend to be long-term.</p>
 <hr />
 <h2 id="example">Example</h2>
-<p>A character is affected by two conditions that seem to overlap. One
-rule defines how duration stacks, and another states that specific text
-overrides general procedure. The Narrator resolves the situation by
-applying the more specific rule first, then using the general rule only
-where no direct exception exists.</p>
+<p>A group moves through ruins in search of a relic: they investigate
+corridors, read traces, and decide which route to follow. When a
+creature emerges from the depths of the sanctuary and forces immediate
+action under pressure, the scene shifts into Conflict. After they
+survive the encounter, patch equipment, treat wounds, and organize the
+next advance, they enter Interlude.</p>
 <h1 id="rolling-system-and-competencies">Rolling System and
 Competencies</h1>
 <h2 id="rolling-system">Rolling System</h2>
@@ -758,17 +763,18 @@ circumstances.</p>
 Advantage. NPCs and creatures use a simplified system aligned with their
 narrative function.</p>
 <h2 id="evolutionary-advantage">Evolutionary Advantage</h2>
-<p>For Attack, Defense, and Specialization checks, players can choose
-one of two approaches before rolling.</p>
+<p>For Attack, Defense, Resistance, and Specialization checks, players
+can choose one of two approaches before rolling.</p>
 <h3 id="execution-advantage">Execution Advantage</h3>
 <p>The player rolls two dice and chooses the higher result. The learning
 opportunity from that check is forfeited.</p>
 <h3 id="learning-advantage">Learning Advantage</h3>
 <p>The player rolls two dice and uses the lower result to resolve the
-action. The higher die is reserved for the learning check. If that
-higher die exceeds the sum of the lower die and the corresponding
-competency rank, the character marks one progress point in that
-competency.</p>
+action.</p>
+<p>The higher die is reserved for the learning check.</p>
+<p>If that higher die exceeds the sum of the lower die and the rank of
+the competency designated by that roll’s progression rule, the character
+marks one progress point in that competency.</p>
 <h2 id="npcs-and-other-creatures">NPCs and Other Creatures</h2>
 <p>NPCs and monsters do not necessarily follow the same progression
 rules as player characters. Instead, they use Traits: advantages,
@@ -792,12 +798,25 @@ being used, while the associated characteristic represents the physical,
 mental, or martial aptitude used to execute the action.</p>
 <h3 id="defense-roll-d.r.">Defense Roll (D.R.)</h3>
 <p>The Defense Roll represents the character’s ability to avoid an
-incoming attack. It combines reflexes, mobility, evasive training, and
-protection provided by armor.</p>
+incoming attack. It combines reflexes, mobility, evasive training, the
+armor type protecting the threatened zone, and any additional protection
+provided by shields or other defensive effects.</p>
 <p><strong>Formula:</strong></p>
-<p><code>Defense Roll = 1d10 + Evasion Competency Level + Agility + Armor</code></p>
+<p><code>Defense Roll = 1d10 + Evasion Competency Level + Applicable Agility + Defense Bonuses</code></p>
+<p>Applicable Agility depends on the armor type protecting the resolved
+hit zone:</p>
+<ul>
+<li>light armor: use full Agility</li>
+<li>medium armor: use half Agility, minimum 1</li>
+<li>heavy armor: Agility does not apply</li>
+</ul>
+<p>A shield contributes a general bonus to D.R. as part of defensive
+equipment, but shield competency progresses through shield-specific
+Techniques rather than through the generic defense roll.</p>
 <p>Its goal is to match or exceed the opponent’s offensive roll to avoid
-damage or additional effects.</p>
+damage or additional effects. If it fails, armor in the resolved zone
+may still absorb part of the impact. Full details for zones, pieces, and
+block belong in the Equipment chapter.</p>
 <h3 id="impact-roll-i.r.">Impact Roll (I.R.)</h3>
 <p>The Impact Roll determines the real damage dealt to the target once
 the attack has surpassed defense or the corresponding opposed roll.</p>
@@ -1001,12 +1020,9 @@ considered Untrained in them.</p>
 <h3 id="competency-progression">Competency progression</h3>
 <p>Competencies increase when the character uses them meaningfully and
 chooses a learning-oriented approach.</p>
-<p>Each time a character uses Learning Advantage on an A.R., D.R., or
-S.R., and meets the corresponding learning condition, they gain 1
-progress point in the associated competency.</p>
-<p>Defensive and resistance competencies can also progress when the
-character faces threats appropriate to their level, depending on
-competency type.</p>
+<p>Each time a character uses Learning Advantage, the roll may generate
+progress in a different competency depending on the type of action and
+the result obtained.</p>
 <p>To gain one competency level, the following are required:</p>
 <ul>
 <li>5 progress points in major-affinity specializations.</li>
@@ -1020,11 +1036,15 @@ the situation must represent an appropriate challenge.</p>
 <p>Martial competencies progress when the character faces appropriately
 difficult adversaries and truly puts their training into practice.</p>
 <p>In the case of weapons, the character must attack and hit creatures
-whose level is at least equal to their reference level -1.</p>
+whose level is at least equal to their reference level -1. In addition,
+for the competency to progress, that attack must deal effective
+damage.</p>
 <h4 id="evasion-armor-shield-and-resistance-competencies">Evasion,
 armor, shield, and resistance competencies</h4>
 <p>These competencies progress when the character becomes the target of
-relevant threats and manages to resist, mitigate, or survive them.</p>
+relevant threats and responds to them in a way that produces real
+learning: avoiding, absorbing, surviving, or enduring the corresponding
+exposure.</p>
 <h4 id="specialization-competencies">Specialization competencies</h4>
 <p>Specializations only progress when test difficulty is coherent with
 the character’s rank.</p>
@@ -1047,38 +1067,48 @@ Effects</h2>
 and one additional die to I.R.</li>
 </ul>
 <p><strong>Progression</strong></p>
-<p>Weapon competency increases when the character successfully hits and
-deals damage with that weapon in relevant encounters.</p>
+<p>Weapon competency increases when the character uses Learning
+Advantage, hits with that weapon or object, and deals effective damage
+in a relevant encounter.</p>
 <h3 id="armors">Armors</h3>
-<p>They reflect the character’s ability to use armor efficiently.</p>
+<p>They reflect the character’s ability to use armor efficiently. They
+are split by armor type: light, medium, and heavy.</p>
 <p><strong>Bonuses</strong></p>
 <ul>
-<li>Each competency level increases block by 1.</li>
-<li>Reaching Master reduces movement speed penalty by one category.</li>
+<li>Each competency level increases by 1 the block of the corresponding
+armor type when that piece resolves the impact in its zone.</li>
+<li>Reaching Master reduces the movement penalty of that armor type
+where applicable.</li>
 </ul>
 <p><strong>Progression</strong></p>
-<p>Armor competency increases when the character receives a hit and
-armor effectively reduces part of the damage.</p>
+<p>Armor competency increases on a failed D.R. with Learning Advantage,
+provided the impact resolves in a protected zone and the armor actually
+absorbs part of the damage. Progress applies to the armor type
+protecting that zone.</p>
 <h3 id="shields">Shields</h3>
 <p>They represent technical mastery of shield use in combat.</p>
 <p><strong>Bonuses</strong></p>
 <ul>
+<li>The shield grants a general bonus to D.R. according to the equipment
+used.</li>
 <li>Each competency rank grants access to additional maneuvers depending
 on shield type.</li>
 </ul>
 <p><strong>Progression</strong></p>
 <p>Shield competency increases when the character effectively uses
-martial shield maneuvers.</p>
+shield Techniques. It does not progress through generic D.R.</p>
 <h3 id="evasion">Evasion</h3>
 <p>Evasion represents the character’s skill at anticipating and avoiding
 attacks.</p>
 <p><strong>Bonuses</strong></p>
 <ul>
 <li>Each competency level grants <code>+1</code> to D.R.</li>
+<li>Each competency rank grants <code>+1</code> to D.R.</li>
 </ul>
 <p><strong>Progression</strong></p>
-<p>Evasion increases when the character successfully avoids relevant
-attacks or threats through mobility and reflexes.</p>
+<p>Evasion increases on a successful D.R. with Learning Advantage, when
+the character avoids relevant attacks or threats through mobility and
+reflexes.</p>
 <h3 id="specialization">Specialization</h3>
 <p>Specialization competency reflects technical mastery in a specific
 skill.</p>
@@ -1100,6 +1130,12 @@ exposure, survival, and adaptation.</p>
 <ul>
 <li>Each competency level grants <code>+1</code> to R.R. against effects
 produced by elemental damage.</li>
+</ul>
+<h4 id="physical">Physical</h4>
+<p><strong>Bonus</strong></p>
+<ul>
+<li>Each competency level grants <code>+1</code> to R.R. in general
+cases of physical resistance.</li>
 </ul>
 <h4 id="poison">Poison</h4>
 <p><strong>Bonus</strong></p>
@@ -1133,6 +1169,11 @@ alterations.</li>
 <li>Each competency level grants <code>+1</code> to the corresponding
 roll to detect or resist curses.</li>
 </ul>
+<p><strong>General resistance progression</strong></p>
+<p>Resistances increase on a failed R.R. with Learning Advantage,
+provided the character actually suffers and survives the corresponding
+effect. Completely negating a danger does not create the same kind of
+learning as enduring it.</p>
 <h2 id="reference-level">Reference Level</h2>
 <p>The Reference Level (RL) is a derived value that summarizes a
 character’s overall competency. It is not chosen or assigned directly —
@@ -1171,66 +1212,107 @@ deeply.</p>
 <h2 id="relationship-between-rolls-and-competencies">Relationship
 Between Rolls and Competencies</h2>
 <table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
 <thead>
 <tr>
 <th>Roll</th>
 <th>Competency used</th>
+<th>Progression with Learning Advantage</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>A.R.</td>
 <td>weapon or object competency</td>
+<td>if the attack succeeds and deals damage, the weapon or object used
+progresses</td>
 </tr>
 <tr>
 <td>D.R.</td>
 <td>Evasion</td>
+<td>if the roll succeeds, Evasion progresses; if it fails and armor
+absorbs impact, the armor type of the resolved zone progresses</td>
 </tr>
 <tr>
 <td>I.R.</td>
 <td>weapon competency rank (primary factor)</td>
+<td>does not progress by itself</td>
 </tr>
 <tr>
 <td>C.R.</td>
-<td>none by default — specific rules may add bonuses</td>
+<td>none by default</td>
+<td>does not progress by itself</td>
 </tr>
 <tr>
 <td>R.R.</td>
 <td>resistance corresponding to the effect type</td>
+<td>if it fails and the effect is suffered, the corresponding resistance
+progresses</td>
 </tr>
 <tr>
 <td>S.R.</td>
 <td>specialization competency</td>
+<td>if the roll succeeds, the specialization used progresses</td>
 </tr>
 <tr>
 <td>P.R.</td>
 <td>none</td>
+<td>does not progress by itself</td>
 </tr>
 </tbody>
 </table>
+<p>Shield competency progresses separately, through successful shield
+Techniques.</p>
 <hr />
 <h2 id="example-1">Example</h2>
-<p>A character tries to cross unstable ground while under pressure. The
-Narrator sets a fixed threshold rather than calling for an opposed roll.
-The player knows that threshold before choosing between Execution
-Advantage and Learning Advantage. If the character uses a specialization
-to cross the hazard, the check is resolved as an S.R.; if the character
-relies only on raw aptitude, it is resolved as a C.R.</p>
+<p>A character tries to evade the strike of a heavy creature while using
+Learning Advantage. The D.R. is resolved with the lower die. If the
+character avoids the attack, the check may generate progress in Evasion.
+If the defense fails, but the armor in the resolved zone absorbs part of
+the impact, the same situation may generate progress in the
+corresponding armor type instead. The competency that progresses depends
+on the result of the roll, not only on the kind of action.</p>
 <h1 id="environmental-conditions">Environmental Conditions</h1>
 <p>Environmental conditions give the Narrator a framework for assigning
-difficulty when the challenge comes from the world — terrain, weather,
-exposure, or the general threat level of a situation. They do not
-operate as a separate rule from the threshold system. They are the tool
-the Narrator uses to determine which difficulty tier applies when no
-other mechanic does.</p>
+difficulty when the challenge comes from pressure external to the actor:
+terrain, weather, exposure, a dominant hostile presence, or the general
+threat level of a situation. They do not operate as a separate rule from
+the threshold system. They are the tool the Narrator uses to determine
+which difficulty tier applies when no other mechanic does.</p>
 <p>If a specific rule already exists for an action, that rule takes
 precedence. If none exists, the severity of the environment establishes
 the threshold.</p>
 <hr />
+<h2 id="sources-of-pressure">Sources of pressure</h2>
+<p>An environmental condition does not describe only weather or terrain.
+It describes any scene pressure that comes from outside the character
+and alters the normal way of acting.</p>
+<p>The most common sources are three:</p>
+<ul>
+<li><strong>Ambient.</strong> Terrain, weather, darkness, heat, cold,
+altitude, water, smoke, noise, or exposure.</li>
+<li><strong>Hostile.</strong> A presence that dominates the situation
+even when no dedicated mechanic is yet resolving it: a clearly superior
+mortal creature, an anomalous entity, a primordial presence, a pursuit,
+or a space controlled by active threat.</li>
+<li><strong>Extranatural.</strong> An alteration of the perceptible
+world caused by Limbo filtration or by Tauma acting on something that
+already exists.</li>
+</ul>
+<p>The exact taxonomy of creatures belongs in the creature chapters.
+Here only one mechanical distinction matters: whether the pressure
+follows the natural logic of the world or comes from extranatural
+filtration.</p>
+<hr />
 <h2 id="two-types-of-condition">Two types of condition</h2>
 <p><strong>Natural</strong> conditions follow the physical laws of the
-world. They can be extreme — a hurricane, a volcanic field, a cave-in —
-but they operate within coherent physical logic.</p>
+world. They can be extreme — a hurricane, a volcanic field, a cave-in,
+the presence of an enormous predator, or an overwhelming mortal creature
+— but they operate within coherent physical logic.</p>
 <p><strong>Extranatural</strong> conditions are phenomena in the
 perceptible world that involve Limbo energy — the imperceptible parallel
 dimension, the origin of Tauma. Tauma does not generate phenomena from
@@ -1239,6 +1321,10 @@ material world. What distinguishes an extranatural condition from a
 natural one is not intensity or elements involved, but origin — any
 reaction that does not follow the natural logic of the world, produced
 by the imperceptible dimension filtering into the perceptible one.</p>
+<p>A hostile presence can belong to either group. A mortal enemy or a
+material beast still creates natural pressure. An anomalous or
+primordial entity, or a presence made of pure Limbo energy, creates
+extranatural pressure even if it adopts visible or material form.</p>
 <p>Observable markers are signs of this presence, not its definition.
 Physically contradictory states at the same point — fire and ice active
 at once, Light and Darkness simultaneously active with distinct physical
@@ -1322,6 +1408,9 @@ concentration, coordination, or communication between characters.</p>
 very irregular or marshy terrain; intense but not extreme heat or cold;
 noise that prevents verbal coordination; partial darkness from
 insufficient light sources or a covered moon.</p>
+<p><em>Hostile examples:</em> a nearby predator forcing constant
+caution; a clearly superior enemy whose mere presence prevents acting
+normally even before direct contact.</p>
 <hr />
 <h3 id="severe-rigorous-11-nr">Severe (Rigorous — 11 + NR)</h3>
 <p>Significant environmental factors. Some tactical options are actively
@@ -1330,6 +1419,9 @@ removed, not merely made harder.</p>
 projectiles and impedes movement; very rough terrain with real fall
 risk; sustained extreme temperature; near-total darkness with minimal
 visibility; combat in water or on an unstable surface.</p>
+<p><em>Hostile examples:</em> combat against a clearly superior mortal
+creature that forces cover, partial withdrawal, or restricted movement;
+a close pursuit by a predator that controls the ground.</p>
 <p><em>Extranatural examples:</em> terrain that yields or reacts in ways
 that don’t correspond to the physics of the ground; darkness that
 physically responds to movement or sound; temperature that varies within
@@ -1342,6 +1434,10 @@ extreme, or extranatural influence of significant force.</p>
 <p><em>Natural examples:</em> active earthquake with collapses;
 maximum-intensity hurricane; active wildfire with unpredictable
 direction; maritime storm with waves overwhelming structures.</p>
+<p><em>Hostile examples:</em> a colossal or lethal creature whose
+presence turns the whole scene into immediate survival even before
+specific actions resolve; an entity that controls the space and forces
+action under constant suppression.</p>
 <p><em>Extranatural examples:</em> rain falling upward or at angles that
 contradict the wind; terrain that actively shifts shape without cause;
 darkness with a visible light source that produces no illumination;
@@ -1355,6 +1451,10 @@ sustain under natural logic.</p>
 <p><em>Natural examples:</em> maritime storm with simultaneous boarding
 and structure collapse; earthquake combined with a nearby volcanic
 eruption.</p>
+<p><em>Hostile examples:</em> a primordial presence or overwhelming
+predator that turns the entire scene into a survival condition; an
+encounter in which the enemy dominates the space so completely that
+several basic actions become nonviable.</p>
 <p><em>Extranatural examples:</em> multiple natural phenomena
 simultaneously amplified and transformed with no causal logic between
 them; Light and Darkness with simultaneous distinct physical effects;
@@ -1366,7 +1466,8 @@ irregular gravity, perceptibly altered time.</p>
 condition presses beyond the standard expression of its severity level.
 An NR of 1 indicates the condition at its minimum expression for that
 level; a high NR indicates a condition at its peak, with multiple
-simultaneous factors, or with a confirmed extranatural marker.</p>
+simultaneous factors, with a dominant hostile presence, or with a
+confirmed extranatural marker.</p>
 <table>
 <colgroup>
 <col style="width: 50%" />
@@ -1403,9 +1504,10 @@ duration</td>
 </tbody>
 </table>
 <p>When a scene combines multiple sources of pressure — an intense
-physical condition and a superior threat level — the dominant source
-determines the severity tier. Secondary sources can add NR up to a
-maximum of +2. Do not stack NR from more than two sources.</p>
+physical condition, a dominant hostile presence, and/or an extranatural
+marker — the dominant source determines the severity tier. Secondary
+sources can add NR up to a maximum of +2. Do not stack NR from more than
+two sources.</p>
 <hr />
 <h2 id="narrator-tools">Narrator tools</h2>
 <p>The environmental NR expresses roll difficulty. It is the only fixed
@@ -1429,8 +1531,7 @@ Not every scenario at a given severity requires either tool.</p>
 <h2 id="relevant-specializations">Relevant specializations</h2>
 <p>The following specializations interact directly with environmental
 conditions. Their presence determines what options a character has to
-respond actively to environmental pressure, rather than simply enduring
-it.</p>
+respond actively to scene pressure, rather than simply enduring it.</p>
 <table>
 <colgroup>
 <col style="width: 33%" />
@@ -1472,16 +1573,278 @@ it.</p>
 </tr>
 </tbody>
 </table>
-<p>Specializations applicable to extranatural conditions — Instinct,
-Resonance, Thaumaturgy — are described alongside the Tauma system.</p>
+<p>Specializations applicable to hostile or extranatural conditions —
+Perception, Intuition, Instinct, Resonance, Thaumaturgy — are described
+in their respective chapters. The general principle here is simple:
+scene pressure may require reading, enduring, or interpreting, not only
+physical resistance.</p>
 <hr />
 <h2 id="example-2">Example</h2>
-<p>A group crosses a ruined bridge during a storm. The wind, wet
-surface, and unstable footing do not create a separate subsystem; they
-inform the threshold the Narrator assigns. If the bridge only sways and
-visibility is poor, the condition may be Moderate or Severe. If the
-structure bends in ways that do not follow its material strain and sound
-arrives out of sync, the condition is extranatural.</p>
+<p>A group crosses a ruined bridge during a storm while a massive
+creature moves beneath the structure. The wind, wet surface, and
+unstable footing do not create a separate subsystem; they inform the
+threshold the Narrator assigns. If the storm is the main threat, the
+condition may be Moderate or Severe. If the dominant pressure becomes
+the creature’s presence, the level may rise even if the weather does not
+change. If the structure also bends in ways that do not follow material
+strain and sound arrives out of sync, the condition is extranatural.</p>
+<h1 id="specializations">Specializations</h1>
+<p>Specializations are trainable domains. They do not represent powers a
+character simply possesses, but disciplines they have practiced: things
+that can be attempted, failed, and refined over time. A characteristic
+measures what the character is naturally capable of. A specialization
+measures what they have chosen to practice.</p>
+<p>During character creation, specializations help define what the
+character knows how to do, how they approach problems, and why they
+differ from others with similar characteristics.</p>
+<hr />
+<h2 id="what-they-are-for">What They Are For</h2>
+<p>Without classes to assign roles, differentiation between characters
+depends on what each one chooses to develop. Two characters with similar
+Wisdom can behave in radically different ways if one has practiced
+Medicine and the other has practiced Survival. The domain does not
+define them; it defines how they approach the same problems.</p>
+<p>Specializations enable access to Techniques. A Technique does not
+emerge from a generic competency: it grows from a specific domain the
+character has already worked at. Without the base specialization, the
+Technique does not exist.</p>
+<p>Every time a character reaches a new rank in a specialization, they
+gain +1 to the characteristic associated with that domain. This is
+called <strong>Synapsis</strong>. Characteristics do not increase
+through free point assignment; they increase as a direct consequence of
+practiced use.</p>
+<hr />
+<h2 id="starting-specializations">Starting Specializations</h2>
+<p>Every character begins with four specializations at Level 1 / Novice.
+Three come from their background, according to its category
+restrictions. The fourth is universal: <strong>Vigor</strong>.</p>
+<p>Vigor is linked to Tenacity. Every character starts with it
+regardless of the background chosen. It represents the minimum physical
+resilience and tolerance for effort required to operate in this world.
+It does not replace species bonuses to Tenacity — both accumulate.</p>
+<p>The same specialization cannot be chosen twice at creation. All
+others begin at Level 0, Untrained.</p>
+<hr />
+<h2 id="categories">Categories</h2>
+<p>Specializations are grouped into five categories based on the type of
+domain they represent. These categories are not rigid divisions: a
+specialization belongs to a category because of what it covers, not
+because of which characteristic it is linked to.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Category</th>
+<th>Domain type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Physical</td>
+<td>Bodily technique, movement, exertion, practiced physical
+control</td>
+</tr>
+<tr>
+<td>Mental</td>
+<td>Interpretation, cunning, attention, situational reading, adaptive
+reasoning</td>
+</tr>
+<tr>
+<td>Social</td>
+<td>Influence, expression, projection, deception, interpersonal
+control</td>
+</tr>
+<tr>
+<td>Arts and Crafts</td>
+<td>Making, repairing, preparing, extracting, applied practical
+work</td>
+</tr>
+<tr>
+<td>Knowledge</td>
+<td>Formal study, academic interpretation, structured lore, technical
+understanding</td>
+</tr>
+</tbody>
+</table>
+<p>A Physical specialization may be linked to Strength, Agility, or
+Tenacity depending on what it covers. A Social specialization may be
+linked to Cunning, Composure, Aura, or Presence. The category organizes;
+the characteristic determines the roll formula.</p>
+<hr />
+<h2 id="specialization-roll">Specialization Roll</h2>
+<p>When a character acts from a specialization, the result is determined
+by a <strong>Specialization Roll (S.R.)</strong>.</p>
+<pre class="text"><code>S.R. = 1d10 + Level + Rank + Characteristic + Bonuses</code></pre>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Component</th>
+<th>What it represents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Level</strong></td>
+<td>Number of competency levels reached in that specialization</td>
+</tr>
+<tr>
+<td><strong>Rank</strong></td>
+<td>Current rank number (Novice = 1, Adept = 2, Expert = 3, Master = 4,
+Consummate = 5, Transcendent = 6)</td>
+</tr>
+<tr>
+<td><strong>Characteristic</strong></td>
+<td>Value of the characteristic linked to that specialization</td>
+</tr>
+<tr>
+<td><strong>Bonuses</strong></td>
+<td>Situational, equipment, or active Technique bonuses</td>
+</tr>
+</tbody>
+</table>
+<h3 id="untrained">Untrained</h3>
+<p>Any character can attempt a roll in any specialization, even if they
+have never practiced it. An <strong>Untrained</strong> character uses
+only the die and the associated characteristic:</p>
+<pre class="text"><code>S.R. (untrained) = 1d10 + Characteristic</code></pre>
+<p>Level and Rank are both zero. The difficulty threshold does the rest:
+advanced tests are unreachable without training. Developing competency
+does not enable the attempt — it makes certain results achievable.</p>
+<hr />
+<h2 id="how-they-are-acquired">How They Are Acquired</h2>
+<p>Specializations develop through use. Every time a character uses the
+<strong>Learning Advantage</strong> on an S.R., they accumulate
+<strong>Progress</strong> toward the next competency level. It is not
+the roll result that generates progress, but the deliberate choice to
+learn from it.</p>
+<table>
+<thead>
+<tr>
+<th>Affinity</th>
+<th>Progress needed per level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No major affinity</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Major affinity</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p>Major affinity is determined by background. A character with a
+martial background has major affinity in Physical specializations; one
+with an artisan background, in Arts and Crafts. This does not block
+access to other specializations — it reduces the cost of advancing in
+their own.</p>
+<p>The Narrator validates whether the specialization used is narratively
+grounded before it generates Progress. The character’s intent must be
+consistent with the domain declared. A character cannot declare Traps to
+analyze the behavior of a creature unless there is a narrative reason
+that supports it. The domain being practiced must reflect the actual
+action.</p>
+<p>There is no limit to how many specializations a character can
+develop. The limit is practical: each specialization demands time,
+rolls, and decisions. Prioritizing one slows the others.</p>
+<hr />
+<h2 id="ranks-and-synapsis">Ranks and Synapsis</h2>
+<p>Competency in a specialization is measured in ranks. Each rank spans
+two levels and carries a name that reflects the domain reached.</p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Levels</th>
+<th>Synapsis on entry</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>Untrained</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Novice</td>
+<td>1–2</td>
+<td>+1 to characteristic</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Adept</td>
+<td>3–4</td>
+<td>+1 to characteristic</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Expert</td>
+<td>5–6</td>
+<td>+1 to characteristic</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Master</td>
+<td>7–8</td>
+<td>+1 to characteristic</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Consummate</td>
+<td>9–10</td>
+<td>+1 to characteristic</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Transcendent</td>
+<td>11+</td>
+<td>+1 to characteristic</td>
+</tr>
+</tbody>
+</table>
+<p>Reaching the threshold level of a new rank automatically grants +1 to
+the characteristic associated with that specialization. This is
+Synapsis: the increase of a characteristic as a direct consequence of
+practicing domains linked to it.</p>
+<p>The trade-off is structural. Reaching Rank 1 in many different
+specializations generates Synapsis across multiple characteristics.
+Deepening one specialization generates higher S.R. bonuses and access to
+more advanced Techniques. Neither path is superior by default; each one
+prioritizes a different kind of growth.</p>
+<hr />
+<h2 id="direct-use-and-techniques">Direct Use and Techniques</h2>
+<p>Using a specialization produces a <strong>narrative effect</strong>.
+The character observes, interprets, acts — but the mechanical state of
+the scene does not change automatically. Changing that state requires
+additional actions that follow from what was learned.</p>
+<p>A <strong>Technique</strong> is different. It is a specific
+application the character unlocks by reaching a certain competency level
+in one or more specializations. Unlike direct use, a Technique produces
+a defined mechanical consequence at the moment of activation. Its full
+detail belongs to the corresponding chapter.</p>
+<p>This distinction is structural. Direct use of a specialization opens
+possibilities. A Technique converts one of those possibilities into an
+immediate mechanical consequence.</p>
+<hr />
+<h2 id="example-3">Example</h2>
+<p>A character uses Survival to read broken tracks at the edge of a
+flooded road. That use may reveal where a group passed and what route
+remains viable, but it does not damage an enemy, change initiative, or
+impose a condition by itself. If the character later unlocks a Technique
+tied to tracking or field reading, that Technique can attach a defined
+mechanical consequence to the same kind of trained action.</p>
 <h1 id="character-creation">Character Creation</h1>
 <p>Character creation is the process through which you define who your
 character is, where they come from, and what capabilities they have
@@ -1504,6 +1867,19 @@ attributes.</p>
 <p>This process does not only fill a sheet. It establishes why the
 character can do what they do, what shaped them before play, and what
 kind of presence they bring into the story.</p>
+<h2 id="process-summary">Process Summary</h2>
+<p>If this is your first time creating a character, this is the
+practical order:</p>
+<ol type="1">
+<li>Define the general concept.</li>
+<li>Choose species.</li>
+<li>Choose background.</li>
+<li>Select your starting specializations.</li>
+<li>Apply Synapsis.</li>
+<li>Calculate derived attributes.</li>
+<li>Choose personality traits.</li>
+<li>Record additional species attributes.</li>
+</ol>
 <h2 id="character-concept">Character Concept</h2>
 <p>Before choosing values, traits, or specializations, the first step is
 to define your character concept. A concept is a brief but clear idea of
@@ -1706,9 +2082,9 @@ concept and the kind of play experience you want. Species should feel
 coherent with both: character identity and expression at the table.</p>
 <h3 id="important">Important</h3>
 <p>Complete species descriptions, including qualities, legacy, heritage,
-variants, and natural weapons, are in the Species chapter. During
-character creation you only need to choose one and record every
-attribute indicated in that profile.</p>
+variants, and natural weapons, are covered in the Species chapter.
+During character creation, record every attribute indicated by the
+option chosen.</p>
 <h2 id="choose-background">Choose Background</h2>
 <p>Background represents the character’s life before adventuring. It
 defines what experiences shaped them, in what environment they learned
@@ -2161,7 +2537,7 @@ mechanical effect and functional trait that may enter play.</p>
 <p>With this, character creation is complete and your character is ready
 to play.</p>
 <hr />
-<h2 id="example-3">Example</h2>
+<h2 id="example-4">Example</h2>
 <p>A player creates a hunter from a species with a Tenacity bonus. The
 player selects a background that grants three starting specializations
 and then adds the universal Vigor specialization. Those four starting
@@ -2169,260 +2545,6 @@ specializations trigger Synapsis where applicable, modify the relevant
 characteristics, and only then allow the player to calculate derived
 attributes. The order matters because later values depend on earlier
 choices.</p>
-<h1 id="specializations">Specializations</h1>
-<p>Specializations are trainable domains. They do not represent powers a
-character simply possesses, but disciplines they have practiced: things
-that can be attempted, failed, and refined over time. A characteristic
-measures what the character is naturally capable of. A specialization
-measures what they have chosen to practice.</p>
-<hr />
-<h2 id="what-they-are-for">What They Are For</h2>
-<p>Without classes to assign roles, differentiation between characters
-depends on what each one chooses to develop. Two characters with similar
-Wisdom can behave in radically different ways if one has practiced
-Medicine and the other has practiced Survival. The domain does not
-define them; it defines how they approach the same problems.</p>
-<p>Specializations enable access to Techniques. A Technique does not
-emerge from a generic competency: it grows from a specific domain the
-character has already worked at. Without the base specialization, the
-Technique does not exist.</p>
-<p>Every time a character reaches a new rank in a specialization, they
-gain +1 to the characteristic associated with that domain. This is
-called <strong>Synapsis</strong>. Characteristics do not increase
-through free point assignment; they increase as a direct consequence of
-practiced use.</p>
-<hr />
-<h2 id="categories">Categories</h2>
-<p>Specializations are grouped into five categories based on the type of
-domain they represent. These categories are not rigid divisions: a
-specialization belongs to a category because of what it covers, not
-because of which characteristic it is linked to.</p>
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Category</th>
-<th>Domain type</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Physical</td>
-<td>Bodily technique, movement, exertion, practiced physical
-control</td>
-</tr>
-<tr>
-<td>Mental</td>
-<td>Interpretation, cunning, attention, situational reading, adaptive
-reasoning</td>
-</tr>
-<tr>
-<td>Social</td>
-<td>Influence, expression, projection, deception, interpersonal
-control</td>
-</tr>
-<tr>
-<td>Arts and Crafts</td>
-<td>Making, repairing, preparing, extracting, applied practical
-work</td>
-</tr>
-<tr>
-<td>Knowledge</td>
-<td>Formal study, academic interpretation, structured lore, technical
-understanding</td>
-</tr>
-</tbody>
-</table>
-<p>A Physical specialization may be linked to Strength, Agility, or
-Tenacity depending on what it covers. A Social specialization may be
-linked to Cunning, Composure, Aura, or Presence. The category organizes;
-the characteristic determines the roll formula.</p>
-<hr />
-<h2 id="specialization-roll">Specialization Roll</h2>
-<p>When a character acts from a specialization, the result is determined
-by a <strong>Specialization Roll (S.R.)</strong>.</p>
-<pre class="text"><code>S.R. = 1d10 + Level + Rank + Characteristic + Bonuses</code></pre>
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Component</th>
-<th>What it represents</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Level</strong></td>
-<td>Number of competency levels reached in that specialization</td>
-</tr>
-<tr>
-<td><strong>Rank</strong></td>
-<td>Current rank number (Novice = 1, Adept = 2, Expert = 3, Master = 4,
-Consummate = 5, Transcendent = 6)</td>
-</tr>
-<tr>
-<td><strong>Characteristic</strong></td>
-<td>Value of the characteristic linked to that specialization</td>
-</tr>
-<tr>
-<td><strong>Bonuses</strong></td>
-<td>Situational, equipment, or active Technique bonuses</td>
-</tr>
-</tbody>
-</table>
-<h3 id="untrained">Untrained</h3>
-<p>Any character can attempt a roll in any specialization, even if they
-have never practiced it. An <strong>Untrained</strong> character uses
-only the die and the associated characteristic:</p>
-<pre class="text"><code>S.R. (untrained) = 1d10 + Characteristic</code></pre>
-<p>Level and Rank are both zero. The difficulty threshold does the rest:
-advanced tests are unreachable without training. Developing competency
-does not enable the attempt — it makes certain results achievable.</p>
-<hr />
-<h2 id="how-they-are-acquired">How They Are Acquired</h2>
-<p>Specializations develop through use. Every time a character uses the
-<strong>Learning Advantage</strong> on an S.R., they accumulate
-<strong>Progress</strong> toward the next competency level. It is not
-the roll result that generates progress, but the deliberate choice to
-learn from it.</p>
-<table>
-<thead>
-<tr>
-<th>Affinity</th>
-<th>Progress needed per level</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>No major affinity</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Major affinity</td>
-<td>5</td>
-</tr>
-</tbody>
-</table>
-<p>Major affinity is determined by background. A character with a
-martial background has major affinity in Physical specializations; one
-with an artisan background, in Arts and Crafts. This does not block
-access to other specializations — it reduces the cost of advancing in
-their own.</p>
-<p>The Narrator validates whether the specialization used is narratively
-grounded before it generates Progress. The character’s intent must be
-consistent with the domain declared. A character cannot declare Traps to
-analyze the behavior of a creature unless there is a narrative reason
-that supports it. The domain being practiced must reflect the actual
-action.</p>
-<p>There is no limit to how many specializations a character can
-develop. The limit is practical: each specialization demands time,
-rolls, and decisions. Prioritizing one slows the others.</p>
-<hr />
-<h2 id="ranks-and-synapsis">Ranks and Synapsis</h2>
-<p>Competency in a specialization is measured in ranks. Each rank spans
-two levels and carries a name that reflects the domain reached.</p>
-<table>
-<thead>
-<tr>
-<th>Rank</th>
-<th>Name</th>
-<th>Levels</th>
-<th>Synapsis on entry</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>0</td>
-<td>Untrained</td>
-<td>—</td>
-<td>—</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Novice</td>
-<td>1–2</td>
-<td>+1 to characteristic</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Adept</td>
-<td>3–4</td>
-<td>+1 to characteristic</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Expert</td>
-<td>5–6</td>
-<td>+1 to characteristic</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Master</td>
-<td>7–8</td>
-<td>+1 to characteristic</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Consummate</td>
-<td>9–10</td>
-<td>+1 to characteristic</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Transcendent</td>
-<td>11+</td>
-<td>+1 to characteristic</td>
-</tr>
-</tbody>
-</table>
-<p>Reaching the threshold level of a new rank automatically grants +1 to
-the characteristic associated with that specialization. This is
-Synapsis: the increase of a characteristic as a direct consequence of
-practicing domains linked to it.</p>
-<p>The trade-off is structural. Reaching Rank 1 in many different
-specializations generates Synapsis across multiple characteristics.
-Deepening one specialization generates higher S.R. bonuses and access to
-more advanced Techniques. Neither path is superior by default; each one
-prioritizes a different kind of growth.</p>
-<hr />
-<h2 id="starting-specializations">Starting Specializations</h2>
-<p>Every character begins with four specializations at Level 1 / Novice.
-Three come from their background, according to its category
-restrictions. The fourth is universal: <strong>Vigor</strong>.</p>
-<p>Vigor is linked to Tenacity. Every character starts with it
-regardless of the background chosen. It represents the minimum physical
-resilience and tolerance for effort required to operate in this world.
-It does not replace species bonuses to Tenacity — both accumulate.</p>
-<p>The same specialization cannot be chosen twice at creation. All
-others begin at Level 0, Untrained.</p>
-<hr />
-<h2 id="direct-use-and-techniques">Direct Use and Techniques</h2>
-<p>Using a specialization produces a <strong>narrative effect</strong>.
-The character observes, interprets, acts — but the mechanical state of
-the scene does not change automatically. Changing that state requires
-additional actions that follow from what was learned.</p>
-<p>A <strong>Technique</strong> is different. It is a specific
-application, with defined rhythm cost and Attrition cost, that the
-character unlocks by reaching a certain competency level in one or more
-specializations. A Technique produces narrative effect and mechanical
-effect in the same activation, without requiring additional actions.</p>
-<p>This distinction is structural. Direct use of a specialization opens
-possibilities. A Technique converts one of those possibilities into an
-immediate mechanical consequence.</p>
-<hr />
-<h2 id="example-4">Example</h2>
-<p>A character uses Survival to read broken tracks at the edge of a
-flooded road. That use may reveal where a group passed and what route
-remains viable, but it does not damage an enemy, change initiative, or
-impose a condition by itself. If the character later unlocks a Technique
-tied to tracking or field reading, that Technique can attach a defined
-mechanical consequence to the same kind of trained action.</p>
 <h1 id="actions">Actions</h1>
 <p>In combat and high-tension scenes, everything a character does has a
 place and a cost within the temporal flow. Not all actions occupy that
@@ -2436,8 +2558,9 @@ they do not justify a time or effort cost on their own.</p>
 <li><strong>Reactions</strong></li>
 <li><strong>Free Actions</strong></li>
 </ul>
-<p>This division does not replace the ATB. It exists to clarify how each
-type of action enters the temporal flow of combat.</p>
+<p>This division does not replace the ATB timeline. It exists to clarify
+how each type of action enters the temporal flow of combat once that
+system is already in play.</p>
 <hr />
 <h2 id="active-actions">Active Actions</h2>
 <p>Active Actions are those a character performs deliberately during
@@ -2692,7 +2815,7 @@ through competencies.</p>
 <p>Most are Active Actions; some function as Reactions and may trigger
 outside the normal sequence if their condition allows it.</p>
 <p>The full catalog of Techniques and their activation conditions is
-found in the Competencies and Techniques chapter.</p>
+found in the Techniques chapter.</p>
 <hr />
 <h3 id="drop">Drop</h3>
 <p>There are moments when the most useful thing is simply to open the
@@ -3401,6 +3524,9 @@ integrity.</p>
 <hr />
 <h2 id="risks-of-resting">Risks of Resting</h2>
 <p>Resting is not always safe.</p>
+<p>Recovery is a general rule. Risk evaluation, by contrast, belongs to
+the Narrator and is used only when stopping truly exposes the group to
+consequences.</p>
 <p>Stopping can mean:</p>
 <ul>
 <li>being found</li>

@@ -14,7 +14,7 @@ core-books/
     00-introduction/
     01-getting-started/
     ...
-    10-conflict-and-combat/
+    08-conflict-and-combat/
       es/                       Spanish prose
       en/                       English prose
 light-novels/
@@ -37,7 +37,7 @@ Before editing any prose file:
    ```bash
    python3 ../pipeline/scripts/index.py \
      --repo-path . \
-     --search '{"tags": ["combat"], "chapter": 10, "language": "es"}'
+     --search '{"tags": ["combat"], "chapter": 8, "language": "es"}'
    ```
 
 2. Load the mandatory context listed in `../pipeline/SKILLS.md` for the relevant skill.

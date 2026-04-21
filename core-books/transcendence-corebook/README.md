@@ -17,13 +17,13 @@ When content changes in `es/`, the corresponding `en/` file should be updated in
 - 01 Front Matter
 - 02 Introduction
 - 03 Core Rules
-- 04 Character Creation
-- 05 Species
-- 06 Backgrounds and Origins
-- 07 Techniques
-- 08 Skills and Proficiencies
-- 09 Equipment and Resources
-- 10 Conflict and Combat
+- 04 Skills and Proficiencies
+- 05 Character Creation
+- 06 Species
+- 07 Backgrounds and Origins
+- 08 Conflict and Combat
+- 09 Techniques
+- 10 Equipment and Resources
 - 11 Cosmic Horror and Corruption
 - 12 GM Toolkit
 - 13 Adversaries and Bestiary
@@ -34,7 +34,7 @@ When content changes in `es/`, the corresponding `en/` file should be updated in
 - 98 Layout Export
 - 99 Release
 
-This is the current filesystem scaffold. It does not need to match the final reader-facing order.
+This is the current filesystem scaffold. It now matches the intended reader-facing order for the player-facing half of the book.
 
 ## Recommended Reader-Facing Order
 
@@ -47,18 +47,18 @@ For that reason, the reading order should prioritize:
 - what the player needs to actually play a scene
 - only after that, deeper Narrator-facing systems and reference material
 
-Recommended order:
+Reader-facing order:
 
 1. 01 Front Matter
 2. 02 Introduction
 3. 03 Core Rules
-4. 08 Skills and Proficiencies
-5. 04 Character Creation
-6. 05 Species
-7. 06 Backgrounds and Origins
-8. 10 Conflict and Combat
-9. 07 Techniques
-10. 09 Equipment and Resources
+4. 04 Skills and Proficiencies
+5. 05 Character Creation
+6. 06 Species
+7. 07 Backgrounds and Origins
+8. 08 Conflict and Combat
+9. 09 Techniques
+10. 10 Equipment and Resources
 11. 11 Cosmic Horror and Corruption
 12. 12 GM Toolkit
 13. 13 Adversaries and Bestiary
@@ -79,5 +79,5 @@ Recommended order:
 
 ## Editorial Note
 
-For now, folder numbering can remain stable for pipeline safety.
-If the manuscript continues to mature under this order, a later pass can renumber sections and update references in a controlled migration.
+The physical migration has already been executed.
+Further chapter movement should be treated as a new restructuring pass, not as part of the original renumbering.

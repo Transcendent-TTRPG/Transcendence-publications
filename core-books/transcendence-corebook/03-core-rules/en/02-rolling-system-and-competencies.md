@@ -12,7 +12,7 @@ related:
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/03-core-rules/en/01-general-rules.md
   - core-books/transcendence-corebook/03-core-rules/en/03-environmental-conditions.md
-  - core-books/transcendence-corebook/08-skills-and-proficiencies/en/specializations.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations.md
 authority_refs:
   - Transcendence-design/docs/system/roll-types.md
   - Transcendence-design/docs/system/competencies.md

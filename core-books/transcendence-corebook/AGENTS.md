@@ -7,7 +7,7 @@ This file instructs AI agents working specifically on corebook chapters.
 Each chapter lives under a numbered directory matching its chapter number:
 
 ```text
-10-conflict-and-combat/
+08-conflict-and-combat/
   es/    Spanish prose files
   en/    English prose files
 ```
@@ -16,7 +16,7 @@ Every file in `es/` must have a corresponding file in `en/`. When you edit one, 
 
 ## Corebook-specific rules
 
-- Chapter numbers in frontmatter must match the directory prefix (chapter 10 → directory `10-*`).
+- Chapter numbers in frontmatter must match the directory prefix (chapter 8 → directory `08-*`).
 - Do not split content that belongs in the same section across multiple files without explicit instruction.
 - Rules text must be in the `rule-clarifier` skill's constraints — especially: every rule needs an example or explicit reference to one.
 - New corebook files must be created from a template, not from an empty file.

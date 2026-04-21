@@ -14,9 +14,9 @@ related:
 
 # Corebook Migration Plan
 
-This document defines the planned structural migration of the `transcendence-corebook` manuscript from the current scaffold order to the intended reader-facing order.
+This document records the structural migration of the `transcendence-corebook` manuscript from the old scaffold order to the intended reader-facing order.
 
-Its purpose is to let the manuscript mature under a stable editorial plan before physical folder renumbering begins.
+Its purpose is to preserve the mapping and checklist used during the renumbering pass.
 
 ## Current Principle
 
@@ -51,9 +51,9 @@ Because of that, the structure should prioritize:
 16. `16-appendices`
 17. `17-reference-index`
 
-## Future Folder Order
+## Final Folder Order
 
-This is the recommended physical order once the migration actually happens.
+This is the physical order after the migration.
 
 1. `01-front-matter`
 2. `02-introduction`
@@ -139,18 +139,18 @@ Ownership by file:
 - `Attrition` explains effort pressure, endurance, and fatigue
 - `Rest` explains recovery and recovery risk
 
-## Preconditions Before Physical Migration
+## Preconditions That Were Used
 
-Do not renumber folders until all of the following are true:
+The migration was executed after these conditions were considered satisfied:
 
 1. The target reader-facing order is considered final for this version.
 2. `03`, `04`, `08`, and `10` are editorially stable enough to keep their new positions.
 3. The role of `07-techniques` and `09-equipment-and-resources` is clear enough to place them confidently after combat.
 4. No additional large structural inversions are expected in the player-facing half of the book.
 
-## What Must Be Updated During Migration
+## What Had To Be Updated During Migration
 
-When the actual renumbering happens, the following must be updated in the same cycle:
+The following had to be updated in the same cycle:
 
 - folder names
 - chapter numbers in frontmatter
@@ -186,6 +186,6 @@ Recommended execution order:
 
 ## Current Status
 
-This migration is planned but not yet executed.
+This migration has been executed.
 
-The manuscript may continue to mature under the target reader-facing order while the filesystem remains unchanged.
+Any future structural movement should be treated as a separate migration pass with its own checklist.

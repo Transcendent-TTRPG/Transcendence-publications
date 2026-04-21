@@ -45,5 +45,5 @@ Every corebook section must exist in both ES and EN. When editing one language v
 Paired file paths follow the pattern:
 
 ```text
-10-conflict-and-combat/es/<file>.md   ←→   10-conflict-and-combat/en/<file>.md
+08-conflict-and-combat/es/<file>.md   ←→   08-conflict-and-combat/en/<file>.md
 ```
