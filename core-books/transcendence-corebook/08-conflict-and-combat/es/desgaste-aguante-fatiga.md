@@ -7,7 +7,7 @@ language: es
 chapter: 8
 status: draft
 canonical: false
-tags: [attrition, endurance, fatigue, vigor, combat, strain, fatigue-thresholds]
+tags: [attrition, endurance, fatigue, combat, strain, fatigue-thresholds]
 related:
   - core-books/transcendence-corebook/08-conflict-and-combat/en/attrition-endurance-fatigue.md
   - core-books/transcendence-corebook/08-conflict-and-combat/es/descanso.md
@@ -69,40 +69,26 @@ Todo personaje posee una reserva mínima de funcionamiento en tres planos fundam
 - la **mente**, que sostiene atención, lectura e interpretación
 - la **compostura**, que sostiene control, intención y claridad bajo tensión
 
-Todo personaje cuenta con una Reserva Base de Aguante de 3. A esa base se le suma la resistencia corporal del personaje y su desarrollo en Vigor.
+Todo personaje cuenta con una Reserva Base de Aguante de 3. A esa base se le suma la resistencia corporal final del personaje, expresada en su Tenacidad.
 
 ### Fórmula de Aguante
 
-**Aguante** = 3 + Tenacidad + Rango de Vigor
+**Aguante** = 3 + (Tenacidad × 2)
 
-El Aguante depende de tres cosas:
+El Aguante depende de dos cosas:
 
 - capacidad natural para soportar esfuerzo (Tenacidad)
-- entrenamiento para sostener actividad exigente (Vigor)
 - una reserva mínima universal que representa la continuidad operativa en cuerpo, mente y compostura
 
 ### Ejemplo
 
-Un personaje con Tenacidad 1 y Vigor Rango 1 tiene:
+Un personaje con Tenacidad final 2 tras aplicar su Sinapsis inicial de Tenacidad tiene:
 
-Aguante = 3 + 1 + 1 = 5
+Aguante = 3 + (2 × 2) = 7
 
 ---
 
-## Vigor
-
-Vigor es una especialización física asociada a Tenacidad. Representa la capacidad de sostener esfuerzo prolongado, soportar condiciones adversas y seguir operando cuando el cuerpo ya está siendo exigido.
-
-Vigor se usa en situaciones como:
-
-- cargar peso
-- resistir ambientes hostiles
-- mantener esfuerzo físico durante largos periodos
-- seguir luchando cuando el cuerpo comienza a resentirse
-
-Además, Vigor ocupa un papel central dentro de este sistema porque no solo mejora pruebas relacionadas con la resistencia, sino que también incrementa el Aguante del personaje.
-
-Todo personaje comienza con Vigor Nivel 1 / Rango 1. Operar bajo cualquier presión seria exige una base mínima de resistencia física.
+Todo personaje comienza con una especialización inicial de Tenacidad en Nivel 1 / Rango 1: Marcha, Aclimatación o Tolerancia. Operar bajo cualquier presión seria exige alguna forma básica de resistencia entrenada, pero no una única manifestación idéntica para todos.
 
 ---
 
@@ -149,12 +135,12 @@ La Fatiga se determina comparando el Desgaste acumulado con el Aguante del perso
 
 ### Ejemplo de umbrales
 
-Si un personaje tiene Aguante 5:
+Si un personaje tiene Aguante 7:
 
-- Desgaste 0 a 4 → sin Fatiga
-- Desgaste 5 a 9 → Fatiga 1
-- Desgaste 10 a 14 → Fatiga 2
-- Desgaste 15 o más → Fatiga 3
+- Desgaste 0 a 6 → sin Fatiga
+- Desgaste 7 a 13 → Fatiga 1
+- Desgaste 14 a 20 → Fatiga 2
+- Desgaste 21 o más → Fatiga 3
 
 ---
 

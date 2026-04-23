@@ -270,15 +270,15 @@ Además, cada especialización está vinculada a una característica asociada. E
 
 En esta etapa no es necesario detallar todas las reglas particulares de cada especialización. Esas descripciones completas se encuentran en el capítulo correspondiente. Durante la creación, basta con elegir tres opciones válidas según el trasfondo, anotar que comienzan en Nivel 1 / Rango 1, registrar su característica asociada y aplicar la Sinapsis que generan.
 
-## Especialización universal inicial: Vigor
+## Especialización universal inicial de Tenacidad
 
-Además de las tres especializaciones iniciales otorgadas por el trasfondo, todo personaje comienza con la especialización Vigor en Nivel 1 / Rango 1.
+Además de las tres especializaciones iniciales otorgadas por el trasfondo, todo personaje comienza con una especialización de Tenacidad en Nivel 1 / Rango 1. Esa elección puede ser **Marcha**, **Aclimatación** o **Tolerancia**.
 
-Esto refleja una realidad básica del mundo: sobrevivir en este entorno exige una base mínima de resistencia física, adaptación al esfuerzo y tolerancia a condiciones adversas. Incluso antes de convertirse en aventurero, toda criatura jugable ha debido desarrollar al menos un grado elemental de vigor para subsistir.
+Esto refleja una realidad básica del mundo: sobrevivir en este entorno exige una base mínima de resistencia física, adaptación al esfuerzo, tolerancia al dolor o capacidad de soportar condiciones adversas. No toda historia de personaje expresa esa resistencia del mismo modo.
 
-Como Vigor es una especialización asociada a Tenacidad, su rango inicial también activa de inmediato la Sinapsis correspondiente.
+Como las tres opciones están asociadas a Tenacidad, su rango inicial también activa de inmediato la Sinapsis correspondiente.
 
-Por ello, salvo que una regla específica indique lo contrario, todo personaje obtiene al menos +1 en Tenacidad por su Vigor inicial.
+Por ello, salvo que una regla específica indique lo contrario, todo personaje obtiene al menos +1 en Tenacidad por su especialización inicial de Tenacidad.
 
 Este aumento no reemplaza los bonificadores otorgados por la especie. Si la especie del personaje también otorga un aumento a Tenacidad, ambos valores se acumulan.
 
@@ -296,9 +296,9 @@ La Sinapsis representa la forma en que la práctica moldea al personaje. Mientra
 
 Cada especialización está asociada a una característica concreta. Cuando una especialización alcanza un nuevo rango, el personaje obtiene un aumento permanente en la característica asociada a esa especialización. Este aumento refleja que el dominio repetido de una habilidad no solo mejora la ejecución de esa tarea, sino que transforma al personaje en un nivel más profundo.
 
-La Sinapsis se aplica tanto durante la creación del personaje como a lo largo de su progresión. Durante la creación, esto ocurre inmediatamente después de registrar las especializaciones iniciales. Esto incluye tanto las especializaciones elegidas mediante el trasfondo como la especialización universal inicial Vigor, que también comienza en Nivel 1 / Rango 1.
+La Sinapsis se aplica tanto durante la creación del personaje como a lo largo de su progresión. Durante la creación, esto ocurre inmediatamente después de registrar las especializaciones iniciales. Esto incluye tanto las especializaciones elegidas mediante el trasfondo como la especialización universal inicial de Tenacidad, que también comienza en Nivel 1 / Rango 1.
 
-Por ello, cada especialización inicial registrada otorga desde el principio un aumento de +1 a su característica asociada, incluida Vigor, que aporta +1 a Tenacidad.
+Por ello, cada especialización inicial registrada otorga desde el principio un aumento de +1 a su característica asociada, incluida la elección inicial de Tenacidad, que aporta +1 a Tenacidad.
 
 ## Regla general de Sinapsis
 
@@ -561,4 +561,4 @@ Con esto, la creación de personaje queda completa y tu personaje está listo pa
 
 ## Ejemplo
 
-Una jugadora crea a una exploradora de una especie con bonificador a Agilidad. Luego elige un trasfondo que le concede tres especializaciones iniciales y añade Vigor como especialización universal. Esas cuatro especializaciones activan la Sinapsis correspondiente, modifican las características asociadas y solo entonces permiten calcular los atributos derivados. El orden importa porque cada paso se apoya en el anterior.
+Una jugadora crea a una exploradora de una especie con bonificador a Agilidad. Luego elige un trasfondo que le concede tres especializaciones iniciales y añade Aclimatación como especialización universal de Tenacidad. Las especializaciones iniciales activan la Sinapsis correspondiente, modifican las características asociadas y solo entonces permiten calcular los atributos derivados. El orden importa porque cada paso se apoya en el anterior.

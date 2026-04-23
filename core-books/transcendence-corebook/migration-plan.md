@@ -51,6 +51,29 @@ Because of that, the structure should prioritize:
 16. `16-appendices`
 17. `17-reference-index`
 
+## Deferred Structural Follow-Up
+
+One rule block has since outgrown its current placement:
+
+- `03-core-rules/03-environmental-conditions`
+
+Its content now covers not only environmental modifiers, but broader **scene pressure**:
+
+- environmental pressure
+- hostile pressure
+- extranatural pressure
+- adjudication of contextual threat
+
+Because of that, it no longer fits cleanly inside the early player-facing `Core Rules` block.
+
+It should be treated in a later restructuring pass as a future standalone section or chapter, tentatively framed as:
+
+- `Scene Conditions`
+- `Scene Pressure and Conditions`
+- `Condiciones de Escena`
+
+Until that pass happens, the file remains in `03-core-rules` for continuity, but its final editorial home should be later in the book and closer to Narrator-facing adjudication material.
+
 ## Final Folder Order
 
 This is the physical order after the migration.
@@ -106,6 +129,11 @@ Its active internal order is:
 1. `01-general-rules`
 2. `02-rolling-system-and-competencies`
 3. `03-environmental-conditions`
+
+Editorial caveat:
+
+- `03-environmental-conditions` is stable as content, but no longer considered part of the ideal long-term early rules block.
+- It should eventually be extracted into a later `Scene Conditions`-style section once that destination exists.
 
 ### `08-skills-and-proficiencies`
 

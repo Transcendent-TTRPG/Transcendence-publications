@@ -276,7 +276,6 @@ Reflejan la capacidad del personaje para usar armaduras de forma eficiente. Se s
 **Bonificadores**
 
 - Cada nivel de competencia aumenta en 1 el bloqueo de la armadura del tipo correspondiente cuando esa pieza resuelve el impacto en su zona.
-- Alcanzar Maestro reduce la penalización de movimiento de ese tipo de armadura cuando corresponda.
 
 **Progresión**
 
@@ -288,8 +287,8 @@ Representan el dominio técnico del uso de escudos en combate.
 
 **Bonificadores**
 
-- El escudo aporta un bonificador general a la T.D. según el equipo usado.
 - Cada rango de competencia otorga acceso a Técnicas adicionales según el tipo de escudo.
+- Alcanzar Maestro reduce en `grado` la penalización de movimiento del escudo equipado, con mínimo `0`.
 
 **Progresión**
 

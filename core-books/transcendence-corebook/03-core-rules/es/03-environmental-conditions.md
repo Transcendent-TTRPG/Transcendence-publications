@@ -166,7 +166,6 @@ Las siguientes especializaciones interactúan directamente con las condiciones d
 | --- | --- | --- |
 | Aclimatación (Tenacidad) | Natural — ambiental | Adaptación a entornos hostiles o extremos |
 | Tolerancia (Tenacidad) | Natural — fisiológica | Resistencia al dolor y la tensión física que genera el entorno |
-| Vigor (Tenacidad) | Natural — esfuerzo sostenido | Mantener la función bajo carga física prolongada |
 | Equilibrio (Agilidad) | Natural — terreno | Respuesta reactiva a pérdida de balance involuntaria |
 | Supervivencia (Sabiduría) | Natural — campo | Toma de decisiones práctica en entornos hostiles |
 

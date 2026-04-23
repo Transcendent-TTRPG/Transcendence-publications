@@ -7,7 +7,7 @@ language: en
 chapter: 8
 status: draft
 canonical: false
-tags: [attrition, endurance, fatigue, vigor, combat, strain, fatigue-thresholds]
+tags: [attrition, endurance, fatigue, combat, strain, fatigue-thresholds]
 related:
   - core-books/transcendence-corebook/08-conflict-and-combat/es/desgaste-aguante-fatiga.md
   - core-books/transcendence-corebook/08-conflict-and-combat/en/rest.md
@@ -69,40 +69,26 @@ Every character has a minimum reserve of functionality across three planes of co
 - the **mind**, which sustains attention, reading, and interpretation
 - **composure**, which sustains control, intent, and clarity under tension
 
-Every character starts with a Base Endurance Reserve of 3. To that base is added the character's physical resilience and their development in Vigor.
+Every character starts with a Base Endurance Reserve of 3. To that base is added the character's final physical resilience, expressed through Tenacity.
 
 ### Endurance Formula
 
-Endurance = 3 + Tenacity + Vigor Rank
+Endurance = 3 + (Tenacity × 2)
 
-Endurance depends on three things:
+Endurance depends on two things:
 
 - natural capacity to bear effort (Tenacity)
-- training to sustain demanding activity (Vigor)
 - a universal minimum representing continued function across body, mind, and composure
 
 ### Example
 
-A character with Tenacity 1 and Vigor Rank 1 has:
+A character with final Tenacity 2 after applying their starting Tenacity Synapsis has:
 
-Endurance = 3 + 1 + 1 = 5
+Endurance = 3 + (2 × 2) = 7
 
 ---
 
-## Vigor
-
-Vigor is a physical specialization associated with Tenacity. It represents the capacity to sustain prolonged effort, endure adverse conditions, and keep operating when the body is already being pushed.
-
-Vigor is used in situations such as:
-
-- carrying weight
-- resisting hostile environments
-- maintaining physical effort over long periods
-- continuing to fight when the body begins to give
-
-In addition, Vigor plays a central role within this system because it not only improves rolls related to physical endurance — it also increases the character's Endurance.
-
-Every character begins with Vigor Level 1 / Rank 1. Operating under any serious pressure requires a minimum baseline of physical resistance.
+Every character begins with one starting Tenacity specialization at Level 1 / Rank 1: March, Acclimation, or Tolerance. Operating under serious pressure requires some trained form of resilience, but not the same expression for every character.
 
 ---
 
@@ -149,12 +135,12 @@ Fatigue is determined by comparing the character's accumulated Attrition against
 
 ### Example of thresholds
 
-If a character has Endurance 5:
+If a character has Endurance 7:
 
-- Attrition 0 to 4 → no Fatigue
-- Attrition 5 to 9 → Fatigue 1
-- Attrition 10 to 14 → Fatigue 2
-- Attrition 15 or more → Fatigue 3
+- Attrition 0 to 6 → no Fatigue
+- Attrition 7 to 13 → Fatigue 1
+- Attrition 14 to 20 → Fatigue 2
+- Attrition 21 or more → Fatigue 3
 
 ---
 

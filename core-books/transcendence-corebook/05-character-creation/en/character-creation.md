@@ -270,15 +270,15 @@ Each specialization is tied to an associated characteristic. This relation is no
 
 At this stage it is not necessary to detail every specific rule for each specialization. Full descriptions belong in the dedicated chapter. During creation, it is enough to choose three valid options by background, record Level 1 / Rank 1, record associated characteristic, and apply resulting Synapsis.
 
-## Universal Starting Specialization: Vigor
+## Universal Starting Tenacity Specialization
 
-In addition to the three starting specializations granted by background, every character begins with the Vigor specialization at Level 1 / Rank 1.
+In addition to the three starting specializations granted by background, every character begins with one Tenacity specialization at Level 1 / Rank 1. That choice may be **March**, **Acclimation**, or **Tolerance**.
 
-This reflects a basic reality of the world: surviving in this environment demands a minimum foundation of physical endurance, adaptation to effort, and tolerance for adverse conditions. Even before becoming an adventurer, every playable creature must have developed at least an elemental degree of vigor to subsist.
+This reflects a basic reality of the world: surviving in this environment demands a minimum foundation of physical endurance, adaptation to effort, pain tolerance, or resistance to adverse conditions. Not every character history expresses that resilience in the same way.
 
-Since Vigor is a specialization associated with Tenacity, its initial rank also immediately activates the corresponding Synapsis.
+Since all three options are associated with Tenacity, their initial rank also immediately activates the corresponding Synapsis.
 
-Therefore, unless a specific rule states otherwise, every character gains at least +1 to Tenacity from their initial Vigor.
+Therefore, unless a specific rule states otherwise, every character gains at least +1 to Tenacity from their initial Tenacity specialization.
 
 This increase does not replace bonuses granted by species. If the character's species also grants an increase to Tenacity, both values accumulate.
 
@@ -296,9 +296,9 @@ Synapsis represents how practice shapes the character. While species defines nat
 
 Each specialization is associated with a specific characteristic. Whenever a specialization reaches a new rank, the character gains a permanent increase in that associated characteristic. This increase reflects that repeated mastery does not only improve execution of a task, but transforms the character more deeply.
 
-Synapsis applies both during creation and during progression. During creation, this occurs immediately after recording starting specializations. This includes both the specializations chosen through background and the universal starting specialization Vigor, which also begins at Level 1 / Rank 1.
+Synapsis applies both during creation and during progression. During creation, this occurs immediately after recording starting specializations. This includes both the specializations chosen through background and the universal starting Tenacity specialization, which also begins at Level 1 / Rank 1.
 
-Therefore, each recorded starting specialization grants +1 to its associated characteristic right away, including Vigor, which contributes +1 to Tenacity.
+Therefore, each recorded starting specialization grants +1 to its associated characteristic right away, including the starting Tenacity choice, which contributes +1 to Tenacity.
 
 ## General Synapsis Rule
 
@@ -562,4 +562,4 @@ With this, character creation is complete and your character is ready to play.
 
 ## Example
 
-A player creates a hunter from a species with a Tenacity bonus. The player selects a background that grants three starting specializations and then adds the universal Vigor specialization. Those four starting specializations trigger Synapsis where applicable, modify the relevant characteristics, and only then allow the player to calculate derived attributes. The order matters because later values depend on earlier choices.
+A player creates a hunter from a species with a Tenacity bonus. The player selects a background that grants three starting specializations and then adds Tolerance as the universal Tenacity specialization. The starting specializations trigger Synapsis where applicable, modify the relevant characteristics, and only then allow the player to calculate derived attributes. The order matters because later values depend on earlier choices.

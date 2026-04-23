@@ -276,7 +276,6 @@ They reflect the character's ability to use armor efficiently. They are split by
 **Bonuses**
 
 - Each competency level increases by 1 the block of the corresponding armor type when that piece resolves the impact in its zone.
-- Reaching Master reduces the movement penalty of that armor type where applicable.
 
 **Progression**
 
@@ -288,8 +287,8 @@ They represent technical mastery of shield use in combat.
 
 **Bonuses**
 
-- The shield grants a general bonus to D.R. according to the equipment used.
 - Each competency rank grants access to additional maneuvers depending on shield type.
+- Reaching Master reduces the movement penalty of the equipped shield by `grade`, minimum `0`.
 
 **Progression**
 

@@ -75,6 +75,7 @@ Reader-facing order:
 - `Conflict and Combat` should come before `Techniques`, because techniques depend on actions, timing, conflict flow, fatigue, rest, and the tactical grammar of play.
 - `Equipment and Resources` should come after the core combat engine unless equipment choices are required earlier in character creation.
 - `Environmental Conditions` and related scene-pressure logic are structurally important, but more Narrator-facing than player-facing.
+- Because that material now extends beyond terrain and weather into broader scene pressure, its long-term home should be a later standalone section such as `Scene Conditions / Condiciones de Escena`, not the early core-rules block.
 - `GM Toolkit`, bestiary, scenarios, and most reference-heavy material belong after the player-facing gameplay core.
 
 ## Editorial Note

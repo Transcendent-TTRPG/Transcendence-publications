@@ -11,6 +11,7 @@ canonical: false
 tags: [specializations, progression, synapsis, competencies, character-development]
 related:
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/especializaciones.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations-catalog.md
   - core-books/transcendence-corebook/05-character-creation/en/character-creation.md
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
 authority_refs:
@@ -49,9 +50,9 @@ Every time a character reaches a new rank in a specialization, they gain +1 to t
 
 ## Starting Specializations
 
-Every character begins with four specializations at Level 1 / Novice. Three come from their background, according to its category restrictions. The fourth is universal: **Vigor**.
+Every character begins with four specializations at Level 1 / Novice. Three come from their background, according to its category restrictions. The fourth is a universal **Tenacity** choice: **March**, **Acclimation**, or **Tolerance**.
 
-Vigor is linked to Tenacity. Every character starts with it regardless of the background chosen. It represents the minimum physical resilience and tolerance for effort required to operate in this world. It does not replace species bonuses to Tenacity — both accumulate.
+This universal choice is linked to Tenacity. Every character starts with one of those three options regardless of the background chosen. It does not replace species bonuses to Tenacity — both accumulate.
 
 The same specialization cannot be chosen twice at creation. All others begin at Level 0, Untrained.
 
@@ -66,10 +67,12 @@ Specializations are grouped into five categories based on the type of domain the
 | Physical | Bodily technique, movement, exertion, practiced physical control |
 | Mental | Interpretation, cunning, attention, situational reading, adaptive reasoning |
 | Social | Influence, expression, projection, deception, interpersonal control |
-| Arts and Crafts | Making, repairing, preparing, extracting, applied practical work |
+| Arts and Crafts | Broad category that gathers practical crafts and concrete artistic disciplines such as music, dance, juggling, puppetry, or stage acting |
 | Knowledge | Formal study, academic interpretation, structured lore, technical understanding |
 
 A Physical specialization may be linked to Strength, Agility, or Tenacity depending on what it covers. A Social specialization may be linked to Cunning, Composure, Aura, or Presence. The category organizes; the characteristic determines the roll formula.
+
+Artistic disciplines are treated as part of **Arts and Crafts**. Their place in the system and their practical use are explained in the **Specializations Catalog**.
 
 ---
 
@@ -109,7 +112,7 @@ Specializations develop through use. Every time a character uses the **Learning 
 | No major affinity | 10 |
 | Major affinity | 5 |
 
-Major affinity is determined by background. A character with a martial background has major affinity in Physical specializations; one with an artisan background, in Arts and Crafts. This does not block access to other specializations — it reduces the cost of advancing in their own.
+Major affinity is determined by background. A character with a martial background has major affinity in Physical specializations; one with an artisan background, in Arts and Crafts disciplines. This does not block access to other specializations — it reduces the cost of advancing in their own.
 
 The Narrator validates whether the specialization used is narratively grounded before it generates Progress. The character's intent must be consistent with the domain declared. A character cannot declare Traps to analyze the behavior of a creature unless there is a narrative reason that supports it. The domain being practiced must reflect the actual action.
 

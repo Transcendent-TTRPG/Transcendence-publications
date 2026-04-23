@@ -11,6 +11,7 @@ canonical: false
 tags: [specializations, progression, synapsis, competencies, character-development]
 related:
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/es/catalogo-de-especializaciones.md
   - core-books/transcendence-corebook/05-character-creation/es/character-creation.md
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
 authority_refs:
@@ -49,9 +50,9 @@ Cada vez que un personaje alcanza un nuevo rango en una especialización, gana +
 
 ## Especializaciones de inicio
 
-Todo personaje comienza con cuatro especializaciones en Nivel 1 / Novato. Tres provienen del trasfondo, según sus restricciones de categoría. La cuarta es universal: **Vigor**.
+Todo personaje comienza con cuatro especializaciones en Nivel 1 / Novato. Tres provienen del trasfondo, según sus restricciones de categoría. La cuarta es una elección universal dentro de **Tenacidad**: **Marcha**, **Aclimatación** o **Tolerancia**.
 
-Vigor está vinculada a Tenacidad. Todo personaje parte con ella independientemente del trasfondo elegido. Representa el mínimo de resistencia física y tolerancia al esfuerzo necesario para operar en este mundo. No reemplaza los bonificadores de especie a Tenacidad; ambos se acumulan.
+Esta elección universal está vinculada a Tenacidad. Todo personaje parte con una de esas tres opciones independientemente del trasfondo elegido. No reemplaza los bonificadores de especie a Tenacidad; ambos se acumulan.
 
 La misma especialización no puede escogerse dos veces en la creación. Las demás comienzan en Nivel 0, No entrenado.
 
@@ -66,10 +67,12 @@ Las especializaciones se agrupan en cinco categorías según el tipo de dominio 
 | Física | Técnica corporal, movimiento, esfuerzo, control físico practicado |
 | Mental | Interpretación, astucia, atención, lectura situacional, razonamiento adaptativo |
 | Social | Influencia, expresión, proyección, engaño, control interpersonal |
-| Artes y Oficios | Fabricar, reparar, preparar, extraer, trabajo práctico aplicado |
+| Artes y Oficios | Categoría amplia que reúne oficios prácticos y disciplinas artísticas concretas como música, danza, malabarismo, títeres o actuación escénica |
 | Conocimiento | Estudio formal, interpretación académica, saber estructurado, comprensión técnica |
 
 Una especialización Física puede estar vinculada a Fuerza, Agilidad o Tenacidad según lo que abarca. Una especialización Social puede estar vinculada a Astucia, Compostura, Aura o Presencia. La categoría organiza; la característica determina la fórmula de tirada.
+
+Las disciplinas artísticas se consideran parte de **Artes y Oficios**. Su desarrollo y su uso práctico aparecen explicados en el **Catálogo de Especializaciones**.
 
 ---
 
@@ -109,7 +112,7 @@ Las especializaciones se desarrollan mediante uso. Cada vez que un personaje uti
 | Sin afinidad mayor | 10 |
 | Con afinidad mayor | 5 |
 
-La afinidad mayor la determina el trasfondo. Un personaje con trasfondo marcial tiene afinidad mayor en especializaciones Físicas; uno con trasfondo artesano, en Artes y Oficios. Esto no bloquea el acceso a otras especializaciones: reduce el costo de progresar en las propias.
+La afinidad mayor la determina el trasfondo. Un personaje con trasfondo marcial tiene afinidad mayor en especializaciones Físicas; uno con trasfondo artesano, en disciplinas de Artes y Oficios. Esto no bloquea el acceso a otras especializaciones: reduce el costo de progresar en las propias.
 
 El Narrador valida si la especialización usada se sustenta narrativamente antes de que genere Progresos. La intención del personaje debe ser coherente con el dominio que declara. Un personaje no puede declarar Trampas para analizar el comportamiento de una criatura si no hay una razón narrativa que lo sostenga. El dominio que se practica debe reflejar la acción real.
 
