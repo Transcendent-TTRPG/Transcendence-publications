@@ -122,6 +122,9 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
 | Técnica | Technique | No | A defined competency-based action with explicit narrative + mechanical effect; always requires at least one competency prerequisite; distinct from raw specialization use which produces narrative effect only |
+| Cerrar la Línea | Close the Line | No | Pilot Spear Technique using the Perforation profile; reactive entry denial through precise point-first line control |
+| Recuperar la Distancia | Recover the Distance | No | Pilot Spear Technique using the Perforation profile; active recovery of clean spear line under close pressure |
+| Clavar el Paso | Pin the Step | No | Pilot Spear Technique using the Perforation profile; committed step-denial through body-forward thrust pressure |
 
 ---
 
