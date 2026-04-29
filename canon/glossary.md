@@ -123,6 +123,13 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | --- | --- | --- | --- |
 | Técnica | Technique | No | A defined competency-based action with explicit narrative + mechanical effect; always requires at least one competency prerequisite; distinct from raw specialization use which produces narrative effect only |
 | Cerrar la Línea | Close the Line | No | Pilot Spear Technique using the Perforation profile; reactive entry denial through precise point-first line control |
+| Cerrar la Compuerta | Close the Sluice | No | Pilot Shield Technique using the Line Control profile; active lane control that penalizes attacks through a protected route |
+| Levantar el Dique | Raise the Dike | No | Pilot Shield Technique using the Interception profile; reactive protection of another target through shield line substitution |
+| Romper el Caudal | Break the Flow | No | Pilot Shield Technique using the Interruption profile; reactive execution break with counterattack on a clean defensive margin |
+| Asentar la Piedra | Settle the Stone | No | Pilot Shield Technique using the Bastion profile; active anchored stance that improves defense and resistance against physical displacement |
+| Cerrar el Juicio | Close the Judgment | No | Pilot Impact Technique using Sauri jaw doctrine; committed attack that expands break-validation range against a declared breakable target |
+| Abrir la Vasija | Open the Vessel | No | Pilot Rend Technique using Sauri wound-pressure doctrine; committed tearing attack that applies Lacerado |
+| La Corriente No Retrocede | The Current Does Not Recede | No | Pilot Unstoppable Technique using Sauri pressure doctrine; active attack that forces displacement and breaks held defensive posture |
 | Recuperar la Distancia | Recover the Distance | No | Pilot Spear Technique using the Perforation profile; active recovery of clean spear line under close pressure |
 | Clavar el Paso | Pin the Step | No | Pilot Spear Technique using the Perforation profile; committed step-denial through body-forward thrust pressure |
 
