@@ -9,10 +9,11 @@ status: draft
 canonical: false
 tags: [attrition, endurance, fatigue, combat, strain, fatigue-thresholds]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/desgaste-aguante-fatiga.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/rest.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/actions.md
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/04-rest.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-actions.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/05-wounds-and-damage.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
   - Transcendence-design/docs/system/attrition-fatigue.md
   - Transcendence-design/docs/system/mechanics-overview.md
@@ -132,6 +133,8 @@ Fatigue is determined by comparing the character's accumulated Attrition against
 | Fatigue 1 | Attrition is equal to or greater than Endurance |
 | Fatigue 2 | Attrition is equal to or greater than 2 × Endurance |
 | Fatigue 3 | Attrition is equal to or greater than 3 × Endurance |
+| Fatigue 4 | Attrition is equal to or greater than 4 × Endurance |
+| Fatigue 5 | Attrition is equal to or greater than 5 × Endurance |
 
 ### Example of thresholds
 
@@ -140,7 +143,52 @@ If a character has Endurance 7:
 - Attrition 0 to 6 → no Fatigue
 - Attrition 7 to 13 → Fatigue 1
 - Attrition 14 to 20 → Fatigue 2
-- Attrition 21 or more → Fatigue 3
+- Attrition 21 to 27 → Fatigue 3
+- Attrition 28 to 34 → Fatigue 4
+- Attrition 35 or more → Fatigue 5
+
+The base scale does not exceed Fatigue 5. If a rule adds Fatigue while the character is already at Fatigue 5, the character becomes Incapacitated by exhaustion.
+
+A character Incapacitated by exhaustion cannot take Active Actions, Reactions, or Techniques. They must begin resting as soon as the scene allows it. If the environment prevents rest, they need help, shelter, transport, or a specific rule to avoid being taken out of action.
+
+Fatigue 5 is not a tactical margin that can be sustained voluntarily. It is the final point before operational collapse.
+
+---
+
+## Carrying Capacity
+
+Sustained load does not use scene Attrition when measured as prolonged travel, exploration, transport, or physical work. In that case, it generates Fatigue directly over time.
+
+Carrying capacity depends on creature size, Strength, and Tenacity.
+
+To prevent a character with Strength 0 or Tenacity 0 from having capacity 0, use minimum effective values:
+
+```text
+Effective Strength = minimum 1
+Effective Tenacity = minimum 1
+Carrying capacity = Effective Strength × Effective Tenacity × size multiplier
+```
+
+| Size | Carrying capacity |
+| --- | --- |
+| Tiny | Effective Strength × Effective Tenacity × 1 kg |
+| Small | Effective Strength × Effective Tenacity × 15 kg |
+| Medium | Effective Strength × Effective Tenacity × 35 kg |
+| Large | Effective Strength × Effective Tenacity × 80 kg |
+| Huge | Effective Strength × Effective Tenacity × 200 kg |
+| Gigantic | Effective Strength × Effective Tenacity × 800 kg |
+
+Load type is determined by the percentage of that capacity being used.
+
+| Load type | Weight carried | Sustained load Fatigue |
+| --- | --- | --- |
+| Light Load | Up to 50% of capacity | No automatic Fatigue. |
+| Medium Load | More than 50% and up to 75% | +1 Fatigue level every 2 hours. |
+| Heavy Load | More than 75% and up to 100% | +1 Fatigue level every 1 hour. |
+
+A load above 100% capacity cannot be carried functionally without help, equipment, Technique, pack creature, or a specific rule.
+
+Sustained load Fatigue does not check Attrition thresholds. It is added directly over time. If a new application of sustained load would push the character beyond Fatigue 5, they become Incapacitated by exhaustion and must rest or receive help.
 
 ---
 

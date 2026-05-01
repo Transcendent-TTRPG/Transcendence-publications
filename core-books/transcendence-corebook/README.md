@@ -70,12 +70,11 @@ Reader-facing order:
 ### Rationale
 
 - `Introduction`, `General Rules`, and `Rolling System` belong early because they teach how play works.
-- `Skills and Proficiencies` should appear before deep character detail because specializations are a core identity layer of the game.
+- `Skills and Proficiencies` should appear before deep character detail because specializations are a core identity layer of the game, but the full catalog belongs in appendices as reference.
 - `Character Creation`, `Species`, and `Backgrounds` should come after the player understands rolls and specializations.
 - `Conflict and Combat` should come before `Techniques`, because techniques depend on actions, timing, conflict flow, fatigue, rest, and the tactical grammar of play.
 - `Equipment and Resources` should come after the core combat engine unless equipment choices are required earlier in character creation.
-- `Environmental Conditions` and related scene-pressure logic are structurally important, but more Narrator-facing than player-facing.
-- Because that material now extends beyond terrain and weather into broader scene pressure, its long-term home should be a later standalone section such as `Scene Conditions / Condiciones de Escena`, not the early core-rules block.
+- `Environmental Conditions` and related scene-pressure logic are structurally important, but more Narrator-facing than player-facing; they now live in `GM Toolkit`.
 - `GM Toolkit`, bestiary, scenarios, and most reference-heavy material belong after the player-facing gameplay core.
 
 ## Editorial Note

@@ -9,10 +9,11 @@ status: draft
 canonical: false
 tags: [attrition, endurance, fatigue, combat, strain, fatigue-thresholds]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/attrition-endurance-fatigue.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/descanso.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/acciones.md
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/es/especializaciones.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/03-attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/04-descanso.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/05-heridas-y-dano.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
 authority_refs:
   - Transcendence-design/docs/system/attrition-fatigue.md
   - Transcendence-design/docs/system/mechanics-overview.md
@@ -132,6 +133,8 @@ La Fatiga se determina comparando el Desgaste acumulado con el Aguante del perso
 | Fatiga 1 | el Desgaste es igual o mayor al Aguante |
 | Fatiga 2 | el Desgaste es igual o mayor a 2 × Aguante |
 | Fatiga 3 | el Desgaste es igual o mayor a 3 × Aguante |
+| Fatiga 4 | el Desgaste es igual o mayor a 4 × Aguante |
+| Fatiga 5 | el Desgaste es igual o mayor a 5 × Aguante |
 
 ### Ejemplo de umbrales
 
@@ -140,7 +143,52 @@ Si un personaje tiene Aguante 7:
 - Desgaste 0 a 6 → sin Fatiga
 - Desgaste 7 a 13 → Fatiga 1
 - Desgaste 14 a 20 → Fatiga 2
-- Desgaste 21 o más → Fatiga 3
+- Desgaste 21 a 27 → Fatiga 3
+- Desgaste 28 a 34 → Fatiga 4
+- Desgaste 35 o más → Fatiga 5
+
+La escala base no supera Fatiga 5. Si una regla vuelve a añadir Fatiga cuando el personaje ya está en Fatiga 5, el personaje queda Incapacitado por agotamiento.
+
+Un personaje Incapacitado por agotamiento no puede realizar Acciones Activas, Reacciones ni Técnicas. Debe iniciar descanso en cuanto la escena lo permita. Si el entorno impide descansar, necesita ayuda, refugio, transporte o una regla específica para no quedar fuera de acción.
+
+Fatiga 5 no es un margen táctico que pueda sostenerse voluntariamente. Es el último punto antes del colapso operativo.
+
+---
+
+## Capacidad de Carga
+
+La carga sostenida no usa Desgaste de escena cuando se mide como esfuerzo prolongado de viaje, exploración, transporte o trabajo físico. En ese caso, genera Fatiga directamente por tiempo.
+
+La capacidad de carga depende del tamaño de la criatura, Fuerza y Tenacidad.
+
+Para evitar que un personaje con Fuerza 0 o Tenacidad 0 tenga capacidad 0, usa valores efectivos mínimos:
+
+```text
+Fuerza efectiva = mínimo 1
+Tenacidad efectiva = mínimo 1
+Capacidad de carga = Fuerza efectiva × Tenacidad efectiva × multiplicador de tamaño
+```
+
+| Tamaño | Capacidad de carga |
+| --- | --- |
+| Diminuto | Fuerza efectiva × Tenacidad efectiva × 1 kg |
+| Pequeño | Fuerza efectiva × Tenacidad efectiva × 15 kg |
+| Mediano | Fuerza efectiva × Tenacidad efectiva × 35 kg |
+| Grande | Fuerza efectiva × Tenacidad efectiva × 80 kg |
+| Enorme | Fuerza efectiva × Tenacidad efectiva × 200 kg |
+| Gigantesco | Fuerza efectiva × Tenacidad efectiva × 800 kg |
+
+El tipo de carga se determina por el porcentaje usado de esa capacidad.
+
+| Tipo de carga | Peso transportado | Fatiga por carga sostenida |
+| --- | --- | --- |
+| Carga Ligera | Hasta 50% de la capacidad | No genera Fatiga automática. |
+| Carga Media | Más de 50% y hasta 75% | +1 nivel de Fatiga por cada 2 horas. |
+| Carga Pesada | Más de 75% y hasta 100% | +1 nivel de Fatiga por cada 1 hora. |
+
+Una carga que supera el 100% de la capacidad no puede transportarse de forma funcional sin ayuda, equipo, Técnica, criatura de carga o una regla específica.
+
+La Fatiga por carga sostenida no revisa umbrales de Desgaste. Se añade directamente por tiempo. Si una nueva aplicación de carga sostenida empujaría al personaje más allá de Fatiga 5, queda Incapacitado por agotamiento y debe descansar o recibir ayuda.
 
 ---
 

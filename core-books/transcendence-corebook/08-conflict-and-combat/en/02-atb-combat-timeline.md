@@ -9,8 +9,8 @@ status: draft
 canonical: false
 tags: [atb, combat, timeline, rhythm, initiative, actions, rhythm-cost, opening]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/atb-linea-de-tiempo.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/actions.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/02-atb-linea-de-tiempo.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-actions.md
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
@@ -146,12 +146,15 @@ These costs apply when no specific ability, training, or competency bonus modifi
 | Free action (drop, speak) | 0 | 0 |
 | Interact | 3 | 1 * |
 | Move | 5 | 1 |
+| Hide | 5 | 1 |
 | Specialization | 5 | 1 |
 | Attack with one-handed weapon | 5 | 1 |
 | Attack with two-handed weapon | 7 | 1 |
 | Attack with two one-handed weapons | 7 | 1 |
 
 \* Attrition cost applies only under real scene pressure. Trivial interactions generate 0.
+
+Hide uses standard rhythm because it requires creating or exploiting a real opening, adjusting position, controlling signals, and resolving whether enemies lose precise localization. It cannot be declared without cover, reduced visibility, distraction, preparation, or a specific rule that allows it.
 
 Terrain does not change rhythm cost. Terrain affects distance covered, required checks, and consequences of movement.
 

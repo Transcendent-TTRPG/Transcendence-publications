@@ -9,12 +9,15 @@ status: draft
 canonical: false
 tags: [rest, short-rest, full-rest, attrition, recovery, afflictions, maintenance]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/descanso.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/04-descanso.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/03-attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/05-wounds-and-damage.md
 authority_refs:
   - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/wounds-and-damage.md
   - Transcendence-design/docs/system/mechanics-overview.md
   - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/wounds-and-damage.yaml
 section_modes:
   - heading: "Example"
     writing_mode: example
@@ -22,14 +25,14 @@ section_modes:
 
 # Rest
 
-Rest is the primary way a character recovers control over their body, mind, and composure after a demanding scene. A combat, a chase, a hostile traverse, or an intense confrontation leave more than visible wounds: they also leave heavy breathing, trembling, mental saturation, emotional strain, and a fatigue that does not disappear just because the danger has ended.
+Rest is the primary way a character recovers control over their body, mind, and composure after a demanding scene. A combat, a chase, a hostile traverse, or an intense confrontation leave more than visible Wounds: they also leave heavy breathing, trembling, mental saturation, emotional strain, and a Fatigue that does not disappear just because the danger has ended.
 
 Resting does not reset a character. It recovers part of the margin lost through repeated exposure to conflict.
 
 Rest serves three main functions:
 
 - reducing accumulated Attrition
-- allowing maintenance, treatment, and preparation tasks
+- allowing maintenance, stabilization, treatment, and preparation tasks
 - giving space to reorganize before facing danger again
 
 Not all rest is equal. A brief pause can return some control, but it can also be interrupted or put the group at risk. A long rest allows for much deeper recovery, but it demands time, adequate conditions, and relative safety.
@@ -73,7 +76,7 @@ Each offers greater recovery, but also increases the risk of being detected, int
 
 #### 15-Minute Rest
 
-This rest represents a brief respite. It is enough to lower the heart rate, organize equipment, drink water, check surface wounds, and recover a minimum of control.
+This rest represents a brief respite. It is enough to lower the heart rate, organize equipment, drink water, check surface Wounds, and recover a minimum of control.
 
 It reduces 1 point of Attrition and allows 1 brief maintenance or preparation task.
 
@@ -81,7 +84,7 @@ Brief tasks available:
 
 - adjusting a strap or piece of equipment
 - reorganizing a weapon or tool
-- quickly checking a wound
+- quickly checking a Wound
 - exchanging immediate information
 - deciding a route or simple tactical priority
 
@@ -95,7 +98,7 @@ It reduces 2 points of Attrition and allows 1 significant maintenance, treatment
 
 Significant tasks available:
 
-- applying first aid
+- stabilizing a Light Wound with Medicine, if the proper kit is available
 - studying a recent clue
 - reviewing tracks, maps, or notes
 - distributing resources
@@ -119,13 +122,15 @@ The Narrator may consider conditions favorable if the group has elements such as
 
 This is the best form of brief recovery before a demanding new stretch, but it is also the one most likely to expose the group to unexpected events.
 
+During a 60-Minute Rest, a character can attempt to stabilize a Severe Wound with Medicine, if the proper kit is available. This rest does not free Wound Slots.
+
 #### Short Rest Limit
 
 To prevent the group from chaining pauses until all game pressure is negated:
 
 Only the first Short Rest taken after a hostile scene reduces Attrition normally.
 
-Subsequent pauses before a new significant scene can still be used to talk, plan, keep watch, reorganize equipment, treat wounds, and prepare resources — but they do not reduce Attrition again unless a specific rule allows it.
+Subsequent pauses before a new significant scene can still be used to talk, plan, keep watch, reorganize equipment, treat Wounds, and prepare resources — but they do not reduce Attrition again unless a specific rule allows it.
 
 This represents that a brief pause can stabilize you, but it does not replace real recovery and cannot be repeated indefinitely to erase the cost of danger.
 
@@ -141,21 +146,36 @@ It is not just a physical need. It is also the moment when characters recentre t
 
 A Full Rest reduces Attrition by an amount equal to 2 × Endurance.
 
-This recovery represents a deep restoration. It does not mean all wounds disappear or that any serious deterioration resolves automatically — but it does return an important part of the character's operational margin.
+This recovery represents a deep restoration. It does not mean all Wounds disappear or that any serious deterioration resolves automatically — but it does return an important part of the character's operational margin.
 
 #### 2. Fatigue Relief
 
 Since Fatigue depends on accumulated Attrition, reducing Attrition through a Full Rest also automatically reduces Fatigue levels if the character drops below the corresponding thresholds.
 
-#### 3. Equipment Repair
+#### 3. Wound Treatment
 
-During a Full Rest, the character may attempt to repair their equipment and recover 5 durability points on each relevant piece, succeeding at the appropriate roll based on the required specialization and the item's grade. This applies to armor, weapons, and other items that allow it.
+During a Full Rest, a creature can receive Medicine treatment to free Wound Slots.
 
-#### 4. Affliction Progression or Relief
+Treatment does not happen just because 8 hours pass. The Wound must be stabilized and someone must treat the Zone with appropriate tools. If the treatment succeeds, the patient frees 1 Wound Slot from that Zone.
 
-Each day of Full Rest reduces by 1 the intensity of each active affliction, unless a specific rule states otherwise. This preserves the idea that certain consequences require time, care, and real recovery before they begin to ease.
+| Rest | Can stabilize | Can treat | Can free slots |
+| --- | --- | --- | ---: |
+| 15 minutes | Not by base rule | No | 0 |
+| 30 minutes | Light Wound | No | 0 |
+| 60 minutes | Severe Wound | No | 0 |
+| Full Rest | Critical Wound or any stabilized Wound | Yes, with Medicine | 1 slot per treated character |
 
-#### 5. Day Preparation
+The full rules for difficulty, kits, and adjustment by occupied slots are in **Wounds and Damage**. This section only defines what each rest duration permits.
+
+#### 4. Equipment Repair
+
+During a Full Rest, the character may attempt to repair their equipment and recover 5 Durability points on each relevant piece, succeeding at the appropriate roll based on the required specialization and the item's grade. This applies to armor, weapons, and other items that allow it.
+
+#### 5. Affliction Progression or Relief
+
+Each day of Full Rest reduces by 1 the intensity of each active Affliction, unless a specific rule states otherwise. This preserves the idea that certain consequences require time, care, and real recovery before they begin to ease.
+
+#### 6. Day Preparation
 
 The group may:
 
@@ -167,7 +187,7 @@ The group may:
 
 #### On Physical Recovery
 
-A Full Rest does not automatically make serious wounds, fractures, or persistent conditions disappear. It recovers an important part of the character's functionality, but it does not replace treatment, medicine, or prolonged healing when these are necessary.
+A Full Rest does not automatically make serious Wounds, fractures, or persistent conditions disappear. It recovers an important part of the character's functionality, but it does not replace stabilization, treatment, Medicine, or prolonged healing when these are necessary.
 
 Sleeping well can return your margin. It cannot always return your integrity.
 

@@ -11,6 +11,7 @@ related: []
 This file is the primary editorial anchor for all Transcendence prose. It governs every writing, revision, and AI-assisted editing task in this repository.
 
 For operational mode selection — rules, example, description, narrative, flavor, reference — see `canon/text-modes.md`.
+For visual publication direction — layout, paper texture, typography, palette, tables, cards, and print artifacts — see `canon/publication-visual-style.md`.
 
 ---
 

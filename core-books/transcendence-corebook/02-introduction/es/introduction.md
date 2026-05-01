@@ -26,44 +26,46 @@ Cuando esa presión alcanza una intensidad suficiente, el entorno deja de obedec
 
 ## Qué es Transcendence
 
-Transcendence es un juego de rol de mesa para un Narrador y entre dos y cinco jugadores. Cada sesión se desarrolla en un mundo donde el Limbo opera como presión constante — invisible la mayor parte del tiempo, decisiva cuando importa.
+Transcendence es un juego de rol de mesa para un Narrador y entre dos y cinco jugadores. Sus sesiones ocurren en un mundo donde la realidad puede sostenerse, ceder o deformarse bajo presión extranatural.
 
-Los personajes investigan, se desplazan, combaten, se recuperan y toman decisiones bajo presión. Enfrentan criaturas, condiciones ambientales hostiles y situaciones donde actuar mal no suele quedar absorbido por el sistema. Las consecuencias se acumulan: el posicionamiento importa, el Desgaste importa, el orden en que se resuelve una acción importa.
+Los personajes investigan, viajan, combaten, resisten y se recuperan en escenas donde la posición y el tiempo tienen peso. Una mala decisión no desaparece al final del turno. Puede dejar una herida, agotar el cuerpo, cerrar una ruta o cambiar el estado de la escena.
 
-La progresión lleva a los personajes de Novato a Trascendente. Ese crecimiento no se expresa solo en valores más altos, sino en una mayor definición: más práctica, más especialización, más capacidad para sostener decisiones exigentes en escenas cada vez más inestables.
+El sistema no trata el combate como una sucesión de rondas cerradas. Cada criatura actúa dentro de una línea de tiempo activa, y cada acción desplaza su siguiente oportunidad de intervenir. Actuar antes puede abrir una ventaja inmediata. También puede dejar menos espacio para responder después.
 
-El combate se organiza sobre una línea de tiempo activa. Cada acción tiene un costo de ritmo que determina cuándo actúa de nuevo una criatura. No hay rondas cerradas: hay elecciones que adelantan, retrasan, exponen o preservan.
+La progresión lleva a los personajes de Novato a Trascendente. Ese crecimiento no consiste solo en aumentar valores. Define qué puede sostener un personaje, qué aprende a hacer bajo presión y qué riesgos puede asumir cuando el mundo deja de comportarse de forma estable.
 
-El horror tampoco aparece solo como ambientación. El Limbo y sus formas de filtración tienen consecuencias concretas sobre el entorno, sobre la percepción y sobre las criaturas que entran en contacto con esa presión.
+El horror no aparece como decoración. Entra en la escena cuando el Limbo altera cuerpos, lugares, sentidos o condiciones. Cuando esa presión tiene consecuencias, deja de ser ambiente y se vuelve regla.
 
 ---
 
 ## Para jugar
 
-Cada jugador necesita un set completo de dados y una hoja de personaje. El Narrador puede necesitar dados adicionales para ciertos efectos y para algunas tiradas en segundo plano.
+Cada jugador necesita una hoja de personaje y un set completo de dados. El Narrador puede necesitar dados adicionales para efectos, adversarios o tiradas ocultas.
 
-No se requiere mapa ni miniaturas. El sistema puede jugarse de forma completamente verbal. Si la mesa prefiere apoyo visual, puede usar marcadores, mapas o cualquier referencia espacial que ayude a seguir posiciones y distancias en conflicto.
+No se requiere mapa ni miniaturas. Transcendence puede jugarse de forma verbal, siempre que la mesa mantenga claridad sobre posición, distancia y estado de la escena.
+
+Si el grupo prefiere apoyo visual, puede usar mapas, marcadores, fichas o cualquier referencia espacial que ayude a seguir el conflicto. La herramienta no importa. La posición sí.
 
 ---
 
 ## Cómo usar este libro
 
-Este libro está organizado para leerse en orden la primera vez. Los capítulos iniciales establecen la base del sistema. Los siguientes desarrollan creación de personaje, progresión, combate y otras capas que dependen de esa base.
+Este libro está organizado para leerse en orden durante la primera lectura. Los capítulos iniciales presentan la base del sistema. Los siguientes desarrollan creación de personaje, progresión, conflicto, equipo, horror, adversarios y escenario.
 
-Si es tu primera lectura, conviene avanzar de forma secuencial hasta completar creación de personaje y reglas de conflicto. A partir de ahí, el libro puede usarse también como referencia.
+Después de la primera lectura, el libro también funciona como referencia. Las reglas generales explican cómo resolver acciones. Los capítulos posteriores amplían esas reglas para situaciones específicas.
 
 | Capítulo | Contenido |
 | --- | --- |
-| 3 | Reglas generales, sistema de tiradas, condiciones ambientales |
-| 4 | Creación de personaje |
-| 5 | Especies |
-| 6 | Trasfondos y orígenes |
-| 7 | Técnicas |
-| 8 | Habilidades y especializaciones |
-| 9 | Equipo y recursos |
-| 10 | Conflicto y combate |
+| 3 | Reglas generales y sistema de tiradas |
+| 4 | Habilidades y especializaciones |
+| 5 | Creación de personaje |
+| 6 | Especies |
+| 7 | Trasfondos y orígenes |
+| 8 | Conflicto y combate |
+| 9 | Técnicas |
+| 10 | Equipo y recursos |
 | 11 | Horror cósmico y corrupción |
-| 12 | Guía del Narrador |
+| 12 | Guía del Narrador y condiciones del entorno |
 | 13 | Adversarios y bestiario |
 | 14 | Escenario y facciones |
 | 15 | Escenarios y aventuras |

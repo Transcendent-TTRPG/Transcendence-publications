@@ -11,7 +11,7 @@ tags: [character-creation, species, background, specializations, synapsis, attri
 related:
   - core-books/transcendence-corebook/05-character-creation/es/character-creation.md
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
   - Transcendence-design/docs/system/backgrounds.md
   - Transcendence-design/docs/system/specializations.md
@@ -288,7 +288,7 @@ Your background not only defines which categories you can pick at start, but als
 
 ### Important
 
-Complete specialization lists, with uses, common situations, penalties, difficulties, and specific rules, are in the Specializations chapter. During character creation you only need to choose starting specializations and record basic effects.
+Complete specialization lists, with uses, common situations, penalties, difficulties, and specific rules, are in the Specializations Catalog in the appendices. During character creation you only need to choose starting specializations and record basic effects.
 
 ## Apply Synapsis
 

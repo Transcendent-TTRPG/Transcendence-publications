@@ -4,12 +4,11 @@ Contenido en espanol para esta seccion.
 
 Orden interno recomendado:
 
-1. `especializaciones.md`
+1. `01-especializaciones.md`
    Explica qué son las especializaciones, cómo funcionan, cómo progresan y cómo se relacionan con Sinapsis y Técnicas.
-2. `catalogo-de-especializaciones.md`
-   Compendio legible para jugador con cada especialización concreta.
 
 Nota editorial:
 
-- El catálogo detallado pertenece a este capítulo.
-- Si crece demasiado, debe dividirse por categorías dentro de `04-skills-and-proficiencies`, no mudarse a otro capítulo.
+- Este capítulo debe enseñar el concepto antes de pedir consulta.
+- El catálogo detallado de especializaciones vive en `16-appendices/es/01-catalogo-de-especializaciones.md`.
+- Durante la primera lectura, el jugador solo necesita entender qué es una especialización y cómo escoger las iniciales. La lista completa es material de consulta.

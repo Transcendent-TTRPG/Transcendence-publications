@@ -9,9 +9,9 @@ status: draft
 canonical: false
 tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/acciones.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/atb-combat-timeline.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/02-atb-combat-timeline.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/03-attrition-endurance-fatigue.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
   - Transcendence-design/docs/system/attrition-fatigue.md
@@ -27,6 +27,8 @@ section_modes:
   - heading: "Two Weapons"
     writing_mode: flavor
   - heading: "Interact"
+    writing_mode: flavor
+  - heading: "Hide"
     writing_mode: flavor
   - heading: "Specialization"
     writing_mode: flavor
@@ -219,6 +221,22 @@ Interact covers brief physical interventions that are neither attacks nor moveme
 **Weapon change:** Changing the weapon in hand requires two Interact actions — one to set aside the current weapon and one to draw the new one. If the character drops the current weapon first (Free Action), only one Interact action is needed to draw the next.
 
 \* Attrition is generated only when the interaction occurs under real scene pressure. Trivial or unpressured interactions generate no Attrition.
+
+---
+
+### Hide
+
+Hide is the deliberate attempt to leave the enemies' precise localization. It does not make the character invisible and does not erase physical evidence: it creates tactical uncertainty about where the character is and where they may act from.
+
+**Type:** Active Action  
+**Rhythm cost:** 5 (Standard)  
+**Attrition:** 1
+
+To use this action, the character needs a real opening. They must have Medium or Total Cover, be outside effective visual range, exploit reduced Visibility, use a sufficient distraction, or rely on a Technique, trait, artifact, or preparation that allows hiding.
+
+A character cannot simply vanish in plain sight while a relevant enemy clearly has them localized through an applicable sense. If someone can see, hear, smell, or otherwise perceive them without obstruction, the character must first break that localization.
+
+Hide is resolved with an appropriate Specialization Roll according to the fiction — such as Stealth, Survival, or another specialization authorized by a Technique — against the environment difficulty or enemy Perception. On success, the character gains Concealment against the affected enemies. The full rules for Concealment, approximate position, and detection are found in Cover, Visibility, and Concealment.
 
 ---
 

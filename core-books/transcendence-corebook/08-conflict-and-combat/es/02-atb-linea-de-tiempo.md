@@ -9,8 +9,8 @@ status: draft
 canonical: false
 tags: [atb, combat, timeline, rhythm, initiative, actions, rhythm-cost, opening]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/atb-combat-timeline.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/acciones.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/02-atb-combat-timeline.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
@@ -146,12 +146,15 @@ Estos costos aplican cuando ninguna habilidad, entrenamiento o bonificador por c
 | Acción libre (soltar, hablar) | 0 | 0 |
 | Interactuar | 3 | 1 * |
 | Moverse | 5 | 1 |
+| Ocultarse | 5 | 1 |
 | Especialización | 5 | 1 |
 | Atacar con arma a una mano | 5 | 1 |
 | Atacar con arma a dos manos | 7 | 1 |
 | Atacar con dos armas a una mano | 7 | 1 |
 
 \* El Desgaste aplica solo bajo presión real de la escena. Las interacciones triviales generan 0.
+
+Ocultarse usa ritmo estándar porque requiere crear o aprovechar una oportunidad real, ajustar posición, controlar señales y resolver si los enemigos pierden la localización precisa. No puede declararse sin cobertura, visibilidad reducida, distracción, preparación o una regla específica que lo permita.
 
 El terreno no cambia el costo de ritmo. El terreno afecta la distancia recorrida, las tiradas requeridas y las consecuencias del movimiento.
 

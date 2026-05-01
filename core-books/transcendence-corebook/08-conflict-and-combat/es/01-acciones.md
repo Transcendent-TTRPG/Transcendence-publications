@@ -9,9 +9,9 @@ status: draft
 canonical: false
 tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/actions.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/atb-linea-de-tiempo.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-actions.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/02-atb-linea-de-tiempo.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-desgaste-aguante-fatiga.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
   - Transcendence-design/docs/system/attrition-fatigue.md
@@ -25,6 +25,8 @@ section_modes:
   - heading: "Atacar"
     writing_mode: flavor
   - heading: "Interactuar"
+    writing_mode: flavor
+  - heading: "Ocultarse"
     writing_mode: flavor
   - heading: "Especialización"
     writing_mode: flavor
@@ -217,6 +219,22 @@ Interactuar cubre las intervenciones físicas breves que no son ataques ni despl
 **Cambio de arma:** Cambiar el arma en la mano requiere dos acciones de Interactuar — una para dejar el arma actual y otra para tomar la nueva. Si el personaje suelta primero (Acción Gratuita), solo necesita una acción de Interactuar para tomar la siguiente.
 
 \* El Desgaste solo se genera cuando la interacción ocurre bajo presión real de la escena. Las interacciones triviales o sin presión activa no generan Desgaste.
+
+---
+
+### Ocultarse
+
+Ocultarse es el intento deliberado de salir de la localización precisa de los enemigos. No vuelve invisible al personaje y no borra sus rastros: crea una duda táctica sobre dónde está exactamente y desde dónde puede actuar.
+
+**Tipo:** Acción Activa  
+**Costo de ritmo:** 5 (Estándar)  
+**Desgaste:** 1
+
+Para usar esta acción, el personaje necesita una oportunidad real. Debe tener Cobertura Media o Total, estar fuera del rango visual efectivo, aprovechar una condición de Visibilidad reducida, usar una distracción suficiente, o contar con una Técnica, rasgo, artefacto o preparación que permita ocultarse.
+
+No se puede desaparecer a simple vista mientras un enemigo relevante mantiene al personaje localizado con claridad por un sentido aplicable. Si alguien lo ve, oye, huele o percibe sin obstrucción, primero debe romper esa localización.
+
+Ocultarse se resuelve con una Tirada de Especialización apropiada a la ficción — como Sigilo, Supervivencia u otra autorizada por una Técnica — contra la dificultad del entorno o la Percepción enemiga. Si tiene éxito, el personaje obtiene Ocultación contra los enemigos afectados. Las reglas completas de Ocultación, posición aproximada y detección se encuentran en Cobertura, Visibilidad y Ocultación.
 
 ---
 

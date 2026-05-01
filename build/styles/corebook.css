@@ -1,22 +1,49 @@
 /* =============================================
    Transcendence Corebook — Print Stylesheet
-   Palette: Abyssal Green / Cosmic Horror
+   Visual family: archival paper / aged ink
    ============================================= */
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
 
 /* --- Page Setup --- */
-/* @page handles margins (Chrome always respects these) and background-color
-   covers the full page including margin areas in supporting engines */
+/* @page handles margins only. The paper texture is stamped into the final PDF
+   after Chrome renders the document, which avoids margin/content seams. */
 @page {
   size: A4;
-  margin: 22mm 18mm 22mm 22mm;
-  background-color: #f3f5f3;
+  margin: 20mm 18mm 22mm 22mm;
 }
 
 /* --- Base --- */
 *, *::before, *::after {
   box-sizing: border-box;
+}
+
+:root {
+  --paper: #e4e2dd;
+  --paper-light: #ece8dd;
+  --paper-panel: rgba(226, 222, 211, 0.66);
+  --paper-cell: rgba(224, 219, 207, 0.46);
+  --paper-cell-soft: rgba(239, 235, 224, 0.42);
+  --paper-shadow: #c9c5bb;
+  --ink: #102016;
+  --ink-body: #1a1a1a;
+  --ink-soft: #395d40;
+  --table-rule: rgba(84, 70, 54, 0.5);
+  --table-rule-dark: rgba(54, 39, 27, 0.68);
+  --table-head: rgba(86, 61, 42, 0.2);
+  --table-head-ink: #2d2118;
+  --table-row: rgba(229, 224, 213, 0.36);
+  --table-row-alt: rgba(208, 200, 184, 0.28);
+  --code-paper: rgba(226, 220, 207, 0.64);
+  --code-rule: rgba(92, 78, 62, 0.42);
+  --code-ink: #2c2118;
+  --rule: #385f3d;
+  --rule-soft: rgba(56, 95, 61, 0.58);
+  --rule-faint: rgba(56, 95, 61, 0.26);
+  --dark-panel: #142c18;
+  --dark-panel-soft: rgba(20, 44, 24, 0.92);
+  --warm-mark: rgba(113, 84, 45, 0.11);
+  --green-mark: rgba(52, 88, 55, 0.08);
 }
 
 html, body {
@@ -25,22 +52,23 @@ html, body {
 }
 
 html {
-  background-color: #f3f5f3;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.09'/%3E%3C/svg%3E");
+  background: transparent;
 }
 
 body {
   font-family: 'Crimson Text', Georgia, 'Times New Roman', serif;
   font-size: 11.5pt;
   line-height: 1.65;
-  color: #1a1a1a;
+  color: var(--ink-body);
   background: transparent;
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 .page-wrapper {
   padding: 0;
+  background: transparent;
 }
 
 /* --- Chapter headers (h1) — new page each --- */
@@ -49,13 +77,13 @@ h1 {
   font-family: 'Cinzel', 'Palatino Linotype', serif;
   font-size: 2.2em;
   font-weight: 700;
-  color: #0a1a0f;
+  color: var(--ink);
   text-align: center;
   margin-top: 0;
   margin-bottom: 0.2em;
   padding-top: 2.5em;
   padding-bottom: 0.5em;
-  border-bottom: 3px solid #2a4a30;
+  border-bottom: 3px solid var(--rule);
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -64,7 +92,7 @@ h1::after {
   content: '';
   display: block;
   height: 1px;
-  background: #4a7a55;
+  background: var(--rule-soft);
   margin-top: 5px;
 }
 
@@ -77,7 +105,7 @@ h2 {
   margin-top: 1.8em;
   margin-bottom: 0.5em;
   padding-bottom: 0.2em;
-  border-bottom: 1.5px solid #4a7a55;
+  border-bottom: 1.5px solid var(--rule-soft);
   break-after: avoid;
 }
 
@@ -96,7 +124,7 @@ h4 {
   font-size: 1.05em;
   font-weight: 600;
   font-style: italic;
-  color: #2a4a30;
+  color: var(--ink-soft);
   margin-top: 1.2em;
   margin-bottom: 0.2em;
   break-after: avoid;
@@ -106,7 +134,7 @@ h5, h6 {
   font-family: 'Crimson Text', Georgia, serif;
   font-size: 1em;
   font-weight: 600;
-  color: #2a4a30;
+  color: var(--ink-soft);
   margin-top: 1em;
   margin-bottom: 0.2em;
 }
@@ -135,45 +163,112 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.2em 0;
-  font-size: 0.95em;
+  font-size: 0.94em;
   break-inside: avoid;
+  background: rgba(226, 221, 209, 0.34);
+  border: 1.2px solid var(--table-rule);
+  box-shadow: 0 0 0 2px rgba(222, 219, 211, 0.12);
 }
 
 thead {
-  background-color: #0a1a0f;
-  color: #c8daca;
+  background-color: var(--table-head);
+  color: var(--table-head-ink);
+  border-top: 1.4px solid var(--table-rule-dark);
+  border-bottom: 1.4px solid var(--table-rule-dark);
 }
 
 thead th {
   font-family: 'Cinzel', serif;
-  font-size: 0.88em;
+  font-size: 0.82em;
   font-weight: 600;
-  padding: 0.5em 0.9em;
+  padding: 0.45em 0.75em;
   text-align: left;
-  letter-spacing: 0.04em;
-  border: 1px solid #1a3020;
+  letter-spacing: 0.03em;
+  border: 1px solid var(--table-rule);
+  border-bottom-color: var(--table-rule-dark);
 }
 
 tbody tr:nth-child(even) {
-  background-color: #e8ede9;
+  background-color: var(--table-row-alt);
 }
 
 tbody tr:nth-child(odd) {
-  background-color: #f3f5f3;
+  background-color: var(--table-row);
 }
 
 tbody td {
-  padding: 0.4em 0.9em;
-  border: 1px solid #4a7a55;
+  padding: 0.36em 0.75em;
+  border: 1px solid var(--table-rule);
   vertical-align: top;
+}
+
+/* --- Publication callouts ---
+   These classes can be added by future templates or raw HTML blocks. */
+.rule-summary,
+.example,
+.narrator-note,
+.danger,
+.reference {
+  margin: 1.1em 0;
+  padding: 0.85em 1em;
+  border: 1px solid var(--rule-soft);
+  background:
+    linear-gradient(90deg, rgba(56, 95, 61, 0.07), transparent 75%),
+    var(--paper-panel);
+  break-inside: avoid;
+}
+
+.rule-summary > :first-child,
+.example > :first-child,
+.narrator-note > :first-child,
+.danger > :first-child,
+.reference > :first-child {
+  margin-top: 0;
+}
+
+.rule-summary > :last-child,
+.example > :last-child,
+.narrator-note > :last-child,
+.danger > :last-child,
+.reference > :last-child {
+  margin-bottom: 0;
+}
+
+.rule-summary {
+  border-left: 4px solid var(--rule);
+}
+
+.example {
+  border-left: 4px double var(--rule);
+}
+
+.narrator-note {
+  border-left: 4px solid #4e3d2c;
+  background:
+    linear-gradient(90deg, rgba(97, 73, 44, 0.08), transparent 75%),
+    var(--paper-panel);
+}
+
+.danger {
+  border-left: 4px solid #67302a;
+  background:
+    linear-gradient(90deg, rgba(103, 48, 42, 0.09), transparent 75%),
+    var(--paper-panel);
+}
+
+.reference {
+  font-size: 0.94em;
+  border-left: 4px solid var(--dark-panel);
 }
 
 /* --- Blockquotes --- */
 blockquote {
   margin: 1.2em 0;
   padding: 0.9em 1.3em;
-  border-left: 4px solid #2a4a30;
-  background-color: #e8ede9;
+  border-left: 4px solid var(--rule);
+  background:
+    linear-gradient(90deg, rgba(56, 95, 61, 0.08), transparent 70%),
+    var(--paper-panel);
   color: #152a1a;
   font-style: italic;
   break-inside: avoid;
@@ -191,22 +286,42 @@ blockquote p:last-child {
 code {
   font-family: 'Courier New', monospace;
   font-size: 0.88em;
-  background: #dde8de;
+  background: var(--code-paper);
   padding: 0.1em 0.35em;
   border-radius: 3px;
-  color: #0a1a0f;
+  color: var(--code-ink);
+  box-shadow: inset 0 -1px 0 var(--code-rule);
+}
+
+pre {
+  margin: 1em 0 1.15em 0;
+  padding: 0.75em 0.9em;
+  border: 1px solid var(--code-rule);
+  background: var(--code-paper);
+  color: var(--code-ink);
+  break-inside: avoid;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+pre code {
+  display: block;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 /* --- Horizontal rules --- */
 hr {
   border: none;
-  border-top: 2px solid #4a7a55;
+  border-top: 2px solid var(--rule-soft);
   margin: 2em 0;
 }
 
 /* --- Strong --- */
 strong {
-  color: #0a1a0f;
+  color: var(--ink);
   font-weight: 700;
 }
 
@@ -215,14 +330,15 @@ strong {
   padding: 1em 0 2em 0;
   margin: 2em 0 3em 0;
   break-after: page;
-  border-top: 2px solid #2a4a30;
-  border-bottom: 2px solid #2a4a30;
+  border-top: 2px solid var(--rule);
+  border-bottom: 2px solid var(--rule);
+  background: transparent;
 }
 
 #TOC h2 {
   font-family: 'Cinzel', serif;
   font-size: 1.5em;
-  color: #0a1a0f;
+  color: var(--ink);
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -240,7 +356,7 @@ strong {
 #TOC > ul > li {
   margin: 0.5em 0 0 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #c8d8ca;
+  border-bottom: 1px solid var(--rule-faint);
 }
 
 #TOC > ul > li:last-child {
@@ -251,7 +367,7 @@ strong {
   font-family: 'Cinzel', serif;
   font-weight: 600;
   font-size: 0.95em;
-  color: #0a1a0f;
+  color: var(--ink);
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -280,7 +396,7 @@ strong {
 
 #TOC ul ul ul a {
   font-size: 0.88em;
-  color: #2a4a30;
+  color: var(--ink-soft);
   font-style: italic;
 }
 
@@ -293,12 +409,13 @@ header {
   text-align: center;
   min-height: 90vh;
   break-after: page;
+  background: transparent;
 }
 
 header .title {
   font-family: 'Cinzel', serif;
   font-size: 3em;
-  color: #0a1a0f;
+  color: var(--ink);
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -312,13 +429,13 @@ header .title::after {
   display: block;
   width: 60%;
   margin: 0.4em auto 0 auto;
-  border-bottom: 3px solid #2a4a30;
+  border-bottom: 3px solid var(--rule);
 }
 
 header .subtitle {
   font-family: 'Cinzel', serif;
   font-size: 1.15em;
-  color: #2a4a30;
+  color: var(--ink-soft);
   margin-top: 1em;
   font-style: italic;
   text-align: center;
@@ -336,7 +453,7 @@ header .author {
 header .date {
   font-family: 'Crimson Text', serif;
   font-size: 1em;
-  color: #3a5a40;
+  color: var(--ink-soft);
   margin-top: 0.5em;
   text-align: center;
 }
@@ -346,6 +463,7 @@ header .date {
   html, body {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
+    background: transparent;
   }
 
   a {

@@ -43,10 +43,70 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 ---
 
+## System terms — wounds and damage
+
+| ES term | EN equivalent | Do not translate | Notes |
+| --- | --- | --- | --- |
+| Heridas y Daño | Wounds and Damage | No | Chapter 8 rules surface for impact, block, localized wounds, breaking, and recovery |
+| Herida | Wound | No | Localized injury recorded on a player character after an NPC attack overcomes defense and block |
+| Herida Leve | Light Wound | No | Wound severity occupying 1 wound slot |
+| Herida Grave | Severe Wound | No | Wound severity occupying 2 wound slots |
+| Herida Crítica | Critical Wound | No | Wound severity occupying 3 wound slots |
+| Ranura de Herida | Wound Slot | No | Markable unit of localized physical damage in a body zone |
+| Zona | Zone | No | Body area or target location where wounds, armor, block, or creature parts are resolved |
+| Cabeza | Head | No | Player-character wound and equipment zone |
+| Torso | Torso | No | Player-character wound and equipment zone |
+| Brazos | Arms | No | Player-character wound and equipment zone |
+| Piernas | Legs | No | Player-character wound and equipment zone |
+| Pies | Feet | No | Player-character wound and equipment zone |
+| Localización | Location | No | Procedure for determining which player-character zone an NPC attack strikes |
+| HP | HP | Yes | Target-defined damage reserve used by NPCs, creature parts, or other non-player damage models |
+| Dado crítico designado | Designated Critical Die | No | Impact die chosen before rolling; only this die can validate Critical Impact |
+| Impacto Crítico | Critical Impact | No | Impact result triggered when the designated critical die rolls its maximum value |
+| Potencia Crítica | Critical Potency | No | Break-facing value used to test whether a Critical Impact can break a part or item |
+| Potencia base | Base Potency | No | Material, construction, or profile value used before applying a weapon potency multiplier |
+| Multiplicador de Potencia | Potency Multiplier | No | Weapon-type multiplier applied to Base Potency during a Critical Impact |
+| Objetivo rompible | Breakable Target | No | Declared target that can be broken, disabled, or rendered unusable by a valid break attempt |
+| Intento de ruptura | Break Attempt | No | Resolution event that compares Critical Potency against Durability |
+| Equipo roto | Broken Equipment | No | Equipment state in which the piece stops providing the function that depended on its integrity |
+| Parte de criatura | Creature Part | No | Anatomical or structural enemy component with its own combat values or linked abilities |
+| Bloqueo | Block | No | Reduction or absorption value applied against Impact before determining damage or wound severity |
+| Bloqueo base | Base Block | No | Armor-category component of Block |
+| Bono de material | Material Bonus | No | Durability-derived component of Block |
+| Competencia Defensiva | Defensive Competency | No | Armor competency component of Block for the armor protecting the struck zone |
+| Calidad de objeto | Object Quality | No | Piece quality or grade component of Block |
+| Romper Partes | Breaking Parts | No | Critical or Technique-enabled procedure for disabling equipment, body parts, or creature structures |
+| Durabilidad | Durability | No | Structural resistance of equipment, parts, or materials against breaking |
+| Desbordamiento | Overflow | No | Excess wound damage when a wound cannot fully fit in the remaining slots of a zone |
+| Funcional | Functional | No | Zone state: at least one wound slot remains free |
+| Saturada | Saturated | No | Zone state: all wound slots are filled without Overflow |
+| Colapsada | Collapsed | No | Zone state: a wound exceeded available slots or a Saturated zone received another wound |
+| Penalizador de Saturación | Saturation Penalty | No | Penalty equal to occupied slots in a Saturated zone, applied only to actions dependent on that zone |
+| Estado Corporal | Body State | No | General condition of a creature once damage affects overall function |
+| Operativo | Operational | No | Body State: the creature can act with its current penalties |
+| Incapacitado | Incapacitated | No | Body State: the creature cannot perform meaningful actions |
+| Inconsciente | Unconscious | No | Body State: the creature cannot act, perceive usefully, or actively defend |
+| Agonía | Agony | No | Body State: the creature is at risk of death without stabilization |
+| Muerto | Dead | No | Body State: the creature cannot be recovered by normal scene-level means |
+| Aturdido | Stunned | No | Harmful state usually tied to head trauma, interruption, or loss of immediate response |
+| Impedido | Impeded | No | Harmful state limiting movement, execution, or physical function |
+| Derribado | Knocked Down | No | Harmful state representing loss of footing or being forced to the ground |
+| Estabilizar | Stabilize | No | Recovery step that stops immediate worsening without freeing wound slots |
+| Tratar | Treat | No | Recovery step that cares for a zone during a Full Rest before healing can free a slot |
+| Curar | Heal | No | Recovery result that frees wound slots after successful treatment |
+
+---
+
 ## System terms — rolling
 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
+| Tirada de Ataque | Attack Roll | No | T.A.; roll used to connect an attack against a target's defense or opposed roll |
+| Tirada de Defensa | Defense Roll | No | T.D.; roll used to avoid an incoming attack before Impact is resolved |
+| Tirada de Impacto | Impact Roll | No | T.I.; roll used to determine transmitted damage or pressure after an attack connects |
+| Tirada de Especialización | Specialization Roll | No | T.E.; roll used when acting through a trained specialization |
+| Tirada de Característica | Characteristic Roll | No | T.C.; roll used when a task depends on a raw characteristic rather than a specialization |
+| Tirada de Resistencia | Resistance Roll | No | T.R.; roll used to resist damage types, Agravios, and other hostile effects |
 | Ventaja Evolutiva | Evolutionary Advantage | No | Core roll mechanic: players roll 2d10 and choose which die serves each purpose |
 | Ventaja en la Ejecución | Execution Advantage | No | Use the higher die to resolve the action; learning opportunity from that roll is lost |
 | Ventaja en el Aprendizaje | Learning Advantage | No | Use the lower die to resolve; reserve the higher die to check for competency progress |
@@ -75,8 +135,18 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Desgaste | Attrition | No | Accumulated strain on body, mind, and composure |
 | Aguante | Endurance | No | Determines Attrition recovery capacity |
 | Fatiga | Fatigue | No | Threshold states triggered by accumulated Attrition |
+| Fatiga 1 | Fatigue 1 | No | Fatigue level reached when Attrition is at least 1 × Endurance |
+| Fatiga 2 | Fatigue 2 | No | Fatigue level reached when Attrition is at least 2 × Endurance |
+| Fatiga 3 | Fatigue 3 | No | Fatigue level reached when Attrition is at least 3 × Endurance |
+| Fatiga 4 | Fatigue 4 | No | Fatigue level reached when Attrition is at least 4 × Endurance |
+| Fatiga 5 | Fatigue 5 | No | Fatigue level reached when Attrition is at least 5 × Endurance; base maximum Fatigue level |
 | Fatiga proyectada | Projected Fatigue | No | Fatigue tracked but not yet applied during an active hostile scene |
 | Fatiga asentada | Settled Fatigue | No | Fatigue applied when the hostile scene ends or clearly drops in intensity |
+| Capacidad de Carga | Carrying Capacity | No | Maximum functional sustained load based on size, Strength, and Tenacity |
+| Carga Ligera | Light Load | No | Up to 50% of carrying capacity; no automatic sustained-load Fatigue |
+| Carga Media | Medium Load | No | More than 50% and up to 75% of carrying capacity; adds Fatigue over time |
+| Carga Pesada | Heavy Load | No | More than 75% and up to 100% of carrying capacity; adds Fatigue faster over time |
+| Carga sostenida | Sustained Load | No | Prolonged carried burden that adds Fatigue directly over time instead of through Attrition thresholds |
 | Agravios | Ailments | No | Umbrella category for harmful altered states and hostile conditions; includes Alterations, Infections, Afflictions, Poisons, and Curses |
 | Alteraciones | Alterations | No | Ailments that disrupt a creature's physical or cognitive functioning without being primarily spiritual or theological in origin |
 | Infecciones | Infections | No | Ailments caused by disease, contamination, or invasive biological agents |
@@ -84,7 +154,31 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Venenos | Poisons | No | Ailments caused by toxic substances of natural, artificial, or biological origin |
 | Maldiciones | Curses | No | Extranatural ailments attached to creatures, objects, or places |
 | Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces 1/2/3 Attrition |
-| Descanso Completo | Full Rest | No | 8-hour recovery; clears Attrition and Afflictions |
+| Descanso Completo | Full Rest | No | 8-hour recovery; reduces Attrition by 2 × Endurance, supports treatment, and reduces Affliction intensity |
+
+---
+
+## System terms — cover, visibility, and concealment
+
+| ES term | EN equivalent | Do not translate | Notes |
+| --- | --- | --- | --- |
+| Cobertura | Cover | No | Physical or structural protection that interferes with an attack line |
+| Cobertura Ligera | Light Cover | No | Cover granting -1 to the attacker's Attack Roll |
+| Cobertura Media | Medium Cover | No | Cover granting -3 to the attacker's Attack Roll |
+| Cobertura Total | Total Cover | No | Cover that blocks direct attack line to the target |
+| Visibilidad | Visibility | No | How far and how clearly visual details can be distinguished |
+| Rango visual efectivo | Effective Visual Range | No | Current distance at which visual detail can be distinguished under the scene's conditions |
+| Fuente de luz | Light Source | No | Object or effect that establishes visual range in insufficient illumination |
+| Oscuridad absoluta | Absolute Darkness | No | No usable natural, artificial, or reflected light; visual range is 0 m |
+| Oscuridad extranatural | Extranatural Darkness | No | Darkness of extranatural origin; ordinary light does not counter it |
+| Percepción | Perception | No | Specialization used to locate, distinguish, or interpret sensory signals |
+| Sentido especial | Special Sense | No | Sense that can modify or bypass normal perception limits under specific conditions |
+| Ocultación | Concealment | No | Tactical localization state in which a creature is not precisely located by one or more enemies |
+| Ocultarse | Hide | No | Base action used to attempt Concealment under pressure |
+| Ventaja de apertura | Opening Advantage | No | Attack advantage gained when attacking from Concealment before the target detects the action |
+| Posición aproximada | Approximate Position | No | Non-exact location clue for a concealed creature |
+| Posición aproximada incierta | Uncertain Approximate Position | No | Procedure where the detector receives a location clue without knowing whether it is real |
+| Detección provocada | Provoked Detection | No | Detection opportunity created by a concealed creature producing a signal |
 
 ---
 
@@ -113,7 +207,6 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
 | Grado del arma | Weapon Grade | No | Numeric multiplier (1, 2, 3…) representing weapon quality; used as factor in the T.I. formula alongside the associated characteristic; full definition in Ch09 |
-| Durabilidad | Durability | No | Hit points of equipment; recoverable via Full Rest repair action (5 points per relevant piece); full system in Ch09 |
 
 ---
 
@@ -140,6 +233,7 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
 | Punto vital | vital point | No | A targetable node that changes encounter behavior |
+| PNJ | NPC | No | Non-player character; includes adversaries, allies, neutral characters, and other Narrator-controlled figures |
 | Enemigo común | common enemy | No | Basic encounter unit; 1 ATB track, 0–1 secondary |
 | Campeón | champion | No | Mid-tier unit; 1 track + tactical system + subordinates |
 | Élite | elite | No | High-tier unit; multiple secondary tracks |

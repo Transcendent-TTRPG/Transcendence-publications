@@ -13,7 +13,10 @@ COREBOOK_DIR="$PUBLICATIONS_DIR/core-books/transcendence-corebook"
 OUTPUT_DIR="$SCRIPT_DIR/output"
 STYLES_DIR="$SCRIPT_DIR/styles"
 TEMPLATES_DIR="$SCRIPT_DIR/templates"
+ASSETS_DIR="$SCRIPT_DIR/assets"
+SCRIPTS_DIR="$SCRIPT_DIR/scripts"
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+PYTHON_BIN="$PUBLICATIONS_DIR/../.venv/bin/python"
 
 # --- Arguments ---
 LANG="${1:-en}"
@@ -25,7 +28,10 @@ mkdir -p "$OUTPUT_DIR"
 HTML_OUT="$OUTPUT_DIR/transcendence-corebook-${LANG}.html"
 PDF_DEST="$COREBOOK_DIR/98-layout-export/${LANG}"
 PDF_OUT="$PDF_DEST/transcendence-corebook-${LANG}.pdf"
+PDF_RAW="${TMPDIR:-/tmp}/transcendence-corebook-${LANG}.raw.pdf"
+PAPER_BACKGROUND="$ASSETS_DIR/corebook-paper-background.jpg"
 mkdir -p "$PDF_DEST"
+trap 'rm -f "$PDF_RAW"' EXIT
 
 echo "============================================"
 echo "  Building Transcendence Corebook"
@@ -119,10 +125,19 @@ fi
   --headless=new \
   --disable-gpu \
   --no-sandbox \
-  --print-to-pdf="$PDF_OUT" \
+  --print-to-pdf="$PDF_RAW" \
   --print-to-pdf-no-header \
   --no-pdf-header-footer \
   "file://$HTML_OUT" 2>/dev/null
+
+if [ -f "$PAPER_BACKGROUND" ] && [ -x "$PYTHON_BIN" ]; then
+  "$PYTHON_BIN" "$SCRIPTS_DIR/apply-pdf-background.py" \
+    "$PDF_RAW" \
+    "$PAPER_BACKGROUND" \
+    "$PDF_OUT"
+else
+  cp "$PDF_RAW" "$PDF_OUT"
+fi
 
 echo "  PDF ready: $PDF_OUT"
 echo ""

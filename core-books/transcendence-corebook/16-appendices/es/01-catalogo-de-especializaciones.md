@@ -4,14 +4,14 @@ type: corebook
 content_kind: reference
 writing_mode: reference
 language: es
-chapter: 4
-section: catalogo-de-especializaciones
+chapter: 16
+section: apendice-catalogo-de-especializaciones
 status: draft
 canonical: false
 tags: [specializations, catalog, player-reference, character-development]
 related:
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations-catalog.md
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/es/especializaciones.md
+  - core-books/transcendence-corebook/16-appendices/en/01-specializations-catalog.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
   - core-books/transcendence-corebook/05-character-creation/es/character-creation.md
 authority_refs:
   - Transcendence-design/docs/system/specializations.md

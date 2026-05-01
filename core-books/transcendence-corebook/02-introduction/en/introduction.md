@@ -3,6 +3,11 @@ title: "Introduction"
 type: corebook
 content_kind: introduction
 writing_mode: description
+section_modes:
+  opening: flavor
+  what_is_transcendence: description
+  what_you_need: reference
+  how_to_use_this_book: reference
 language: en
 chapter: 2
 status: draft
@@ -16,54 +21,58 @@ related:
 
 # Introduction
 
-The Limbo exists in parallel to the physical world. It cannot be perceived by ordinary means. Most creatures live without detecting it directly, even though its effects can press through the environment when the separation between dimensions gives enough ground.
+The physical world does not end where the senses stop responding.
 
-That filtration does not always produce spectacular phenomena. Sometimes it only alters a basic relationship between body and world: sound arrives late, light stops resolving space as it should, terrain answers weight with a resistance different from the expected one. What changes is not only how things look, but how they behave.
+The Limbo exists in parallel to material reality, but it does not appear as a visible layer or as a place an ordinary creature can look into. Most beings live without perceiving it. They only know its effects when the separation between dimensions gives way enough for that pressure to reach the world.
 
-When that pressure becomes strong enough, the environment stops obeying the physical logic that seemed to govern it. That kind of alteration is called extranatural influence.
+A filtration does not always announce itself through violence. Sometimes it alters a simple relationship between body and environment: sound arrives late, light no longer orders distance correctly, or the ground answers weight with a resistance its shape does not explain. What changes is not only how things appear, but how they behave.
+
+This kind of alteration is called extranatural influence. It is not defined by intensity, but by origin: pressure from the Limbo acting upon perceptible reality.
 
 ---
 
 ## What Is Transcendence
 
-Transcendence is a tabletop roleplaying game for one Narrator and two to five players. Each session unfolds in a world where the Limbo operates as constant pressure — invisible most of the time, decisive when it matters.
+Transcendence is a tabletop roleplaying game for one Narrator and two to five players. Its sessions take place in a world where reality can hold, give way, or deform under extranatural pressure.
 
-Characters investigate, move, fight, recover, and make decisions under pressure. They face creatures, hostile environmental conditions, and situations where poor execution is rarely absorbed by the system. Consequences accumulate: positioning matters, Attrition matters, and the order in which an action resolves matters.
+Characters investigate, travel, fight, endure, and recover in scenes where position and timing carry weight. A bad decision does not disappear at the end of a turn. It can leave a wound, exhaust the body, close a route, or change the state of the scene.
 
-Progression carries characters from Novice to Transcendent. That growth is not only a matter of higher values, but of sharper definition: more practice, more specialization, and greater capacity to sustain difficult decisions in increasingly unstable scenes.
+The system does not treat combat as a sequence of closed rounds. Each creature acts within an active timeline, and every action moves its next opportunity to intervene. Acting earlier can create an immediate advantage. It can also leave less room to respond later.
 
-Combat is organized on an active timeline. Every action has a rhythm cost that determines when a creature acts again. There are no closed rounds: there are choices that advance, delay, expose, or preserve.
+Progression carries characters from Novice to Transcendent. That growth is not only a matter of increasing values. It defines what a character can sustain, what they learn to do under pressure, and what risks they can take when the world stops behaving in a stable way.
 
-The horror is not present only as atmosphere. The Limbo and its forms of filtration produce concrete consequences for the environment, for perception, and for any creature that comes into contact with that pressure.
+Horror does not appear as decoration. It enters the scene when the Limbo alters bodies, places, senses, or conditions. When that pressure has consequences, it stops being atmosphere and becomes a rule.
 
 ---
 
 ## What You Need
 
-Each player needs a full dice set and a character sheet. The Narrator may need additional dice for specific effects and for some background rolls.
+Each player needs a character sheet and a complete dice set. The Narrator may need additional dice for effects, adversaries, or hidden rolls.
 
-No map or miniatures are required. The system can be played entirely through verbal description. If the table prefers visual support, it may use markers, maps, or any spatial aid that helps track position and distance during conflict.
+No map or miniatures are required. Transcendence can be played through verbal description, as long as the table maintains clarity around position, distance, and the current state of the scene.
+
+If the group prefers visual support, it can use maps, markers, tokens, or any spatial reference that helps track conflict. The tool does not matter. Position does.
 
 ---
 
 ## How to Use This Book
 
-This book is organized to be read in order on a first read. Early chapters establish the base of the system. Later chapters develop character creation, progression, combat, and other layers that depend on that foundation.
+This book is organized to be read in order during a first reading. The opening chapters present the foundation of the system. Later chapters develop character creation, progression, conflict, equipment, horror, adversaries, and setting.
 
-If this is your first read, it is best to move through it sequentially until character creation and conflict rules are clear. After that, the book can also function as a reference.
+After the first reading, the book also works as a reference. The general rules explain how actions are resolved. Later chapters expand those rules for specific situations.
 
 | Chapter | Contents |
 | --- | --- |
-| 3 | General rules, rolling system, environmental conditions |
-| 4 | Character creation |
-| 5 | Species |
-| 6 | Backgrounds and origins |
-| 7 | Techniques |
-| 8 | Skills and proficiencies |
-| 9 | Equipment and resources |
-| 10 | Conflict and combat |
+| 3 | General rules and rolling system |
+| 4 | Skills and proficiencies |
+| 5 | Character creation |
+| 6 | Species |
+| 7 | Backgrounds and origins |
+| 8 | Conflict and combat |
+| 9 | Techniques |
+| 10 | Equipment and resources |
 | 11 | Cosmic horror and corruption |
-| 12 | GM toolkit |
+| 12 | Narrator toolkit and environmental conditions |
 | 13 | Adversaries and bestiary |
 | 14 | Setting and factions |
 | 15 | Scenarios and adventures |

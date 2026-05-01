@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transcendence - Hoja de personaje</title>
+  <link rel="stylesheet" href="styles/character-sheet.css">
+</head>
+<body>
+  <main class="sheet-page">
+    <header class="sheet-title">
+      <div>
+        <p class="kicker">Hoja de personaje</p>
+        <h1>Transcendence</h1>
+      </div>
+      <div class="sheet-mark">
+        <span>01</span>
+        <small>N&uacute;cleo</small>
+      </div>
+    </header>
+
+    <section class="core-grid" aria-label="N&uacute;cleo del personaje">
+      <div class="identity-grid" aria-label="Identidad del personaje">
+      <label class="field field-name">
+        <span>Nombre</span>
+        <i></i>
+      </label>
+      <label class="field field-species">
+        <span>Especie</span>
+        <i></i>
+      </label>
+      <label class="field field-background">
+        <span>Trasfondo</span>
+        <i></i>
+      </label>
+      <label class="field field-concept">
+        <span>Concepto</span>
+        <i></i>
+      </label>
+      <label class="field field-size">
+        <span>Tama&ntilde;o</span>
+        <i></i>
+      </label>
+      <label class="field field-speed">
+        <span>Velocidad</span>
+        <i></i>
+      </label>
+      </div>
+
+      <section class="panel characteristics" aria-labelledby="characteristics-title">
+        <div class="panel-heading">
+          <h2 id="characteristics-title">Caracter&iacute;sticas</h2>
+          <p>Base + especie + Sinapsis</p>
+        </div>
+
+        <div class="stat-groups">
+          <div class="stat-group">
+            <h3>F&iacute;sicas</h3>
+            <div class="stat-row">
+              <span>STR</span>
+              <strong>Fuerza</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>AGI</span>
+              <strong>Agilidad</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>TEN</span>
+              <strong>Tenacidad</strong>
+              <i></i>
+            </div>
+          </div>
+
+          <div class="stat-group">
+            <h3>Mentales</h3>
+            <div class="stat-row">
+              <span>INT</span>
+              <strong>Intelecto</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>CUN</span>
+              <strong>Astucia</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>WIS</span>
+              <strong>Sabidur&iacute;a</strong>
+              <i></i>
+            </div>
+          </div>
+
+          <div class="stat-group">
+            <h3>Sociales</h3>
+            <div class="stat-row">
+              <span>CMP</span>
+              <strong>Compostura</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>AUR</span>
+              <strong>Aura</strong>
+              <i></i>
+            </div>
+            <div class="stat-row">
+              <span>PRE</span>
+              <strong>Presencia</strong>
+              <i></i>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <aside class="panel derived" aria-labelledby="derived-title">
+        <div class="panel-heading">
+          <h2 id="derived-title">Derivados</h2>
+          <p>Calcular al crear el personaje</p>
+        </div>
+
+        <div class="derived-grid">
+          <label class="derived-box">
+            <span>Preparaci&oacute;n</span>
+            <strong></strong>
+            <small>(AGI + CUN + CMP) / 3</small>
+          </label>
+          <label class="derived-box">
+            <span>Resiliencia</span>
+            <strong></strong>
+            <small>(TEN + WIS + CMP) / 3</small>
+          </label>
+          <label class="derived-box">
+            <span>Aguante</span>
+            <strong></strong>
+            <small>3 + (TEN &times; 2)</small>
+          </label>
+          <label class="derived-box">
+            <span>Cordura</span>
+            <strong></strong>
+            <small>CMP &times; 2</small>
+          </label>
+        </div>
+      </aside>
+    </section>
+
+    <section class="lower-grid">
+      <section class="panel traits" aria-labelledby="traits-title">
+        <div class="panel-heading">
+          <h2 id="traits-title">Rasgos de personalidad</h2>
+          <p>Conducta visible, tensiones, h&aacute;bitos</p>
+        </div>
+        <div class="writing-lines tall-lines" aria-hidden="true">
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+          <i></i>
+        </div>
+      </section>
+
+      <section class="panel legacy" aria-labelledby="legacy-title">
+        <div class="panel-heading">
+          <h2 id="legacy-title">Legados y herencia</h2>
+          <p>Especie, memoria, linaje</p>
+        </div>
+        <table class="legacy-table">
+          <tbody>
+            <tr>
+              <th>Legado I</th>
+              <td></td>
+            </tr>
+            <tr>
+              <th>Legado II</th>
+              <td></td>
+            </tr>
+            <tr>
+              <th>Legado III</th>
+              <td></td>
+            </tr>
+            <tr>
+              <th>Herencia</th>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+  </main>
+
+  <main class="sheet-page rolls-page">
+    <header class="sheet-title compact-title">
+      <div>
+        <p class="kicker">Hoja de personaje</p>
+        <h1>Transcendence</h1>
+      </div>
+      <div class="sheet-mark">
+        <span>02</span>
+        <small>Tiradas</small>
+      </div>
+    </header>
+
+    <section class="roll-reminder" aria-label="Ventaja Evolutiva">
+      <div>
+        <strong>Ventaja en la Ejecuci&oacute;n</strong>
+        <span>2d10, usar el mayor. No genera Progreso.</span>
+      </div>
+      <div>
+        <strong>Ventaja en el Aprendizaje</strong>
+        <span>2d10, usar el menor. El mayor puede generar Progreso.</span>
+      </div>
+      <div>
+        <strong>Rasgo de personalidad</strong>
+        <span>P.R. = 2d10.</span>
+      </div>
+    </section>
+
+    <section class="panel roll-panel attacks-panel" aria-labelledby="attacks-title">
+      <div class="panel-heading">
+        <h2 id="attacks-title">Ataques e Impacto</h2>
+        <p>A.R. = d10 + competencia + caracter&iacute;stica + bonos</p>
+      </div>
+      <table class="sheet-table attacks-table">
+        <thead>
+          <tr>
+            <th>Ataque / arma</th>
+            <th>Tipo</th>
+            <th>Comp.</th>
+            <th>Carac.</th>
+            <th>Bonos</th>
+            <th>Potencia</th>
+            <th>A.R.</th>
+            <th>Impacto</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1d10 +</td><td><span class="impact-format"><i></i>d<i></i>+<i></i></span></td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="roll-grid">
+      <section class="panel defense-panel" aria-labelledby="defense-title">
+        <div class="panel-heading">
+          <h2 id="defense-title">Defensa</h2>
+          <p>D.R. = d10 + competencia evasiva + AGI aplicable + bonos</p>
+        </div>
+        <table class="sheet-table defense-table">
+          <thead>
+            <tr>
+              <th>Tipo</th>
+              <th>Comp. ev.</th>
+              <th>AGI</th>
+              <th>Bonos</th>
+              <th>D.R.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Sin armadura</td><td>Completa</td><td>Completa</td><td></td><td>1d10 +</td></tr>
+            <tr><td>Ligera</td><td>Completa</td><td>Completa</td><td></td><td>1d10 +</td></tr>
+            <tr><td>Intermedia</td><td>1/2</td><td>1/2</td><td></td><td>1d10 +</td></tr>
+            <tr><td>Pesada</td><td>0</td><td>0</td><td></td><td>1d10 +</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="panel zones-panel" aria-labelledby="zones-title">
+        <div class="panel-heading">
+          <h2 id="zones-title">Zonas</h2>
+          <p>Usar cuando el golpe impacta</p>
+        </div>
+        <table class="sheet-table zones-table">
+          <thead>
+            <tr>
+              <th>Zona</th>
+              <th>Armadura</th>
+              <th>Bloqueo</th>
+              <th>Dur.</th>
+              <th>Bonif.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Cabeza</td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>Torso</td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>Brazos</td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>Piernas</td><td></td><td></td><td></td><td></td></tr>
+            <tr><td>Pies</td><td></td><td></td><td></td><td></td></tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+
+    <section class="lower-roll-grid">
+      <section class="panel resistances-panel" aria-labelledby="resistances-title">
+        <div class="panel-heading">
+          <h2 id="resistances-title">Resistencias</h2>
+          <p>R.R. = d10 + base + resistencia + bonos</p>
+        </div>
+        <table class="sheet-table resistance-table">
+          <thead>
+            <tr>
+              <th>Tipo</th>
+              <th>Base</th>
+              <th>Res.</th>
+              <th>Bonos</th>
+              <th>R.R.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>F&iacute;sica</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Fuego</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Agua</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Viento</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Tierra</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Luz</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Oscuridad</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Veneno</td><td>Tenacidad</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Infecci&oacute;n</td><td>Tenacidad</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Aflicci&oacute;n</td><td>Compostura</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Maldici&oacute;n</td><td>Compostura</td><td></td><td></td><td>1d10 +</td></tr>
+            <tr><td>Alteraci&oacute;n</td><td>Resiliencia</td><td></td><td></td><td>1d10 +</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="side-stack">
+        <section class="panel wounds-panel" aria-labelledby="wounds-title">
+          <div class="panel-heading">
+            <h2 id="wounds-title">Heridas</h2>
+            <p>Marcar ranuras por zona</p>
+          </div>
+          <div class="wounds-grid">
+            <table class="sheet-table wound-slots-table">
+              <thead>
+                <tr>
+                  <th>Zona</th>
+                  <th>Ranuras</th>
+                  <th>Penalizador</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td>Cabeza</td><td class="wound-boxes"><i></i><i></i><i></i></td><td></td></tr>
+                <tr><td>Torso</td><td class="wound-boxes"><i></i><i></i><i></i><i></i><i></i></td><td></td></tr>
+                <tr><td>Brazos</td><td class="wound-boxes"><i></i><i></i><i></i><i></i></td><td></td></tr>
+                <tr><td>Piernas</td><td class="wound-boxes"><i></i><i></i><i></i><i></i></td><td></td></tr>
+                <tr><td>Pies</td><td class="wound-boxes"><i></i><i></i><i></i></td><td></td></tr>
+              </tbody>
+            </table>
+
+            <table class="sheet-table wound-severity-table">
+              <thead>
+                <tr>
+                  <th>Severidad</th>
+                  <th>Ranuras</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td>Leve</td><td>1</td></tr>
+                <tr><td>Grave</td><td>2</td></tr>
+                <tr><td>Cr&iacute;tica</td><td>3</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel attrition-panel" aria-labelledby="attrition-title">
+          <div class="panel-heading">
+            <h2 id="attrition-title">Desgaste y fatiga</h2>
+            <p>Marcar durante la escena</p>
+          </div>
+          <div class="attrition-content">
+            <div class="attrition-row">
+              <span>Desgaste actual</span>
+              <div class="attrition-boxes">
+                <i></i><i></i><i></i><i></i><i></i>
+                <i></i><i></i><i></i><i></i><i></i>
+                <i></i><i></i><i></i><i></i><i></i>
+              </div>
+            </div>
+            <div class="attrition-summary">
+              <label><span>Aguante</span><i></i></label>
+              <label><span>Fatiga proyectada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+              <label><span>Fatiga asentada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+            </div>
+          </div>
+        </section>
+      </section>
+    </section>
+  </main>
+
+  <main class="sheet-page competencies-page">
+    <header class="sheet-title compact-title">
+      <div>
+        <p class="kicker">Hoja de personaje</p>
+        <h1>Transcendence</h1>
+      </div>
+      <div class="sheet-mark">
+        <span>03</span>
+        <small>Compet.</small>
+      </div>
+    </header>
+
+    <section class="competency-reminder" aria-label="Referencia de competencias">
+      <div>
+        <strong>Competencias</strong>
+        <span>Progreso normal: 10 marcas. Afinidad mayor: 5 marcas.</span>
+      </div>
+      <div>
+        <strong>Especializaci&oacute;n</strong>
+        <span>S.R. = d10 + nivel + rango + caracter&iacute;stica + bonos. Marca Af. si usa afinidad mayor.</span>
+      </div>
+    </section>
+
+    <section class="progression-key" aria-label="Reglas de progreso">
+      <span>Armas: T.A. exitosa</span>
+      <span>Evasi&oacute;n: T.D. exitosa</span>
+      <span>Armadura: T.D. fallida</span>
+      <span>Escudo: t&eacute;cnica de escudo</span>
+      <span>Resistencia: T.R. fallida</span>
+      <span>Especializaci&oacute;n: T.E. exitosa</span>
+    </section>
+
+    <section class="abbr-key" aria-label="Leyenda de columnas">
+      <span>Car. = caracter&iacute;stica</span>
+      <span>Nv. = nivel</span>
+      <span>Rg. = rango</span>
+      <span>Af. = afinidad mayor</span>
+      <span>Prog. = progreso</span>
+      <span>Fal. = fallos</span>
+    </section>
+
+    <section class="competency-top-grid">
+      <section class="panel weapon-competencies" aria-labelledby="weapon-competencies-title">
+        <div class="panel-heading">
+          <h2 id="weapon-competencies-title">Armas</h2>
+          <p>Naturales o fabricadas</p>
+        </div>
+        <table class="sheet-table competency-table weapons-competency-table">
+          <thead>
+            <tr>
+              <th>Competencia</th>
+              <th>Nv.</th>
+              <th>Rg.</th>
+              <th>Prog.</th>
+              <th>Fal.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="panel gear-competencies" aria-labelledby="gear-competencies-title">
+        <div class="panel-heading">
+          <h2 id="gear-competencies-title">Armaduras y escudos</h2>
+          <p>Uso defensivo entrenado</p>
+        </div>
+        <table class="sheet-table competency-table gear-competency-table">
+          <thead>
+            <tr>
+              <th>Competencia</th>
+              <th>Nv.</th>
+              <th>Rg.</th>
+              <th>Prog.</th>
+              <th>Fal.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Evasi&oacute;n</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Armadura ligera</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Armadura intermedia</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Armadura pesada</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Escudo liviano</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Escudo intermedio</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Escudo pesado</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="panel resistance-competencies" aria-labelledby="resistance-competencies-title">
+        <div class="panel-heading">
+          <h2 id="resistance-competencies-title">Resistencias</h2>
+          <p>Progresan por exposici&oacute;n</p>
+        </div>
+        <table class="sheet-table competency-table resistance-competency-table">
+          <thead>
+            <tr>
+              <th>Resistencia</th>
+              <th>Nv.</th>
+              <th>Rg.</th>
+              <th>Prog.</th>
+              <th>Fal.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>F&iacute;sica</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Fuego</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Agua</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Viento</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Tierra</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Luz</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Oscuridad</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Veneno</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Infecci&oacute;n</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Alteraci&oacute;n</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Aflicci&oacute;n</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+            <tr><td>Maldici&oacute;n</td><td></td><td></td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+
+    <section class="panel specializations-panel" aria-labelledby="specializations-title">
+      <div class="panel-heading">
+        <h2 id="specializations-title">Especializaciones</h2>
+        <p>Registrar las que el personaje use o entrene</p>
+      </div>
+      <div class="specialization-columns">
+        <table class="sheet-table specialization-table compact-specialization-table">
+          <thead>
+            <tr>
+              <th>Especializaci&oacute;n</th>
+              <th>Car.</th>
+              <th>Nv.</th>
+              <th>Rg.</th>
+              <th>Af.</th>
+              <th>S.R.</th>
+              <th>Prog.</th>
+              <th>Fal.</th>
+            </tr>
+          </thead>
+          <tbody>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+          </tbody>
+        </table>
+
+        <table class="sheet-table specialization-table compact-specialization-table">
+          <thead>
+            <tr>
+              <th>Especializaci&oacute;n</th>
+              <th>Car.</th>
+              <th>Nv.</th>
+              <th>Rg.</th>
+              <th>Af.</th>
+              <th>S.R.</th>
+              <th>Prog.</th>
+              <th>Fal.</th>
+            </tr>
+          </thead>
+          <tbody>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td class="affinity-cell"></td><td>1d10 +</td><td class="progress-track"><span></span><span></span><span></span><span></span><span></span><br><span></span><span></span><span></span><span></span><span></span></td><td></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

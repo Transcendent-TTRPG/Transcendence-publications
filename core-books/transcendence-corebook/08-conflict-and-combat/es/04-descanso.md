@@ -9,12 +9,15 @@ status: draft
 canonical: false
 tags: [rest, short-rest, full-rest, attrition, recovery, afflictions, maintenance]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/rest.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/04-rest.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/05-heridas-y-dano.md
 authority_refs:
   - Transcendence-design/docs/system/attrition-fatigue.md
+  - Transcendence-design/docs/system/wounds-and-damage.md
   - Transcendence-design/docs/system/mechanics-overview.md
   - Transcendence-design/data/system/attrition-fatigue.yaml
+  - Transcendence-design/data/system/wounds-and-damage.yaml
 section_modes:
   - heading: "Ejemplo"
     writing_mode: example
@@ -22,14 +25,14 @@ section_modes:
 
 # Descanso
 
-El descanso es la forma más básica en la que un personaje recupera control sobre su cuerpo, su mente y su compostura después de una escena exigente. Un combate, una persecución, una travesía hostil o una confrontación intensa no solo dejan heridas visibles: también dejan respiración pesada, temblores, saturación mental, tensión emocional y una fatiga que no desaparece solo porque el peligro haya terminado.
+El descanso es la forma más básica en la que un personaje recupera control sobre su cuerpo, su mente y su compostura después de una escena exigente. Un combate, una persecución, una travesía hostil o una confrontación intensa no solo dejan Heridas visibles: también dejan respiración pesada, temblores, saturación mental, tensión emocional y una Fatiga que no desaparece solo porque el peligro haya terminado.
 
 Descansar no significa resetear al personaje. Significa recuperar parte del margen perdido al exponerse repetidamente al conflicto.
 
 El descanso cumple tres funciones principales:
 
 - reducir el Desgaste acumulado
-- permitir tareas de mantenimiento, tratamiento y preparación
+- permitir tareas de mantenimiento, estabilización, tratamiento y preparación
 - dar espacio para reorganizarse antes de volver a exponerse al peligro
 
 No todo descanso es igual. Una pausa breve puede devolver algo de control, pero también puede ser interrumpida o poner al grupo en riesgo. Un descanso largo permite una recuperación mucho más profunda, pero exige tiempo, condiciones adecuadas y una relativa seguridad.
@@ -81,7 +84,7 @@ Tareas breves disponibles:
 
 - ajustar una correa o pieza del equipo
 - reorganizar un arma o herramienta
-- revisar rápidamente una herida
+- revisar rápidamente una Herida
 - intercambiar información inmediata
 - decidir una ruta o prioridad táctica simple
 
@@ -95,7 +98,7 @@ Reduce 2 puntos de Desgaste y permite realizar 1 tarea significativa de mantenim
 
 Tareas significativas disponibles:
 
-- aplicar primeros auxilios
+- estabilizar una Herida Leve con Medicina, si se cuenta con el kit adecuado
 - estudiar una pista reciente
 - revisar huellas, mapas o notas
 - repartir recursos
@@ -118,6 +121,8 @@ El Narrador puede considerar favorables las condiciones si el grupo cuenta con e
 - herramientas apropiadas para tratar el cuerpo o el equipo
 
 Es la mejor forma de recuperación breve antes de un nuevo tramo exigente, pero también es la que más fácilmente expone al grupo a eventos inesperados.
+
+Durante un Descanso de 60 minutos, un personaje puede intentar estabilizar una Herida Grave con Medicina, si cuenta con el kit adecuado. Este descanso no libera Ranuras de Herida.
 
 #### Límite de recuperación breve
 
@@ -147,15 +152,30 @@ Esta recuperación representa una restauración profunda. No significa que todas
 
 Como la Fatiga depende del Desgaste acumulado, reducir Desgaste mediante un Descanso Completo también reduce automáticamente los niveles de Fatiga si el personaje desciende por debajo de los umbrales correspondientes.
 
-#### 3. Reparación de equipo
+#### 3. Tratamiento de heridas
 
-Durante un Descanso Completo, el personaje puede intentar reparar su equipo y recuperar 5 puntos de durabilidad en cada pieza relevante, superando la tirada apropiada según la especialización necesaria y el grado del objeto. Esto se aplica a armaduras, armas y otros elementos que lo permitan.
+Durante un Descanso Completo, una criatura puede recibir tratamiento de Medicina para liberar Ranuras de Herida.
 
-#### 4. Progresión o alivio de aflicciones
+El tratamiento no ocurre solo porque pasen 8 horas. La Herida debe estar estabilizada y alguien debe atender la Zona con herramientas adecuadas. Si el tratamiento tiene éxito, el paciente libera 1 Ranura de Herida de esa Zona.
 
-Cada día de Descanso Completo reduce en 1 la intensidad de cada aflicción activa, salvo que una regla específica indique lo contrario. Esto mantiene la idea de que ciertas consecuencias requieren tiempo, cuidado y recuperación real para empezar a ceder.
+| Descanso | Puede estabilizar | Puede tratar | Puede liberar ranuras |
+| --- | --- | --- | ---: |
+| 15 minutos | No por regla base | No | 0 |
+| 30 minutos | Herida Leve | No | 0 |
+| 60 minutos | Herida Grave | No | 0 |
+| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | Sí, con Medicina | 1 ranura por personaje tratado |
 
-#### 5. Preparación del día
+Las reglas completas de dificultad, kits y ajuste por ranuras ocupadas están en **Heridas y Daño**. Esta sección solo define qué permite cada duración de descanso.
+
+#### 4. Reparación de equipo
+
+Durante un Descanso Completo, el personaje puede intentar reparar su equipo y recuperar 5 puntos de Durabilidad en cada pieza relevante, superando la tirada apropiada según la especialización necesaria y el grado del objeto. Esto se aplica a armaduras, armas y otros elementos que lo permitan.
+
+#### 5. Progresión o alivio de Aflicciones
+
+Cada día de Descanso Completo reduce en 1 la intensidad de cada Aflicción activa, salvo que una regla específica indique lo contrario. Esto mantiene la idea de que ciertas consecuencias requieren tiempo, cuidado y recuperación real para empezar a ceder.
+
+#### 6. Preparación del día
 
 El grupo puede:
 
@@ -167,7 +187,7 @@ El grupo puede:
 
 #### Sobre la recuperación física
 
-Un Descanso Completo no hace desaparecer automáticamente cualquier herida grave, fractura o condición persistente. Recupera parte importante de la funcionalidad del personaje, pero no reemplaza tratamiento, medicina o curación prolongada cuando estas sean necesarias.
+Un Descanso Completo no hace desaparecer automáticamente cualquier Herida Grave, fractura o condición persistente. Recupera parte importante de la funcionalidad del personaje, pero no reemplaza estabilización, tratamiento, Medicina o curación prolongada cuando estas sean necesarias.
 
 Dormir bien puede devolverte margen. No siempre puede devolverte integridad.
 

@@ -7,6 +7,7 @@ canonical: true
 tags: [corebook, writing, checklist, rules, editorial]
 related:
   - canon/style-guide.md
+  - canon/publication-visual-style.md
   - canon/text-modes.md
   - canon/voice-samples.md
   - canon/glossary.md
@@ -33,9 +34,10 @@ Read these files first:
 
 1. `canon/text-modes.md`
 2. `canon/style-guide.md`
-3. `canon/glossary.md`
-4. `canon/voice-samples.md`
-5. `canon/world-facts.md` when the file touches setting, atmosphere, religion, cosmology, or extranatural phenomena
+3. `canon/publication-visual-style.md` when changing layout, CSS, printable artifacts, tables, cards, sheets, or PDF export styling
+4. `canon/glossary.md`
+5. `canon/voice-samples.md`
+6. `canon/world-facts.md` when the file touches setting, atmosphere, religion, cosmology, or extranatural phenomena
 
 Also load:
 

@@ -22,68 +22,82 @@ section_modes:
 
 ## Dice
 
-Most checks in this game use ten-sided dice. Some mechanics — primarily weapon damage — use differently sized dice: d4, d6, d8, and d12. Certain background Narrator rolls occasionally use a d100 (two d10s read together).
+Transcendence mainly uses ten-sided dice. Some mechanics, especially weapon damage, use other die sizes: d4, d6, d8, and d12. Certain Narrator rolls may use d100, resolved with two d10s read as tens and ones.
 
-Beyond dice, each player needs a character sheet to track their character's values and tokens or markers to represent positions on the ATB combat timeline.
-
----
-
-## Specific over general
-
-When a specific rule conflicts with a general rule, the specific rule takes precedence. This principle applies throughout the system: a particular mechanic always outweighs the background rule it might contradict.
-
-*Example:* if an ability defines its duration as Level ÷ 2 rounded down, that definition overrides the general round-up rule.
+Each player needs a character sheet to track values, resources, and active effects. The table may also use tokens, markers, or visual references to represent positions on the **ATB** timeline.
 
 ---
 
-## The Narrator and the rules
+## Specific Rules Over General Rules
 
-The Narrator may adapt, modify, or omit a mechanic when the situation warrants it — provided the decision remains consistent with the world and recognizable to the players at the table.
+When a specific rule contradicts a general rule, the specific rule takes precedence. A particular mechanic always has priority over the background rule that would normally resolve that situation.
 
-When a specific rule exists, it offers the most precise framework for resolving a situation. When none exists, the Narrator builds the outcome from whichever system best fits the moment.
+*Example:* if an ability defines its duration as Level ÷ 2 rounded down, that definition replaces the general rule for rounding up.
+
+---
+
+## The Narrator and the Rules
+
+The Narrator applies the rules to resolve actions, consequences, and the state of the scene. When a situation is not covered directly, the Narrator uses the closest mechanic and builds the result from there.
+
+A specific rule provides the most precise framework for resolving its situation. Changing it should be an exception, not a habit, and the decision must remain consistent with the world, the scene, and the information available to the players.
 
 ---
 
 ## Rounding
 
-When a calculation produces a fraction or decimal, round up to the nearest whole number, unless a specific rule says otherwise. This applies to damage, durations, ratings, and any other numeric value in the system.
+When a calculation produces a fraction or decimal, round up to the nearest whole number, unless a specific rule says otherwise. This rule applies to damage, durations, ratings, and any other numeric value in the system.
 
 ---
 
-## Strongest condition
+## Strongest Condition
 
-When a character receives multiple effects of the same type — two movement penalties, two attack bonuses — only the most significant one applies. If an effect is already active and a new one of the same type arrives, compare magnitude and duration: the stronger one prevails and, if the new effect surpasses the existing one, it replaces it and resets duration from that point.
+When a creature receives multiple effects of the same type, only the most significant one applies. This includes penalties, bonuses, movement reductions, and other modifiers that affect the same value or state.
 
-*Example:* a character suffers a penalty that halves movement speed for 3 turns. Then they receive another of the same type lasting 6 turns. The stronger condition holds and duration becomes 6 turns.
+To compare effects of the same type, check magnitude first. If both effects have the same magnitude, the one with the longer remaining duration takes precedence. If the new effect surpasses the existing one, it replaces it and its duration begins from that moment.
+
+*Example:* a character suffers a penalty that halves movement speed for 3 turns. Later, they receive another penalty of the same type lasting 6 turns. Because the magnitude is the same, the longer duration remains: the penalty stays active for 6 turns from the new effect.
 
 ---
 
 ## Adventure Cycle
 
-The game is organized around three phases that indicate what kind of pressure is active and which rules become relevant. They are not turns or formal scenes, and they do not impose a rigid sequence.
+The game is organized around three phases: **Exploration**, **Conflict**, and **Interlude**. Each phase indicates what kind of pressure dominates the scene, how time is handled, and which rules move to the front.
+
+These phases are not turns or mandatory structures. The table uses them to recognize what is at stake and which part of the system should resolve the situation.
 
 ---
 
 ### Exploration
 
-Characters move through the world, investigate, seek resources, interact with those who inhabit it. There is no immediate tactical urgency, but decisions carry weight: a path chosen, a clue ignored, a resource left behind. Rest, specialization, and preparation rules operate here with greater freedom.
+Exploration covers movement through the world, investigation, resource gathering, and interaction with places or inhabitants. There is no immediate tactical urgency, but decisions leave a trace: a chosen route, an ignored clue, an opened door, a spent resource.
+
+During this phase, rules for rest, specialization, preparation, and environmental management operate with greater freedom.
 
 ---
 
 ### Conflict
 
-A high-stakes encounter comes into play — combat, a confrontation with immediate consequences, an obstacle requiring tactical resolution. The ATB system takes control of time. Attrition, action, and reaction rules define what is possible.
+Conflict begins when a scene demands immediate tactical resolution. This may be combat, a dangerous confrontation, a chase, a desperate defense, or an obstacle that cannot be resolved without measuring time, position, and consequence.
 
-Every participant is a **creature**: a term that covers player characters (PC), Narrator characters (NPC), and enemies. The full conflict flow is described in the Combat chapter.
+During Conflict, the **ATB** system takes control of time. The rules for **Desgaste**, actions, and reactions determine what each creature can do and how much it costs to intervene.
+
+Every participant in a Conflict is a **creature**. This term includes player characters, Narrator characters, adversaries, and any entity acting within the scene. The full flow of Conflict is described in the Combat chapter.
 
 ---
 
 ### Interlude
 
-An extended period outside detailed scene-by-scene play. Characters craft, repair, recover, manage resources, develop relationships, or prepare for what comes next. Time flows more freely and consequences tend to be long-term.
+Interlude covers extended periods outside detailed scene-by-scene play. Characters craft, repair, rest, treat wounds, manage resources, develop relationships, or prepare for the next advance.
+
+Time moves with less immediate pressure, but consequences tend to last longer. What is decided during an Interlude can define which resources, wounds, bonds, or risks shape the next scene.
 
 ---
 
 ## Example
 
-A group moves through ruins in search of a relic: they investigate corridors, read traces, and decide which route to follow. When a creature emerges from the depths of the sanctuary and forces immediate action under pressure, the scene shifts into Conflict. After they survive the encounter, patch equipment, treat wounds, and organize the next advance, they enter Interlude.
+A group moves through ruins in search of a relic. While they explore corridors, study traces, and decide which route to follow, the scene is in Exploration.
+
+When a creature emerges from the depths of the sanctuary and forces immediate action under pressure, the scene shifts into Conflict. Time stops moving freely, and the ATB system determines the order of intervention.
+
+After the encounter, the characters patch equipment, treat wounds, and organize the next advance. The scene enters Interlude.

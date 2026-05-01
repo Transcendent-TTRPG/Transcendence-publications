@@ -11,8 +11,8 @@ tags: [rolling-system, competencies, attack, defense, impact, resistance, specia
 related:
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/03-core-rules/en/01-general-rules.md
-  - core-books/transcendence-corebook/03-core-rules/en/03-environmental-conditions.md
-  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/specializations.md
+  - core-books/transcendence-corebook/12-gm-toolkit/en/01-environmental-conditions.md
+  - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
   - Transcendence-design/docs/system/roll-types.md
   - Transcendence-design/docs/system/competencies.md
@@ -29,179 +29,248 @@ section_modes:
 
 # Rolling System and Competencies
 
-## Rolling System
+## Resolving a Roll
 
-The Rolling System determines the outcome of actions in combat, exploration, or social interaction. Checks use a `d10` modified by characteristics, competencies, equipment, and circumstances.
+Rolls resolve actions when the outcome is not assured and a relevant consequence exists. They can appear in combat, exploration, social interaction, or any scene where pressure makes failure matter.
 
-Players choose how to approach certain actions through Evolutionary Advantage. NPCs and creatures use a simplified system aligned with their narrative function.
+The base of a roll is a `d10`. Characteristics, competencies, equipment, traits, conditions, and other modifiers are added according to the type of action.
+
+Player characters can risk certain rolls through **Evolutionary Advantage**. NPCs and other creatures use a more direct layer, based on Traits, special capabilities, and the function they serve within the scene.
+
+---
 
 ## Evolutionary Advantage
 
-For Attack, Defense, Resistance, and Specialization checks, players can choose one of two approaches before rolling.
+Evolutionary Advantage represents how a character approaches a trained action under pressure. Before rolling, the player chooses whether to prioritize immediate execution or the possibility of learning.
+
+This choice only applies to rolls that use competencies: **Attack Rolls**, **Defense Rolls**, **Resistance Rolls**, and **Specialization Rolls**. It does not apply to Characteristic Rolls or Personality Trait Rolls.
 
 ### Execution Advantage
 
-The player rolls two dice and chooses the higher result. The learning opportunity from that check is forfeited.
+The player rolls two dice and uses the higher result to resolve the roll.
+
+The action is more likely to succeed, but it cannot generate progress. The character focuses on execution, not on exposing themselves to the kind of error that teaches.
 
 ### Learning Advantage
 
-The player rolls two dice and uses the lower result to resolve the action.
+The player rolls two dice and uses the lower result to resolve the roll. The higher die is reserved as the learning die.
 
-The higher die is reserved for the learning check.
+After the action is resolved, compare the learning die against the die used for the roll and the rank of the competency that can progress.
 
-If that higher die exceeds the sum of the lower die and the rank of the competency designated by that roll's progression rule, the character marks one progress point in that competency.
+```text
+Learning die > die used + competency rank
+```
+
+If the learning die exceeds that sum, the character marks 1 progress point in the corresponding competency, provided the action meets the progression conditions for its type.
+
+A roll can fail and still teach. It can also succeed without generating progress. The competency that progresses depends on the type of action and what happened in the scene.
+
+---
 
 ## NPCs and Other Creatures
 
-NPCs and monsters do not necessarily follow the same progression rules as player characters. Instead, they use Traits: advantages, disadvantages, or special capabilities tied to their nature, behavior, environment, emotional state, or combat role.
+NPCs, adversaries, and Narrator-controlled creatures do not follow the same progression rules as player characters. They do not choose Evolutionary Advantage or accumulate competency progress during play.
+
+Instead, they use **Traits**: advantages, disadvantages, resistances, special capabilities, or behaviors tied to their nature, environment, emotional state, or combat role.
+
+---
 
 ## Types of Rolls
 
-The formulas in this chapter include **characteristics** such as Agility, Strength, Tenacity, Composure, and Resilience. These values are defined and assigned during character creation, in the corresponding chapter. They appear here as components of roll formulas.
+The formulas in this chapter use characteristics such as Agility, Strength, Tenacity, Composure, and Resilience. These values are assigned during character creation. Here, they appear only as parts of each roll.
+
+---
 
 ### Attack Roll (A.R.)
 
-The Attack Roll represents the character's ability to land an effective strike using a weapon, maneuver, skill, or object. It is used to hit a target and overcome its defense, resistance, or another opposed roll, as appropriate.
+The Attack Roll measures whether an offensive action connects. It can come from a weapon, maneuver, skill, or object used under pressure. It is compared against defense, resistance, or another opposed roll when appropriate.
 
 **Formula:**
 
-`Attack Roll = 1d10 + Competency Level with weapon/object + Associated Characteristic`
+```text
+A.R. = 1d10 + competency level + competency rank + associated characteristic + additional bonuses
+```
 
-Competency reflects the character's technical mastery with the medium being used, while the associated characteristic represents the physical, mental, or martial aptitude used to execute the action.
+The competency level adds accumulated practice. The competency rank represents the degree of mastery reached. The associated characteristic adds the physical, mental, or sensory aptitude that supports execution.
+
+---
 
 ### Defense Roll (D.R.)
 
-The Defense Roll represents the character's ability to avoid an incoming attack. It combines reflexes, mobility, evasive training, the armor type protecting the threatened zone, and any additional protection provided by shields or other defensive effects.
+The Defense Roll measures whether a creature avoids an incoming attack. It combines reflexes, mobility, evasive training, armor in the threatened zone, and additional protection from shields or other defensive effects.
 
 **Formula:**
 
-`Defense Roll = 1d10 + Evasion Competency Level + Applicable Agility + Defense Bonuses`
+```text
+D.R. = 1d10 + applicable Evasion + applicable Agility + defensive bonuses
+```
 
-Applicable Agility depends on the armor type protecting the resolved hit zone:
+**Applicable Evasion** includes the Evasion level and Evasion rank that can be used according to the armor protecting the resolved hit zone.
 
-- light armor: use full Agility
-- medium armor: use half Agility, minimum 1
-- heavy armor: Agility does not apply
+```text
+Applicable Evasion = applicable Evasion level + applicable Evasion rank
+```
 
-A shield contributes a general bonus to D.R. as part of defensive equipment, but shield competency progresses through shield-specific Techniques rather than through the generic defense roll.
+Both Evasion and Agility depend on the armor type protecting the resolved hit zone:
 
-Its goal is to match or exceed the opponent's offensive roll to avoid damage or additional effects. If it fails, armor in the resolved zone may still absorb part of the impact. Full details for zones, pieces, and block belong in the Equipment chapter.
+| Armor in the zone | Applicable Evasion | Applicable Agility |
+| --- | --- | --- |
+| Unarmored | Full Evasion | Full Agility |
+| Light | Full Evasion | Full Agility |
+| Medium | Half Evasion, minimum 1 | Half Agility, minimum 1 |
+| Heavy | 0 | 0 |
+
+For medium armor, calculate half Evasion and half Agility separately. Each result is rounded up, unless a specific rule says otherwise.
+
+A shield contributes a general bonus to D.R. as part of defensive equipment. Its competency does not progress through this generic roll; it progresses through shield Techniques and maneuvers.
+
+D.R. must match or exceed the opponent's offensive roll to avoid damage or additional effects. If it fails, armor in the resolved zone may still absorb part of the impact. Full details for zones, pieces, and block are described in the Equipment chapter.
+
+---
 
 ### Impact Roll (I.R.)
 
-The Impact Roll determines the real damage dealt to the target once the attack has surpassed defense or the corresponding opposed roll.
+The Impact Roll is resolved after an attack beats defense or the corresponding opposed roll. It defines how much damage reaches the target.
 
-In this roll, competency rank defines how many damage dice the character can leverage, while the associated characteristic and weapon grade represent execution quality and equipment power.
-
-**Formula:**
-
-`Impact = (Competency Rank × Weapon Damage) + (Associated Characteristic × Weapon Grade)`
-
-#### Weapon damage
-
-A weapon's base damage is expressed by its corresponding die: `d4`, `d6`, `d8`, `d10`, or `d12`. That value is multiplied by the character's competency rank with the weapon used.
-
-#### Impact with untrained weapons
-
-When a character uses a weapon they have no competency with, they can still attack, but their ability to deal effective damage is significantly reduced.
+I.R. does not use a base `d10`. It uses the weapon's damage die, multiplied by the character's competency rank with that weapon. The associated characteristic and weapon grade add execution and equipment power.
 
 **Formula:**
 
-`Impact Roll = ((1 × Weapon Damage) + (Associated Characteristic × Grade)) / 2`
+```text
+I.R. = (competency rank × weapon damage) + (associated characteristic × weapon grade)
+```
 
-This represents inefficient execution and reduced ability to use the weapon effectively.
+#### Weapon Damage
+
+The weapon's base damage uses the die indicated by its category: `d4`, `d6`, `d8`, `d10`, or `d12`.
+
+If a character has rank 3 with a weapon that deals `d8` damage, they roll `3d8` as the base impact before adding the associated characteristic by weapon grade.
+
+#### Impact with Untrained Weapons
+
+A character can attack with a weapon they have no competency with. The strike can connect, but impact is reduced.
+
+**Formula:**
+
+```text
+Untrained I.R. = ((1 × weapon damage) + (associated characteristic × weapon grade)) / 2
+```
+
+This formula keeps the weapon usable, but limits how much an untrained character can draw from it.
+
+---
 
 ### Characteristic Roll (C.R.)
 
-The Characteristic Roll is used when an action depends primarily on a general aptitude of the character, such as Strength, Agility, Tenacity, Wisdom, or any other relevant characteristic.
+The Characteristic Roll is used when an action depends on a general aptitude: Strength, Agility, Tenacity, Wisdom, or any other relevant characteristic.
 
-It does not represent specific training, but general capability applied to a concrete situation.
+It does not use specific training. It takes the character's aptitude and applies it to a concrete situation.
 
 **Formula:**
 
-`Characteristic Roll = 1d10 + Characteristic + Reference Level + Additional Bonuses`
+```text
+C.R. = 1d10 + characteristic + Reference Level + additional bonuses
+```
 
-It is used to resolve actions that depend on innate or developed qualities of the character, especially when a specific competency is not involved.
+C.R. is used when no specific competency resolves the action better. It does not generate progress by itself.
+
+---
 
 ### Resistance Roll (R.R.)
 
-The Resistance Roll represents the character's ability to withstand or overcome harmful effects such as poisons, infections, afflictions, curses, or alterations.
+The Resistance Roll resolves whether a creature withstands, avoids, or reduces a harmful effect: poison, infection, affliction, curse, or alteration.
 
-The base characteristic depends on the type of effect being faced, while competency in the corresponding resistance reflects the character's accumulated experience against that threat.
+The base characteristic depends on the effect type. The corresponding resistance adds accumulated experience against that danger.
 
 **Formulas:**
 
-- Resistance to poisons or infections: `1d10 + Tenacity + Resistances + Additional Bonuses`
-- Resistance to afflictions or curses: `1d10 + Composure + Resistances + Additional Bonuses`
-- Resistance to alterations: `1d10 + Resilience + Resistances + Additional Bonuses`
+| Effect | Formula |
+| --- | --- |
+| Poisons or infections | `1d10 + Tenacity + corresponding resistance + additional bonuses` |
+| Afflictions or curses | `1d10 + Composure + corresponding resistance + additional bonuses` |
+| Alterations | `1d10 + Resilience + corresponding resistance + additional bonuses` |
 
 The goal is to match or exceed the effect's difficulty to avoid, mitigate, or reduce its consequences.
 
+---
+
 ### Specialization Roll (S.R.)
 
-The Specialization Roll reflects the character's mastery in a specific skill, such as climbing, swimming, disarming traps, or escaping restraints. Unlike a Characteristic Roll, this one does involve specific training.
+The Specialization Roll is used for trained skills: climbing, swimming, disarming traps, escaping restraints, or any practiced domain defined as a specialization.
 
 **Formula:**
 
-`Specialization Roll = 1d10 + Specialization Competency Level + Competency Rank + Associated Characteristic + Additional Bonuses`
+```text
+S.R. = 1d10 + specialization competency level + competency rank + associated characteristic + additional bonuses
+```
 
-Competency level represents accumulated experience, while rank summarizes the overall degree of mastery reached in that specialization.
+The level adds accumulated practice. The rank adds the degree of mastery reached in that specialization.
+
+---
 
 ### Personality Trait Roll (P.R.)
 
-During exploration or conflict, a player may propose that one of their Personality Traits decisively influences the situation. If the Narrator accepts the justification, the character can make a Personality Trait Roll instead of a Characteristic or Specialization Roll.
+During exploration or conflict, a player may propose that one of their Personality Traits influences the situation. If the Narrator accepts the justification, the character can make a Personality Trait Roll instead of a Characteristic Roll or Specialization Roll.
 
 **Formula:**
 
-`Personality Trait Roll = 2d10`
+```text
+P.R. = 2d10
+```
 
-This roll does not depend on competencies, but on the narrative and psychological strength of the invoked trait.
+This roll does not depend on competencies and does not generate progress. It depends on the invoked trait, its weight in the scene, and the Narrator's approval.
+
+---
 
 ## Difficulty Thresholds
 
-Every roll is compared against a number. That number either comes from another participant's roll, or from a fixed threshold established by the system or the Narrator.
+Every roll is compared against a number. That number may come from another participant's roll or from a fixed threshold established by the system or the Narrator.
 
-When the challenge comes from an active opponent, both parties roll and compare results directly. When it comes from the environment, from the intrinsic complexity of a task, or from another system, the Narrator sets a threshold using one of five difficulty tiers.
+When the challenge comes from an active opponent, both parties roll and compare results directly. When it comes from the environment, the complexity of a task, or another system, the Narrator sets a threshold using one of five difficulty tiers.
 
 ```text
-Threshold = Base + NR
+Threshold = base + RL
 ```
 
-**Base** is the fixed value of the chosen difficulty tier. **NR** is the Reference Level of the context: the NR of the creature or entity posing the challenge, or the equivalent the Narrator assigns to the environment or the task.
+**Base** is the fixed value of the chosen difficulty tier. **RL** is the Reference Level of the context: the RL of the creature or entity posing the challenge, or the equivalent the Narrator assigns to the environment, obstacle, or task.
 
 | Tier | Base | Formula |
 | --- | --- | --- |
-| **Fundamental** | 5 | 5 + NR |
-| **Challenging** | 8 | 8 + NR |
-| **Rigorous** | 11 | 11 + NR |
-| **Demanding** | 14 | 14 + NR |
-| **Extreme** | 17 | 17 + NR |
+| **Fundamental** | 5 | 5 + RL |
+| **Challenging** | 8 | 8 + RL |
+| **Rigorous** | 11 | 11 + RL |
+| **Demanding** | 14 | 14 + RL |
+| **Extreme** | 17 | 17 + RL |
 
-These five tiers apply to all systems in the game: S.R., C.R., R.R., crafting, ailments, and any other test that requires beating a fixed number. The Narrator announces the tier before requesting the roll. The player knows the threshold before deciding between Execution Advantage and Learning Advantage.
+These five tiers apply to all systems that require beating a fixed threshold: S.R., C.R., R.R., crafting, Grievances, and equivalent tests.
+
+The Narrator announces the difficulty tier before requesting the roll, unless revealing that information contradicts the nature of the scene. If the roll can generate progress through Learning Advantage, the player must know the threshold before choosing how to roll.
 
 ---
 
 ## Competencies
 
-Competencies represent the degree of mastery a character has in a specific field. Some are combat-oriented, others relate to survival, knowledge, or concrete skills.
+Competencies indicate what a character has practiced and how far that practice has gone. Some belong to combat. Others belong to survival, knowledge, crafts, movement, or concrete skills.
 
 Competencies fulfill two functions:
 
-- they modify rolls
-- they allow progression as the character puts them to the test in relevant situations
+- modify rolls
+- allow progression when the character puts them to the test in relevant situations
 
-Competencies do not replace characteristics: both operate together. Characteristics express the character's potential; competencies express how much they have trained, practiced, or refined that potential.
+Competencies do not replace characteristics. Characteristics provide the base. Competencies show how much the character has trained, practiced, or refined that base.
 
-### Competency levels and ranks
+---
+
+### Competency Levels and Ranks
 
 Each competency has a level and a rank.
 
-- Competency level represents accumulated numeric progress.
-- Competency rank represents the overall degree of mastery reached.
+- **Competency level** records accumulated numeric progress.
+- **Competency rank** summarizes the degree of mastery reached.
 
 | Rank | Name | Levels |
 | --- | --- | --- |
-| 0 | Untrained | — |
+| 0 | Untrained | 0 |
 | 1 | Novice | 1–2 |
 | 2 | Adept | 3–4 |
 | 3 | Expert | 5–6 |
@@ -209,107 +278,130 @@ Each competency has a level and a rank.
 | 5 | Consummate | 9–10 |
 | 6 | Transcendent | 11+ |
 
-A new rank is reached every 2 competency levels. Specializations grant Synapsis on entering each new rank — see the Specializations chapter.
+A new rank is reached every 2 competency levels. Specializations grant Synapsis when entering each new rank, as described in the Specializations chapter.
 
-### Starting competencies
+---
 
-The character's background determines which competencies start trained. Competencies granted by background begin at level 1, equivalent to Novice rank.
+### Starting Competencies
 
-All other competencies begin at level 0, so the character is considered Untrained in them.
+The character's background determines which competencies begin trained. Competencies granted by background start at level 1, equivalent to Novice rank.
 
-### Competency progression
+All other competencies begin at level 0. The character is considered Untrained in them.
 
-Competencies increase when the character uses them meaningfully and chooses a learning-oriented approach.
+---
 
-Each time a character uses Learning Advantage, the roll may generate progress in a different competency depending on the type of action and the result obtained.
+### Competency Progression
+
+Competencies increase when the character puts them at risk and chooses to learn from the action.
+
+Each time the character uses Learning Advantage, the roll may generate progress in a different competency depending on the action type and result.
 
 To gain one competency level, the following are required:
 
-- 5 progress points in major-affinity specializations.
-- 10 progress points in all other competencies.
+- 5 progress points in major-affinity specializations
+- 10 progress points in all other competencies
 
-### Appropriate tests for progression
+A specialization's affinity is defined in the Specializations chapter.
 
-Not every action can improve a competency. For progression to occur, the situation must represent an appropriate challenge.
+---
 
-#### Martial competencies
+### Appropriate Tests for Progression
 
-Martial competencies progress when the character faces appropriately difficult adversaries and truly puts their training into practice.
+Not every action teaches. For progress to occur, the situation must demand something real for the character's current rank.
 
-In the case of weapons, the character must attack and hit creatures whose level is at least equal to their reference level -1.
-In addition, for the competency to progress, that attack must deal effective damage.
+#### Martial Competencies
 
-#### Evasion, armor, shield, and resistance competencies
+Martial competencies progress when the character faces appropriately difficult adversaries and puts their training into practice.
 
-These competencies progress when the character becomes the target of relevant threats and responds to them in a way that produces real learning: avoiding, absorbing, surviving, or enduring the corresponding exposure.
+In the case of weapons, the character must attack, hit, and deal effective damage to a creature whose level is at least equal to the character's RL -1.
 
-#### Specialization competencies
+#### Evasion, Armor, Shield, and Resistance Competencies
+
+These competencies progress when the character is exposed to relevant threats and responds in a way that leaves learning behind: avoiding, absorbing, surviving, or enduring the corresponding exposure.
+
+#### Specialization Competencies
 
 Specializations only progress when test difficulty is coherent with the character's rank.
 
-- Novice: can progress with tests of any level.
-- Adept: progresses with Fundamental tests or higher.
-- Expert: progresses with Challenging tests or higher.
-- Master: progresses with Rigorous tests or higher.
-- Consummate: progresses with Demanding tests or higher.
-- Transcendent: progresses with Extreme tests.
+| Current rank | Can progress with tests of... |
+| --- | --- |
+| Novice | Any tier |
+| Adept | Fundamental or higher |
+| Expert | Challenging or higher |
+| Master | Rigorous or higher |
+| Consummate | Demanding or higher |
+| Transcendent | Extreme |
+
+---
 
 ## Competency Types and Their Effects
 
 ### Weapons
 
-They represent mastery of a specific weapon type.
+Weapon competency measures mastery of a specific weapon type.
 
 **Bonuses**
 
 - Each weapon competency level grants `+1` to A.R.
-- Each competency rank grants an additional `+1` to A.R. and one additional die to I.R.
+- Each competency rank grants an additional `+1` to A.R.
+- Each competency rank adds one damage die to I.R.
 
 **Progression**
 
 Weapon competency increases when the character uses Learning Advantage, hits with that weapon or object, and deals effective damage in a relevant encounter.
 
-### Armors
+---
 
-They reflect the character's ability to use armor efficiently. They are split by armor type: light, medium, and heavy.
+### Armor
+
+Armor competency covers efficient use of defensive pieces. It is split by type: light, medium, and heavy.
 
 **Bonuses**
 
-- Each competency level increases by 1 the block of the corresponding armor type when that piece resolves the impact in its zone.
+- Each competency level increases the block of armor of that type by `1` when that piece resolves the impact in its zone.
 
 **Progression**
 
-Armor competency increases on a failed D.R. with Learning Advantage, provided the impact resolves in a protected zone and the armor actually absorbs part of the damage. Progress applies to the armor type protecting that zone.
+Armor competency increases on a failed D.R. with Learning Advantage, provided the impact resolves in a protected zone and the armor actually absorbs part of the damage.
+
+Progress applies to the armor type protecting that zone.
+
+---
 
 ### Shields
 
-They represent technical mastery of shield use in combat.
+Shield competency measures technical mastery of shield use in combat.
 
 **Bonuses**
 
-- Each competency rank grants access to additional maneuvers depending on shield type.
+- Each competency rank grants access to additional Techniques according to shield type.
 - Reaching Master reduces the movement penalty of the equipped shield by `grade`, minimum `0`.
 
 **Progression**
 
-Shield competency increases when the character effectively uses shield Techniques. It does not progress through generic D.R.
+Shield competency increases when the character uses shield Techniques or maneuvers successfully. It does not progress through generic D.R.
+
+---
 
 ### Evasion
 
-Evasion represents the character's skill at anticipating and avoiding attacks.
+Evasion competency measures the character's skill at anticipating and avoiding attacks.
 
 **Bonuses**
 
-- Each competency level grants `+1` to D.R.
-- Each competency rank grants `+1` to D.R.
+- Each competency level grants `+1` to Evasion.
+- Each competency rank grants an additional `+1` to Evasion.
+- Evasion is added to D.R. according to the armor type protecting the resolved hit zone.
 
 **Progression**
 
-Evasion increases on a successful D.R. with Learning Advantage, when the character avoids relevant attacks or threats through mobility and reflexes.
+Evasion increases on a successful D.R. with Learning Advantage, provided the character avoids a relevant attack or threat through mobility, anticipation, or reflexes.
+
+---
 
 ### Specialization
 
-Specialization competency reflects technical mastery in a specific skill.
+Competency in a specialization measures technical mastery of a concrete skill.
 
 **Bonuses**
 
@@ -318,13 +410,15 @@ Specialization competency reflects technical mastery in a specific skill.
 
 **Progression**
 
-Specialization increases by overcoming tests appropriate to the character's current rank.
+Specialization increases by overcoming tests appropriate to the character's current rank and meeting the learning condition of Evolutionary Advantage.
+
+---
 
 ### Resistances
 
-Resistances represent the character's ability to withstand specific types of danger. Unlike other competencies, they often develop through exposure, survival, and adaptation.
+Resistances cover specific dangers. They are not trained only through controlled repetition. They often grow through exposure, survival, and adaptation.
 
-#### Elemental damage
+#### Elemental Damage
 
 **Bonus**
 
@@ -352,8 +446,8 @@ Resistances represent the character's ability to withstand specific types of dan
 
 **Bonus**
 
-- Each competency level grants `+1` to the corresponding roll against afflictions.
-- Each competency rank grants `+1` to Affliction R.R. during meditation.
+- Each competency level grants `+1` to R.R. against afflictions.
+- Each competency rank grants `+1` to Affliction R.R. made during meditation.
 
 #### Alteration
 
@@ -365,45 +459,63 @@ Resistances represent the character's ability to withstand specific types of dan
 
 **Bonus**
 
-- Each competency level grants `+1` to the corresponding roll to detect or resist curses.
+- Each competency level grants `+1` to rolls made to detect or resist curses.
 
-**General resistance progression**
+**General Resistance Progression**
 
-Resistances increase on a failed R.R. with Learning Advantage, provided the character actually suffers and survives the corresponding effect. Completely negating a danger does not create the same kind of learning as enduring it.
+Resistances increase on a failed R.R. with Learning Advantage, provided the character suffers and survives the corresponding effect.
+
+Completely negating a danger does not teach the same lesson as enduring it.
+
+---
 
 ## Reference Level
 
-The Reference Level (RL) is a derived value that summarizes a character's overall competency. It is not chosen or assigned directly — it emerges from the full set of competencies the character has developed.
+The **Reference Level** (**RL**) summarizes a character's overall competency. It is not chosen or assigned directly. It comes from the set of competencies the character has developed.
+
+---
 
 ### Character RL
 
-A character's RL is calculated as the ceiling of the average of all their base competencies:
+A character's RL is calculated as the average, rounded up, of all their base competencies.
 
-`RLc = ⌈average of all the character's initial competencies⌉`
+```text
+RLc = ⌈average of all the character's base competencies⌉
+```
 
-All competencies listed on the character sheet with an initial value other than "—" are included.
+All competencies listed on the character sheet with a numeric value are included. Competencies marked as `—` are not included in the calculation.
+
+---
 
 ### Group RL
 
-When the encounter involves multiple player characters, the group RL is:
+When the encounter involves multiple player characters, the group's RL is calculated as the average, rounded up, of the individual RL values of all active PCs in the encounter.
 
-`RLg = ⌈average of the RLc of all active PCs in the encounter⌉`
+```text
+RLg = ⌈average of the RLc of all active PCs in the encounter⌉
+```
 
-The Narrator uses the group RL to scale creatures, set base difficulty, and compare forces between sides without consulting each competency individually.
+The Narrator uses group RL to scale creatures, set base difficulties, and compare forces between sides without reviewing every individual competency.
 
-### Updating the RL
+---
 
-The RLc may be revised when:
+### Updating RL
+
+A character's RL may be revised when:
 
 - the character gains new competencies
-- several relevant ranks increase
-- at the start of an arc or episode
+- several relevant competencies increase in rank
+- a new arc or episode begins
 
 It does not need to be recalculated every session.
 
+---
+
 ### RL in the Characteristic Roll
 
-The RL enters directly into the Characteristic Roll. It represents the fact that as a character becomes more broadly competent, their capacity to respond in situations that depend on general aptitude — rather than specific training — also improves. A more capable character overall is also more capable in areas they have not trained in deeply.
+RL enters directly into the Characteristic Roll. As the character becomes more broadly competent, they respond better even when the action does not depend on specific training.
+
+RL does not replace a trained competency. It prevents the character's overall experience from disappearing in basic tests.
 
 ---
 
@@ -411,18 +523,24 @@ The RL enters directly into the Characteristic Roll. It represents the fact that
 
 | Roll | Competency used | Progression with Learning Advantage |
 | --- | --- | --- |
-| A.R. | weapon or object competency | if the attack succeeds and deals damage, the weapon or object used progresses |
-| D.R. | Evasion | if the roll succeeds, Evasion progresses; if it fails and armor absorbs impact, the armor type of the resolved zone progresses |
-| I.R. | weapon competency rank (primary factor) | does not progress by itself |
-| C.R. | none by default | does not progress by itself |
-| R.R. | resistance corresponding to the effect type | if it fails and the effect is suffered, the corresponding resistance progresses |
-| S.R. | specialization competency | if the roll succeeds, the specialization used progresses |
-| P.R. | none | does not progress by itself |
+| A.R. | Competency of the weapon or object used | If the attack succeeds and deals effective damage, the weapon or object used progresses. |
+| D.R. | Applicable Evasion according to armor | If the roll succeeds, Evasion progresses. If it fails and armor absorbs impact, the armor type of the resolved zone progresses. |
+| I.R. | Weapon competency rank | Does not progress by itself. |
+| C.R. | None by default | Does not progress by itself. |
+| R.R. | Resistance corresponding to the effect type | If it fails and the effect is suffered, the corresponding resistance progresses. |
+| S.R. | Competency of the specialization involved | If the roll succeeds and the difficulty is appropriate, the specialization used progresses. |
+| P.R. | None | Does not progress by itself. |
 
-Shield competency progresses separately, through successful shield Techniques.
+Shield competency progresses separately, through successful shield Techniques and maneuvers.
 
 ---
 
 ## Example
 
-A character tries to evade the strike of a heavy creature while using Learning Advantage. The D.R. is resolved with the lower die. If the character avoids the attack, the check may generate progress in Evasion. If the defense fails, but the armor in the resolved zone absorbs part of the impact, the same situation may generate progress in the corresponding armor type instead. The competency that progresses depends on the result of the roll, not only on the kind of action.
+A character tries to evade the strike of a heavy creature while using Learning Advantage. They roll two dice and resolve the D.R. with the lower die. The higher die is reserved as the learning die.
+
+If the character avoids the attack and the learning die exceeds the progress condition, the situation can generate progress in Evasion.
+
+If the D.R. fails, but the armor in the resolved zone absorbs part of the impact, the situation can generate progress in the corresponding armor type.
+
+The competency that progresses depends on the result of the scene, not only on the type of roll.

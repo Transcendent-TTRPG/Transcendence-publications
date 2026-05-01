@@ -20,70 +20,84 @@ section_modes:
 
 # Reglas Generales
 
-## Sistema de Dados
+## Sistema de dados
 
-Las tiradas del juego usan principalmente dados de diez caras. Algunas mecánicas — sobre todo las relacionadas con daño de armas — emplean dados de distinto tamaño: d4, d6, d8 y d12. Para determinadas tiradas del Narrador en segundo plano se usa ocasionalmente un d100 (dos d10 leídos juntos).
+Transcendence usa principalmente dados de diez caras. Algunas mecánicas, sobre todo las relacionadas con daño de armas, emplean otros tamaños: d4, d6, d8 y d12. Ciertas tiradas del Narrador pueden usar d100, resuelto con dos d10 leídos como decenas y unidades.
 
-Además de los dados, cada jugador necesita una hoja de personaje para registrar los valores de su personaje, y fichas o marcadores para representar posiciones en la línea de tiempo ATB.
+Cada jugador necesita una hoja de personaje para registrar valores, recursos y efectos activos. La mesa también puede usar fichas, marcadores o referencias visuales para representar posiciones en la línea de tiempo **ATB**.
 
 ---
 
-## Especificidad sobre generalidad
+## Regla específica sobre regla general
 
-Cuando una regla específica entra en conflicto con una regla general, la regla específica prevalece. Este principio aplica en todo el sistema: una mecánica particular siempre tiene más peso que la regla de fondo que podría contradecirla.
+Cuando una regla específica contradice una regla general, la regla específica prevalece. Una mecánica particular siempre tiene prioridad sobre la norma de fondo que normalmente resolvería esa situación.
 
-*Ejemplo:* si una habilidad define su duración como Nivel ÷ 2 redondeado hacia abajo, esa definición anula la regla general de redondeo hacia arriba.
+*Ejemplo:* si una habilidad define su duración como Nivel ÷ 2 redondeado hacia abajo, esa definición reemplaza la regla general de redondeo hacia arriba.
 
 ---
 
 ## El Narrador y las reglas
 
-El Narrador puede adaptar, modificar u omitir una mecánica cuando la situación lo justifique — siempre que la decisión se mantenga coherente con el mundo y reconocible para los jugadores en la mesa.
+El Narrador aplica las reglas para resolver acciones, consecuencias y estados de la escena. Cuando una situación no está cubierta de forma directa, el Narrador usa la mecánica más cercana y construye el resultado desde ahí.
 
-Cuando una regla específica existe, ofrece el marco más preciso para resolver una situación. Cuando no existe, el Narrador construye el resultado a partir del sistema que mejor se ajuste al momento.
+Una regla específica ofrece el marco más preciso para resolver su situación. Alterarla debe ser una excepción, no una costumbre, y la decisión debe mantenerse coherente con el mundo, la escena y la información disponible para los jugadores.
 
 ---
 
 ## Redondeo
 
-Cuando un cálculo produce fracciones o decimales, el resultado se redondea hacia arriba al entero más cercano, salvo que una regla específica indique lo contrario. Aplica a daño, duraciones, puntuaciones y cualquier otro valor numérico del sistema.
+Cuando un cálculo produce fracciones o decimales, el resultado se redondea hacia arriba al entero más cercano, salvo que una regla específica indique lo contrario. Esta regla aplica a daño, duraciones, puntuaciones y cualquier otro valor numérico del sistema.
 
 ---
 
 ## Condición más fuerte
 
-Cuando un personaje recibe múltiples efectos del mismo tipo — dos penalizaciones a velocidad, dos bonificadores al ataque — solo se aplica el más significativo. Si ya existe un efecto activo y llega uno nuevo del mismo tipo, se comparan magnitud y duración: prevalece el más fuerte y, si el nuevo lo supera, reemplaza al anterior reiniciando su duración desde ese momento.
+Cuando una criatura recibe múltiples efectos del mismo tipo, solo se aplica el más significativo. Esto incluye penalizaciones, bonificadores, reducciones de velocidad y otros modificadores que afecten el mismo valor o estado.
 
-*Ejemplo:* un personaje sufre una penalización que reduce su velocidad a la mitad durante 3 turnos. Luego recibe otra del mismo tipo durante 6 turnos. Se mantiene la condición más fuerte y la duración pasa a 6 turnos.
+Para comparar efectos del mismo tipo, primero se revisa la magnitud. Si ambos tienen la misma magnitud, prevalece el de mayor duración restante. Si el nuevo efecto supera al anterior, lo reemplaza y su duración comienza desde ese momento.
+
+*Ejemplo:* un personaje sufre una penalización que reduce su velocidad a la mitad durante 3 turnos. Luego recibe otra penalización del mismo tipo durante 6 turnos. Como la magnitud es la misma, se conserva la duración mayor: la penalización queda activa durante 6 turnos desde el nuevo efecto.
 
 ---
 
-## Ciclo de Aventura
+## Ciclo de aventura
 
-El juego se organiza en tres fases que indican qué tipo de presión está activa y qué reglas cobran relevancia. No son turnos ni escenas formales, y no imponen una secuencia rígida.
+El juego se organiza en tres fases: **Exploración**, **Conflicto** e **Interludio**. Cada fase indica qué tipo de presión domina la escena, cómo se trata el tiempo y qué reglas pasan al frente.
+
+Estas fases no son turnos ni estructuras obligatorias. La mesa las usa para reconocer qué está en juego y qué parte del sistema debe resolver la situación.
 
 ---
 
 ### Exploración
 
-Los personajes se mueven por el mundo, investigan, buscan recursos, interactúan con quienes lo habitan. No hay urgencia táctica inmediata, pero las decisiones tienen peso: un camino elegido, una pista ignorada, un recurso que no se recogió. Las reglas de descanso, especialización y preparación operan aquí con mayor libertad.
+La Exploración cubre el avance por el mundo, la investigación, la búsqueda de recursos y la interacción con lugares o habitantes. No hay una urgencia táctica inmediata, pero las decisiones dejan rastro: una ruta elegida, una pista ignorada, una puerta abierta, un recurso consumido.
+
+En esta fase, las reglas de descanso, especialización, preparación y gestión del entorno operan con mayor libertad.
 
 ---
 
 ### Conflicto
 
-Un encuentro de alto riesgo entra en juego — combate, una confrontación con consecuencias inmediatas, un obstáculo que exige resolución táctica. El sistema ATB toma el control del tiempo. Las reglas de Desgaste, acciones y reacciones definen lo que es posible.
+El Conflicto comienza cuando una escena exige resolución táctica inmediata. Puede tratarse de combate, una confrontación peligrosa, una persecución, una defensa desesperada o un obstáculo que no puede resolverse sin medir tiempo, posición y consecuencia.
 
-Todo participante es una **criatura**: término que agrupa a personajes jugadores (PJ), personajes del Narrador (PNJ) y enemigos. El flujo completo del conflicto se describe en el capítulo de Combate.
+Durante el Conflicto, el sistema **ATB** toma el control del tiempo. Las reglas de **Desgaste**, acciones y reacciones determinan qué puede hacer cada criatura y cuánto le cuesta intervenir.
+
+Todo participante en un Conflicto es una **criatura**. Este término incluye personajes jugadores, personajes del Narrador, adversarios y cualquier entidad que actúe dentro de la escena. El flujo completo del Conflicto se describe en el capítulo de Combate.
 
 ---
 
 ### Interludio
 
-Un período extendido fuera de la escena detallada. Los personajes fabrican, reparan, se recuperan, gestionan recursos, desarrollan relaciones o preparan lo que viene. El tiempo fluye de forma más libre y las consecuencias suelen ser a largo plazo.
+El Interludio cubre períodos extendidos fuera de la escena detallada. Los personajes fabrican, reparan, descansan, tratan heridas, gestionan recursos, desarrollan relaciones o preparan el siguiente avance.
+
+El tiempo fluye con menos presión inmediata, pero las consecuencias suelen durar más. Lo que se decide durante un Interludio puede definir con qué recursos, heridas, vínculos o riesgos empieza la siguiente escena.
 
 ---
 
 ## Ejemplo
 
-Un grupo atraviesa unas ruinas en busca de una reliquia: explora pasillos, revisa rastros y decide qué ruta seguir. Cuando una criatura emerge del fondo del santuario y obliga a reaccionar bajo presión inmediata, la escena pasa a Conflicto. Después, cuando sobreviven al encuentro, remiendan equipo, atienden heridas y organizan el siguiente avance, entran en Interludio.
+Un grupo atraviesa unas ruinas en busca de una reliquia. Mientras explora pasillos, revisa rastros y decide qué ruta seguir, la escena está en Exploración.
+
+Cuando una criatura emerge del fondo del santuario y obliga a reaccionar bajo presión inmediata, la escena pasa a Conflicto. El tiempo deja de avanzar de forma libre y el sistema ATB determina el orden de intervención.
+
+Después del encuentro, los personajes remiendan equipo, atienden heridas y organizan el siguiente avance. La escena entra en Interludio.

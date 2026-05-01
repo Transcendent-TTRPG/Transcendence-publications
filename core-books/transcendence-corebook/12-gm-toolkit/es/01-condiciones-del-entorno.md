@@ -4,12 +4,12 @@ type: corebook
 content_kind: rules
 writing_mode: rules
 language: es
-chapter: 3
+chapter: 12
 status: review
 canonical: false
 tags: [environmental-conditions, difficulty, narrator, rules, natural, extranatural, limbo, tauma]
 related:
-  - core-books/transcendence-corebook/03-core-rules/en/03-environmental-conditions.md
+  - core-books/transcendence-corebook/12-gm-toolkit/en/01-environmental-conditions.md
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/03-core-rules/es/01-general-rules.md
 authority_refs:
