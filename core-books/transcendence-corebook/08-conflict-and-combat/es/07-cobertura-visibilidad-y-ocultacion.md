@@ -20,49 +20,96 @@ authority_refs:
   - Transcendence-design/data/system/cover-visibility-concealment.yaml
   - Transcendence-design/docs/system/environmental-conditions.md
   - Transcendence-design/docs/system/roll-types.md
+section_modes:
+  - heading: "Ejemplo"
+    writing_mode: example
 ---
 
 # Cobertura, Visibilidad y Ocultación
 
-Cobertura, visibilidad y ocultación resuelven tres problemas distintos de la escena.
+Cobertura, Visibilidad y Ocultación resuelven tres capas distintas de una escena.
 
-La Cobertura es protección física. Algo bloquea, desvía, absorbe o interrumpe una línea de ataque. La Visibilidad define qué tan lejos y con qué claridad se pueden distinguir detalles. La Ocultación define si una criatura está localizada con precisión por un enemigo.
+| Capa | Qué resuelve |
+| --- | --- |
+| **Cobertura** | Si algo físico bloquea, desvía o absorbe una línea de ataque |
+| **Visibilidad** | Qué tan lejos y con qué claridad se pueden distinguir detalles |
+| **Ocultación** | Si una criatura está localizada con precisión por un enemigo |
 
-Una criatura puede tener Cobertura sin estar oculta. Puede estar dentro de niebla densa sin que nada detenga un golpe. Puede estar oculta detrás de una barrera aunque el entorno tenga buena luz. La mesa debe resolver cada capa por separado.
+Estas capas se resuelven por separado.
+
+Una criatura puede tener Cobertura sin estar oculta. Puede estar dentro de niebla densa sin que nada detenga un golpe. Puede estar oculta detrás de una barrera aunque el entorno tenga buena luz.
 
 ---
 
 ## Cobertura
 
-La Cobertura es protección física o estructural que interfiere con una línea de ataque.
+La **Cobertura** es protección física o estructural que interfiere con una línea de ataque.
 
-Niebla, humo y oscuridad no son Cobertura por sí mismos. Reducen Visibilidad y pueden ayudar a ocultarse, pero no detienen un golpe.
+Niebla, humo, oscuridad, polvo o lluvia no son Cobertura por sí mismos. Reducen Visibilidad y pueden ayudar a ocultarse, pero no detienen un golpe.
 
 | Cobertura | Criterio | Efecto |
 | --- | --- | --- |
-| Cobertura Ligera | Protege una parte menor del cuerpo o interfiere parcialmente la línea. | -1 a la Tirada de Ataque del atacante. |
-| Cobertura Media | Protege una parte importante del cuerpo, con aperturas claras. | -3 a la Tirada de Ataque del atacante. |
-| Cobertura Total | No hay línea directa de ataque hacia el objetivo. | No puede ser objetivo de ataques directos. |
+| Cobertura Ligera | Protege una parte menor del cuerpo o interfiere parcialmente la línea de ataque | `-1` a la Tirada de Ataque del atacante |
+| Cobertura Media | Protege una parte importante del cuerpo, pero deja aperturas claras | `-3` a la Tirada de Ataque del atacante |
+| Cobertura Total | No hay línea directa de ataque hacia el objetivo | El objetivo no puede ser elegido por ataques directos |
+
+---
 
 ### Cobertura Ligera
 
 El objetivo no está completamente expuesto, pero todavía puede atacarse con una línea razonable.
 
-Ejemplos: mueble bajo, baranda, roca pequeña, tronco delgado, borde de una puerta o cobertura que protege aproximadamente un cuarto del cuerpo.
+Ejemplos:
+
+- mueble bajo
+- baranda
+- roca pequeña
+- tronco delgado
+- borde de una puerta
+- cobertura que protege aproximadamente un cuarto del cuerpo
+
+---
 
 ### Cobertura Media
 
 El objetivo está protegido por un obstáculo significativo, pero conserva alguna exposición.
 
-Ejemplos: árbol grueso, roca grande, barricada, ventana, abertura, esquina de muro o cobertura que protege la mitad del cuerpo o más sin cubrirlo todo.
+Ejemplos:
+
+- árbol grueso
+- roca grande
+- barricada
+- ventana
+- abertura
+- esquina de muro
+- cobertura que protege la mitad del cuerpo o más sin cubrirlo por completo
+
+---
 
 ### Cobertura Total
 
-El obstáculo bloquea completamente la línea directa.
+El obstáculo bloquea completamente la línea directa hacia el objetivo.
 
-Ejemplos: pared sólida, puerta cerrada, trinchera sin exposición, estructura cerrada o masa que cubre por completo al objetivo.
+Ejemplos:
 
-Un objetivo con Cobertura Total puede ser afectado por ataques de área, Técnicas que alteren la ruta de ataque, destrucción del obstáculo, rodeo, elevación, rebote, explosión u otra ficción que permita evitar la línea directa.
+- pared sólida
+- puerta cerrada
+- trinchera sin exposición
+- estructura cerrada
+- masa que cubre por completo al objetivo
+
+Un objetivo con Cobertura Total no puede ser elegido por ataques directos.
+
+Aun así, puede ser afectado por:
+
+- ataques de área
+- Técnicas que alteren la ruta de ataque
+- destrucción del obstáculo
+- rodeo
+- elevación
+- rebote
+- explosión
+- cualquier ficción que evite la línea directa
 
 ---
 
@@ -76,43 +123,74 @@ Para romper Cobertura, usa la regla normal de ruptura.
 Potencia Crítica >= Durabilidad del objeto
 ```
 
-Si la Potencia Crítica es igual o superior a la Durabilidad, la Cobertura se rompe o deja de proteger según su naturaleza.
+| Resultado | Efecto |
+| --- | --- |
+| Potencia Crítica >= Durabilidad | La Cobertura se rompe, se abre o deja de proteger según su naturaleza |
+| Potencia Crítica < Durabilidad | La Cobertura no se rompe y pierde `1` punto de Durabilidad |
 
-Si la Potencia Crítica es menor, la Cobertura no se rompe, pero pierde 1 punto de Durabilidad. Los ataques normales no reducen Durabilidad por defecto; debe existir un Intento de ruptura válido, Impacto Crítico, Técnica o regla específica.
+La pérdida de Durabilidad solo ocurre durante un intento válido de ruptura.
+
+Un intento válido puede surgir por:
+
+- Impacto Crítico
+- Técnica que permita ruptura
+- regla específica del arma, objeto o escena
+
+Los ataques normales no reducen Durabilidad por defecto.
 
 ---
 
-## Cobertura y Tipos de Ataque
+## Cobertura y tipos de ataque
 
 La Cobertura aplica contra ataques cuerpo a cuerpo, ataques a distancia y proyectiles siempre que el objeto interrumpa materialmente la línea del ataque.
 
-Si el atacante está en un ángulo donde la Cobertura ya no bloquea la línea, no aplica. La Cobertura es geométrica y material, no un estado fijo unido al personaje.
+Si el atacante se mueve a un ángulo donde la Cobertura ya no bloquea la línea, la Cobertura deja de aplicar.
 
-### Escudos como Cobertura
+La Cobertura es geométrica y material. No es un estado fijo unido al personaje.
+
+---
+
+## Escudos como Cobertura
 
 Los escudos son la fuente principal de Cobertura portátil.
 
-Un escudo da Cobertura principalmente a la celda o espacio de su portador. Cubrir a otra criatura normalmente requiere una Técnica, una Reacción de escudo o una regla que permita extender esa Cobertura fuera del espacio propio.
+Un escudo da Cobertura principalmente al espacio de su portador.
 
-La Cobertura otorgada por escudo depende del tamaño del escudo, tamaño del portador, tamaño de la criatura cubierta, ángulo del ataque y capacidad del portador para cargar y controlar el escudo.
+Cubrir a otra criatura normalmente requiere:
 
-### Cobertura y áreas
+- una Técnica
+- una Reacción de escudo
+- una regla que permita extender esa Cobertura fuera del espacio propio
+
+La Cobertura otorgada por un escudo depende de:
+
+- tamaño del escudo
+- tamaño del portador
+- tamaño de la criatura cubierta
+- ángulo del ataque
+- capacidad del portador para cargar y controlar el escudo
+
+---
+
+## Cobertura y áreas
 
 Contra ataques de área, la Cobertura solo ayuda si el objeto puede interponerse entre la criatura y el origen, dirección o expansión del efecto.
 
 | Situación | Efecto |
 | --- | --- |
-| La Cobertura bloquea claramente el área. | Aplica Cobertura normal. |
-| La Cobertura protege parcialmente contra el área. | Aplica la mitad del penalizador de Cobertura, redondeando hacia abajo. |
-| El área rodea, llena o ignora la Cobertura. | La Cobertura no aplica. |
+| La Cobertura bloquea claramente el área | Aplica Cobertura normal |
+| La Cobertura protege parcialmente contra el área | Aplica la mitad del penalizador de Cobertura, redondeando hacia abajo |
+| El área rodea, llena o ignora la Cobertura | La Cobertura no aplica |
 
-Una barricada puede ayudar contra una explosión frontal. No ayuda contra gas que llena toda la zona o fuego que cae desde arriba.
+Una barricada puede ayudar contra una explosión frontal.
+
+No ayuda contra gas que llena toda la zona o fuego que cae desde arriba.
 
 ---
 
 ## Visibilidad
 
-La Visibilidad define qué tan lejos y con qué claridad una criatura puede distinguir detalles visuales.
+La **Visibilidad** define qué tan lejos y con qué claridad una criatura puede distinguir detalles visuales.
 
 Para medición en tablero:
 
@@ -122,11 +200,21 @@ Para medición en tablero:
 
 El juego puede usarse con grid o medición flexible. El grid es recomendable cuando hay combate, áreas, Cobertura, posición aproximada o movimiento táctico relevante.
 
-### Rango visual estándar
+---
 
-En condiciones claras, una criatura puede reconocer detalles relevantes hasta 60 metros.
+## Rango visual estándar
 
-Más allá de ese rango, una acción que dependa de distinguir detalles visuales requiere una Tirada de Especialización de Percepción. El Narrador aumenta la dificultad según distancia, tamaño, movimiento, contraste y condiciones ambientales.
+En condiciones claras, una criatura puede reconocer detalles relevantes hasta `60 metros`.
+
+Más allá de ese rango, una acción que dependa de distinguir detalles visuales requiere una Tirada de Especialización de Percepción.
+
+El Narrador aumenta la dificultad según:
+
+- distancia
+- tamaño
+- movimiento
+- contraste
+- condiciones ambientales
 
 Regla simple:
 
@@ -138,7 +226,7 @@ No uses incrementos de 2 metros. Producen demasiado conteo en mesa y no aportan 
 
 ---
 
-## Rangos de Visibilidad Reducida
+## Rangos de Visibilidad reducida
 
 | Condición | Intensidad | Rango visual efectivo |
 | --- | --- | ---: |
@@ -160,11 +248,13 @@ No uses incrementos de 2 metros. Producen demasiado conteo en mesa y no aportan 
 | Oscuridad absoluta | Sin fuente de luz | 0 m |
 | Oscuridad extranatural | Activa | 0 m, salvo contramedida válida |
 
-Estos valores son guías de referencia. Si la condición ya está representada como entorno Moderado, Severo, Desastroso o Extremo, usa la severidad del entorno como autoridad principal.
+Estos valores son guías de referencia.
+
+Si la condición ya está representada como entorno Moderado, Severo, Desastroso o Extremo, usa la severidad del entorno como autoridad principal.
 
 ---
 
-## Fuentes de Luz
+## Fuentes de luz
 
 Las fuentes de luz establecen un rango visual efectivo cuando el entorno no tiene iluminación suficiente.
 
@@ -174,58 +264,91 @@ Las fuentes de luz establecen un rango visual efectivo cuando el entorno no tien
 | Antorcha | 4 m | 2 m |
 | Lámpara de aceite | 6 m | 3 m |
 
-Una fuente de luz no elimina humo, niebla, polvo ni Oscuridad extranatural por sí sola. Solo permite ver dentro del rango que todavía pueda atravesar.
+Una fuente de luz no elimina humo, niebla, polvo ni Oscuridad extranatural por sí sola.
 
-### Oscuridad absoluta y Oscuridad extranatural
-
-La Oscuridad absoluta ocurre cuando no hay luz natural, artificial ni reflejada suficiente para ver. En esas condiciones, el rango visual es 0 m.
-
-La Oscuridad extranatural también reduce el rango visual a 0 m, pero no se resuelve con una fuente de luz ordinaria. La Oscuridad extranatural asociada al elemento Oscuridad bloquea luz natural y fuentes comunes de iluminación.
-
-Para contrarrestarla se necesita una fuente compatible: luz extranatural asociada al elemento Luz, artefacto, Técnica, condición ambiental opuesta o regla específica.
+Solo permite ver dentro del rango que todavía pueda atravesar.
 
 ---
 
-## Percepción y Sentidos
+## Oscuridad absoluta y Oscuridad extranatural
 
-Percepción no significa solo visión. Representa la capacidad de localizar, distinguir o interpretar señales sensoriales.
+La **Oscuridad absoluta** ocurre cuando no hay luz natural, artificial ni reflejada suficiente para ver. En esas condiciones, el rango visual es `0 m`.
 
-Un personaje puede usar Percepción para ver, escuchar, oler, sentir vibración, reconocer contacto, leer señales químicas, usar ecolocalización u otro sentido especial si lo posee.
+La **Oscuridad extranatural** también reduce el rango visual a `0 m`, pero no se resuelve con una fuente de luz ordinaria.
 
-Los sentidos especiales usan la misma estructura de Percepción salvo que una regla diga otra cosa. Una criatura con un sentido especial puede tener bonificadores adicionales y no queda bloqueada por efectos que no interfieran con ese sentido.
+La Oscuridad extranatural asociada al elemento Oscuridad bloquea luz natural y fuentes comunes de iluminación.
+
+Para contrarrestarla se necesita una fuente compatible:
+
+- luz extranatural asociada al elemento Luz
+- artefacto
+- Técnica
+- condición ambiental opuesta
+- regla específica
+
+---
+
+## Percepción y sentidos
+
+Percepción no significa solo visión.
+
+Representa la capacidad de localizar, distinguir o interpretar señales sensoriales.
+
+Un personaje puede usar Percepción para:
+
+- ver
+- escuchar
+- oler
+- sentir vibración
+- reconocer contacto
+- leer señales químicas
+- usar ecolocalización
+- interpretar otro sentido especial que posea
+
+Los sentidos especiales usan la misma estructura de Percepción salvo que una regla indique otra cosa.
+
+Una criatura con un sentido especial puede tener bonificadores adicionales y no queda bloqueada por efectos que no interfieran con ese sentido.
 
 Ejemplo: una criatura que rastrea por olor puede ignorar Oscuridad visual para localizar un objetivo, pero puede sufrir penalizadores por viento, agua, humo químico o una Técnica que altere olores.
 
 ---
 
-## Combate sin Visión
+## Combate sin visión
 
 Una criatura que no puede ver a su objetivo no pierde automáticamente todas sus competencias.
 
 En su lugar:
 
-- no puede elegir con precisión objetivos que no haya localizado;
-- no puede usar Técnicas que requieran lectura visual clara;
-- puede atacar una posición aproximada con penalización o dificultad aumentada;
-- puede defenderse peor contra amenazas que no puede leer;
-- puede usar otros sentidos si son relevantes.
+- no puede elegir con precisión objetivos que no haya localizado
+- no puede usar Técnicas que requieran lectura visual clara
+- puede atacar una posición aproximada con penalización o dificultad aumentada
+- puede defenderse peor contra amenazas que no puede leer
+- puede usar otros sentidos si son relevantes
 
 | Situación | Efecto |
 | --- | --- |
-| Objetivo localizado por cualquier sentido relevante. | Puede ser objetivo; aplica penalización o Nivel de Referencia solo si la señal es débil, indirecta o difícil de interpretar. |
-| Objetivo no localizado. | No puede ser objetivo de ataque directo. |
+| Objetivo localizado por cualquier sentido relevante | Puede ser objetivo; aplica penalización o aumento de Nivel de Referencia solo si la señal es débil, indirecta o difícil de interpretar |
+| Objetivo no localizado | No puede ser objetivo de ataque directo |
 
-La Tirada de Impacto no pierde todos sus bonos por falta de visión. Si el ataque conecta, el Impacto se resuelve normalmente salvo que una regla específica diga lo contrario.
+La Tirada de Impacto no pierde todos sus bonos por falta de visión.
+
+Si el ataque conecta, el Impacto se resuelve normalmente salvo que una regla específica indique lo contrario.
 
 ---
 
 ## Ocultación
 
-La Ocultación es un estado táctico: una criatura no está localizada con precisión por uno o más enemigos.
+La **Ocultación** es un estado táctico: una criatura no está localizada con precisión por uno o más enemigos.
 
-No es invisibilidad, no es inmunidad y no borra evidencia física. Significa que el enemigo no sabe exactamente dónde está la criatura o no puede fijarla como objetivo directo.
+No es invisibilidad. No es inmunidad. No borra evidencia física.
 
-### Ocultarse
+Significa que el enemigo no sabe exactamente dónde está la criatura o no puede fijarla como objetivo directo.
+
+La Ocultación se registra por enemigo o por grupo de enemigos. Una criatura puede estar oculta para un guardia, pero no para otro que la vio entrar.
+
+---
+
+## Ocultarse
 
 Ocultarse es una acción base cuando se realiza bajo presión.
 
@@ -233,30 +356,45 @@ Ocultarse es una acción base cuando se realiza bajo presión.
 | --- | ---: | ---: | --- |
 | Ocultarse | 5 | 1 | Tirada de Especialización apropiada contra dificultad del entorno o Percepción enemiga |
 
-Fuera de una escena hostil, Ocultarse no necesita Costo de ritmo. El Narrador solo pide la tirada si hay riesgo, oposición o consecuencia.
+Fuera de una escena hostil, Ocultarse no necesita costo de ritmo.
+
+El Narrador solo pide la tirada si hay riesgo, oposición o consecuencia.
 
 Una criatura puede intentar ocultarse si cumple al menos una de estas condiciones:
 
-- tiene Cobertura Media o Cobertura Total;
-- está fuera del rango visual efectivo de los enemigos relevantes;
-- está dentro de una condición de Visibilidad reducida que pueda ocultar su posición;
-- cuenta con una Técnica, rasgo, artefacto o preparación que permita Ocultación.
+- tiene Cobertura Media o Cobertura Total
+- está fuera del rango visual efectivo de los enemigos relevantes
+- está dentro de una condición de Visibilidad reducida que pueda ocultar su posición
+- cuenta con una Técnica, rasgo, artefacto o preparación que permita Ocultación
 
-Además, ningún enemigo relevante debe tenerla localizada claramente por un sentido aplicable. No basta con querer desaparecer mientras alguien la ve, oye, huele o percibe con claridad.
+Además, ningún enemigo relevante debe tenerla localizada claramente por un sentido aplicable.
 
-Si un enemigo la tiene localizada sin obstrucción, la criatura debe crear primero una oportunidad real: romper línea de visión, entrar en Cobertura, entrar en humo, niebla, Oscuridad, vegetación, multitud o ruido suficiente, usar una distracción, moverse fuera del rango efectivo del sentido que la localiza, o usar una Técnica, rasgo, artefacto o preparación que permita ocultarse aun bajo observación.
+No basta con querer desaparecer mientras alguien la ve, oye, huele o percibe con claridad.
 
-### Tirada para ocultarse
+Si un enemigo la tiene localizada sin obstrucción, la criatura debe crear primero una oportunidad real.
+
+Puede hacerlo al:
+
+- romper línea de visión
+- entrar en Cobertura
+- entrar en humo, niebla, Oscuridad, vegetación, multitud o ruido suficiente
+- usar una distracción
+- moverse fuera del rango efectivo del sentido que la localiza
+- usar una Técnica, rasgo, artefacto o preparación que permita ocultarse aun bajo observación
+
+---
+
+## Tirada para ocultarse
 
 La criatura realiza una Tirada de Especialización apropiada contra la dificultad del entorno o contra la Percepción de los enemigos, según la escena.
 
 Especializaciones típicas:
 
-- Sigilo para ocultarse por silencio, control corporal y posición;
-- Supervivencia para ocultarse en terreno natural, vegetación, clima o rastros;
-- otra especialización si un rasgo, Técnica o artefacto lo justifica.
+- **Sigilo**, para ocultarse por silencio, control corporal y posición
+- **Supervivencia**, para ocultarse en terreno natural, vegetación, clima o rastros
+- otra especialización, si un rasgo, Técnica o artefacto lo justifica
 
-La Ocultación se registra por enemigo o por grupo de enemigos. Un personaje puede estar oculto para un guardia, pero no para otro que lo vio entrar.
+Los empates favorecen a la criatura oculta.
 
 ---
 
@@ -264,85 +402,116 @@ La Ocultación se registra por enemigo o por grupo de enemigos. Un personaje pue
 
 Mientras una criatura esté oculta para un enemigo:
 
-- ese enemigo no puede elegirla como objetivo de ataques directos de “una criatura”;
-- puede atacar un área o posición sospechada si tiene una razón para hacerlo;
-- puede buscarla con Percepción, Técnica o acción específica de escena;
-- puede reaccionar a señales obvias, ruido, contacto o cambios del entorno.
+- ese enemigo no puede elegirla como objetivo de ataques directos de “una criatura”
+- ese enemigo puede atacar un área o posición sospechada si tiene una razón para hacerlo
+- ese enemigo puede buscarla con Percepción, Técnica o acción específica de escena
+- ese enemigo puede reaccionar a señales obvias, ruido, contacto o cambios del entorno
 
 La Ocultación no protege contra efectos de área que cubran la posición real.
 
-### Atacar desde Ocultación
+---
+
+## Atacar desde Ocultación
 
 Atacar desde Ocultación puede dar una ventaja de apertura si el objetivo no reacciona a tiempo.
 
-Antes de resolver el ataque, las criaturas relevantes dentro de 10 metros pueden intentar detectar la acción si tienen un sentido aplicable. Usa Tirada de Especialización de Percepción contra la Ocultación activa o la dificultad del entorno.
+Antes de resolver el ataque, las criaturas relevantes dentro de `10 metros` pueden intentar detectar la acción si tienen un sentido aplicable.
 
-Una criatura fuera de 10 metros solo puede intentar esta detección si tiene un sentido especial, Técnica, preparación o posición que justifique reaccionar a esa señal.
+Usa una Tirada de Especialización de Percepción contra la Ocultación activa o la dificultad del entorno.
+
+Una criatura fuera de `10 metros` solo puede intentar esta detección si tiene un sentido especial, Técnica, preparación o posición que justifique reaccionar a esa señal.
 
 | Resultado de Percepción | Efecto |
 | --- | --- |
-| Falla | El ataque conserva ventaja de apertura. |
-| Tiene éxito | Detecta la acción a tiempo; el atacante no obtiene ventaja de apertura contra esa criatura. |
+| Falla | El ataque conserva ventaja de apertura |
+| Tiene éxito | Detecta la acción a tiempo; el atacante no obtiene ventaja de apertura contra esa criatura |
 
-Si el ataque conserva ventaja de apertura, obtiene +3 a la Tirada de Ataque contra objetivos que no detectaron la acción a tiempo.
+Si el ataque conserva ventaja de apertura, obtiene `+3` a la Tirada de Ataque contra objetivos que no detectaron la acción a tiempo.
 
-Atacar desde Ocultación siempre compromete la Ocultación, incluso si el ataque falla. Después del ataque, resuelve posición aproximada o detección según la escena.
+Atacar desde Ocultación siempre compromete la Ocultación, incluso si el ataque falla.
+
+Después del ataque, resuelve posición aproximada o detección según la escena.
 
 ---
 
-## Mantener y Perder Ocultación
+## Mantener y perder Ocultación
 
 La Ocultación se mantiene mientras la criatura no dé una señal suficiente para localizarla.
 
 Acciones que comprometen la Ocultación:
 
-- atacar cuerpo a cuerpo;
-- atacar a distancia;
-- moverse entre coberturas;
-- correr;
-- hablar fuerte;
-- manipular un objeto visible o ruidoso;
-- interactuar con una fuente de luz;
-- cambiar de posición en un entorno silencioso.
+- atacar cuerpo a cuerpo
+- atacar a distancia
+- moverse entre coberturas
+- correr
+- hablar fuerte
+- manipular un objeto visible o ruidoso
+- interactuar con una fuente de luz
+- cambiar de posición en un entorno silencioso
 
-Comprometer la Ocultación no significa revelar automáticamente la posición exacta. Significa que hay una señal suficiente para que enemigos cercanos intenten localizarla.
+Comprometer la Ocultación no significa revelar automáticamente la posición exacta.
 
-Cuando una criatura compromete su Ocultación, las criaturas relevantes dentro de 10 metros pueden intentar una Tirada de Especialización de Percepción si tienen un sentido aplicable. Criaturas fuera de 10 metros necesitan un sentido especial, Técnica, preparación o circunstancia que justifique la detección.
+Significa que hay una señal suficiente para que enemigos cercanos intenten localizarla.
 
-Decir “creo que está allí” o señalar una posición sospechada no revela por sí mismo a una criatura oculta. Comunicar una sospecha permite coordinar ataques al área o dirigir búsqueda, pero no elimina penalizadores ni convierte la posición en exacta.
+Cuando una criatura compromete su Ocultación, las criaturas relevantes dentro de `10 metros` pueden intentar una Tirada de Especialización de Percepción si tienen un sentido aplicable.
+
+Criaturas fuera de `10 metros` necesitan un sentido especial, Técnica, preparación o circunstancia que justifique la detección.
+
+Decir “creo que está allí” o señalar una posición sospechada no revela por sí mismo a una criatura oculta.
+
+Comunicar una sospecha permite coordinar ataques al área o dirigir búsqueda, pero no elimina penalizadores ni convierte la posición en exacta.
 
 ---
 
-## Posición Aproximada Incierta
+## Posición aproximada incierta
 
 Una acción puede revelar posición aproximada sin revelar posición exacta.
 
-Ejemplos: una flecha sale desde una zona de arbustos, una piedra cae desde una cornisa, una voz se oye desde el oeste o una sombra cruza detrás de humo.
+Ejemplos:
 
-La posición aproximada incierta existe para que el detector reciba una pista jugable sin saber si acertó. El jugador debe saber que su personaje percibió algo, pero no si esa percepción fue correcta.
+- una flecha sale desde una zona de arbustos
+- una piedra cae desde una cornisa
+- una voz se oye desde el oeste
+- una sombra cruza detrás de humo
 
-### Jugador oculto, criatura detecta
+La posición aproximada incierta existe para que el detector reciba una pista jugable sin saber si acertó.
+
+El jugador debe saber qué percibió su personaje, pero no si esa percepción fue correcta.
+
+---
+
+## Jugador oculto, criatura detecta
 
 Si el jugador es quien está oculto:
 
 1. El jugador tira la misma especialización que usó para ocultarse, o la especialización apropiada si la ficción cambió.
 2. El Narrador tira Percepción por la criatura que intenta detectarlo.
 3. Si Percepción supera la Ocultación, la criatura localiza la posición real del personaje.
-4. Si Percepción no supera la Ocultación, el Narrador tira 1d8 y la criatura actúa hacia la posición falsa indicada por esa dirección, si su comportamiento lo justifica.
+4. Si Percepción no supera la Ocultación, el Narrador tira `1d8` y la criatura actúa hacia la posición falsa indicada por esa dirección, si su comportamiento lo justifica.
 
-### Criatura oculta, jugador detecta
+El Narrador no tiene que revelar al jugador si la criatura acertó o no. Solo describe lo que la criatura hace.
+
+---
+
+## Criatura oculta, jugador detecta
 
 Si una criatura es quien está oculta:
 
 1. El jugador tira Percepción.
 2. El Narrador tira en secreto la Ocultación de la criatura.
-3. El Narrador también tira 1d8 en secreto al mismo tiempo, declarando solo que está resolviendo Ocultación.
+3. El Narrador también tira `1d8` en secreto al mismo tiempo, declarando solo que está resolviendo Ocultación.
 4. Si la Percepción del jugador supera la Ocultación, el Narrador señala la posición real.
-5. Si la Percepción del jugador no supera la Ocultación, el Narrador señala la posición falsa indicada por el 1d8.
+5. Si la Percepción del jugador no supera la Ocultación, el Narrador señala la posición falsa indicada por el `1d8`.
 
-El Narrador no declara si la tirada del jugador tuvo éxito o falló. El punto mostrado es lo que el personaje cree haber percibido.
+El Narrador no declara si la tirada del jugador tuvo éxito o falló.
+
+El punto mostrado es lo que el personaje cree haber percibido.
 
 Los empates favorecen a la criatura oculta.
+
+---
+
+## Dirección falsa
 
 | 1d8 | Dirección |
 | --- | --- |
@@ -355,35 +524,74 @@ Los empates favorecen a la criatura oculta.
 | 7 | Sur |
 | 8 | Sureste |
 
-En grid, el resultado del 1d8 corresponde por defecto a la casilla adyacente a la posición real de la criatura oculta en esa dirección. Si la criatura ocupa más de una casilla, usa la casilla adyacente al borde de su espacio en esa dirección.
+En grid, el resultado del `1d8` corresponde por defecto a la casilla adyacente a la posición real de la criatura oculta en esa dirección.
 
-Si esa casilla no es válida, está bloqueada o no es plausible, usa la Cobertura, celda o área plausible más cercana en esa misma dirección. En juego sin grid, usa una zona cercana creíble en esa dirección.
+Si la criatura ocupa más de una casilla, usa la casilla adyacente al borde de su espacio en esa dirección.
 
----
+Si esa casilla no es válida, está bloqueada o no es plausible, usa la Cobertura, celda o área plausible más cercana en esa misma dirección.
 
-## Detectar Criaturas Ocultas
-
-No existe una acción universal separada llamada Buscar. Buscar se resuelve como una Tirada de Especialización de Percepción, una Técnica o una acción específica de la escena si el Narrador la exige por tiempo, posición o presión.
-
-En un éxito, la criatura detecta la posición para sí misma. Puede comunicar una sospecha o dirección si la escena permite hablar, señalar o coordinarse, pero esa comunicación no revela automáticamente a la criatura para todos.
-
-La detección provocada ocurre cuando una criatura oculta produce una señal suficiente para que otros tengan oportunidad de notarla. El Narrador puede pedir Percepción, usar un umbral fijo o revelar información parcial si la señal es obvia.
-
-La detección provocada no reemplaza el uso deliberado de Percepción o Técnicas. Sirve para resolver señales creadas por la criatura oculta, no para escanear gratis todo el entorno.
+En juego sin grid, usa una zona cercana creíble en esa dirección.
 
 ---
 
-## Límites de Balance
+## Detectar criaturas ocultas
+
+No existe una acción universal separada llamada Buscar.
+
+Buscar se resuelve como una Tirada de Especialización de Percepción, una Técnica o una acción específica de la escena si el Narrador la exige por tiempo, posición o presión.
+
+En un éxito, la criatura detecta la posición para sí misma.
+
+Puede comunicar una sospecha o dirección si la escena permite hablar, señalar o coordinarse, pero esa comunicación no revela automáticamente a la criatura para todos.
+
+---
+
+## Detección provocada
+
+La detección provocada ocurre cuando una criatura oculta produce una señal suficiente para que otros tengan oportunidad de notarla.
+
+El Narrador puede:
+
+- pedir Percepción
+- usar un umbral fijo
+- revelar información parcial si la señal es obvia
+
+La detección provocada no reemplaza el uso deliberado de Percepción o Técnicas.
+
+Sirve para resolver señales creadas por la criatura oculta, no para escanear gratis todo el entorno.
+
+---
+
+## Límites de balance
 
 La Ocultación necesita límites porque puede volverse demasiado fuerte si impide demasiadas respuestas.
 
 Reglas de seguridad:
 
-- Ocultarse requiere una razón física, ambiental o técnica;
-- la Ocultación se mide por enemigo, no como estado universal;
-- oculto no significa intocable;
-- los efectos de área siguen funcionando si cubren la posición real;
-- atacar suele revelar o poner en riesgo la Ocultación;
-- la Percepción especializada puede acelerar detección, pero no debe borrar todo el juego de señales;
-- criaturas con sentidos no visuales pueden ignorar o reducir Ocultación visual;
-- habilidades, Técnicas o criaturas pueden declarar que ignoran Ocultación bajo condiciones específicas.
+- Ocultarse requiere una razón física, ambiental o técnica
+- la Ocultación se mide por enemigo o grupo de enemigos, no como estado universal
+- estar oculto no significa ser intocable
+- los efectos de área siguen funcionando si cubren la posición real
+- atacar suele revelar o poner en riesgo la Ocultación
+- la Percepción especializada puede acelerar detección, pero no debe borrar todo el juego de señales
+- criaturas con sentidos no visuales pueden ignorar o reducir Ocultación visual
+- habilidades, Técnicas o criaturas pueden declarar que ignoran Ocultación bajo condiciones específicas
+
+---
+
+## Resumen rápido
+
+| Elemento | Regla |
+| --- | --- |
+| Cobertura | Protección física que interfiere con una línea de ataque |
+| Visibilidad | Claridad y distancia a la que se distinguen detalles |
+| Ocultación | Falta de localización precisa por uno o más enemigos |
+| Cobertura Ligera | `-1` a la Tirada de Ataque |
+| Cobertura Media | `-3` a la Tirada de Ataque |
+| Cobertura Total | No permite ataques directos |
+| Rango visual claro | `60 m` |
+| Ocultarse en combate | Ritmo `5`, Desgaste `1` |
+| Atacar desde Ocultación | Puede otorgar `+3` a la Tirada de Ataque |
+| Atacar desde Ocultación | Siempre compromete la Ocultación |
+| Empates | Favorecen a la criatura oculta |
+| Posición aproximada | Puede ser real o falsa según Percepción y Ocultación |

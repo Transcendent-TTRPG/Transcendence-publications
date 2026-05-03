@@ -23,149 +23,296 @@ authority_refs:
 section_modes:
   - heading: "Example"
     writing_mode: example
-  - heading: "Example of thresholds"
+  - heading: "Example of Thresholds"
     writing_mode: example
 ---
 
 # Attrition, Endurance, and Fatigue
 
-Combat and high-tension scenes do not only put a character's life at risk — they also wear down their body, mind, and composure. Acting under pressure has a cost. That cost is tracked through the Attrition, Endurance, and Fatigue system.
+Combat and high-pressure scenes do not only threaten a character’s life. They also wear down the body, mind, and composure.
 
-This system does not replace damage or the activation order. It tracks how much effort a character can sustain before they begin to deteriorate.
+This system uses three values:
 
-Attrition represents the accumulated burden of acting under pressure.
-Endurance represents how much of that burden a character can bear.
-Fatigue represents the deterioration that appears when Attrition exceeds its limits.
+| Value | What it represents |
+| --- | --- |
+| **Attrition** | The accumulated burden of acting under pressure |
+| **Endurance** | How much Attrition the character can sustain before deteriorating |
+| **Fatigue** | The deterioration that appears when Attrition exceeds Endurance |
 
-A character can keep fighting, analyzing, resisting, and reacting for a time — but not indefinitely.
+Attrition does not replace damage. It also does not replace activation order. It tracks how much effort a character can continue to sustain before their performance begins to break.
 
 ---
 
 ## Attrition
 
-Attrition is the accumulated burden a character bears when executing meaningful actions in a hostile scene.
+**Attrition** is the accumulated burden a character bears when performing meaningful actions in a hostile or high-pressure scene.
 
-It does not represent direct physical damage. Nor is it an exclusive measure of muscular exhaustion. Attrition includes everything that forces a character to keep performing under tension: physical effort, concentration, tactical reading, emotional control, and immediate response in the face of danger.
+It does not represent direct physical damage. It also includes physical effort, concentration, tactical reading, emotional control, and immediate response to danger.
 
 A character can accumulate Attrition from:
 
 - attacking, defending, or moving in combat
 - reacting to sudden threats
-- analyzing a creature under pressure
 - sustaining a demanding maneuver
-- applying mental or social pressure in the middle of a conflictive scene
+- analyzing a creature under pressure
+- applying mental or social pressure in a conflictive scene
 - acting while suffering adverse conditions or environmental pressure
 
-Not every action generates Attrition. Only those that demand real effort and carry weight within the scene do.
+Not every action generates Attrition. Only actions that demand real effort and carry weight within the scene do.
+
+---
+
+## Attrition Costs
+
+Actions use a simple cost scale.
+
+| Cost | Action type |
+| ---: | --- |
+| 0 | Action with no real demand |
+| 1 | Standard meaningful action |
+| 2 | High-demand action |
+| 3 | Extreme or overextension action |
+
+---
+
+### 0 Attrition
+
+Trivial or purely narrative actions that impose no real effort within the scene.
+
+Examples:
+
+- an obvious observation
+- a brief remark with no tactical weight
+- a minor action with no immediate threat
+
+---
+
+### 1 Attrition
+
+Standard meaningful actions.
+
+Examples:
+
+- a standard attack
+- a simple defense
+- significant movement under pressure
+- active observation of an enemy
+- a basic reading of a creature’s behavior
+
+---
+
+### 2 Attrition
+
+High-demand actions.
+
+Examples:
+
+- intercepting a charge
+- protecting another character by absorbing pressure
+- deeply analyzing an enemy during combat
+- executing a maneuver that changes the rhythm of the scene
+- using a mental or social action that removes an important advantage
+
+---
+
+### 3 Attrition
+
+Extreme or overextension actions.
+
+Examples:
+
+- a limit effort while the character is already under heavy pressure
+- a heroic intervention beyond the character’s safe margin
+- an especially demanding maneuver that forces the character beyond their normal rhythm
+
+---
+
+## Physical, Mental, and Social Actions
+
+Attrition does not depend on the type of characteristic used. It depends on the real demand of the action.
+
+A mental or social action can generate Attrition if it:
+
+- requires real focus under threat
+- changes the tactical situation
+- competes with other important combat actions
+- forces the character to sustain reading, control, or pressure in the middle of chaos
+
+Not every mental or social action generates Attrition. Only those that provide a real advantage or impose a meaningful burden under pressure do.
+
+Reading a creature, breaking its pattern, forcing a reaction, or destabilizing its behavior can cost as much as attacking or defending, if the situation warrants it.
+
+---
+
+## Reactions and Attrition
+
+Reactions are not costly because they are Reactions. They are costly because of the demand they imply.
+
+Responding outside a character’s natural rhythm usually requires precision, tension, and speed. For that reason, a Reaction may cost more or less Attrition depending on how difficult it is to execute.
+
+| Reaction type | Suggested Attrition |
+| --- | ---: |
+| Simple Reaction | 1 |
+| Demanding Reaction | 2 |
+| Limit Reaction | 3 |
+
+What matters is not the action category, but its intensity within the scene.
 
 ---
 
 ## Endurance
 
-Endurance represents a character's capacity to keep functioning before they begin suffering Fatigue.
+**Endurance** represents how much accumulated burden a character can sustain before beginning to suffer Fatigue.
 
-Every character has a minimum reserve of functionality across three planes of conflict:
+Every character has a minimum reserve of function. This reserve covers three planes of conflict:
 
 - the **body**, which sustains effort, impact, and movement
 - the **mind**, which sustains attention, reading, and interpretation
-- **composure**, which sustains control, intent, and clarity under tension
+- **composure**, which sustains control, intent, and clarity under pressure
 
-Every character starts with a Base Endurance Reserve of 3. To that base is added the character's final physical resilience, expressed through Tenacity.
+Every character has a base Endurance reserve of `3`. To that base, add the character’s final bodily resistance, expressed through Tenacity.
 
-### Endurance Formula
-
+```text
 Endurance = 3 + (Tenacity × 2)
+```
 
-Endurance depends on two things:
+The Tenacity used in this formula is the character’s final Tenacity, after applying species and Synapsis.
 
-- natural capacity to bear effort (Tenacity)
-- a universal minimum representing continued function across body, mind, and composure
-
-### Example
-
-A character with final Tenacity 2 after applying their starting Tenacity Synapsis has:
-
-Endurance = 3 + (2 × 2) = 7
+Every character begins with one starting Tenacity specialization at level 1, Novice rank: **March**, **Acclimation**, or **Tolerance**. That specialization is already included indirectly in Endurance because it increases Tenacity through Synapsis during character creation.
 
 ---
 
-Every character begins with one starting Tenacity specialization at Level 1 / Rank 1: March, Acclimation, or Tolerance. Operating under serious pressure requires some trained form of resilience, but not the same expression for every character.
+## Example
+
+A character finishes creation with Tenacity `2`.
+
+```text
+Endurance = 3 + (2 × 2)
+Endurance = 7
+```
+
+That character has Endurance `7`.
 
 ---
 
 ## Fatigue
 
-Fatigue is the progressive deterioration that appears when a character accumulates more Attrition than they can sustain.
+**Fatigue** is the progressive deterioration that appears when a character accumulates more Attrition than they can sustain.
 
-It does not arise from a single isolated action, but from accumulation. As Attrition increases, the character begins to lose effectiveness. Maintaining precision becomes harder. Sustaining their pace grows more difficult. Clarity is harder to preserve. Responses come with less firmness.
+It does not come from a single isolated action. It comes from accumulation.
 
-Fatigue does not represent only physical exhaustion. It can also reflect:
+As Attrition increases, it becomes harder for the character to maintain precision, keep pace, preserve clarity, or respond with firmness.
+
+Fatigue can reflect:
 
 - bodily saturation
 - cognitive overload
 - loss of composure
-- increasing difficulty sustaining the same level of performance
+- difficulty sustaining the same performance
+- general deterioration after a demanding scene
 
-### Projected Fatigue and Settled Fatigue
+---
 
-During a hostile scene, a character can keep acting even after accumulating considerable Attrition. For this reason, the system distinguishes between two distinct moments:
+## Projected Fatigue and Settled Fatigue
 
-#### Projected Fatigue
+Fatigue is handled in two moments: while the scene is still active, and when the scene ends.
 
-While the combat or dangerous situation remains active, the player tracks how much Attrition has been accumulated and can see what level of Fatigue the character would suffer if the scene ended at that moment.
+---
 
-This does not mean the full penalty applies immediately. It means the character is already pushing their margin — and that if they continue, they will leave the scene in worse condition.
+### Projected Fatigue
 
-#### Settled Fatigue
+During a hostile scene, the character tracks accumulated Attrition and calculates what Fatigue level they would suffer if the scene ended at that moment.
 
-When the hostile scene ends or clearly drops in intensity, adrenaline stops artificially sustaining performance. At that moment, Projected Fatigue becomes real Fatigue and its effects are applied.
+That Fatigue is still **projected**.
 
-- During combat, Fatigue is projected.
-- When combat ends, Fatigue settles.
+This means the character is pushing their margin, but the full penalty does not settle while adrenaline, urgency, or immediate danger continue to support performance.
 
-### Fatigue Thresholds
+During combat, Fatigue is projected.
 
-Fatigue is determined by comparing the character's accumulated Attrition against their Endurance.
+---
+
+### Settled Fatigue
+
+When the hostile scene ends or clearly drops in intensity, Projected Fatigue becomes real Fatigue.
+
+At that moment:
+
+1. Check accumulated Attrition.
+2. Determine the Fatigue level reached.
+3. Apply that level as Settled Fatigue.
+4. Clear the accumulated Attrition from that scene, unless a specific rule says otherwise.
+
+When combat ends, Fatigue settles.
+
+---
+
+## Fatigue Thresholds
+
+Fatigue is determined by comparing accumulated Attrition with the character’s Endurance.
 
 | Level | Condition |
 | --- | --- |
-| Fatigue 0 | Attrition is less than Endurance |
+| Fatigue 0 | Attrition is lower than Endurance |
 | Fatigue 1 | Attrition is equal to or greater than Endurance |
 | Fatigue 2 | Attrition is equal to or greater than 2 × Endurance |
 | Fatigue 3 | Attrition is equal to or greater than 3 × Endurance |
 | Fatigue 4 | Attrition is equal to or greater than 4 × Endurance |
 | Fatigue 5 | Attrition is equal to or greater than 5 × Endurance |
 
-### Example of thresholds
+The base scale does not exceed Fatigue 5.
 
-If a character has Endurance 7:
+If a mechanic adds Fatigue while the character is already at Fatigue 5, the character becomes **Incapacitated by exhaustion**.
 
-- Attrition 0 to 6 → no Fatigue
-- Attrition 7 to 13 → Fatigue 1
-- Attrition 14 to 20 → Fatigue 2
-- Attrition 21 to 27 → Fatigue 3
-- Attrition 28 to 34 → Fatigue 4
-- Attrition 35 or more → Fatigue 5
+---
 
-The base scale does not exceed Fatigue 5. If a rule adds Fatigue while the character is already at Fatigue 5, the character becomes Incapacitated by exhaustion.
+## Example of Thresholds
 
-A character Incapacitated by exhaustion cannot take Active Actions, Reactions, or Techniques. They must begin resting as soon as the scene allows it. If the environment prevents rest, they need help, shelter, transport, or a specific rule to avoid being taken out of action.
+If a character has Endurance `7`:
+
+| Accumulated Attrition | Projected or Settled Fatigue |
+| ---: | ---: |
+| 0–6 | Fatigue 0 |
+| 7–13 | Fatigue 1 |
+| 14–20 | Fatigue 2 |
+| 21–27 | Fatigue 3 |
+| 28–34 | Fatigue 4 |
+| 35 or more | Fatigue 5 |
 
 Fatigue 5 is not a tactical margin that can be sustained voluntarily. It is the final point before operational collapse.
 
 ---
 
+## Incapacitated by Exhaustion
+
+A character **Incapacitated by exhaustion** cannot take:
+
+- Active Actions
+- Reactions
+- Techniques
+
+They must begin resting as soon as the scene allows it.
+
+If the environment prevents rest, they need help, shelter, transport, or a specific rule to avoid being removed from action.
+
+---
+
 ## Carrying Capacity
 
-Sustained load does not use scene Attrition when measured as prolonged travel, exploration, transport, or physical work. In that case, it generates Fatigue directly over time.
+Sustained load does not use scene Attrition when measured as prolonged travel, exploration, transport, or physical work.
 
-Carrying capacity depends on creature size, Strength, and Tenacity.
+In those cases, it generates Fatigue directly over time.
 
-To prevent a character with Strength 0 or Tenacity 0 from having capacity 0, use minimum effective values:
+Carrying capacity depends on three factors:
+
+- creature size
+- Strength
+- Tenacity
+
+To prevent a character with Strength `0` or Tenacity `0` from having capacity `0`, use minimum effective values.
 
 ```text
-Effective Strength = minimum 1
-Effective Tenacity = minimum 1
+Effective Strength = max(Strength, 1)
+Effective Tenacity = max(Tenacity, 1)
 Carrying capacity = Effective Strength × Effective Tenacity × size multiplier
 ```
 
@@ -178,104 +325,55 @@ Carrying capacity = Effective Strength × Effective Tenacity × size multiplier
 | Huge | Effective Strength × Effective Tenacity × 200 kg |
 | Gigantic | Effective Strength × Effective Tenacity × 800 kg |
 
-Load type is determined by the percentage of that capacity being used.
+---
+
+## Load Type
+
+Load type is determined by the percentage of total capacity being used.
 
 | Load type | Weight carried | Sustained load Fatigue |
 | --- | --- | --- |
-| Light Load | Up to 50% of capacity | No automatic Fatigue. |
-| Medium Load | More than 50% and up to 75% | +1 Fatigue level every 2 hours. |
-| Heavy Load | More than 75% and up to 100% | +1 Fatigue level every 1 hour. |
+| Light Load | Up to 50% of capacity | Does not generate automatic Fatigue |
+| Medium Load | More than 50% and up to 75% | +1 Fatigue level every 2 hours |
+| Heavy Load | More than 75% and up to 100% | +1 Fatigue level every 1 hour |
 
-A load above 100% capacity cannot be carried functionally without help, equipment, Technique, pack creature, or a specific rule.
+A load above `100%` of capacity cannot be carried functionally without help, equipment, Technique, pack creature, or a specific rule.
 
-Sustained load Fatigue does not check Attrition thresholds. It is added directly over time. If a new application of sustained load would push the character beyond Fatigue 5, they become Incapacitated by exhaustion and must rest or receive help.
+Sustained load Fatigue does not check Attrition thresholds. It is added directly over time.
+
+If a new application of sustained load Fatigue would push the character beyond Fatigue 5, they become **Incapacitated by exhaustion**.
 
 ---
 
-## Attrition Costs
+## Quick Summary
 
-Not all actions generate the same level of burden. To reflect this, the system uses a simple cost scale.
-
-### Attrition Scale
-
-| Cost | Action type |
+| Element | Rule |
 | --- | --- |
-| 0 | action with no real demand |
-| 1 | standard meaningful action |
-| 2 | high-demand action |
-| 3 | extreme or overextension action |
-
-### 0 Attrition
-
-Trivial or purely narrative actions that impose no real effort within the scene.
-
-Examples:
-
-- an obvious observation
-- a brief remark with no tactical weight
-- a minor action with no immediate threat
-
-### 1 Attrition
-
-Standard meaningful actions.
-
-Examples:
-
-- a standard attack
-- a simple defense
-- a significant movement under pressure
-- an active observation of the enemy
-- a basic reading of a creature's behavior
-
-### 2 Attrition
-
-High-demand actions.
-
-Examples:
-
-- intercepting a charge
-- protecting another character by absorbing pressure
-- deeply analyzing an enemy in the middle of combat
-- executing a maneuver that genuinely changes the rhythm of the scene
-- using a mental or social action that removes an important advantage
-
-### 3 Attrition
-
-Extreme or overextension actions.
-
-Examples:
-
-- a limit-effort when the character is already under heavy pressure
-- a heroic intervention clearly beyond their safe margin
-- an especially demanding maneuver that forces the character beyond their normal pace
+| Attrition | Accumulates from meaningful actions under pressure |
+| Endurance | `3 + (Tenacity × 2)` |
+| Projected Fatigue | Calculated during the scene, but not settled yet |
+| Settled Fatigue | Applied when the hostile scene ends or intensity drops |
+| Fatigue 1 | Attrition equal to or greater than Endurance |
+| Fatigue 5 | Maximum base Fatigue level |
+| Beyond Fatigue 5 | Incapacitated by exhaustion |
+| Sustained load | Adds Fatigue directly over time, not through Attrition thresholds |
 
 ---
 
-## Physical, Mental, and Social Actions
+## Example
 
-Attrition does not depend on the type of attribute used — it depends on the real demand of the action.
+A creature with Endurance `7` participates in a long combat.
 
-A mental or social action generates Attrition if it:
+During the scene, it accumulates `15` points of Attrition. While combat remains active, that Fatigue is projected.
 
-- requires genuine focus under threat
-- alters the tactical situation
-- competes with other important combat actions
-- forces the character to sustain reading, control, or pressure in the middle of chaos
+```text
+Endurance = 7
+Accumulated Attrition = 15
+Projected Fatigue = 2
+```
 
-Not every mental or social action generates Attrition. Those that provide a real advantage or impose a meaningful burden under pressure do.
+The character continues acting while the scene continues, unless another rule says otherwise.
 
-Reading a creature, breaking its pattern, forcing a reaction, or destabilizing its behavior can cost as much as attacking or defending — when the situation warrants it.
+When combat ends, Fatigue settles. The character receives Fatigue 2 and clears the accumulated Attrition from that scene.
 
----
-
-## Reactions and Attrition
-
-Reactions are not costly because they are reactions — they are costly because of the demand they typically imply.
-
-Responding outside a character's natural rhythm usually requires more precision, tension, and speed. For this reason, a reaction may cost more or less Attrition depending on how difficult it is to execute.
-
-- a simple reaction may cost 1
-- a demanding reaction may cost 2
-- a limit reaction may cost 3
-
-What matters is not its category, but its intensity within the scene.
+If they rest later, they can reduce Fatigue according to the Rest rules.

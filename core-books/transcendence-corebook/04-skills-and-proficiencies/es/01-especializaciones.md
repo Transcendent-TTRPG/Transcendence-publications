@@ -32,35 +32,46 @@ section_modes:
 
 # Especializaciones
 
-Las especializaciones son dominios entrenables. No representan poderes que el personaje posee por sí mismo, sino prácticas que ha desarrollado: acciones que pueden intentarse, fallarse y refinarse con el tiempo.
+Las especializaciones son dominios entrenables. Representan prácticas que el personaje ha desarrollado: acciones, oficios, saberes o disciplinas que puede intentar, fallar y refinar con el tiempo.
 
-Una característica mide una aptitud base. Una especialización mide lo que el personaje ha elegido practicar con esa aptitud.
+Una característica mide una aptitud base. Una especialización mide lo que el personaje ha practicado con esa aptitud.
 
-Durante la creación de personaje, las especializaciones ayudan a definir qué sabe hacer el personaje, cómo aborda los problemas y por qué se diferencia de otros con características similares.
+En juego, las especializaciones cumplen tres funciones:
+
+- modifican Tiradas de Especialización
+- permiten progresar mediante Ventaja en el Aprendizaje
+- activan Sinapsis al alcanzar nuevos rangos
 
 ---
 
-## Para qué sirven
+## Qué representan
 
-Transcendence no usa clases para asignar roles cerrados. La diferenciación entre personajes depende de lo que cada uno desarrolla.
+Una especialización no es un poder que el personaje posee por sí mismo. Es una práctica.
 
-Dos personajes con Sabiduría similar pueden actuar de forma distinta si uno ha practicado Medicina y el otro ha practicado Supervivencia. La característica les da una base comparable. La especialización define cómo convierten esa base en acción.
+Dos personajes con la misma característica pueden actuar de formas distintas si han entrenado dominios diferentes. Un personaje con Sabiduría alta y Medicina interpreta heridas, síntomas y tratamientos. Otro con Sabiduría alta y Supervivencia lee rastros, clima, rutas y señales del entorno.
 
-Las especializaciones también habilitan el acceso a Técnicas. Una Técnica no nace de una competencia genérica: requiere un dominio específico que el personaje ya ha trabajado. Sin la especialización de base, la Técnica no existe.
-
-Cada vez que un personaje alcanza un nuevo rango en una especialización, gana `+1` a la característica asociada a ese dominio. A este incremento se le llama **Sinapsis**. Las características no aumentan por asignación libre; aumentan como consecuencia directa del uso practicado.
+La característica da la base. La especialización define cómo se convierte esa base en acción.
 
 ---
 
 ## Especializaciones de inicio
 
-Todo personaje comienza con cuatro especializaciones en nivel 1, rango Novato.
+Durante la creación de personaje, todo personaje comienza con cuatro especializaciones iniciales:
 
-Tres provienen del trasfondo, según sus restricciones de categoría. La cuarta es una elección universal vinculada a **Tenacidad**: **Marcha**, **Aclimatación** o **Tolerancia**.
+| Fuente | Cantidad | Nivel inicial | Rango inicial |
+| --- | --- | --- | --- |
+| Trasfondo | 3 | 1 | Novato |
+| Universal de Tenacidad | 1 | 1 | Novato |
 
-Todo personaje elige una de estas tres opciones, independientemente de su trasfondo. Esta elección no reemplaza los bonificadores de especie a Tenacidad; ambos se acumulan.
+La especialización universal de Tenacidad debe ser una de estas tres:
 
-La misma especialización no puede escogerse dos veces durante la creación de personaje. Todas las demás comienzan en nivel 0, rango No Entrenado.
+- **Marcha**
+- **Aclimatación**
+- **Tolerancia**
+
+La misma especialización no puede escogerse dos veces durante la creación de personaje.
+
+Todas las especializaciones que no fueron escogidas comienzan en nivel `0`, rango **No Entrenado**.
 
 Las especializaciones iniciales ya otorgan la Sinapsis correspondiente al rango Novato durante la creación.
 
@@ -68,7 +79,7 @@ Las especializaciones iniciales ya otorgan la Sinapsis correspondiente al rango 
 
 ## Categorías
 
-Las especializaciones se agrupan en cinco categorías según el tipo de dominio que representan. Estas categorías no son compartimentos cerrados. Una especialización pertenece a una categoría por lo que abarca, no por la característica a la que está vinculada.
+Las especializaciones se agrupan en cinco categorías. La categoría indica qué tipo de dominio representa la especialización; no determina por sí sola qué característica usa.
 
 | Categoría | Tipo de dominio |
 | --- | --- |
@@ -78,17 +89,17 @@ Las especializaciones se agrupan en cinco categorías según el tipo de dominio 
 | Artes y Oficios | Oficios prácticos y disciplinas artísticas concretas, como música, danza, malabarismo, títeres o actuación escénica |
 | Conocimiento | Estudio formal, interpretación académica, saber estructurado y comprensión técnica |
 
-Una especialización Física puede estar vinculada a Fuerza, Agilidad o Tenacidad según lo que abarque. Una especialización Social puede estar vinculada a Astucia, Compostura, Aura o Presencia.
+Una especialización Física puede estar vinculada a Fuerza, Agilidad o Tenacidad, según lo que abarque. Una especialización Social puede estar vinculada a Astucia, Compostura, Aura o Presencia.
 
-La categoría organiza el dominio. La característica determina qué valor se suma a la Tirada de Especialización.
+La categoría organiza el dominio. La característica determina qué valor se suma a la tirada.
 
-Las disciplinas artísticas pertenecen a **Artes y Oficios**. Su desarrollo y uso práctico se describen en el **Catálogo de Especializaciones**, ubicado en los apéndices.
+La lista completa de especializaciones, sus características asociadas y sus usos comunes se encuentra en el **Catálogo de Especializaciones**, ubicado en los apéndices.
 
 ---
 
 ## Tirada de Especialización
 
-Cuando un personaje actúa a partir de una especialización, el resultado se determina mediante una **Tirada de Especialización** (**T.E.**).
+Cuando un personaje actúa mediante una especialización, realiza una **Tirada de Especialización** (**T.E.**).
 
 ```text
 T.E. = 1d10 + nivel de competencia + rango de competencia + característica asociada + bonificadores adicionales
@@ -97,76 +108,147 @@ T.E. = 1d10 + nivel de competencia + rango de competencia + característica asoc
 | Componente | Qué representa |
 | --- | --- |
 | **Nivel de competencia** | Progreso numérico alcanzado en esa especialización |
-| **Rango de competencia** | Grado de dominio actual: Novato, Adepto, Experto, Maestro, Consumado o Trascendente |
+| **Rango de competencia** | Grado de dominio actual |
 | **Característica asociada** | Característica vinculada a la especialización usada |
-| **Bonificadores adicionales** | Modificadores situacionales, de equipo, Técnicas activas u otros efectos aplicables |
+| **Bonificadores adicionales** | Modificadores situacionales, equipo, Técnicas activas u otros efectos aplicables |
 
-### Sin entrenamiento
+Usa una T.E. cuando la acción depende de una práctica concreta: escalar, nadar, rastrear, curar, convencer, fabricar, desactivar trampas, interpretar símbolos o cualquier otro dominio definido como especialización.
 
-Cualquier personaje puede intentar una tirada en cualquier especialización, incluso si nunca la ha practicado. Un personaje **No Entrenado** usa solo el dado y la característica asociada.
+---
+
+## Sin entrenamiento
+
+Cualquier personaje puede intentar una tirada en una especialización que no posee entrenada.
+
+Un personaje **No Entrenado** usa solo el dado y la característica asociada.
 
 ```text
 T.E. sin entrenamiento = 1d10 + característica asociada
 ```
 
-El nivel y el rango son 0. La falta de entrenamiento no impide el intento, pero limita los resultados alcanzables. Pruebas avanzadas siguen siendo posibles en la ficción, pero suelen quedar fuera del alcance mecánico de un personaje sin práctica.
+El nivel y el rango son `0`.
+
+La falta de entrenamiento no impide intentar la acción. Limita lo que el personaje puede alcanzar. Una prueba avanzada puede existir en la ficción, pero quedar fuera del alcance mecánico de alguien sin práctica.
 
 Desarrollar una especialización no habilita la acción. La vuelve sostenible.
 
 ---
 
-## Cómo se adquieren
+## Niveles y rangos
 
-Las especializaciones se desarrollan mediante uso bajo presión. Cada vez que un personaje utiliza **Ventaja en el Aprendizaje** en una T.E., la tirada puede generar progreso hacia el siguiente nivel de competencia.
+Cada especialización tiene un nivel y un rango.
 
-El progreso no aparece solo por elegir aprender. La acción debe cumplir tres condiciones:
+| Rango | Nombre | Niveles |
+| --- | --- | --- |
+| 0 | No Entrenado | 0 |
+| 1 | Novato | 1–2 |
+| 2 | Adepto | 3–4 |
+| 3 | Experto | 5–6 |
+| 4 | Maestro | 7–8 |
+| 5 | Consumado | 9–10 |
+| 6 | Trascendente | 11+ |
 
-- la tirada usa la especialización declarada
-- la dificultad es adecuada para el rango actual del personaje
-- el dado de aprendizaje supera la condición de progreso de Ventaja Evolutiva
+El nivel mide avance numérico. El rango resume el grado de dominio alcanzado.
+
+Cada nuevo rango puede desbloquear nuevas posibilidades, activar Sinapsis y servir como requisito para Técnicas.
+
+---
+
+## Progresión
+
+Las especializaciones progresan mediante uso bajo presión.
+
+Para que una T.E. pueda generar progreso, deben cumplirse tres condiciones:
+
+- el personaje usa **Ventaja en el Aprendizaje**
+- la dificultad de la prueba es adecuada para su rango actual
+- el dado de aprendizaje supera la condición de progreso
 
 ```text
 Dado de aprendizaje > dado usado + rango de competencia
 ```
 
-Si estas condiciones se cumplen, el personaje marca 1 punto de progreso en esa especialización.
+Si estas condiciones se cumplen, el personaje marca `1` punto de progreso en esa especialización.
 
-| Afinidad | Progreso necesario por nivel |
+El progreso no aparece solo por elegir aprender. La acción debe exigir algo real y la especialización declarada debe coincidir con lo que el personaje está haciendo.
+
+---
+
+## Progreso necesario por nivel
+
+La cantidad de progreso necesaria depende de la afinidad del personaje.
+
+| Afinidad | Progreso necesario para subir 1 nivel |
 | --- | --- |
 | Sin afinidad mayor | 10 puntos |
 | Con afinidad mayor | 5 puntos |
 
-La afinidad mayor la determina el trasfondo. Un personaje con trasfondo marcial puede tener afinidad mayor en especializaciones Físicas. Uno con trasfondo artesano puede tenerla en Artes y Oficios.
+La afinidad mayor proviene del trasfondo.
 
-La afinidad mayor no bloquea el acceso a otras especializaciones. Solo reduce el costo de progresar en las que corresponden al trasfondo.
+Un personaje con trasfondo marcial puede tener afinidad mayor en especializaciones Físicas. Uno con trasfondo artesano puede tenerla en Artes y Oficios.
 
-El Narrador valida si la especialización usada se sostiene en la ficción antes de que pueda generar progreso. La intención del personaje debe coincidir con el dominio declarado. Un personaje no puede usar Trampas para analizar el comportamiento de una criatura si no hay una razón concreta que lo justifique.
-
-El dominio practicado debe reflejar la acción real.
-
-No hay límite en cuántas especializaciones puede desarrollar un personaje. El límite es práctico: cada especialización exige tiempo, tiradas y decisiones. Priorizar una ralentiza las demás.
+La afinidad mayor no bloquea otras especializaciones. Solo reduce el costo de progresar en las que pertenecen a esa categoría.
 
 ---
 
-## Rangos y Sinapsis
+## Pruebas adecuadas para progresar
 
-La competencia en una especialización se mide en niveles y rangos. Cada rango agrupa dos niveles y representa un grado de dominio.
+No toda acción enseña. Para que una especialización pueda progresar, la dificultad debe ser coherente con el rango actual del personaje.
 
-| Rango | Nombre | Niveles | Sinapsis al entrar |
-| --- | --- | --- | --- |
-| 0 | No Entrenado | 0 | — |
-| 1 | Novato | 1–2 | +1 a característica |
-| 2 | Adepto | 3–4 | +1 a característica |
-| 3 | Experto | 5–6 | +1 a característica |
-| 4 | Maestro | 7–8 | +1 a característica |
-| 5 | Consumado | 9–10 | +1 a característica |
-| 6 | Trascendente | 11+ | +1 a característica |
+| Rango actual | Puede progresar con pruebas de... |
+| --- | --- |
+| Novato | Cualquier nivel |
+| Adepto | Fundamentos o superior |
+| Experto | Desafiante o superior |
+| Maestro | Rigurosa o superior |
+| Consumado | Exigente o superior |
+| Trascendente | Extrema |
 
-Al alcanzar el nivel umbral de un nuevo rango, el personaje gana automáticamente `+1` a la característica asociada a esa especialización.
+Una prueba demasiado simple no genera progreso para alguien que ya domina ese tipo de acción.
 
-Esto es la **Sinapsis**: el incremento de una característica como consecuencia directa de practicar dominios vinculados a ella.
+---
 
-La tensión es estructural. Alcanzar el rango Novato en muchas especializaciones distintas genera Sinapsis en varias características. Profundizar en una sola especialización genera bonificadores de T.E. mayores y acceso a Técnicas más avanzadas.
+## Validación del Narrador
+
+El Narrador valida si la especialización declarada corresponde a la acción real.
+
+El jugador debe explicar cómo usa esa especialización en la escena. Si la justificación no coincide con el dominio declarado, la tirada puede resolverse con otra especialización, con una Tirada de Característica o sin posibilidad de progreso.
+
+Un personaje no puede usar Trampas para analizar el comportamiento de una criatura solo porque quiere progresar Trampas. Debe haber una relación concreta entre la acción y el dominio usado.
+
+El dominio practicado debe reflejar la acción real.
+
+---
+
+## Sinapsis
+
+La Sinapsis representa el modo en que la práctica modifica al personaje.
+
+Cada especialización está asociada a una característica. Cuando la especialización alcanza un nuevo rango, el personaje gana `+1` permanente a esa característica.
+
+| Rango | Nombre | Sinapsis al entrar |
+| --- | --- | --- |
+| 0 | No Entrenado | — |
+| 1 | Novato | +1 a característica |
+| 2 | Adepto | +1 a característica |
+| 3 | Experto | +1 a característica |
+| 4 | Maestro | +1 a característica |
+| 5 | Consumado | +1 a característica |
+| 6 | Trascendente | +1 a característica |
+
+La Sinapsis se aplica al entrar en un nuevo rango, no cada vez que se gana un nivel.
+
+Durante la creación de personaje, las especializaciones iniciales comienzan en rango Novato. Por eso cada una otorga de inmediato `+1` a su característica asociada.
+
+---
+
+## Crecimiento amplio o profundo
+
+El jugador puede desarrollar muchas especializaciones o concentrarse en pocas.
+
+Desarrollar muchas especializaciones permite activar Sinapsis en varias características y ampliar las opciones del personaje.
+
+Profundizar en una especialización aumenta sus bonificadores de T.E. y puede dar acceso a Técnicas más avanzadas.
 
 Ninguna ruta es superior por defecto. Cada una prioriza una forma distinta de crecimiento.
 
@@ -174,21 +256,45 @@ Ninguna ruta es superior por defecto. Cada una prioriza una forma distinta de cr
 
 ## Uso directo y Técnicas
 
-Usar una especialización produce un resultado narrativo dentro de la escena. El personaje observa, interpreta, construye, repara, convence, recuerda, se desplaza o actúa según el dominio usado.
+Usar una especialización produce un resultado narrativo dentro de la escena.
 
-Ese uso puede abrir información, rutas, ventajas narrativas o posibilidades de acción. No cambia el estado mecánico de la escena de forma automática, salvo que una regla, consecuencia o decisión del Narrador lo indique.
+El personaje puede observar, interpretar, construir, reparar, convencer, recordar, desplazarse o actuar según el dominio usado. Ese uso puede abrir información, rutas, ventajas narrativas o nuevas posibilidades de acción.
+
+Por sí solo, el uso directo de una especialización no cambia automáticamente el estado mecánico de la escena, salvo que una regla, consecuencia o decisión del Narrador lo indique.
 
 Una **Técnica** es diferente. Es una aplicación específica que el personaje desbloquea al alcanzar cierto nivel de competencia en una o más especializaciones.
 
-A diferencia del uso directo, una Técnica produce una consecuencia mecánica definida en el momento de activarse. Su detalle completo aparece en el capítulo correspondiente.
+A diferencia del uso directo, una Técnica produce una consecuencia mecánica definida cuando se activa.
 
-Esta distinción es estructural. El uso directo de una especialización abre posibilidades. La Técnica convierte una de esas posibilidades en consecuencia mecánica inmediata.
+Esta distinción es estructural:
+
+| Uso | Resultado |
+| --- | --- |
+| Especialización directa | Abre posibilidades narrativas o prácticas |
+| Técnica | Produce una consecuencia mecánica definida |
+
+---
+
+## Resumen rápido
+
+| Elemento | Regla |
+| --- | --- |
+| Especialización inicial | Nivel 1 / rango Novato |
+| No Entrenado | Nivel 0 / rango 0 |
+| T.E. entrenada | `1d10 + nivel + rango + característica + bonificadores` |
+| T.E. sin entrenamiento | `1d10 + característica` |
+| Progreso con afinidad mayor | 5 puntos por nivel |
+| Progreso sin afinidad mayor | 10 puntos por nivel |
+| Sinapsis | +1 a característica al entrar en cada nuevo rango |
+| Técnica | Requiere dominio específico y produce consecuencia mecánica definida |
 
 ---
 
 ## Ejemplo
 
-Un personaje usa Supervivencia para leer huellas rotas al borde de un camino inundado. Ese uso puede revelar por dónde pasó un grupo, qué ruta sigue siendo viable y qué señales del terreno conviene evitar.
+Un personaje usa Supervivencia para leer huellas rotas al borde de un camino inundado.
+
+La tirada puede revelar por dónde pasó un grupo, qué ruta sigue siendo viable y qué señales del terreno conviene evitar. Ese resultado abre información y opciones.
 
 Por sí mismo, ese uso no daña a un enemigo, no cambia la iniciativa ni impone una condición mecánica.
 

@@ -416,19 +416,9 @@ Specialization increases by overcoming tests appropriate to the character's curr
 
 ### Resistances
 
-Resistances cover specific dangers. They are not trained only through controlled repetition. They often grow through exposure, survival, and adaptation.
+Resistances cover specific dangers that poison, infect, alter, afflict, or curse a creature. They are not trained only through controlled repetition. They often grow through exposure, survival, and adaptation.
 
-#### Elemental Damage
-
-**Bonus**
-
-- Each competency level grants `+1` to R.R. against effects produced by elemental damage.
-
-#### Physical
-
-**Bonus**
-
-- Each competency level grants `+1` to R.R. in general cases of physical resistance.
+Resistances do not reduce Impact, elemental damage, or Wounds. Damage is resolved through the relationship between Impact, Block, and the Wound or HP rules. If a fire, water, light, or other elemental-origin attack deals damage, that damage follows the normal flow unless a specific rule says otherwise.
 
 #### Poison
 
@@ -466,6 +456,12 @@ Resistances cover specific dangers. They are not trained only through controlled
 Resistances increase on a failed R.R. with Learning Advantage, provided the character suffers and survives the corresponding effect.
 
 Completely negating a danger does not teach the same lesson as enduring it.
+
+#### About Elemental Resistance
+
+**Elemental Resistance** and **Elemental Vulnerability** are not competencies. They do not progress through Evolutionary Advantage and are not part of the character's trainable resistance competencies.
+
+When a creature, material, object, Technique, or effect has resistance or vulnerability against an elemental origin, it is resolved through the rules for **Elemental Damage and Affinities**.
 
 ---
 

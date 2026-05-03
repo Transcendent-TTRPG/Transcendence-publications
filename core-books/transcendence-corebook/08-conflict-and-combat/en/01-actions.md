@@ -22,31 +22,13 @@ authority_refs:
   - Transcendence-design/data/system/attrition-fatigue.yaml
   - Transcendence-design/data/system/specializations.yaml
 section_modes:
-  - heading: "Two-Handed Weapon"
-    writing_mode: flavor
-  - heading: "Two Weapons"
-    writing_mode: flavor
-  - heading: "Interact"
-    writing_mode: flavor
-  - heading: "Hide"
-    writing_mode: flavor
-  - heading: "Specialization"
-    writing_mode: flavor
-  - heading: "Techniques"
-    writing_mode: flavor
-  - heading: "Drop"
-    writing_mode: flavor
-  - heading: "Speak"
-    writing_mode: flavor
   - heading: "Example"
     writing_mode: example
 ---
 
 # Actions
 
-In combat and high-tension scenes, everything a character does has a place and a cost within the temporal flow. Not all actions occupy that place the same way.
-
-Some demand full commitment and alter a character's rhythm. Others occur as a response to an immediate threat. Others are brief enough that they do not justify a time or effort cost on their own.
+In combat and high-pressure scenes, every action has a place within the temporal flow. Some actions consume a creature’s normal activation. Others happen in response to a trigger. Others are brief enough that they do not need a cost of their own.
 
 Actions are divided into three types:
 
@@ -54,101 +36,134 @@ Actions are divided into three types:
 - **Reactions**
 - **Free Actions**
 
-This division does not replace the ATB timeline. It exists to clarify how each type of action enters the temporal flow of combat once that system is already in play.
+This division does not replace the **ATB** timeline. It indicates how each action enters that system.
+
+---
+
+## Action Types
+
+| Type | When it occurs | ATB effect |
+| --- | --- | --- |
+| Active Action | During the creature’s normal activation | Advances the marker by rhythm cost |
+| Reaction | When a trigger allows a response outside normal activation | Advances the marker if the reaction has a rhythm cost |
+| Free Action | At a reasonable moment in the scene | Does not usually advance the marker |
 
 ---
 
 ## Active Actions
 
-Active Actions are those a character performs deliberately during their normal activation on the ATB timeline. They represent what the character commits their body, attention, or primary intent to in that moment.
+An **Active Action** is a deliberate action performed during a creature’s normal activation on the ATB timeline.
 
 An Active Action:
 
-- occurs during the character's normal activation
-- has a rhythm cost that advances their marker on the timeline
+- occurs during the creature’s normal activation
+- has a rhythm cost
 - may generate Attrition
-- clearly alters the state of the scene
+- clearly changes the state of the scene
 
-They are the most common form of action in combat and high-tension scenes.
+Attacking, moving, hiding, interacting under pressure, or using a specialization in combat are usually Active Actions.
 
 ---
 
 ## Reactions
 
-Reactions are actions enabled by a trigger. They do not occur because the character's natural activation has arrived, but because something in the scene offers — or demands — an immediate response.
+A **Reaction** is an action allowed by a trigger.
+
+It does not occur because the creature has reached its normal activation, but because something in the scene allows or demands an immediate response.
 
 A Reaction can be used to:
 
-- interrupt an incoming action
-- protect oneself or cover another character
+- respond to an incoming threat
+- protect oneself
+- cover another creature
+- interrupt an action
 - deflect an attack
-- exploit an enemy's mistake or opening
-- respond to a telegraphed action or an imminent threat
+- exploit an opening
+- activate a Technique with a reactive trigger
 
-**Reactions are not free.**
+Reactions are not free. If a Reaction has a rhythm cost, it advances the creature’s marker on the ATB. If it generates Attrition, that Attrition is accumulated normally.
 
-Even though they occur outside the character's natural activation, they remain within the same temporal system. A Reaction can therefore:
-
-- have a rhythm cost
-- generate Attrition
-- modify the character's future position on the ATB
+A creature can only use a Reaction when a rule, Technique, maneuver, trait, or specific situation allows it.
 
 ---
 
 ## Free Actions
 
-Free Actions are brief enough that they do not justify a rhythm cost or Attrition on their own.
+A **Free Action** is a brief action that does not justify a rhythm cost or Attrition by itself.
 
-They cover minimal gestures, immediate coordination, or details that keep the scene flowing without turning everything into a formal activation.
+It is used for minimal gestures, immediate coordination, or details that let the scene flow without turning everything into a formal activation.
 
 Examples:
 
 - dropping an object
-- saying a brief phrase with no tactical weight
+- saying a brief phrase
 - pointing in a direction
-- nodding, shaking a head, or issuing a short warning
-- slightly adjusting posture without altering the scene
+- nodding or shaking the head
+- issuing a short warning
+- adjusting posture without changing the situation
 
-### Important
+An action is not free only because it seems small. If it changes the scene in a meaningful way, demands precision under pressure, substitutes an Active Action, or is repeated to create advantages without cost, the Narrator may assign rhythm cost, Attrition, or both.
 
-An action is not free just because it seems small. If an action:
-
-- meaningfully changes the state of the scene
-- demands real precision under pressure
-- substitutes something that would normally be an Active Action
-- is repeated abusively to multiply effects without cost
-
-the Narrator may decide it is no longer free and assign it a rhythm cost, Attrition, or both.
-
-Free Actions exist to maintain naturalness and flow — not to multiply advantages without cost.
+Free Actions exist to preserve flow, not to multiply effects without cost.
 
 ---
 
-## Relation to the ATB
+## Rhythm Costs
 
-| Type | When it occurs | ATB effect |
-| --- | --- | --- |
-| Active Action | During the character's normal activation | Advances marker by rhythm cost |
-| Reaction | By trigger, outside natural activation | Also advances the marker |
-| Free Action | At any reasonable moment | Does not normally alter position, unless the Narrator decides otherwise |
+Rhythm costs indicate how far the creature’s marker advances on the ATB timeline after acting.
+
+| Category | Rhythm cost |
+| --- | --- |
+| Free | 0 |
+| Quick | 3 |
+| Standard | 5 |
+| Heavy | 7 |
+| Variable | Defined by the rule, Technique, or effect |
+
+Rhythm cost does not always measure physical duration. It also measures recovery, exposure, commitment, and lost opportunity within combat.
 
 ---
 
 ## Base Actions
 
-The following actions are available to any character in a combat or high-tension scene. Each entry specifies its type, rhythm cost, and base Attrition cost.
+These actions are available to any character in combat or in a high-pressure scene.
+
+| Action | Type | Rhythm | Base Attrition |
+| --- | --- | --- | --- |
+| Movement | Active Action | 5 | 1 |
+| Natural weapon attack | Active Action | 5 | 1 |
+| One-handed weapon attack | Active Action | 5 | 1 |
+| Two-handed weapon attack | Active Action | 7 | 1 |
+| Two-weapon attack | Active Action | 7 | 1 |
+| Interact | Active Action | 3 | 0 or 1 |
+| Hide | Active Action | 5 | 1 |
+| Use Specialization | Active Action | 5 | 1 |
+| Use Technique | Variable | Variable | Variable |
+| Drop | Free Action | 0 | 0 |
+| Speak briefly | Free Action | 0 | 0 |
+
+The listed Attrition is the base cost. Rules, conditions, Techniques, or circumstances may modify it.
 
 ---
 
-### Movement
+## Movement
 
-A Movement represents the character's deliberate displacement through the combat space. Closing in on an advantageous position, retreating from a threat, flanking an enemy, crossing a dangerous zone — any change of position with tactical intent is a Movement. The distance covered and the difficulties encountered depend on the type of terrain and the circumstances of the scene.
+A **Movement** represents deliberate displacement within a combat or high-pressure scene.
+
+It can be used to:
+
+- advance toward a position
+- retreat
+- flank
+- cross a dangerous zone
+- reach cover
+- separate from a threat
 
 **Type:** Active Action  
-**Rhythm cost:** 5 (Standard)  
+**Rhythm cost:** 5  
 **Attrition:** 1
 
-The base distance comes from the character's species speed values. Terrain does not change the rhythm cost: what changes is how far the character advances, whether the path requires a roll, and the consequences of the movement.
+The base distance comes from the character’s species speed. Terrain does not change the rhythm cost. It changes how far the character moves, whether the path requires a roll, or what consequences the movement produces.
 
 | Condition | Effect on distance |
 | --- | --- |
@@ -156,119 +171,186 @@ The base distance comes from the character's species speed values. Terrain does 
 | Crawling | Half speed |
 | Running | Double speed |
 
-Swimming, climbing, and jumping each require a Specialization Roll using their matching specialization — Swim, Climb, or Jump. The Narrator calls for it before or during the Movement, depending on what the path demands.
+Swimming, climbing, and jumping are part of Movement when used to travel through space. Each may require an appropriate Specialization Roll: **Swim**, **Climb**, or **Jump**.
+
+The Narrator calls for the roll before or during the Movement depending on the risk of the path.
 
 ---
 
-### Attack
+## Attack
 
-An attack is a direct attempt to deal damage or physical pressure to a target. The attack family determines how the action resolves and where it sits on the ATB.
+An attack is a direct attempt to deal damage or physical pressure to a target.
 
-#### Natural Weapons
+Every attack is resolved with an **Attack Roll** (**A.R.**) unless a specific rule states otherwise. The attack family determines rhythm cost, Attrition, and any additional procedure.
 
-Natural weapons are claws, bite, horns, tail — any offensive element that is part of the creature's body. They require no equipment, cannot be disarmed, and are available as long as the character's body is functioning.
+---
+
+### Natural Weapons
+
+Natural weapons are offensive body parts: claws, bite, horns, tail, pincers, stingers, or similar structures.
+
+They require no equipment and cannot be disarmed as long as the creature’s body can use them.
 
 **Type:** Active Action  
-**Rhythm cost:** 5 (Standard)  
+**Rhythm cost:** 5  
 **Attrition:** 1
 
 Resolved with a standard A.R. using the corresponding competency and associated characteristic.
 
-#### One-Handed Weapon
+---
 
-A one-handed weapon attack covers the full family of offensive weapons held and operated with a single hand: short swords, axes, maces, combat daggers, and similar. It is the most versatile base attack: it leaves the other hand free and lets the character return to the ATB without significant delay. What distinguishes one weapon from another in this family is not the base rhythm cost but the effects they deal, the traits they carry, and the Techniques each one can activate.
+### One-Handed Weapon
+
+A one-handed weapon attack uses a weapon that can be held and operated with one hand: short sword, axe, mace, combat dagger, or equivalent weapon.
+
+This attack leaves the other hand free.
 
 **Type:** Active Action  
-**Rhythm cost:** 5 (Standard)  
+**Rhythm cost:** 5  
 **Attrition:** 1
 
 Resolved with a standard A.R.
 
-#### Two-Handed Weapon
+---
 
-Some weapons demand the whole body — greatswords, war axes, spears held with both hands, great mauls. What they gain in reach, mass, or threat has a price: execution is slower, recovery longer, and mistimed strikes leave real openings. They are weapons that alter the tempo of combat for both the one who wields them and those who face them.
+### Two-Handed Weapon
 
-**Type:** Active Action  
-**Rhythm cost:** 7 (Heavy)  
-**Attrition:** 1
+A two-handed weapon attack uses a weapon that requires full-body commitment: greatsword, war axe, spear held with both hands, great maul, or equivalent weapon.
 
-Resolved with a standard A.R. The character returns to the ATB later than with any other base attack.
-
-#### Two Weapons
-
-Fighting with a weapon in each hand allows the character to chain more strikes within a single activation. The dominant hand attacks without penalty; what determines how many additional hits land is the character's ability to sustain that coordination under pressure. It is not simply two attacks — it is a sequence that can collapse if skill does not keep up.
+These weapons often have greater reach, mass, or threat, but they delay the user’s next intervention.
 
 **Type:** Active Action  
-**Rhythm cost:** 7 (Heavy)  
+**Rhythm cost:** 7  
 **Attrition:** 1
 
-1. **Initial A.R.** with the dominant hand. No penalty.
-2. **S.R. for dual-wield combat** against the target's D.R. If the S.R. beats the D.R., the character may declare additional attacks.
-3. **Additional attacks:** 1 per 2 points of the character's Agility (minimum 1). Attacks alternate between both hands.
+Resolved with a standard A.R.
 
-The S.R. uses the dual-wield combat specialization with Agility as the associated characteristic.
+The character returns to the ATB later than with other base attacks.
 
 ---
 
-### Interact
+### Two Weapons
 
-Interact covers brief physical interventions that are neither attacks nor movement: picking up an object, opening or closing something, grabbing something within reach, activating a mechanism, adjusting equipment. These are actions that occur within the flow of combat but are not directed at an adversary. They require physical presence and attention — which is why they carry a rhythm cost — but they do not demand the commitment of an attack or the scope of a movement.
-
-**Type:** Active Action  
-**Rhythm cost:** 3 (Quick)  
-**Attrition:** 1\*
-
-**Weapon change:** Changing the weapon in hand requires two Interact actions — one to set aside the current weapon and one to draw the new one. If the character drops the current weapon first (Free Action), only one Interact action is needed to draw the next.
-
-\* Attrition is generated only when the interaction occurs under real scene pressure. Trivial or unpressured interactions generate no Attrition.
-
----
-
-### Hide
-
-Hide is the deliberate attempt to leave the enemies' precise localization. It does not make the character invisible and does not erase physical evidence: it creates tactical uncertainty about where the character is and where they may act from.
+Fighting with two weapons allows the character to chain attacks within the same activation. The main hand performs the initial attack. Additional attacks depend on the character’s coordination under pressure.
 
 **Type:** Active Action  
-**Rhythm cost:** 5 (Standard)  
+**Rhythm cost:** 7  
 **Attrition:** 1
 
-To use this action, the character needs a real opening. They must have Medium or Total Cover, be outside effective visual range, exploit reduced Visibility, use a sufficient distraction, or rely on a Technique, trait, artifact, or preparation that allows hiding.
+Procedure:
 
-A character cannot simply vanish in plain sight while a relevant enemy clearly has them localized through an applicable sense. If someone can see, hear, smell, or otherwise perceive them without obstruction, the character must first break that localization.
+1. Make an **initial A.R.** with the main hand, without penalty.
+2. Make a **dual-wield combat S.R.** against the target’s D.R.
+3. If the S.R. exceeds the D.R., you may declare additional attacks.
+4. Additional attacks alternate between both hands.
 
-Hide is resolved with an appropriate Specialization Roll according to the fiction — such as Stealth, Survival, or another specialization authorized by a Technique — against the environment difficulty or enemy Perception. On success, the character gains Concealment against the affected enemies. The full rules for Concealment, approximate position, and detection are found in Cover, Visibility, and Concealment.
+The S.R. uses the **Dual-Wield Combat** specialization and **Agility** as the associated characteristic.
+
+The character gains `1` additional attack for every `2` points of Agility, with a minimum of `1`.
 
 ---
 
-### Specialization
+## Interact
 
-A Specialization represents the use of any trained skill in the context of a hostile scene: jumping an obstacle, climbing under threat, swimming against a current while combat continues, tracking in motion, deciphering an inscription before the enemy arrives, reading an adversary's body language, crafting something under pressure. The skill may be physical, mental, or social — the scene imposes the same pressure regardless of which one is being used.
+**Interact** covers brief physical interventions that are neither attacks nor movement.
+
+It can be used to:
+
+- take an object
+- pick something up from the ground
+- open or close something
+- activate a mechanism
+- adjust equipment
+- store or draw an accessible object
 
 **Type:** Active Action  
-**Rhythm cost:** 5 (Standard)  
-**Attrition:** 1
+**Rhythm cost:** 3  
+**Attrition:** 1 under real pressure
 
-A Specialization produces a narrative effect: the character clears the gap, deciphers the code, detects the trap. If that result has direct mechanical consequences, those effects are resolved through the actions that follow or through a Technique.
+Attrition is only generated when the interaction occurs under active scene pressure. A trivial interaction with no immediate risk does not generate Attrition.
+
+### Weapon Change
+
+Changing the weapon the character holds requires two Interact actions:
+
+1. set aside or store the current weapon
+2. draw the new weapon
+
+If the character first drops the current weapon as a Free Action, only one Interact action is needed to draw the new weapon.
 
 ---
 
-### Techniques
+## Hide
 
-Techniques are the result of accumulated training expressed in a concrete action. Where a Specialization produces a narrative effect, a Technique adds a defined mechanical effect within the same activation — no additional steps, no waiting for the next action. That ability to combine what is done with what is produced mechanically is what distinguishes them, and what justifies that they are only accessible through competencies.
+**Hide** is the deliberate attempt to leave the enemies’ precise localization.
+
+It does not make the character invisible. It does not erase tracks. It creates doubt about exactly where the character is and where they can act from.
+
+**Type:** Active Action  
+**Rhythm cost:** 5  
+**Attrition:** 1
+
+To hide, the character needs a real opportunity. They must meet at least one of these conditions:
+
+- have Medium or Total Cover
+- be outside effective visual range
+- exploit reduced Visibility
+- use a sufficient distraction
+- have a Technique, trait, artifact, or preparation that allows hiding
+
+A character cannot vanish in plain sight while a relevant enemy clearly has them localized through an applicable sense. If someone sees, hears, smells, or otherwise perceives them without obstruction, the character must first break that localization.
+
+Hide is resolved with a Specialization Roll appropriate to the fiction, such as **Stealth**, **Survival**, or another specialization authorized by a Technique.
+
+The roll is compared against the environment difficulty or enemy Perception. On success, the character gains **Concealment** against the affected enemies.
+
+The full rules for Concealment, approximate position, and detection are found in **Cover, Visibility, and Concealment**.
+
+---
+
+## Use Specialization
+
+Using a **Specialization** means applying a trained skill within a hostile or high-pressure scene.
+
+It can cover actions such as:
+
+- jumping an obstacle
+- climbing under threat
+- swimming against a current
+- tracking while moving
+- interpreting an inscription before an enemy arrives
+- reading an adversary’s body language
+- crafting or adjusting something under pressure
+
+**Type:** Active Action  
+**Rhythm cost:** 5  
+**Attrition:** 1
+
+A Specialization produces a narrative or practical result: the character clears the gap, deciphers the code, detects the trap, or reaches a position.
+
+If that result has a direct mechanical consequence, that consequence must come from a specific rule, a later action, or a Technique.
+
+---
+
+## Use Technique
+
+A **Technique** is a trained application that produces a defined mechanical consequence.
+
+Where a Specialization opens a possibility, a Technique turns that possibility into an immediate effect.
 
 **Type:** Variable  
 **Rhythm cost:** Defined by the Technique  
 **Attrition:** Defined by the Technique
 
-Most are Active Actions; some function as Reactions and may trigger outside the normal sequence if their condition allows it.
+Most Techniques are Active Actions. Some function as Reactions if they have a trigger that allows it.
 
-The full catalog of Techniques and their activation conditions is found in the Techniques chapter.
+The full catalog of Techniques and their activation conditions is found in the **Techniques** chapter.
 
 ---
 
-### Drop
+## Drop
 
-There are moments when the most useful thing is simply to open the hand: releasing the off-hand weapon to use that hand for something else, letting go of an object that is no longer part of the action, freeing something before the next movement begins. When the object is not involved in any active maneuver, doing so costs nothing.
+**Drop** covers letting go of an object the character is holding, as long as that object is not committed to an active maneuver.
 
 **Type:** Free Action  
 **Rhythm cost:** 0  
@@ -276,15 +358,17 @@ There are moments when the most useful thing is simply to open the hand: releasi
 
 This covers:
 
-- releasing a weapon in the off-hand while the main hand acts
+- dropping a weapon from the inactive hand
 - letting go of an object before or after the main action
 - releasing something that is no longer part of what the character is doing
 
-An object that is actively part of a grip or committed joint maneuver cannot be released for free — that requires an Interact action (rhythm cost 3).
+An object that is part of an active grapple, struggle, block, joint maneuver, or committed situation cannot be dropped for free. In that case, it requires an Interact action.
 
-### Speak
+---
 
-Not everything said requires time. A warning, a signal, a name called out to the nearest ally — words that transmit information without interrupting the character's flow or advancing their marker on the ATB.
+## Speak
+
+**Speak** covers brief communication that does not try to alter another creature’s will, emotion, or decision.
 
 **Type:** Free Action  
 **Rhythm cost:** 0  
@@ -292,14 +376,22 @@ Not everything said requires time. A warning, a signal, a name called out to the
 
 This covers:
 
-- a tactical signal or brief warning
-- a one-word or short-phrase command directed at an ally
+- a brief warning
+- a tactical signal
+- a short command directed at an ally
 - an involuntary exclamation
+- a phrase that transmits immediate information
 
-Deceiving, persuading, negotiating, or applying social pressure is not free. The distinction is not one of length but of function: transmitting information is free; attempting to influence is not.
+Deceiving, persuading, negotiating, intimidating, calming, or provoking is not free. The distinction does not depend only on the length of the phrase, but on its function.
+
+Transmitting immediate information can be free. Trying to influence another participant requires an appropriate action.
 
 ---
 
 ## Example
 
-A character is holding a corridor while an ally withdraws. The character can shout "Left side!" as a Free Action because that line only transmits immediate information. If the same character tries to calm a panicking ally, provoke an enemy, or force a surrender, that is no longer free: the action is now trying to alter another participant's decision state and must be resolved through the appropriate action structure.
+A character holds a corridor while an ally withdraws.
+
+They can shout “Left!” as a Free Action because the phrase only transmits immediate information.
+
+If that same character tries to calm a panicking ally, provoke an enemy, or force a surrender, it is no longer free. The action now tries to alter another participant’s decision state and must be resolved through the appropriate action structure.

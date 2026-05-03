@@ -32,17 +32,29 @@ section_modes:
 
 # Impacto Crítico y Romper Partes
 
-El Impacto Crítico define cuándo un golpe encontró una entrada excepcional. Romper Partes define qué puede hacer ese golpe contra una estructura concreta: una pieza de armadura, un escudo, un arma, una mandíbula, una placa natural o cualquier parte que el encuentro haya vuelto relevante.
+El **Impacto Crítico** define cuándo un golpe encontró una entrada excepcional.
 
-Este sistema no convierte todos los críticos en daño adicional automático. Separa tres preguntas distintas: si el golpe fue crítico, si existe un objetivo rompible válido y si la Potencia del ataque supera la Durabilidad del objetivo.
+**Romper Partes** define qué puede hacer ese golpe contra una estructura concreta: una pieza de armadura, un escudo, un arma, una mandíbula, una placa natural o cualquier parte que el encuentro haya vuelto relevante.
+
+Este sistema no convierte todos los críticos en daño adicional automático. Separa tres preguntas:
+
+1. ¿El golpe produjo Impacto Crítico?
+2. ¿Existe un objetivo rompible válido?
+3. ¿La Potencia Crítica supera la Durabilidad del objetivo?
+
+Un crítico abre una oportunidad. La ruptura determina si esa oportunidad cambia la estructura del objetivo.
 
 ---
 
 ## Impacto Crítico
 
-Un Impacto Crítico ocurre cuando el dado crítico designado de la Tirada de Impacto muestra su valor máximo.
+Un **Impacto Crítico** ocurre cuando el dado crítico designado de la Tirada de Impacto muestra su valor máximo.
 
-Cuando una Tirada de Impacto usa varios dados, el atacante designa un dado antes de tirar. En mesa, se usa un dado de color distinto. En una herramienta digital, se etiqueta uno de los dados como crítico. Solo ese dado puede validar Impacto Crítico.
+Cuando una Tirada de Impacto usa varios dados, el atacante designa un dado antes de tirar.
+
+En mesa, se recomienda usar un dado de color distinto. En digital, el dado puede marcarse con una etiqueta equivalente.
+
+Solo ese dado puede validar Impacto Crítico.
 
 | Dado de Impacto | Resultado crítico |
 | --- | ---: |
@@ -54,30 +66,42 @@ Cuando una Tirada de Impacto usa varios dados, el atacante designa un dado antes
 
 Los demás dados de la Tirada de Impacto suman daño o presión normalmente. No validan crítico por sí solos, aunque muestren su valor máximo.
 
-### Ejemplo: dado crítico designado
+---
 
-Un personaje tira `3d8` de Impacto. Antes de tirar, declara que el dado rojo es el dado crítico. Si el dado rojo muestra `8`, hay Impacto Crítico. Si los otros dos dados muestran `8` y el dado rojo no, el Impacto aumenta por sus valores, pero no hay Impacto Crítico.
+## Ejemplo: dado crítico designado
+
+Un personaje tira `3d8` de Impacto.
+
+Antes de tirar, declara que el dado rojo es el dado crítico.
+
+Si el dado rojo muestra `8`, hay Impacto Crítico.
+
+Si los otros dos dados muestran `8` y el dado rojo no, el Impacto aumenta por sus valores, pero no hay Impacto Crítico.
 
 ---
 
-## Qué Permite un Impacto Crítico
+## Qué permite un Impacto Crítico
 
 Un Impacto Crítico permite acceder a opciones críticas definidas por el arma, Técnica, objetivo o encuentro.
 
 Por defecto, puede permitir:
 
-- intentar Romper Partes contra un objetivo rompible declarado;
-- aplicar daño crítico si el modelo del PNJ lo define;
-- activar una Técnica que requiera Impacto Crítico;
-- aplicar una consecuencia física si el ataque o la parte la declaran.
+- intentar Romper Partes contra un objetivo rompible declarado
+- aplicar daño crítico si el modelo del PNJ lo define
+- activar una Técnica que requiera Impacto Crítico
+- aplicar una consecuencia física si el ataque, la parte o el objetivo la declaran
 
-Un Impacto Crítico no fuerza una Herida Crítica contra personajes jugadores por sí mismo. La severidad de la herida sigue dependiendo de la relación entre Impacto y Bloqueo, salvo que una regla específica aumente esa severidad.
+Un Impacto Crítico no fuerza una Herida Crítica contra personajes jugadores por sí mismo.
+
+La severidad de la Herida sigue dependiendo de la relación entre Impacto y Umbral de Herida, salvo que una regla específica aumente esa severidad.
 
 ---
 
-## Declarar un Objetivo Rompible
+## Declarar un objetivo rompible
 
-Para intentar Romper Partes, el atacante debe declarar un objetivo rompible antes de resolver la ruptura. Algunas Técnicas pueden exigir que esa declaración ocurra antes de la Tirada de Ataque o antes de la Tirada de Impacto.
+Para intentar Romper Partes, el atacante debe declarar un objetivo rompible.
+
+La declaración ocurre antes de resolver la ruptura. Algunas Técnicas pueden exigir que el objetivo rompible se declare antes de la Tirada de Ataque o antes de la Tirada de Impacto.
 
 Un objetivo rompible debe cumplir tres condiciones:
 
@@ -87,34 +111,40 @@ Un objetivo rompible debe cumplir tres condiciones:
 
 Objetivos válidos pueden incluir:
 
-- arma;
-- escudo;
-- pieza de armadura;
-- objeto sostenido o portado;
-- mandíbula;
-- cuerno;
-- caparazón;
-- ala;
-- cola;
-- extremidad;
-- articulación;
-- placa natural;
-- punto vital;
-- parte destructible definida por el encuentro.
+- arma
+- escudo
+- pieza de armadura
+- objeto sostenido o portado
+- mandíbula
+- cuerno
+- caparazón
+- ala
+- cola
+- extremidad
+- articulación
+- placa natural
+- punto vital
+- parte destructible definida por el encuentro
 
-Tejido blando ordinario no se trata como estructura rompible por defecto. Puede ser objetivo de daño, herida o Agravio, pero no de Romper Partes, salvo que la criatura tenga esa zona definida como estructura, punto vital o parte destructible.
+Tejido blando ordinario no se trata como estructura rompible por defecto.
+
+Puede ser objetivo de daño, Herida o Agravio, pero no de Romper Partes, salvo que la criatura tenga esa zona definida como estructura, punto vital o parte destructible.
 
 ---
 
 ## Potencia Crítica
 
-La Potencia Crítica mide si el golpe puede romper la estructura declarada.
+La **Potencia Crítica** mide si el golpe puede romper la estructura declarada.
 
 ```text
-Potencia Crítica = Potencia base x Multiplicador de Potencia
+Potencia Crítica = Potencia base × Multiplicador de Potencia
 ```
 
-La Potencia base proviene del material, construcción o perfil del arma. El Multiplicador de Potencia proviene del tipo de arma.
+La Potencia base proviene del material, construcción o perfil del arma.
+
+El Multiplicador de Potencia proviene del tipo de arma.
+
+Si el resultado produce fracciones o decimales, redondea hacia arriba salvo que una regla específica indique lo contrario.
 
 | Tipo de arma | Multiplicador | Lectura de ruptura |
 | --- | ---: | --- |
@@ -128,11 +158,13 @@ La Potencia base proviene del material, construcción o perfil del arma. El Mult
 | Armas a distancia | 60% | Perforación o impacto a distancia con ruptura limitada. |
 | Armas flexibles | 30% | Control y desbalance más que destrucción material directa. |
 
-Los valores concretos de Potencia base pertenecen al catálogo de armas, materiales y partes de criatura. Esta sección define cómo se usan, no qué valor tiene cada material.
+Los valores concretos de Potencia base pertenecen al catálogo de armas, materiales y partes de criatura.
+
+Esta sección define cómo se usan esos valores, no qué Potencia tiene cada material.
 
 ---
 
-## Resolver la Ruptura
+## Resolver la ruptura
 
 Cuando existe un intento válido de ruptura, compara Potencia Crítica contra Durabilidad.
 
@@ -143,65 +175,118 @@ Potencia Crítica >= Durabilidad del objetivo
 | Comparación | Resultado |
 | --- | --- |
 | Potencia Crítica >= Durabilidad | El objetivo se rompe, se deshabilita o queda inutilizado. |
-| Potencia Crítica < Durabilidad | El objetivo no se rompe y pierde 1 punto de Durabilidad. |
+| Potencia Crítica < Durabilidad | El objetivo no se rompe y pierde `1` punto de Durabilidad. |
 
-La pérdida de Durabilidad solo ocurre durante un intento válido de ruptura. Un ataque normal no reduce Durabilidad por defecto.
+La pérdida de Durabilidad solo ocurre durante un intento válido de ruptura.
 
 Un intento válido puede surgir por:
 
-- Impacto Crítico contra un objetivo rompible declarado;
-- Técnica que permita romper sin Impacto Crítico;
-- Técnica que amplíe el rango de validación de ruptura;
-- regla específica de arma, criatura, objeto o escena.
+- Impacto Crítico contra un objetivo rompible declarado
+- Técnica que permita romper sin Impacto Crítico
+- Técnica que amplíe el rango de validación de ruptura
+- regla específica de arma, criatura, objeto o escena
 
-### Ejemplo: ruptura fallida
-
-Un atacante logra Impacto Crítico e intenta romper un escudo con Durabilidad `9`. Su Potencia Crítica final es `7`. El escudo no se rompe, pero pierde `1` punto de Durabilidad y queda en `8`. Su Bloqueo no cambia por esa pérdida. El escudo sigue funcionando hasta romperse.
+Un ataque normal no reduce Durabilidad por defecto.
 
 ---
 
-## Equipo Roto
+## Ejemplo: ruptura fallida
+
+Un atacante logra Impacto Crítico e intenta romper un escudo con Durabilidad `9`.
+
+Su Potencia Crítica final es `7`.
+
+El escudo no se rompe, pero pierde `1` punto de Durabilidad y queda en `8`.
+
+Su Bloqueo no cambia por esa pérdida. El escudo sigue funcionando hasta romperse.
+
+---
+
+## Equipo roto
 
 Una pieza de equipo rota deja de aportar la función que dependía de su integridad.
 
-Si una armadura, escudo o protección aportaba Bloqueo, deja de aportar ese Bloqueo hasta ser reparada o reemplazada. Si un arma se rompe, no puede usarse para ataques normales ni Técnicas que requieran esa arma, salvo que una regla permita usarla en estado dañado.
+Si una armadura, escudo o protección aportaba Bloqueo, deja de aportar ese Bloqueo hasta ser reparada o reemplazada.
 
-La pérdida de Durabilidad no reduce Bloqueo de forma gradual. La pieza funciona hasta romperse. Esto evita recalcular valores menores después de cada golpe y mantiene la mesa enfocada en el momento de ruptura.
+Si un arma se rompe, no puede usarse para ataques normales ni Técnicas que requieran esa arma, salvo que una regla permita usarla en estado dañado.
 
----
+La pérdida de Durabilidad no reduce Bloqueo de forma gradual.
 
-## Partes de Criatura
-
-Una parte de criatura puede tener Tirada de Defensa, HP, Bloqueo, Potencia, Durabilidad y habilidades vinculadas.
-
-Romper una parte no solo reduce números. Cambia qué puede hacer la criatura. Una mandíbula rota puede impedir un aliento. Un ala rota puede impedir vuelo. Una placa rota puede abrir un punto vulnerable. Un cuerno roto puede terminar una señal de mando.
-
-El bloque del enemigo debe indicar qué partes existen, qué valores tienen y qué habilidades dependen de ellas. Las criaturas importantes deberían organizarse en cinco lugares principales para que la mesa pueda leerlas sin perderse en anatomía excesiva.
-
-### Ejemplo: parte de criatura
-
-Un lobo de hielo tiene `Mandíbula` como parte rompible. Esa parte tiene Durabilidad propia y sostiene la habilidad `Aliento Helado`. Si los personajes rompen la Mandíbula, el lobo no puede usar `Aliento Helado` mientras esa parte siga rota, aunque el resto de la criatura conserve HP.
+La pieza funciona hasta romperse. Esto evita recalcular valores menores después de cada golpe y mantiene la mesa enfocada en el momento de ruptura.
 
 ---
 
-## Técnicas y Ruptura
+## Ruptura y golpe actual
+
+Por defecto, romper una pieza no elimina retroactivamente el Bloqueo, defensa o efecto que esa pieza ya aportó al golpe que se está resolviendo.
+
+La ruptura afecta el estado de la pieza desde ese momento en adelante.
+
+Una Técnica, arma, regla de criatura o efecto específico puede indicar lo contrario. Si lo hace, debe declarar claramente que la ruptura afecta el Impacto actual, ignora Bloqueo actual o modifica la resolución en curso.
+
+---
+
+## Partes de criatura
+
+Una parte de criatura puede tener:
+
+- Tirada de Defensa
+- HP
+- Bloqueo
+- Potencia
+- Durabilidad
+- habilidades vinculadas
+
+Romper una parte no solo reduce números. Cambia qué puede hacer la criatura.
+
+Una mandíbula rota puede impedir un aliento. Un ala rota puede impedir vuelo. Una placa rota puede abrir un punto vulnerable. Un cuerno roto puede terminar una señal de mando.
+
+El bloque del enemigo debe indicar:
+
+- qué partes existen
+- qué valores tienen
+- qué habilidades dependen de ellas
+- qué ocurre cuando una parte se rompe
+
+Las criaturas importantes deberían organizarse en cinco lugares principales para que la mesa pueda leerlas sin perderse en anatomía excesiva.
+
+---
+
+## Ejemplo: parte de criatura
+
+Un lobo de hielo tiene `Mandíbula` como parte rompible.
+
+Esa parte tiene Durabilidad propia y sostiene la habilidad `Aliento Helado`.
+
+Si los personajes rompen la Mandíbula, el lobo no puede usar `Aliento Helado` mientras esa parte siga rota, aunque el resto de la criatura conserve HP.
+
+---
+
+## Técnicas y ruptura
 
 Las Técnicas pueden modificar la relación normal entre crítico y ruptura.
 
 Una Técnica puede:
 
-- permitir un intento de ruptura sin Impacto Crítico;
-- ampliar los resultados del dado crítico que validan ruptura;
-- aumentar Potencia;
-- ignorar parte de la Durabilidad;
-- declarar como rompible una parte que normalmente no lo sería;
-- aplicar una consecuencia adicional si la ruptura ocurre.
+- permitir un intento de ruptura sin Impacto Crítico
+- ampliar los resultados del dado crítico que validan ruptura
+- aumentar Potencia Crítica
+- ignorar parte de la Durabilidad
+- declarar como rompible una parte que normalmente no lo sería
+- aplicar una consecuencia adicional si la ruptura ocurre
+- hacer que la ruptura afecte el golpe actual
 
-Una Técnica debe decir exactamente cuál de esas cosas permite. Si solo aumenta daño, no permite ruptura por sí misma. Si solo amplía validación de ruptura, no aumenta Potencia. Si declara una parte nueva como objetivo, todavía debe existir una forma creíble de alcanzarla.
+Una Técnica debe decir exactamente cuál de esas cosas permite.
+
+Si solo aumenta daño, no permite ruptura por sí misma.
+
+Si solo amplía validación de ruptura, no aumenta Potencia Crítica.
+
+Si declara una parte nueva como objetivo, todavía debe existir una forma creíble de alcanzarla.
 
 ---
 
-## Orden de Resolución
+## Orden de resolución
 
 Cuando un ataque puede generar ruptura, usa este orden:
 
@@ -213,10 +298,12 @@ Cuando un ataque puede generar ruptura, usa este orden:
 6. Verificar si el dado crítico designado valida Impacto Crítico o si una Técnica permite ruptura de otra forma.
 7. Calcular Potencia Crítica.
 8. Comparar Potencia Crítica contra Durabilidad.
-9. Aplicar ruptura o pérdida de 1 Durabilidad.
-10. Resolver daño, herida, HP, cambio de fase o consecuencia adicional según el objetivo.
+9. Aplicar ruptura o pérdida de `1` Durabilidad.
+10. Resolver daño, Herida, HP, cambio de fase o consecuencia adicional según el objetivo.
 
-Si una regla altera este orden, debe decirlo. Una Técnica reactiva, una trampa, una criatura o una parte de jefe pueden insertar pasos propios, pero la mesa siempre debe saber cuándo se declaró el objetivo rompible y cuándo se valida la ruptura.
+Si una regla altera este orden, debe decirlo.
+
+Una Técnica reactiva, una trampa, una criatura o una parte de jefe pueden insertar pasos propios, pero la mesa siempre debe saber cuándo se declaró el objetivo rompible y cuándo se valida la ruptura.
 
 ---
 
@@ -224,6 +311,33 @@ Si una regla altera este orden, debe decirlo. Una Técnica reactiva, una trampa,
 
 Un ataque no rompe cualquier cosa solo porque fue crítico.
 
-El objetivo debe ser alcanzable, materialmente afectable y relevante para la escena. Un arma ligera puede encontrar críticos con frecuencia, pero fallar contra Durabilidad alta. Un arma pesada puede romper estructuras duras, pero no hacer el trabajo fino de una daga. La elección del arma importa porque la ruptura no mide la misma superficie que el daño.
+El objetivo debe ser:
+
+- alcanzable
+- materialmente afectable
+- relevante para la escena
+
+Un arma ligera puede encontrar críticos con frecuencia, pero fallar contra Durabilidad alta.
+
+Un arma pesada puede romper estructuras duras, pero no hacer el trabajo fino de una daga.
+
+La elección del arma importa porque la ruptura no mide la misma superficie que el daño.
 
 Las reglas de extracción de recursos no se resuelven aquí. Si una parte rota pierde valor como material, trofeo o muestra, se define en la sección de extracción.
+
+---
+
+## Resumen rápido
+
+| Elemento | Regla |
+| --- | --- |
+| Impacto Crítico | Ocurre si el dado crítico designado muestra su valor máximo. |
+| Varios dados de Impacto | Solo el dado designado valida crítico. |
+| Romper Partes | Requiere Impacto Crítico o una regla que permita ruptura. |
+| Objetivo rompible | Debe ser alcanzable, afectable y relevante. |
+| Ruptura exitosa | Potencia Crítica >= Durabilidad. |
+| Ruptura fallida | El objetivo pierde `1` Durabilidad. |
+| Ataques normales | No reducen Durabilidad por defecto. |
+| Equipo roto | Pierde la función que dependía de su integridad. |
+| Bloqueo | No disminuye gradualmente por pérdida de Durabilidad. |
+| Golpe actual | La ruptura no elimina retroactivamente Bloqueo o defensa salvo regla específica. |

@@ -16,9 +16,11 @@ authority_refs:
   - Transcendence-design/docs/system/backgrounds.md
   - Transcendence-design/docs/system/specializations.md
   - Transcendence-design/docs/system/characteristics.md
+  - Transcendence-design/docs/system/attrition-fatigue.md
   - Transcendence-design/docs/adr/system-abilities-and-specializations.md
   - Transcendence-design/docs/adr/system-specialization-rank-restructure.md
   - Transcendence-design/data/system/backgrounds.yaml
+  - Transcendence-design/data/system/attrition-fatigue.yaml
   - Transcendence-design/data/system/specializations.yaml
   - Transcendence-design/data/system/specializations-catalog.yaml
   - Transcendence-design/data/system/competencies.yaml
@@ -33,7 +35,7 @@ section_modes:
 
 La creación de personaje define quién eres al inicio de la aventura, de dónde vienes y qué capacidades has desarrollado antes de entrar en juego.
 
-Para crear un personaje, tomarás decisiones en este orden:
+Para crear un personaje, sigue estos pasos en orden:
 
 1. Define el concepto.
 2. Anota las características base.
@@ -168,7 +170,7 @@ El Artista Marcial ha dedicado su vida al perfeccionamiento del cuerpo, el comba
 | Rasgo | Valor |
 | --- | --- |
 | Afinidad mayor | Física |
-| Especializaciones iniciales | 2 Físicas + 1 Mental |
+| Especializaciones iniciales | 2 Físicas + 1 de Mental, Social o Conocimiento |
 | Regla adicional | Puede sustituir cualquier cantidad de competencias iniciales en armas naturales de su especie por armas fabricadas. |
 
 ---
@@ -180,7 +182,7 @@ El Artesano transforma materia, herramientas y recursos en objetos útiles, bell
 | Rasgo | Valor |
 | --- | --- |
 | Afinidad mayor | Artes y Oficios |
-| Especializaciones iniciales | 2 de Artes y Oficios + 1 de Conocimiento o 1 Social |
+| Especializaciones iniciales | 2 de Artes y Oficios + 1 de cualquier categoría |
 
 ---
 
@@ -191,7 +193,7 @@ El Errante fue formado por el camino, la adaptación, la observación y la super
 | Rasgo | Valor |
 | --- | --- |
 | Afinidad mayor | Mental |
-| Especializaciones iniciales | 2 Mentales + 1 Física |
+| Especializaciones iniciales | 2 Mentales + 1 de Física, Social o Conocimiento |
 
 ---
 
@@ -202,7 +204,7 @@ El Custodio proviene de tradiciones, instituciones o deberes ligados a proteger 
 | Rasgo | Valor |
 | --- | --- |
 | Afinidad mayor | Conocimiento |
-| Especializaciones iniciales | 2 de Conocimiento + 1 Social o 1 Mental |
+| Especializaciones iniciales | 2 de Conocimiento + 1 de Física, Mental o Social |
 
 ---
 
@@ -305,10 +307,12 @@ Al terminar este paso, todas tus características finales deben estar calculadas
 
 Los atributos derivados se calculan después de aplicar especie y Sinapsis.
 
-Durante la creación, calcula dos atributos derivados:
+Durante la creación, calcula estos atributos derivados:
 
 - **Preparación**
 - **Resiliencia**
+- **Aguante**
+- **Cordura**
 
 Estos valores usan las características finales del personaje.
 
@@ -338,15 +342,43 @@ Valor mínimo: `1`.
 
 ---
 
+### Aguante
+
+El Aguante mide cuánta carga acumulada puede sostener el personaje antes de entrar en Fatiga.
+
+```text
+Aguante = 3 + (Tenacidad × 2)
+```
+
+La especialización universal inicial de Tenacidad ya está incluida indirectamente, porque aplica Sinapsis y aumenta Tenacidad durante la creación.
+
+---
+
+### Cordura
+
+La Cordura mide la estabilidad mental y anímica base del personaje frente a presión extrema, horror, corrupción o efectos que ataquen su equilibrio interno.
+
+```text
+Cordura = Compostura × 2
+```
+
+Valor mínimo: `1`.
+
+La interacción completa de Cordura con horror cósmico, corrupción y equipo se desarrolla en sus secciones correspondientes. Durante la creación, anota el valor base para que la hoja quede completa.
+
+---
+
 ### Redondeo
 
-Si el resultado produce fracciones o decimales, redondea hacia arriba.
+Si Preparación o Resiliencia producen fracciones o decimales, redondea hacia arriba.
 
 ```text
 1.1 → 2
 1.6 → 2
 2.0 → 2
 ```
+
+Aguante y Cordura no requieren redondeo con sus fórmulas actuales.
 
 Si más adelante una característica permanente aumenta, recalcula cualquier atributo derivado que dependa de ella.
 
@@ -380,7 +412,21 @@ Resiliencia = 4 / 3
 Resiliencia = 2
 ```
 
-Ambos valores se redondean hacia arriba.
+Calcula Aguante:
+
+```text
+Aguante = 3 + (2 × 2)
+Aguante = 7
+```
+
+Calcula Cordura:
+
+```text
+Cordura = 1 × 2
+Cordura = 2
+```
+
+Preparación y Resiliencia se redondean hacia arriba.
 
 ---
 
@@ -480,6 +526,8 @@ Al terminar la creación, tu personaje debe tener:
 | Especializaciones iniciales | 3 por trasfondo + 1 universal de Tenacidad |
 | Preparación | Calculada |
 | Resiliencia | Calculada |
+| Aguante | Calculado |
+| Cordura | Calculada |
 | Rasgos de Personalidad | Elegidos |
 | Atributos adicionales de especie | Registrados |
 
@@ -491,12 +539,12 @@ Con esto, el personaje está listo para entrar en juego.
 
 Una jugadora crea una exploradora de una especie con bonificador a Agilidad.
 
-Primero anota todas las características en `0`. Luego elige especie y aplica el bonificador a Agilidad.
+Primero anota todas las características en `0`. Luego elige especie y aplica el bonificador a Agilidad junto con las demás características indicadas por la especie.
 
 Después elige un trasfondo que le concede tres especializaciones iniciales. También escoge **Aclimatación** como especialización universal de Tenacidad.
 
 Ahora tiene cuatro especializaciones iniciales. Cada una está en nivel `1`, rango `Novato`, así que cada una activa Sinapsis y aumenta en `+1` su característica asociada.
 
-Solo después de aplicar especie y Sinapsis calcula Preparación y Resiliencia.
+Solo después de aplicar especie y Sinapsis calcula Preparación, Resiliencia, Aguante y Cordura.
 
 El orden importa porque cada paso modifica el siguiente.

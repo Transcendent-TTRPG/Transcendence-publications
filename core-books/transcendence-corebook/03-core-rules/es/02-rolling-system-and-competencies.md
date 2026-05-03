@@ -416,19 +416,9 @@ La especialización aumenta al superar pruebas apropiadas para el rango actual d
 
 ### Resistencias
 
-Las resistencias cubren peligros concretos. No se entrenan solo por repetición controlada. Suelen crecer por exposición, supervivencia y adaptación.
+Las resistencias cubren peligros concretos que buscan intoxicar, infectar, alterar, afligir o maldecir a una criatura. No se entrenan solo por repetición controlada. Suelen crecer por exposición, supervivencia y adaptación.
 
-#### Daño elemental
-
-**Bonificador**
-
-- Cada nivel de competencia otorga `+1` a la T.R. contra efectos producidos por daño elemental.
-
-#### Física
-
-**Bonificador**
-
-- Cada nivel de competencia otorga `+1` a la T.R. en casos generales de resistencia física.
+Las resistencias no reducen Impacto, daño elemental ni Heridas. El daño se resuelve por la relación entre Impacto, Bloqueo y las reglas de Heridas o PV. Si un ataque de fuego, agua, luz u otro origen elemental causa daño, ese daño sigue el flujo normal salvo que una regla específica diga lo contrario.
 
 #### Veneno
 
@@ -466,6 +456,13 @@ Las resistencias cubren peligros concretos. No se entrenan solo por repetición 
 Las resistencias aumentan con una T.R. fallida bajo Ventaja en el Aprendizaje, siempre que el personaje sufra y sobreviva al efecto correspondiente.
 
 Resistir por completo un peligro no enseña lo mismo que soportarlo.
+
+#### Sobre resistencia elemental
+
+La **Resistencia Elemental** y la **Vulnerabilidad Elemental** no son competencias. No progresan mediante Ventaja Evolutiva y no forman parte de las resistencias entrenables del personaje.
+
+Cuando una criatura, material, objeto, Técnica o efecto tenga resistencia o vulnerabilidad frente a un origen elemental, se resuelve mediante las reglas de **Daño Elemental y Afinidades**.
+
 
 ---
 

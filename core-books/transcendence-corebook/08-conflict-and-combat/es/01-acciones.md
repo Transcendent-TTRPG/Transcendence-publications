@@ -22,29 +22,13 @@ authority_refs:
   - Transcendence-design/data/system/attrition-fatigue.yaml
   - Transcendence-design/data/system/specializations.yaml
 section_modes:
-  - heading: "Atacar"
-    writing_mode: flavor
-  - heading: "Interactuar"
-    writing_mode: flavor
-  - heading: "Ocultarse"
-    writing_mode: flavor
-  - heading: "Especialización"
-    writing_mode: flavor
-  - heading: "Técnicas"
-    writing_mode: flavor
-  - heading: "Soltar"
-    writing_mode: flavor
-  - heading: "Hablar"
-    writing_mode: flavor
   - heading: "Ejemplo"
     writing_mode: example
 ---
 
 # Acciones
 
-En combate y en escenas de alta presión, todo lo que un personaje hace tiene un lugar y un costo dentro del flujo temporal. No todas las acciones ocupan ese lugar de la misma manera.
-
-Algunas exigen compromiso total y alteran el ritmo del personaje. Otras ocurren como respuesta a un peligro inmediato. Otras son tan breves que no justifican por sí solas un costo de tiempo o esfuerzo.
+En combate y en escenas de alta presión, cada acción tiene un lugar dentro del flujo temporal. Algunas acciones consumen la activación normal de una criatura. Otras ocurren como respuesta a un disparador. Otras son tan breves que no necesitan costo propio.
 
 Las acciones se dividen en tres tipos:
 
@@ -52,101 +36,134 @@ Las acciones se dividen en tres tipos:
 - **Reacciones**
 - **Acciones Gratuitas**
 
-Esta división no reemplaza a la línea de tiempo ATB. Existe para aclarar cómo entra cada tipo de acción dentro del flujo temporal del combate una vez que ese sistema ya está en juego.
+Esta división no reemplaza la línea de tiempo **ATB**. Indica cómo entra cada acción en ese sistema.
+
+---
+
+## Tipos de acción
+
+| Tipo | Cuándo ocurre | Efecto en el ATB |
+| --- | --- | --- |
+| Acción Activa | Durante la activación normal de la criatura | Desplaza la ficha según su costo de ritmo |
+| Reacción | Cuando un disparador permite responder fuera de la activación normal | Desplaza la ficha si la reacción tiene costo de ritmo |
+| Acción Gratuita | En un momento razonable de la escena | No suele desplazar la ficha |
 
 ---
 
 ## Acciones Activas
 
-Las Acciones Activas son aquellas que un personaje realiza de forma deliberada durante su activación normal en la línea de tiempo ATB. Representan lo que el personaje dedica su cuerpo, su atención o su intención principal en ese momento.
+Una **Acción Activa** es una acción deliberada realizada durante la activación normal de una criatura en la línea de tiempo ATB.
 
 Una Acción Activa:
 
-- ocurre durante la activación normal del personaje
-- tiene un costo de ritmo que desplaza su ficha en la línea de tiempo
+- ocurre durante la activación normal de la criatura
+- tiene costo de ritmo
 - puede generar Desgaste
-- altera de forma clara la situación de la escena
+- modifica la situación de la escena de forma clara
 
-Son la forma más común de actuar en combate y en escenas de alta presión.
+Atacar, moverse, ocultarse, interactuar bajo presión o usar una especialización en combate suelen ser Acciones Activas.
 
 ---
 
 ## Reacciones
 
-Las Reacciones son acciones permitidas por un disparador. No ocurren porque haya llegado la activación natural del personaje, sino porque algo en la escena ofrece — o exige — una respuesta inmediata.
+Una **Reacción** es una acción permitida por un disparador.
+
+No ocurre porque la criatura haya llegado a su activación normal, sino porque algo en la escena permite o exige una respuesta inmediata.
 
 Una Reacción puede usarse para:
 
-- interrumpir una acción entrante
-- protegerse o cubrir a otro personaje
+- responder a una amenaza entrante
+- protegerse
+- cubrir a otra criatura
+- interrumpir una acción
 - desviar un ataque
-- aprovechar un error o una apertura del enemigo
-- responder a una amenaza inminente
+- aprovechar una apertura
+- activar una Técnica con disparador reactivo
 
-**Las Reacciones no son gratuitas.**
+Las Reacciones no son gratuitas. Si una Reacción tiene costo de ritmo, desplaza la ficha de la criatura en el ATB. Si genera Desgaste, ese Desgaste se acumula normalmente.
 
-Aunque ocurran fuera de la activación natural del personaje, siguen formando parte del mismo sistema temporal. Por ello, una Reacción puede:
-
-- tener costo de ritmo
-- generar Desgaste
-- modificar la posición futura del personaje en el ATB
+Una criatura solo puede usar una Reacción cuando una regla, Técnica, maniobra, rasgo o situación específica lo permita.
 
 ---
 
 ## Acciones Gratuitas
 
-Las Acciones Gratuitas son acciones tan breves que no justifican por sí solas un costo de ritmo ni de Desgaste.
+Una **Acción Gratuita** es una acción breve que no justifica por sí sola costo de ritmo ni Desgaste.
 
-Se usan para gestos mínimos, coordinación inmediata o detalles que permiten que la escena fluya sin convertir todo en una activación formal.
+Se usa para gestos mínimos, coordinación inmediata o detalles que permiten que la escena fluya sin convertir todo en una activación formal.
 
 Ejemplos:
 
 - soltar un objeto
-- decir una frase breve sin intención táctica
+- decir una frase breve
 - señalar una dirección
-- asentir, negar o emitir una advertencia corta
-- ajustar ligeramente la postura sin alterar la escena
+- asentir o negar
+- emitir una advertencia corta
+- ajustar la postura sin cambiar la situación
 
-### Importante
+Una acción no es gratuita solo porque parece pequeña. Si cambia la escena de forma importante, exige precisión bajo presión, sustituye una Acción Activa o se repite para generar ventajas sin costo, el Narrador puede asignarle costo de ritmo, Desgaste o ambos.
 
-Una acción no es gratuita por parecer pequeña. Si una acción:
-
-- cambia de forma importante la situación de la escena
-- exige precisión real bajo presión
-- sustituye algo que normalmente sería una Acción Activa
-- se repite de forma abusiva para multiplicar efectos sin costo
-
-el Narrador puede decidir que deja de ser gratuita y pasa a costar ritmo, Desgaste o ambos.
-
-Las Acciones Gratuitas existen para mantener naturalidad y fluidez — no para multiplicar ventajas sin costo.
+Las Acciones Gratuitas existen para mantener fluidez, no para multiplicar efectos sin costo.
 
 ---
 
-## Relación con el ATB
+## Costos de ritmo
 
-| Tipo | Cuándo ocurre | Efecto en el ATB |
-| --- | --- | --- |
-| Acción Activa | Durante la activación normal del personaje | Desplaza la ficha según su costo de ritmo |
-| Reacción | Por disparador, fuera de la activación natural | También desplaza la ficha |
-| Acción Gratuita | En cualquier momento razonable | No suele alterar la posición, salvo decisión del Narrador |
+Los costos de ritmo indican cuánto se desplaza la ficha de la criatura en la línea de tiempo ATB después de actuar.
+
+| Categoría | Costo de ritmo |
+| --- | --- |
+| Gratuita | 0 |
+| Rápida | 3 |
+| Estándar | 5 |
+| Pesada | 7 |
+| Variable | Definido por la regla, Técnica o efecto |
+
+El costo de ritmo no siempre mide duración física. También mide recuperación, exposición, compromiso y pérdida de oportunidad dentro del combate.
 
 ---
 
-## Acciones Base
+## Acciones base
 
-Las siguientes acciones están disponibles para cualquier personaje en una escena de combate o alta presión. Cada una indica su tipo, su costo de ritmo y su costo de Desgaste base.
+Estas acciones están disponibles para cualquier personaje en combate o en una escena de alta presión.
+
+| Acción | Tipo | Ritmo | Desgaste base |
+| --- | --- | --- | --- |
+| Movimiento | Acción Activa | 5 | 1 |
+| Ataque con arma natural | Acción Activa | 5 | 1 |
+| Ataque con arma a una mano | Acción Activa | 5 | 1 |
+| Ataque con arma a dos manos | Acción Activa | 7 | 1 |
+| Ataque con dos armas | Acción Activa | 7 | 1 |
+| Interactuar | Acción Activa | 3 | 0 o 1 |
+| Ocultarse | Acción Activa | 5 | 1 |
+| Usar Especialización | Acción Activa | 5 | 1 |
+| Usar Técnica | Variable | Variable | Variable |
+| Soltar | Acción Gratuita | 0 | 0 |
+| Hablar brevemente | Acción Gratuita | 0 | 0 |
+
+El Desgaste indicado es el costo base. Algunas reglas, condiciones, Técnicas o circunstancias pueden modificarlo.
 
 ---
 
-### Movimiento
+## Movimiento
 
-Un Movimiento representa el desplazamiento deliberado del personaje a través del espacio de combate. Correr hacia una posición de ventaja, retroceder ante una amenaza, flanquear a un enemigo, cruzar una zona peligrosa — cualquier cambio de posición con intención táctica es un Movimiento. La distancia que puede recorrer y las dificultades que encuentra dependen del tipo de terreno y de las circunstancias de la escena.
+Un **Movimiento** representa un desplazamiento deliberado dentro de una escena de combate o alta presión.
+
+Puede usarse para:
+
+- avanzar hacia una posición
+- retroceder
+- flanquear
+- cruzar una zona peligrosa
+- alcanzar cobertura
+- separarse de una amenaza
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5 (Estándar)  
+**Costo de ritmo:** 5  
 **Desgaste:** 1
 
-La distancia base proviene de los valores de velocidad de la especie del personaje. El terreno no altera el costo de ritmo: lo que cambia es cuánto avanza el personaje, si el trayecto requiere una tirada, o las consecuencias del desplazamiento.
+La distancia base proviene de la velocidad de la especie del personaje. El terreno no cambia el costo de ritmo. Cambia cuánto avanza el personaje, si el trayecto requiere una tirada o qué consecuencias produce.
 
 | Condición | Efecto en la distancia |
 | --- | --- |
@@ -154,119 +171,186 @@ La distancia base proviene de los valores de velocidad de la especie del persona
 | Reptar | Velocidad a la mitad |
 | Correr | Velocidad al doble |
 
-Nadar, trepar y saltar exigen cada uno una Tirada de Especialización de su competencia correspondiente — Nadar, Trepar y Saltar. El Narrador la solicita antes o durante el Movimiento según lo que el trayecto requiera.
+Nadar, trepar y saltar forman parte del Movimiento cuando se usan para desplazarse. Cada uno puede requerir una Tirada de Especialización apropiada: **Nadar**, **Trepar** o **Saltar**.
+
+El Narrador solicita la tirada antes o durante el Movimiento según el riesgo del trayecto.
 
 ---
 
-### Atacar
+## Atacar
 
-Atacar es el intento directo de infligir daño o presión física sobre un objetivo. La familia de ataque determina cómo se resuelve la acción y qué lugar ocupa en el ATB.
+Atacar es el intento directo de causar daño o presión física sobre un objetivo.
 
-#### Armas Naturales
+Todo ataque se resuelve con una **Tirada de Ataque** (**T.A.**) salvo que una regla específica indique otro procedimiento. La familia de ataque determina el costo de ritmo, el Desgaste y cualquier procedimiento adicional.
 
-Las armas naturales son garras, mordida, cuernos, cola — cualquier elemento ofensivo que forme parte del cuerpo de la criatura. No requieren equipo, no pueden ser desarmadas, y están disponibles mientras el cuerpo del personaje funcione.
+---
+
+### Armas naturales
+
+Las armas naturales son partes ofensivas del cuerpo de una criatura: garras, mordida, cuernos, cola, pinzas, aguijones u otras estructuras similares.
+
+No requieren equipo y no pueden ser desarmadas mientras el cuerpo de la criatura pueda usarlas.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5 (Estándar)  
+**Costo de ritmo:** 5  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar usando la competencia y la característica asociada.
 
-#### Arma a una mano
+---
 
-El ataque con arma a una mano cubre toda la familia de armas ofensivas que se sostienen y operan con una sola mano: espadas cortas, hachas, mazas, dagas de combate y similares. Es el ataque base más versátil: deja la otra mano libre y permite al personaje volver a actuar sin una demora significativa. Las diferencias entre las armas de esta familia no están en el ritmo base, sino en los efectos que causan, los rasgos que tienen y las Técnicas que cada una puede activar.
+### Arma a una mano
+
+Un ataque con arma a una mano usa un arma que puede sostenerse y manejarse con una sola mano: espada corta, hacha, maza, daga de combate u otra equivalente.
+
+Este ataque deja la otra mano libre.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5 (Estándar)  
+**Costo de ritmo:** 5  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar.
 
-#### Arma a dos manos
+---
 
-Algunas armas exigen el cuerpo entero — espadones, hachas de guerra, lanzas sostenidas con ambas manos, grandes mazas. Lo que ganan en alcance, masa o poder de amenaza tiene un precio: la ejecución es más lenta, la recuperación más larga, y los errores pueden dejar aberturas reales. Son armas que modifican el ritmo del combate tanto para quien las empuña como para quienes las enfrentan.
+### Arma a dos manos
 
-**Tipo:** Acción Activa  
-**Costo de ritmo:** 7 (Pesado)  
-**Desgaste:** 1
+Un ataque con arma a dos manos usa un arma que exige compromiso corporal completo: espadón, hacha de guerra, lanza sostenida con ambas manos, gran maza u otra equivalente.
 
-Se resuelve con una T.A. estándar. El personaje regresa al ATB más tarde que con cualquier otro ataque base.
-
-#### Dos armas
-
-Combatir con un arma en cada mano permite encadenar más golpes en una sola activación. La mano principal ataca sin penalización; lo que determina cuántos golpes adicionales conectan es la capacidad del personaje para sostener esa coordinación bajo presión. No es simplemente dos ataques — es una secuencia que puede colapsar si la habilidad no acompaña.
+Estas armas suelen tener más alcance, masa o amenaza, pero retrasan la siguiente intervención de quien las usa.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 7 (Pesado)  
+**Costo de ritmo:** 7  
 **Desgaste:** 1
 
-1. **T.A. inicial** con la mano principal, sin penalización.
-2. **T.E. de combate con dos armas** contra la T.D. del objetivo. Si supera la T.D., el personaje puede declarar ataques adicionales.
-3. **Ataques adicionales:** 1 por cada 2 puntos de Agilidad del personaje (mínimo 1). Los ataques alternan entre ambas manos.
+Se resuelve con una T.A. estándar.
 
-La T.E. utiliza la especialización en combate con dos armas con Agilidad como característica asociada.
+El personaje regresa al ATB más tarde que con otros ataques base.
 
 ---
 
-### Interactuar
+### Dos armas
 
-Interactuar cubre las intervenciones físicas breves que no son ataques ni desplazamientos: tomar un objeto, abrir o cerrar algo, recoger algo del suelo, activar un mecanismo, ajustar el equipo. Son acciones que ocurren dentro del flujo del combate pero no se dirigen directamente a un adversario. Requieren presencia física y atención — por eso tienen costo de ritmo — pero no exigen el compromiso de un ataque ni el alcance de un desplazamiento.
-
-**Tipo:** Acción Activa  
-**Costo de ritmo:** 3 (Rápido)  
-**Desgaste:** 1\*
-
-**Cambio de arma:** Cambiar el arma en la mano requiere dos acciones de Interactuar — una para dejar el arma actual y otra para tomar la nueva. Si el personaje suelta primero (Acción Gratuita), solo necesita una acción de Interactuar para tomar la siguiente.
-
-\* El Desgaste solo se genera cuando la interacción ocurre bajo presión real de la escena. Las interacciones triviales o sin presión activa no generan Desgaste.
-
----
-
-### Ocultarse
-
-Ocultarse es el intento deliberado de salir de la localización precisa de los enemigos. No vuelve invisible al personaje y no borra sus rastros: crea una duda táctica sobre dónde está exactamente y desde dónde puede actuar.
+Combatir con dos armas permite encadenar ataques dentro de una misma activación. La mano principal realiza el ataque inicial. Los ataques adicionales dependen de la coordinación del personaje bajo presión.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5 (Estándar)  
+**Costo de ritmo:** 7  
 **Desgaste:** 1
 
-Para usar esta acción, el personaje necesita una oportunidad real. Debe tener Cobertura Media o Total, estar fuera del rango visual efectivo, aprovechar una condición de Visibilidad reducida, usar una distracción suficiente, o contar con una Técnica, rasgo, artefacto o preparación que permita ocultarse.
+Procedimiento:
 
-No se puede desaparecer a simple vista mientras un enemigo relevante mantiene al personaje localizado con claridad por un sentido aplicable. Si alguien lo ve, oye, huele o percibe sin obstrucción, primero debe romper esa localización.
+1. Realiza una **T.A. inicial** con la mano principal, sin penalización.
+2. Realiza una **T.E. de combate con dos armas** contra la T.D. del objetivo.
+3. Si la T.E. supera la T.D., puedes declarar ataques adicionales.
+4. Los ataques adicionales alternan entre ambas manos.
 
-Ocultarse se resuelve con una Tirada de Especialización apropiada a la ficción — como Sigilo, Supervivencia u otra autorizada por una Técnica — contra la dificultad del entorno o la Percepción enemiga. Si tiene éxito, el personaje obtiene Ocultación contra los enemigos afectados. Las reglas completas de Ocultación, posición aproximada y detección se encuentran en Cobertura, Visibilidad y Ocultación.
+La T.E. usa la especialización **Combate con dos armas** y **Agilidad** como característica asociada.
+
+El personaje obtiene `1` ataque adicional por cada `2` puntos de Agilidad, con mínimo `1`.
 
 ---
 
-### Especialización
+## Interactuar
 
-Una Especialización representa el uso de cualquier habilidad entrenada en el contexto de una escena hostil: saltar un obstáculo, escalar bajo amenaza, nadar contra una corriente mientras el combate continúa, rastrear en movimiento, interpretar una inscripción antes de que el enemigo llegue, leer el lenguaje corporal de un adversario, fabricar algo bajo presión. La habilidad puede ser física, mental o social — la escena impone la misma presión sin importar cuál sea.
+**Interactuar** cubre intervenciones físicas breves que no son ataques ni desplazamientos.
+
+Puede usarse para:
+
+- tomar un objeto
+- recoger algo del suelo
+- abrir o cerrar algo
+- activar un mecanismo
+- ajustar equipo
+- guardar o sacar un objeto accesible
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5 (Estándar)  
-**Desgaste:** 1
+**Costo de ritmo:** 3  
+**Desgaste:** 1 bajo presión real
 
-Una Especialización produce un efecto narrativo: el personaje salta el abismo, interpreta el código, detecta la trampa. Si ese resultado tiene consecuencias mecánicas directas, esos efectos se resuelven a través de las acciones que siguen o a través de una Técnica.
+El Desgaste solo se genera cuando la interacción ocurre bajo presión activa de la escena. Una interacción trivial o sin riesgo inmediato no genera Desgaste.
+
+### Cambio de arma
+
+Cambiar el arma que el personaje tiene en la mano requiere dos acciones de Interactuar:
+
+1. dejar o guardar el arma actual
+2. tomar la nueva arma
+
+Si el personaje primero suelta el arma actual como Acción Gratuita, solo necesita una acción de Interactuar para tomar la nueva.
 
 ---
 
-### Técnicas
+## Ocultarse
 
-Las Técnicas son el resultado de entrenamiento acumulado expresado en una acción concreta. Donde una Especialización produce un efecto narrativo, una Técnica añade un efecto mecánico definido en la misma activación — sin pasos adicionales, sin esperar a la siguiente acción. Esa capacidad de combinar lo que se hace con lo que se produce mecánicamente es lo que las distingue, y lo que justifica que solo sean accesibles a través de competencias.
+**Ocultarse** es el intento deliberado de salir de la localización precisa de los enemigos.
+
+No vuelve invisible al personaje. No borra sus rastros. Crea duda sobre dónde está exactamente y desde dónde puede actuar.
+
+**Tipo:** Acción Activa  
+**Costo de ritmo:** 5  
+**Desgaste:** 1
+
+Para ocultarse, el personaje necesita una oportunidad real. Debe cumplir al menos una de estas condiciones:
+
+- tener Cobertura Media o Total
+- estar fuera del rango visual efectivo
+- aprovechar Visibilidad reducida
+- usar una distracción suficiente
+- contar con una Técnica, rasgo, artefacto o preparación que permita ocultarse
+
+No se puede desaparecer a simple vista mientras un enemigo relevante mantiene al personaje localizado con claridad mediante un sentido aplicable. Si alguien lo ve, oye, huele o percibe sin obstrucción, primero debe romper esa localización.
+
+Ocultarse se resuelve con una Tirada de Especialización apropiada a la ficción, como **Sigilo**, **Supervivencia** u otra autorizada por una Técnica.
+
+La tirada se compara contra la dificultad del entorno o la Percepción enemiga. Si tiene éxito, el personaje obtiene **Ocultación** contra los enemigos afectados.
+
+Las reglas completas de Ocultación, posición aproximada y detección se encuentran en **Cobertura, Visibilidad y Ocultación**.
+
+---
+
+## Usar Especialización
+
+Usar una **Especialización** representa aplicar una habilidad entrenada dentro de una escena hostil o bajo presión.
+
+Puede cubrir acciones como:
+
+- saltar un obstáculo
+- escalar bajo amenaza
+- nadar contra una corriente
+- rastrear en movimiento
+- interpretar una inscripción antes de que el enemigo llegue
+- leer el lenguaje corporal de un adversario
+- fabricar o ajustar algo bajo presión
+
+**Tipo:** Acción Activa  
+**Costo de ritmo:** 5  
+**Desgaste:** 1
+
+Una Especialización produce un resultado narrativo o práctico: el personaje salta el abismo, interpreta el código, detecta la trampa o alcanza una posición.
+
+Si ese resultado tiene una consecuencia mecánica directa, esa consecuencia debe provenir de una regla específica, una acción posterior o una Técnica.
+
+---
+
+## Usar Técnica
+
+Una **Técnica** es una aplicación entrenada que produce una consecuencia mecánica definida.
+
+Donde una Especialización abre una posibilidad, una Técnica convierte esa posibilidad en efecto inmediato.
 
 **Tipo:** Variable  
 **Costo de ritmo:** Definido por la Técnica  
 **Desgaste:** Definido por la Técnica
 
-La mayoría son Acciones Activas; algunas funcionan como Reacciones y pueden activarse fuera de la secuencia normal si su disparador lo permite.
+La mayoría de las Técnicas son Acciones Activas. Algunas funcionan como Reacciones si tienen un disparador que lo permite.
 
-El catálogo completo de Técnicas y sus condiciones de activación se encuentra en el capítulo de Técnicas.
+El catálogo completo de Técnicas y sus condiciones de activación se encuentra en el capítulo **Técnicas**.
 
 ---
 
-### Soltar
+## Soltar
 
-Hay momentos en que lo más útil es simplemente abrir la mano: dejar caer el arma secundaria para usar esa mano en otra cosa, soltar un objeto que ya no forma parte de la acción, liberar algo antes de que comience el siguiente movimiento. Cuando el objeto no está involucrado en ninguna maniobra activa, hacerlo no tiene costo.
+**Soltar** cubre dejar caer un objeto que el personaje sostiene y que no está comprometido en una maniobra activa.
 
 **Tipo:** Acción Gratuita  
 **Costo de ritmo:** 0  
@@ -274,15 +358,17 @@ Hay momentos en que lo más útil es simplemente abrir la mano: dejar caer el ar
 
 Esto cubre:
 
-- soltar un arma de la mano no activa mientras la otra actúa
+- soltar un arma de la mano no activa
 - dejar caer un objeto antes o después de la acción principal
 - liberar algo que ya no forma parte de lo que el personaje está haciendo
 
-Un objeto que es parte activa de un agarre o maniobra conjunta comprometida no puede soltarse de forma gratuita — eso requiere una acción de Interactuar (ritmo 3).
+Un objeto que forma parte activa de un agarre, forcejeo, bloqueo, maniobra conjunta o situación comprometida no puede soltarse gratuitamente. En ese caso, requiere una acción de Interactuar.
 
-### Hablar
+---
 
-No todo lo que se dice requiere tiempo. Una advertencia, una señal, un nombre gritado al aliado más cercano — palabras que transmiten información sin interrumpir el flujo del personaje ni desplazar su ficha en el ATB.
+## Hablar
+
+**Hablar** cubre una comunicación breve que no busca alterar la voluntad, emoción o decisión de otra criatura.
 
 **Tipo:** Acción Gratuita  
 **Costo de ritmo:** 0  
@@ -290,14 +376,22 @@ No todo lo que se dice requiere tiempo. Una advertencia, una señal, un nombre g
 
 Esto cubre:
 
-- una señal táctica o advertencia breve
-- un comando de una palabra o frase corta dirigido a un aliado
+- una advertencia breve
+- una señal táctica
+- un comando corto dirigido a un aliado
 - una exclamación involuntaria
+- una frase que transmite información inmediata
 
-Engañar, persuadir, negociar o ejercer presión social no es gratuito. La distinción no es de longitud sino de función: transmitir información es gratuito; intentar influir no lo es.
+Engañar, persuadir, negociar, intimidar, calmar o provocar no es gratuito. La distinción no depende solo de la longitud de la frase, sino de su función.
+
+Transmitir información inmediata puede ser gratuito. Intentar influir sobre otro participante requiere una acción apropiada.
 
 ---
 
 ## Ejemplo
 
-Un personaje sostiene un pasillo mientras un aliado se repliega. Puede gritar "¡Izquierda!" como Acción Gratuita porque esa frase solo transmite información inmediata. Si ese mismo personaje intenta calmar a un aliado en pánico, provocar a un enemigo o forzar una rendición, ya no es gratuito: la acción busca alterar el estado de decisión de otro participante y debe resolverse con la estructura de acción correspondiente.
+Un personaje sostiene un pasillo mientras un aliado se repliega.
+
+Puede gritar “¡Izquierda!” como Acción Gratuita porque la frase solo transmite información inmediata.
+
+Si ese mismo personaje intenta calmar a un aliado en pánico, provocar a un enemigo o forzar una rendición, ya no es gratuito. La acción busca alterar el estado de decisión de otro participante y debe resolverse con la estructura de acción correspondiente.

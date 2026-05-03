@@ -32,35 +32,46 @@ section_modes:
 
 # Specializations
 
-Specializations are trainable domains. They do not represent powers a character simply possesses, but practices they have developed: actions that can be attempted, failed, and refined over time.
+Specializations are trainable domains. They represent practices the character has developed: actions, trades, knowledge, or disciplines that can be attempted, failed, and refined over time.
 
-A characteristic measures a base aptitude. A specialization measures what the character has chosen to practice with that aptitude.
+A characteristic measures a base aptitude. A specialization measures what the character has practiced with that aptitude.
 
-During character creation, specializations help define what the character knows how to do, how they approach problems, and why they differ from others with similar characteristics.
+In play, specializations serve three functions:
+
+- modify Specialization Rolls
+- allow progression through Learning Advantage
+- activate Synapsis when new ranks are reached
 
 ---
 
-## What They Are For
+## What They Represent
 
-Transcendence does not use classes to assign fixed roles. The difference between characters depends on what each one develops.
+A specialization is not a power the character simply possesses. It is a practice.
 
-Two characters with similar Wisdom can act in different ways if one has practiced Medicine and the other has practiced Survival. The characteristic gives them a comparable base. The specialization defines how they turn that base into action.
+Two characters with the same characteristic can act in different ways if they have trained different domains. A character with high Wisdom and Medicine interprets wounds, symptoms, and treatments. Another with high Wisdom and Survival reads tracks, weather, routes, and signs in the environment.
 
-Specializations also enable access to Techniques. A Technique does not arise from generic competency: it requires a specific domain the character has already worked on. Without the base specialization, the Technique does not exist.
-
-Each time a character reaches a new rank in a specialization, they gain `+1` to the characteristic associated with that domain. This increase is called **Synapsis**. Characteristics do not increase through free assignment; they increase as a direct consequence of practiced use.
+The characteristic gives the base. The specialization defines how that base becomes action.
 
 ---
 
 ## Starting Specializations
 
-Every character begins with four specializations at level 1, Novice rank.
+During character creation, every character begins with four starting specializations:
 
-Three come from the character's background, according to its category restrictions. The fourth is a universal choice tied to **Tenacity**: **March**, **Acclimation**, or **Tolerance**.
+| Source | Amount | Starting level | Starting rank |
+| --- | --- | --- | --- |
+| Background | 3 | 1 | Novice |
+| Universal Tenacity choice | 1 | 1 | Novice |
 
-Every character chooses one of these three options, regardless of background. This choice does not replace species bonuses to Tenacity; both are applied.
+The universal Tenacity specialization must be one of the following:
 
-The same specialization cannot be chosen twice during character creation. All others begin at level 0, Untrained rank.
+- **March**
+- **Acclimation**
+- **Tolerance**
+
+The same specialization cannot be chosen twice during character creation.
+
+All specializations not chosen begin at level `0`, rank **Untrained**.
 
 Starting specializations already grant the Synapsis corresponding to Novice rank during character creation.
 
@@ -68,7 +79,7 @@ Starting specializations already grant the Synapsis corresponding to Novice rank
 
 ## Categories
 
-Specializations are grouped into five categories according to the kind of domain they represent. These categories are not closed compartments. A specialization belongs to a category because of what it covers, not because of the characteristic linked to it.
+Specializations are grouped into five categories. The category indicates what kind of domain the specialization represents; it does not determine which characteristic it uses by itself.
 
 | Category | Type of domain |
 | --- | --- |
@@ -80,15 +91,15 @@ Specializations are grouped into five categories according to the kind of domain
 
 A Physical specialization may be linked to Strength, Agility, or Tenacity depending on what it covers. A Social specialization may be linked to Cunning, Composure, Aura, or Presence.
 
-The category organizes the domain. The characteristic determines which value is added to the Specialization Roll.
+The category organizes the domain. The characteristic determines which value is added to the roll.
 
-Artistic disciplines belong to **Arts and Crafts**. Their development and practical use are described in the **Specialization Catalog**, located in the appendices.
+The complete list of specializations, their associated characteristics, and their common uses appears in the **Specialization Catalog**, located in the appendices.
 
 ---
 
 ## Specialization Roll
 
-When a character acts through a specialization, the result is determined with a **Specialization Roll** (**S.R.**).
+When a character acts through a specialization, they make a **Specialization Roll** (**S.R.**).
 
 ```text
 S.R. = 1d10 + competency level + competency rank + associated characteristic + additional bonuses
@@ -97,76 +108,147 @@ S.R. = 1d10 + competency level + competency rank + associated characteristic + a
 | Component | What it represents |
 | --- | --- |
 | **Competency level** | Numeric progress reached in that specialization |
-| **Competency rank** | Current degree of mastery: Novice, Adept, Expert, Master, Consummate, or Transcendent |
+| **Competency rank** | Current degree of mastery |
 | **Associated characteristic** | Characteristic linked to the specialization used |
 | **Additional bonuses** | Situational modifiers, equipment, active Techniques, or other applicable effects |
 
-### Untrained
+Use an S.R. when the action depends on a concrete practice: climbing, swimming, tracking, healing, persuading, crafting, disarming traps, interpreting symbols, or any other domain defined as a specialization.
 
-Any character can attempt a roll in any specialization, even if they have never practiced it. An **Untrained** character uses only the die and the associated characteristic.
+---
+
+## Untrained
+
+Any character can attempt a roll in a specialization they do not have trained.
+
+An **Untrained** character uses only the die and the associated characteristic.
 
 ```text
 Untrained S.R. = 1d10 + associated characteristic
 ```
 
-Level and rank are 0. Lack of training does not prevent the attempt, but it limits the results the character can reach. Advanced tests remain possible in the fiction, but they are usually outside the mechanical reach of an untrained character.
+Level and rank are `0`.
+
+Lack of training does not prevent the attempt. It limits what the character can reach. An advanced test may exist in the fiction, but remain outside the mechanical reach of someone without practice.
 
 Developing a specialization does not enable the action. It makes it sustainable.
 
 ---
 
-## How They Are Acquired
+## Levels and Ranks
 
-Specializations develop through use under pressure. Each time a character uses **Learning Advantage** on an S.R., the roll can generate progress toward the next competency level.
+Each specialization has a level and a rank.
 
-Progress does not appear only because the player chooses to learn. The action must meet three conditions:
+| Rank | Name | Levels |
+| --- | --- | --- |
+| 0 | Untrained | 0 |
+| 1 | Novice | 1–2 |
+| 2 | Adept | 3–4 |
+| 3 | Expert | 5–6 |
+| 4 | Master | 7–8 |
+| 5 | Consummate | 9–10 |
+| 6 | Transcendent | 11+ |
 
-- the roll uses the declared specialization
-- the difficulty is appropriate for the character's current rank
-- the learning die exceeds the progress condition of Evolutionary Advantage
+The level measures numeric advancement. The rank summarizes the degree of mastery reached.
+
+Each new rank can unlock new possibilities, activate Synapsis, and serve as a requirement for Techniques.
+
+---
+
+## Progression
+
+Specializations progress through use under pressure.
+
+For an S.R. to generate progress, three conditions must be met:
+
+- the character uses **Learning Advantage**
+- the test difficulty is appropriate for their current rank
+- the learning die exceeds the progress condition
 
 ```text
 Learning die > die used + competency rank
 ```
 
-If these conditions are met, the character marks 1 progress point in that specialization.
+If these conditions are met, the character marks `1` progress point in that specialization.
 
-| Affinity | Progress required per level |
+Progress does not appear only because the player chooses to learn. The action must demand something real, and the declared specialization must match what the character is doing.
+
+---
+
+## Progress Required per Level
+
+The amount of progress required depends on the character's affinity.
+
+| Affinity | Progress required to gain 1 level |
 | --- | --- |
 | No major affinity | 10 points |
 | Major affinity | 5 points |
 
-Major affinity is determined by background. A character with a martial background may have major affinity in Physical specializations. A character with an artisan background may have it in Arts and Crafts.
+Major affinity comes from the character's background.
 
-Major affinity does not block access to other specializations. It only reduces the cost of progressing in those that match the background.
+A character with a martial background may have major affinity in Physical specializations. A character with an artisan background may have it in Arts and Crafts.
 
-The Narrator validates whether the specialization used is supported by the fiction before it can generate progress. The character's intent must match the declared domain. A character cannot use Traps to analyze a creature's behavior unless there is a concrete reason that justifies it.
-
-The practiced domain must reflect the real action.
-
-There is no limit to how many specializations a character can develop. The limit is practical: each specialization requires time, rolls, and decisions. Prioritizing one slows the others.
+Major affinity does not block other specializations. It only reduces the cost of progressing in those that belong to that category.
 
 ---
 
-## Ranks and Synapsis
+## Appropriate Tests for Progression
 
-Competency in a specialization is measured in levels and ranks. Each rank groups two levels and represents a degree of mastery.
+Not every action teaches. For a specialization to progress, the difficulty must be coherent with the character's current rank.
 
-| Rank | Name | Levels | Synapsis on entry |
-| --- | --- | --- | --- |
-| 0 | Untrained | 0 | — |
-| 1 | Novice | 1–2 | +1 to characteristic |
-| 2 | Adept | 3–4 | +1 to characteristic |
-| 3 | Expert | 5–6 | +1 to characteristic |
-| 4 | Master | 7–8 | +1 to characteristic |
-| 5 | Consummate | 9–10 | +1 to characteristic |
-| 6 | Transcendent | 11+ | +1 to characteristic |
+| Current rank | Can progress with tests of... |
+| --- | --- |
+| Novice | Any tier |
+| Adept | Fundamental or higher |
+| Expert | Challenging or higher |
+| Master | Rigorous or higher |
+| Consummate | Demanding or higher |
+| Transcendent | Extreme |
 
-When the character reaches the threshold level of a new rank, they automatically gain `+1` to the characteristic associated with that specialization.
+A test that is too simple does not generate progress for someone who already dominates that kind of action.
 
-This is **Synapsis**: the increase of a characteristic as a direct consequence of practicing domains linked to it.
+---
 
-The tension is structural. Reaching Novice rank in many different specializations generates Synapsis across several characteristics. Deepening a single specialization generates higher S.R. bonuses and access to more advanced Techniques.
+## Narrator Validation
+
+The Narrator validates whether the declared specialization matches the real action.
+
+The player must explain how they use that specialization in the scene. If the justification does not match the declared domain, the roll may be resolved with another specialization, with a Characteristic Roll, or without the possibility of progress.
+
+A character cannot use Traps to analyze a creature's behavior only because the player wants to progress Traps. There must be a concrete relationship between the action and the domain used.
+
+The practiced domain must reflect the real action.
+
+---
+
+## Synapsis
+
+Synapsis represents the way practice modifies the character.
+
+Each specialization is associated with a characteristic. When the specialization reaches a new rank, the character gains a permanent `+1` to that characteristic.
+
+| Rank | Name | Synapsis on entry |
+| --- | --- | --- |
+| 0 | Untrained | — |
+| 1 | Novice | +1 to characteristic |
+| 2 | Adept | +1 to characteristic |
+| 3 | Expert | +1 to characteristic |
+| 4 | Master | +1 to characteristic |
+| 5 | Consummate | +1 to characteristic |
+| 6 | Transcendent | +1 to characteristic |
+
+Synapsis applies when entering a new rank, not each time a level is gained.
+
+During character creation, starting specializations begin at Novice rank. For that reason, each one immediately grants `+1` to its associated characteristic.
+
+---
+
+## Broad or Deep Growth
+
+A player can develop many specializations or concentrate on only a few.
+
+Developing many specializations can activate Synapsis across several characteristics and widen the character's options.
+
+Deepening a single specialization increases its S.R. bonuses and can grant access to more advanced Techniques.
 
 Neither path is superior by default. Each one prioritizes a different form of growth.
 
@@ -174,21 +256,45 @@ Neither path is superior by default. Each one prioritizes a different form of gr
 
 ## Direct Use and Techniques
 
-Using a specialization produces a narrative result within the scene. The character observes, interprets, builds, repairs, persuades, remembers, moves, or acts according to the domain used.
+Using a specialization produces a narrative result within the scene.
 
-That use can open information, routes, narrative advantages, or possible actions. It does not automatically change the mechanical state of the scene unless a rule, consequence, or Narrator decision says so.
+The character may observe, interpret, build, repair, persuade, remember, move, or act according to the domain used. That use can open information, routes, narrative advantages, or new possible actions.
+
+By itself, direct use of a specialization does not automatically change the mechanical state of the scene, unless a rule, consequence, or Narrator decision says so.
 
 A **Technique** is different. It is a specific application the character unlocks by reaching a certain competency level in one or more specializations.
 
-Unlike direct use, a Technique produces a defined mechanical consequence when activated. Its full details appear in the corresponding chapter.
+Unlike direct use, a Technique produces a defined mechanical consequence when activated.
 
-This distinction is structural. Direct use of a specialization opens possibilities. A Technique turns one of those possibilities into an immediate mechanical consequence.
+This distinction is structural:
+
+| Use | Result |
+| --- | --- |
+| Direct specialization use | Opens narrative or practical possibilities |
+| Technique | Produces a defined mechanical consequence |
+
+---
+
+## Quick Summary
+
+| Element | Rule |
+| --- | --- |
+| Starting specialization | Level 1 / Novice rank |
+| Untrained | Level 0 / rank 0 |
+| Trained S.R. | `1d10 + level + rank + characteristic + bonuses` |
+| Untrained S.R. | `1d10 + characteristic` |
+| Progress with major affinity | 5 points per level |
+| Progress without major affinity | 10 points per level |
+| Synapsis | +1 to characteristic when entering each new rank |
+| Technique | Requires a specific domain and produces a defined mechanical consequence |
 
 ---
 
 ## Example
 
-A character uses Survival to read broken tracks at the edge of a flooded road. That use may reveal where a group passed, which route remains viable, and which signs in the terrain should be avoided.
+A character uses Survival to read broken tracks at the edge of a flooded road.
+
+The roll may reveal where a group passed, which route remains viable, and which signs in the terrain should be avoided. That result opens information and options.
 
 By itself, that use does not damage an enemy, change initiative, or impose a mechanical condition.
 
