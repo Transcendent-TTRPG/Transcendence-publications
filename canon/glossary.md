@@ -106,11 +106,12 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Tirada de Impacto | Impact Roll | No | T.I.; roll used to determine transmitted damage or pressure after an attack connects |
 | Tirada de Especialización | Specialization Roll | No | T.E.; roll used when acting through a trained specialization |
 | Tirada de Característica | Characteristic Roll | No | T.C.; roll used when a task depends on a raw characteristic rather than a specialization |
-| Tirada de Resistencia | Resistance Roll | No | T.R.; roll used to resist Agravios and other hostile effects that call for resistance; it does not reduce Impact or elemental damage |
-| Ventaja Evolutiva | Evolutionary Advantage | No | Core roll mechanic: players roll 2d10 and choose which die serves each purpose |
+| Tirada de Resistencia | Resistance Roll | No | T.R.; single-die roll used to resist Agravios and other hostile effects; it does not use Evolutionary Advantage by default and does not reduce Impact or elemental damage |
+| Ventaja Evolutiva | Evolutionary Advantage | No | Core roll mechanic for active execution rolls: T.A., T.D., and T.E.; the player chooses execution or learning before rolling |
 | Ventaja en la Ejecución | Execution Advantage | No | Use the higher die to resolve the action; learning opportunity from that roll is lost |
 | Ventaja en el Aprendizaje | Learning Advantage | No | Use the lower die to resolve; reserve the higher die to check for competency progress |
-| Progresos | Progress | No | Points accumulated toward the next competency level via Learning Advantage rolls |
+| Aprendizaje por exposición | Learning Through Exposure | No | Resistance progression method: suffer or partially suffer a relevant danger, survive it, and mark progress in the matching Resistance |
+| Progresos | Progress | No | Points accumulated toward the next competency level through the relevant progression method |
 | Resistencia menor | Minor Resistance | No | Trait of a creature, material, object, or specific effect; receives 50% damage from the declared elemental origin |
 | Resistencia mayor | Major Resistance | No | Trait of a creature, material, object, or specific effect; receives 0 damage from the declared elemental origin |
 | Vulnerabilidad menor | Minor Vulnerability | No | Trait of a creature, material, object, or specific effect; receives 150% damage from the declared elemental origin |
