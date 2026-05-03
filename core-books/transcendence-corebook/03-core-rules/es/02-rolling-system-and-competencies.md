@@ -37,19 +37,37 @@ La base de una tirada es un `d10`. A ese resultado se suman características, co
 
 Los personajes jugadores pueden arriesgar ciertas tiradas mediante **Ventaja Evolutiva**. Los PNJ y otras criaturas usan una capa más directa, basada en Rasgos, capacidades especiales y la función que cumplen dentro de la escena.
 
+No todas las tiradas entrenables usan Ventaja Evolutiva. Algunas, como las Tiradas de Resistencia, representan respuestas internas del cuerpo, la mente o la esencia del personaje y se resuelven de forma directa.
+
 ---
 
 ## Ventaja Evolutiva
 
 La Ventaja Evolutiva representa la forma en que un personaje afronta una acción entrenada bajo presión. Antes de tirar, el jugador elige si prioriza la ejecución inmediata o la posibilidad de aprendizaje.
 
-Esta elección solo aplica a tiradas que usan competencias: **Tirada de Ataque**, **Tirada de Defensa**, **Tirada de Resistencia** y **Tirada de Especialización**. No aplica a Tiradas de Característica ni a Tiradas de Rasgo de Personalidad.
+Esta elección solo aplica a tiradas donde el personaje tiene control activo sobre su ejecución:
+
+- **Tirada de Ataque**
+- **Tirada de Defensa**
+- **Tirada de Especialización**
+
+No aplica a:
+
+- **Tirada de Resistencia**
+- **Tirada de Característica**
+- **Tirada de Rasgo de Personalidad**
+
+Las Resistencias pueden progresar, pero no mediante Ventaja Evolutiva. Progresan por exposición, supervivencia y adaptación.
+
+---
 
 ### Ventaja en la Ejecución
 
 El jugador lanza dos dados y usa el resultado mayor para resolver la tirada.
 
 La acción tiene más probabilidad de éxito, pero no puede generar progreso. El personaje se concentra en ejecutar bien, no en exponerse al error necesario para aprender.
+
+---
 
 ### Ventaja en el Aprendizaje
 
@@ -61,7 +79,7 @@ Después de resolver la acción, se compara el dado de aprendizaje contra el res
 Dado de aprendizaje > dado usado + rango de competencia
 ```
 
-Si el dado de aprendizaje supera esa suma, el personaje marca 1 punto de progreso en la competencia correspondiente, siempre que la acción cumpla las condiciones de progresión de su tipo.
+Si el dado de aprendizaje supera esa suma, el personaje marca `1` punto de progreso en la competencia correspondiente, siempre que la acción cumpla las condiciones de progresión de su tipo.
 
 La tirada puede fallar y aun así enseñar. También puede tener éxito sin generar progreso. La competencia que progresa depende del tipo de acción y de lo que ocurrió en la escena.
 
@@ -146,6 +164,8 @@ El daño base del arma usa el dado indicado por su categoría: `d4`, `d6`, `d8`,
 
 Si un personaje tiene rango 3 con un arma de daño `d8`, tira `3d8` como base de impacto antes de sumar la característica asociada por grado del arma.
 
+---
+
 #### Impacto con armas sin competencia
 
 Un personaje puede atacar con un arma en la que no posee competencia. El golpe puede conectar, pero el impacto se reduce.
@@ -180,6 +200,10 @@ La T.C. entra en juego cuando no hay una competencia específica que resuelva me
 
 La Tirada de Resistencia resuelve si una criatura soporta, evita o reduce un efecto perjudicial: veneno, infección, aflicción, maldición o alteración.
 
+A diferencia de una Tirada de Ataque, Defensa o Especialización, una T.R. no representa una ejecución voluntaria del personaje. Representa una respuesta del cuerpo, la mente o la esencia frente a un peligro que intenta afectarlo.
+
+Por eso, la T.R. se resuelve con un solo dado y no usa Ventaja Evolutiva por defecto.
+
 La característica base depende del tipo de efecto. La resistencia correspondiente añade experiencia acumulada frente a ese peligro.
 
 **Fórmulas:**
@@ -191,6 +215,10 @@ La característica base depende del tipo de efecto. La resistencia correspondien
 | Alteraciones | `1d10 + Resiliencia + resistencia correspondiente + bonificadores adicionales` |
 
 El objetivo es igualar o superar la dificultad del efecto para evitarlo, mitigarlo o reducir sus consecuencias.
+
+Una T.R. no genera progreso por Ventaja en el Aprendizaje. Las Resistencias progresan por exposición, como se describe en la sección de Resistencias.
+
+Una regla específica, Técnica, Agravio o efecto excepcional puede alterar esta estructura, pero debe decirlo de forma explícita.
 
 ---
 
@@ -244,7 +272,11 @@ Umbral = base + NR
 
 Estos cinco niveles aplican a todos los sistemas que requieran superar un umbral fijo: T.E., T.C., T.R., fabricación, Agravios y otras pruebas equivalentes.
 
-El Narrador anuncia el nivel de dificultad antes de pedir la tirada, salvo cuando revelar esa información contradiga la naturaleza de la escena. Si la tirada puede generar progreso mediante Ventaja en el Aprendizaje, el jugador debe conocer el umbral antes de elegir cómo tirar.
+El Narrador anuncia el nivel de dificultad antes de pedir la tirada, salvo cuando revelar esa información contradiga la naturaleza de la escena.
+
+Si una T.A., T.D. o T.E. puede generar progreso mediante Ventaja en el Aprendizaje, el jugador debe conocer el umbral antes de elegir cómo tirar.
+
+Las T.R. no usan Ventaja en el Aprendizaje. Si una Resistencia puede progresar, lo hace por exposición después de resolver el efecto.
 
 ---
 
@@ -257,7 +289,16 @@ Las competencias cumplen dos funciones:
 - modifican tiradas
 - permiten progresar cuando el personaje las pone a prueba en situaciones relevantes
 
-Las competencias no sustituyen a las características. Las características dan base. Las competencias muestran cuánto ha entrenado, practicado o refinado el personaje esa base.
+No todas las competencias progresan de la misma forma.
+
+| Tipo de competencia | Cómo progresa |
+| --- | --- |
+| Armas, Evasión y Especializaciones | Mediante Ventaja en el Aprendizaje |
+| Armaduras | Al absorber daño después de una T.D. fallida |
+| Escudos | Mediante Técnicas y maniobras de escudo |
+| Resistencias | Por exposición, consecuencia y supervivencia |
+
+Las competencias no sustituyen a las características. Las características dan base. Las competencias muestran cuánto ha entrenado, practicado, refinado o adaptado el personaje esa base.
 
 ---
 
@@ -292,9 +333,7 @@ Todas las demás competencias comienzan en nivel 0. El personaje se considera No
 
 ### Progresión de competencias
 
-Las competencias aumentan cuando el personaje las pone en riesgo y elige aprender de la acción.
-
-Cada vez que usa Ventaja en el Aprendizaje, la tirada puede generar progreso en una competencia distinta según el tipo de acción y el resultado obtenido.
+Las competencias aumentan cuando el personaje enfrenta una situación que exige algo real para su rango actual y cumple las condiciones de progreso de esa competencia.
 
 Para subir un nivel de competencia se requieren:
 
@@ -302,6 +341,8 @@ Para subir un nivel de competencia se requieren:
 - 10 puntos de progreso en el resto de competencias
 
 La afinidad de una especialización se define en el capítulo de Especializaciones.
+
+Las Resistencias no usan afinidad mayor por regla base, salvo que una regla específica indique lo contrario.
 
 ---
 
@@ -313,11 +354,21 @@ No toda acción enseña. Para que exista progreso, la situación debe exigir alg
 
 Las competencias marciales progresan cuando el personaje enfrenta adversarios de dificultad adecuada y pone su entrenamiento en práctica.
 
-En el caso de armas, el personaje debe atacar, impactar y causar daño efectivo a una criatura cuyo nivel sea al menos igual al NR del personaje -1.
+En el caso de armas, el personaje debe usar Ventaja en el Aprendizaje, atacar, impactar y causar daño efectivo a una criatura cuyo nivel sea al menos igual al NR del personaje -1.
 
-#### Competencias de evasión, armadura, escudo y resistencias
+#### Evasión, armadura y escudo
 
-Estas competencias progresan cuando el personaje queda expuesto a peligros relevantes y responde de una forma que deja aprendizaje: evitar, absorber, sobrevivir o soportar la exposición correspondiente.
+Estas competencias progresan cuando el personaje queda expuesto a amenazas relevantes y responde de una forma que deja aprendizaje: evitar, absorber o intervenir mediante una técnica defensiva.
+
+- Evasión progresa con una T.D. exitosa bajo Ventaja en el Aprendizaje.
+- Armadura progresa cuando una T.D. falla y la armadura absorbe parte del impacto.
+- Escudo progresa mediante Técnicas o maniobras de escudo exitosas.
+
+#### Resistencias
+
+Las Resistencias progresan cuando el personaje se expone a un peligro real, sufre sus consecuencias y sobrevive.
+
+No progresan por Ventaja Evolutiva.
 
 #### Competencias de especialización
 
@@ -362,7 +413,9 @@ La competencia en armaduras cubre el uso eficiente de piezas defensivas. Se sepa
 
 **Progresión**
 
-La competencia en armaduras aumenta con una T.D. fallida bajo Ventaja en el Aprendizaje, siempre que el impacto se resuelva en una zona protegida y la armadura absorba efectivamente parte del daño.
+La competencia en armaduras aumenta con una T.D. fallida, siempre que el impacto se resuelva en una zona protegida y la armadura absorba efectivamente parte del daño.
+
+El personaje no elige Ventaja en el Aprendizaje para progresar armadura. La armadura enseña cuando recibe presión real y logra absorber parte del impacto.
 
 El progreso se aplica al tipo de armadura que protegía esa zona.
 
@@ -420,17 +473,25 @@ Las resistencias cubren peligros concretos que buscan intoxicar, infectar, alter
 
 Las resistencias no reducen Impacto, daño elemental ni Heridas. El daño se resuelve por la relación entre Impacto, Bloqueo y las reglas de Heridas o PV. Si un ataque de fuego, agua, luz u otro origen elemental causa daño, ese daño sigue el flujo normal salvo que una regla específica diga lo contrario.
 
+Las Resistencias se suman a la T.R. correspondiente, pero no usan Ventaja Evolutiva.
+
+---
+
 #### Veneno
 
 **Bonificador**
 
 - Cada nivel de competencia otorga `+1` a la T.R. contra venenos.
 
+---
+
 #### Infección
 
 **Bonificador**
 
 - Cada nivel de competencia otorga `+1` a la T.R. contra infecciones.
+
+---
 
 #### Aflicción
 
@@ -439,11 +500,15 @@ Las resistencias no reducen Impacto, daño elemental ni Heridas. El daño se res
 - Cada nivel de competencia otorga `+1` a la T.R. contra aflicciones.
 - Cada rango de competencia otorga `+1` a las T.R. de Aflicción realizadas durante meditación.
 
+---
+
 #### Alteración
 
 **Bonificador**
 
 - Cada nivel de competencia otorga `+1` a la T.R. contra alteraciones.
+
+---
 
 #### Maldiciones
 
@@ -451,18 +516,34 @@ Las resistencias no reducen Impacto, daño elemental ni Heridas. El daño se res
 
 - Cada nivel de competencia otorga `+1` a tiradas para detectar o resistir maldiciones.
 
-**Progresión general de resistencias**
+---
 
-Las resistencias aumentan con una T.R. fallida bajo Ventaja en el Aprendizaje, siempre que el personaje sufra y sobreviva al efecto correspondiente.
+## Aprendizaje por exposición
 
-Resistir por completo un peligro no enseña lo mismo que soportarlo.
+Las Resistencias aumentan cuando el personaje se expone a un peligro real, lo sufre y sobrevive a sus consecuencias.
+
+Una Resistencia puede ganar progreso si se cumplen todas estas condiciones:
+
+- el personaje realiza una T.R. contra el peligro correspondiente
+- el peligro es relevante para el rango actual del personaje
+- el personaje falla la T.R. o sufre una consecuencia parcial del efecto
+- el personaje sobrevive a la exposición
+
+Si estas condiciones se cumplen, el personaje marca `1` punto de progreso en la Resistencia correspondiente.
+
+Resistir por completo un peligro no genera progreso por regla base. La resistencia mejora cuando el personaje es forzado a adaptarse, no cuando evita toda consecuencia.
+
+El Narrador puede negar progreso si la exposición es trivial, controlada sin riesgo real, repetida de forma artificial o insuficiente para desafiar el rango actual del personaje.
+
+Una regla específica, Técnica, Agravio, tratamiento, mutación o condición especial puede modificar este aprendizaje.
+
+---
 
 #### Sobre resistencia elemental
 
 La **Resistencia Elemental** y la **Vulnerabilidad Elemental** no son competencias. No progresan mediante Ventaja Evolutiva y no forman parte de las resistencias entrenables del personaje.
 
 Cuando una criatura, material, objeto, Técnica o efecto tenga resistencia o vulnerabilidad frente a un origen elemental, se resuelve mediante las reglas de **Daño Elemental y Afinidades**.
-
 
 ---
 
@@ -518,14 +599,14 @@ El NR no reemplaza una competencia entrenada. Evita que la experiencia global de
 
 ## Relación entre tiradas y competencias
 
-| Tirada | Competencia utilizada | Progresión con Ventaja en el Aprendizaje |
+| Tirada | Competencia utilizada | Progresión |
 | --- | --- | --- |
-| T.A. | Competencia del arma u objeto empleado | Si el ataque tiene éxito y causa daño efectivo, progresa el arma u objeto usado. |
-| T.D. | Evasión aplicable según armadura | Si la tirada tiene éxito, progresa Evasión. Si falla y la armadura absorbe impacto, progresa el tipo de armadura de la zona resuelta. |
+| T.A. | Competencia del arma u objeto empleado | Si usa Ventaja en el Aprendizaje, tiene éxito y causa daño efectivo, progresa el arma u objeto usado. |
+| T.D. | Evasión aplicable según armadura | Si usa Ventaja en el Aprendizaje y tiene éxito, progresa Evasión. Si falla y la armadura absorbe impacto, progresa el tipo de armadura de la zona resuelta. |
 | T.I. | Rango de competencia del arma | No progresa por sí sola. |
 | T.C. | Ninguna por defecto | No progresa por sí sola. |
-| T.R. | Resistencia correspondiente al tipo de efecto | Si falla y el efecto se sufre, progresa la resistencia correspondiente. |
-| T.E. | Competencia de la especialización implicada | Si la tirada tiene éxito y la dificultad es adecuada, progresa la especialización usada. |
+| T.R. | Resistencia correspondiente al tipo de efecto | No usa Ventaja Evolutiva. Si el personaje falla o sufre una consecuencia parcial y sobrevive a un peligro relevante, progresa la resistencia correspondiente. |
+| T.E. | Competencia de la especialización implicada | Si usa Ventaja en el Aprendizaje, tiene éxito y la dificultad es adecuada, progresa la especialización usada. |
 | T.P. | Ninguna | No progresa por sí sola. |
 
 La competencia de escudo progresa aparte, mediante Técnicas y maniobras de escudo exitosas.
@@ -539,5 +620,9 @@ Un personaje intenta esquivar el golpe de una criatura pesada mientras usa Venta
 Si evita el ataque y el dado de aprendizaje supera la condición de progreso, la situación puede generar progreso en Evasión.
 
 Si falla la T.D., pero la armadura de la zona resuelta absorbe parte del impacto, la situación puede generar progreso en el tipo de armadura correspondiente.
+
+Más adelante, el mismo personaje sufre una toxina y realiza una T.R. de Veneno. Esta tirada se resuelve con un solo `d10`; no usa Ventaja Evolutiva.
+
+Si falla la T.R., sufre el efecto y sobrevive, puede marcar `1` progreso en Resistencia a Veneno, siempre que la exposición sea relevante para su rango actual.
 
 La competencia que progresa depende del resultado de la escena, no solo del tipo de tirada.
