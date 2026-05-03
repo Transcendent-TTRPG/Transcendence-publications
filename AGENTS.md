@@ -47,3 +47,17 @@ Paired file paths follow the pattern:
 ```text
 08-conflict-and-combat/es/<file>.md   ←→   08-conflict-and-combat/en/<file>.md
 ```
+
+
+## GitHub Connector Workflow
+
+When working through ChatGPT's GitHub connector:
+
+- Treat `Transcendence-design` as the source of truth for mechanics and canon.
+- Treat `Transcendence-publications` as the reader-facing manuscript layer.
+- If repository search is unavailable or not indexed, fetch files by known path.
+- For mechanical changes, check both:
+  - `Transcendence-design/data/system/*.yaml`
+  - `Transcendence-design/docs/system/*.md`
+- Then update the paired ES/EN manuscript files in `Transcendence-publications`.
+- If a term changes, update `Transcendence-publications/canon/glossary.md`.
