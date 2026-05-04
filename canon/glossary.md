@@ -158,8 +158,8 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Aflicciones | Afflictions | No | Ailments tied to mental or sensory distortion; cleared on Full Rest under the current rules layer |
 | Venenos | Poisons | No | Ailments caused by toxic substances of natural, artificial, or biological origin |
 | Maldiciones | Curses | No | Extranatural ailments attached to creatures, objects, or places |
-| Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces 1/2/3 Attrition |
-| Descanso Completo | Full Rest | No | 8-hour recovery; reduces Attrition by 2 × Endurance, supports treatment, and reduces Affliction intensity |
+| Descanso Corto | Short Rest | No | 15, 30, or 60 min recovery; reduces Settled Fatigue according to duration and allows brief recovery, treatment, maintenance, or preparation tasks |
+| Descanso Completo | Full Rest | No | 8-hour recovery; reduces Settled Fatigue, supports Wound treatment, equipment repair, Affliction relief, and broad preparation |
 
 ---
 
