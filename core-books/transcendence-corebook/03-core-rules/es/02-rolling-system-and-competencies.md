@@ -135,10 +135,12 @@ Tanto la Evasión como la Agilidad dependen del tipo de armadura que proteja la 
 | --- | --- | --- |
 | Sin armadura | Evasión completa | Agilidad completa |
 | Ligera | Evasión completa | Agilidad completa |
-| Intermedia | Mitad de Evasión, mínimo 1 | Mitad de Agilidad, mínimo 1 |
-| Pesada | 0 | 0 |
+| Intermedia | Evasión completa | Mitad de Agilidad, mínimo 1 |
+| Pesada | Mitad de Evasión, mínimo 1 | 0 |
 
-Para armadura intermedia, calcula por separado la mitad de la Evasión y la mitad de la Agilidad. Cada resultado se redondea hacia arriba, salvo que una regla específica indique lo contrario.
+Para armadura intermedia, calcula la mitad de la Agilidad y redondea hacia arriba, salvo que una regla específica indique lo contrario.
+
+Para armadura pesada, calcula la mitad de la Evasión y redondea hacia arriba, salvo que una regla específica indique lo contrario.
 
 El escudo aporta un bonificador general a la T.D. como parte del equipo defensivo. Su competencia no progresa por esta tirada genérica; progresa mediante Técnicas y maniobras de escudo.
 

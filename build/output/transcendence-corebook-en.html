@@ -508,6 +508,7 @@ Rolls</a></li>
 <li><a href="#competencies" id="toc-competencies">Competencies</a></li>
 <li><a href="#competency-types-and-their-effects" id="toc-competency-types-and-their-effects">Competency Types and Their
 Effects</a></li>
+<li><a href="#learning-through-exposure" id="toc-learning-through-exposure">Learning Through Exposure</a></li>
 <li><a href="#reference-level" id="toc-reference-level">Reference
 Level</a></li>
 <li><a href="#relationship-between-rolls-and-competencies" id="toc-relationship-between-rolls-and-competencies">Relationship
@@ -1035,23 +1036,38 @@ added according to the type of action.</p>
 Advantage</strong>. NPCs and other creatures use a more direct layer,
 based on Traits, special capabilities, and the function they serve
 within the scene.</p>
+<p>Not every trained roll uses Evolutionary Advantage. Some rolls, such
+as Resistance Rolls, represent internal responses of the body, mind, or
+essence of the character and are resolved directly.</p>
 <hr />
 <h2 id="evolutionary-advantage">Evolutionary Advantage</h2>
 <p>Evolutionary Advantage represents how a character approaches a
 trained action under pressure. Before rolling, the player chooses
 whether to prioritize immediate execution or the possibility of
 learning.</p>
-<p>This choice only applies to rolls that use competencies:
-<strong>Attack Rolls</strong>, <strong>Defense Rolls</strong>,
-<strong>Resistance Rolls</strong>, and <strong>Specialization
-Rolls</strong>. It does not apply to Characteristic Rolls or Personality
-Trait Rolls.</p>
+<p>This choice only applies to rolls where the character has active
+control over execution:</p>
+<ul>
+<li><strong>Attack Roll</strong></li>
+<li><strong>Defense Roll</strong></li>
+<li><strong>Specialization Roll</strong></li>
+</ul>
+<p>It does not apply to:</p>
+<ul>
+<li><strong>Resistance Roll</strong></li>
+<li><strong>Characteristic Roll</strong></li>
+<li><strong>Personality Trait Roll</strong></li>
+</ul>
+<p>Resistances can progress, but not through Evolutionary Advantage.
+They progress through exposure, survival, and adaptation.</p>
+<hr />
 <h3 id="execution-advantage">Execution Advantage</h3>
 <p>The player rolls two dice and uses the higher result to resolve the
 roll.</p>
 <p>The action is more likely to succeed, but it cannot generate
 progress. The character focuses on execution, not on exposing themselves
 to the kind of error that teaches.</p>
+<hr />
 <h3 id="learning-advantage">Learning Advantage</h3>
 <p>The player rolls two dice and uses the lower result to resolve the
 roll. The higher die is reserved as the learning die.</p>
@@ -1059,9 +1075,9 @@ roll. The higher die is reserved as the learning die.</p>
 die used for the roll and the rank of the competency that can
 progress.</p>
 <pre class="text"><code>Learning die &gt; die used + competency rank</code></pre>
-<p>If the learning die exceeds that sum, the character marks 1 progress
-point in the corresponding competency, provided the action meets the
-progression conditions for its type.</p>
+<p>If the learning die exceeds that sum, the character marks
+<code>1</code> progress point in the corresponding competency, provided
+the action meets the progression conditions for its type.</p>
 <p>A roll can fail and still teach. It can also succeed without
 generating progress. The competency that progresses depends on the type
 of action and what happened in the scene.</p>
@@ -1127,18 +1143,20 @@ resolved hit zone:</p>
 </tr>
 <tr>
 <td>Medium</td>
-<td>Half Evasion, minimum 1</td>
+<td>Full Evasion</td>
 <td>Half Agility, minimum 1</td>
 </tr>
 <tr>
 <td>Heavy</td>
-<td>0</td>
+<td>Half Evasion, minimum 1</td>
 <td>0</td>
 </tr>
 </tbody>
 </table>
-<p>For medium armor, calculate half Evasion and half Agility separately.
-Each result is rounded up, unless a specific rule says otherwise.</p>
+<p>For medium armor, calculate half Agility and round up, unless a
+specific rule says otherwise.</p>
+<p>For heavy armor, calculate half Evasion and round up, unless a
+specific rule says otherwise.</p>
 <p>A shield contributes a general bonus to D.R. as part of defensive
 equipment. Its competency does not progress through this generic roll;
 it progresses through shield Techniques and maneuvers.</p>
@@ -1164,6 +1182,7 @@ equipment power.</p>
 <p>If a character has rank 3 with a weapon that deals <code>d8</code>
 damage, they roll <code>3d8</code> as the base impact before adding the
 associated characteristic by weapon grade.</p>
+<hr />
 <h4 id="impact-with-untrained-weapons">Impact with Untrained
 Weapons</h4>
 <p>A character can attack with a weapon they have no competency with.
@@ -1188,6 +1207,12 @@ It does not generate progress by itself.</p>
 <p>The Resistance Roll resolves whether a creature withstands, avoids,
 or reduces a harmful effect: poison, infection, affliction, curse, or
 alteration.</p>
+<p>Unlike an Attack Roll, Defense Roll, or Specialization Roll, an R.R.
+does not represent voluntary execution by the character. It represents a
+response of the body, mind, or essence against a danger trying to affect
+it.</p>
+<p>For that reason, an R.R. is resolved with a single die and does not
+use Evolutionary Advantage by default.</p>
 <p>The base characteristic depends on the effect type. The corresponding
 resistance adds accumulated experience against that danger.</p>
 <p><strong>Formulas:</strong></p>
@@ -1219,6 +1244,11 @@ resistance adds accumulated experience against that danger.</p>
 </table>
 <p>The goal is to match or exceed the effect’s difficulty to avoid,
 mitigate, or reduce its consequences.</p>
+<p>An R.R. does not generate progress through Learning Advantage.
+Resistances progress through exposure, as described in the Resistances
+section.</p>
+<p>A specific rule, Technique, Grievance, or exceptional effect can
+alter this structure, but it must say so explicitly.</p>
 <hr />
 <h3 id="specialization-roll-s.r.">Specialization Roll (S.R.)</h3>
 <p>The Specialization Roll is used for trained skills: climbing,
@@ -1294,8 +1324,12 @@ threshold: S.R., C.R., R.R., crafting, Grievances, and equivalent
 tests.</p>
 <p>The Narrator announces the difficulty tier before requesting the
 roll, unless revealing that information contradicts the nature of the
-scene. If the roll can generate progress through Learning Advantage, the
-player must know the threshold before choosing how to roll.</p>
+scene.</p>
+<p>If an A.R., D.R., or S.R. can generate progress through Learning
+Advantage, the player must know the threshold before choosing how to
+roll.</p>
+<p>R.R. does not use Learning Advantage. If a Resistance can progress,
+it does so through exposure after the effect is resolved.</p>
 <hr />
 <h2 id="competencies">Competencies</h2>
 <p>Competencies indicate what a character has practiced and how far that
@@ -1304,12 +1338,38 @@ knowledge, crafts, movement, or concrete skills.</p>
 <p>Competencies fulfill two functions:</p>
 <ul>
 <li>modify rolls</li>
-<li>allow progression when the character puts them to the test in
-relevant situations</li>
+<li>allow progression when the character faces relevant situations</li>
 </ul>
+<p>Not all competencies progress in the same way.</p>
+<table>
+<thead>
+<tr>
+<th>Competency type</th>
+<th>How it progresses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weapons, Evasion, and Specializations</td>
+<td>Through Learning Advantage</td>
+</tr>
+<tr>
+<td>Armor</td>
+<td>By absorbing damage after a failed D.R.</td>
+</tr>
+<tr>
+<td>Shields</td>
+<td>Through shield Techniques and maneuvers</td>
+</tr>
+<tr>
+<td>Resistances</td>
+<td>Through exposure, consequence, and survival</td>
+</tr>
+</tbody>
+</table>
 <p>Competencies do not replace characteristics. Characteristics provide
 the base. Competencies show how much the character has trained,
-practiced, or refined that base.</p>
+practiced, refined, or adapted that base.</p>
 <hr />
 <h3 id="competency-levels-and-ranks">Competency Levels and Ranks</h3>
 <p>Each competency has a level and a rank.</p>
@@ -1377,11 +1437,9 @@ to Novice rank.</p>
 Untrained in them.</p>
 <hr />
 <h3 id="competency-progression">Competency Progression</h3>
-<p>Competencies increase when the character puts them at risk and
-chooses to learn from the action.</p>
-<p>Each time the character uses Learning Advantage, the roll may
-generate progress in a different competency depending on the action type
-and result.</p>
+<p>Competencies increase when the character faces a situation that
+demands something real for their current rank and meets the progression
+conditions of that competency.</p>
 <p>To gain one competency level, the following are required:</p>
 <ul>
 <li>5 progress points in major-affinity specializations</li>
@@ -1389,6 +1447,8 @@ and result.</p>
 </ul>
 <p>A specialization’s affinity is defined in the Specializations
 chapter.</p>
+<p>Resistances do not use major affinity by base rule, unless a specific
+rule says otherwise.</p>
 <hr />
 <h3 id="appropriate-tests-for-progression">Appropriate Tests for
 Progression</h3>
@@ -1397,14 +1457,25 @@ demand something real for the character’s current rank.</p>
 <h4 id="martial-competencies">Martial Competencies</h4>
 <p>Martial competencies progress when the character faces appropriately
 difficult adversaries and puts their training into practice.</p>
-<p>In the case of weapons, the character must attack, hit, and deal
-effective damage to a creature whose level is at least equal to the
-character’s RL -1.</p>
-<h4 id="evasion-armor-shield-and-resistance-competencies">Evasion,
-Armor, Shield, and Resistance Competencies</h4>
+<p>In the case of weapons, the character must use Learning Advantage,
+attack, hit, and deal effective damage to a creature whose level is at
+least equal to the character’s RL -1.</p>
+<h4 id="evasion-armor-and-shield">Evasion, Armor, and Shield</h4>
 <p>These competencies progress when the character is exposed to relevant
 threats and responds in a way that leaves learning behind: avoiding,
-absorbing, surviving, or enduring the corresponding exposure.</p>
+absorbing, or intervening through a defensive technique.</p>
+<ul>
+<li>Evasion progresses with a successful D.R. under Learning
+Advantage.</li>
+<li>Armor progresses when a D.R. fails and armor absorbs part of the
+impact.</li>
+<li>Shield progresses through successful shield Techniques or
+maneuvers.</li>
+</ul>
+<h4 id="resistances">Resistances</h4>
+<p>Resistances progress when the character is exposed to a real danger,
+suffers its consequences, and survives.</p>
+<p>They do not progress through Evolutionary Advantage.</p>
 <h4 id="specialization-competencies">Specialization Competencies</h4>
 <p>Specializations only progress when test difficulty is coherent with
 the character’s rank.</p>
@@ -1468,9 +1539,12 @@ split by type: light, medium, and heavy.</p>
 <code>1</code> when that piece resolves the impact in its zone.</li>
 </ul>
 <p><strong>Progression</strong></p>
-<p>Armor competency increases on a failed D.R. with Learning Advantage,
-provided the impact resolves in a protected zone and the armor actually
-absorbs part of the damage.</p>
+<p>Armor competency increases on a failed D.R., provided the impact
+resolves in a protected zone and the armor actually absorbs part of the
+damage.</p>
+<p>The character does not choose Learning Advantage to progress armor.
+Armor teaches when it receives real pressure and absorbs part of the
+impact.</p>
 <p>Progress applies to the armor type protecting that zone.</p>
 <hr />
 <h3 id="shields">Shields</h3>
@@ -1517,7 +1591,7 @@ S.R.</li>
 character’s current rank and meeting the learning condition of
 Evolutionary Advantage.</p>
 <hr />
-<h3 id="resistances">Resistances</h3>
+<h3 id="resistances-1">Resistances</h3>
 <p>Resistances cover specific dangers that poison, infect, alter,
 afflict, or curse a creature. They are not trained only through
 controlled repetition. They often grow through exposure, survival, and
@@ -1527,18 +1601,23 @@ is resolved through the relationship between Impact, Block, and the
 Wound or HP rules. If a fire, water, light, or other elemental-origin
 attack deals damage, that damage follows the normal flow unless a
 specific rule says otherwise.</p>
+<p>Resistances are added to the corresponding R.R., but they do not use
+Evolutionary Advantage.</p>
+<hr />
 <h4 id="poison">Poison</h4>
 <p><strong>Bonus</strong></p>
 <ul>
 <li>Each competency level grants <code>+1</code> to R.R. against
 poisons.</li>
 </ul>
+<hr />
 <h4 id="infection">Infection</h4>
 <p><strong>Bonus</strong></p>
 <ul>
 <li>Each competency level grants <code>+1</code> to R.R. against
 infections.</li>
 </ul>
+<hr />
 <h4 id="affliction">Affliction</h4>
 <p><strong>Bonus</strong></p>
 <ul>
@@ -1547,63 +1626,53 @@ afflictions.</li>
 <li>Each competency rank grants <code>+1</code> to Affliction R.R. made
 during meditation.</li>
 </ul>
+<hr />
 <h4 id="alteration">Alteration</h4>
 <p><strong>Bonus</strong></p>
 <ul>
 <li>Each competency level grants <code>+1</code> to R.R. against
 alterations.</li>
 </ul>
+<hr />
 <h4 id="curses">Curses</h4>
 <p><strong>Bonus</strong></p>
 <ul>
 <li>Each competency level grants <code>+1</code> to rolls made to detect
 or resist curses.</li>
 </ul>
-<p><strong>General Resistance Progression</strong></p>
-<p>Resistances increase on a failed R.R. with Learning Advantage,
-provided the character suffers and survives the corresponding
-effect.</p>
-<p>Completely negating a danger does not teach the same lesson as
-enduring it.</p>
-<h4 id="elemental-vulnerability-and-resistance">Elemental Vulnerability
-and Resistance</h4>
-<p>Elements function as the origin of damage or an effect, not as
-character resistance competencies.</p>
-<p>A creature, material, object, or specific effect may have
-<strong>Resistance</strong> or <strong>Vulnerability</strong> against an
-elemental origin. These rules do not progress through Evolutionary
-Advantage and are not part of the character sheet’s resistance
-competencies.</p>
-<table>
-<thead>
-<tr>
-<th>Trait</th>
-<th>Effect on damage from that origin</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Minor Resistance</td>
-<td>Takes 50% damage</td>
-</tr>
-<tr>
-<td>Major Resistance</td>
-<td>Takes 0 damage</td>
-</tr>
-<tr>
-<td>Minor Vulnerability</td>
-<td>Takes 150% damage</td>
-</tr>
-<tr>
-<td>Major Vulnerability</td>
-<td>Takes 200% damage</td>
-</tr>
-</tbody>
-</table>
-<p>Example: an anomalous creature linked to fire may have Minor
-Resistance to fire. A primordial creature made of pure Tauma and linked
-to fire may have Major Resistance to fire and Major Vulnerability to
-water, if its profile says so.</p>
+<hr />
+<h2 id="learning-through-exposure">Learning Through Exposure</h2>
+<p>Resistances increase when the character is exposed to a real danger,
+suffers it, and survives its consequences.</p>
+<p>A Resistance can gain progress if all of the following conditions are
+met:</p>
+<ul>
+<li>the character makes an R.R. against the corresponding danger</li>
+<li>the danger is relevant for the character’s current rank</li>
+<li>the character fails the R.R. or suffers a partial consequence from
+the effect</li>
+<li>the character survives the exposure</li>
+</ul>
+<p>If these conditions are met, the character marks <code>1</code>
+progress point in the corresponding Resistance.</p>
+<p>Completely resisting a danger does not generate progress by base
+rule. Resistance improves when the character is forced to adapt, not
+when they avoid all consequence.</p>
+<p>The Narrator can deny progress if the exposure is trivial, controlled
+without real risk, repeated artificially, or insufficient to challenge
+the character’s current rank.</p>
+<p>A specific rule, Technique, Grievance, treatment, mutation, or
+special condition can modify this learning.</p>
+<hr />
+<h4 id="about-elemental-resistance">About Elemental Resistance</h4>
+<p><strong>Elemental Resistance</strong> and <strong>Elemental
+Vulnerability</strong> are not competencies. They do not progress
+through Evolutionary Advantage and are not part of the character’s
+trainable resistance competencies.</p>
+<p>When a creature, material, object, Technique, or effect has
+resistance or vulnerability against an elemental origin, it is resolved
+through the rules for <strong>Elemental Damage and
+Affinities</strong>.</p>
 <hr />
 <h2 id="reference-level">Reference Level</h2>
 <p>The <strong>Reference Level</strong> (<strong>RL</strong>) summarizes
@@ -1656,21 +1725,22 @@ Between Rolls and Competencies</h2>
 <tr>
 <th>Roll</th>
 <th>Competency used</th>
-<th>Progression with Learning Advantage</th>
+<th>Progression</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>A.R.</td>
 <td>Competency of the weapon or object used</td>
-<td>If the attack succeeds and deals effective damage, the weapon or
-object used progresses.</td>
+<td>If it uses Learning Advantage, succeeds, and deals effective damage,
+the weapon or object used progresses.</td>
 </tr>
 <tr>
 <td>D.R.</td>
 <td>Applicable Evasion according to armor</td>
-<td>If the roll succeeds, Evasion progresses. If it fails and armor
-absorbs impact, the armor type of the resolved zone progresses.</td>
+<td>If it uses Learning Advantage and succeeds, Evasion progresses. If
+it fails and armor absorbs impact, the armor type of the resolved zone
+progresses.</td>
 </tr>
 <tr>
 <td>I.R.</td>
@@ -1685,14 +1755,15 @@ absorbs impact, the armor type of the resolved zone progresses.</td>
 <tr>
 <td>R.R.</td>
 <td>Resistance corresponding to the effect type</td>
-<td>If it fails and the effect is suffered, the corresponding resistance
-progresses.</td>
+<td>Does not use Evolutionary Advantage. If the character fails or
+suffers a partial consequence and survives a relevant danger, the
+corresponding Resistance progresses.</td>
 </tr>
 <tr>
 <td>S.R.</td>
 <td>Competency of the specialization involved</td>
-<td>If the roll succeeds and the difficulty is appropriate, the
-specialization used progresses.</td>
+<td>If it uses Learning Advantage, succeeds, and the difficulty is
+appropriate, the specialization used progresses.</td>
 </tr>
 <tr>
 <td>P.R.</td>
@@ -1713,6 +1784,12 @@ progress condition, the situation can generate progress in Evasion.</p>
 <p>If the D.R. fails, but the armor in the resolved zone absorbs part of
 the impact, the situation can generate progress in the corresponding
 armor type.</p>
+<p>Later, the same character suffers a toxin and makes a Poison R.R.
+This roll is resolved with a single <code>d10</code>; it does not use
+Evolutionary Advantage.</p>
+<p>If the character fails the R.R., suffers the effect, and survives,
+they can mark <code>1</code> progress in Poison Resistance, provided the
+exposure is relevant for their current rank.</p>
 <p>The competency that progresses depends on the result of the scene,
 not only on the type of roll.</p>
 <h1 id="specializations">Specializations</h1>

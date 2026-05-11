@@ -135,10 +135,12 @@ Both Evasion and Agility depend on the armor type protecting the resolved hit zo
 | --- | --- | --- |
 | Unarmored | Full Evasion | Full Agility |
 | Light | Full Evasion | Full Agility |
-| Medium | Half Evasion, minimum 1 | Half Agility, minimum 1 |
-| Heavy | 0 | 0 |
+| Medium | Full Evasion | Half Agility, minimum 1 |
+| Heavy | Half Evasion, minimum 1 | 0 |
 
-For medium armor, calculate half Evasion and half Agility separately. Each result is rounded up, unless a specific rule says otherwise.
+For medium armor, calculate half Agility and round up, unless a specific rule says otherwise.
+
+For heavy armor, calculate half Evasion and round up, unless a specific rule says otherwise.
 
 A shield contributes a general bonus to D.R. as part of defensive equipment. Its competency does not progress through this generic roll; it progresses through shield Techniques and maneuvers.
 

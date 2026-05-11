@@ -211,7 +211,7 @@ Bloqueo = BC + BM + CD + CO
 | Pesada | 6 |
 
 ```text
-BM = floor(Durabilidad / 5)
+BM = floor(Durabilidad / 10)
 ```
 
 La Competencia Defensiva equivale al nivel de competencia en el tipo de armadura que protege la zona golpeada.

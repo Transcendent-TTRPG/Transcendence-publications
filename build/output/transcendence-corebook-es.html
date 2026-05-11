@@ -511,6 +511,7 @@ tirada</a></li>
 <li><a href="#competencias" id="toc-competencias">Competencias</a></li>
 <li><a href="#tipos-de-competencias-y-sus-efectos" id="toc-tipos-de-competencias-y-sus-efectos">Tipos de competencias y sus
 efectos</a></li>
+<li><a href="#aprendizaje-por-exposición" id="toc-aprendizaje-por-exposición">Aprendizaje por exposición</a></li>
 <li><a href="#nivel-de-referencia" id="toc-nivel-de-referencia">Nivel de
 Referencia</a></li>
 <li><a href="#relación-entre-tiradas-y-competencias" id="toc-relación-entre-tiradas-y-competencias">Relación entre tiradas y
@@ -1054,22 +1055,38 @@ modificadores según el tipo de acción.</p>
 <strong>Ventaja Evolutiva</strong>. Los PNJ y otras criaturas usan una
 capa más directa, basada en Rasgos, capacidades especiales y la función
 que cumplen dentro de la escena.</p>
+<p>No todas las tiradas entrenables usan Ventaja Evolutiva. Algunas,
+como las Tiradas de Resistencia, representan respuestas internas del
+cuerpo, la mente o la esencia del personaje y se resuelven de forma
+directa.</p>
 <hr />
 <h2 id="ventaja-evolutiva">Ventaja Evolutiva</h2>
 <p>La Ventaja Evolutiva representa la forma en que un personaje afronta
 una acción entrenada bajo presión. Antes de tirar, el jugador elige si
 prioriza la ejecución inmediata o la posibilidad de aprendizaje.</p>
-<p>Esta elección solo aplica a tiradas que usan competencias:
-<strong>Tirada de Ataque</strong>, <strong>Tirada de Defensa</strong>,
-<strong>Tirada de Resistencia</strong> y <strong>Tirada de
-Especialización</strong>. No aplica a Tiradas de Característica ni a
-Tiradas de Rasgo de Personalidad.</p>
+<p>Esta elección solo aplica a tiradas donde el personaje tiene control
+activo sobre su ejecución:</p>
+<ul>
+<li><strong>Tirada de Ataque</strong></li>
+<li><strong>Tirada de Defensa</strong></li>
+<li><strong>Tirada de Especialización</strong></li>
+</ul>
+<p>No aplica a:</p>
+<ul>
+<li><strong>Tirada de Resistencia</strong></li>
+<li><strong>Tirada de Característica</strong></li>
+<li><strong>Tirada de Rasgo de Personalidad</strong></li>
+</ul>
+<p>Las Resistencias pueden progresar, pero no mediante Ventaja
+Evolutiva. Progresan por exposición, supervivencia y adaptación.</p>
+<hr />
 <h3 id="ventaja-en-la-ejecución">Ventaja en la Ejecución</h3>
 <p>El jugador lanza dos dados y usa el resultado mayor para resolver la
 tirada.</p>
 <p>La acción tiene más probabilidad de éxito, pero no puede generar
 progreso. El personaje se concentra en ejecutar bien, no en exponerse al
 error necesario para aprender.</p>
+<hr />
 <h3 id="ventaja-en-el-aprendizaje">Ventaja en el Aprendizaje</h3>
 <p>El jugador lanza dos dados y usa el resultado menor para resolver la
 tirada. El dado mayor queda reservado como dado de aprendizaje.</p>
@@ -1077,9 +1094,10 @@ tirada. El dado mayor queda reservado como dado de aprendizaje.</p>
 contra el resultado usado en la tirada y el rango de la competencia que
 puede progresar.</p>
 <pre class="text"><code>Dado de aprendizaje &gt; dado usado + rango de competencia</code></pre>
-<p>Si el dado de aprendizaje supera esa suma, el personaje marca 1 punto
-de progreso en la competencia correspondiente, siempre que la acción
-cumpla las condiciones de progresión de su tipo.</p>
+<p>Si el dado de aprendizaje supera esa suma, el personaje marca
+<code>1</code> punto de progreso en la competencia correspondiente,
+siempre que la acción cumpla las condiciones de progresión de su
+tipo.</p>
 <p>La tirada puede fallar y aun así enseñar. También puede tener éxito
 sin generar progreso. La competencia que progresa depende del tipo de
 acción y de lo que ocurrió en la escena.</p>
@@ -1124,11 +1142,6 @@ impactada.</p>
 <p>Tanto la Evasión como la Agilidad dependen del tipo de armadura que
 proteja la zona impactada:</p>
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr>
 <th>Armadura en la zona</th>
@@ -1149,19 +1162,20 @@ proteja la zona impactada:</p>
 </tr>
 <tr>
 <td>Intermedia</td>
-<td>Mitad de Evasión, mínimo 1</td>
+<td>Evasión completa</td>
 <td>Mitad de Agilidad, mínimo 1</td>
 </tr>
 <tr>
 <td>Pesada</td>
-<td>0</td>
+<td>Mitad de Evasión, mínimo 1</td>
 <td>0</td>
 </tr>
 </tbody>
 </table>
-<p>Para armadura intermedia, calcula por separado la mitad de la Evasión
-y la mitad de la Agilidad. Cada resultado se redondea hacia arriba,
-salvo que una regla específica indique lo contrario.</p>
+<p>Para armadura intermedia, calcula la mitad de la Agilidad y redondea
+hacia arriba, salvo que una regla específica indique lo contrario.</p>
+<p>Para armadura pesada, calcula la mitad de la Evasión y redondea hacia
+arriba, salvo que una regla específica indique lo contrario.</p>
 <p>El escudo aporta un bonificador general a la T.D. como parte del
 equipo defensivo. Su competencia no progresa por esta tirada genérica;
 progresa mediante Técnicas y maniobras de escudo.</p>
@@ -1187,6 +1201,7 @@ potencia del equipo.</p>
 <p>Si un personaje tiene rango 3 con un arma de daño <code>d8</code>,
 tira <code>3d8</code> como base de impacto antes de sumar la
 característica asociada por grado del arma.</p>
+<hr />
 <h4 id="impacto-con-armas-sin-competencia">Impacto con armas sin
 competencia</h4>
 <p>Un personaje puede atacar con un arma en la que no posee competencia.
@@ -1212,6 +1227,12 @@ resuelva mejor la acción. No genera progreso por sí sola.</p>
 <p>La Tirada de Resistencia resuelve si una criatura soporta, evita o
 reduce un efecto perjudicial: veneno, infección, aflicción, maldición o
 alteración.</p>
+<p>A diferencia de una Tirada de Ataque, Defensa o Especialización, una
+T.R. no representa una ejecución voluntaria del personaje. Representa
+una respuesta del cuerpo, la mente o la esencia frente a un peligro que
+intenta afectarlo.</p>
+<p>Por eso, la T.R. se resuelve con un solo dado y no usa Ventaja
+Evolutiva por defecto.</p>
 <p>La característica base depende del tipo de efecto. La resistencia
 correspondiente añade experiencia acumulada frente a ese peligro.</p>
 <p><strong>Fórmulas:</strong></p>
@@ -1243,6 +1264,11 @@ correspondiente añade experiencia acumulada frente a ese peligro.</p>
 </table>
 <p>El objetivo es igualar o superar la dificultad del efecto para
 evitarlo, mitigarlo o reducir sus consecuencias.</p>
+<p>Una T.R. no genera progreso por Ventaja en el Aprendizaje. Las
+Resistencias progresan por exposición, como se describe en la sección de
+Resistencias.</p>
+<p>Una regla específica, Técnica, Agravio o efecto excepcional puede
+alterar esta estructura, pero debe decirlo de forma explícita.</p>
 <hr />
 <h3 id="tirada-de-especialización-t.e.">Tirada de Especialización
 (T.E.)</h3>
@@ -1321,9 +1347,12 @@ superar un umbral fijo: T.E., T.C., T.R., fabricación, Agravios y otras
 pruebas equivalentes.</p>
 <p>El Narrador anuncia el nivel de dificultad antes de pedir la tirada,
 salvo cuando revelar esa información contradiga la naturaleza de la
-escena. Si la tirada puede generar progreso mediante Ventaja en el
-Aprendizaje, el jugador debe conocer el umbral antes de elegir cómo
+escena.</p>
+<p>Si una T.A., T.D. o T.E. puede generar progreso mediante Ventaja en
+el Aprendizaje, el jugador debe conocer el umbral antes de elegir cómo
 tirar.</p>
+<p>Las T.R. no usan Ventaja en el Aprendizaje. Si una Resistencia puede
+progresar, lo hace por exposición después de resolver el efecto.</p>
 <hr />
 <h2 id="competencias">Competencias</h2>
 <p>Las competencias indican qué ha practicado un personaje y qué tan
@@ -1336,9 +1365,40 @@ destrezas concretas.</p>
 <li>permiten progresar cuando el personaje las pone a prueba en
 situaciones relevantes</li>
 </ul>
+<p>No todas las competencias progresan de la misma forma.</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Tipo de competencia</th>
+<th>Cómo progresa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Armas, Evasión y Especializaciones</td>
+<td>Mediante Ventaja en el Aprendizaje</td>
+</tr>
+<tr>
+<td>Armaduras</td>
+<td>Al absorber daño después de una T.D. fallida</td>
+</tr>
+<tr>
+<td>Escudos</td>
+<td>Mediante Técnicas y maniobras de escudo</td>
+</tr>
+<tr>
+<td>Resistencias</td>
+<td>Por exposición, consecuencia y supervivencia</td>
+</tr>
+</tbody>
+</table>
 <p>Las competencias no sustituyen a las características. Las
 características dan base. Las competencias muestran cuánto ha entrenado,
-practicado o refinado el personaje esa base.</p>
+practicado, refinado o adaptado el personaje esa base.</p>
 <hr />
 <h3 id="niveles-y-rangos-de-competencia">Niveles y rangos de
 competencia</h3>
@@ -1407,11 +1467,9 @@ entrenado. Las competencias otorgadas por el trasfondo empiezan en nivel
 considera No Entrenado en ellas.</p>
 <hr />
 <h3 id="progresión-de-competencias">Progresión de competencias</h3>
-<p>Las competencias aumentan cuando el personaje las pone en riesgo y
-elige aprender de la acción.</p>
-<p>Cada vez que usa Ventaja en el Aprendizaje, la tirada puede generar
-progreso en una competencia distinta según el tipo de acción y el
-resultado obtenido.</p>
+<p>Las competencias aumentan cuando el personaje enfrenta una situación
+que exige algo real para su rango actual y cumple las condiciones de
+progreso de esa competencia.</p>
 <p>Para subir un nivel de competencia se requieren:</p>
 <ul>
 <li>5 puntos de progreso en especializaciones de afinidad mayor</li>
@@ -1419,6 +1477,8 @@ resultado obtenido.</p>
 </ul>
 <p>La afinidad de una especialización se define en el capítulo de
 Especializaciones.</p>
+<p>Las Resistencias no usan afinidad mayor por regla base, salvo que una
+regla específica indique lo contrario.</p>
 <hr />
 <h3 id="pruebas-adecuadas-para-progresar">Pruebas adecuadas para
 progresar</h3>
@@ -1428,15 +1488,25 @@ exigir algo real para el rango actual del personaje.</p>
 <p>Las competencias marciales progresan cuando el personaje enfrenta
 adversarios de dificultad adecuada y pone su entrenamiento en
 práctica.</p>
-<p>En el caso de armas, el personaje debe atacar, impactar y causar daño
-efectivo a una criatura cuyo nivel sea al menos igual al NR del
-personaje -1.</p>
-<h4 id="competencias-de-evasión-armadura-escudo-y-resistencias">Competencias
-de evasión, armadura, escudo y resistencias</h4>
+<p>En el caso de armas, el personaje debe usar Ventaja en el
+Aprendizaje, atacar, impactar y causar daño efectivo a una criatura cuyo
+nivel sea al menos igual al NR del personaje -1.</p>
+<h4 id="evasión-armadura-y-escudo">Evasión, armadura y escudo</h4>
 <p>Estas competencias progresan cuando el personaje queda expuesto a
-peligros relevantes y responde de una forma que deja aprendizaje:
-evitar, absorber, sobrevivir o soportar la exposición
-correspondiente.</p>
+amenazas relevantes y responde de una forma que deja aprendizaje:
+evitar, absorber o intervenir mediante una técnica defensiva.</p>
+<ul>
+<li>Evasión progresa con una T.D. exitosa bajo Ventaja en el
+Aprendizaje.</li>
+<li>Armadura progresa cuando una T.D. falla y la armadura absorbe parte
+del impacto.</li>
+<li>Escudo progresa mediante Técnicas o maniobras de escudo
+exitosas.</li>
+</ul>
+<h4 id="resistencias">Resistencias</h4>
+<p>Las Resistencias progresan cuando el personaje se expone a un peligro
+real, sufre sus consecuencias y sobrevive.</p>
+<p>No progresan por Ventaja Evolutiva.</p>
 <h4 id="competencias-de-especialización">Competencias de
 especialización</h4>
 <p>Las especializaciones progresan solo cuando la dificultad de la
@@ -1504,9 +1574,12 @@ una armadura de ese tipo cuando esa pieza resuelve el impacto en su
 zona.</li>
 </ul>
 <p><strong>Progresión</strong></p>
-<p>La competencia en armaduras aumenta con una T.D. fallida bajo Ventaja
-en el Aprendizaje, siempre que el impacto se resuelva en una zona
-protegida y la armadura absorba efectivamente parte del daño.</p>
+<p>La competencia en armaduras aumenta con una T.D. fallida, siempre que
+el impacto se resuelva en una zona protegida y la armadura absorba
+efectivamente parte del daño.</p>
+<p>El personaje no elige Ventaja en el Aprendizaje para progresar
+armadura. La armadura enseña cuando recibe presión real y logra absorber
+parte del impacto.</p>
 <p>El progreso se aplica al tipo de armadura que protegía esa zona.</p>
 <hr />
 <h3 id="escudos">Escudos</h3>
@@ -1553,7 +1626,7 @@ T.E.</li>
 rango actual del personaje y al cumplir la condición de aprendizaje de
 Ventaja Evolutiva.</p>
 <hr />
-<h3 id="resistencias">Resistencias</h3>
+<h3 id="resistencias-1">Resistencias</h3>
 <p>Las resistencias cubren peligros concretos que buscan intoxicar,
 infectar, alterar, afligir o maldecir a una criatura. No se entrenan
 solo por repetición controlada. Suelen crecer por exposición,
@@ -1563,18 +1636,23 @@ daño se resuelve por la relación entre Impacto, Bloqueo y las reglas de
 Heridas o PV. Si un ataque de fuego, agua, luz u otro origen elemental
 causa daño, ese daño sigue el flujo normal salvo que una regla
 específica diga lo contrario.</p>
+<p>Las Resistencias se suman a la T.R. correspondiente, pero no usan
+Ventaja Evolutiva.</p>
+<hr />
 <h4 id="veneno">Veneno</h4>
 <p><strong>Bonificador</strong></p>
 <ul>
 <li>Cada nivel de competencia otorga <code>+1</code> a la T.R. contra
 venenos.</li>
 </ul>
+<hr />
 <h4 id="infección">Infección</h4>
 <p><strong>Bonificador</strong></p>
 <ul>
 <li>Cada nivel de competencia otorga <code>+1</code> a la T.R. contra
 infecciones.</li>
 </ul>
+<hr />
 <h4 id="aflicción">Aflicción</h4>
 <p><strong>Bonificador</strong></p>
 <ul>
@@ -1583,24 +1661,44 @@ aflicciones.</li>
 <li>Cada rango de competencia otorga <code>+1</code> a las T.R. de
 Aflicción realizadas durante meditación.</li>
 </ul>
+<hr />
 <h4 id="alteración">Alteración</h4>
 <p><strong>Bonificador</strong></p>
 <ul>
 <li>Cada nivel de competencia otorga <code>+1</code> a la T.R. contra
 alteraciones.</li>
 </ul>
+<hr />
 <h4 id="maldiciones">Maldiciones</h4>
 <p><strong>Bonificador</strong></p>
 <ul>
 <li>Cada nivel de competencia otorga <code>+1</code> a tiradas para
 detectar o resistir maldiciones.</li>
 </ul>
-<p><strong>Progresión general de resistencias</strong></p>
-<p>Las resistencias aumentan con una T.R. fallida bajo Ventaja en el
-Aprendizaje, siempre que el personaje sufra y sobreviva al efecto
-correspondiente.</p>
-<p>Resistir por completo un peligro no enseña lo mismo que
-soportarlo.</p>
+<hr />
+<h2 id="aprendizaje-por-exposición">Aprendizaje por exposición</h2>
+<p>Las Resistencias aumentan cuando el personaje se expone a un peligro
+real, lo sufre y sobrevive a sus consecuencias.</p>
+<p>Una Resistencia puede ganar progreso si se cumplen todas estas
+condiciones:</p>
+<ul>
+<li>el personaje realiza una T.R. contra el peligro correspondiente</li>
+<li>el peligro es relevante para el rango actual del personaje</li>
+<li>el personaje falla la T.R. o sufre una consecuencia parcial del
+efecto</li>
+<li>el personaje sobrevive a la exposición</li>
+</ul>
+<p>Si estas condiciones se cumplen, el personaje marca <code>1</code>
+punto de progreso en la Resistencia correspondiente.</p>
+<p>Resistir por completo un peligro no genera progreso por regla base.
+La resistencia mejora cuando el personaje es forzado a adaptarse, no
+cuando evita toda consecuencia.</p>
+<p>El Narrador puede negar progreso si la exposición es trivial,
+controlada sin riesgo real, repetida de forma artificial o insuficiente
+para desafiar el rango actual del personaje.</p>
+<p>Una regla específica, Técnica, Agravio, tratamiento, mutación o
+condición especial puede modificar este aprendizaje.</p>
+<hr />
 <h4 id="sobre-resistencia-elemental">Sobre resistencia elemental</h4>
 <p>La <strong>Resistencia Elemental</strong> y la <strong>Vulnerabilidad
 Elemental</strong> no son competencias. No progresan mediante Ventaja
@@ -1662,21 +1760,22 @@ competencias</h2>
 <tr>
 <th>Tirada</th>
 <th>Competencia utilizada</th>
-<th>Progresión con Ventaja en el Aprendizaje</th>
+<th>Progresión</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>T.A.</td>
 <td>Competencia del arma u objeto empleado</td>
-<td>Si el ataque tiene éxito y causa daño efectivo, progresa el arma u
-objeto usado.</td>
+<td>Si usa Ventaja en el Aprendizaje, tiene éxito y causa daño efectivo,
+progresa el arma u objeto usado.</td>
 </tr>
 <tr>
 <td>T.D.</td>
 <td>Evasión aplicable según armadura</td>
-<td>Si la tirada tiene éxito, progresa Evasión. Si falla y la armadura
-absorbe impacto, progresa el tipo de armadura de la zona resuelta.</td>
+<td>Si usa Ventaja en el Aprendizaje y tiene éxito, progresa Evasión. Si
+falla y la armadura absorbe impacto, progresa el tipo de armadura de la
+zona resuelta.</td>
 </tr>
 <tr>
 <td>T.I.</td>
@@ -1691,14 +1790,15 @@ absorbe impacto, progresa el tipo de armadura de la zona resuelta.</td>
 <tr>
 <td>T.R.</td>
 <td>Resistencia correspondiente al tipo de efecto</td>
-<td>Si falla y el efecto se sufre, progresa la resistencia
-correspondiente.</td>
+<td>No usa Ventaja Evolutiva. Si el personaje falla o sufre una
+consecuencia parcial y sobrevive a un peligro relevante, progresa la
+resistencia correspondiente.</td>
 </tr>
 <tr>
 <td>T.E.</td>
 <td>Competencia de la especialización implicada</td>
-<td>Si la tirada tiene éxito y la dificultad es adecuada, progresa la
-especialización usada.</td>
+<td>Si usa Ventaja en el Aprendizaje, tiene éxito y la dificultad es
+adecuada, progresa la especialización usada.</td>
 </tr>
 <tr>
 <td>T.P.</td>
@@ -1720,6 +1820,12 @@ progreso, la situación puede generar progreso en Evasión.</p>
 <p>Si falla la T.D., pero la armadura de la zona resuelta absorbe parte
 del impacto, la situación puede generar progreso en el tipo de armadura
 correspondiente.</p>
+<p>Más adelante, el mismo personaje sufre una toxina y realiza una T.R.
+de Veneno. Esta tirada se resuelve con un solo <code>d10</code>; no usa
+Ventaja Evolutiva.</p>
+<p>Si falla la T.R., sufre el efecto y sobrevive, puede marcar
+<code>1</code> progreso en Resistencia a Veneno, siempre que la
+exposición sea relevante para su rango actual.</p>
 <p>La competencia que progresa depende del resultado de la escena, no
 solo del tipo de tirada.</p>
 <h1 id="especializaciones">Especializaciones</h1>
@@ -5268,7 +5374,7 @@ lo contrario.</p>
 </tr>
 </tbody>
 </table>
-<pre class="text"><code>BM = floor(Durabilidad / 5)</code></pre>
+<pre class="text"><code>BM = floor(Durabilidad / 10)</code></pre>
 <p>La Competencia Defensiva equivale al nivel de competencia en el tipo
 de armadura que protege la zona golpeada.</p>
 <p>Solo se usa si esa armadura participa realmente en absorber el
