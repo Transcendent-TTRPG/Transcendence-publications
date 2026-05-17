@@ -219,12 +219,12 @@ These costs apply when no Technique, specific rule, condition, or bonus modifies
 | Free action: drop, speak briefly | 0 | 0 |
 | Interact | 3 | 0 or 1 |
 | Move | 5 | 1 |
-| Hide | 5 | 1 |
-| Use Specialization | 5 | 1 |
-| Attack with natural weapon | 5 | 1 |
-| Attack with one-handed weapon | 5 | 1 |
+| Hide | 6 | 1 |
+| Use Specialization | 6 | 1 |
+| Attack with natural weapon | 6 | 1 |
+| Attack with one-handed weapon | 6 | 1 |
 | Attack with two-handed weapon | 7 | 1 |
-| Attack with two weapons | 7 | 1 |
+| Attack with two weapons | 8 | 1 |
 | Use Technique | Variable | Variable |
 
 Interact only generates Attrition when the interaction occurs under real scene pressure. A trivial interaction with no immediate risk generates `0` Attrition.
@@ -290,10 +290,11 @@ Position determines what is possible. That is the tactical value of Movement wit
 
 ## Hide and ATB
 
-Hide uses standard rhythm because it requires a real opening within the scene.
+Hide uses a value above standard rhythm because it requires a real opening and
+changes tactical information state within the scene.
 
 ```text
-Hide = rhythm cost 5
+Hide = rhythm cost 6
 ```
 
 To hide, the character must create or exploit a situation that allows them to break the enemies’ precise localization.

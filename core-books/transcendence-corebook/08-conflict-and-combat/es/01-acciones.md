@@ -122,6 +122,9 @@ Los costos de ritmo indican cuánto se desplaza la ficha de la criatura en la l�
 
 El costo de ritmo no siempre mide duración física. También mide recuperación, exposición, compromiso y pérdida de oportunidad dentro del combate.
 
+Algunas acciones y Técnicas también pueden usar valores intermedios como `6` u
+`8` cuando realmente caen entre dos anclas de sensación de juego.
+
 ---
 
 ## Acciones base
@@ -131,13 +134,13 @@ Estas acciones están disponibles para cualquier personaje en combate o en una e
 | Acción | Tipo | Ritmo | Desgaste base |
 | --- | --- | --- | --- |
 | Movimiento | Acción Activa | 5 | 1 |
-| Ataque con arma natural | Acción Activa | 5 | 1 |
-| Ataque con arma a una mano | Acción Activa | 5 | 1 |
+| Ataque con arma natural | Acción Activa | 6 | 1 |
+| Ataque con arma a una mano | Acción Activa | 6 | 1 |
 | Ataque con arma a dos manos | Acción Activa | 7 | 1 |
-| Ataque con dos armas | Acción Activa | 7 | 1 |
+| Ataque con dos armas | Acción Activa | 8 | 1 |
 | Interactuar | Acción Activa | 3 | 0 o 1 |
-| Ocultarse | Acción Activa | 5 | 1 |
-| Usar Especialización | Acción Activa | 5 | 1 |
+| Ocultarse | Acción Activa | 6 | 1 |
+| Usar Especialización | Acción Activa | 6 | 1 |
 | Usar Técnica | Variable | Variable | Variable |
 | Soltar | Acción Gratuita | 0 | 0 |
 | Hablar brevemente | Acción Gratuita | 0 | 0 |
@@ -160,7 +163,7 @@ Puede usarse para:
 - separarse de una amenaza
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5  
+**Costo de ritmo:** 6  
 **Desgaste:** 1
 
 La distancia base proviene de la velocidad de la especie del personaje. El terreno no cambia el costo de ritmo. Cambia cuánto avanza el personaje, si el trayecto requiere una tirada o qué consecuencias produce.
@@ -192,7 +195,7 @@ Las armas naturales son partes ofensivas del cuerpo de una criatura: garras, mor
 No requieren equipo y no pueden ser desarmadas mientras el cuerpo de la criatura pueda usarlas.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5  
+**Costo de ritmo:** 6  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar usando la competencia y la característica asociada.
@@ -206,7 +209,7 @@ Un ataque con arma a una mano usa un arma que puede sostenerse y manejarse con u
 Este ataque deja la otra mano libre.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5  
+**Costo de ritmo:** 6  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar.
@@ -220,7 +223,7 @@ Un ataque con arma a dos manos usa un arma que exige compromiso corporal complet
 Estas armas suelen tener más alcance, masa o amenaza, pero retrasan la siguiente intervención de quien las usa.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 7  
+**Costo de ritmo:** 8  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar.
@@ -262,12 +265,30 @@ Puede usarse para:
 - activar un mecanismo
 - ajustar equipo
 - guardar o sacar un objeto accesible
+- limpiar, retirar, desenredar o acomodar rápidamente algo que estorba la función inmediata
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 3  
 **Desgaste:** 1 bajo presión real
 
 El Desgaste solo se genera cuando la interacción ocurre bajo presión activa de la escena. Una interacción trivial o sin riesgo inmediato no genera Desgaste.
+
+### Respuestas procedurales breves
+
+Algunas Técnicas, condiciones o peligros no se responden con daño directo sino con un
+paso práctico: limpiar una herida, arrancar residuo, soltar una línea atrapada,
+retirar un irritante, despejar un mecanismo o volver una parte del cuerpo a un
+estado utilizable.
+
+Cuando la respuesta es principalmente física, breve y no exige diagnóstico
+entrenado, suele resolverse como **Interactuar**.
+
+Costo orientativo bajo presión activa:
+
+- **Respuesta rápida propia:** `Ritmo 3 / Desgaste 1`
+
+Esto no reemplaza reglas más específicas. Si la situación exige diagnóstico,
+tratamiento técnico o una tirada entrenada, pasa a **Usar Especialización**.
 
 ### Cambio de arma
 
@@ -287,7 +308,7 @@ Si el personaje primero suelta el arma actual como Acción Gratuita, solo necesi
 No vuelve invisible al personaje. No borra sus rastros. Crea duda sobre dónde está exactamente y desde dónde puede actuar.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5  
+**Costo de ritmo:** 6  
 **Desgaste:** 1
 
 Para ocultarse, el personaje necesita una oportunidad real. Debe cumplir al menos una de estas condiciones:
@@ -302,9 +323,9 @@ No se puede desaparecer a simple vista mientras un enemigo relevante mantiene al
 
 Ocultarse se resuelve con una Tirada de Especialización apropiada a la ficción, como **Sigilo**, **Supervivencia** u otra autorizada por una Técnica.
 
-La tirada se compara contra la dificultad del entorno o la Percepción enemiga. Si tiene éxito, el personaje obtiene **Ocultación** contra los enemigos afectados.
+La tirada se compara contra la dificultad del entorno o la Percepción enemiga. Si tiene éxito, el personaje obtiene el estado **`Oculto`** contra los enemigos afectados.
 
-Las reglas completas de Ocultación, posición aproximada y detección se encuentran en **Cobertura, Visibilidad y Ocultación**.
+Las reglas completas del estado `Oculto`, posición aproximada y detección se encuentran en **Cobertura, Visibilidad y Ocultación**.
 
 ---
 
@@ -321,14 +342,36 @@ Puede cubrir acciones como:
 - interpretar una inscripción antes de que el enemigo llegue
 - leer el lenguaje corporal de un adversario
 - fabricar o ajustar algo bajo presión
+- identificar un residuo, señal, afección o alteración antes de responder
+- aplicar tratamiento técnico, limpieza entrenada o contención bajo presión
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 5  
+**Costo de ritmo:** 6  
 **Desgaste:** 1
 
 Una Especialización produce un resultado narrativo o práctico: el personaje salta el abismo, interpreta el código, detecta la trampa o alcanza una posición.
 
 Si ese resultado tiene una consecuencia mecánica directa, esa consecuencia debe provenir de una regla específica, una acción posterior o una Técnica.
+
+### Respuestas procedurales entrenadas
+
+Cuando una Técnica o condición crea un problema que no se resuelve solo con
+quitar algo de encima, la respuesta apropiada suele ser **Usar Especialización**.
+
+Ejemplos frecuentes:
+
+- leer qué clase de contaminación o señal está presente
+- decidir cómo tratar una herida ensuciada
+- contener un derrame peligroso antes de que empeore
+- desenredar una restricción sin agravarla
+
+Costos orientativos bajo presión activa:
+
+- **Identificación rápida:** `Ritmo 3 / Desgaste 1`
+- **Tratamiento asistido o técnico:** `Ritmo 6 / Desgaste 1`
+
+La Especialización concreta depende de la ficción: **Medicina**, **Contención**,
+**Destreza**, **Rastreo**, **Agarre** u otra si una Técnica o regla lo autoriza.
 
 ---
 

@@ -424,6 +424,12 @@ Medicina cubre estabilizar, tratar y curar daño corporal.
 
 Herboristería, alquimia, objetos, Técnicas y artefactos pueden modificar estas reglas desde sus propias secciones.
 
+Cuando una Técnica no crea una Herida más severa sino un problema de tratamiento
+o limpieza, la respuesta inmediata en combate suele resolverse con **Interactuar**
+o **Usar Especialización** según exija o no diagnóstico y manejo entrenado. Eso
+no sustituye **Estabilizar**, **Tratar** o **Curar**: solo resuelve el paso
+previo que permite volver a ellos en condiciones limpias.
+
 ---
 
 ## Estabilización

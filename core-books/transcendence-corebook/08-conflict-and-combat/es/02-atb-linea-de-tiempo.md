@@ -219,12 +219,12 @@ Estos costos aplican cuando ninguna Técnica, regla específica, condición o bo
 | Acción gratuita: soltar, hablar brevemente | 0 | 0 |
 | Interactuar | 3 | 0 o 1 |
 | Moverse | 5 | 1 |
-| Ocultarse | 5 | 1 |
-| Usar Especialización | 5 | 1 |
-| Atacar con arma natural | 5 | 1 |
-| Atacar con arma a una mano | 5 | 1 |
+| Ocultarse | 6 | 1 |
+| Usar Especialización | 6 | 1 |
+| Atacar con arma natural | 6 | 1 |
+| Atacar con arma a una mano | 6 | 1 |
 | Atacar con arma a dos manos | 7 | 1 |
-| Atacar con dos armas | 7 | 1 |
+| Atacar con dos armas | 8 | 1 |
 | Usar Técnica | Variable | Variable |
 
 El Desgaste de Interactuar solo se aplica cuando la interacción ocurre bajo presión real de la escena. Una interacción trivial o sin riesgo inmediato genera `0` Desgaste.
@@ -290,10 +290,11 @@ La posición determina lo que es posible. Ese es el valor táctico del Movimient
 
 ## Ocultarse y ATB
 
-Ocultarse usa ritmo estándar porque exige una oportunidad real dentro de la escena.
+Ocultarse usa un valor por encima del ritmo estándar porque exige una
+oportunidad real y cambia el estado de información táctica dentro de la escena.
 
 ```text
-Ocultarse = costo de ritmo 5
+Ocultarse = costo de ritmo 6
 ```
 
 Para ocultarse, el personaje debe crear o aprovechar una situación que permita romper la localización precisa de los enemigos.
@@ -332,4 +333,3 @@ El segundo usa un ataque con arma a dos manos. Su acción tiene costo de ritmo `
 El primer personaje vuelve a estar disponible antes porque pagó un costo de ritmo menor. El segundo generó más presión inmediata, pero tardará más en volver a actuar.
 
 La línea de tiempo registra esas elecciones directamente, sin convertirlas en rondas fijas.
-

@@ -122,6 +122,9 @@ Rhythm costs indicate how far the creature’s marker advances on the ATB timeli
 
 Rhythm cost does not always measure physical duration. It also measures recovery, exposure, commitment, and lost opportunity within combat.
 
+Specific actions and Techniques may also use intermediate values such as `6` or
+`8` when they clearly fall between the anchor bands in play feel.
+
 ---
 
 ## Base Actions
@@ -131,13 +134,13 @@ These actions are available to any character in combat or in a high-pressure sce
 | Action | Type | Rhythm | Base Attrition |
 | --- | --- | --- | --- |
 | Movement | Active Action | 5 | 1 |
-| Natural weapon attack | Active Action | 5 | 1 |
-| One-handed weapon attack | Active Action | 5 | 1 |
+| Natural weapon attack | Active Action | 6 | 1 |
+| One-handed weapon attack | Active Action | 6 | 1 |
 | Two-handed weapon attack | Active Action | 7 | 1 |
-| Two-weapon attack | Active Action | 7 | 1 |
+| Two-weapon attack | Active Action | 8 | 1 |
 | Interact | Active Action | 3 | 0 or 1 |
-| Hide | Active Action | 5 | 1 |
-| Use Specialization | Active Action | 5 | 1 |
+| Hide | Active Action | 6 | 1 |
+| Use Specialization | Active Action | 6 | 1 |
 | Use Technique | Variable | Variable | Variable |
 | Drop | Free Action | 0 | 0 |
 | Speak briefly | Free Action | 0 | 0 |
@@ -160,7 +163,7 @@ It can be used to:
 - separate from a threat
 
 **Type:** Active Action  
-**Rhythm cost:** 5  
+**Rhythm cost:** 6  
 **Attrition:** 1
 
 The base distance comes from the character’s species speed. Terrain does not change the rhythm cost. It changes how far the character moves, whether the path requires a roll, or what consequences the movement produces.
@@ -192,7 +195,7 @@ Natural weapons are offensive body parts: claws, bite, horns, tail, pincers, sti
 They require no equipment and cannot be disarmed as long as the creature’s body can use them.
 
 **Type:** Active Action  
-**Rhythm cost:** 5  
+**Rhythm cost:** 6  
 **Attrition:** 1
 
 Resolved with a standard A.R. using the corresponding competency and associated characteristic.
@@ -206,7 +209,7 @@ A one-handed weapon attack uses a weapon that can be held and operated with one 
 This attack leaves the other hand free.
 
 **Type:** Active Action  
-**Rhythm cost:** 5  
+**Rhythm cost:** 6  
 **Attrition:** 1
 
 Resolved with a standard A.R.
@@ -220,7 +223,7 @@ A two-handed weapon attack uses a weapon that requires full-body commitment: gre
 These weapons often have greater reach, mass, or threat, but they delay the user’s next intervention.
 
 **Type:** Active Action  
-**Rhythm cost:** 7  
+**Rhythm cost:** 8  
 **Attrition:** 1
 
 Resolved with a standard A.R.
@@ -262,12 +265,30 @@ It can be used to:
 - activate a mechanism
 - adjust equipment
 - store or draw an accessible object
+- quickly clean, remove, disentangle, or reset something that is interfering with immediate function
 
 **Type:** Active Action  
 **Rhythm cost:** 3  
 **Attrition:** 1 under real pressure
 
 Attrition is only generated when the interaction occurs under active scene pressure. A trivial interaction with no immediate risk does not generate Attrition.
+
+### Brief procedural responses
+
+Some Techniques, conditions, or hazards do not mainly answer through direct damage
+but through a practical step: cleaning a wound, stripping residue, freeing a
+snagged line, removing an irritant, clearing a mechanism, or restoring a body
+part to usable function.
+
+When the answer is mostly physical, brief, and does not require trained
+diagnosis, it usually resolves as **Interact**.
+
+Suggested cost under active pressure:
+
+- **quick self-response:** `Rhythm 3 / Attrition 1`
+
+This does not replace more specific rules. If the situation requires diagnosis,
+technical treatment, or a trained roll, it moves to **Use Specialization**.
 
 ### Weapon Change
 
@@ -287,7 +308,7 @@ If the character first drops the current weapon as a Free Action, only one Inter
 It does not make the character invisible. It does not erase tracks. It creates doubt about exactly where the character is and where they can act from.
 
 **Type:** Active Action  
-**Rhythm cost:** 5  
+**Rhythm cost:** 6  
 **Attrition:** 1
 
 To hide, the character needs a real opportunity. They must meet at least one of these conditions:
@@ -302,9 +323,9 @@ A character cannot vanish in plain sight while a relevant enemy clearly has them
 
 Hide is resolved with a Specialization Roll appropriate to the fiction, such as **Stealth**, **Survival**, or another specialization authorized by a Technique.
 
-The roll is compared against the environment difficulty or enemy Perception. On success, the character gains **Concealment** against the affected enemies.
+The roll is compared against the environment difficulty or enemy Perception. On success, the character gains the **`Hidden`** state against the affected enemies.
 
-The full rules for Concealment, approximate position, and detection are found in **Cover, Visibility, and Concealment**.
+The full rules for the `Hidden` state, approximate position, and detection are found in **Cover, Visibility, and Concealment**.
 
 ---
 
@@ -321,14 +342,38 @@ It can cover actions such as:
 - interpreting an inscription before an enemy arrives
 - reading an adversary’s body language
 - crafting or adjusting something under pressure
+- identifying a residue, signal, ailment, or alteration before responding
+- applying technical treatment, trained cleaning, or containment under pressure
 
 **Type:** Active Action  
-**Rhythm cost:** 5  
+**Rhythm cost:** 6  
 **Attrition:** 1
 
 A Specialization produces a narrative or practical result: the character clears the gap, deciphers the code, detects the trap, or reaches a position.
 
 If that result has a direct mechanical consequence, that consequence must come from a specific rule, a later action, or a Technique.
+
+### Trained procedural responses
+
+When a Technique or condition creates a problem that cannot be answered by merely
+pulling something off or stepping clear, the proper answer is usually **Use
+Specialization**.
+
+Common examples:
+
+- reading what kind of contamination or mark is present
+- deciding how to treat a fouled wound
+- containing a dangerous spill before it worsens
+- disentangling a restraint without making it worse
+
+Suggested costs under active pressure:
+
+- **quick identification:** `Rhythm 3 / Attrition 1`
+- **aided or technical treatment:** `Rhythm 6 / Attrition 1`
+
+The actual Specialization depends on the fiction: **Medicine**, **Containment**,
+**Dexterity**, **Tracking**, **Grappling**, or another one if a Technique or rule
+explicitly authorizes it.
 
 ---
 

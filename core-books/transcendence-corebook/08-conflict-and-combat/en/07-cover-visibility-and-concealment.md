@@ -338,13 +338,32 @@ If the attack connects, Impact resolves normally unless a specific rule says oth
 
 ## Concealment
 
-**Concealment** is a tactical state: a creature is not precisely located by one or more enemies.
+**Concealment** is the system layer that governs the tactical state `Hidden`, detection, approximate position, and the loss or maintenance of that advantage.
+
+A creature that is `Hidden` is not precisely located by one or more enemies.
 
 It is not invisibility. It is not immunity. It does not erase physical evidence.
 
 It means the enemy does not know exactly where the creature is or cannot fix it as a direct target.
 
-Concealment is tracked by enemy or enemy group. A creature can be hidden from one guard, but not from another who saw them enter.
+### `Hidden` State
+
+`Hidden` is tracked by enemy or enemy group.
+
+A creature can be `Hidden` from one guard, but not from another who saw them enter.
+
+The base **Hide** action grants `Hidden` when its requirements are met and the roll succeeds. Traits, artifacts, preparations, or Techniques can also grant `Hidden` through more efficient or more specific routes, but the granted state remains the same.
+
+When `Hidden` is created by a roll, that initial roll is preserved as the active value of the state until another roll, Technique, detection result, or fictional change replaces it.
+
+While a creature is `Hidden` from an enemy:
+
+- that enemy cannot choose it as the target of direct “one creature” attacks
+- it can attack an area or suspected position if it has a reason to do so
+- it can actively search for the hidden creature
+- it can react to obvious signals, noise, contact, or environmental changes
+
+`Hidden` does not protect against area effects that cover the real position.
 
 ---
 
@@ -354,7 +373,7 @@ Hide is a base action when performed under pressure.
 
 | Action | Rhythm | Attrition | Roll |
 | --- | ---: | ---: | --- |
-| Hide | 5 | 1 | Appropriate Specialization Roll against environmental difficulty or enemy Perception |
+| Hide | 6 | 1 | Appropriate Specialization Roll against environmental difficulty or enemy Perception |
 
 Outside a hostile scene, Hide has no rhythm cost.
 
@@ -365,7 +384,7 @@ A creature can attempt to hide if at least one of these conditions is true:
 - it has Medium Cover or Total Cover
 - it is outside the effective visual range of relevant enemies
 - it is inside a reduced-Visibility condition that can hide its position
-- it has a Technique, trait, artifact, or preparation that permits Concealment
+- it has a Technique, trait, artifact, or preparation that can grant `Hidden`
 
 In addition, no relevant enemy must have it clearly located by an applicable sense.
 
@@ -398,26 +417,13 @@ Ties favor the concealed creature.
 
 ---
 
-## Effects of Concealment
+## Attacking While `Hidden`
 
-While a creature is concealed from an enemy:
-
-- that enemy cannot choose it as the target of direct “one creature” attacks
-- that enemy can attack an area or suspected position if it has a reason to do so
-- that enemy can search with Perception, a Technique, or a scene-specific action
-- that enemy can react to obvious signals, noise, contact, or environmental changes
-
-Concealment does not protect against area effects that cover the real position.
-
----
-
-## Attacking from Concealment
-
-Attacking from Concealment can grant an opening advantage if the target does not react in time.
+Attacking while `Hidden` can grant an opening advantage if the target does not react in time.
 
 Before resolving the attack, relevant creatures within `10 meters` can attempt to detect the action if they have an applicable sense.
 
-Use a Perception Specialization Roll against active Concealment or environmental difficulty.
+Use a Perception Specialization Roll against the active `Hidden` state or environmental difficulty.
 
 A creature beyond `10 meters` can attempt this detection only if it has a special sense, Technique, preparation, or position that justifies reacting to that signal.
 
@@ -428,17 +434,17 @@ A creature beyond `10 meters` can attempt this detection only if it has a specia
 
 If the attack keeps opening advantage, it gains `+3` to the Attack Roll against targets that did not detect the action in time.
 
-Attacking from Concealment always compromises Concealment, even if the attack misses.
+Attacking while `Hidden` always compromises `Hidden`, even if the attack misses.
 
 After the attack, resolve approximate position or detection according to the scene.
 
 ---
 
-## Maintaining and Losing Concealment
+## Maintaining and Losing `Hidden`
 
-Concealment holds while the creature does not give a sufficient signal to locate it.
+`Hidden` holds while the creature does not give a sufficient signal to locate it.
 
-Actions that compromise Concealment:
+Actions that compromise `Hidden`:
 
 - making a melee attack
 - making a ranged attack
@@ -449,11 +455,11 @@ Actions that compromise Concealment:
 - interacting with a light source
 - changing position in a silent environment
 
-Compromising Concealment does not automatically reveal exact position.
+Compromising `Hidden` does not automatically reveal exact position.
 
 It means there is enough signal for nearby enemies to attempt location.
 
-When a creature compromises Concealment, relevant creatures within `10 meters` can attempt a Perception Specialization Roll if they have an applicable sense.
+When a creature compromises `Hidden`, relevant creatures within `10 meters` can attempt a Perception Specialization Roll if they have an applicable sense.
 
 Creatures beyond `10 meters` need a special sense, Technique, preparation, or circumstance that justifies detection.
 
@@ -484,10 +490,10 @@ The player should know what their character perceived, but not whether that perc
 
 If the player is the one concealed:
 
-1. The player rolls the same specialization used to hide, or the appropriate specialization if the fiction changed.
+1. The player keeps the roll or value that last established `Hidden`.
 2. The Narrator rolls Perception for the creature trying to detect them.
-3. If Perception beats Concealment, the creature locates the character’s real position.
-4. If Perception does not beat Concealment, the Narrator rolls `1d8` and the creature acts toward the false position indicated by that direction, if its behavior justifies it.
+3. If Perception beats the `Hidden` state, the creature locates the character’s real position.
+4. If Perception does not beat the `Hidden` state, the Narrator rolls `1d8` and the creature acts toward the false position indicated by that direction, if its behavior justifies it.
 
 The Narrator does not have to reveal whether the creature was right.
 
@@ -500,10 +506,10 @@ Only describe what the creature does.
 If a creature is the one concealed:
 
 1. The player rolls Perception.
-2. The Narrator secretly rolls the creature’s Concealment.
-3. The Narrator also secretly rolls `1d8` at the same time, declaring only that Concealment is being resolved.
-4. If the player’s Perception beats Concealment, the Narrator points to the real position.
-5. If the player’s Perception does not beat Concealment, the Narrator points to the false position indicated by the `1d8`.
+2. The Narrator secretly rolls the creature’s `Hidden` state.
+3. The Narrator also secretly rolls `1d8` at the same time, declaring only that `Hidden` is being resolved.
+4. If the player’s Perception beats the `Hidden` state, the Narrator points to the real position.
+5. If the player’s Perception does not beat the `Hidden` state, the Narrator points to the false position indicated by the `1d8`.
 
 The Narrator does not declare whether the player’s roll succeeded or failed.
 
@@ -571,7 +577,7 @@ Concealment needs limits because it can become too strong if it prevents too man
 Safety rules:
 
 - hiding requires a physical, environmental, or technical basis
-- Concealment is measured by enemy or enemy group, not as a universal state
+- `Hidden` is tracked per enemy or enemy group, not as a universal state
 - being hidden does not mean being untouchable
 - area effects still work if they cover the real position
 - attacking usually reveals or risks Concealment
@@ -592,8 +598,8 @@ Safety rules:
 | Medium Cover | `-3` to the Attack Roll |
 | Total Cover | Does not allow direct attacks |
 | Clear visual range | `60 m` |
-| Hide in combat | Rhythm `5`, Attrition `1` |
-| Attacking from Concealment | Can grant `+3` to the Attack Roll |
-| Attacking from Concealment | Always compromises Concealment |
+| Hide in combat | Rhythm `6`, Attrition `1` |
+| Attacking while `Hidden` | Can grant `+3` to the Attack Roll |
+| Attacking while `Hidden` | Always compromises `Hidden` |
 | Ties | Favor the concealed creature |
-| Approximate position | Can be real or false depending on Perception and Concealment |
+| Approximate position | Can be real or false depending on Perception and `Hidden` |

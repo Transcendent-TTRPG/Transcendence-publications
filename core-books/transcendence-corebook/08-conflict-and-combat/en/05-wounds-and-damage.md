@@ -424,6 +424,12 @@ Medicine covers stabilization, treatment, and healing of bodily damage.
 
 Herbalism, alchemy, objects, Techniques, and artifacts may modify these rules from their own sections.
 
+When a Technique creates not a more severe Wound but a treatment or cleaning
+problem, the immediate answer in combat usually resolves through **Interact** or
+**Use Specialization** depending on whether trained diagnosis and handling are
+required. This does not replace **Stabilize**, **Treat**, or **Heal**. It handles
+the prior step that lets the wound return to a clean treatment state.
+
 ---
 
 ## Stabilization
