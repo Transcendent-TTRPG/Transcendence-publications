@@ -272,7 +272,7 @@ h2 {
 }
 
 .requirements {
-  min-height: 20mm;
+  min-height: 0;
   padding: 1.3mm 2.1mm;
   border: 1px solid var(--rule);
   background: rgba(249, 243, 226, 0.48);
