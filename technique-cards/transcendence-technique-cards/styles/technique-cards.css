@@ -76,13 +76,20 @@ body {
     auto;
 }
 
+.single-card-sheet {
+  width: auto;
+  min-height: auto;
+  grid-template-columns: 70mm;
+  grid-auto-rows: 125mm;
+}
+
 .tech-card {
   position: relative;
   width: 70mm;
   height: 125mm;
   padding: 4.5mm;
   display: grid;
-  grid-template-rows: auto auto auto auto 1fr;
+  grid-template-rows: auto auto auto auto auto 1fr;
   gap: 2mm;
   overflow: hidden;
   border: 2px solid var(--dark);
@@ -188,6 +195,26 @@ h2 {
   background-size: auto, auto, auto, auto;
 }
 
+.flavor-text {
+  min-height: 14mm;
+  padding: 1.8mm 2.4mm;
+  display: grid;
+  align-content: center;
+  border: 1.5px solid var(--dark);
+  background:
+    linear-gradient(90deg, transparent, rgba(56, 95, 61, 0.07), transparent),
+    rgba(249, 243, 226, 0.38);
+  text-align: center;
+}
+
+.flavor-text p {
+  margin: 0;
+  color: var(--accent);
+  font-size: 7.2pt;
+  font-style: italic;
+  line-height: 1.1;
+}
+
 .stat-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -239,9 +266,9 @@ h2 {
 .stat-grid strong {
   min-width: 0;
   align-self: center;
-  font-size: 6.45pt;
+  font-size: 6.05pt;
   font-weight: 600;
-  line-height: 1.05;
+  line-height: 1;
 }
 
 .requirements {
@@ -278,10 +305,11 @@ h2 {
 }
 
 .tag-bar {
-  min-height: 6.2mm;
-  padding: 0.7mm;
+  min-height: 0;
+  padding: 0.65mm;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  align-content: flex-start;
   flex-wrap: wrap;
   gap: 0.6mm;
   border: 1.5px solid var(--dark);
