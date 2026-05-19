@@ -1,5 +1,5 @@
 ---
-title: "Recuperar la Distancia"
+title: "Clavar el Paso"
 type: corebook
 content_kind: rules
 writing_mode: rules
@@ -17,11 +17,11 @@ related:
 
 ### Activo - Ataque
 
-# Recuperar la Distancia
+# Clavar el Paso
 
 **Rango Novato**
 
-*Cuando el enemigo rompe la línea, la punta la dibuja de nuevo.*
+*La lanza no pide alcance: lo toma.*
 
 | Rango | Area | Duracion | Tirada |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.D.` | `T.I.` | `5` | `1` |
+| `T.D.` | `T.I.` | `5` | `2` |
 
 ## Requisitos
 
@@ -41,6 +41,7 @@ related:
 
 ## Efecto
 
-Realizas una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes
-reposicionarte `1` metro para recuperar la distancia óptima de tu arma. Ese
-reposicionamiento no genera reacciones adicionales.
+Avanza hasta `2` metros hacia el objetivo como parte de esta accion, sin
+gastar una accion de movimiento separada, y luego realizas una `T.A.` desde tu
+nueva posicion. Si aciertas, resuelves
+`T.I.` normalmente.

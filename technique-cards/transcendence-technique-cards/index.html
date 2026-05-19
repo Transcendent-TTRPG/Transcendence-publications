@@ -43,17 +43,18 @@
         </header>
 
         <section class="flavor-text" aria-label="Texto de ambientacion">
-          <p>La punta llega donde el cruce tiene que pagarse.</p>
+          <p>Si avanzan por tu línea, la punta cobra primero.</p>
         </section>
 
-        <section class="stat-grid" aria-label="Datos mecanicos">
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
           <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
-          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criat.</strong></div>
-          <div><svg><use href="#icon-duration"></use></svg><span>Dur.</span><strong>Inst.</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>A.R.</strong></div>
-          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>I.R.</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
           <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
-          <div><svg><use href="#icon-attrition"></use></svg><span>Desg.</span><strong>1</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
         </section>
 
         <section class="requirements">
@@ -70,7 +71,7 @@
 
         <section class="effect">
           <h2>Efecto</h2>
-          <p>Cuando un enemigo realiza cualquier acción que involucre movimiento y alcanza una casilla dentro del rango de tu arma, antes de continuar esa acción haces una A.R. Si aciertas, resuelves I.R. normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continúa su acción normalmente.</p>
+          <p>Cuando un enemigo realiza cualquier accion que involucre movimiento y entra en una casilla dentro del rango de tu arma, interrumpes ese movimiento para realizar una T.A. Si aciertas, resuelves T.I. normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continua su accion normalmente.</p>
         </section>
       </article>
 
@@ -82,17 +83,18 @@
         </header>
 
         <section class="flavor-text" aria-label="Texto de ambientacion">
-          <p>La línea no se espera: se vuelve a imponer antes de que el cierre se asiente.</p>
+          <p>Cuando el enemigo rompe la línea, la punta la dibuja de nuevo.</p>
         </section>
 
-        <section class="stat-grid" aria-label="Datos mecanicos">
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
           <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
-          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criat.</strong></div>
-          <div><svg><use href="#icon-duration"></use></svg><span>Dur.</span><strong>Inst.</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>A.R.</strong></div>
-          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>I.R.</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
           <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
-          <div><svg><use href="#icon-attrition"></use></svg><span>Desg.</span><strong>1</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
         </section>
 
         <section class="requirements">
@@ -108,7 +110,249 @@
 
         <section class="effect">
           <h2>Efecto</h2>
-          <p>Realiza una A.R. activa contra el objetivo. Si aciertas, resuelves I.R. normalmente y luego te reposicionas 1 metro para recuperar la distancia preferida de tu arma. Ese reposicionamiento no concede una reacción adicional por la salida; el objetivo queda fuera de presión cercana inmediata y debe volver a gastar movimiento para cerrarte otra vez antes de amenazarte en melee.</p>
+          <p>Realizas una T.A. contra el objetivo. Si aciertas, resuelves T.I. normalmente y luego puedes reposicionarte 1 metro para recuperar la distancia óptima de tu arma. Ese reposicionamiento no genera reacciones adicionales.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Clavar el Paso</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>La lanza no pide alcance: lo toma.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
+          <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Perforación.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Perforación</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Avanza hasta 2 metros hacia el objetivo como parte de esta acción, sin gastar una acción de movimiento separada, y luego realizas una T.A. desde tu nueva posición. Si aciertas, resuelves T.I. normalmente.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Reacción - Ataque</p>
+          <h1>Anudar el Paso</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>La curva no deja salida limpia.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
+          <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Torsión.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Torsión</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo que ya esta dentro del alcance de tu perfil intenta retirarse, haces una T.A.. Si aciertas, el enemigo permanece en su posicion disputada o en la posicion valida mas cercana que todavia lo deja dentro del alcance de tu perfil. Si fallas, completa su movimiento normalmente.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Robar el Ángulo</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>La curva muestra una línea; la punta toma otra.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
+          <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.E. (Intuición)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Impredecible.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Impredecible</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una T.A. contra un objetivo. Si la técnica resuelve con éxito, robas posición para desplazarte hasta 1 metro alrededor del objetivo dentro del alcance de tu arma sin provocar reacción de ese objetivo, y además estropeas su respuesta imponiendo una penalidad igual a tu bonus de rango de Armas Flexibles en su próxima acción contra ti.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Marcar la Lectura</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>La marca no sigue al blanco: deja que su ruta se delate sola.</p>
+        </section>
+
+        <section class="stat-grid" aria-label="Datos mecanicos">
+          <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Hasta Limpiar</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Precisión.</li>
+            <li>Kit de Munición.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Precisión</span>
+          <span>Kit de Munición</span>
+          <span>Contraocultación</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una T.A. con una munición preparada desde tu Kit de Munición para dejar una marca visible, olfativa, luminosa o equivalente. Si el objetivo supera su T.D., la marca no se aplica. Si la técnica resuelve con éxito, el objetivo queda marcado hasta que utilice Interactuar para limpiar la marca, o hasta que cruce una barrera fuera de tu alcance sensorial. Mientras siga marcado, su ruta inmediata no se vuelve ambigua para ti por cobertura, oscuridad, humo, amontonamiento o un intento rápido de perderse. Si se mueve o intenta ocultarse, sabes qué ruta, cobertura o línea de escondite tomó.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Nublar la Señal</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>No hace falta cegar: basta ensuciar el canal que decide.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
+          <div><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Hasta Limpiar</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A. - 2</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Corrosión.</li>
+            <li>Kit de Munición.</li>
+            <li>Canal sensorial identificado.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Corrosión</span>
+          <span>Kit de Munición</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Declara un canal sensorial o punto de lectura expuesto del objetivo. Realiza una T.A. con -2 contra su T.D. para fijar el residuo. Si fallas, no se aplica. Si aciertas, ese canal queda obstruido. Mientras siga obstruido, el objetivo sufre una penalidad igual a tu bonificador de rango con el arma usada en tiradas, técnicas o intercambios que dependan de ese canal. El residuo se elimina si el objetivo usa Interactuar para limpiarlo o si una condición ambiental apropiada lo remueve.</p>
+        </section>
+      </article>
+
+      <article class="tech-card spectrum-weapon">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Doblar el Tiro</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientacion">
+          <p>La pared no cubre: devuelve.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecanicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma o proyección por superficie</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Arma con perfil Ricochete.</li>
+            <li>Superficie util de rebote o desvío.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ricochete</span>
+          <span>Geometría</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Declara una sola superficie de rebote o desvío y realiza una T.A. a través de esa línea indirecta. Si aciertas, resuelves T.I. normalmente. El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada realmente lo bordea. La técnica no atraviesa barreras selladas y no curva libremente en aire abierto.</p>
         </section>
       </article>
     </main>

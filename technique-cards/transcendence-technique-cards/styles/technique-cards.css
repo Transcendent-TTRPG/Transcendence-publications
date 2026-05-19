@@ -241,6 +241,10 @@ h2 {
   border-bottom: 0;
 }
 
+.stat-grid--full-last-row div:nth-last-child(-n + 4) {
+  border-bottom: 0;
+}
+
 .stat-grid svg {
   grid-row: 1 / span 2;
   align-self: center;
@@ -264,11 +268,22 @@ h2 {
 }
 
 .stat-grid strong {
+  display: block;
   min-width: 0;
   align-self: center;
-  font-size: 6.05pt;
+  font-size: 5.8pt;
   font-weight: 600;
-  line-height: 1;
+  line-height: 1.03;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
+  text-wrap: balance;
+}
+
+.stat-grid .stat-cell--long strong {
+  font-size: 5.15pt;
+  line-height: 1.02;
 }
 
 .requirements {

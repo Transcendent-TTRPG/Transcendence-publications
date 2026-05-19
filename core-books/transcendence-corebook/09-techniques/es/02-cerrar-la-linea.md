@@ -21,15 +21,15 @@ related:
 
 **Rango Novato**
 
-*La punta llega donde el cruce tiene que pagarse.*
+*Si avanzan por tu línea, la punta cobra primero.*
 
 | Rango | Area | Duracion | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Instantaneo | `A.R.` |
+| Arma | 1 criatura | Instantáneo | `T.A.` |
 
-| Impacto | Ritmo | Desgaste |
-| --- | --- | --- |
-| `I.R.` | `4` | `1` |
+| Salvación | Impacto | Ritmo | Desgaste |
+| --- | --- | --- | --- |
+| `T.D.` | `T.I.` | `4` | `1` |
 
 ## Requisitos
 
@@ -42,8 +42,4 @@ related:
 
 ## Efecto
 
-Cuando un enemigo realiza cualquier accion que involucre movimiento y alcanza
-una casilla dentro del rango de tu arma, antes de continuar esa accion haces
-una `A.R.`. Si aciertas, resuelves `I.R.` normalmente y el enemigo debe
-detener su movimiento en esa casilla. Si fallas, el enemigo continua su accion
-normalmente.
+Cuando un enemigo realiza cualquier accion que involucre movimiento y entra en una casilla dentro del rango de tu arma, interrumpes ese movimiento para realizar una `T.A`. Si aciertas, resuelves `T.I`. normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continua su accion normalmente.
