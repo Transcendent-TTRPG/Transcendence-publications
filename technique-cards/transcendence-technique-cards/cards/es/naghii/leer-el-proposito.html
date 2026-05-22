@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Transcendence - Doblar el Tiro</title>
+    <title>Transcendence - Leer el Propósito</title>
     <link rel="stylesheet" href="../../../styles/technique-cards.css">
   </head>
   <body>
@@ -35,24 +35,24 @@
     </svg>
 
     <main class="card-sheet single-card-sheet" aria-label="Carta individual de técnica">
-      <article class="tech-card spectrum-weapon" data-card-id="naghii-doblar-el-tiro">
+      <article class="tech-card spectrum-architecture" data-card-id="naghii-leer-el-proposito">
         <header class="card-header">
-          <p class="origin">Activo - Ataque</p>
-          <h1>Doblar el Tiro</h1>
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Leer el Propósito</h1>
           <p class="subtitle">Rango Novato</p>
         </header>
 
         <section class="flavor-text" aria-label="Texto de ambientación">
-          <p>La cobertura protege de una línea. No de todas.</p>
+          <p>Todo cuerpo tiene un punto que no es grande, sino necesario.</p>
         </section>
 
         <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
-          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance Arma</strong></div>
-          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Rango Visual</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
           <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
-          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Arquitectura)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
           <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
           <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
         </section>
@@ -60,18 +60,24 @@
         <section class="requirements">
           <h2>Requisitos</h2>
           <ul>
-            <li>Arma con perfil Desvío.</li>
-            <li>Superficie útil de rebote o desvío.</li>
+            <li>Competencia: Arquitectura.</li>
           </ul>
         </section>
 
         <section class="tag-bar" aria-label="Keywords">
-          <span>Desvío</span>
+          <span>Arquitectura</span>
         </section>
 
         <section class="effect">
           <h2>Efecto</h2>
-          <p>Declara una sola superficie de rebote o desvío y realiza una T.A. a través de esa línea indirecta. Si aciertas, resuelves T.I. normalmente. El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada realmente lo bordea. La técnica no atraviesa barreras selladas y no curva libremente en aire abierto.</p>
+          <p>T.E. (Arquitectura) sobre una criatura visible. La dificultad la fija la categoría de la criatura:</p>
+          <table class="mini-table">
+            <tr><th>Categoría</th><th>Dificultad</th></tr>
+            <tr><td>Común</td><td>Desafiante</td></tr>
+            <tr><td>Campeona</td><td>Rigurosa</td></tr>
+            <tr><td>Elite</td><td>Exigente</td></tr>
+          </table>
+          <p>Éxito: el Narrador declara la ubicación de un Punto Vital específico en la criatura. El usuario recibe un bonificador igual a su rango de Arquitectura en todas las T.A y T.E dirigidas a ese Punto Vital. El bono aplica solo al usuario y persiste hasta que el Punto Vital es destruido. No revela ciclos ni técnicas.</p>
         </section>
       </article>
     </main>

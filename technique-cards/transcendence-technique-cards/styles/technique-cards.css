@@ -348,7 +348,7 @@ h2 {
   padding: 1.35mm 2mm;
   display: grid;
   align-content: start;
-  gap: 1.2mm;
+  gap: 0.7mm;
   border: 1.5px solid var(--dark);
   background: rgba(249, 243, 226, 0.5);
 }
@@ -357,6 +357,25 @@ h2 {
   margin: 0;
   font-size: 6.85pt;
   line-height: 1;
+}
+
+.mini-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 5.8pt;
+  line-height: 1;
+}
+
+.mini-table th,
+.mini-table td {
+  padding: 0.3mm 1mm;
+  text-align: left;
+  border: 0.5px solid var(--dark);
+}
+
+.mini-table th {
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.06);
 }
 
 @media print {

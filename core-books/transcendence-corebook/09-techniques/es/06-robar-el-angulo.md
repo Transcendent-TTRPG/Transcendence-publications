@@ -21,7 +21,7 @@ related:
 
 **Rango Novato**
 
-*La curva muestra una línea; la punta toma otra.*
+*El arma no cambia de lado. Hace que el lado cambie de sentido.*
 
 | Rango | Area | Duracion | Tirada |
 | --- | --- | --- | --- |

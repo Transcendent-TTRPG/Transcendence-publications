@@ -77,6 +77,18 @@ El Impacto no representa solo fuerza bruta. También incluye masa, ángulo, ejec
 
 ---
 
+## Dados adicionales de Impacto
+
+Algunas Técnicas añaden dados adicionales a la Tirada de Impacto.
+
+Estos dados suman al Impacto total de forma normal. No modifican el dado crítico designado ni modifican la probabilidad de Impacto Crítico.
+
+El atacante designa el dado crítico antes de tirar, como siempre. Los dados adicionales se tiran junto con la Tirada de Impacto y su resultado se suma al total. La probabilidad crítica no cambia.
+
+Si una Técnica dice `+Xd2` al Impacto, esos dados se suman a la tirada de esa ronda. No sustituyen ningún dado ni mueven el umbral de crítico.
+
+---
+
 ## Impacto Crítico
 
 Un **Impacto Crítico** ocurre cuando el dado crítico designado de la Tirada de Impacto muestra su valor máximo.

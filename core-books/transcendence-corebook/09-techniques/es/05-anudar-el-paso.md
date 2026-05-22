@@ -21,7 +21,7 @@ related:
 
 **Rango Novato**
 
-*La curva no deja salida limpia.*
+*Cuando el arma toma la curva, la retirada deja de ser limpia.*
 
 | Rango | Area | Duracion | Tirada |
 | --- | --- | --- | --- |

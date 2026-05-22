@@ -21,7 +21,7 @@ related:
 
 **Rango Novato**
 
-*La pared no cubre: devuelve.*
+*La cobertura protege de una línea. No de todas.*
 
 | Rango | Area | Duracion | Tirada |
 | --- | --- | --- | --- |
@@ -33,12 +33,12 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Ricochete`
+- Arma con perfil `Desvío`
 - Superficie util de rebote o desvío
 
 ## Keywords
 
-- `Ricochete`
+- `Desvío`
 
 ## Efecto
 
