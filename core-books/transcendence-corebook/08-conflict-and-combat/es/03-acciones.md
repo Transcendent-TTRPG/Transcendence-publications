@@ -140,7 +140,7 @@ Estas acciones están disponibles para cualquier personaje en combate o en una e
 | Ataque con dos armas | Acción Activa | 8 | 1 |
 | Interactuar | Acción Activa | 3 | 0 o 1 |
 | Ocultarse | Acción Activa | 6 | 1 |
-| Usar Especialización | Acción Activa | 6 | 1 |
+| Usar Especialización | Acción Activa | 4 | 1 |
 | Usar Técnica | Variable | Variable | Variable |
 | Soltar | Acción Gratuita | 0 | 0 |
 | Hablar brevemente | Acción Gratuita | 0 | 0 |
@@ -163,7 +163,7 @@ Puede usarse para:
 - separarse de una amenaza
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 6  
+**Costo de ritmo:** 5  
 **Desgaste:** 1
 
 La distancia base proviene de la velocidad de la especie del personaje. El terreno no cambia el costo de ritmo. Cambia cuánto avanza el personaje, si el trayecto requiere una tirada o qué consecuencias produce.
@@ -223,7 +223,7 @@ Un ataque con arma a dos manos usa un arma que exige compromiso corporal complet
 Estas armas suelen tener más alcance, masa o amenaza, pero retrasan la siguiente intervención de quien las usa.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 8  
+**Costo de ritmo:** 7  
 **Desgaste:** 1
 
 Se resuelve con una T.A. estándar.
@@ -237,7 +237,7 @@ El personaje regresa al ATB más tarde que con otros ataques base.
 Combatir con dos armas permite encadenar ataques dentro de una misma activación. La mano principal realiza el ataque inicial. Los ataques adicionales dependen de la coordinación del personaje bajo presión.
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 7  
+**Costo de ritmo:** 8  
 **Desgaste:** 1
 
 Procedimiento:
@@ -346,7 +346,7 @@ Puede cubrir acciones como:
 - aplicar tratamiento técnico, limpieza entrenada o contención bajo presión
 
 **Tipo:** Acción Activa  
-**Costo de ritmo:** 6  
+**Costo de ritmo:** 4  
 **Desgaste:** 1
 
 Una Especialización produce un resultado narrativo o práctico: el personaje salta el abismo, interpreta el código, detecta la trampa o alcanza una posición.

@@ -140,7 +140,7 @@ These actions are available to any character in combat or in a high-pressure sce
 | Two-weapon attack | Active Action | 8 | 1 |
 | Interact | Active Action | 3 | 0 or 1 |
 | Hide | Active Action | 6 | 1 |
-| Use Specialization | Active Action | 6 | 1 |
+| Use Specialization | Active Action | 4 | 1 |
 | Use Technique | Variable | Variable | Variable |
 | Drop | Free Action | 0 | 0 |
 | Speak briefly | Free Action | 0 | 0 |
@@ -163,7 +163,7 @@ It can be used to:
 - separate from a threat
 
 **Type:** Active Action  
-**Rhythm cost:** 6  
+**Rhythm cost:** 5  
 **Attrition:** 1
 
 The base distance comes from the character’s species speed. Terrain does not change the rhythm cost. It changes how far the character moves, whether the path requires a roll, or what consequences the movement produces.
@@ -223,7 +223,7 @@ A two-handed weapon attack uses a weapon that requires full-body commitment: gre
 These weapons often have greater reach, mass, or threat, but they delay the user’s next intervention.
 
 **Type:** Active Action  
-**Rhythm cost:** 8  
+**Rhythm cost:** 7  
 **Attrition:** 1
 
 Resolved with a standard A.R.
@@ -237,7 +237,7 @@ The character returns to the ATB later than with other base attacks.
 Fighting with two weapons allows the character to chain attacks within the same activation. The main hand performs the initial attack. Additional attacks depend on the character’s coordination under pressure.
 
 **Type:** Active Action  
-**Rhythm cost:** 7  
+**Rhythm cost:** 8  
 **Attrition:** 1
 
 Procedure:
@@ -346,7 +346,7 @@ It can cover actions such as:
 - applying technical treatment, trained cleaning, or containment under pressure
 
 **Type:** Active Action  
-**Rhythm cost:** 6  
+**Rhythm cost:** 4  
 **Attrition:** 1
 
 A Specialization produces a narrative or practical result: the character clears the gap, deciphers the code, detects the trap, or reaches a position.
