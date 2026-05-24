@@ -9,9 +9,9 @@ status: draft
 canonical: false
 tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-actions.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/02-atb-linea-de-tiempo.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-desgaste-aguante-fatiga.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/03-actions.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/01-atb-flujo-temporal.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/02-desgaste-aguante-fatiga.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
   - Transcendence-design/docs/system/attrition-fatigue.md

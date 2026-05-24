@@ -40,11 +40,11 @@ The ATB answers two questions:
 
 The ATB is represented as a **circular track**.
 
-Each participant occupies a position on that track. At the center of the track is a **flow marker** that indicates the current moment in combat. The marker closest to the flow marker is the next to act.
+Each participant occupies a numbered position on that track. On the track is a **flow marker** that records the current moment in combat.
 
-When a creature acts, its marker advances around the track according to the rhythm cost of the chosen action. The flow marker shifts to the next active marker. The flow continues without resetting.
+When a creature activates, the flow marker is placed at the number corresponding to its marker. The creature declares its action and moves its marker by paying the rhythm cost. Once the action is resolved, the flow marker advances clockwise to the next closest marker — that creature activates and the process repeats.
 
-The circular track solves the practical problem of an infinite line: markers are never repositioned. They simply advance around the track, and the flow marker follows the closest one.
+The circular track solves the practical problem of an infinite line: markers are never repositioned. They simply advance around the track, and the flow marker always follows the next available marker clockwise.
 
 The track shows:
 
@@ -129,31 +129,20 @@ The Explorer acts first because their marker is closest to the flow marker. The 
 
 ---
 
-## Activation
-
-A creature activates when its marker is closest to the flow marker.
-
-During its activation, it can take an available action according to the rules for Actions, Techniques, active conditions, and the current state of the scene.
-
-After the action is resolved, its marker advances around the track.
-
-```text
-New position = current position + rhythm cost of the action
-```
-
-A quick action moves the marker a short distance. A heavy action moves it farther.
-
----
-
 ## Flow Resolution
 
 The ATB flow follows this procedure in a loop:
 
-1. The flow marker points to the closest marker.
-2. That creature acts.
-3. It resolves its action.
-4. Its marker advances by the rhythm cost of the chosen action.
-5. The flow marker shifts to the next closest marker.
+1. The flow marker is placed at the active marker's position.
+2. The active creature declares its action. It can use any available action according to the rules for Actions, Techniques, active conditions, and the current state of the scene.
+3. The active creature's marker advances by the rhythm cost of the declared action.
+4. The action is resolved.
+5. The flow marker advances clockwise to the next closest marker.
+6. That creature activates and the process repeats.
+
+```text
+New position = current position + rhythm cost of the action
+```
 
 Combat repeats this procedure until the scene ends.
 
@@ -163,11 +152,10 @@ Combat repeats this procedure until the scene ends.
 
 If two or more markers are at the same distance from the flow marker, the participant with the higher Preparation acts first.
 
-If Preparation is also tied, each tied participant makes a contested Agility Characteristic Roll.
+If Preparation is also equal, the outcome depends on who is tied:
 
-The highest result acts first.
-
-If the tie remains, the Narrator decides according to position, the fiction of the scene, or any clear situational advantage.
+- **NPC and PC tied:** the Narrator decides who acts first.
+- **PCs tied with each other:** the players decide the order among themselves.
 
 ---
 
@@ -213,23 +201,7 @@ The specific costs for each base action are in the Actions chapter.
 
 ## Reactions and ATB
 
-Reactions exist within the same temporal economy as every other action.
-
-Even though they occur outside a creature's normal activation, they may have:
-
-- rhythm cost
-- Attrition cost
-- effects on the marker's future position
-
-If a Reaction has a rhythm cost, the creature's marker advances from its current position.
-
-```text
-New position = current position + rhythm cost of the Reaction
-```
-
-The advantage of a Reaction is not that it is free. Its advantage is that it allows the creature to intervene before its next normal activation.
-
-A creature can only use a Reaction when a rule, Technique, maneuver, trait, or specific situation allows it.
+Reactions also have a rhythm cost. When a creature executes a Reaction, its marker advances from its current position by the rhythm cost of that Reaction.
 
 The full definition of Reactions is found in the Actions chapter.
 

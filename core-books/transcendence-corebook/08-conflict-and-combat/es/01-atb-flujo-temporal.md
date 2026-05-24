@@ -40,11 +40,11 @@ El ATB responde dos preguntas:
 
 El ATB se representa como un **track circular**.
 
-Cada participante ocupa una posición en ese track. En el centro del track hay un **marcador de flujo** que indica el momento presente del combate. La ficha más próxima al marcador es la siguiente en actuar.
+Cada participante ocupa una posición numerada en ese track. En el track hay un **marcador de flujo** que registra el momento presente del combate.
 
-Cuando una criatura actúa, su ficha avanza en el track según el costo de ritmo de la acción elegida. El marcador se desplaza hasta la siguiente ficha activa. El flujo continúa sin reiniciar.
+Cuando una criatura se activa, el marcador se coloca en el número correspondiente a su ficha. La criatura declara su acción y mueve su ficha pagando el costo de ritmo. Una vez resuelta la acción, el marcador avanza en el sentido de las manecillas del reloj hasta la siguiente ficha más próxima — esa criatura se activa y el proceso se repite.
 
-El track circular resuelve el problema práctico de la línea infinita: las fichas no se reposicionan. Simplemente avanzan alrededor del track, y el marcador sigue a la ficha más próxima.
+El track circular resuelve el problema práctico de la línea infinita: las fichas no se reposicionan. Simplemente avanzan alrededor del track, y el marcador siempre sigue a la siguiente ficha disponible en el sentido del reloj.
 
 El track permite ver:
 
@@ -129,31 +129,20 @@ La Exploradora actúa primero porque su ficha es la más próxima al marcador. L
 
 ---
 
-## Activación
-
-Una criatura se activa cuando su ficha es la más próxima al marcador de flujo.
-
-Durante su activación puede realizar una acción disponible según las reglas de Acciones, Técnicas, condiciones activas y estado de la escena.
-
-Después de resolver la acción, su ficha avanza en el track.
-
-```text
-Nueva posición = posición actual + costo de ritmo de la acción
-```
-
-Una acción rápida desplaza poco la ficha. Una acción pesada la desplaza más.
-
----
-
 ## Resolución del flujo
 
 El flujo del ATB sigue este procedimiento en bucle:
 
-1. El marcador señala la ficha más próxima a él.
-2. Esa criatura actúa.
-3. Resuelve su acción.
-4. Su ficha avanza según el costo de ritmo de la acción elegida.
-5. El marcador se desplaza hasta la siguiente ficha más próxima.
+1. El marcador se coloca en la posición de la ficha activa.
+2. La criatura activa declara su acción. Puede usar cualquier acción disponible según las reglas de Acciones, Técnicas, condiciones activas y estado de la escena.
+3. La ficha de la criatura activa avanza según el costo de ritmo de la acción declarada.
+4. La acción se resuelve.
+5. El marcador avanza en el sentido de las manecillas del reloj hasta la siguiente ficha más próxima.
+6. Esa criatura se activa y el proceso se repite.
+
+```text
+Nueva posición = posición actual + costo de ritmo de la acción
+```
 
 El combate continúa repitiendo este procedimiento hasta que la escena termine.
 
@@ -163,11 +152,10 @@ El combate continúa repitiendo este procedimiento hasta que la escena termine.
 
 Si dos o más fichas quedan a la misma distancia del marcador, actúa primero quien tenga mayor Preparación.
 
-Si también empatan en Preparación, cada participante empatado realiza una Tirada de Característica de Agilidad enfrentada.
+Si también empatan en Preparación, el resultado depende de quiénes están empatados:
 
-El resultado más alto actúa primero.
-
-Si el empate persiste, el Narrador decide según la posición, la ficción de la escena o cualquier ventaja situacional clara.
+- **PNJ y PJ empatados:** el Narrador decide quién actúa primero.
+- **PJ entre sí:** los jugadores deciden el orden por sí mismos.
 
 ---
 
@@ -213,23 +201,7 @@ Los costos específicos de cada acción base se encuentran en el capítulo de Ac
 
 ## Reacciones y ATB
 
-Las Reacciones existen dentro de la misma economía temporal que cualquier otra acción.
-
-Aunque ocurran fuera de la activación normal de una criatura, pueden tener:
-
-- costo de ritmo
-- costo de Desgaste
-- efectos sobre la posición futura de la ficha
-
-Si una Reacción tiene costo de ritmo, la ficha de la criatura avanza desde su posición actual.
-
-```text
-Nueva posición = posición actual + costo de ritmo de la Reacción
-```
-
-La ventaja de una Reacción no es que sea gratuita. Su ventaja es que permite intervenir antes de la siguiente activación natural.
-
-Una criatura solo puede usar una Reacción cuando una regla, Técnica, maniobra, rasgo o situación específica lo permita.
+Las Reacciones también tienen costo de ritmo. Cuando una criatura ejecuta una Reacción, su ficha avanza desde su posición actual según el costo de ritmo de esa Reacción.
 
 La definición completa de Reacciones se encuentra en el capítulo de Acciones.
 

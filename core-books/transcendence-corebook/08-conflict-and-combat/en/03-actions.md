@@ -9,9 +9,9 @@ status: draft
 canonical: false
 tags: [actions, combat, atb, active-actions, reactions, free-actions, movement, attack, techniques, attrition]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/02-atb-combat-timeline.md
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/03-attrition-endurance-fatigue.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-acciones.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-atb-combat-timeline.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/02-attrition-endurance-fatigue.md
 authority_refs:
   - Transcendence-design/docs/system/atb-reference.md
   - Transcendence-design/docs/system/attrition-fatigue.md
