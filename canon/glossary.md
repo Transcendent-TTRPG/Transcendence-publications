@@ -19,20 +19,21 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 
 | ES term | EN equivalent | Do not translate | Notes |
 | --- | --- | --- | --- |
-| ATB | ATB | Yes | Active Time Battle; the combat timeline system |
+| ATB | ATB | Yes | Active Time Battle; the circular combat flow system |
 | Acción libre | Free action | No | Cost 0 — does not advance the ATB marker; covers Drop and Speak within defined constraints |
 | Acción rápida | Quick action | No | Rhythm cost 3 |
 | Acción estándar | Standard action | No | Rhythm cost 5 |
 | Acción pesada | Heavy action | No | Rhythm cost 7 |
 | Acción extrema | Extreme action | No | Rhythm cost 9 — reserved for major abilities; not used at base layer |
-| Línea de tiempo | combat timeline | No | The ATB track as a whole |
+| Flujo Temporal | combat flow | No | The ATB circular track and its temporal progression |
+| Marcador de flujo | flow marker | No | The position token on the circular track that registers the current moment in combat |
 | Ficha / marcador | marker | No | A participant's position token on the track |
 | Posición inicial | initial position | No | Reference Point − Opening Value; where the participant's marker is placed on the track. Highest Opening Value → position 0 |
 | Apertura del combate | combat opening | No | The setup phase before the ATB begins flowing |
 | Valor de Apertura | Opening Value | No | Preparation + situational modifiers; the raw readiness score used to derive initial position |
 | Punto de Referencia | Reference Point | No | The highest Opening Value among all participants; used to normalize all initial positions |
 | Preparación | Preparation | No | Derived stat; determines reaction speed and initial ATB position |
-| Costo de ritmo | rhythm cost | No | How far a marker moves right after an action |
+| Costo de ritmo | rhythm cost | No | How far a marker advances around the track after an action |
 | Banda de acción | action band | No | Category grouping of actions by rhythm cost |
 | Acción rápida | quick action | No | Lowest rhythm cost band |
 | Acción estándar | standard action | No | Mid-range rhythm cost band |

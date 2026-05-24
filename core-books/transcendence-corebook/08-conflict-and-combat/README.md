@@ -9,14 +9,14 @@ Language folders:
 
 This chapter should teach the tactical engine in the order a player needs it:
 
-1. `atb-combat-timeline.md` / `atb-linea-de-tiempo.md`
-2. `actions.md` / `acciones.md`
-3. `attrition-endurance-fatigue.md` / `desgaste-aguante-fatiga.md`
+1. `atb-combat-flow.md` / `atb-flujo-temporal.md`
+2. `attrition-endurance-fatigue.md` / `desgaste-aguante-fatiga.md`
+3. `actions.md` / `acciones.md`
 4. `rest.md` / `descanso.md`
 
 ## Purpose Of Each File
 
-### ATB Combat Timeline
+### ATB Combat Flow
 
 Explains the temporal structure of combat:
 
@@ -61,7 +61,7 @@ This file closes the cycle by showing how the tactical system leaves lasting cos
 
 ## Editorial Guidance
 
-- `ATB` owns the explanation of timeline, opening, rhythm bands, and why actions reorder combat.
+- `ATB` owns the explanation of the combat flow, opening, rhythm bands, and why actions reorder combat.
 - `Actions` owns the explanation of action categories and base action families.
 - `Attrition` owns the explanation of pressure, endurance, fatigue, and action strain.
 - `Rest` owns recovery and recovery risk.

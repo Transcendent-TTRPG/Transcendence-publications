@@ -7,7 +7,7 @@ language: en
 chapter: 8
 status: draft
 canonical: false
-tags: [atb, combat, timeline, rhythm, initiative, opening]
+tags: [atb, combat, flow, rhythm, initiative, opening]
 related:
   - core-books/transcendence-corebook/08-conflict-and-combat/es/01-atb-flujo-temporal.md
   - core-books/transcendence-corebook/08-conflict-and-combat/en/03-actions.md

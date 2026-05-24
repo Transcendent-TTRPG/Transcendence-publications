@@ -7,9 +7,9 @@ language: es
 chapter: 8
 status: draft
 canonical: false
-tags: [atb, combat, timeline, rhythm, initiative, opening]
+tags: [atb, combat, flow, rhythm, initiative, opening]
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-atb-combat-timeline.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/en/01-atb-combat-flow.md
   - core-books/transcendence-corebook/08-conflict-and-combat/es/03-acciones.md
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
 authority_refs:
