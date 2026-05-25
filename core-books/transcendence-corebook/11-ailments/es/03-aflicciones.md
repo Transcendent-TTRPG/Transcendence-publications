@@ -84,7 +84,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Esquizofrenia Paranoide
 
-*Disrupción paranoide del juicio de amenaza. El personaje interpreta presencias neutras o ambiguas como fuentes de peligro inminente. La lectura de intención queda contaminada.*
+*Las presencias neutras empiezan a tener intención. El cuerpo las trata como amenazas antes de que la mente decida.*
 
 **Disparador:** cuando percibe una criatura en un contexto de incertidumbre, ambigüedad social o amenaza potencial no confirmada.
 
@@ -102,7 +102,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Agnosia Visual
 
-*Pérdida de la capacidad de reconocimiento funcional. El personaje ve objetos y criaturas pero la cognición falla al intentar identificarlos o asignarles función.*
+*La imagen llega. El significado no.*
 
 **Disparador:** al intentar interactuar con un objeto de forma deliberada, o al intentar reconocer una criatura específica.
 
@@ -120,7 +120,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Alucinaciones Visuales
 
-*Superposición de imágenes falsas sobre la percepción real. El personaje recibe estímulos visuales que no tienen correlato en el mundo físico.*
+*Lo que ve no siempre está ahí. Lo que está ahí no siempre puede verse.*
 
 **Disparador:** al inicio de cada activación del personaje, o cuando el Narrador lo determine durante una escena de alta carga visual o presencia extranatural.
 
@@ -140,7 +140,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Tinnitus
 
-*Zumbido o tono persistente que interfiere con la Percepción auditiva y la concentración sostenida.*
+*El tono no se va. Todo lo demás llega desde un poco más lejos.*
 
 **Disparador:** al realizar una acción que requiera concentración sostenida o Percepción auditiva activa.
 
@@ -158,7 +158,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Hiperacusia
 
-*Hipersensibilidad al sonido. Estímulos auditivos repentinos o sostenidos producen una respuesta de colapso desproporcionada.*
+*No hace falta que sea fuerte. El cuerpo responde como si lo fuera.*
 
 **Disparador:** al exponerse a sonidos repentinos, sostenidos o de alta intensidad.
 
@@ -176,7 +176,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Eco Persistente
 
-*El oído interno registra ecos sin correlato real. El sistema vestibular, ligado al oído, queda comprometido, afectando el equilibrio y la orientación espacial.*
+*El oído escucha dos veces. El suelo no siempre responde igual.*
 
 **Disparador:** al intentar orientarse, moverse con precisión o mantener el equilibrio en terreno exigente.
 
@@ -196,7 +196,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Phantosmia
 
-*Percepción olfativa de olores sin origen físico. Los estímulos fantasma saturan y desestabilizan la regulación interna.*
+*El olor viene de ningún lado. El cuerpo reacciona igual.*
 
 **Disparador:** al encontrarse en una escena de alta tensión o proximidad extranatural confirmada o sospechada.
 
@@ -214,7 +214,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Hiperosmia
 
-*Hipersensibilidad olfativa. Los olores del entorno resultan invasivos e incapacitantes.*
+*No hace falta que sea intenso. El olfato ya no tiene escala.*
 
 **Disparador:** al exponerse a olores intensos, concentrados o activos en el entorno.
 
@@ -234,7 +234,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Disgeusia
 
-*Distorsión persistente del gusto. Cualquier ingesta resulta repulsiva o ajena, interfiriendo con el descanso y la recuperación.*
+*Cualquier ingesta llega como si no debiera estar ahí. El cuerpo lo reconoce, pero no lo acepta.*
 
 **Disparador:** al intentar comer o beber durante un descanso.
 
@@ -252,7 +252,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Compulsión Alimentaria
 
-*Impulso irrefrenable de consumir materia al terminar situaciones de alta carga hostil. La compulsión escala con la Intensidad hacia consumos cada vez más peligrosos.*
+*Al terminar la violencia, algo más reclama atención. La compulsión no distingue qué es comestible.*
 
 **Disparador:** al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgánico accesible.
 
@@ -272,7 +272,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Formicación
 
-*Sensación persistente de movimiento bajo la piel: hormigueo, presión o contacto sin origen externo. El coste de acción se expande a medida que la Intensidad aumenta.*
+*Algo se mueve bajo la piel. No hay nada afuera que lo explique.*
 
 **Efecto pasivo:** no requiere T.E. de activación.
 
@@ -288,7 +288,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Anestesia Parcial
 
-*Pérdida parcial de la sensación de daño externo. El cuerpo no registra correctamente las señales de peligro, y las defensas de resistencia quedan reducidas.*
+*El daño llega. La señal que debería registrarlo no siempre llega completa.*
 
 **Efecto pasivo:** no requiere T.E. de activación.
 
@@ -304,7 +304,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Hipertacto
 
-*Hipersensibilidad táctil. El contacto con objetos o criaturas produce estímulos desproporcionados que desestabilizan la regulación interna.*
+*El tacto ya no tiene escala. Cualquier contacto produce más de lo esperado.*
 
 **Disparador:** al tocar un objeto o una criatura de forma deliberada.
 
