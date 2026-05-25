@@ -32,7 +32,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Asfixiado
 
-*El aire no alcanza y cada acción empieza a cobrarse desde dentro.*
+*El cuerpo aguanta. El aire, menos cada vez.*
 
 **Aplicación:** Se aplica cuando una criatura no puede respirar de forma suficiente: ahogamiento, humo denso, estrangulamiento, presión aplastante, vacío, gases sofocantes o una fuente equivalente.
 
@@ -50,7 +50,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Aterrorizado
 
-*El peligro ocupa el cuerpo antes de que la voluntad pueda discutirlo.*
+*El cuerpo ya sucumbió. La voluntad llegó tarde.*
 
 **Aplicación:** Se aplica cuando una criatura, presencia, revelación, amenaza o escena impone un terror inmediato que el cuerpo reconoce como peligro urgente.
 
@@ -68,7 +68,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Atrapado
 
-*El cuerpo tiene límites. Algo los encontró primero.*
+*El mundo vuelve antes que el cuerpo.*
 
 **Aplicación:** Se aplica cuando hay agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
 
@@ -86,7 +86,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Aturdido
 
-*El golpe no solo impacta: deja la acción sin dueño.*
+*El mundo vuelve antes que el cuerpo.*
 
 **Aplicación:** Impacto, shock neural, fuerza de concusión, sobrecarga u otra fuente que brevemente cierra la acción limpia de forma creíble.
 
@@ -124,7 +124,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Confundido
 
-*El juicio ya no discrimina bien. Actuar cuesta más de lo que debería.*
+*Las diferencias siguen ahí. El juicio ya no sabe cuáles importan.*
 
 **Aplicación:** Shock corporal, sobrecarga sensorial, disrupción neural, concusión, toxinas u otra fuente que desestabiliza el juicio operativo inmediato de forma creíble.
 
@@ -142,7 +142,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Congelado
 
-*Los músculos responden con retraso. El frío ya lleva ventaja.*
+*El frío no avisa. Para cuando el cuerpo reacciona, ya está adentro.*
 
 **Aplicación:** Exposición prolongada a congelación, efecto hostil basado en hielo u otra fuente que deteriora funcionalmente el cuerpo por frío de forma creíble.
 
@@ -160,7 +160,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Conmocionado
 
-*El golpe llegó. La claridad tardará en volver.*
+*El impacto terminó. La claridad todavía no recibió esa noticia.*
 
 **Aplicación:** Impacto, shock interno, fuerza de explosión, colisión u otra fuente que produce una desestabilización similar a una conmoción de forma creíble.
 
@@ -198,7 +198,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desequilibrado
 
-*El centro ya no responde: moverse cuesta no caer.*
+*El equilibrio siempre tuvo un precio. Ahora se cobra.*
 
 **Aplicación:** Pérdida de equilibrio o impulso, shock corporal, suelo inestable u otra fuente que compromete el movimiento estable y la defensa de forma creíble.
 
@@ -216,7 +216,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desorientado
 
-*La dirección se fue. El cuerpo sigue, pero sin norte.*
+*El entorno no cambió. El norte sí.*
 
 **Aplicación:** Disrupción espacial, saturación sensorial, mareos, perspectiva inestable u otra fuente que rompe el sentido de dirección del objetivo de forma creíble.
 
@@ -272,7 +272,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Impedido
 
-*El arma sigue en la mano. El control sobre ella, no del todo.*
+*El arma responde al agarre. No siempre a la intención.*
 
 **Aplicación:** Disrupción corporal, interferencia neural, bloqueo por dolor, agarre inestable u otra fuente que impide la ejecución de técnicas de arma sin paralizar completamente al objetivo.
 
@@ -328,7 +328,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Sobrecargado
 
-*Demasiado a la vez. El sistema no encuentra por dónde salir.*
+*Todo llegó a la vez. Nada encontró por dónde salir.*
 
 **Aplicación:** Saturación sensorial, sobrecarga interna, desbordamiento psíquico expresado a través del cuerpo u otra fuente que rompe la regulación funcional de forma creíble.
 
