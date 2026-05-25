@@ -13,7 +13,7 @@ related:
   - core-books/transcendence-corebook/08-conflict-and-combat/en/01-actions.md
   - core-books/transcendence-corebook/08-conflict-and-combat/en/06-critical-impact-and-breaking-parts.md
   - core-books/transcendence-corebook/08-conflict-and-combat/en/03-attrition-endurance-fatigue.md
-  - core-books/transcendence-corebook/12-gm-toolkit/en/01-environmental-conditions.md
+  - core-books/transcendence-corebook/13-gm-toolkit/en/01-environmental-conditions.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
   - Transcendence-design/docs/system/cover-visibility-concealment.md

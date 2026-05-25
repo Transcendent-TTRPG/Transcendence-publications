@@ -4,13 +4,13 @@ type: corebook
 content_kind: reference
 writing_mode: reference
 language: en
-chapter: 16
+chapter: 17
 section: appendix-specializations-catalog
 status: draft
 canonical: false
 tags: [specializations, catalog, player-reference, character-development]
 related:
-  - core-books/transcendence-corebook/16-appendices/es/01-catalogo-de-especializaciones.md
+  - core-books/transcendence-corebook/17-appendices/es/01-catalogo-de-especializaciones.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
   - core-books/transcendence-corebook/05-character-creation/en/character-creation.md
 authority_refs:

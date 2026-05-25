@@ -27,7 +27,7 @@ Use the browser print dialog and select:
 ## Notes
 
 - `Aguante` uses the formula from `Transcendence-design/data/system/attrition-fatigue.yaml`: `3 + (TEN * 2)`.
-- `Cordura` is shown as `CMP * 2`, matching the current equipment dependency note. It should eventually move into a dedicated character or sanity rules source.
+- `Cordura` uses the formula `3 + (CMP * 2)`, mirroring the Aguante pattern. Source: `Transcendence-design/data/system/limbo-entities.yaml`.
 - Page 2 keeps attack names free so natural weapons and manufactured weapons can share the same space.
 - Page 2 currently models medium armor defense as full Evasion and half Agility, and heavy armor as half Evasion and zero Agility, matching the current candidate rebalance in the design docs.
 - Page 3 uses two specialization blocks of 16 rows each so the sheet exports as 3 pages at Letter / 100% scale.

@@ -1,4 +1,4 @@
-# 15-scenarios-and-adventures
+# 15-setting-and-factions
 
 Language folders:
 

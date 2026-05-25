@@ -10,5 +10,5 @@ Recommended internal order:
 Editorial note:
 
 - This chapter should teach the concept before asking the reader to consult long reference lists.
-- The detailed specializations catalog lives in `16-appendices/en/01-specializations-catalog.md`.
+- The detailed specializations catalog lives in `17-appendices/en/01-specializations-catalog.md`.
 - During first reading, the player only needs to understand what a specialization is and how to choose starting ones. The full list is reference material.

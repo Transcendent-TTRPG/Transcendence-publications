@@ -1,4 +1,4 @@
-# 12-gm-toolkit
+# 12-cosmic-horror-and-corruption
 
 Language folders:
 

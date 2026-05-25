@@ -13,7 +13,7 @@ related:
   - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
   - core-books/transcendence-corebook/08-conflict-and-combat/es/06-impacto-critico-y-romper-partes.md
   - core-books/transcendence-corebook/08-conflict-and-combat/es/03-desgaste-aguante-fatiga.md
-  - core-books/transcendence-corebook/12-gm-toolkit/es/01-condiciones-del-entorno.md
+  - core-books/transcendence-corebook/13-gm-toolkit/es/01-condiciones-del-entorno.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
 authority_refs:
   - Transcendence-design/docs/system/cover-visibility-concealment.md

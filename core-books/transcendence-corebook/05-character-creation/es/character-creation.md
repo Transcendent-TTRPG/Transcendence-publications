@@ -359,10 +359,8 @@ La especialización universal inicial de Tenacidad ya está incluida indirectame
 La Cordura mide la estabilidad mental y anímica base del personaje frente a presión extrema, horror, corrupción o efectos que ataquen su equilibrio interno.
 
 ```text
-Cordura = Compostura × 2
+Cordura = 3 + (Compostura × 2)
 ```
-
-Valor mínimo: `1`.
 
 La interacción completa de Cordura con horror cósmico, corrupción y equipo se desarrolla en sus secciones correspondientes. Durante la creación, anota el valor base para que la hoja quede completa.
 
@@ -422,8 +420,8 @@ Aguante = 7
 Calcula Cordura:
 
 ```text
-Cordura = 1 × 2
-Cordura = 2
+Cordura = 3 + (1 × 2)
+Cordura = 5
 ```
 
 Preparación y Resiliencia se redondean hacia arriba.

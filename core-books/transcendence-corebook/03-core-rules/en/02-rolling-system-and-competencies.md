@@ -11,7 +11,7 @@ tags: [rolling-system, competencies, attack, defense, impact, resistance, specia
 related:
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/03-core-rules/en/01-general-rules.md
-  - core-books/transcendence-corebook/12-gm-toolkit/en/01-environmental-conditions.md
+  - core-books/transcendence-corebook/13-gm-toolkit/en/01-environmental-conditions.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
   - Transcendence-design/docs/system/roll-types.md

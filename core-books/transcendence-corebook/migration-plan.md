@@ -43,13 +43,14 @@ Because of that, the structure should prioritize:
 8. `10-conflict-and-combat`
 9. `07-techniques`
 10. `09-equipment-and-resources`
-11. `11-cosmic-horror-and-corruption`
-12. `12-gm-toolkit`
-13. `13-adversaries-and-bestiary`
-14. `14-setting-and-factions`
-15. `15-scenarios-and-adventures`
-16. `16-appendices`
-17. `17-reference-index`
+11. `11-ailments`
+12. `12-cosmic-horror-and-corruption`
+13. `13-gm-toolkit`
+14. `14-adversaries-and-bestiary`
+15. `15-setting-and-factions`
+16. `16-scenarios-and-adventures`
+17. `17-appendices`
+18. `18-reference-index`
 
 ## Deferred Structural Follow-Up
 
@@ -88,13 +89,14 @@ This is the physical order after the migration.
 8. `08-conflict-and-combat`
 9. `09-techniques`
 10. `10-equipment-and-resources`
-11. `11-cosmic-horror-and-corruption`
-12. `12-gm-toolkit`
-13. `13-adversaries-and-bestiary`
-14. `14-setting-and-factions`
-15. `15-scenarios-and-adventures`
-16. `16-appendices`
-17. `17-reference-index`
+11. `11-ailments`
+12. `12-cosmic-horror-and-corruption`
+13. `13-gm-toolkit`
+14. `14-adversaries-and-bestiary`
+15. `15-setting-and-factions`
+16. `16-scenarios-and-adventures`
+17. `17-appendices`
+18. `18-reference-index`
 
 ## Chapter Mapping
 
@@ -110,13 +112,14 @@ This is the physical order after the migration.
 | `08-skills-and-proficiencies` | `04-skills-and-proficiencies` | becomes early player-facing identity chapter |
 | `09-equipment-and-resources` | `10-equipment-and-resources` | moves after techniques |
 | `10-conflict-and-combat` | `08-conflict-and-combat` | becomes central tactical block |
-| `11-cosmic-horror-and-corruption` | `11-cosmic-horror-and-corruption` | unchanged |
-| `12-gm-toolkit` | `12-gm-toolkit` | unchanged |
-| `13-adversaries-and-bestiary` | `13-adversaries-and-bestiary` | unchanged |
-| `14-setting-and-factions` | `14-setting-and-factions` | unchanged |
-| `15-scenarios-and-adventures` | `15-scenarios-and-adventures` | unchanged |
-| `16-appendices` | `16-appendices` | unchanged |
-| `17-reference-index` | `17-reference-index` | unchanged |
+| `11-cosmic-horror-and-corruption` | `12-cosmic-horror-and-corruption` | renumbered — ailments chapter inserted at 11 |
+| `12-gm-toolkit` | `13-gm-toolkit` | renumbered |
+| `13-adversaries-and-bestiary` | `14-adversaries-and-bestiary` | renumbered |
+| `14-setting-and-factions` | `15-setting-and-factions` | renumbered |
+| `15-scenarios-and-adventures` | `16-scenarios-and-adventures` | renumbered |
+| `16-appendices` | `17-appendices` | renumbered |
+| `17-reference-index` | `18-reference-index` | renumbered |
+| *(new)* | `11-ailments` | new chapter — full ailments system + catalog (Alteraciones, Aflicciones, Venenos, Infecciones, Maldiciones) |
 
 ## Internal Ordering Decisions Already Made
 

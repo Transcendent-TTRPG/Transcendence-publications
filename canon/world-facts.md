@@ -45,7 +45,7 @@ This file is:
 - The setting / universe name is **Transcendence**.
 - The in-world parallel dimension relevant to extranatural phenomena is **the Limbo**.
 - **Tauma** is the energy originating in the Limbo.
-- **the Void** is not the same thing as the Limbo.
+- Tauma is organized in elemental natures (fire, wind, earth, water, light, darkness). Each nature has multiple possible faces shaped by the collective consciousness of the creatures that have inhabited that zone over time.
 
 ---
 
@@ -87,8 +87,7 @@ Stable distinctions:
 
 ## Theology and interpretation
 
-- In the elemental religion, Limbo-related phenomena are attributed to **Kaodis**, deity of the Void.
-- Kaodis is a theological interpretation of these phenomena, not the mechanical definition of their cause.
+- Different cultures and traditions have developed doctrinal frameworks to interpret Limbo-related phenomena. These are theological interpretations, not the mechanical definition of their cause.
 - Theological interpretation and mechanical explanation must not be treated as interchangeable unless a text is explicitly speaking from an in-world doctrinal viewpoint.
 
 ---
@@ -113,7 +112,7 @@ Stable distinctions:
 
 - Do not describe the Limbo as a visible everyday layer accessible to ordinary perception.
 - Do not describe Tauma as spontaneous creation ex nihilo.
-- Do not use “the Void” and “the Limbo” as synonyms.
+- Do not introduce theological deities or named cosmic entities as mechanical causes of Limbo phenomena.
 - Do not present theological explanation as mechanical certainty in neutral narration.
 - Do not describe every extranatural event as loud, explosive, or visibly contradictory; subtle extranatural change is valid.
 
@@ -125,7 +124,7 @@ When reviewing a prose file, stop and check `world-facts.md` immediately if the 
 
 - describes direct perception of the Limbo
 - explains the origin of an extranatural event
-- names the Void and the Limbo in the same passage
+- names theological deities or named entities as the cause of a Limbo phenomenon
 - uses theology to explain a phenomenon in neutral narration
 - describes Tauma as generating matter, force, or effects from nothing
 - treats subtle extranatural events as if visible contradiction were required
@@ -141,7 +140,7 @@ Use these questions during continuity review:
 1. Is the passage describing a world fact, a character belief, or a theological interpretation?
 2. If the passage mentions the Limbo, could the viewpoint actually perceive what is being described?
 3. If the passage mentions Tauma, is it transforming what exists or incorrectly creating from nothing?
-4. If the passage mentions the Void, is it being used as theology rather than as a synonym for the Limbo?
+4. If the passage attributes Limbo phenomena to a named deity or theological entity, is it clearly framed as a character or cultural belief rather than neutral narration?
 5. If the passage describes an extranatural event, is the text distinguishing origin from intensity?
 
 If the answer is unclear, the passage is not ready for `final`.

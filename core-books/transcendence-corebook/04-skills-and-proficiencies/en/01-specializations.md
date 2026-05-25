@@ -11,7 +11,7 @@ canonical: false
 tags: [specializations, progression, synapsis, competencies, character-development]
 related:
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
-  - core-books/transcendence-corebook/16-appendices/en/01-specialization-catalog.md
+  - core-books/transcendence-corebook/17-appendices/en/01-specialization-catalog.md
   - core-books/transcendence-corebook/05-character-creation/en/character-creation.md
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
 authority_refs:

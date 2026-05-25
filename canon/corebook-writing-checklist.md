@@ -88,7 +88,7 @@ Apply when the file's primary function is mechanical explanation.
 
 - [ ] The file does not contradict `world-facts.md`
 - [ ] The file does not treat theology as neutral mechanical certainty
-- [ ] The file does not treat the Limbo and the Void as synonyms
+- [ ] The file does not name theological deities or entities as the mechanical cause of Limbo phenomena
 - [ ] Extranatural phenomena are described by origin, not only by spectacle
 
 ---

@@ -330,12 +330,11 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | ES term | EN equivalent | Notes |
 | --- | --- | --- |
 | Transcendencia | Transcendence | The universe/setting name |
-| el Limbo | the Limbo | Do not translate — parallel dimension imperceptible to normal creatures; origin of Tauma energy; source of extranatural conditions; distinct from "el Vacío" (the theological concept associated with Kaodis) |
-| el Vacío | the Void | Do not translate — theological concept in the elemental religion; associated with Kaodis (deity, son of Lampsi and Nytha); not a physical location but the absence/negation that Kaodis embodies |
-| Tauma | Tauma | Do not translate — elemental energy originating in the Limbo; the in-world equivalent of magic |
+| el Limbo | the Limbo | Do not translate — parallel dimension imperceptible to normal creatures; origin of Tauma energy; source of extranatural conditions |
+| Tauma | Tauma | Do not translate — elemental energy originating in the Limbo; organized in elemental natures (fire, wind, earth, water, light, darkness); each with multiple possible faces shaped by collective consciousness |
 | flujo ambiental | ambient flow | No — passive diffuse filtration of Limbo energy into a physical area; does not require an object or active agent |
-| vestigio | vestige | No — residual Tauma energy left in a physical object after past Limbo contact; fades over time; no active Limbo connection; requires discovery before intentional use; has hidden finite uses; each meaningful use raises Affliction pressure |
-| vínculo | link | No — physical object that sustains an active bridge between the bearer and a Limbo entity; more powerful than a vestige; not limited by hidden charges; usable only if the bearer has the required linked Void Affliction and ultimately paid through Cordura pressure |
+| vestigio | vestige | No — residual Tauma energy left in a physical object after past Limbo contact; fades over time; no active Limbo connection; requires discovery before intentional use; has hidden finite uses; each meaningful use raises Affliction pressure on the linked sense |
+| vínculo | link | No — physical object that sustains an active bridge between the bearer and a Limbo entity; more powerful than a vestige; not limited by hidden charges; usable only if the bearer has an active Affliction on the required linked sense; paid through Cordura cost per use |
 
 ---
 

@@ -1,4 +1,4 @@
-# 14-setting-and-factions
+# 14-adversaries-and-bestiary
 
 Language folders:
 

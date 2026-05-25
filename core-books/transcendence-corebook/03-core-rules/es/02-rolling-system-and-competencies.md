@@ -11,7 +11,7 @@ tags: [rolling-system, competencies, attack, defense, impact, resistance, specia
 related:
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/03-core-rules/es/01-general-rules.md
-  - core-books/transcendence-corebook/12-gm-toolkit/es/01-condiciones-del-entorno.md
+  - core-books/transcendence-corebook/13-gm-toolkit/es/01-condiciones-del-entorno.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
 authority_refs:
   - Transcendence-design/docs/system/roll-types.md
@@ -212,9 +212,9 @@ La característica base depende del tipo de efecto. La resistencia correspondien
 
 | Efecto | Fórmula |
 | --- | --- |
-| Venenos o infecciones | `1d10 + Tenacidad + resistencia correspondiente + bonificadores adicionales` |
-| Aflicciones o maldiciones | `1d10 + Compostura + resistencia correspondiente + bonificadores adicionales` |
-| Alteraciones | `1d10 + Resiliencia + resistencia correspondiente + bonificadores adicionales` |
+| Venenos o infecciones | `1d10 + Tenacidad + nivel de competencia en la Resistencia correspondiente + bonificadores adicionales` |
+| Aflicciones o maldiciones | `1d10 + Compostura + nivel de competencia en la Resistencia correspondiente + bonificadores adicionales` |
+| Alteraciones | `1d10 + Resiliencia + nivel de competencia en la Resistencia correspondiente + bonificadores adicionales` |
 
 El objetivo es igualar o superar la dificultad del efecto para evitarlo, mitigarlo o reducir sus consecuencias.
 

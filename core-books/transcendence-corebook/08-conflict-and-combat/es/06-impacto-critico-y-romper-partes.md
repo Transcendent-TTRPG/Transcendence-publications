@@ -14,7 +14,7 @@ related:
   - core-books/transcendence-corebook/08-conflict-and-combat/es/01-acciones.md
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/10-equipment-and-resources/es/README.md
-  - core-books/transcendence-corebook/13-adversaries-and-bestiary/es/README.md
+  - core-books/transcendence-corebook/14-adversaries-and-bestiary/es/README.md
 authority_refs:
   - Transcendence-design/docs/system/wounds-and-damage.md
   - Transcendence-design/data/system/wounds-and-damage.yaml

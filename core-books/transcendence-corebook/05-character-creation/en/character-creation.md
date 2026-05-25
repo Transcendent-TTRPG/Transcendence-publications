@@ -359,10 +359,8 @@ The universal starting Tenacity specialization is already included indirectly, b
 Sanity measures the character’s base mental and emotional stability against extreme pressure, horror, corruption, or effects that attack internal balance.
 
 ```text
-Sanity = Composure × 2
+Sanity = 3 + (Composure × 2)
 ```
-
-Minimum value: `1`.
 
 The full interaction between Sanity, cosmic horror, corruption, and equipment appears in their corresponding sections. During character creation, record the base value so the sheet is complete.
 
@@ -422,8 +420,8 @@ Endurance = 7
 Calculate Sanity:
 
 ```text
-Sanity = 1 × 2
-Sanity = 2
+Sanity = 3 + (1 × 2)
+Sanity = 5
 ```
 
 Preparation and Resilience are rounded up.

@@ -282,6 +282,22 @@ Fatigue 5 is not a tactical margin that can be sustained voluntarily. It is the 
 
 ---
 
+## Fatigue Effects
+
+Fatigue effects are **cumulative**. Reaching Fatigue 3 means the character is under the effects of Fatigue 1, 2, and 3 simultaneously. Each level closes off or increases the cost of something distinct — it is not simply more of the same modifier.
+
+| Level | Effect |
+| --- | --- |
+| **Fatigue 1** | Physical `S.R.` rolls require a successful `R.R.` Tenacity before execution. On failure, the `S.R.` is lost. |
+| **Fatigue 2** | Actions with a rhythm cost of `5` or higher are not available. |
+| **Fatigue 3** | All non-free actions cost `+1` additional Attrition. |
+| **Fatigue 4** | Reactions are not available. Only Active Actions can be taken. |
+| **Fatigue 5** | Techniques resolve only their primary effect (`A.R.`, `I.R.`, or base utility effect). Free repositioning, applied Alterations, and position control do not activate. |
+
+If a mechanic adds Fatigue while the character is already at Fatigue 5, the character becomes **Incapacitated**.
+
+---
+
 ## Incapacitated by Exhaustion
 
 A character **Incapacitated by exhaustion** cannot take:

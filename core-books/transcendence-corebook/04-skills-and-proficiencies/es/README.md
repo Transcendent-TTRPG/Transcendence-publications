@@ -10,5 +10,5 @@ Orden interno recomendado:
 Nota editorial:
 
 - Este capítulo debe enseñar el concepto antes de pedir consulta.
-- El catálogo detallado de especializaciones vive en `16-appendices/es/01-catalogo-de-especializaciones.md`.
+- El catálogo detallado de especializaciones vive en `17-appendices/es/01-catalogo-de-especializaciones.md`.
 - Durante la primera lectura, el jugador solo necesita entender qué es una especialización y cómo escoger las iniciales. La lista completa es material de consulta.

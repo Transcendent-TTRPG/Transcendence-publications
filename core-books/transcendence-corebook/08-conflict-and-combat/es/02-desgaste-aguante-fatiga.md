@@ -282,6 +282,22 @@ Fatiga 5 no es un margen táctico que pueda sostenerse voluntariamente. Es el ú
 
 ---
 
+## Efectos de Fatiga
+
+Los efectos de Fatiga son **acumulativos**. Llegar a Fatiga 3 significa que el personaje carga simultáneamente con los efectos de Fatiga 1, 2 y 3. Cada nivel cierra o encarece algo distinto — no es más del mismo modificador.
+
+| Nivel | Efecto |
+| --- | --- |
+| **Fatiga 1** | Las `T.E.` físicas requieren una `T.R.` de Tenacidad antes de ejecutarse. Si falla, la `T.E.` se pierde. |
+| **Fatiga 2** | Las acciones de ritmo `5` o mayor no están disponibles. |
+| **Fatiga 3** | Todas las acciones no gratuitas cuestan `+1` Desgaste adicional. |
+| **Fatiga 4** | Las Reacciones no están disponibles. Solo se pueden usar Acciones Activas. |
+| **Fatiga 5** | Las Técnicas solo resuelven su efecto primario (`T.A.`, `T.I.` o efecto de utilidad base). El reposicionamiento gratuito, las Alteraciones aplicadas y el control de posición no se activan. |
+
+Si una mecánica añade Fatiga cuando el personaje ya está en Fatiga 5, queda **Incapacitado**.
+
+---
+
 ## Incapacitado por agotamiento
 
 Un personaje **Incapacitado por agotamiento** no puede realizar:
@@ -360,7 +376,7 @@ Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje m
 
 ---
 
-## Ejemplo
+## Ejemplo de combate
 
 Una criatura con Aguante `7` participa en un combate largo.
 
