@@ -32,9 +32,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Asfixiado
 
-*El objetivo no puede respirar correctamente y lucha por mantenerse operativo.*
+*El aire no alcanza y cada acción empieza a cobrarse desde dentro.*
 
-**Aplicación:** Asfixia, ahogamiento, inhalación de humo, presión aplastante u otra fuente que impida la respiración de forma creíble.
+**Aplicación:** Se aplica cuando una criatura no puede respirar de forma suficiente: ahogamiento, humo denso, estrangulamiento, presión aplastante, vacío, gases sofocantes o una fuente equivalente.
 
 **Duración:** Mientras persista la fuente.
 
@@ -42,7 +42,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | Al inicio de cada activación, `T.E.` de Tolerancia contra la severidad original o queda incapacitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
+| **Leve** | Al inicio de cada activación, realiza una `T.E.` de Tolerancia contra la severidad original. Si falla, queda incapacitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
 | **Moderado** | Leve, más: `Preparación` se convierte en `0`. No puede correr, gritar con fuerza, mantener esfuerzo prolongado ni usar acciones claramente dependientes de la respiración sin superar primero la `T.E.` de Tolerancia. |
 | **Grave** | Moderado, más: si falla la `T.E.` de Tolerancia al inicio de la activación, queda Incapacitado. |
 
@@ -50,13 +50,13 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Aterrorizado
 
-*El cuerpo y el juicio operativo inmediato del objetivo son tomados por terror agudo.*
+*El peligro ocupa el cuerpo antes de que la voluntad pueda discutirlo.*
 
-**Aplicación:** Una criatura, Técnica, revelación de escena, presencia hostil, exhibición grotesca, amenaza de contaminación o presencia de depredador que crea una línea de terror inmediata que el cuerpo trata como peligro urgente.
+**Aplicación:** Se aplica cuando una criatura, presencia, revelación, amenaza o escena impone un terror inmediato que el cuerpo reconoce como peligro urgente.
 
 **Duración:** Mientras persista la condición.
 
-**Recuperación:** Termina cuando la línea de terror es materialmente rota, desmentida, eliminada o deja de ser funcionalmente relevante; o cuando supera una `T.E.` de Contención contra la severidad original para recuperar suficiente control interno.
+**Recuperación:** Termina cuando la fuente de terror es rota, desmentida, eliminada o deja de ser relevante. También puede terminar si el objetivo supera una `T.E.` de Contención contra la severidad original.
 
 | Severidad | Efectos |
 | --- | --- |
@@ -70,15 +70,15 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 *El cuerpo está físicamente retenido o estructuralmente impedido de moverse con libertad.*
 
-**Aplicación:** Agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
+**Aplicación:** Se aplica cuando hay agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
 
 **Duración:** Hasta eliminar.
 
-**Recuperación:** Termina cuando el objetivo se libera, es soltado o la fuente deja de retenerlo. La recuperación preferida es una `T.E.` de Agarre contra una sujeción viva, u otra `T.E.` de Agilidad si la ficción trata más de deslizarse o desenredarse que de superar un contacto.
+**Recuperación:** Termina cuando el objetivo se libera, es soltado o la fuente deja de retenerlo. La criatura puede realizar una `T.E.` de Agarre contra una sujeción viva, u otra `T.E.` de Agilidad si la ficción trata más de deslizarse o desenredarse que de superar un contacto.
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | Movimiento `0`. `T.A.`, `T.I.`, `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Atrapado. |
+| **Leve** | Movimiento se reduce a `0`. las `T.A.`, `T.I.`, `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Atrapado. |
 | **Moderado** | Leve, más: no puede usar acciones con costo de ritmo superior a 4 sin superar primero una `T.E.` de Agarre contra la severidad original. |
 | **Grave** | Moderado, más: para realizar cualquier acción, debe superar primero esa `T.E.` de Agarre; si falla, la acción no se resuelve. |
 
@@ -86,7 +86,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Aturdido
 
-*El objetivo está aturdido lo suficiente para perder su próxima activación significativa.*
+*El golpe no solo impacta: deja la acción sin dueño.*
 
 **Aplicación:** Impacto, shock neural, fuerza de concusión, sobrecarga u otra fuente que brevemente cierra la acción limpia de forma creíble.
 
@@ -142,7 +142,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Congelado
 
-*El frío se ha asentado en el cuerpo lo suficiente como para comprometer la temperatura, la respuesta motora y el movimiento ágil.*
+*Los músculos responden con retraso. El frío ya lleva ventaja.*
 
 **Aplicación:** Exposición prolongada a congelación, efecto hostil basado en hielo u otra fuente que deteriora funcionalmente el cuerpo por frío de forma creíble.
 
@@ -160,7 +160,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Conmocionado
 
-*Un golpe o shock desestabilizador ha comprometido la claridad del objetivo, su estabilidad mental y su continuidad cognitiva.*
+*El golpe llegó. La claridad tardará en volver.*
 
 **Aplicación:** Impacto, shock interno, fuerza de explosión, colisión u otra fuente que produce una desestabilización similar a una conmoción de forma creíble.
 
@@ -178,7 +178,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Derribado
 
-*El objetivo pierde el equilibrio o la postura corporal estable y cae al suelo.*
+*La postura cede. El suelo gana.*
 
 **Aplicación:** Impacto, barrido, transferencia de fuerza, colapso de terreno, colisión u otra causa creíble que tira al objetivo al suelo.
 
@@ -198,7 +198,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desequilibrado
 
-*La postura y la estabilidad corporal del objetivo están comprometidas.*
+*El centro ya no responde: moverse cuesta no caer.*
 
 **Aplicación:** Pérdida de equilibrio o impulso, shock corporal, suelo inestable u otra fuente que compromete el movimiento estable y la defensa de forma creíble.
 
@@ -216,7 +216,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desorientado
 
-*El objetivo pierde la certeza direccional y la orientación mental.*
+*La dirección se fue. El cuerpo sigue, pero sin norte.*
 
 **Aplicación:** Disrupción espacial, saturación sensorial, mareos, perspectiva inestable u otra fuente que rompe el sentido de dirección del objetivo de forma creíble.
 
@@ -234,7 +234,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Electrizado
 
-*La disrupción eléctrica causa pérdida de continuidad muscular, respuesta de descarga involuntaria y ejecución física degradada.*
+*La descarga pasó. Los músculos no terminan de creérselo.*
 
 **Aplicación:** Descarga eléctrica significativa, exposición conductora prolongada u otra fuente de shock corporal creíble.
 
@@ -252,7 +252,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Ensordecido
 
-*La audición del objetivo está funcionalmente deteriorada o perdida.*
+*El sonido llegó demasiado fuerte. Ahora no llega.*
 
 **Aplicación:** Trauma sónico, shock de presión interna, fuerza de explosión, sobrecarga ambiental u otra fuente que disrumpe la función auditiva lo suficiente para que el oído deje de ser un sentido primario utilizable. Usar Ensordecido solo cuando la audición ya no es utilizable; si una fuente solo ensucia una línea auditiva, un oído, un eco o un canal acotado, usar un estado procedimental en su lugar.
 
@@ -272,7 +272,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Impedido
 
-*El objetivo no puede ejecutar Técnicas de arma con limpieza.*
+*El arma sigue en la mano. El control sobre ella, no del todo.*
 
 **Aplicación:** Disrupción corporal, interferencia neural, bloqueo por dolor, agarre inestable u otra fuente que impide la ejecución de técnicas de arma sin paralizar completamente al objetivo.
 
@@ -290,7 +290,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Lacerado
 
-*El objetivo ha sido desgarrado, cortado o herido de un modo que hace más lenta la ejecución física exigente porque el movimiento debe proteger, compensar o empujar a través del tejido dañado.*
+*Moverse cuesta. La herida recuerda exactamente cuánto.*
 
 **Aplicación:** Corte profundo o laceración, mordedura o zarpazo desgarrador, contacto con arma con gancho o sierra, herida abierta bajo presión física u otra fuente de disrupción de tejido dolorosa y creíble.
 
@@ -308,7 +308,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Paralizado
 
-*El cuerpo pierde la capacidad de ejecutar acciones significativas por cierre neuromuscular, bloqueo rígido o arresto corporal equivalente.*
+*La señal llega. El cuerpo no la ejecuta.*
 
 **Aplicación:** Electricidad, veneno, bloqueo por frío, shock corporal, supresión forzada u otra fuente que detiene de forma creíble la acción significativa.
 
@@ -328,7 +328,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Sobrecargado
 
-*El objetivo está desbordado por presión sensorial, neural o interna excesiva.*
+*Demasiado a la vez. El sistema no encuentra por dónde salir.*
 
 **Aplicación:** Saturación sensorial, sobrecarga interna, desbordamiento psíquico expresado a través del cuerpo u otra fuente que rompe la regulación funcional de forma creíble.
 

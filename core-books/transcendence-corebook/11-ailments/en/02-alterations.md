@@ -52,7 +52,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Concussed
 
-*A destabilizing blow or shock has compromised the target's clarity, mental stability, and cognitive continuity.*
+*The hit landed. Clarity will take a while to return.*
 
 **Application:** Impact, internal shock, blast force, collision, or any other source that produces a concussion-like destabilization in a credible way.
 
@@ -88,7 +88,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Deafened
 
-*The target's hearing is functionally impaired or lost.*
+*The sound came in too hard. Now it does not come at all.*
 
 **Application:** Sonic trauma, internal pressure shock, blast force, environmental overload, or any other source that disrupts auditory function enough that hearing is no longer a usable primary sense. Apply Deafened only when hearing is no longer usable; if a source merely obscures a single auditory line, one ear, an echo, or a bounded channel, use a procedural state instead.
 
@@ -108,7 +108,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Disoriented
 
-*The target loses directional certainty and mental orientation.*
+*Direction is gone. The body moves, but without bearing.*
 
 **Application:** Spatial disruption, sensory saturation, dizziness, unstable perspective, or any other source that breaks the target's sense of direction in a credible way.
 
@@ -126,7 +126,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Electrified
 
-*Electrical disruption causes loss of muscular continuity, involuntary discharge responses, and degraded physical execution.*
+*The discharge passed. The muscles have not finished believing it.*
 
 **Application:** Significant electrical discharge, prolonged conductive exposure, or any other source of credible body shock.
 
@@ -144,7 +144,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Frozen
 
-*Cold has settled into the body enough to compromise temperature, motor response, and agile movement.*
+*The muscles respond late. The cold already has the lead.*
 
 **Application:** Prolonged exposure to freezing, a hostile ice-based effect, or any other source that functionally deteriorates the body through cold in a credible way.
 
@@ -162,7 +162,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Impeded
 
-*The target cannot execute weapon Techniques cleanly.*
+*The weapon stays in the hand. Control over it, not entirely.*
 
 **Application:** Body disruption, neural interference, pain-based blocking, unstable grip, or any other source that prevents clean weapon technique execution without fully paralysing the target.
 
@@ -180,7 +180,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Knocked Down
 
-*The target loses balance or stable body posture and falls to the ground.*
+*Posture gives. The ground wins.*
 
 **Application:** Impact, sweep, force transfer, terrain collapse, collision, or any other credible cause that brings the target to the ground.
 
@@ -200,7 +200,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Lacerated
 
-*The target has been torn, cut, or wounded in a way that slows demanding physical execution because movement must protect, compensate, or push through damaged tissue.*
+*Moving costs. The wound remembers exactly how much.*
 
 **Application:** Deep cut or laceration, tearing bite or slash, contact with a hooked or serrated weapon, open wound under physical pressure, or any other source of painful and credible tissue disruption.
 
@@ -218,7 +218,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Off-Balance
 
-*The target's posture and body stability are compromised.*
+*The center no longer responds — moving costs not falling.*
 
 **Application:** Loss of balance or momentum, body shock, unstable ground, or any other source that compromises stable movement and defense in a credible way.
 
@@ -236,7 +236,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Overwhelmed
 
-*The target is flooded by excessive sensory, neural, or internal pressure.*
+*Too much at once. The system cannot find a way out.*
 
 **Application:** Sensory saturation, internal overload, psychic overflow expressed through the body, or any other source that breaks functional regulation in a credible way.
 
@@ -254,7 +254,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Paralyzed
 
-*The body loses the ability to take significant actions through neuromuscular shutdown, rigid blocking, or equivalent body arrest.*
+*The signal arrives. The body does not execute it.*
 
 **Application:** Electricity, poison, cold blocking, body shock, forced suppression, or any other source that credibly halts significant action.
 
@@ -292,7 +292,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Stunned
 
-*The target is stunned enough to lose its next significant activation.*
+*The hit does not just land — it leaves the action without an owner.*
 
 **Application:** Impact, neural shock, concussive force, overload, or any other source that briefly shuts down clean action in a credible way.
 
@@ -310,7 +310,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Suffocating
 
-*The target cannot breathe correctly and struggles to remain operational.*
+*The air falls short. Each action starts collecting its debt from inside.*
 
 **Application:** Asphyxiation, drowning, smoke inhalation, crushing pressure, or any other source that prevents breathing in a credible way.
 
@@ -328,7 +328,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Terrified
 
-*The target's body and immediate operational judgment are seized by acute terror.*
+*Danger occupies the body before the will can argue.*
 
 **Application:** A creature, Technique, scene revelation, hostile presence, grotesque display, contamination threat, or predator presence that creates an immediate terror line the body treats as urgent danger.
 
