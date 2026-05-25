@@ -68,7 +68,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Atrapado
 
-*El cuerpo está físicamente retenido o estructuralmente impedido de moverse con libertad.*
+*El cuerpo tiene límites. Algo los encontró primero.*
 
 **Aplicación:** Se aplica cuando hay agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
 
@@ -104,7 +104,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Cegado
 
-*El objetivo no puede ver.*
+*La amenaza sigue ahí. El mundo solo dejó de señalarla.*
 
 **Aplicación:** Luz, trauma, escombros, oscuridad impuesta como estado del cuerpo, daño ocular u otra fuente que elimina funcionalmente la visión. Usar Cegado solo cuando la visión deja de ser un sentido primario utilizable; si una fuente solo ensucia una línea ocular, un punto de lectura o un canal visual acotado, usar un estado procedimental en su lugar.
 
@@ -124,7 +124,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Confundido
 
-*El objetivo pierde el juicio limpio y no puede distinguir con fiabilidad aliados, enemigos o intención en la escena inmediata.*
+*El juicio ya no discrimina bien. Actuar cuesta más de lo que debería.*
 
 **Aplicación:** Shock corporal, sobrecarga sensorial, disrupción neural, concusión, toxinas u otra fuente que desestabiliza el juicio operativo inmediato de forma creíble.
 
@@ -153,7 +153,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.C.` de Agilidad y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Congelado. Movimiento reducido a la mitad. |
-| **Moderado** | Leve, más: no puede correr, saltar, trepar ni usar tecnicas que otorguen movimiento adicional sin superar primero una `T.E.` de Aclimatación contra la severidad original. |
+| **Moderado** | Leve, más: no puede correr, saltar, trepar ni usar Técnicas que otorguen movimiento adicional sin superar primero una `T.E.` de Aclimatación contra la severidad original. |
 | **Grave** | Moderado, más: al inicio de su activación, debe superar la `T.E.` de Aclimatación contra la severidad original; si falla, pierde la activación. |
 
 ---
@@ -209,7 +209,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Desequilibrado. |
-| **Moderado** | Leve, más: para correr, usar reacciones, ó `T.E.` de Fuerza o Agilidad, debe superar primero una `T.E.` de Equilibrio contra la severidad original; si falla, la `T.E.` no se resuelve. |
+| **Moderado** | Leve, más: para correr, usar Reacciones o `T.E.` de Fuerza o Agilidad, debe superar primero una `T.E.` de Equilibrio contra la severidad original; si falla, la `T.E.` no se resuelve. |
 | **Grave** | Moderado, más: si falla esa `T.E.` de Equilibrio, queda inmediatamente Derribado en lugar de simplemente perder el intento. |
 
 ---

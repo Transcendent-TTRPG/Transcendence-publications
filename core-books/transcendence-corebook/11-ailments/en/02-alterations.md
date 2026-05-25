@@ -32,7 +32,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Blinded
 
-*The target cannot see.*
+*The threat is still there. The world just stopped pointing at it.*
 
 **Application:** Light, trauma, debris, darkness imposed as a body state, eye damage, or any other source that functionally eliminates vision. Apply Blinded only when sight is no longer a usable primary sense; if a source merely obscures a single visual line, a reading point, or a bounded visual channel, use a procedural state instead.
 
@@ -70,7 +70,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Confused
 
-*The target loses clean judgment and cannot reliably distinguish allies, enemies, or intent in the immediate scene.*
+*Judgment no longer discriminates cleanly. Acting costs more than it should.*
 
 **Application:** Body shock, sensory overload, neural disruption, concussion, toxins, or any other source that destabilizes immediate operational judgment in a credible way.
 
@@ -274,7 +274,7 @@ The effects of each Alteration are **cumulative by severity**: Moderate includes
 
 ## Restrained
 
-*The body is physically held or structurally prevented from moving freely.*
+*The body has limits. Something found them first.*
 
 **Application:** Creature grab or hold, net or restraining mechanism, adhesive hazard, collapsing surface, or any other source that physically retains the target in a credible way.
 
