@@ -68,7 +68,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Atrapado
 
-*El mundo vuelve antes que el cuerpo.*
+*El espacio sigue. El cuerpo encontró su límite.*
 
 **Aplicación:** Se aplica cuando hay agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
 
