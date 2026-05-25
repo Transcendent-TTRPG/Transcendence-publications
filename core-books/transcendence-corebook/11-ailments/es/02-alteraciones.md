@@ -42,9 +42,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | Al inicio de cada activación, realiza una `T.E.` de Tolerancia contra la severidad original. Si falla, queda incapacitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
-| **Moderado** | Leve, más: `Preparación` se convierte en `0`. No puede correr, gritar con fuerza, mantener esfuerzo prolongado ni usar acciones claramente dependientes de la respiración sin superar primero la `T.E.` de Tolerancia. |
-| **Grave** | Moderado, más: si falla la `T.E.` de Tolerancia al inicio de la activación, queda Incapacitado. |
+| **Leve** | Al inicio de cada activación, realiza una `T.E.` de Tolerancia contra la severidad original. Si fallas, quedas incapacitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
+| **Moderado** | Leve, más: `Preparación` se convierte en `0`. No puedes correr, gritar con fuerza, mantener esfuerzo prolongado ni usar acciones claramente dependientes de la respiración sin superar primero la `T.E.` de Tolerancia. |
+| **Grave** | Moderado, más: si fallas la `T.E.` de Tolerancia al inicio de la activación, quedas Incapacitado. |
 
 ---
 
@@ -61,8 +61,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.A.`, `T.D.`, `T.C.` y `T.E.` que se oponen directamente, se acercan, manejan o comprometen hacia la fuente temida sufren una penalización igual al bonificador de rango de la fuente que aplicó Aterrorizado. |
-| **Moderado** | Leve, más: no puede reducir voluntariamente la distancia a la fuente temida ni comprometerse deliberadamente sin superar primero una `T.E.` de Contención contra la severidad original. |
-| **Grave** | Moderado, más: para realizar cualquier acción, debe superar primero una `T.E.` de Contención contra la severidad original; si falla, la acción no se resuelve. |
+| **Moderado** | Leve, más: no puedes reducir voluntariamente la distancia a la fuente temida ni comprometerte deliberadamente sin superar primero una `T.E.` de Contención contra la severidad original. |
+| **Grave** | Moderado, más: para realizar cualquier acción, debes superar primero una `T.E.` de Contención contra la severidad original; si fallas, la acción no se resuelve. |
 
 ---
 
@@ -78,9 +78,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | Movimiento se reduce a `0`. las `T.A.`, `T.I.`, `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Atrapado. |
-| **Moderado** | Leve, más: no puede usar acciones con costo de ritmo superior a 4 sin superar primero una `T.E.` de Agarre contra la severidad original. |
-| **Grave** | Moderado, más: para realizar cualquier acción, debe superar primero esa `T.E.` de Agarre; si falla, la acción no se resuelve. |
+| **Leve** | Tu movimiento se reduce a `0`. Las `T.A.`, `T.I.`, `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Atrapado. |
+| **Moderado** | Leve, más: no puedes usar acciones con costo de ritmo superior a 4 sin superar primero una `T.E.` de Agarre contra la severidad original. |
+| **Grave** | Moderado, más: para realizar cualquier acción, debes superar primero esa `T.E.` de Agarre; si fallas, la acción no se resuelve. |
 
 ---
 
@@ -97,8 +97,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.R.` y `T.C.` sufren penalización igual al bonificador de rango de la fuente que aplicó Aturdido. La próxima activación del objetivo se pierde. |
-| **Moderado** | Leve, más: mientras Aturdido permanezca activo, `Preparación` se convierte en `0`. Tras cada activación perdida consumida, debe superar una `T.E.` de Tolerancia contra la severidad original o Aturdido permanece activo y consume la siguiente activación también. |
-| **Grave** | Moderado, más: mientras Aturdido permanezca activo, no puede usar reacciones voluntariamente sin superar primero esa `T.E.` de Tolerancia. |
+| **Moderado** | Leve, más: mientras Aturdido permanezca activo, `Preparación` se convierte en `0`. Tras cada activación perdida consumida, debes superar una `T.E.` de Tolerancia contra la severidad original o Aturdido permanece activo y consume la siguiente activación también. |
+| **Grave** | Moderado, más: mientras Aturdido permanezca activo, no puedes usar Reacciones voluntariamente sin superar primero esa `T.E.` de Tolerancia. |
 
 ---
 
@@ -135,8 +135,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.A.`, `T.I.` y `T.E.` de Intelecto o Compostura que requieren discriminación, identificación de objetivo o lectura de intención sufren penalización igual al bonificador de rango de la fuente que aplicó Confundido. |
-| **Moderado** | Leve, más: antes de poder elegir deliberadamente una criatura, bando o línea operativa específica en una escena concurrida, ambigua o cambiante, debe superar primero una `T.E.` de Enfoque contra la severidad original. |
-| **Grave** | Moderado, más: para elegir deliberadamente una criatura, debe superar primero esa `T.E.` de Enfoque; si falla, el objetivo será la criatura más próxima, aun si es un aliado. |
+| **Moderado** | Leve, más: antes de poder elegir deliberadamente una criatura, bando o línea operativa específica en una escena concurrida, ambigua o cambiante, debes superar primero una `T.E.` de Enfoque contra la severidad original. |
+| **Grave** | Moderado, más: para elegir deliberadamente una criatura, debes superar primero esa `T.E.` de Enfoque; si fallas, tu objetivo será la criatura más próxima, aun si es un aliado. |
 
 ---
 
@@ -152,9 +152,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | `T.C.` de Agilidad y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Congelado. Movimiento reducido a la mitad. |
-| **Moderado** | Leve, más: no puede correr, saltar, trepar ni usar Técnicas que otorguen movimiento adicional sin superar primero una `T.E.` de Aclimatación contra la severidad original. |
-| **Grave** | Moderado, más: al inicio de su activación, debe superar la `T.E.` de Aclimatación contra la severidad original; si falla, pierde la activación. |
+| **Leve** | `T.C.` de Agilidad y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Congelado. Tu movimiento queda reducido a la mitad. |
+| **Moderado** | Leve, más: no puedes correr, saltar, trepar ni usar Técnicas que otorguen movimiento adicional sin superar primero una `T.E.` de Aclimatación contra la severidad original. |
+| **Grave** | Moderado, más: al inicio de tu activación, debes superar la `T.E.` de Aclimatación contra la severidad original; si fallas, pierdes la activación. |
 
 ---
 
@@ -172,7 +172,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | --- | --- |
 | **Leve** | `T.C.` y `T.E.` de Compostura e Intelecto sufren penalización igual al bonificador de rango de la fuente que aplicó Conmocionado. |
 | **Moderado** | Leve, más: `Preparación` se convierte en `0`. |
-| **Grave** | Moderado, más: para usar `T.C.` o `T.E.` basada en Compostura o Intelecto, debe superar primero una `T.E.` de Contención contra la severidad original; si falla, la acción no se resuelve. |
+| **Grave** | Moderado, más: para usar `T.C.` o `T.E.` basada en Compostura o Intelecto, debes superar primero una `T.E.` de Contención contra la severidad original; si fallas, la acción no se resuelve. |
 
 ---
 
@@ -209,8 +209,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Desequilibrado. |
-| **Moderado** | Leve, más: para correr, usar Reacciones o `T.E.` de Fuerza o Agilidad, debe superar primero una `T.E.` de Equilibrio contra la severidad original; si falla, la `T.E.` no se resuelve. |
-| **Grave** | Moderado, más: si falla esa `T.E.` de Equilibrio, queda inmediatamente Derribado en lugar de simplemente perder el intento. |
+| **Moderado** | Leve, más: para correr, usar Reacciones o `T.E.` de Fuerza o Agilidad, debes superar primero una `T.E.` de Equilibrio contra la severidad original; si fallas, la `T.E.` no se resuelve. |
+| **Grave** | Moderado, más: si fallas esa `T.E.` de Equilibrio, quedas inmediatamente Derribado en lugar de simplemente perder el intento. |
 
 ---
 
@@ -228,7 +228,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | --- | --- |
 | **Leve** | `T.E.` de Intelecto o Compostura sufren penalización igual al bonificador de rango de la fuente que aplicó Desorientado. |
 | **Moderado** | Leve, más: `Preparación` se convierte en `0`. |
-| **Grave** | Moderado, más: para usar una acción que requiera `T.E.` de Intelecto o Compostura, debe superar primero una `T.E.` de Orientación contra la severidad original; si falla, la `T.E.` no se resuelve. |
+| **Grave** | Moderado, más: para usar una acción que requiera `T.E.` de Intelecto o Compostura, debes superar primero una `T.E.` de Orientación contra la severidad original; si fallas, la `T.E.` no se resuelve. |
 
 ---
 
@@ -245,8 +245,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | Ataques, movimiento y Técnicas vinculadas a ataque o movimiento cuestan Ritmo adicional igual al bonificador de rango de la fuente. `T.E.` de Agilidad sufren esa misma penalización. |
-| **Moderado** | Leve, más: no puede usar Reacciones sin superar primero una `T.E.` de Tolerancia contra la severidad original. |
-| **Grave** | Moderado, más: para realizar cualquier acción, debe superar primero esa `T.E.` de Tolerancia; si falla, la acción no se resuelve. |
+| **Moderado** | Leve, más: no puedes usar Reacciones sin superar primero una `T.E.` de Tolerancia contra la severidad original. |
+| **Grave** | Moderado, más: para realizar cualquier acción, debes superar primero esa `T.E.` de Tolerancia; si fallas, la acción no se resuelve. |
 
 ---
 
@@ -262,9 +262,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | No puede realizar `T.C.` o `T.E.` que requieran audición. No puede apoyarse en señales auditivas para responder a amenazas que no vio. |
-| **Moderado** | No puede realizar `T.C.` o `T.E.` que requieran audición. No puede apoyarse en señales auditivas para responder a amenazas que no vio. |
-| **Grave** | No puede realizar `T.C.` o `T.E.` que requieran audición. No puede apoyarse en señales auditivas para responder a amenazas que no vio. |
+| **Leve** | No puedes realizar `T.C.` o `T.E.` que requieran audición. No puedes apoyarte en señales auditivas para responder a amenazas que no viste. |
+| **Moderado** | No puedes realizar `T.C.` o `T.E.` que requieran audición. No puedes apoyarte en señales auditivas para responder a amenazas que no viste. |
+| **Grave** | No puedes realizar `T.C.` o `T.E.` que requieran audición. No puedes apoyarte en señales auditivas para responder a amenazas que no viste. |
 
 *La severidad gobierna principalmente la presión de aplicación y la dificultad de recuperación.*
 
@@ -283,8 +283,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.A.`, `T.I.` basadas en arma y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Impedido. |
-| **Moderado** | Leve, más: para realizar un ataque con arma, interceptar, recargar o re-preparar, debe superar primero una `T.E.` de Enfoque contra la severidad original; si falla, la acción no se resuelve. |
-| **Grave** | Moderado, más: no puede usar Técnicas vinculadas a competencias de arma. |
+| **Moderado** | Leve, más: para realizar un ataque con arma, interceptar, recargar o re-preparar, debes superar primero una `T.E.` de Enfoque contra la severidad original; si fallas, la acción no se resuelve. |
+| **Grave** | Moderado, más: no puedes usar Técnicas vinculadas a competencias de arma. |
 
 ---
 
@@ -301,8 +301,8 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | Técnicas de ataque o movimiento y `T.E.` de Fuerza o Agilidad cuestan Ritmo adicional igual al bonificador de rango de la fuente que aplicó Lacerado. |
-| **Moderado** | Leve, más: para usar Técnicas de ataque o movimiento o `T.E.` de Fuerza o Agilidad, debe superar primero una `T.E.` de Tolerancia contra la severidad original; si falla, la acción no se resuelve. |
-| **Grave** | Moderado, más: para realizar cualquier acción, debe superar primero esa `T.E.` de Tolerancia; si falla, la acción no se resuelve. |
+| **Moderado** | Leve, más: para usar Técnicas de ataque o movimiento o `T.E.` de Fuerza o Agilidad, debes superar primero una `T.E.` de Tolerancia contra la severidad original; si fallas, la acción no se resuelve. |
+| **Grave** | Moderado, más: para realizar cualquier acción, debes superar primero esa `T.E.` de Tolerancia; si fallas, la acción no se resuelve. |
 
 ---
 
@@ -318,9 +318,9 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | El objetivo no puede realizar acciones. |
-| **Moderado** | El objetivo no puede realizar acciones. |
-| **Grave** | El objetivo no puede realizar acciones. |
+| **Leve** | No puedes realizar acciones. |
+| **Moderado** | No puedes realizar acciones. |
+| **Grave** | No puedes realizar acciones. |
 
 *La severidad gobierna principalmente la dificultad de aplicar, resistir o romper el estado. Usar Paralizado solo cuando la acción corporal significativa está realmente detenida; usar Atrapado para retención, Aturdido para activación perdida, e Impedido para ruptura de ejecución que deja al cuerpo aún activo.*
 
@@ -339,5 +339,5 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | Severidad | Efectos |
 | --- | --- |
 | **Leve** | `T.R.` sufren penalización igual al bonificador de rango de la fuente que aplicó Sobrecargado. |
-| **Moderado** | Leve, más: no puede usar voluntariamente `T.E.` de Aura o Compostura sin superar primero una `T.E.` de Contención contra la severidad original. |
-| **Grave** | Moderado, más: para realizar cualquier `T.E.`, debe superar primero esa `T.E.` de Contención; si falla, la `T.E.` no se resuelve. |
+| **Moderado** | Leve, más: no puedes usar voluntariamente `T.E.` de Aura o Compostura sin superar primero una `T.E.` de Contención contra la severidad original. |
+| **Grave** | Moderado, más: para realizar cualquier `T.E.`, debes superar primero esa `T.E.` de Contención; si fallas, la `T.E.` no se resuelve. |
