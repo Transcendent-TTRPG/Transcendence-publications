@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, imparable, active, attack, sauri, posture_break, forced_displacement]
+tags: [techniques, imparable, active, attack, sauri, forced_displacement]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -41,9 +41,9 @@ related:
 
 ## Efecto
 
-Realiza un ataque con perfil `Imparable` contra el objetivo. Si el objetivo no depende de una postura defensiva activa — guardia, apoyo, bloqueo, uso activo de escudo, postura de armadura activa, o efecto de posicionamiento sostenido — el ataque resuelve normalmente sin efecto adicional.
+Realiza un ataque con perfil `Imparable` contra el objetivo. Si el ataque impacta, resuelve el daño normalmente.
 
-Si el objetivo depende de una postura defensiva activa y el ataque impacta, el objetivo realiza una `T.R. (Alteraciones)` contra desplazamiento forzado. La distancia depende de tu rango de competencia:
+Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra desplazamiento forzado. La distancia depende de tu rango de competencia:
 
 | Rango de competencia | Distancia |
 | --- | ---: |
@@ -54,4 +54,4 @@ Si el objetivo depende de una postura defensiva activa y el ataque impacta, el o
 | Consumado | 3m |
 | Trascendente | 3m |
 
-Si falla la `T.R.`, el objetivo es empujado esa distancia desde su línea y pierde el beneficio de cualquier postura activa que dependiera de mantener esa posición. Si tiene éxito, el objetivo conserva su posición y sus beneficios de postura, pero el daño del ataque resuelve igualmente si el golpe impactó.
+Si falla la `T.R.`, el objetivo es empujado esa distancia. Si tiene éxito, el objetivo conserva su posición, pero el daño del ataque resuelve igualmente si el golpe impactó.
