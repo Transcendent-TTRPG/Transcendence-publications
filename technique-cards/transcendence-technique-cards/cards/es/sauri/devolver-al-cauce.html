@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Transcendence - Trabar el Gesto</title>
+    <title>Transcendence - Devolver al Cauce</title>
     <link rel="stylesheet" href="../../../styles/technique-cards.css">
   </head>
   <body>
@@ -35,33 +35,32 @@
     </svg>
 
     <main class="card-sheet single-card-sheet" aria-label="Carta individual de técnica">
-      <article class="tech-card spectrum-weapon" data-card-id="naghii-trabar-el-gesto">
+      <article class="tech-card spectrum-shield" data-card-id="sauri-devolver-al-cauce">
         <header class="card-header">
-          <p class="origin">Reacción - Ataque</p>
-          <h1>Trabar el Gesto</h1>
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Devolver al Cauce</h1>
           <p class="subtitle">Rango Novato</p>
         </header>
 
         <section class="flavor-text" aria-label="Texto de ambientación">
-          <p>El movimiento que empieza mal no mejora al terminar.</p>
+          <p>La cola no persigue al que huye — espera en el canal donde tiene que pasar.</p>
         </section>
 
         <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
-          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
-          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
           <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
           <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
           <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
-          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
-          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
           <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
         </section>
 
         <section class="requirements">
           <h2>Requisitos</h2>
           <ul>
-            <li>Arma con perfil Interrupción.</li>
-            <li>Ser el objetivo declarado del ataque y estar en rango.</li>
+            <li>Perfil: Interrupción.</li>
           </ul>
         </section>
 
@@ -71,7 +70,13 @@
 
         <section class="effect">
           <h2>Efecto</h2>
-          <p>Sustituye tu T.D. por una T.A. Si tu T.A. supera la del atacante, no recibes daño y resuelves T.I. normalmente; el atacante hace T.R. de Resistencia a las Alteraciones o queda Impedido (Menor rangos 1-2, Moderado 3-4, Grave 5-6). Si no superas su T.A., el ataque se resuelve normalmente.</p>
+          <p>Cuando un enemigo intenta moverse por una ruta que puedes cubrir, realiza T.A. de forma reactiva. Si fallas, el movimiento continúa normalmente. Si tienes éxito, el objetivo realiza T.R. (Alteraciones) contra Atrapado — la severidad depende de tu rango de competencia; si falla, su movimiento se detiene donde la sujeción lo alcanzó.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Severidad</th></tr>
+            <tr><td>Novato–Adepto</td><td>Menor</td></tr>
+            <tr><td>Experto–Maestro</td><td>Moderado</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Severo</td></tr>
+          </table>
         </section>
       </article>
     </main>
