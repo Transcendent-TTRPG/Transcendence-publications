@@ -86,11 +86,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Las presencias neutras empiezan a tener intención. El cuerpo las trata como amenazas antes de que la mente decida.*
 
+Lees intención donde puede que no la haya. Una persona que espera en la puerta, una mirada que se sostiene un segundo, un movimiento en el borde del campo visual — el cuerpo ya calculó la amenaza antes de que puedas evaluarla. No es que estés equivocado todo el tiempo. El problema es que no puedes distinguir cuándo lo estás.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Astucia relacionadas con intención, lectura social o detección de amenaza. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Astucia, quedas Aterrorizado Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., también quedas Atrapado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Astucia; si fallas, quedas Aterrorizado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Astucia; si fallas, también quedas Atrapado Leve. |
 
 **Canal Extranatural:** puede detectar genuinamente amenazas ocultas, intenciones disimuladas y entidades que se presentan como presencias benignas.
 
@@ -100,11 +102,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *La imagen llega. El significado no.*
 
+Ves con claridad. El objeto está ahí, sus bordes definidos, su forma completa — pero no sabes qué es. El reconocimiento directo ya no funciona de manera confiable. Tienes que construir el significado a través del contexto, la posición, cualquier pista que no sea la identificación inmediata.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Identificación. |
-| **Moderado** | Leve, más: si fallas una T.E. de Identificación, la acción que la requería no se resuelve esa activación. |
-| **Grave** | Moderado, más: si la T.E. fallida era para reconocer una criatura, tampoco puedes distinguirla del entorno ni dirigir acciones contra ella específicamente esa activación. |
+| **Moderado** | Penalización de −2 a T.E. de Identificación; si fallas, la acción que la requería no se resuelve esa activación. |
+| **Grave** | Penalización de −3 a T.E. de Identificación; si la T.E. fallida era para reconocer una criatura, tampoco puedes distinguirla del entorno ni dirigir acciones contra ella específicamente esa activación. |
 
 **Canal Extranatural:** ve símbolos ocultos, inscripciones extranaturales y geometrías imposibles en los objetos del entorno.
 
@@ -114,11 +118,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Lo que ve no siempre está ahí. Lo que está ahí no siempre puede verse.*
 
+A veces percibes cosas que no están. A veces no percibes cosas que sí están. No hay consistencia en cuál falla. Aprendiste a dudar de las figuras en el borde del campo visual, de los objetos que aparecen sin haber estado antes — pero tampoco puedes estar completamente seguro de los que sí estaban.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción visual. |
-| **Moderado** | Leve, más: al fallar cualquier T.E. de Percepción visual quedas Confundido Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., también quedas Desorientado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Percepción visual; si fallas, quedas Confundido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción visual; si fallas, también quedas Desorientado Leve. |
 
 **Canal Extranatural:** percibe realidades superpuestas, ecos y huellas de presencias extranaturales que ya no están o aún no han llegado.
 
@@ -130,11 +136,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El tono no se va. Todo lo demás llega desde un poco más lejos.*
 
+Escuchas un pitido, zumbido o frecuencia constante que no tiene fuente en el entorno. No cambia con el silencio. Todo lo demás llega a través de ese ruido de fondo que solo tú percibes — y hay sonidos que directamente no alcanzan.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Percepción auditiva, quedas Impedido Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., quedas Sobrecargado Leve en lugar de Impedido Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Percepción auditiva; si fallas, quedas Impedido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción auditiva; si fallas, quedas Sobrecargado Leve en lugar de Impedido Leve. |
 
 **Canal Extranatural:** escucha susurros ocultos, frecuencias extranaturales y comunicaciones entre entidades que no son perceptibles para otros.
 
@@ -144,11 +152,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *No hace falta que sea fuerte. El cuerpo responde como si lo fuera.*
 
+El volumen perdió su escala. Un cubierto sobre una superficie, una puerta que se cierra, una conversación a distancia normal — cualquier sonido que antes era neutro ahora produce una respuesta física desproporcionada. No es solo que moleste. El cuerpo lo trata como una amenaza.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Compostura. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Compostura, quedas Aturdido Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., quedas Ensordecido Leve en lugar de Aturdido Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Compostura; si fallas, quedas Aturdido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Compostura; si fallas, quedas Ensordecido Leve en lugar de Aturdido Leve. |
 
 **Canal Extranatural:** percibe vibraciones sutiles no acústicas: tensiones emocionales, presencias ocultas, movimientos en el plano adyacente.
 
@@ -158,11 +168,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El oído escucha dos veces. El suelo no siempre responde igual.*
 
+Los sonidos llegan con un desfase que no tiene origen real. La primera vez cuando ocurren; la segunda, fracciones de segundo después, como si el entorno los repitiera. No puedes calibrar de dónde vienen con precisión, y ese error se propaga al equilibrio — el suelo ya no responde del todo como esperas.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva y T.E. de Orientación. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Equilibrio, quedas Desequilibrado Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., quedas Paralizado Leve en lugar de Desequilibrado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Percepción auditiva y T.E. de Orientación; si fallas cualquier T.E. de Equilibrio, quedas Desequilibrado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción auditiva y T.E. de Orientación; si fallas esa T.E., quedas Paralizado Leve en lugar de Desequilibrado Leve. |
 
 **Canal Extranatural:** escucha ecos de otras realidades y percibe movimientos de presencias en el plano adyacente.
 
@@ -174,11 +186,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El olor viene de ningún lado. El cuerpo reacciona igual.*
 
+Percibes olores que no tienen fuente en el entorno. Pueden ser familiares o desconocidos, neutros o intensamente desagradables — pero ninguno corresponde a algo presente. El cuerpo reacciona igual: el asco, la alerta o la anticipación que activa un olor fuerte llegan completos aunque el olor sea una invención del sistema olfativo.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Compostura. No aplica a T.C. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Contención, quedas Sobrecargado Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., quedas Sobrecargado Moderado en lugar de Sobrecargado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Compostura (no aplica a T.C.); si fallas cualquier T.E. de Contención, quedas Sobrecargado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Compostura (no aplica a T.C.); si fallas esa T.E., quedas Sobrecargado Moderado en lugar de Sobrecargado Leve. |
 
 **Canal Extranatural:** detecta rastros de corrupción y Tauma; percibe la presencia de entidades extranaturales por olor antes de detectarlas por otros medios.
 
@@ -188,11 +202,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *No hace falta que sea intenso. El olfato ya no tiene escala.*
 
+El olfato ya no tiene rango. Un nivel de intensidad que antes era neutro — la ropa de alguien cercano, el metal de un arma, el aire de un espacio cerrado — ahora llega como si estuviera concentrado a una distancia mínima. Concentrarte mientras el entorno olfativo es activo requiere un esfuerzo que antes no tenías que hacer.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Enfoque. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Enfoque, quedas Aturdido Leve. |
-| **Grave** | Moderado, más: tu Preparación se reduce a 0; si fallas esa T.E., también quedas Sobrecargado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Enfoque; si fallas, quedas Aturdido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Enfoque; tu Preparación se reduce a 0; si fallas, también quedas Sobrecargado Leve. |
 
 **Canal Extranatural:** rastrea criaturas invisibles por olor; detecta presencias extranaturales activas en el área.
 
@@ -203,6 +219,8 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 #### Disgeusia
 
 *Cualquier ingesta llega como si no debiera estar ahí. El cuerpo lo reconoce, pero no lo acepta.*
+
+El sabor de lo que comes o bebes llega alterado — amargo donde no debería, metálico, o simplemente equivocado de una forma que no puedes describir con precisión. El cuerpo lo trata como algo que no debería estar ahí. El acto de ingerir se convierte en una negociación que a veces no puedes sostener.
 
 Al intentar comer o beber durante un descanso, realiza una T.E. de Contención (Compostura) contra la Intensidad actual.
 
@@ -219,6 +237,8 @@ Al intentar comer o beber durante un descanso, realiza una T.E. de Contención (
 #### Compulsión Alimentaria
 
 *Al terminar la violencia, algo más reclama atención. La compulsión no distingue qué es comestible.*
+
+Al final de una escena de violencia, o ante la presencia de restos orgánicos, algo reclama atención con una urgencia que no distingue comestible de incomestible. No es hambre en el sentido ordinario — es una presión que se instala antes de que puedas procesarla, y que no desaparece hasta que cedes o la contienes de forma activa.
 
 Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgánico accesible, realiza una T.E. de Contención (Compostura) contra la Intensidad actual.
 
@@ -238,6 +258,8 @@ Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgáni
 
 *Algo se mueve bajo la piel. No hay nada afuera que lo explique.*
 
+Sientes movimiento bajo la piel — no es dolor exactamente, es presencia. Algo que se desplaza, que cambia de lugar, que responde al movimiento de tus propios músculos. No hay nada externo que lo explique y no hay manera de aliviarlo con contacto. Mantener el enfoque en lo que tienes delante requiere ignorar algo que el cuerpo trata como urgente.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Técnicas de ataque cuestan +1 Ritmo adicional. |
@@ -252,11 +274,13 @@ Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgáni
 
 *El daño llega. La señal que debería registrarlo no siempre llega completa.*
 
+La información que te dice cuánto daño recibiste llega incompleta o con retraso. No es que no sientas nada — es que lo que registras no siempre es proporcional a lo que ocurrió. Puedes recibir un golpe serio y que el cuerpo no lo transmita con la urgencia que debería. El problema no es la ausencia de dolor: es no poder confiar en él como señal.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.R. contra Alteraciones. |
-| **Moderado** | Penalización de −1 a T.R. contra Alteraciones e Infecciones. |
-| **Grave** | Penalización de −1 a T.R. contra Alteraciones, Infecciones y Venenos. |
+| **Moderado** | Penalización de −2 a T.R. contra Alteraciones e Infecciones. |
+| **Grave** | Penalización de −3 a T.R. contra Alteraciones, Infecciones y Venenos. |
 
 **Canal Extranatural:** percibe el plano intangible; detecta presencias sin forma física en el área inmediata.
 
@@ -266,10 +290,12 @@ Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgáni
 
 *El contacto siempre produjo algo. Ahora produce demasiado.*
 
+El contacto produce más de lo que debería. La textura de tu ropa, el peso de lo que cargas, la mano de alguien sobre tu hombro — todo llega con una intensidad que no tiene relación con lo que realmente ocurre. Concentrarte en medio de ese ruido táctil constante requiere un esfuerzo que el cuerpo no siempre puede sostener.
+
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Enfoque. |
-| **Moderado** | Leve, más: si fallas cualquier T.E. de Enfoque, quedas Sobrecargado Leve. |
-| **Grave** | Moderado, más: si fallas esa T.E., quedas Impedido Leve en lugar de Sobrecargado Leve. |
+| **Moderado** | Penalización de −2 a T.E. de Enfoque; si fallas, quedas Sobrecargado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Enfoque; si fallas, quedas Impedido Leve en lugar de Sobrecargado Leve. |
 
 **Canal Extranatural:** siente corrientes de energía en los objetos; detecta propiedades ocultas y procedencias extranaturales al contacto directo.
