@@ -41,9 +41,10 @@ related:
 
 ## Efecto
 
-Realizas una `T.A.` contra un objetivo. Si la técnica resuelve con éxito:
+Realizas una `T.A.` contra un objetivo.
 
-- **Robas posición:** te desplazas hasta `1` metro alrededor del objetivo
-  dentro del alcance de tu perfil sin provocar una reacción de ese objetivo
-- **Estropeas respuesta:** el objetivo sufre una penalidad igual a tu bonus de
-  rango de `Armas Flexibles` en su próxima acción contra ti
+Si tienes éxito, puedes desplazarte hasta `1` metro alrededor del objetivo, dentro del alcance de tu arma, sin provocar reacciones de ese objetivo.
+
+Además, el objetivo sufre una penalización igual a tu bonificador de rango con el arma usada en la próxima acción que realice contra ti.
+
+Si fallas, no realizas el desplazamiento ni aplicas la penalización.

@@ -25,11 +25,11 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Rango de Arma + 1 | Hasta Moverse | — |
+| Personal | Circular (Alcance del arma + 1m) | Permanente | — |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | - | `3` | `1` |
+| — | — | `3` | `1` |
 
 ## Requisitos
 

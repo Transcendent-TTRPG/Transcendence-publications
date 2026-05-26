@@ -23,9 +23,9 @@ related:
 
 *La marca no sigue al blanco: deja que su ruta se delate sola.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Hasta limpiar | `T.A.` |
+| Alcance del arma | 1 Criatura | Permanente | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

@@ -23,13 +23,13 @@ related:
 
 *Cuando el arma toma la curva, la retirada deja de ser limpia.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Instantáneo | `T.A.` |
+| Alcance del arma | 1 Criatura | Instantáneo | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.D.` | `T.I` | `4` | `1` |
+| `T.D.` | `T.I.` | `4` | `1` |
 
 ## Requisitos
 

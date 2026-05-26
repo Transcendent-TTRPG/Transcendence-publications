@@ -25,11 +25,11 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Instantáneo | `T.A.` |
+| Alcance del arma | 1 Criatura | Instantáneo | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.R. (Alt.)` | `T.I.` | `5` | `1` |
+| `T.R. (Alteraciones)` | `T.I.` | `5` | `1` |
 
 ## Requisitos
 

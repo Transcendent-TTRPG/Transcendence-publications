@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Personal | Instantáneo | T.E. (Equilibrio) |
+| Personal | Tú | Instantáneo | T.E. (Equilibrio) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -34,7 +34,6 @@ related:
 ## Requisitos
 
 - Competencia: `Equilibrio`
-- Al menos un punto de anclaje estable accesible a lo largo del trayecto
 
 ## Keywords
 

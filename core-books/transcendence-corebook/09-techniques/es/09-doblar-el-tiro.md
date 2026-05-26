@@ -23,9 +23,9 @@ related:
 
 *La cobertura protege de una línea. No de todas.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Instantaneo | `T.A.` |
+| Alcance del arma | 1 Criatura | Instantáneo | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

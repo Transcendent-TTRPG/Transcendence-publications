@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango de Vision | Personal | Instantáneo | T.D. (Evasión) |
+| Personal | Tú | Instantáneo | T.D. (Evasión) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

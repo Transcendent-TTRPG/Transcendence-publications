@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Alcance del arma + 1 | Hasta Moverse | — |
+| Personal | Tú | Permanente | — |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ related:
 
 Mientras la postura esté activa, recibes un bonificador igual a tu rango de competencia a:
 
-- tu T.D. contra ataques que lleguen por tu línea portadora de perfil o el frente anclado
+- tu T.D. siempre y cuando el enemigo sea visible
 - tu T.R. contra movimiento forzado, derribo, empuje, arrastre, desestabilización, y Alteraciones físicas causadas por impacto o desplazamiento corporal
 
 Puedes usar cualquier tipo de acción, siempre que esas acciones no te hagan abandonar el punto anclado ni romper la postura portadora de perfil.

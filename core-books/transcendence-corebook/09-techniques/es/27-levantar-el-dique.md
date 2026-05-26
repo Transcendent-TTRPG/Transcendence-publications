@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Alcance de Arma | 1 objetivo protegido | Instantáneo | T.D. |
+| Alcance del arma | 1 Criatura | Instantáneo | T.D. |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
