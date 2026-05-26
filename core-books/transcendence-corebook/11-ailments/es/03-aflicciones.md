@@ -86,15 +86,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Las presencias neutras empiezan a tener intención. El cuerpo las trata como amenazas antes de que la mente decida.*
 
-**Disparador:** cuando percibe una criatura en un contexto de incertidumbre, ambigüedad social o amenaza potencial no confirmada.
-
-**T.E.:** Astucia contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Astucia relacionadas con intención, lectura social o detección de amenaza. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Astucia; si falla → Aterrorizado Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → también queda Atrapado Leve por el resto de la escena. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Astucia, quedas Aterrorizado Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., también quedas Atrapado Leve. |
 
 **Canal Extranatural:** puede detectar genuinamente amenazas ocultas, intenciones disimuladas y entidades que se presentan como presencias benignas.
 
@@ -104,15 +100,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *La imagen llega. El significado no.*
 
-**Disparador:** al intentar interactuar con un objeto de forma deliberada, o al intentar reconocer una criatura específica.
-
-**T.E.:** Identificación (Intelecto) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Identificación. |
-| **Moderado** | Leve, más: al activarse el disparador sobre un objeto, debe superar T.E. de Identificación; si falla → la interacción no se resuelve esa activación. |
-| **Grave** | Moderado, más: el disparador también aplica para reconocer criaturas; si falla → no puede distinguirla del entorno ni dirigir acciones contra ella específicamente esa activación. |
+| **Moderado** | Leve, más: si fallas una T.E. de Identificación, la acción que la requería no se resuelve esa activación. |
+| **Grave** | Moderado, más: si la T.E. fallida era para reconocer una criatura, tampoco puedes distinguirla del entorno ni dirigir acciones contra ella específicamente esa activación. |
 
 **Canal Extranatural:** ve símbolos ocultos, inscripciones extranaturales y geometrías imposibles en los objetos del entorno.
 
@@ -122,15 +114,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Lo que ve no siempre está ahí. Lo que está ahí no siempre puede verse.*
 
-**Disparador:** al inicio de cada activación del personaje, o cuando el Narrador lo determine durante una escena de alta carga visual o presencia extranatural.
-
-**T.E.:** Percepción (Sabiduría) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción visual. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Percepción; si falla → Confundido Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → también queda Desorientado Leve por el resto de la escena. |
+| **Moderado** | Leve, más: al fallar cualquier T.E. de Percepción visual quedas Confundido Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., también quedas Desorientado Leve. |
 
 **Canal Extranatural:** percibe realidades superpuestas, ecos y huellas de presencias extranaturales que ya no están o aún no han llegado.
 
@@ -142,15 +130,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El tono no se va. Todo lo demás llega desde un poco más lejos.*
 
-**Disparador:** al realizar una acción que requiera concentración sostenida o Percepción auditiva activa.
-
-**T.E.:** Percepción (Sabiduría) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Percepción; si falla → Impedido Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → Sobrecargado Leve por el resto de la escena en lugar de Impedido Leve. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Percepción auditiva, quedas Impedido Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., quedas Sobrecargado Leve en lugar de Impedido Leve. |
 
 **Canal Extranatural:** escucha susurros ocultos, frecuencias extranaturales y comunicaciones entre entidades que no son perceptibles para otros.
 
@@ -160,15 +144,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *No hace falta que sea fuerte. El cuerpo responde como si lo fuera.*
 
-**Disparador:** al exponerse a sonidos repentinos, sostenidos o de alta intensidad.
-
-**T.E.:** Enfoque (Compostura) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Compostura. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Enfoque; si falla → Aturdido Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → Ensordecido Leve por el resto de la escena en lugar de Aturdido Leve. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Compostura, quedas Aturdido Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., quedas Ensordecido Leve en lugar de Aturdido Leve. |
 
 **Canal Extranatural:** percibe vibraciones sutiles no acústicas: tensiones emocionales, presencias ocultas, movimientos en el plano adyacente.
 
@@ -178,15 +158,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El oído escucha dos veces. El suelo no siempre responde igual.*
 
-**Disparador:** al intentar orientarse, moverse con precisión o mantener el equilibrio en terreno exigente.
-
-**T.E.:** Equilibrio (Agilidad) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva y T.E. de Orientación. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Equilibrio; si falla → Desequilibrado Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → Paralizado Leve por el resto de la escena en lugar de Desequilibrado Leve. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Equilibrio, quedas Desequilibrado Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., quedas Paralizado Leve en lugar de Desequilibrado Leve. |
 
 **Canal Extranatural:** escucha ecos de otras realidades y percibe movimientos de presencias en el plano adyacente.
 
@@ -198,15 +174,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *El olor viene de ningún lado. El cuerpo reacciona igual.*
 
-**Disparador:** al encontrarse en una escena de alta tensión o proximidad extranatural confirmada o sospechada.
-
-**T.E.:** Contención (Compostura) contra la Intensidad actual. No aplica a T.C.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Compostura. No aplica a T.C. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Contención; si falla → Sobrecargado Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → Sobrecargado Moderado por el resto de la escena en lugar de Sobrecargado Leve. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Contención, quedas Sobrecargado Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., quedas Sobrecargado Moderado en lugar de Sobrecargado Leve. |
 
 **Canal Extranatural:** detecta rastros de corrupción y Tauma; percibe la presencia de entidades extranaturales por olor antes de detectarlas por otros medios.
 
@@ -216,15 +188,11 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *No hace falta que sea intenso. El olfato ya no tiene escala.*
 
-**Disparador:** al exponerse a olores intensos, concentrados o activos en el entorno.
-
-**T.E.:** Enfoque (Compostura) contra la Intensidad actual.
-
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Enfoque. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Enfoque; si falla → Aturdido Leve por el resto de la escena. |
-| **Grave** | Moderado, más: la Preparación del personaje se reduce a 0; si falla esa T.E. → también queda Sobrecargado Leve por el resto de la escena. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Enfoque, quedas Aturdido Leve. |
+| **Grave** | Moderado, más: tu Preparación se reduce a 0; si fallas esa T.E., también quedas Sobrecargado Leve. |
 
 **Canal Extranatural:** rastrea criaturas invisibles por olor; detecta presencias extranaturales activas en el área.
 
@@ -236,15 +204,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Cualquier ingesta llega como si no debiera estar ahí. El cuerpo lo reconoce, pero no lo acepta.*
 
-**Disparador:** al intentar comer o beber durante un descanso.
-
-**T.E.:** Contención (Compostura) contra la Intensidad actual.
+Al intentar comer o beber durante un descanso, realiza una T.E. de Contención (Compostura) contra la Intensidad actual.
 
 | Intensidad | Efecto en caso de fallo |
 | --- | --- |
-| **Leve** | Pierde 1 nivel de recuperación de Fatiga en ese descanso. |
-| **Moderado** | Pierde 2 niveles de recuperación de Fatiga y no puede realizar actividades adicionales durante ese descanso. |
-| **Grave** | No recupera Fatiga ni reduce la Intensidad de ninguna Aflicción activa en ese descanso. |
+| **Leve** | Pierdes 1 nivel de recuperación de Fatiga en ese descanso. |
+| **Moderado** | Pierdes 2 niveles de recuperación de Fatiga y no puedes realizar actividades adicionales durante ese descanso. |
+| **Grave** | No recuperas Fatiga ni reduces la Intensidad de ninguna Aflicción activa en ese descanso. |
 
 **Canal Extranatural:** detecta sustancias corrompidas, envenenadas o impregnadas de presencia extranatural al probarlas o estar en su proximidad directa.
 
@@ -254,15 +220,13 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Al terminar la violencia, algo más reclama atención. La compulsión no distingue qué es comestible.*
 
-**Disparador:** al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgánico accesible.
-
-**T.E.:** Contención (Compostura) contra la Intensidad actual.
+Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgánico accesible, realiza una T.E. de Contención (Compostura) contra la Intensidad actual.
 
 | Intensidad | Efecto en caso de fallo |
 | --- | --- |
-| **Leve** | Debe consumir materia inerte — tierra, polvo, residuos, insectos. Recibe Desequilibrado Leve. |
-| **Moderado** | Debe consumir materia orgánica contaminada — tejido muerto, fluidos, restos de criatura. Recibe Infección Leve. |
-| **Grave** | Debe consumir material tóxico o cáustico — carne envenenada, fluidos activos, material corrosivo. Recibe Infección Leve y Veneno Leve. |
+| **Leve** | Debes consumir materia inerte — tierra, polvo, residuos, insectos. Recibes Desequilibrado Leve. |
+| **Moderado** | Debes consumir materia orgánica contaminada — tejido muerto, fluidos, restos de criatura. Recibes Infección Leve. |
+| **Grave** | Debes consumir material tóxico o cáustico — carne envenenada, fluidos activos, material corrosivo. Recibes Infección Leve y Veneno Leve. |
 
 **Canal Extranatural:** recibe fragmentos de visión o memoria residual del material consumido — imágenes, emociones, instantes del pasado del organismo o entidad.
 
@@ -274,12 +238,10 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 *Algo se mueve bajo la piel. No hay nada afuera que lo explique.*
 
-**Efecto pasivo:** no requiere T.E. de activación.
-
 | Intensidad | Efecto |
 | --- | --- |
-| **Leve** | Acciones de contacto físico directo cuestan +1 Ritmo adicional. |
-| **Moderado** | Técnicas físicas y T.E. de Enfoque cuestan +1 Ritmo adicional. |
+| **Leve** | Técnicas de ataque cuestan +1 Ritmo adicional. |
+| **Moderado** | Técnicas de ataque y T.E. de Enfoque cuestan +1 Ritmo adicional. |
 | **Grave** | Todas las acciones cuestan +1 Ritmo adicional. |
 
 **Canal Extranatural:** percibe entidades incorporales y rastros del plano adyacente a través del contacto físico directo.
@@ -289,8 +251,6 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 #### Anestesia Parcial
 
 *El daño llega. La señal que debería registrarlo no siempre llega completa.*
-
-**Efecto pasivo:** no requiere T.E. de activación.
 
 | Intensidad | Efecto |
 | --- | --- |
@@ -304,16 +264,12 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Hipertacto
 
-*El tacto ya no tiene escala. Cualquier contacto produce más de lo esperado.*
-
-**Disparador:** al tocar un objeto o una criatura de forma deliberada.
-
-**T.E.:** Enfoque (Compostura) contra la Intensidad actual.
+*El contacto siempre produjo algo. Ahora produce demasiado.*
 
 | Intensidad | Efecto |
 | --- | --- |
-| **Leve** | Penalización de −1 a T.E. de Enfoque al tocar objetos o criaturas. |
-| **Moderado** | Leve, más: al activarse el disparador, debe superar T.E. de Enfoque; si falla → Sobrecargado Leve por el resto de la escena. |
-| **Grave** | Moderado, más: si falla esa T.E. → Impedido Leve por el resto de la escena en lugar de Sobrecargado Leve. |
+| **Leve** | Penalización de −1 a T.E. de Enfoque. |
+| **Moderado** | Leve, más: si fallas cualquier T.E. de Enfoque, quedas Sobrecargado Leve. |
+| **Grave** | Moderado, más: si fallas esa T.E., quedas Impedido Leve en lugar de Sobrecargado Leve. |
 
 **Canal Extranatural:** siente corrientes de energía en los objetos; detecta propiedades ocultas y procedencias extranaturales al contacto directo.
