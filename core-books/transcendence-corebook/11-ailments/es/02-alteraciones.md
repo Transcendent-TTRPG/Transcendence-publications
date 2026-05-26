@@ -184,13 +184,13 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 **Duración:** Hasta eliminar.
 
-**Recuperación:** Termina cuando el objetivo se levanta, usando su primera acción de movimiento para ponerse en pie.
+**Recuperación:** Termina cuando el objetivo gasta una activación completa para ponerse en pie.
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | `−3` a todas las tiradas. La primera acción de movimiento se gasta levantándose. |
-| **Moderado** | `−3` a todas las tiradas. La primera acción de movimiento se gasta levantándose. |
-| **Grave** | `−3` a todas las tiradas. La primera acción de movimiento se gasta levantándose. |
+| **Leve** | `−3` a todas las tiradas. Para ponerse en pie, el objetivo debe gastar su próxima activación completa. |
+| **Moderado** | `−3` a todas las tiradas. Para ponerse en pie, el objetivo debe gastar su próxima activación completa. |
+| **Grave** | `−3` a todas las tiradas. Para ponerse en pie, el objetivo debe gastar su próxima activación completa. |
 
 *La severidad gobierna principalmente la dificultad de resistir o evitar el derribo, no la intensidad del estado una vez que el objetivo ya está en el suelo.*
 

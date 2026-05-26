@@ -29,7 +29,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.R.` (Alteraciones) | `T.I.` | `5` | `2` |
+| `T.R.` (Alteraciones) | `T.I.` | `4` | `1` |
 
 ## Requisitos
 
@@ -55,5 +55,3 @@ Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra `De
 | Trascendente | Severo |
 
 Si falla la `T.R.`, el objetivo gana `Derribado` a esa severidad. Si tiene éxito, `Derribado` no se aplica, pero el daño del ataque resuelve igualmente si el golpe impactó.
-
-Si el objetivo cae, puedes reclamar el punto permaneciendo dentro de tu alcance. Mientras lo hagas, ganas un bonificador igual a tu rango de competencia a la primera `T.D.` o `T.R.` física que realices contra ese objetivo antes de que se levante. Pierdes este bonificador si te desplazas más de 1 metro voluntariamente, atacas a otro objetivo, o apartas la superficie de Bastión del objetivo caído.
