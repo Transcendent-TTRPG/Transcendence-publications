@@ -43,9 +43,9 @@ related:
 
 Cuando un enemigo dentro de tu alcance intenta moverse por una ruta que puedes cubrir — pasar por tu flanco, abandonar tu alcance, cruzar un paso guardado o completar una acción vinculada a movimiento a través de ese canal — realiza `T.A.` de forma reactiva.
 
-Si la `T.E.` falla, el enemigo completa el movimiento normalmente.
+Si la `T.A.` falla, el enemigo completa el movimiento normalmente.
 
-Si la `T.E.` tiene éxito, el objetivo realiza una `T.R. (Alteraciones)` contra `Atrapado`. La severidad depende de tu rango de competencia:
+Si la `T.A.` tiene éxito, el objetivo realiza una `T.R. (Alteraciones)` contra `Atrapado`. La severidad depende de tu rango de competencia:
 
 | Rango de competencia | Severidad |
 | --- | ---: |
