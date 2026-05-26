@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Transcendence - Asentar la Piedra</title>
+    <title>Transcendence - Cerrar el Juicio</title>
     <link rel="stylesheet" href="../../../styles/technique-cards.css">
   </head>
   <body>
@@ -35,42 +35,52 @@
     </svg>
 
     <main class="card-sheet single-card-sheet" aria-label="Carta individual de técnica">
-      <article class="tech-card spectrum-shield" data-card-id="sauri-asentar-la-piedra">
+      <article class="tech-card spectrum-weapon" data-card-id="sauri-cerrar-el-juicio">
         <header class="card-header">
-          <p class="origin">Activo - Utilidad · Postura</p>
-          <h1>Asentar la Piedra</h1>
+          <p class="origin">Activo - Ataque</p>
+          <h1>Cerrar el Juicio</h1>
           <p class="subtitle">Rango Novato</p>
         </header>
 
         <section class="flavor-text" aria-label="Texto de ambientación">
-          <p>El cuerpo que se asienta ya no ocupa el suelo: se vuelve parte de él.</p>
+          <p>La mandíbula cierra como veredicto — lo que no aguanta, cede.</p>
         </section>
 
         <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
-          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
-          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
-          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
-          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
-          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
-          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
-          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
         </section>
 
         <section class="requirements">
           <h2>Requisitos</h2>
           <ul>
-            <li>Perfil: Bastión.</li>
+            <li>Perfil de arma: Impacto.</li>
+            <li>Declara el objetivo de ruptura antes del ataque.</li>
           </ul>
         </section>
 
         <section class="tag-bar" aria-label="Keywords">
-          <span>Bastión</span>
+          <span>Impacto</span>
         </section>
 
         <section class="effect">
           <h2>Efecto</h2>
-          <p>Recibes un bonificador igual a tu rango de competencia a tu T.D. contra ataques por tu frente y a tu T.R. contra movimiento forzado, agarre, derribo, empuje y Alteraciones físicas. Puedes seguir actuando siempre que no abandones el punto. La postura termina si te desplazas más de 1 metro, pierdes la postura o apartas el escudo.</p>
+          <p>Antes de tirar, declara un objetivo de ruptura alcanzable: arma, escudo, armadura, extremidad u otra parte establecida. Realiza T.A. (Impacto) contra ese objetivo; si impacta, resuelve el daño normalmente. El umbral de T.I. para validar la ruptura se reduce según tu rango de competencia.</p>
+          <table class="mini-table">
+            <tr><th>Rango</th><th>Red.</th></tr>
+            <tr><td>Novato</td><td>1</td></tr>
+            <tr><td>Adepto</td><td>2</td></tr>
+            <tr><td>Experto</td><td>3</td></tr>
+            <tr><td>Maestro</td><td>4</td></tr>
+            <tr><td>Consumado</td><td>5</td></tr>
+            <tr><td>Trascendente</td><td>6</td></tr>
+          </table>
         </section>
       </article>
     </main>

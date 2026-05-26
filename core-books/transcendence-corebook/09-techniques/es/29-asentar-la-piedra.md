@@ -34,7 +34,6 @@ related:
 ## Requisitos
 
 - Perfil de arma: `Bastión`.
-- Debes estar de pie y poder mantener la superficie portadora del perfil orientada hacia la presión que sostienes.
 
 ## Keywords
 
@@ -45,7 +44,7 @@ related:
 Mientras la postura esté activa, recibes un bonificador igual a tu rango de competencia a:
 
 - tu T.D. siempre y cuando el enemigo sea visible
-- tu T.R. contra movimiento forzado, derribo, empuje, arrastre, desestabilización, y Alteraciones físicas causadas por impacto o desplazamiento corporal
+- tu T.R. contra movimiento forzado, derribo, agarre, empuje, arrastre, desestabilización, y Alteraciones físicas causadas por impacto o desplazamiento corporal
 
 Puedes usar cualquier tipo de acción, siempre que esas acciones no te hagan abandonar el punto anclado ni romper la postura portadora de perfil.
 
