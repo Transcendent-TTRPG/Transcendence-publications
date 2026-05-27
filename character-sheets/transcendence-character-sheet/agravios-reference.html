@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Transcendence — Referencia: Agravios</title>
+    <link rel="stylesheet" href="styles/character-sheet.css">
+  </head>
+  <body>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 1 — Familias de Agravios + Catálogo de Alteraciones
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Agravios — página 1">
+      <div class="sheet-mark">
+        <span>Referencia</span>
+        <small>01 / Ref.</small>
+      </div>
+
+      <!-- Familias de Agravios -->
+      <section>
+        <h2>Familias de Agravios</h2>
+        <div class="agravios-overview">
+        <table class="agravios-families-table">
+          <thead>
+            <tr>
+              <th>Familia</th>
+              <th>Tirada de Resistencia</th>
+              <th>Progresión</th>
+              <th>Permanencia</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Alteraciones</strong></td>
+              <td>1d10 + Resiliencia + Resist. Alteraciones + bon.</td>
+              <td>Leve → Moderado → Grave</td>
+              <td>No permanente</td>
+            </tr>
+            <tr>
+              <td><strong>Aflicciones</strong></td>
+              <td>1d10 + Compostura + Resist. Aflicciones + bon.</td>
+              <td>Intensidad 5 → 10 → 15</td>
+              <td>Permanente</td>
+            </tr>
+            <tr>
+              <td><strong>Venenos</strong></td>
+              <td>1d10 + Resiliencia + Resist. Venenos + bon.</td>
+              <td>Leve → Moderado → Grave</td>
+              <td>Hasta eliminar</td>
+            </tr>
+            <tr>
+              <td><strong>Infecciones</strong></td>
+              <td>1d10 + Resiliencia + Resist. Infecciones + bon.</td>
+              <td>Incubación → Leve → Moderado → Grave</td>
+              <td>Hasta eliminar (contagio)</td>
+            </tr>
+            <tr>
+              <td><strong>Maldiciones</strong></td>
+              <td colspan="3"><em>Catálogo en desarrollo.</em></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <!-- Leyenda -->
+        <div class="agravios-legend">
+          <div class="legend-block">
+            <span class="legend-title">Leyenda</span>
+            <div class="legend-items">
+              <strong>RNG</strong><span>Bonificador de rango de la fuente que aplicó el agravio</span>
+              <strong>Prep.</strong><span>Preparación — se convierte en 0</span>
+              <strong>★</strong><span>La severidad no escala el efecto en juego; solo afecta presión de aplicación y recuperación</span>
+              <strong>activ.</strong><span>Activación</span>
+            </div>
+          </div>
+        </div>
+        </div><!-- end agravios-overview -->
+      </section>
+
+      <!-- Catálogo de Alteraciones -->
+      <section>
+        <h2>Alteraciones — Catálogo completo</h2>
+        <table class="alteration-ref-table">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Duración</th>
+              <th>Recuperación</th>
+              <th>Leve</th>
+              <th>+Moderado</th>
+              <th>+Grave</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <tr>
+              <td class="alteration-name-cell">Asfixiado</td>
+              <td>Mientras persista la fuente</td>
+              <td>Fuente termina; penal. acum. se reinicia</td>
+              <td>T.E. Tolerancia vs. sev. al inicio de activ.; fallo = Incapacitado esa activ. Penal. acum. −1 a todas por activ. transcurrida.</td>
+              <td>Prep.→0. T.E. Tolerancia para correr, gritar o esfuerzo prolongado.</td>
+              <td>Fallo de T.E. → Incapacitado.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Aterrorizado</td>
+              <td>Mientras persista la cond.</td>
+              <td>Fuente eliminada; T.E. Contención vs. sev.</td>
+              <td>Pen. = RNG a T.A./T.D./T.C./T.E. que se oponen, acercan o comprometen hacia la fuente.</td>
+              <td>No puedes acercarte ni comprometerte con la fuente sin T.E. Contención vs. sev.</td>
+              <td>Para cualquier acción, T.E. Contención vs. sev.; fallo = acción no resuelve.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Atrapado</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Agarre vs. sujeción viva; T.E. Agilidad para deslizarse</td>
+              <td>Movimiento→0. Pen. = RNG a T.A./T.I./T.D./T.E. Agilidad.</td>
+              <td>T.E. Agarre vs. sev. para acciones con coste de Ritmo &gt;4.</td>
+              <td>T.E. Agarre para cualquier acción; fallo = no resuelve.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Aturdido</td>
+              <td>Hasta eliminar</td>
+              <td>L: tras activ. perdida. M/G: T.E. Tolerancia vs. sev. tras activ. perdida</td>
+              <td>Pen. = RNG a T.R./T.C. Próxima activ. se pierde.</td>
+              <td>Prep.→0. T.E. Tolerancia para evitar que Aturdido consuma activ. siguiente.</td>
+              <td>No puedes usar Reacciones sin T.E. Tolerancia vs. sev.</td>
+            </tr>
+
+            <tr class="constant-severity">
+              <td class="alteration-name-cell">Cegado ★</td>
+              <td>Hasta eliminar</td>
+              <td>Fuente disipada; T.E. Medicina</td>
+              <td colspan="3">−5 a todas las T.A./T.D./T.C./T.E.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Confundido</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Enfoque vs. sev.; Medicina; fuente eliminada</td>
+              <td>Pen. = RNG a T.A./T.I. y T.E. Intelecto/Compostura que discriminan objetivo o leen intención.</td>
+              <td>T.E. Enfoque vs. sev. para elegir objetivo específico en escena ambigua.</td>
+              <td>T.E. Enfoque para elegir criatura; fallo = objetivo más próximo (puede ser aliado).</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Congelado</td>
+              <td>Mientras persista la cond.</td>
+              <td>T.E. Aclimatación vs. sev.; Medicina</td>
+              <td>Pen. = RNG a T.C. Agilidad y T.E. Agilidad. Movimiento→mitad.</td>
+              <td>T.E. Aclimatación vs. sev. para correr, saltar, trepar o Técnicas de movimiento.</td>
+              <td>T.E. Aclimatación al inicio de activ.; fallo = pierde activ.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Conmocionado</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Contención vs. sev.; Medicina; descanso completo</td>
+              <td>Pen. = RNG a T.C. y T.E. Compostura e Intelecto.</td>
+              <td>Prep.→0.</td>
+              <td>T.E. Contención para T.C. o T.E. Compostura/Intelecto; fallo = no resuelve.</td>
+            </tr>
+
+            <tr class="constant-severity">
+              <td class="alteration-name-cell">Derribado ★</td>
+              <td>Hasta eliminar</td>
+              <td>Activ. completa para ponerse en pie</td>
+              <td colspan="3">−3 a todas las tiradas. Activ. completa para levantarse.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Desequilibrado</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Equilibrio vs. sev.</td>
+              <td>Pen. = RNG a T.D. y T.E. Agilidad.</td>
+              <td>T.E. Equilibrio vs. sev. para correr, Reacciones, T.E. Fuerza/Agilidad; fallo = no resuelve.</td>
+              <td>Fallo en T.E. Equilibrio → Derribado Leve en lugar de perder el intento.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Desorientado</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Orientación vs. sev.</td>
+              <td>Pen. = RNG a T.E. Intelecto/Compostura.</td>
+              <td>Prep.→0.</td>
+              <td>T.E. Orientación para T.E. Intelecto/Compostura; fallo = no resuelve.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Electrizado</td>
+              <td>Mientras persista la cond.</td>
+              <td>T.E. Tolerancia vs. sev. una vez fuente inactiva</td>
+              <td>Ataques, movimiento y Técnicas de ataque/movimiento cuestan Ritmo +RNG. T.E. Agilidad pen. = RNG.</td>
+              <td>T.E. Tolerancia vs. sev. para usar Reacciones.</td>
+              <td>T.E. Tolerancia para cualquier acción; fallo = no resuelve.</td>
+            </tr>
+
+            <tr class="constant-severity">
+              <td class="alteration-name-cell">Ensordecido ★</td>
+              <td>Hasta eliminar</td>
+              <td>Función auditiva regresa; T.E. Medicina</td>
+              <td colspan="3">No puedes T.C. o T.E. que requieran audición. Sin señales auditivas para amenazas no vistas.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Impedido</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Enfoque vs. sev.; fuente deja de aplicar</td>
+              <td>Pen. = RNG a T.A./T.I. de arma y T.E. Agilidad.</td>
+              <td>T.E. Enfoque vs. sev. para atacar con arma, interceptar, recargar o re-preparar.</td>
+              <td>No puedes usar Técnicas de arma.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Lacerado</td>
+              <td>Hasta eliminar</td>
+              <td>Acción de tratar la herida; Medicina</td>
+              <td>Técnicas de ataque/movimiento y T.E. Fuerza/Agilidad cuestan Ritmo +RNG.</td>
+              <td>T.E. Tolerancia vs. sev. para atacar/mover/T.E. Fuerza/Agilidad; fallo = no resuelve.</td>
+              <td>T.E. Tolerancia para cualquier acción; fallo = no resuelve.</td>
+            </tr>
+
+            <tr class="constant-severity">
+              <td class="alteration-name-cell">Paralizado ★</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Tolerancia vs. sev. (requiere que la fuente ya no bloquee)</td>
+              <td colspan="3">No puedes realizar acciones.</td>
+            </tr>
+
+            <tr>
+              <td class="alteration-name-cell">Sobrecargado</td>
+              <td>Hasta eliminar</td>
+              <td>T.E. Contención vs. sev.; fuente termina y obj. recupera regulación</td>
+              <td>Pen. = RNG a T.R.</td>
+              <td>T.E. Contención vs. sev. para T.E. Aura/Compostura voluntarias.</td>
+              <td>T.E. Contención para cualquier T.E.; fallo = no resuelve.</td>
+            </tr>
+
+          </tbody>
+        </table>
+      </section>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 2 — Catálogo de Aflicciones
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Agravios — página 2">
+      <div class="sheet-mark">
+        <span>Referencia</span>
+        <small>02 / Ref.</small>
+      </div>
+
+      <section class="affliction-ref-section">
+        <h2>Aflicciones — Catálogo por Sentido</h2>
+        <p style="font-size: 0.72rem; margin-bottom: 0.6rem; color: var(--ink-mid, #555);">
+          Resistencia: <strong>1d10 + Compostura + Resist. Aflicciones</strong> · Intensidad sube con empeoramiento, baja con tratamiento ·
+          Aflicciones en Grave generan una nueva Aflicción paralela si vuelven a aplicarse.
+        </p>
+
+        <!-- VISTA -->
+        <div class="sense-section">
+          <div class="sense-header">Vista</div>
+          <div class="affliction-grid--three">
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Esquizofrenia Paranoide</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Astucia (intención / lectura social / amenaza)</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Aterrorizado Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Aterrorizado Leve + Atrapado Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> detecta amenazas ocultas e intenciones disimuladas genuinas.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Agnosia Visual</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Identificación visual</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → acción no resuelve esa activ.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo al reconocer criatura → no puedes dirigir acciones contra ella esa activ.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> ve símbolos ocultos, inscripciones extranaturales y geometrías imposibles.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Alucinaciones Visuales</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Percepción visual</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Confundido Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Confundido Leve + Desorientado Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> percibe realidades superpuestas, ecos y huellas de presencias extranaturales.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- OÍDO -->
+        <div class="sense-section">
+          <div class="sense-header">Oído</div>
+          <div class="affliction-grid--three">
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Tinnitus</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Percepción auditiva</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Impedido Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Sobrecargado Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> escucha susurros ocultos, frecuencias extranaturales y comunicaciones entre entidades.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Hiperacusia</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Compostura ante sonidos</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1 a T.E. Compostura.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Aturdido Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Ensordecido Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> percibe vibraciones no acústicas: tensiones emocionales y presencias en el plano adyacente.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Eco Persistente</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Percepción auditiva / T.E. Orientación</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1 a Percepción auditiva y Orientación.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo de T.E. Equilibrio → Desequilibrado Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Paralizado Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> escucha ecos de otras realidades y movimientos en el plano adyacente.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- OLFATO -->
+        <div class="sense-section">
+          <div class="sense-header">Olfato</div>
+          <div class="affliction-grid">
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Phantosmia</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Compostura (no aplica a T.C.)</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo de T.E. Contención → Sobrecargado Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Sobrecargado Moderado.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> detecta rastros de corrupción y Tauma; presencias extranaturales por olor antes que por otros medios.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Hiperosmia</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Enfoque en entorno olfativo activo</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1 a T.E. Enfoque.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Aturdido Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; Prep.→0; fallo → Sobrecargado Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> rastrea criaturas invisibles por olor; detecta presencias extranaturales activas en el área.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- GUSTO -->
+        <div class="sense-section">
+          <div class="sense-header">Gusto</div>
+          <div class="affliction-grid">
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Disgeusia</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Contención (Compostura) vs. Intensidad al intentar comer o beber en descanso</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Fallo: pierde 1 nivel de recuperación de Fatiga en ese descanso.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Fallo: pierde 2 niveles de Fatiga y no puede hacer actividades adicionales en ese descanso.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Fallo: no recupera Fatiga ni reduce Intensidad de Aflicciones activas en ese descanso.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> detecta sustancias corrompidas, envenenadas o con presencia extranatural al probarlas o en proximidad directa.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Compulsión Alimentaria</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Contención (Compostura) vs. Intensidad al fin de escena hostil o ante restos orgánicos</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Fallo: consume materia inerte (tierra, residuos, insectos) → Desequilibrado Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Fallo: consume materia orgánica contaminada → Infección Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Fallo: consume material tóxico/cáustico → Infección Leve + Veneno Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> recibe fragmentos de visión o memoria residual del material consumido.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- TACTO -->
+        <div class="sense-section">
+          <div class="sense-header">Tacto</div>
+          <div class="affliction-grid--three">
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Formicación</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">Coste de Ritmo por presencia táctil interna</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Técnicas de ataque cuestan +1 Ritmo adicional.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Técnicas de ataque y T.E. Enfoque cuestan +1 Ritmo adicional.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Todas las acciones cuestan +1 Ritmo adicional.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> percibe entidades incorporales y rastros del plano adyacente a través del contacto físico.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Anestesia Parcial</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.R. contra Agravios</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1 a T.R. contra Alteraciones.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2 a T.R. contra Alteraciones e Infecciones.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3 a T.R. contra Alteraciones, Infecciones y Venenos.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> percibe el plano intangible; detecta presencias sin forma física en el área inmediata.</div>
+              </div>
+            </div>
+
+            <div class="affliction-card">
+              <div class="affliction-card-name">Hipertacto</div>
+              <div class="affliction-card-body">
+                <div class="intensity-trigger">T.E. Enfoque bajo contacto táctil</div>
+                <div class="intensity-line">
+                  <span class="intensity-label">L</span>
+                  <span>Pen. −1 a T.E. Enfoque.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">M</span>
+                  <span>Pen. −2; fallo → Sobrecargado Leve.</span>
+                </div>
+                <div class="intensity-line">
+                  <span class="intensity-label">G</span>
+                  <span>Pen. −3; fallo → Impedido Leve.</span>
+                </div>
+                <div class="canal-line"><strong>Canal:</strong> siente corrientes en objetos; detecta propiedades ocultas y procedencias extranaturales al contacto.</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </section>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 3 — Venenos e Infecciones
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Agravios — página 3">
+      <div class="sheet-mark">
+        <span>Referencia</span>
+        <small>03 / Ref.</small>
+      </div>
+
+      <h2 style="margin-bottom: 0.8rem;">Venenos e Infecciones — Reglas de Sistema</h2>
+
+      <div class="poison-infection-grid">
+
+        <!-- VENENOS -->
+        <div>
+          <h3 class="ref-section-title">Venenos</h3>
+          <div class="ref-panel-body">
+            <p>Los Venenos son agravios permanentes que persisten hasta que se aplique tratamiento activo o el veneno sea eliminado por medios externos. A diferencia de las Alteraciones, no tienen duración natural y no desaparecen al terminar la fuente.</p>
+            <p>La Tirada de Resistencia se realiza contra la potencia de la fuente al momento de la exposición. El resultado determina la severidad inicial.</p>
+
+            <span class="ref-section-title">Vías de Administración</span>
+            <table class="ref-admin-table">
+              <thead><tr><th>Vía</th><th>Descripción</th></tr></thead>
+              <tbody>
+                <tr><td>Contacto</td><td>Exposición cutánea directa — equipamiento o entorno contaminado.</td></tr>
+                <tr><td>Ingestión</td><td>Alimento, agua o sustancia consumida que contiene el veneno.</td></tr>
+                <tr><td>Inhalación</td><td>Gas, polvo, vapor o esporo aspirado en el entorno.</td></tr>
+                <tr><td>Inoculación</td><td>Herida o mordedura que introduce el veneno directamente.</td></tr>
+              </tbody>
+            </table>
+
+            <span class="ref-section-title">Riesgo por Kit de Medicina</span>
+            <table class="kit-risk-table">
+              <thead><tr><th>Nivel de Kit</th><th>Veneno tratable</th><th>Riesgo de fallo</th></tr></thead>
+              <tbody>
+                <tr><td>Básico</td><td>Leve</td><td>Fallo no empeora</td></tr>
+                <tr><td>Avanzado</td><td>Leve / Moderado</td><td>Fallo puede escalar</td></tr>
+                <tr><td>Especializado</td><td>Cualquier severidad</td><td>Fallo estabiliza</td></tr>
+              </tbody>
+            </table>
+
+            <div class="ref-note-pending">
+              Catálogo de venenos en desarrollo — se documentará por fuente (criatura, planta, ambiental, sintético).
+            </div>
+          </div>
+        </div>
+
+        <!-- INFECCIONES -->
+        <div>
+          <h3 class="ref-section-title">Infecciones</h3>
+          <div class="ref-panel-body">
+            <p>Las Infecciones son agravios permanentes que siguen un ciclo de incubación antes de manifestarse. Durante la incubación el portador no muestra síntomas pero puede ser fuente de contagio activo.</p>
+            <p>La Tirada de Resistencia se realiza al momento de la exposición. El resultado determina si la infección se establece y en qué severidad comienza tras la incubación.</p>
+
+            <span class="ref-section-title">Ciclo de Infección</span>
+            <div class="ref-subsection">
+              <p><strong>Incubación:</strong> período sin síntomas. El portador puede contagiar si hay contacto cercano sostenido con una fuente susceptible.</p>
+              <p><strong>Manifestación:</strong> al completarse el período de incubación, la Infección se vuelve activa en la severidad determinada por la T.R. inicial.</p>
+              <p><strong>Progresión:</strong> sin tratamiento, una Infección activa puede avanzar de Leve a Moderado a Grave — cada avance requiere una condición de progresión (tiempo, estrés físico o exposición adicional).</p>
+              <p><strong>Eliminación:</strong> requiere tratamiento activo sostenido. El descanso solo retrasa la progresión — no elimina la Infección.</p>
+            </div>
+
+            <span class="ref-section-title">Contagio</span>
+            <div class="ref-subsection">
+              <p>Cada Infección cataloga su vía de contagio. Las vías más comunes son:</p>
+              <table class="ref-admin-table">
+                <thead><tr><th>Vía</th><th>Condición</th></tr></thead>
+                <tbody>
+                  <tr><td>Contacto directo</td><td>Fluidos, heridas abiertas, tejido activo.</td></tr>
+                  <tr><td>Vectorial</td><td>Criatura intermediaria que transmite al morder o al contacto.</td></tr>
+                  <tr><td>Ambiental</td><td>Agua, aire o suelo contaminado en área definida.</td></tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="ref-note-pending">
+              Catálogo de infecciones en desarrollo — se documentará por origen (criatura, ambiental, extranatural).
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Empeoramiento y Tratamiento de Aflicciones — resumen compacto -->
+      <section style="margin-top: 1.2rem; border-top: 1px solid var(--ink-light, #bbb); padding-top: 0.8rem;">
+        <h3 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem;">Aflicciones — Factores de Empeoramiento y Tratamiento</h3>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+          <div>
+            <p style="font-size: 0.72rem; font-weight: 600; margin-bottom: 0.3rem;">Empeoramiento (+1 Intensidad)</p>
+            <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.1rem;">
+              <li>Noche sin descanso completo</li>
+              <li>Interacción con un vestigio (usarlo o descubrirlo)</li>
+              <li>Interacción con un vínculo (descubrirlo)</li>
+            </ul>
+          </div>
+          <div>
+            <p style="font-size: 0.72rem; font-weight: 600; margin-bottom: 0.3rem;">Tratamiento (−1 Intensidad)</p>
+            <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.1rem;">
+              <li>Noche de buen descanso</li>
+              <li>Sesión de Meditación efectiva</li>
+            </ul>
+          </div>
+        </div>
+        <p style="font-size: 0.68rem; margin-top: 0.5rem; color: var(--ink-mid, #555);">
+          Cuando una Aflicción alcanza Intensidad Grave y vuelve a aplicarse (misma u otra), genera una <strong>nueva Aflicción paralela</strong> que comienza en Intensidad Leve. Cada Aflicción paralela es un estado independiente con su propio umbral y factores.
+        </p>
+      </section>
+    </main>
+
+  </body>
+</html>
