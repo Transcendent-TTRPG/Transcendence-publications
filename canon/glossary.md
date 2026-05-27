@@ -93,8 +93,7 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | Impedido | Impeded | No | Harmful state limiting movement, execution, or physical function |
 | Derribado | Knocked Down | No | Harmful state representing loss of footing or being forced to the ground |
 | Estabilizar | Stabilize | No | Recovery step that stops immediate worsening without freeing wound slots |
-| Tratar | Treat | No | Recovery step that cares for a zone during a Full Rest before healing can free a slot |
-| Curar | Heal | No | Recovery result that frees wound slots after successful treatment |
+| Tratar | Treat | No | Recovery step applied to a zone during a Full Rest — frees 1 wound slot on a successful Medicina roll |
 
 ---
 

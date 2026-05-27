@@ -363,15 +363,17 @@ No es un penalizador universal al personaje.
 
 ## Saturación y Colapso por zona
 
-| Zona | Saturada | Colapsada |
-| --- | --- | --- |
-| Cabeza | Penalizador de Saturación a Tiradas de Especialización mentales y de percepción visual o auditiva. Penalizador de Saturación a Preparación. | Aplica Aturdido. Debe superar una Tirada de Resistencia de Alteración contra la severidad de la Herida que causó el Colapso o queda Inconsciente. |
-| Torso | Penalizador de Saturación a Tolerancia, acciones físicas exigentes, defensas pesadas, mantener postura bajo Impacto y Técnicas que comprometan el torso. | Queda Incapacitado hasta estabilizarse. Si la Herida que causó el Colapso fue Crítica, también entra en Agonía. |
-| Brazos | Penalizador de Saturación a Tiradas de Ataque, Tiradas de Impacto y Tiradas de Especialización físicas que dependan de brazos, agarre, escudo, armas o manipulación. | Un brazo, agarre o línea de ejecución queda inutilizado. No puede usar armas a dos manos, escudo o Técnicas ligadas a esa extremidad si dependen de la parte colapsada. Puede aplicar Impedido. |
-| Piernas | Movimiento reducido a la mitad. Penalizador de Saturación a Tiradas de Especialización físicas de Fuerza o Tenacidad que dependan de piernas. | No puede caminar de forma funcional sin apoyo o ayuda. No puede cargar, correr ni saltar. |
-| Pies | No puede correr. Penalizador de Saturación a Tiradas de Especialización físicas de Agilidad que dependan de apoyo fino. | Puede moverse solo con apoyo, ayuda o una Tirada de Especialización apropiada. Si intenta moverse bajo presión sin apoyo y falla, queda Derribado. |
+Cada zona aplica su penalizador a una categoría exclusiva de tiradas. Los penalizadores de diferentes zonas no se acumulan sobre una misma tirada — si una acción pertenece claramente al dominio de una zona, solo ese penalizador aplica.
 
-La dificultad sugerida para la Tirada de Resistencia por Colapso depende de la Herida que causó el Desbordamiento.
+| Zona | Dominio del penalizador | Saturada | Colapsada |
+| --- | --- | --- | --- |
+| Cabeza | T.E. de Sabiduría, Intelecto, Compostura, Presencia y Astucia; Preparación | Penalizador de Saturación a T.E. de Sabiduría, Intelecto, Compostura y Astucia. Penalizador de Saturación a Preparación. | Debe superar una T.R. de Alteración contra la severidad de la Herida que causó el Colapso o queda Inconsciente. |
+| Torso | T.E. de Tenacidad; T.R. | Penalizador de Saturación a T.E. de Tenacidad y a Tiradas de Resistencia. El cuerpo puede seguir ejecutando, pero ya no puede absorber presión de la misma forma. | Queda Incapacitado hasta estabilizarse. Si la Herida que causó el Colapso fue Crítica, también entra en Agonía. |
+| Brazos | T.A. | Penalizador de Saturación a Tiradas de Ataque | Un brazo queda inutilizado. No puede usar armas a dos manos, escudo o Técnicas que requieran coordinación de ambos brazos. Puede aplicar Impedido. |
+| Piernas | T.E. de Fuerza | Movimiento reducido a la mitad. Penalizador de Saturación a T.E. de Fuerza. | No puede llevar a cabo ninguna acción relacionada con Fuerza. |
+| Pies | T.E. y T.C. de Agilidad | No puede correr. Penalizador de Saturación a T.E. y T.C. de Agilidad. | Puede moverse solo con apoyo, ayuda o una T.E. apropiada. Si intenta moverse sin apoyo y falla, queda Derribado. |
+
+La dificultad para la Tirada de Resistencia por Colapso depende de la Herida que causó el Desbordamiento.
 
 | Herida que causó Colapso | Dificultad |
 | --- | --- |
@@ -388,10 +390,10 @@ Los Estados Corporales describen la condición general de una criatura cuando el
 | Estado | Significado |
 | --- | --- |
 | Operativo | Puede actuar con los penalizadores que tenga por zona, Agravio, Fatiga o Desgaste |
-| Incapacitado | No puede realizar acciones significativas. Puede hablar, arrastrarse, sostener algo o reaccionar débilmente si la ficción lo permite |
+| Incapacitado | No puede realizar acciones con ritmo mayor a 3. Puede hablar, arrastrarse, sostener algo o reaccionar débilmente si la ficción lo permite |
 | Inconsciente | No puede actuar ni percibir de forma útil. No puede defenderse de forma activa |
 | Agonía | Está en riesgo de morir si no recibe estabilización. No puede actuar de forma significativa |
-| Muerto | La criatura deja de ser recuperable por medios normales de escena |
+| Muerto | La criatura deja de ser recuperable por medios normales |
 
 Si una zona ya Colapsada recibe otra Herida, se aplica o refresca el efecto de Colapso.
 
@@ -399,8 +401,8 @@ Si la zona es Cabeza o Torso, el personaje debe superar una Tirada de Resistenci
 
 Si falla:
 
-- Cabeza escala hacia Inconsciente
-- Torso escala hacia Agonía
+- Si la herida fue en la cabeza, la criatura queda Inconsciente
+- Si la herida fue en el torso, la criatura agoniza
 
 Si un personaje en Agonía recibe otra Herida Crítica en Cabeza o Torso, muere salvo que una regla específica, Técnica, intervención inmediata o decisión de mesa establezca otra salida.
 
@@ -408,7 +410,7 @@ Si un personaje en Agonía recibe otra Herida Crítica en Cabeza o Torso, muere 
 
 ## Zonas y localización
 
-Para ataques de PNJs contra jugadores, la localización se determina antes de resolver la defensa. Esto evita que el Narrador elija siempre la zona más castigada.
+Para ataques de PNJs contra jugadores, la localización se determina antes de resolver la defensa.
 
 | 1d100 | Zona |
 | --- | --- |
@@ -422,25 +424,24 @@ Los ataques de jugadores contra PNJs no usan esta tabla por defecto. El jugador 
 
 ---
 
-## Estabilizar, Tratar y Curar
+## Estabilizar y Tratar
 
-Transcendence separa tres pasos de recuperación.
+Existen dos pasos de recuperación.
 
 | Paso | Función | Libera ranuras |
 | --- | --- | ---: |
 | Estabilizar | Detiene deterioro inmediato, shock activo, sangrado abierto o Colapso que sigue empeorando | No |
-| Tratar | Atiende una zona durante un Descanso Completo para preparar recuperación | No por sí mismo |
-| Curar | Libera ranuras ocupadas como resultado de Descanso Completo con tratamiento exitoso | Sí |
+| Tratar | Atiende una zona durante un Descanso Completo — si tiene éxito, libera 1 ranura | Sí, con éxito |
 
-Medicina cubre estabilizar, tratar y curar daño corporal.
+Medicina cubre estabilizar y tratar daño corporal.
 
 Herboristería, alquimia, objetos, Técnicas y artefactos pueden modificar estas reglas desde sus propias secciones.
 
 Cuando una Técnica no crea una Herida más severa sino un problema de tratamiento
 o limpieza, la respuesta inmediata en combate suele resolverse con **Interactuar**
 o **Usar Especialización** según exija o no diagnóstico y manejo entrenado. Eso
-no sustituye **Estabilizar**, **Tratar** o **Curar**: solo resuelve el paso
-previo que permite volver a ellos en condiciones limpias.
+no sustituye **Estabilizar** o **Tratar**: solo resuelve el paso previo que
+permite volver a ellos en condiciones limpias.
 
 ---
 
@@ -460,15 +461,15 @@ En un fallo, la Herida sigue activa y el intento puede consumir tiempo, recursos
 
 ---
 
-## Tratamiento y curación
+## Tratamiento
 
 Las Heridas deben estar estabilizadas antes de liberar ranuras. Una Herida activa primero debe estabilizarse.
 
-| Descanso | Puede estabilizar | Puede tratar | Puede liberar ranuras |
-| --- | --- | --- | ---: |
-| 30 minutos | Herida Leve | No | 0 |
-| 60 minutos | Herida Grave | No | 0 |
-| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | Sí, con Medicina | 1 ranura por personaje tratado |
+| Descanso | Puede estabilizar | Puede liberar ranuras |
+| --- | --- | ---: |
+| 30 minutos | Herida Leve | No |
+| 60 minutos | Herida Grave | No |
+| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | 1 ranura con T.E. Medicina exitosa |
 
 Al tratar una zona durante un Descanso Completo, el personaje que atiende al paciente realiza una Tirada de Especialización de Medicina con Sabiduría.
 
