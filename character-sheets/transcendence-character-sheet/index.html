@@ -366,22 +366,41 @@
 
         <section class="panel attrition-panel" aria-labelledby="attrition-title">
           <div class="panel-heading">
-            <h2 id="attrition-title">Desgaste y fatiga</h2>
+            <h2 id="attrition-title">Recursos</h2>
             <p>Marcar durante la escena</p>
           </div>
           <div class="attrition-content">
-            <div class="attrition-row">
-              <span>Desgaste actual</span>
-              <div class="attrition-boxes">
-                <i></i><i></i><i></i><i></i><i></i>
-                <i></i><i></i><i></i><i></i><i></i>
-                <i></i><i></i><i></i><i></i><i></i>
+            <div class="resource-track">
+              <div class="resource-track-header">F&iacute;sico</div>
+              <div class="attrition-row">
+                <span>Desgaste</span>
+                <div class="attrition-boxes">
+                  <i></i><i></i><i></i><i></i><i></i>
+                  <i></i><i></i><i></i><i></i><i></i>
+                  <i></i><i></i><i></i><i></i><i></i>
+                </div>
+              </div>
+              <div class="attrition-summary">
+                <label><span>Aguante</span><i></i></label>
+                <label><span>Fatiga proyectada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+                <label><span>Fatiga asentada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
               </div>
             </div>
-            <div class="attrition-summary">
-              <label><span>Aguante</span><i></i></label>
-              <label><span>Fatiga proyectada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
-              <label><span>Fatiga asentada</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+            <div class="resource-track">
+              <div class="resource-track-header">Ps&iacute;quico</div>
+              <div class="attrition-row">
+                <span>Eco</span>
+                <div class="attrition-boxes">
+                  <i></i><i></i><i></i><i></i><i></i>
+                  <i></i><i></i><i></i><i></i><i></i>
+                  <i></i><i></i><i></i><i></i><i></i>
+                </div>
+              </div>
+              <div class="attrition-summary">
+                <label><span>Cordura</span><i></i></label>
+                <label><span>Disonancia proy.</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+                <label><span>Disonancia asen.</span><b>0</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b></label>
+              </div>
             </div>
           </div>
         </section>
@@ -586,5 +605,159 @@
       </div>
     </section>
   </main>
+
+  <main class="sheet-page conditions-page">
+    <header class="sheet-title compact-title">
+      <div>
+        <p class="kicker">Hoja de personaje</p>
+        <h1>Transcendence</h1>
+      </div>
+      <div class="sheet-mark">
+        <span>04</span>
+        <small>Condici&oacute;n</small>
+      </div>
+    </header>
+
+    <div class="estado-corporal" aria-label="Estado corporal">
+      <span class="estado-label">Estado corporal</span>
+      <div class="estado-check"><i></i><span>Operativo</span></div>
+      <div class="estado-check"><i></i><span>Incapacitado</span></div>
+      <div class="estado-check"><i></i><span>Inconsciente</span></div>
+      <div class="estado-check"><i></i><span>Agon&iacute;a</span></div>
+      <div class="estado-check"><i></i><span>Muerto</span></div>
+    </div>
+
+    <div class="conditions-grid">
+      <div class="conditions-left">
+
+        <section class="panel" aria-labelledby="heridas-activas-title">
+          <div class="panel-heading">
+            <h2 id="heridas-activas-title">Heridas activas</h2>
+            <p>Registrar por herida &middot; Est. = estabilizada</p>
+          </div>
+          <table class="sheet-table wound-log-table">
+            <thead>
+              <tr>
+                <th>Zona</th>
+                <th>Severidad</th>
+                <th>Est.</th>
+                <th>Agravio</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+              <tr><td></td><td></td><td class="stab-cell"><i></i></td><td></td></tr>
+            </tbody>
+          </table>
+        </section>
+
+        <section class="panel" aria-labelledby="aflicciones-title">
+          <div class="panel-heading">
+            <h2 id="aflicciones-title">Aflicciones</h2>
+            <p>Leve 5 &middot; Moderado 10 &middot; Grave 15</p>
+          </div>
+          <table class="sheet-table affliction-table">
+            <thead>
+              <tr>
+                <th>Aflicción</th>
+                <th>Intensidad</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+              <tr><td></td><td><i class="intensity-box"></i></td></tr>
+            </tbody>
+          </table>
+        </section>
+
+        <section class="panel" aria-labelledby="venenos-title">
+          <div class="panel-heading">
+            <h2 id="venenos-title">Venenos</h2>
+            <p>hasta_eliminar</p>
+          </div>
+          <table class="sheet-table poison-table">
+            <thead>
+              <tr>
+                <th>Veneno</th>
+                <th>Severidad</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td></td><td></td></tr>
+              <tr><td></td><td></td></tr>
+              <tr><td></td><td></td></tr>
+              <tr><td></td><td></td></tr>
+            </tbody>
+          </table>
+        </section>
+
+        <section class="panel" aria-labelledby="infecciones-title">
+          <div class="panel-heading">
+            <h2 id="infecciones-title">Infecciones</h2>
+            <p>Incubando &middot; Activa</p>
+          </div>
+          <table class="sheet-table infection-table">
+            <thead>
+              <tr>
+                <th>Infecci&oacute;n</th>
+                <th>Etapa</th>
+                <th>Severidad</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td></td><td></td><td></td></tr>
+              <tr><td></td><td></td><td></td></tr>
+              <tr><td></td><td></td><td></td></tr>
+            </tbody>
+          </table>
+        </section>
+
+      </div>
+
+      <div class="conditions-right">
+
+        <section class="panel" aria-labelledby="alteraciones-title">
+          <div class="panel-heading">
+            <h2 id="alteraciones-title">Alteraciones</h2>
+            <p>Leve &middot; Mod. &middot; Grave</p>
+          </div>
+          <div class="alteration-list">
+            <div class="alteration-col">
+              <div class="alteration-item"><span class="alteration-name">Asfixiado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Aterrorizado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Atrapado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Aturdido</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Cegado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Confundido</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Congelado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Conmocionado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Derribado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+            </div>
+            <div class="alteration-col">
+              <div class="alteration-item"><span class="alteration-name">Desequilibrado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Desorientado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Electrizado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Ensordecido</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Impedido</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Lacerado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Paralizado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+              <div class="alteration-item"><span class="alteration-name">Sobrecargado</span><div class="alteration-severity"><i></i><i></i><i></i></div></div>
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </div>
+  </main>
+
 </body>
 </html>

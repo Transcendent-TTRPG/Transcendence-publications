@@ -937,6 +937,168 @@ h2 {
   border: 1px solid #395d40;
 }
 
+/* ===== Hoja 02: Dual resource tracks ===== */
+
+.resource-track {
+  display: grid;
+  gap: 5px;
+}
+
+.resource-track + .resource-track {
+  margin-top: 4px;
+  padding-top: 6px;
+  border-top: 1px solid rgba(57, 93, 64, 0.35);
+}
+
+.resource-track-header {
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 7pt;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* ===== Hoja 04: Conditions page ===== */
+
+.conditions-page h1 {
+  font-size: 24pt;
+}
+
+.estado-corporal {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  margin-top: 10px;
+  border: 1.5px solid #203722;
+  background: var(--paper-panel);
+}
+
+.estado-label {
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 7pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+  padding-right: 8px;
+  border-right: 1px solid #7c927d;
+  margin-right: 4px;
+}
+
+.estado-check {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+}
+
+.estado-check i {
+  display: block;
+  width: 0.15in;
+  height: 0.15in;
+  border: 1px solid #395d40;
+  flex-shrink: 0;
+}
+
+.estado-check span {
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 6.5pt;
+  text-transform: uppercase;
+}
+
+.conditions-grid {
+  display: grid;
+  grid-template-columns: 1fr 0.75fr;
+  gap: 9px;
+  margin-top: 9px;
+  align-items: start;
+}
+
+.conditions-left,
+.conditions-right {
+  display: grid;
+  gap: 9px;
+  align-items: start;
+}
+
+.wound-log-table th:nth-child(1) { width: 20%; }
+.wound-log-table th:nth-child(2) { width: 18%; }
+.wound-log-table th:nth-child(3) { width: 10%; }
+.wound-log-table th:nth-child(4) { width: 52%; }
+
+.stab-cell {
+  text-align: center;
+}
+
+.stab-cell i {
+  display: inline-block;
+  width: 0.14in;
+  height: 0.14in;
+  border: 1px solid #395d40;
+  vertical-align: middle;
+}
+
+.affliction-table th:nth-child(1) { width: 74%; }
+.affliction-table th:nth-child(2) { width: 26%; }
+
+.intensity-box {
+  display: block;
+  width: 0.38in;
+  height: 0.2in;
+  margin: 0 auto;
+  border: 1px solid #395d40;
+  background: var(--paper-line);
+}
+
+.poison-table th:nth-child(1) { width: 70%; }
+.poison-table th:nth-child(2) { width: 30%; }
+
+.infection-table th:nth-child(1) { width: 50%; }
+.infection-table th:nth-child(2) { width: 26%; }
+.infection-table th:nth-child(3) { width: 24%; }
+
+.alteration-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 6px;
+  padding: 5px 8px 7px;
+}
+
+.alteration-col {
+  display: grid;
+  gap: 0;
+}
+
+.alteration-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 2px;
+  border-bottom: 1px solid rgba(124, 146, 125, 0.3);
+}
+
+.alteration-name {
+  color: #172b1a;
+  font-size: 7.8pt;
+  line-height: 1;
+}
+
+.alteration-severity {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+}
+
+.alteration-severity i {
+  display: block;
+  width: 0.12in;
+  height: 0.12in;
+  border: 1px solid #395d40;
+}
+
 @media print {
   html,
   body {
