@@ -122,6 +122,11 @@ h1 {
   font-size: 6.5pt;
 }
 
+.sheet-mark--ref span {
+  font-size: 13pt;
+  letter-spacing: 0.04em;
+}
+
 .core-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 0.84fr;
