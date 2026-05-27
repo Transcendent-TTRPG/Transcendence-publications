@@ -52,7 +52,7 @@ Realiza `T.E. (Supervivencia)`. Con éxito, identificas en la escena un punto qu
 | Consumado | Total |
 | Trascendente | Total |
 
-Ese punto cuenta como cobertura que lo abandones.
+Ese punto cuenta como cobertura hasta que lo abandones.
 
 Si fallas, el punto elegido no ofrece protección real.
 
