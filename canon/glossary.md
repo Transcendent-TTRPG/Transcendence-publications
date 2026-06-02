@@ -334,6 +334,8 @@ Terms are listed in Spanish. The EN column shows the English equivalent used in 
 | flujo ambiental | ambient flow | No — passive diffuse filtration of Limbo energy into a physical area; does not require an object or active agent |
 | vestigio | vestige | No — residual Tauma energy left in a physical object after past Limbo contact; fades over time; no active Limbo connection; requires discovery before intentional use; has hidden finite uses; each meaningful use raises Affliction pressure on the linked sense |
 | vínculo | link | No — physical object that sustains an active bridge between the bearer and a Limbo entity; more powerful than a vestige; not limited by hidden charges; usable only if the bearer has an active Affliction on the required linked sense; paid through Cordura cost per use |
+| Abzu | Abzu | Do not translate — Naghii theological term for what other species call the Limbo; the void behind the sky from which Tauma is believed to flow and into which the Primigenios dissolved; framed as Naghii doctrinal cosmology, not a mechanical replacement for the canonical term "el Limbo" |
+| corriente primordial | primordial current | Do not translate — Sauri theological term for the Tauma; conceived as a current flowing through material channels (rivers, veins, ruins, ritual lineages) rather than as an external force; framed as Sauri doctrinal cosmology |
 
 ---
 
