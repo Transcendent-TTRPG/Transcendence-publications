@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Sentar el Tercer Punto
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -44,7 +44,7 @@ related:
 
 **Disparador:** intentas moverte a través de terreno que impondría una penalización de velocidad, aumento de dificultad o tirada de Equilibrio obligatoria por terreno inestable, inclinado, colapsado o dañado.
 
-Realiza una tirada de especialización con `Equilibrio`. Si tienes éxito, identifica y usa un punto de anclaje estable a lo largo del trayecto — la cola contra un bloque roto, el arma apoyada en el escalón inferior, una mano en la pared, o cualquier superficie de contacto disponible — y muévete a través del terreno como si fuera estable.
+Realiza `T.E. (Equilibrio)`. Si tienes éxito, identifica y usa un punto de anclaje estable a lo largo del trayecto — la cola contra un bloque roto, el arma apoyada en el escalón inferior, una mano en la pared, o cualquier superficie de contacto disponible — y muévete a través del terreno como si fuera estable.
 
 El número de espacios libres es igual a tu rango de `Equilibrio` + 1:
 

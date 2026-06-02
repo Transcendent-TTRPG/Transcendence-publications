@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Pasivo - Utilidad
-
 # Sostener el Canal
+
+### Pasivo - Utilidad
 
 **Rango Novato**
 
@@ -42,9 +42,9 @@ related:
 
 ## Efecto
 
-Cuando el usuario medita específicamente para reducir la intensidad de una Aflicción activa, añade un bonificador a la tirada de Meditación igual a su rango de `Meditación`:
+Cuando meditas específicamente para reducir la intensidad de una Aflicción activa, añades un bonificador a la tirada de Meditación igual a tu rango de `Meditación`:
 
-| Rango de Contención | Bonificador |
+| Rango de `Meditación` | Bonificador |
 | --- | --- |
 | Novato | `+1` |
 | Adepto | `+2` |

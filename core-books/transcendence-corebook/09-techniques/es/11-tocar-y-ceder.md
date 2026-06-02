@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Tocar y Ceder
+
+### Activo - Ataque
 
 **Rango Novato**
 
 *Entra lo justo para herir; cede antes de quedar atrapado.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 
@@ -41,7 +41,7 @@ related:
 
 ## Efecto
 
-Como parte de esta acción, puedes avanzar hasta `1` metro hacia el objetivo, sin gastar una acción de movimiento separada. Después realizas una `T.A.`.
+Como parte de esta acción, puedes avanzar hasta `1` metro hacia el objetivo, sin gastar una acción de movimiento separada. Después realiza una `T.A.`.
 
 Si aciertas, resuelves `T.I.` normalmente y puedes reposicionarte hasta `1` metro a una posición legal. Este reposicionamiento forma parte de la técnica y no genera reacciones por abandonar el rango del objetivo.
 

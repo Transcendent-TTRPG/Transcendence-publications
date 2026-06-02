@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Cruzar la Punta
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
-*Donde otros ceden terreno, tú cruzas la línea del ataque.*
+*La punta que avanza ya encontró lo que no buscaba.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
@@ -42,10 +42,10 @@ related:
 
 ## Efecto
 
-Cuando un enemigo ejecuta un ataque físico de objetivo único, este puede declarar Cruzar la Punta como respuesta.
+Cuando un enemigo ejecuta un ataque físico de objetivo único, puedes declarar esta técnica como respuesta.
 
 Realiza tu T.D. con `Evasión` contra el ataque desencadenante.
 
-Si la T.D. falla, la técnica falla y el ataque se resuelve normalmente.
+Si la T.D. falla, el ataque se resuelve normalmente.
 
 Si la T.D. tiene éxito, avanza hasta 2 metros hacia el atacante en el momento en que el golpe llega.

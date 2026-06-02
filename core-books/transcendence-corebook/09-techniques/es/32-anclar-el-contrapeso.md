@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Anclar el Contrapeso
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
-*El suelo cedió un momento, pero la cola ya había anclado el punto donde el cuerpo decidió quedarse.*
+*La cola no sigue al cuerpo que empujan — ya estaba en el suelo.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |

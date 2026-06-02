@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Guardar el Pulso
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -52,6 +52,6 @@ Para esta resolución, elige uno de los siguientes efectos:
 - **Prevenir interrupción:** impide que ese estado interrumpa una acción física ya declarada, siempre que la acción siga siendo físicamente posible.
 - **Mantener tarea sostenida:** mantén una función continua hasta tu próxima activación — cargar un cuerpo, sujetar una compuerta, conservar el agarre, permanecer en pie, o completar un tramo corto de movimiento forzado.
 
-Esta técnica aplica únicamente a estados físicos o fisiológicos: dolor, presión de herida, Fatiga, veneno, infección, `Lacerado`, Aflicciones físicas, u otro deterioro corporal similar. No aplica a miedo, control mental, presión social, maldiciones, o colapso puramente emocional.
+Esta técnica aplica únicamente a Alteraciones.
 
 Esta técnica no elimina el estado. Cuando la función preservada resuelve, todas las heridas, Fatiga, Aflicciones, penalizaciones y consecuencias continúan normalmente.

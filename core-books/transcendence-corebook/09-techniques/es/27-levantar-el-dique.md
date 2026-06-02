@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Levantar el Dique
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -33,7 +33,7 @@ related:
 
 ## Requisitos
 
-- Perfil de arma: `Intercepción`. Cualquier arma, ataque natural o ítem con acceso al perfil puede usar esta técnica.
+- Perfil de escudo: `Intercepción`
 - Debes tener un camino físico libre para interponer tu superficie entre la amenaza y el objetivo protegido.
 
 ## Keywords

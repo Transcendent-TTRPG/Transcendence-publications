@@ -61,7 +61,7 @@ Un ataque físico sigue esta secuencia:
 
 La Tirada de Impacto no se realiza si el ataque no encuentra una entrada.
 
-La defensa decide si el golpe conecta. El Bloqueo decide cuánto de esa presión llega realmente al cuerpo, pieza o parte golpeada.
+La defensa decide si el golpe conecta. El Bloqueo decide cuánto de esa presión llega al cuerpo, pieza o parte golpeada.
 
 ---
 
@@ -228,7 +228,7 @@ BM = floor(Durabilidad / 10)
 
 La Competencia Defensiva equivale al nivel de competencia en el tipo de armadura que protege la zona golpeada.
 
-Solo se usa si esa armadura participa realmente en absorber el Impacto.
+Solo se usa si esa armadura participa en absorber el Impacto.
 
 Una zona sin armadura no aporta Bloqueo de armadura.
 
@@ -516,7 +516,7 @@ Una Herida Crítica ocupa 3 ranuras. Después de un Descanso Completo con tratam
 
 Los enemigos no tienen que usar las mismas zonas anatómicas que un personaje jugador. Una criatura importante usa las zonas que su anatomía y diseño de encuentro necesiten.
 
-Por defecto, una criatura importante debería organizarse en cinco lugares principales para mantener lectura en mesa.
+Por defecto, una criatura importante se organiza en cinco partes principales.
 
 Estos lugares pueden ser:
 

@@ -38,7 +38,7 @@ Cuando una regla específica contradice una regla general, la regla específica 
 
 ## El Narrador y las reglas
 
-El Narrador aplica las reglas para resolver acciones, consecuencias y estados de la escena. Cuando una situación no está cubierta de forma directa, el Narrador usa la mecánica más cercana y construye el resultado desde ahí.
+El Narrador aplica las reglas para resolver acciones, consecuencias y estados de la escena. Cuando una situación no está cubierta de forma directa, el Narrador usa la mecánica más cercana como base y construye desde ahí.
 
 Una regla específica ofrece el marco más preciso para resolver su situación. Alterarla debe ser una excepción, no una costumbre, y la decisión debe mantenerse coherente con el mundo, la escena y la información disponible para los jugadores.
 
@@ -52,7 +52,7 @@ Cuando un cálculo produce fracciones o decimales, el resultado se redondea haci
 
 ## Condición más fuerte
 
-Cuando una criatura recibe múltiples efectos del mismo tipo, solo se aplica el más significativo. Esto incluye penalizaciones, bonificadores, reducciones de velocidad y otros modificadores que afecten el mismo valor o estado.
+Cuando una criatura recibe múltiples efectos del mismo tipo, solo se aplica el de mayor magnitud. Esto incluye penalizaciones, bonificadores, reducciones de velocidad y otros modificadores que afecten el mismo valor o estado.
 
 Para comparar efectos del mismo tipo, primero se revisa la magnitud. Si ambos tienen la misma magnitud, prevalece el de mayor duración restante. Si el nuevo efecto supera al anterior, lo reemplaza y su duración comienza desde ese momento.
 
@@ -88,7 +88,7 @@ Todo participante en un Conflicto es una **criatura**. Este término incluye per
 
 ### Interludio
 
-El Interludio cubre períodos extendidos fuera de la escena detallada. Los personajes fabrican, reparan, descansan, tratan heridas, gestionan recursos, desarrollan relaciones o preparan el siguiente avance.
+El Interludio cubre lapsos de días o más que avanzan sin el detalle escena a escena. Los personajes fabrican, reparan, descansan, tratan heridas, gestionan recursos, desarrollan relaciones o preparan el siguiente avance.
 
 El tiempo fluye con menos presión inmediata, pero las consecuencias suelen durar más. Lo que se decide durante un Interludio puede definir con qué recursos, heridas, vínculos o riesgos empieza la siguiente escena.
 

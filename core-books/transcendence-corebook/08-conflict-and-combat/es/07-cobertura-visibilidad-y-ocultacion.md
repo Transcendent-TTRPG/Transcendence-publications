@@ -386,7 +386,7 @@ Una criatura puede intentar ocultarse si cumple al menos una de estas condicione
 - está dentro de una condición de Visibilidad reducida que pueda ocultar su posición
 - cuenta con una Técnica, rasgo, artefacto o preparación que le permita obtener `Oculto`
 
-Además, ningún enemigo relevante debe tenerla localizada claramente por un sentido aplicable.
+Ningún enemigo la tiene localizada por un sentido aplicable.
 
 No basta con querer desaparecer mientras alguien la ve, oye, huele o percibe con claridad.
 
@@ -480,7 +480,7 @@ Ejemplos:
 - una voz se oye desde el oeste
 - una sombra cruza detrás de humo
 
-La posición aproximada incierta existe para que el detector reciba una pista jugable sin saber si acertó.
+La posición aproximada incierta da al detector una pista sin confirmarle si acertó.
 
 El jugador debe saber qué percibió su personaje, pero no si esa percepción fue correcta.
 
@@ -568,11 +568,9 @@ Sirve para resolver señales creadas por la criatura oculta, no para escanear gr
 
 ---
 
-## Límites de balance
+## Límites
 
-La Ocultación necesita límites porque puede volverse demasiado fuerte si impide demasiadas respuestas.
-
-Reglas de seguridad:
+La Ocultación tiene condiciones de aplicación:
 
 - Ocultarse requiere una razón física, ambiental o técnica
 - `Oculto` se mide por enemigo o grupo de enemigos, no como estado universal

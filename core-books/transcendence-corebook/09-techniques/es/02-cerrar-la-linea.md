@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reaccion - Ataque
-
 # Cerrar la Línea
+
+### Reacción - Ataque
 
 **Rango Novato**
 
 *Si avanzan por tu línea, la punta cobra primero.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 
@@ -33,13 +33,13 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Control de Linea`
+- Arma con perfil `Control de Línea`
 - Un enemigo en movimiento entra en el rango de tu arma
 
 ## Keywords
 
-- `Control de Linea`
+- `Control de Línea`
 
 ## Efecto
 
-Cuando un enemigo realiza cualquier accion que involucre movimiento y entra en una casilla dentro del rango de tu arma, interrumpes ese movimiento para realizar una `T.A`. Si aciertas, resuelves `T.I`. normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continua su accion normalmente.
+Cuando un enemigo realiza cualquier acción que involucre movimiento y entra en una casilla dentro del rango de tu arma, interrumpes ese movimiento para realizar una `T.A.`. Si aciertas, resuelves `T.I.` normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continúa su acción normalmente.

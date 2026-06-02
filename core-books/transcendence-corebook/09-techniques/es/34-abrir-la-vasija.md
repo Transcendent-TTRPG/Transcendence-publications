@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Abrir la Vasija
+
+### Activo - Ataque
 
 **Rango Novato**
 

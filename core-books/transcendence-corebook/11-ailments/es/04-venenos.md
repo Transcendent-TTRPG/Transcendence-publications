@@ -82,6 +82,20 @@ Los Venenos tienen duración `hasta_eliminar`. Persisten en el organismo hasta q
 
 ---
 
+## Tratamiento
+
+Neutralizar un veneno activo en un organismo requiere un **Kit de Medicina** adecuado a la rareza del veneno. Sin el kit correspondiente no es posible el tratamiento.
+
+| Kit de Medicina | Veneno tratable |
+| --- | --- |
+| Básico | Venenos comunes (Leve) |
+| Avanzado | Venenos raros (hasta Moderado) |
+| Especializado | Venenos excepcionales (hasta Grave) |
+
+El tratamiento puede llevarse a cabo mediante técnicas de sanación o métodos alquímicos. La dificultad depende de la potencia y naturaleza del veneno.
+
+---
+
 ## Catálogo
 
 El catálogo de entradas individuales de Venenos — sus efectos mecánicos, umbrales, condiciones de aplicación y vías de administración — *está pendiente de definición*.

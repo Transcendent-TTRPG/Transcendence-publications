@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Doblar el Tiro
+
+### Activo - Ataque
 
 **Rango Novato**
 
-*La cobertura protege de una línea. No de todas.*
+*El ángulo que no miran es el que cobra.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ related:
 ## Requisitos
 
 - Arma con perfil `Desvío`
-- Superficie util de rebote o desvío
+- Superficie útil de rebote o desvío
 
 ## Keywords
 
@@ -44,6 +44,6 @@ related:
 
 Declara una sola superficie de rebote o desvío y realiza una `T.A.` a través de esa línea indirecta. Si aciertas, resuelves `T.I.` normalmente.
 
-El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada realmente lo bordea.
+El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada lo bordea.
 
 La técnica no atraviesa barreras selladas, no curva libremente en aire abierto y no busca objetivos cuya posición no puedas localizar de forma razonable.

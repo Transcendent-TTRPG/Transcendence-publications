@@ -92,7 +92,7 @@ Lees intención donde puede que no la haya. Una persona que espera en la puerta,
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Astucia relacionadas con intención, lectura social o detección de amenaza. |
 | **Moderado** | Penalización de −2 a T.E. de Astucia; si fallas, quedas Aterrorizado Leve. |
-| **Grave** | Penalización de −3 a T.E. de Astucia; si fallas, también quedas Atrapado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Astucia; si fallas, quedas Aterrorizado Moderado y Atrapado Moderado. |
 
 **Canal Extranatural:** puede detectar genuinamente amenazas ocultas, intenciones disimuladas y entidades que se presentan como presencias benignas.
 
@@ -124,7 +124,7 @@ A veces percibes cosas que no están. A veces no percibes cosas que sí están. 
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción visual. |
 | **Moderado** | Penalización de −2 a T.E. de Percepción visual; si fallas, quedas Confundido Leve. |
-| **Grave** | Penalización de −3 a T.E. de Percepción visual; si fallas, también quedas Desorientado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción visual; si fallas, quedas Confundido Moderado y Desorientado Moderado. |
 
 **Canal Extranatural:** percibe realidades superpuestas, ecos y huellas de presencias extranaturales que ya no están o aún no han llegado.
 
@@ -142,7 +142,7 @@ Escuchas un pitido, zumbido o frecuencia constante que no tiene fuente en el ent
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva. |
 | **Moderado** | Penalización de −2 a T.E. de Percepción auditiva; si fallas, quedas Impedido Leve. |
-| **Grave** | Penalización de −3 a T.E. de Percepción auditiva; si fallas, quedas Sobrecargado Leve en lugar de Impedido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción auditiva; si fallas, quedas Sobrecargado Moderado. |
 
 **Canal Extranatural:** escucha susurros ocultos, frecuencias extranaturales y comunicaciones entre entidades que no son perceptibles para otros.
 
@@ -158,7 +158,7 @@ El volumen perdió su escala. Un cubierto sobre una superficie, una puerta que s
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Compostura. |
 | **Moderado** | Penalización de −2 a T.E. de Compostura; si fallas, quedas Aturdido Leve. |
-| **Grave** | Penalización de −3 a T.E. de Compostura; si fallas, quedas Ensordecido Leve en lugar de Aturdido Leve. |
+| **Grave** | Penalización de −3 a T.E. de Compostura; si fallas, quedas Ensordecido Moderado. |
 
 **Canal Extranatural:** percibe vibraciones sutiles no acústicas: tensiones emocionales, presencias ocultas, movimientos en el plano adyacente.
 
@@ -174,7 +174,7 @@ Los sonidos llegan con un desfase que no tiene origen real. La primera vez cuand
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Percepción auditiva y T.E. de Orientación. |
 | **Moderado** | Penalización de −2 a T.E. de Percepción auditiva y T.E. de Orientación; si fallas cualquier T.E. de Equilibrio, quedas Desequilibrado Leve. |
-| **Grave** | Penalización de −3 a T.E. de Percepción auditiva y T.E. de Orientación; si fallas esa T.E., quedas Paralizado Leve en lugar de Desequilibrado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Percepción auditiva y T.E. de Orientación; si fallas esa T.E., quedas Paralizado Moderado. |
 
 **Canal Extranatural:** escucha ecos de otras realidades y percibe movimientos de presencias en el plano adyacente.
 
@@ -208,7 +208,7 @@ El olfato ya no tiene rango. Un nivel de intensidad que antes era neutro — la 
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Enfoque. |
 | **Moderado** | Penalización de −2 a T.E. de Enfoque; si fallas, quedas Aturdido Leve. |
-| **Grave** | Penalización de −3 a T.E. de Enfoque; tu Preparación se reduce a 0; si fallas, también quedas Sobrecargado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Enfoque; tu Preparación se reduce a 0; si fallas, quedas Sobrecargado Moderado. |
 
 **Canal Extranatural:** rastrea criaturas invisibles por olor; detecta presencias extranaturales activas en el área.
 
@@ -220,7 +220,7 @@ El olfato ya no tiene rango. Un nivel de intensidad que antes era neutro — la 
 
 *Cualquier ingesta llega como si no debiera estar ahí. El cuerpo lo reconoce, pero no lo acepta.*
 
-El sabor de lo que comes o bebes llega alterado — amargo donde no debería, metálico, o simplemente equivocado de una forma que no puedes describir con precisión. El cuerpo lo trata como algo que no debería estar ahí. El acto de ingerir se convierte en una negociación que a veces no puedes sostener.
+El sabor de lo que comes o bebes llega alterado — amargo donde no debería, metálico, o equivocado de una forma que no puedes describir con precisión. El cuerpo lo trata como algo que no debería estar ahí. El acto de ingerir se convierte en una negociación que a veces no puedes sostener.
 
 Al intentar comer o beber durante un descanso, realiza una T.E. de Contención (Compostura) contra la Intensidad actual.
 
@@ -245,8 +245,8 @@ Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgáni
 | Intensidad | Efecto en caso de fallo |
 | --- | --- |
 | **Leve** | Debes consumir materia inerte — tierra, polvo, residuos, insectos. Recibes Desequilibrado Leve. |
-| **Moderado** | Debes consumir materia orgánica contaminada — tejido muerto, fluidos, restos de criatura. Recibes Infección Leve. |
-| **Grave** | Debes consumir material tóxico o cáustico — carne envenenada, fluidos activos, material corrosivo. Recibes Infección Leve y Veneno Leve. |
+| **Moderado** | Debes consumir materia orgánica contaminada — tejido muerto, fluidos, restos de criatura. Recibes Infección Moderado. |
+| **Grave** | Debes consumir material tóxico o cáustico — carne envenenada, fluidos activos, material corrosivo. Recibes Infección Moderado y Veneno Moderado. |
 
 **Canal Extranatural:** recibe fragmentos de visión o memoria residual del material consumido — imágenes, emociones, instantes del pasado del organismo o entidad.
 
@@ -290,12 +290,12 @@ La información que te dice cuánto daño recibiste llega incompleta o con retra
 
 *El contacto siempre produjo algo. Ahora produce demasiado.*
 
-El contacto produce más de lo que debería. La textura de tu ropa, el peso de lo que cargas, la mano de alguien sobre tu hombro — todo llega con una intensidad que no tiene relación con lo que realmente ocurre. Concentrarte en medio de ese ruido táctil constante requiere un esfuerzo que el cuerpo no siempre puede sostener.
+El contacto produce más de lo que debería. La textura de tu ropa, el peso de lo que cargas, la mano de alguien sobre tu hombro — todo llega con una intensidad que no tiene relación con lo que ocurre. Concentrarte en medio de ese ruido táctil constante requiere un esfuerzo que el cuerpo no siempre puede sostener.
 
 | Intensidad | Efecto |
 | --- | --- |
 | **Leve** | Penalización de −1 a T.E. de Enfoque. |
 | **Moderado** | Penalización de −2 a T.E. de Enfoque; si fallas, quedas Sobrecargado Leve. |
-| **Grave** | Penalización de −3 a T.E. de Enfoque; si fallas, quedas Impedido Leve en lugar de Sobrecargado Leve. |
+| **Grave** | Penalización de −3 a T.E. de Enfoque; si fallas, quedas Impedido Moderado. |
 
 **Canal Extranatural:** siente corrientes de energía en los objetos; detecta propiedades ocultas y procedencias extranaturales al contacto directo.

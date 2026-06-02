@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Romper el Caudal
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -29,11 +29,11 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `6` | `3` |
+| — | T.I. | `5` | `2` |
 
 ## Requisitos
 
-- Perfil de arma: `Interrupción`.
+- Perfil de escudo: `Interrupción`
 
 ## Keywords
 
@@ -45,4 +45,4 @@ Cuando eres el objetivo de un ataque enemigo, ya sea por designación directa o 
 
 Si el enemigo supera tu T.D., la técnica falla y el enemigo resuelve normalmente.
 
-Con éxito, interrumpes la ejecución. Además, puedes realizar inmediatamente un contraataque con un arma. El contraataque se resuelve con su propia T.A. e I.R. No añade Ritmo adicional y no puede incluir movimiento, una segunda Técnica ni una ventana de seguimiento.
+Con éxito, interrumpes la ejecución y resuelves la T.I. inmediatamente contra el atacante. No añade Ritmo adicional y no puede incluir movimiento ni una segunda Técnica.

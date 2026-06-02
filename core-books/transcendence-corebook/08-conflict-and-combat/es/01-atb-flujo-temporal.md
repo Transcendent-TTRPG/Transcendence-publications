@@ -44,7 +44,7 @@ Cada participante ocupa una posición numerada en ese track. En el track hay un 
 
 Cuando una criatura se activa, el marcador se coloca en el número correspondiente a su ficha. La criatura declara su acción y mueve su ficha pagando el costo de ritmo. Una vez resuelta la acción, el marcador avanza en el sentido de las manecillas del reloj hasta la siguiente ficha más próxima — esa criatura se activa y el proceso se repite.
 
-El track circular resuelve el problema práctico de la línea infinita: las fichas no se reposicionan. Simplemente avanzan alrededor del track, y el marcador siempre sigue a la siguiente ficha disponible en el sentido del reloj.
+El track circular resuelve el problema práctico de la línea infinita: las fichas no se reposicionan. Las fichas avanzan alrededor del track, y el marcador siempre sigue a la siguiente ficha disponible en el sentido del reloj.
 
 El track permite ver:
 

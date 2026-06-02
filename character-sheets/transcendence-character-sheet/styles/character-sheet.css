@@ -1,8 +1,125 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap");
 
 @page {
-  size: letter;
-  margin: 0.35in;
+  size: 8.5in 11in;
+  margin: 0;
+}
+
+@media print {
+  html, body {
+    width: 8.5in;
+    margin: 0;
+    padding: 0;
+    background: none;
+  }
+
+  .sheet-page {
+    width: 8.5in;
+    height: 11in;
+    min-height: unset;
+    margin: 0;
+    overflow: hidden;
+    box-shadow: none;
+    page-break-after: always;
+    break-after: page;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Pág 01 — lower-grid (rasgos + legados) crece */
+  .lower-grid {
+    flex: 1;
+    min-height: 0;
+    grid-template-rows: 1fr;
+  }
+
+  .lower-grid .traits {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .lower-grid .traits .writing-lines {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .lower-grid .traits .writing-lines i {
+    flex: 1;
+    height: auto;
+    min-height: 0.38in;
+  }
+
+  /* Pág 02 — ataques crecen (6 filas) */
+  .attacks-panel {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .attacks-panel .attacks-table {
+    flex: 1;
+    height: 100%;
+  }
+
+  .attacks-panel .attacks-table tbody {
+    height: 100%;
+  }
+
+  .attacks-panel .attacks-table tbody tr {
+    height: 16.67%;
+  }
+
+  /* Pág 03 — especializaciones crecen (16 filas por tabla) */
+  .specializations-panel {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .specializations-panel .specialization-columns {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    gap: 10px;
+  }
+
+  .specializations-panel .specialization-table {
+    flex: 1;
+    height: 100%;
+  }
+
+  .specializations-panel .specialization-table tbody {
+    height: 100%;
+  }
+
+  .specializations-panel .specialization-table tbody tr {
+    height: 6.25%;
+  }
+
+  /* Pág 05 — inventario crece (20 filas) */
+  .inventory-panel {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .inventory-panel .inventory-table {
+    flex: 1;
+    height: 100%;
+  }
+
+  .inventory-panel .inventory-table tbody {
+    height: 100%;
+  }
+
+  .inventory-panel .inventory-table tbody tr {
+    height: 5%;
+  }
 }
 
 *, *::before, *::after {
@@ -419,8 +536,38 @@ h2 {
 
 .roll-panel,
 .roll-grid,
-.lower-roll-grid {
+.lower-roll-grid,
+.mid-roll-grid,
+.rolls-page .wounds-panel,
+.rolls-page .attrition-panel {
   margin-top: 9px;
+}
+
+.mid-roll-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr 1fr;
+  gap: 9px;
+  align-items: stretch;
+}
+
+.mid-roll-grid .panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.mid-roll-grid .panel .sheet-table {
+  flex: 1;
+}
+
+.mid-roll-grid .sheet-table th {
+  font-size: 5.6pt;
+  padding: 3px 4px 2px;
+}
+
+.mid-roll-grid .sheet-table td {
+  height: 0.225in;
+  padding: 2px 4px;
+  font-size: 7pt;
 }
 
 .sheet-table {
@@ -572,19 +719,27 @@ h2 {
   display: grid;
   grid-template-columns: 1fr;
   gap: 7px;
-  padding: 0;
+  padding: 6px 7px 8px;
 }
 
 .wound-slots-table th:nth-child(1) {
-  width: 24%;
+  width: 9%;
 }
 
 .wound-slots-table th:nth-child(2) {
-  width: 44%;
+  width: 16%;
 }
 
 .wound-slots-table th:nth-child(3) {
-  width: 32%;
+  width: 10%;
+}
+
+.wound-slots-table th:nth-child(4) {
+  width: 23%;
+}
+
+.wound-slots-table th:nth-child(5) {
+  width: 42%;
 }
 
 .wound-slots-table td {
@@ -615,6 +770,78 @@ h2 {
 
 .wound-severity-table td {
   height: 0.24in;
+}
+
+td.zone-state {
+  white-space: nowrap;
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 6.5pt;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+td.zone-state i {
+  display: inline-block;
+  width: 0.125in;
+  height: 0.125in;
+  border: 1px solid #395d40;
+  vertical-align: middle;
+  margin-right: 2px;
+}
+
+td.sat-note {
+  color: #243727;
+  font-size: 7pt;
+  line-height: 1.2;
+}
+
+.wounds-bottom {
+  display: grid;
+  grid-template-columns: 0.5fr 1.5fr;
+  gap: 6px;
+}
+
+td.collapse-note {
+  color: #172b1a;
+  font-size: 7.5pt;
+  line-height: 1.2;
+}
+
+.severity-ref {
+  display: flex;
+  gap: 24px;
+  padding: 5px 8px 6px;
+  border-top: 1px solid #7c927d;
+  color: #243727;
+  font-size: 8pt;
+}
+
+.severity-ref strong {
+  color: #0a1a0f;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 7.5pt;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.state-key {
+  margin-left: auto;
+  color: #395d40;
+  font-style: italic;
+}
+
+.attrition-content--wide {
+  grid-template-columns: 1fr 1fr;
+  align-items: start;
+}
+
+.attrition-content--wide .resource-track + .resource-track {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+  padding-left: 12px;
+  border-left: 1px solid rgba(57, 93, 64, 0.35);
 }
 
 .temporary-table th:nth-child(1) {
@@ -667,22 +894,22 @@ h2 {
 
 .attrition-summary {
   display: grid;
-  grid-template-columns: 0.78fr 1.2fr 1.2fr;
-  gap: 7px;
+  gap: 4px;
 }
 
 .attrition-summary label {
   display: grid;
-  gap: 4px;
+  gap: 5px;
   align-items: center;
+  justify-content: end;
 }
 
 .attrition-summary label:first-child {
-  grid-template-columns: 1fr;
+  grid-template-columns: min-content 0.38in;
 }
 
 .attrition-summary label:not(:first-child) {
-  grid-template-columns: 1fr repeat(6, 0.16in);
+  grid-template-columns: min-content repeat(6, 0.16in);
 }
 
 .attrition-summary i {
@@ -919,9 +1146,9 @@ h2 {
 }
 
 .compact-specialization-table .progress-track span {
-  width: 0.054in;
-  height: 0.054in;
-  margin: 0.75px;
+  width: 0.065in;
+  height: 0.065in;
+  margin: 1px;
 }
 
 .compact-specialization-table .affinity-cell::after {
@@ -1351,24 +1578,158 @@ h2 {
 }
 
 .conditions-grid {
-  display: grid;
-  grid-template-columns: 1fr 0.75fr;
+  display: flex;
+  flex-direction: column;
   gap: 9px;
   margin-top: 9px;
+}
+
+.conditions-top {
+  display: flex;
+  gap: 9px;
   align-items: start;
 }
 
-.conditions-left,
-.conditions-right {
-  display: grid;
+.conditions-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
   gap: 9px;
-  align-items: start;
+  min-width: 0;
+}
+
+
+.alteration-tracking-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.alteration-tracking-table thead tr {
+  border-bottom: 1.5px solid #395d40;
+}
+
+.alteration-tracking-table th {
+  font-family: var(--font-label, sans-serif);
+  font-size: 6.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 5px;
+  text-align: left;
+  color: #395d40;
+}
+
+.alteration-tracking-table th:nth-child(1) { width: 9%; }
+.alteration-tracking-table th:nth-child(2) { width: 7%; text-align: center; }
+.alteration-tracking-table th:nth-child(3) { width: 28%; }
+.alteration-tracking-table th:nth-child(4) { width: 28%; }
+.alteration-tracking-table th:nth-child(5) { width: 28%; }
+
+.alteration-tracking-table td {
+  font-size: 6.8pt;
+  padding: 2px 5px;
+  border-bottom: 1px solid rgba(124, 146, 125, 0.25);
+  vertical-align: middle;
+  line-height: 1.25;
+  color: #172b1a;
+}
+
+.alteration-tracking-table .alt-name {
+  font-weight: 600;
+  font-size: 7pt;
+  white-space: nowrap;
+}
+
+.alteration-tracking-table .alt-sev {
+  text-align: center;
+}
+
+.alteration-tracking-table .alt-sev .alteration-severity {
+  justify-content: center;
+}
+
+.alteration-tracking-table tr.alt-constant td {
+  color: #3a5a3c;
+  font-style: italic;
+}
+
+/* ===== Aflicciones tracking table ===== */
+
+.affliction-tracking-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.affliction-tracking-table thead tr {
+  border-bottom: 1.5px solid #395d40;
+}
+
+.affliction-tracking-table th {
+  font-family: var(--font-label, sans-serif);
+  font-size: 6.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 5px;
+  text-align: left;
+  color: #395d40;
+}
+
+.affliction-tracking-table th:nth-child(1) { width: 82%; }
+.affliction-tracking-table th:nth-child(2) { width: 18%; text-align: center; }
+
+.affliction-tracking-table td {
+  font-size: 6.8pt;
+  padding: 2px 5px;
+  border-bottom: 1px solid rgba(124, 146, 125, 0.25);
+  vertical-align: middle;
+  line-height: 1.25;
+  color: #172b1a;
+}
+
+.affliction-tracking-table .afl-name {
+  font-weight: 600;
+  font-size: 7pt;
+  color: #172b1a;
+  line-height: 1.3;
+}
+
+.affliction-tracking-table .afl-trigger {
+  font-weight: 400;
+  font-size: 6.3pt;
+  color: #4a6a4c;
+  font-style: italic;
+}
+
+.affliction-tracking-table .afl-intens {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.affliction-tracking-table .afl-intens .intensity-box {
+  margin: 1px auto;
+  width: 0.32in;
+  height: 0.18in;
+}
+
+.affliction-tracking-table tr.afl-sense-row td {
+  font-size: 6.3pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 3px 5px 2px;
+  background: rgba(57, 93, 64, 0.07);
+  color: #395d40;
+  border-bottom: none;
 }
 
 .wound-log-table th:nth-child(1) { width: 20%; }
 .wound-log-table th:nth-child(2) { width: 18%; }
 .wound-log-table th:nth-child(3) { width: 10%; }
 .wound-log-table th:nth-child(4) { width: 52%; }
+
+.agravios-table th:nth-child(1) { width: 38%; }
+.agravios-table th:nth-child(2) { width: 12%; }
+.agravios-table th:nth-child(3) { width: 12%; }
+.agravios-table th:nth-child(4) { width: 38%; }
 
 .stab-cell {
   text-align: center;
@@ -1438,6 +1799,122 @@ h2 {
   width: 0.12in;
   height: 0.12in;
   border: 1px solid #395d40;
+}
+
+/* ===== Hoja 05: Inventario y Limbo ===== */
+
+.inventory-page h1 {
+  font-size: 24pt;
+}
+
+.inventory-panel {
+  margin-top: 10px;
+}
+
+.inventory-table th:nth-child(1) { width: 36%; }
+.inventory-table th:nth-child(2) { width: 12%; }
+.inventory-table th:nth-child(3) { width: 52%; }
+
+.inventory-table td {
+  height: 0.235in;
+}
+
+.inventory-weight {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 5px 8px 6px;
+  border-top: 1px solid #7c927d;
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 7.5pt;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.inventory-weight i {
+  display: inline-block;
+  width: 0.55in;
+  height: 0.18in;
+  border-bottom: 1px solid #6f7f70;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.inventory-weight-money {
+  margin-left: auto;
+}
+
+.inventory-weight-money-field {
+  width: 1.4in !important;
+}
+
+.load-ref {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 3px 8px 5px;
+  border-top: 1px solid rgba(124, 146, 125, 0.4);
+  color: #395d40;
+  font-size: 7pt;
+  font-style: italic;
+}
+
+.load-ref strong {
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 6.5pt;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.load-thresholds {
+  margin-left: auto;
+  font-style: normal;
+  color: #243727;
+}
+
+.limbo-label {
+  margin: 10px 0 6px;
+  padding: 3px 8px 2px;
+  color: #e8efe8;
+  background: var(--dark-panel);
+  border: 1px solid #395d40;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 8pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+.limbo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 9px;
+  align-items: start;
+}
+
+.vestigios-table th:nth-child(1) { width: 20%; }
+.vestigios-table th:nth-child(2) { width: 30%; }
+.vestigios-table th:nth-child(3) { width: 10%; }
+.vestigios-table th:nth-child(4) { width: 40%; }
+
+.vinculos-table th:nth-child(1) { width: 22%; }
+.vinculos-table th:nth-child(2) { width: 34%; }
+.vinculos-table th:nth-child(3) { width: 14%; }
+.vinculos-table th:nth-child(4) { width: 30%; }
+
+.vestigios-table th,
+.vinculos-table th {
+  font-size: 5.8pt;
+  padding: 3px 4px 2px;
+}
+
+.vestigios-table td,
+.vinculos-table td {
+  height: 0.32in;
+  font-size: 7.5pt;
 }
 
 @media print {

@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reacción - Ataque
-
 # Trabar el Gesto
+
+### Reacción - Ataque
 
 **Rango Novato**
 
-*Todo ataque revela una apertura. Golpéala.*
+*El ataque abre lo mismo que promete cerrar.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |

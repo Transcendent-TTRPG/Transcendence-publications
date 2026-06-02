@@ -1,5 +1,5 @@
 ---
-title: "Como Leer una Tecnica"
+title: "Cómo Leer una Técnica"
 type: corebook
 content_kind: rules
 writing_mode: rules
@@ -16,30 +16,29 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/README.md
 ---
 
-# Como Leer una Tecnica
+# Cómo Leer una Técnica
 
-Una **Tecnica** es una aplicacion entrenada y concreta de una competencia.
+Una **Técnica** es una aplicación entrenada y concreta de una competencia.
 
-No es una accion generica ni una mejora pasiva indefinida. Una Tecnica dice:
+No es una acción genérica ni una mejora pasiva indefinida. Una Técnica dice:
 
-- cuando puede usarse
-- que costo tiene
-- que condiciones reales del juego deben cumplirse
-- y que efecto produce si resuelve
+- cuándo puede usarse
+- qué costo tiene
+- qué condiciones reales del juego deben cumplirse
+- qué efecto produce si resuelve
 
-Cada Tecnica del juego deberia poder leerse con rapidez en mesa. Por eso, su
-bloque final presenta siempre la misma clase de informacion:
+El bloque de cada Técnica presenta siempre la misma información:
 
-- `Tipo - Categoria`
+- `Tipo - Categoría`
 - `Nombre`
 - `Rango de competencia`
 - `Flavor text`
 - `Rango`
-- `Area`
-- `Duracion`
+- `Área`
+- `Duración`
 - `Tirada principal`
-- `Salvacion`, si existe una tirada separada que anule el efecto
-- `Impacto`, si la Tecnica resuelve `I.R.` o un payload equivalente
+- `Salvación`, si existe una tirada separada que anule el efecto
+- `Impacto`, si la Técnica resuelve `I.R.` o un payload equivalente
 - `Ritmo`
 - `Desgaste`
 - `Requisitos`
@@ -50,15 +49,15 @@ bloque final presenta siempre la misma clase de informacion:
 
 ## Generalidades
 
-### Tipo y categoria
+### Tipo y categoría
 
-El **tipo** indica como entra la Tecnica en la escena:
+El **tipo** indica cómo entra la Técnica en la escena:
 
 - `Activa`
-- `Reaccion`
+- `Reacción`
 - `Pasiva`
 
-La **categoria** resume su uso principal:
+La **categoría** resume su uso principal:
 
 - `Ataque`
 - `Utilidad`
@@ -75,37 +74,15 @@ Buenos requisitos:
 - equipo requerido
 - estado requerido
 
-Si una condicion no es un mecanismo real del juego, normalmente no deberia
-aparecer aqui.
-
 ### Keywords
 
-Las **keywords** sirven para destacar informacion util que no este ya visible
-en el resto del bloque.
-
-No hace falta repetir:
-
-- `Reaccion` si ya aparece en `Tipo`
-- `Ataque` si ya aparece en `Categoria`
+Las **keywords** sirven para destacar información útil que no esté ya visible en el resto del bloque.
 
 ### Efecto
 
-El **efecto** debe decir con claridad:
+El **efecto** determina:
 
-- que pasa cuando la Tecnica entra en juego
-- que tirada se hace
-- que pasa si funciona
-- y que pasa si falla, cuando eso importe
-
----
-
-## Lista actual
-
-Las Tecnicas de esta seccion se presentan una por una con este formato.
-
-Entrada piloto actual:
-
-- `Cerrar la Línea`
-
-Con el tiempo, esta lista deberia crecer por especie, perfil y dominio de uso,
-pero todas las entradas deberian conservar la misma superficie de lectura.
+- qué pasa cuando la Técnica entra en juego
+- qué tirada se hace
+- qué pasa si funciona
+- qué pasa si falla

@@ -45,13 +45,13 @@
             </tr>
             <tr>
               <td><strong>Venenos</strong></td>
-              <td>1d10 + Resiliencia + Resist. Venenos + bon.</td>
+              <td>1d10 + Tenacidad + Resist. Venenos + bon.</td>
               <td>Leve → Moderado → Grave</td>
               <td>Hasta eliminar</td>
             </tr>
             <tr>
               <td><strong>Infecciones</strong></td>
-              <td>1d10 + Resiliencia + Resist. Infecciones + bon.</td>
+              <td>1d10 + Tenacidad + Resist. Infecciones + bon.</td>
               <td>Incubación → Leve → Moderado → Grave</td>
               <td>Hasta eliminar (contagio)</td>
             </tr>
@@ -75,6 +75,11 @@
           </div>
         </div>
         </div><!-- end agravios-overview -->
+        <p style="font-size: 0.7rem; margin-top: 0.5rem; color: var(--ink-mid, #555);">
+          <strong>Umbrales de aplicación por defecto</strong> (salvo que la entrada indique otra cosa) —
+          Leve: <strong>8 + NR</strong> · Moderado: <strong>13 + NR</strong> · Grave: <strong>17 + NR</strong>
+          <span style="font-size: 0.65rem;">(NR = nivel de rango de la fuente)</span>
+        </p>
       </section>
 
       <!-- Catálogo de Alteraciones -->
@@ -278,7 +283,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Aterrorizado Leve + Atrapado Leve.</span>
+                  <span>Pen. −3; fallo → Aterrorizado Moderado + Atrapado Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> detecta amenazas ocultas e intenciones disimuladas genuinas.</div>
               </div>
@@ -318,7 +323,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Confundido Leve + Desorientado Leve.</span>
+                  <span>Pen. −3; fallo → Confundido Moderado + Desorientado Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> percibe realidades superpuestas, ecos y huellas de presencias extranaturales.</div>
               </div>
@@ -346,7 +351,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Sobrecargado Leve.</span>
+                  <span>Pen. −3; fallo → Sobrecargado Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> escucha susurros ocultos, frecuencias extranaturales y comunicaciones entre entidades.</div>
               </div>
@@ -366,7 +371,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Ensordecido Leve.</span>
+                  <span>Pen. −3; fallo → Ensordecido Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> percibe vibraciones no acústicas: tensiones emocionales y presencias en el plano adyacente.</div>
               </div>
@@ -386,7 +391,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Paralizado Leve.</span>
+                  <span>Pen. −3; fallo → Paralizado Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> escucha ecos de otras realidades y movimientos en el plano adyacente.</div>
               </div>
@@ -434,7 +439,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; Prep.→0; fallo → Sobrecargado Leve.</span>
+                  <span>Pen. −3; Prep.→0; fallo → Sobrecargado Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> rastrea criaturas invisibles por olor; detecta presencias extranaturales activas en el área.</div>
               </div>
@@ -478,11 +483,11 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">M</span>
-                  <span>Fallo: consume materia orgánica contaminada → Infección Leve.</span>
+                  <span>Fallo: consume materia orgánica contaminada → Infección Moderado.</span>
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Fallo: consume material tóxico/cáustico → Infección Leve + Veneno Leve.</span>
+                  <span>Fallo: consume material tóxico/cáustico → Infección Moderado + Veneno Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> recibe fragmentos de visión o memoria residual del material consumido.</div>
               </div>
@@ -550,7 +555,7 @@
                 </div>
                 <div class="intensity-line">
                   <span class="intensity-label">G</span>
-                  <span>Pen. −3; fallo → Impedido Leve.</span>
+                  <span>Pen. −3; fallo → Impedido Moderado.</span>
                 </div>
                 <div class="canal-line"><strong>Canal:</strong> siente corrientes en objetos; detecta propiedades ocultas y procedencias extranaturales al contacto.</div>
               </div>
@@ -593,13 +598,23 @@
               </tbody>
             </table>
 
-            <span class="ref-section-title">Riesgo por Kit de Medicina</span>
+            <span class="ref-section-title">Kit de Venenos — Aplicación segura</span>
             <table class="kit-risk-table">
-              <thead><tr><th>Nivel de Kit</th><th>Veneno tratable</th><th>Riesgo de fallo</th></tr></thead>
+              <thead><tr><th>Veneno</th><th>Sin kit correspondiente</th></tr></thead>
               <tbody>
-                <tr><td>Básico</td><td>Leve</td><td>Fallo no empeora</td></tr>
-                <tr><td>Avanzado</td><td>Leve / Moderado</td><td>Fallo puede escalar</td></tr>
-                <tr><td>Especializado</td><td>Cualquier severidad</td><td>Fallo estabiliza</td></tr>
+                <tr><td>Leve (común)</td><td>50% riesgo de autocontaminación</td></tr>
+                <tr><td>Moderado (raro)</td><td>75% riesgo de autocontaminación</td></tr>
+                <tr><td>Grave (excepcional)</td><td>100% riesgo de autocontaminación</td></tr>
+              </tbody>
+            </table>
+
+            <span class="ref-section-title">Kit de Medicina — Tratamiento</span>
+            <table class="kit-risk-table">
+              <thead><tr><th>Kit</th><th>Trata</th></tr></thead>
+              <tbody>
+                <tr><td>Básico</td><td>Venenos comunes (Leve)</td></tr>
+                <tr><td>Avanzado</td><td>Venenos raros (hasta Moderado)</td></tr>
+                <tr><td>Especializado</td><td>Venenos excepcionales (hasta Grave)</td></tr>
               </tbody>
             </table>
 

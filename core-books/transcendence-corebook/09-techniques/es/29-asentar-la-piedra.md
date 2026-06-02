@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Asentar la Piedra
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -33,7 +33,7 @@ related:
 
 ## Requisitos
 
-- Perfil de arma: `Bastión`.
+- Perfil de escudo: `Bastión`
 
 ## Keywords
 

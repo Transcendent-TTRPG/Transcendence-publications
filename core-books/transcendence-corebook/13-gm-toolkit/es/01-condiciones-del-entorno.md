@@ -58,7 +58,7 @@ Una presencia hostil puede pertenecer a cualquiera de los dos grupos. Un enemigo
 
 Los marcadores observables son señales de esta presencia, no su definición. Estados físicamente contradictorios en el mismo punto — fuego y hielo activos a la vez, Luz y Oscuridad simultáneas con efectos físicos propios — indican filtración directa e intensa del Limbo. Pero no toda condición extranatural produce contradicciones visibles; puede manifestarse como una amplificación o transformación de algo que ya existe en el mundo natural.
 
-> El suelo no cedía ni se hundía — simplemente no respondía al peso con la resistencia esperada. El sonido llegaba después, con un leve retraso constante. Nada en el paisaje había cambiado. Solo ese desfase entre lo que ocurría y lo que el cuerpo anticipaba que ocurriría.
+> El suelo no cedía ni se hundía — no respondía al peso con la resistencia esperada. El sonido llegaba después, con un leve retraso constante. Nada en el paisaje había cambiado. Solo ese desfase entre lo que ocurría y lo que el cuerpo anticipaba que ocurriría.
 
 ---
 
@@ -175,4 +175,4 @@ Las especializaciones aplicables a condiciones hostiles o extranaturales — Per
 
 ## Ejemplo
 
-Un grupo cruza un puente arruinado durante una tormenta mientras una criatura descomunal se mueve bajo la estructura. El viento, la superficie mojada y el equilibrio precario no crean un subsistema aparte; informan el umbral que asigna el Narrador. Si la amenaza principal es la tormenta, la condición puede ser Moderada o Severa. Si la presión dominante pasa a ser la presencia de la criatura, el nivel puede subir aunque el clima no cambie. Si además la estructura se deforma de formas que no corresponden a su tensión material y el sonido llega desfasado, la condición es extranatural.
+Un grupo cruza un puente arruinado durante una tormenta mientras una criatura descomunal se mueve bajo la estructura. El viento, la superficie mojada y el equilibrio precario no crean un subsistema aparte; informan el umbral que asigna el Narrador. Si la amenaza principal es la tormenta, la condición puede ser Moderada o Severa. Si la presión dominante pasa a ser la presencia de la criatura, el nivel puede subir aunque el clima no cambie. Si la estructura se deforma de formas que no corresponden a su tensión material y el sonido llega desfasado, la condición es extranatural.

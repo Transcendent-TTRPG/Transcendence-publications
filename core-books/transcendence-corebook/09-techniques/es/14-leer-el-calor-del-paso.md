@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Leer el Calor del Paso
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -42,6 +42,8 @@ related:
 
 ## Efecto
 
-Realiza una tirada de especialización con `Percepción`. La técnica integra todos los canales sensoriales disponibles — calor corporal, aliento, vibración, postura, olor, residuo de movimiento, presión en el espacio — como una sola lectura simultánea de la criatura o del espacio que ocupó recientemente.
+Realiza `T.E. (Percepción)`. La técnica integra todos los canales sensoriales disponibles — calor corporal, aliento, vibración, postura, olor, residuo de movimiento, presión en el espacio — como una sola lectura simultánea de la criatura o del espacio que ocupó recientemente.
+
+Si fallas, no se revela nada.
 
 Si tienes éxito, el Narrador proporciona una verdad inmediata sobre el estado o la intención de la criatura: si se aproxima, huye, rodea, o espera; si está herida, agotada o físicamente limitada; si está a punto de atacar, retroceder, o intentar ocultarse; o hacia dónde continuó una señal viva reciente.

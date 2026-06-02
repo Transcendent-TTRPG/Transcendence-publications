@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Robar el Ángulo
+
+### Activo - Ataque
 
 **Rango Novato**
 
 *El arma no cambia de lado. Hace que el lado cambie de sentido.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 
@@ -41,10 +41,10 @@ related:
 
 ## Efecto
 
-Realizas una `T.A.` contra un objetivo.
+Realiza una `T.A.` contra un objetivo.
 
 Si tienes éxito, puedes desplazarte hasta `1` metro alrededor del objetivo, dentro del alcance de tu arma, sin provocar reacciones de ese objetivo.
 
-Además, el objetivo sufre una penalización igual a tu bonificador de rango con el arma usada en la próxima acción que realice contra ti.
+El objetivo sufre una penalización igual a tu bonificador de rango con el arma usada en la próxima acción que realice contra ti.
 
 Si fallas, no realizas el desplazamiento ni aplicas la penalización.

@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Nublar la Señal
+
+### Activo - Utilidad
 
 **Rango Novato**
 
 *No hace falta cegar: basta ensuciar el canal que decide.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Hasta limpiar | `T.A.` |
 
@@ -33,18 +33,18 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Corrosion`
+- Arma con perfil `Corrosión`
 - `Kit de Munición`
 - Canal sensorial identificado
 
 ## Keywords
 
-- `Corrosion`
+- `Corrosión`
 - `Kit de Munición`
 
 ## Efecto
 
-Declara un canal sensorial o punto de lectura expuesto del objetivo. Realizas una `T.A.` con `-2` contra su `T.D.` para fijar el residuo en ese punto.
+Declara un canal sensorial o punto de lectura expuesto del objetivo. Realiza una `T.A.` con `-2` contra su `T.D.` para fijar el residuo en ese punto.
 
 Si no superas su `T.D.`, el residuo no se aplica.
 

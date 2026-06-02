@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Cerrar la Compuerta
+
+### Activo - Utilidad
 
 **Rango Novato**
 
-*No cubres cuerpos. Cierras los caminos por donde el golpe tendría que pasar.*
+*El paso está cerrado antes de que alguien decida cruzarlo.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ related:
 
 ## Requisitos
 
-- Perfil de arma: `Control de Línea`
+- Perfil de escudo: `Control de Línea`
 - Debes permanecer en tu posición mientras la postura esté activa
 
 ## Keywords

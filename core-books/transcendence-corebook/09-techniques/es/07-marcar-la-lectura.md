@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Marcar la Lectura
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -44,14 +44,8 @@ related:
 
 ## Efecto
 
-Realizas una `T.A.` con una munición preparada desde tu `Kit de Munición` para
-dejar una marca visible, olfativa, luminosa o equivalente. Si el objetivo
-supera su `T.D.`, la marca no se aplica.
+Realiza una `T.A.` con una munición preparada desde tu `Kit de Munición` para dejar una marca visible, olfativa, luminosa o equivalente. Si el objetivo supera su `T.D.`, la marca no se aplica.
 
 Si la técnica resuelve con éxito, el objetivo queda marcado hasta que utilice `Interactuar` para limpiar la marca o hasta que cruce una barrera fuera de tu alcance sensorial.
 
-Mientras siga marcado, su movimiento inmediato, la cobertura, la
-oscuridad, el humo, el amontonamiento o un intento rápido de perderse no
-vuelven ambigua su ruta para ti. Si se mueve o intenta ocultarse, sabes qué
-ruta, cobertura, vano o línea de escondite tomó mientras la marca siga dentro
-de tu alcance sensorial.
+Mientras siga marcado, su movimiento inmediato, la cobertura, la oscuridad, el humo, el amontonamiento o un intento rápido de perderse no vuelven ambigua su ruta para ti. Si se mueve o intenta ocultarse, sabes qué ruta, cobertura, vano o línea de escondite tomó mientras la marca siga dentro de tu alcance sensorial.

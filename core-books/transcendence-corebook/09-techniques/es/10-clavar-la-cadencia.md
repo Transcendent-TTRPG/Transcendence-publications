@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reaccion - Ataque
-
 # Clavar la Cadencia
+
+### Reacción - Ataque
 
 **Rango Novato**
 
 *No hace falta detener el avance; basta con romperle el ritmo.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 

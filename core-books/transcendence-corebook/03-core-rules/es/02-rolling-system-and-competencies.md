@@ -356,7 +356,7 @@ No toda acción enseña. Para que exista progreso, la situación debe exigir alg
 
 Las competencias marciales progresan cuando el personaje enfrenta adversarios de dificultad adecuada y pone su entrenamiento en práctica.
 
-En el caso de armas, el personaje debe usar Ventaja en el Aprendizaje, atacar, impactar y causar daño efectivo a una criatura cuyo nivel sea al menos igual al NR del personaje -1.
+En el caso de armas, el personaje debe usar Ventaja en el Aprendizaje, atacar, impactar y causar daño efectivo a una criatura cuyo nivel sea al menos `NR − 1`.
 
 #### Evasión, armadura y escudo
 

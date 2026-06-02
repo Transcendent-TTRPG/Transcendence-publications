@@ -28,7 +28,7 @@ Cuando una especialización tenga un procedimiento base propio, su entrada lo in
 
 Cuando la prueba no se enfrenta a otra criatura ni a una defensa definida por otra regla, el punto de partida no es una dificultad inventada desde cero para ese gesto aislado. La base es la condición del entorno o de la escena. Distancia, tamaño, apoyo, visibilidad o estabilidad ajustan ese valor; no lo reemplazan.
 
-Los modificadores locales deben mantenerse cortos y legibles. En este catálogo, `-1` representa una traba menor, `-2` una traba clara y `-3` una traba local severa. Como cada nivel de dificultad sube en bloques de `3`, un `-3` ya equivale a empujar la prueba un nivel completo. Si una situación pidiera más que eso, normalmente la condición de escena debería subir o la acción debería quedar limitada.
+Los modificadores locales deben mantenerse cortos y legibles. En este catálogo, `-1` representa una traba menor, `-2` una traba clara y `-3` una traba local severa. Como cada nivel de dificultad sube en bloques de `3`, un `-3` ya equivale a empujar la prueba un nivel completo. Si una situación pidiera más que eso, la condición de escena sube o la acción queda limitada.
 
 ## Índice breve
 
@@ -254,7 +254,7 @@ Las especializaciones de Agilidad expresan control fino del cuerpo y de sus part
 
 ### Acrobacias
 
-Acrobacias cubre maniobras corporales complejas: rodar, redirigir impulso, absorber caídas y atravesar espacios difíciles sin perder continuidad de movimiento. Se usa cuando el problema principal no es despegar con fuerza ni simplemente no perder el pie, sino coordinar el cuerpo entero en una secuencia dinámica.
+Acrobacias cubre maniobras corporales complejas: rodar, redirigir impulso, absorber caídas y atravesar espacios difíciles sin perder continuidad de movimiento. Se usa cuando el problema principal no es despegar con fuerza ni mantener el pie en el suelo, sino coordinar el cuerpo entero en una secuencia dinámica.
 
 Se distingue de Saltar y de Equilibrio. Saltar resuelve la salida explosiva. Equilibrio resuelve la estabilidad sostenida. Acrobacias empieza cuando el cuerpo debe encadenar movimiento complejo y seguir funcional dentro de él.
 
@@ -555,7 +555,7 @@ Se distingue de Orientación. Orientación resuelve el propio avance; Rastreo le
 
 La condición de escena fija el umbral base. La frescura de las huellas, el tipo de suelo, el clima y cualquier intento de ocultación ajustan ese valor.
 
-- Requiere un historial de paso realmente inscrito en el entorno.
+- Requiere un historial de paso inscrito en el entorno.
 - También requiere tiempo o continuidad suficiente para leer señales en vez de actuar a ciegas.
 
 #### Penalizadores comunes
@@ -665,7 +665,7 @@ La condición de escena fija el umbral base. La urgencia, la pobreza de recursos
 | --- | --- |
 | Recursos claramente inadecuados o escasos | -2 |
 | Tiempo mínimo o presión inmediata | -2 |
-| Solución que requiere además precisión técnica fina | -1 |
+| Solución que exige precisión técnica fina | -1 |
 | Fatiga | -1 por nivel de Fatiga |
 
 #### Reintentos
@@ -680,7 +680,7 @@ Un personaje intenta sellar una filtración con equipo no pensado para eso antes
 
 Hurto cubre adquirir un objeto o recurso ajeno sin confrontación directa, mediante oportunidad, distracción y ejecución suficiente para que la sustracción no sea percibida a tiempo. Se usa cuando la pregunta central no es si el personaje se mueve sin ser visto en general, sino si logra sacar algo de manos ajenas o de un espacio controlado.
 
-Se distingue de Destreza. Destreza da precisión manual; Hurto define la sustracción oportunista. También se separa de Sigilo, aunque pueda apoyarse en él cuando además hace falta no quedar registrado.
+Se distingue de Destreza. Destreza da precisión manual; Hurto define la sustracción oportunista. También se separa de Sigilo, aunque pueda apoyarse en él cuando hace falta no quedar registrado.
 
 #### Perfil mecánico
 
@@ -765,7 +765,7 @@ Se distingue de Intuición. Intuición infiere; Percepción detecta. También se
 
 La condición de escena fija el umbral base. La iluminación, la distancia, el ruido, la cobertura y la sutileza del detalle ajustan ese valor.
 
-- Requiere que el detalle exista realmente en la escena.
+- Requiere que el detalle exista en la escena.
 - También requiere línea sensorial o exposición suficiente para que pueda ser detectado.
 
 #### Penalizadores comunes

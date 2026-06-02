@@ -210,7 +210,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | --- | --- |
 | **Leve** | `T.D.` y `T.E.` de Agilidad sufren penalización igual al bonificador de rango de la fuente que aplicó Desequilibrado. |
 | **Moderado** | Leve, más: para correr, usar Reacciones o `T.E.` de Fuerza o Agilidad, debes superar primero una `T.E.` de Equilibrio contra la severidad original; si fallas, la `T.E.` no se resuelve. |
-| **Grave** | Moderado, más: si fallas esa `T.E.` de Equilibrio, quedas inmediatamente Derribado en lugar de simplemente perder el intento. |
+| **Grave** | Moderado, más: si fallas esa `T.E.` de Equilibrio, quedas inmediatamente Derribado en lugar de perder el intento. |
 
 ---
 
@@ -322,7 +322,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 | **Moderado** | No puedes realizar acciones. |
 | **Grave** | No puedes realizar acciones. |
 
-*La severidad gobierna principalmente la dificultad de aplicar, resistir o romper el estado. Usar Paralizado solo cuando la acción corporal significativa está realmente detenida; usar Atrapado para retención, Aturdido para activación perdida, e Impedido para ruptura de ejecución que deja al cuerpo aún activo.*
+*La severidad gobierna principalmente la dificultad de aplicar, resistir o romper el estado. Usar Paralizado solo cuando la acción corporal significativa está detenida; usar Atrapado para retención, Aturdido para activación perdida, e Impedido para ruptura de ejecución que deja al cuerpo aún activo.*
 
 ---
 

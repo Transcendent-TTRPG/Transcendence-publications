@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Leer el Propósito
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Visual | 1 Criatura | Instantáneo | T.E. (Arquitectura) |
+| Rango Sensorial | 1 Criatura | Instantáneo | T.E. (Arquitectura) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ related:
 
 ## Efecto
 
-Realiza una tirada de especialización con `Arquitectura` sobre una criatura visible en escena. La dificultad se establece por la categoría de la criatura:
+Realiza `T.E. (Arquitectura)` sobre una criatura visible en escena. La dificultad se establece por la categoría de la criatura:
 
 | Categoría | Dificultad |
 | --- | --- |
@@ -49,9 +49,9 @@ Realiza una tirada de especialización con `Arquitectura` sobre una criatura vis
 | Campeona | Rigurosa |
 | Elite | Exigente |
 
-Si tienes éxito, el Narrador declara la ubicación de un Punto Vital específico en esa criatura. El usuario recibe un bonificador igual a su rango de `Arquitectura` en todas las T.A y T.E dirigidas a ese Punto Vital.
+Si tienes éxito, el Narrador declara la ubicación de un Punto Vital específico en esa criatura. Recibes un bonificador igual a tu rango de `Arquitectura` en todas las T.A y T.E dirigidas a ese Punto Vital.
 
-El bonificador aplica únicamente al usuario — no se comparte con aliados — y persiste hasta que el Punto Vital es destruido o la criatura reubica sus puntos vitales.
+El bonificador aplica únicamente a ti — no se comparte con aliados — y persiste hasta que el Punto Vital es destruido o la criatura reubica sus puntos vitales.
 
 Si fallas, no se identifica ningún Punto Vital y no se otorga bonificador.
 

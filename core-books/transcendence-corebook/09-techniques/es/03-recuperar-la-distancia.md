@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Recuperar la Distancia
+
+### Activo - Ataque
 
 **Rango Novato**
 
 *Cuando el enemigo rompe la línea, la punta la dibuja de nuevo.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 
@@ -33,14 +33,12 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Perforacion`
+- Arma con perfil `Perforación`
 
 ## Keywords
 
-- `Perforacion`
+- `Perforación`
 
 ## Efecto
 
-Realizas una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes
-reposicionarte `1` metro para recuperar la distancia óptima de tu arma. Ese
-reposicionamiento no genera reacciones adicionales.
+Realiza una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes reposicionarte `1` metro para recuperar la distancia óptima de tu arma. Ese reposicionamiento no genera reacciones adicionales.

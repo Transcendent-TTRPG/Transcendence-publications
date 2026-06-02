@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Transcendence - Robar la Orilla</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+  </head>
+  <body>
+    <svg class="icon-defs" aria-hidden="true">
+      <symbol id="icon-tier" viewBox="0 0 24 24">
+        <path d="M5 18h14M7 14h10M9 10h6M11 6h2"></path>
+      </symbol>
+      <symbol id="icon-range" viewBox="0 0 24 24">
+        <path d="M4 12h16M15 7l5 5-5 5M4 7v10"></path>
+      </symbol>
+      <symbol id="icon-area" viewBox="0 0 24 24">
+        <path d="M5 5h6v6H5zM13 5h6v6h-6zM5 13h6v6H5zM13 13h6v6h-6z"></path>
+      </symbol>
+      <symbol id="icon-duration" viewBox="0 0 24 24">
+        <path d="M7 4h10M7 20h10M9 4c0 4 6 4 6 8s-6 4-6 8M15 4c0 4-6 4-6 8s6 4 6 8"></path>
+      </symbol>
+      <symbol id="icon-attack" viewBox="0 0 24 24">
+        <path d="M5 19L19 5M14 5h5v5M6 6l12 12"></path>
+      </symbol>
+      <symbol id="icon-impact" viewBox="0 0 24 24">
+        <path d="M12 3l2.2 6.2L21 8l-4.7 4.8L19 19l-7-2.8L5 19l2.7-6.2L3 8l6.8 1.2z"></path>
+      </symbol>
+      <symbol id="icon-rhythm" viewBox="0 0 24 24">
+        <path d="M4 14c4-8 8 8 12 0M18 5v14M15 8h6"></path>
+      </symbol>
+      <symbol id="icon-attrition" viewBox="0 0 24 24">
+        <path d="M12 3c4 5 6 8 6 12a6 6 0 0 1-12 0c0-4 2-7 6-12z"></path>
+      </symbol>
+    </svg>
+
+    <main class="card-sheet single-card-sheet" aria-label="Carta individual de técnica">
+      <article class="tech-card spectrum-weapon" data-card-id="zarnag-robar-la-orilla">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Robar la Orilla</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No es el golpe lo que importa. Es que después ya no está.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Hostigamiento.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Hostigamiento</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Hostigamiento. Con éxito, resuelve la T.I. y puedes reposicionarte hasta la mitad de tu Velocidad de Movimiento sin coste adicional de Ritmo.</p>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>

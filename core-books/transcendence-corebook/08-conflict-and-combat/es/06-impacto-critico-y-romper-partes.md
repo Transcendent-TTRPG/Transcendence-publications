@@ -248,7 +248,7 @@ El bloque del enemigo debe indicar:
 - qué habilidades dependen de ellas
 - qué ocurre cuando una parte se rompe
 
-Las criaturas importantes deberían organizarse en cinco lugares principales para que la mesa pueda leerlas sin perderse en anatomía excesiva.
+Las criaturas importantes se organizan en cinco partes principales.
 
 ---
 

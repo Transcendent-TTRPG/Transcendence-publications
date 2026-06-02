@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Vaciar el Blanco
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -34,7 +34,7 @@ related:
 ## Requisitos
 
 - Competencia defensiva: `Evasión`
-- Un enemigo ejecuta un ataque físico contra el usuario
+- Un enemigo ejecuta un ataque físico contra ti
 
 ## Keywords
 
@@ -42,9 +42,11 @@ related:
 
 ## Efecto
 
-Cuando un enemigo ejecuta un ataque físico contra el usuario, este puede declarar Vaciar el Blanco como respuesta.
+Cuando un enemigo ejecuta un ataque físico contra ti, puedes declarar esta técnica como respuesta.
 
-Si la T.D. tiene éxito, la próxima vez que el usuario deba realizar una T.A, T.R, T.C o T.E. contra dicho enemigo, recibe un bonificador a esa tirada igual a su rango de `Evasión`:
+Si la T.D. falla, el ataque se resuelve normalmente.
+
+Si la T.D. tiene éxito, la próxima vez que debas realizar una T.A., T.R., T.C. o T.E. contra dicho enemigo, recibes un bonificador a esa tirada igual a tu rango de `Evasión`:
 
 | Rango | Bonificador |
 | --- | --- |

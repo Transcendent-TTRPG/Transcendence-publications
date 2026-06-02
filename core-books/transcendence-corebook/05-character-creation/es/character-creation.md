@@ -244,7 +244,7 @@ Cada especialización inicial:
 Especialización inicial = nivel 1 / rango Novato
 ```
 
-Además, todo personaje recibe una especialización universal inicial de Tenacidad.
+Todo personaje recibe una especialización universal inicial de Tenacidad.
 
 Elige una:
 
@@ -356,7 +356,7 @@ La especialización universal inicial de Tenacidad ya está incluida indirectame
 
 ### Cordura
 
-La Cordura mide la estabilidad mental y anímica base del personaje frente a presión extrema, horror, corrupción o efectos que ataquen su equilibrio interno.
+La Cordura mide la estabilidad mental y anímica del personaje frente a presión extrema, horror, corrupción o efectos que ataquen su equilibrio interno.
 
 ```text
 Cordura = 3 + (Compostura × 2)

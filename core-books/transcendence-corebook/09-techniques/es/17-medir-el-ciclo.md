@@ -16,9 +16,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Medir el Ciclo
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -26,7 +26,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Visual | 1 ciclo autónomo | Instantáneo | T.E. (Astronomía) |
+| Rango Sensorial | 1 ciclo autónomo | Instantáneo | T.E. (Astronomía) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ related:
 
 ## Efecto
 
-Realiza una tirada de especialización con `Astronomía` sobre un ciclo autónomo visible en el ATB. La dificultad se establece por el número total de ciclos autónomos activos en el ATB en ese momento:
+Realiza `T.E. (Astronomía)` sobre un ciclo autónomo visible en el ATB. La dificultad se establece por el número total de ciclos autónomos activos en el ATB en ese momento:
 
 | Ciclos activos | Dificultad |
 | --- | --- |
@@ -53,10 +53,10 @@ Realiza una tirada de especialización con `Astronomía` sobre un ciclo autónom
 | 4 | Exigente |
 | 5 | Extrema |
 
-Si tienes éxito, el Narrador declara el costo de Ritmo de las próximas N activaciones de ese ciclo, donde N es igual al rango actual de `Astronomía` del usuario. En Rango 1, se declara una activación; en Rango 2, dos; y así sucesivamente para el mismo ciclo objetivo.
+Si tienes éxito, el Narrador declara el costo de Ritmo de las próximas N activaciones de ese ciclo, donde N es igual a tu rango actual de `Astronomía`. En Rango 1, se declara una activación; en Rango 2, dos; y así sucesivamente para el mismo ciclo objetivo.
 
-El usuario además recibe un bonificador igual a su rango de `Astronomía` en todas las tiradas de salvación resultantes de las activaciones declaradas de ese ciclo.
+Recibes un bonificador igual a tu rango de `Astronomía` en todas las tiradas de salvación resultantes de las activaciones declaradas de ese ciclo.
 
 Si fallas, no se revela información y no se otorga bonificador.
 
-La información no altera el ciclo ni retrasa su activación. No impide que el efecto ocurra. El bonificador aplica únicamente a las tiradas de salvación del usuario — no a tiradas de ataque, especialización, o impacto.
+La información no altera el ciclo ni retrasa su activación. No impide que el efecto ocurra. El bonificador aplica únicamente a tus tiradas de salvación — no a tiradas de ataque, especialización, o impacto.

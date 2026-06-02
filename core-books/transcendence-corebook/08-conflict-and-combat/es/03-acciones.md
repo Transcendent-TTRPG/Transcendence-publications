@@ -104,8 +104,6 @@ Ejemplos:
 
 Una acción no es gratuita solo porque parece pequeña. Si cambia la escena de forma importante, exige precisión bajo presión, sustituye una Acción Activa o se repite para generar ventajas sin costo, el Narrador puede asignarle costo de ritmo, Desgaste o ambos.
 
-Las Acciones Gratuitas existen para mantener fluidez, no para multiplicar efectos sin costo.
-
 ---
 
 ## Costos de ritmo
@@ -121,9 +119,6 @@ Los costos de ritmo indican cuánto se desplaza la ficha de la criatura en la l�
 | Variable | Definido por la regla, Técnica o efecto |
 
 El costo de ritmo no siempre mide duración física. También mide recuperación, exposición, compromiso y pérdida de oportunidad dentro del combate.
-
-Algunas acciones y Técnicas también pueden usar valores intermedios como `6` u
-`8` cuando realmente caen entre dos anclas de sensación de juego.
 
 ---
 

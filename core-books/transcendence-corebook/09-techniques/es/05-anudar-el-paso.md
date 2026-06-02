@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reaccion - Utilidad
-
 # Anudar el Paso
+
+### Reacción - Utilidad
 
 **Rango Novato**
 
@@ -33,16 +33,12 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Torsion`
+- Arma con perfil `Torsión`
 
 ## Keywords
 
-- `Torsion`
+- `Torsión`
 
 ## Efecto
 
-Cuando un enemigo que ya esta dentro del alcance de tu perfil intenta
-retirarse, haces una `T.A.`. Si aciertas, el
-enemigo permanece en su posicion disputada o en la posicion valida mas cercana
-que todavia lo deja dentro del alcance de tu perfil. Si fallas, completa su
-movimiento normalmente.
+Cuando un enemigo que ya está dentro del alcance de tu perfil intenta retirarse, realiza una `T.A.`. Si aciertas, el enemigo permanece en su posición disputada o en la posición válida más cercana que todavía lo deja dentro del alcance de tu perfil. Si fallas, completa su movimiento normalmente.

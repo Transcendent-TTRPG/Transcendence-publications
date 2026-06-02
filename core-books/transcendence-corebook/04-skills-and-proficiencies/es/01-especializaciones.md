@@ -214,7 +214,7 @@ El Narrador valida si la especialización declarada corresponde a la acción rea
 
 El jugador debe explicar cómo usa esa especialización en la escena. Si la justificación no coincide con el dominio declarado, la tirada puede resolverse con otra especialización, con una Tirada de Característica o sin posibilidad de progreso.
 
-Un personaje no puede usar Trampas para analizar el comportamiento de una criatura solo porque quiere progresar Trampas. Debe haber una relación concreta entre la acción y el dominio usado.
+Un personaje no puede usar Trampas para analizar el comportamiento de una criatura solo para acumular progreso en Trampas. Debe haber una relación concreta entre la acción y el dominio usado.
 
 El dominio practicado debe reflejar la acción real.
 

@@ -247,12 +247,12 @@ El tratamiento no ocurre solo porque pasen 8 horas. La Herida debe estar estabil
 
 Si el tratamiento tiene éxito, el paciente libera `1` Ranura de Herida de esa Zona.
 
-| Descanso | Puede estabilizar | Puede tratar | Puede liberar ranuras |
-| --- | --- | --- | ---: |
-| 15 minutos | No por regla base | No | 0 |
-| 30 minutos | Herida Leve | No | 0 |
-| 60 minutos | Herida Grave | No | 0 |
-| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | Sí, con Medicina | 1 ranura por personaje tratado |
+| Descanso | Puede estabilizar | Puede liberar ranuras |
+| --- | --- | ---: |
+| 15 minutos | No por regla base | No |
+| 30 minutos | Herida Leve | No |
+| 60 minutos | Herida Grave | No |
+| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | 1 ranura con T.E. Medicina exitosa |
 
 Las reglas completas de dificultad, kits y ajuste por ranuras ocupadas están en **Heridas y Daño**.
 
@@ -338,7 +338,7 @@ Cuando el grupo descansa en un lugar inseguro, incierto o activamente hostil, el
 
 ## Cuándo tirar riesgo
 
-La tirada de riesgo no debe hacerse siempre por costumbre. Debe usarse cuando descansar realmente expone al grupo a consecuencias.
+La tirada de riesgo no debe hacerse siempre por costumbre. Debe usarse cuando descansar expone al grupo a consecuencias.
 
 Esto incluye situaciones como:
 

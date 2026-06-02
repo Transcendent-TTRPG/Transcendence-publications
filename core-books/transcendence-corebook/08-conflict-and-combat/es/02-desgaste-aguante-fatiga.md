@@ -225,7 +225,7 @@ Durante una escena hostil, el personaje registra el Desgaste acumulado y calcula
 
 Esa Fatiga todavía está **proyectada**.
 
-Esto significa que el personaje está forzando su margen, pero la penalización completa no se asienta mientras la adrenalina, la urgencia o el peligro inmediato sigan sosteniendo su rendimiento.
+El personaje está forzando su margen, pero la penalización completa no se asienta mientras la adrenalina, la urgencia o el peligro inmediato sigan sosteniendo su rendimiento.
 
 Durante el combate, la Fatiga se proyecta.
 

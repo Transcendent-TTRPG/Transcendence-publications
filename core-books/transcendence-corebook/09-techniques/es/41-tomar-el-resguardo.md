@@ -15,13 +15,13 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Tomar el Resguardo
+
+### Activo - Utilidad
 
 **Rango Novato**
 
-*La piedra recuerda la presión — y con ella, exactamente qué ángulo rompería el golpe.*
+*El resguardo no se crea — estaba esperando que alguien lo nombrara.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |

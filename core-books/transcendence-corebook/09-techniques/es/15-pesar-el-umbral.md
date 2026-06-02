@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Utilidad
-
 # Pesar el Umbral
+
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -44,11 +44,9 @@ related:
 
 ## Efecto
 
-Realiza una tirada de especialización con `Sigilo` desde tu posición oculta contra una criatura a 4 metros o menos. Si tienes éxito, el objetivo realiza inmediatamente una `R.R. (Alt.)` contra `Aterrorizado`.
+Realiza `T.E. (Sigilo)` desde tu posición oculta contra una criatura a 4 metros o menos. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `R.R. (Alt.)` contra `Aterrorizado`.
 
-El objetivo no te ve. Registra que algo muy cercano lleva suficiente tiempo en esa posición como para saber exactamente cuándo actuar.
-
-**Severidad por rango del usuario:**
+**Severidad por tu rango de `Sigilo`:**
 
 | Rango | Severidad |
 | --- | --- |
@@ -58,4 +56,4 @@ El objetivo no te ve. Registra que algo muy cercano lleva suficiente tiempo en e
 
 Si la `R.R.` falla, el objetivo gana `Aterrorizado` a esa severidad. Si tiene éxito, el miedo no se asienta.
 
-Esta técnica no funciona si el objetivo no tiene instinto de autopreservación relevante, ni en campo abierto donde el usuario está completamente expuesto y registrado como presencia visible.
+Esta técnica no funciona si el objetivo no tiene instinto de autopreservación relevante, ni en campo abierto donde estás completamente expuesto y visible.

@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Reactivo - Utilidad
-
 # Fijar el Umbral
+
+### Reactivo - Utilidad
 
 **Rango Novato**
 
@@ -34,7 +34,7 @@ related:
 ## Requisitos
 
 - Competencia: `Agarre` (Rango Novato o superior)
-- Usuario en rango cuerpo a cuerpo con el objetivo
+- En rango cuerpo a cuerpo con el objetivo
 
 ## Keywords
 
@@ -42,11 +42,11 @@ related:
 
 ## Efecto
 
-Cuando un enemigo en rango cuerpo a cuerpo intenta moverse, desengancharse, retirarse, o pasar por la posición del usuario, puede declarar Fijar el Umbral como respuesta. Esta técnica puede declararse incluso contra movimiento que declare explícitamente que no provoca reacciones.
+Cuando un enemigo en rango cuerpo a cuerpo intenta moverse, desengancharse, retirarse, o pasar por tu posición, puedes declarar esta técnica como respuesta. Puedes declararla incluso contra movimiento que declare explícitamente que no provoca reacciones.
 
 Realiza una T.E. con `Agarre` contra el objetivo. Si fallas, la técnica falla y el movimiento se resuelve normalmente.
 
-Si tienes éxito, el objetivo debe realizar una Tirada de Resistencia de Alteraciones para evitar quedar `Atrapado`. La severidad se establece por el rango de `Agarre` del usuario:
+Si tienes éxito, el objetivo debe realizar una Tirada de Resistencia de Alteraciones para evitar quedar `Atrapado`. La severidad se establece por tu rango de `Agarre`:
 
 - Rangos 1–2: Menor
 - Rangos 3–4: Moderado

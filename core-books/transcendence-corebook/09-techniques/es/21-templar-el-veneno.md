@@ -15,9 +15,9 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Pasivo - Utilidad
-
 # Templar el Veneno
+
+### Pasivo - Utilidad
 
 **Rango Novato**
 
@@ -44,7 +44,7 @@ related:
 
 ## Efecto
 
-Cuando una aflicción de la familia Veneno se asienta sobre el usuario, realiza una T.E. con `Tolerancia`. La dificultad la fija la severidad del veneno.
+Cuando una aflicción de la familia Veneno se asienta sobre ti, realiza una T.E. con `Tolerancia`. La dificultad la fija la severidad del veneno.
 
 Si tienes éxito, reduce la severidad final asentada en un paso:
 

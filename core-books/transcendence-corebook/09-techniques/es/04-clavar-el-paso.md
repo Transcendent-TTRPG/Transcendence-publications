@@ -15,15 +15,15 @@ related:
   - core-books/transcendence-corebook/09-techniques/es/01-superficie-de-juego-y-ejemplo-piloto.md
 ---
 
-### Activo - Ataque
-
 # Clavar el Paso
+
+### Activo - Ataque
 
 **Rango Novato**
 
 *La lanza no pide alcance: lo toma.*
 
-| Rango | Area | Duracion | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Arma | 1 criatura | Instantáneo | `T.A.` |
 
@@ -33,15 +33,12 @@ related:
 
 ## Requisitos
 
-- Arma con perfil `Perforacion`
+- Arma con perfil `Perforación`
 
 ## Keywords
 
-- `Perforacion`
+- `Perforación`
 
 ## Efecto
 
-Avanza hasta `2` metros hacia el objetivo como parte de esta accion, sin
-gastar una accion de movimiento separada, y luego realizas una `T.A.` desde tu
-nueva posicion. Si aciertas, resuelves
-`T.I.` normalmente.
+Avanza hasta `2` metros hacia el objetivo como parte de esta acción, sin gastar una acción de movimiento separada, y luego realiza una `T.A.` desde tu nueva posición. Si aciertas, resuelves `T.I.` normalmente.
