@@ -34,19 +34,15 @@ related:
 ## Requisitos
 
 - Perfil: `Control de Línea`
-- El desencadenante es desplazamiento físico forzado o pérdida de estabilidad física.
+- Desplazamiento físico forzado o pérdida de estabilidad física.
 
 ## Keywords
 
 - `Control de Línea`
 
-## Desencadenante
-
-Serías empujado, arrastrado, desplazado por un efecto físico, o forzado a resistir `Derribado` o `Desequilibrado` por impacto, barrido, colisión, pérdida de apoyo, pérdida de impulso, o suelo inestable que tu superficie portadora de perfil pueda oponerse físicamente.
-
 ## Efecto
 
-Cuando el desencadenante ocurre, reduce el desplazamiento forzado en metros igual a `1 + el valor de tu rango de competencia`.
+Cuando serías empujado, arrastrado, desplazado por un efecto físico, o forzado a resistir `Derribado` o `Desequilibrado` por impacto, barrido, colisión, pérdida de apoyo, pérdida de impulso, o suelo inestable que tu superficie portadora de perfil pueda oponerse físicamente, reduce el desplazamiento forzado en metros igual a `1 + el valor de tu rango de competencia`.
 
 Si esa reducción lleva el desplazamiento a `0`, permaneces en tu espacio actual y conservas cualquier efecto de punto sostenido, guardia, postura, ruta o posición corporal que habría terminado únicamente por haber sido desplazado.
 
