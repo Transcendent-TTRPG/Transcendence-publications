@@ -157,7 +157,7 @@ Los Drak'kai no tienen variantes biológicas. Todos los personajes Drak'kai tien
 | --- | --- | --- | --- | --- | --- |
 | Fuerza | Tenacidad | 1 m | d6 | 3 × rango | 4 × rango |
 
-**Perfiles:** Control de Línea · Intercepción · Torsión · Interrupción
+**Perfiles:** Desvío · Intercepción · Torsión · Interrupción
 
 **Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Impedido.
 
