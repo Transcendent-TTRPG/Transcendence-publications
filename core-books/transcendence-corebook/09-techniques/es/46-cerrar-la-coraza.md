@@ -32,12 +32,11 @@ related:
 
 ## Requisitos
 
-- Competencia: `Armadura intermedia` o `Armadura pesada` (Rango Novato o superior)
-- Llevar al menos 3 piezas de `Armadura intermedia` o `Armadura pesada` equipadas
+- Competencia: `Armadura pesada` (Rango Novato o superior)
+- Llevar al menos 3 piezas de `Armadura pesada` equipadas
 
 ## Keywords
 
-- `Armadura intermedia`
 - `Armadura pesada`
 
 ## Efecto
