@@ -43,7 +43,7 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Torsión` contra el objetivo. Si impacta, el objetivo realiza una T.R. (Alteraciones) contra `Desarmado`: si falla, suelta el arma u objeto designado a la severidad determinada por tu rango de competencia.
+Realiza una T.A. con tu perfil de `Torsión` contra el objetivo. Si impacta, el objetivo realiza una T.R. (Alteraciones) contra `Desarmado`: si falla, queda `Desarmado` a la severidad determinada por tu rango de competencia.
 
 | Rango | Severidad |
 | --- | --- |
