@@ -196,6 +196,26 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ---
 
+## Desarmado
+
+*El arma cae antes de que la mano entienda lo que pasó.*
+
+**Aplicación:** Rotación forzada sobre la articulación de agarre, disrupción por dolor o presión estructural sobre la mano o extremidad sostenedora u otra fuente que supera el umbral de agarre de forma creíble.
+
+**Duración:** Hasta recuperar el ítem.
+
+**Recuperación:** Termina cuando el objetivo recupera el arma u objeto caído. Recuperarlo requiere una acción de movimiento. Si otra criatura toma el ítem primero, no puede recuperarse por esta vía.
+
+| Severidad | Efectos |
+| --- | --- |
+| **Leve** | El arma u objeto designado cae en el espacio del objetivo. El objetivo no puede usarlo hasta recuperarlo. |
+| **Moderado** | El arma u objeto designado cae en el espacio del objetivo. El objetivo no puede usarlo hasta recuperarlo. |
+| **Grave** | Moderado, más: el agarre sobre otros ítems sostenidos se trata como inestable hasta que el estado termina. |
+
+*La severidad gobierna principalmente la dificultad de resistir la aplicación, no el estado una vez que el ítem ha caído.*
+
+---
+
 ## Desequilibrado
 
 *El equilibrio siempre tuvo un precio. Ahora se cobra.*
