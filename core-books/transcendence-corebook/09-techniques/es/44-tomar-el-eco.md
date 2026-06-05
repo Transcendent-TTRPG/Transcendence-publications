@@ -24,7 +24,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| 10m | 1 Criatura, Superficie u Objeto | Permanente | T.E. (Resonancia) |
+| 10m | 1 Criatura, Superficie u Objeto | Instantáneo | T.E. (Resonancia) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -52,9 +52,9 @@ Si la fuente suprime activamente su señal, el Narrador puede solicitar una tira
 
 Con éxito, elige uno:
 
-- **Posición:** si la fuente está oculta o posicionalmente incierta, detectas su posición exacta. Mientras dure la lectura, no puede valerse de ocultación visual contra ti. Termina si cambia de zona, sella su señal o cruza una barrera sellada.
+- **Posición:** si la fuente está oculta o posicionalmente incierta, detectas su posición exacta en ese momento.
 
-- **Ruta:** el Narrador revela qué ruta o zona sigue la señal verdadera si la fuente se desplazó por varias rutas posibles. Termina cuando la fuente se compromete con su siguiente movimiento.
+- **Ruta:** el Narrador revela qué ruta o zona sigue la señal verdadera en ese momento si la fuente se desplazó por varias rutas posibles.
 
 - **Estado:** el Narrador revela una verdad inmediata sobre la señal: si está activa o dormida, si es reciente o antigua, si crece o ya declina. Inmediato.
 

@@ -46,7 +46,9 @@ No todo descanso ofrece la misma recuperación. Una pausa breve puede devolver a
 
 Durante una escena hostil, el personaje acumula **Desgaste**.
 
-Mientras la escena sigue activa, ese Desgaste genera **Fatiga proyectada**. Cuando la escena termina o baja claramente de intensidad, esa Fatiga se asienta y el Desgaste acumulado de la escena se elimina, salvo que una regla específica indique lo contrario.
+Mientras la escena sigue activa, ese Desgaste puede completar umbrales de **Aguante** y traducirse en **Fatiga proyectada**. Las casillas de Desgaste usadas para completar cada umbral se borran en ese momento. Si quedan casillas de Desgaste que no alcanzan a completar un nuevo umbral, permanecen marcadas como remanente.
+
+Cuando la escena termina o baja claramente de intensidad, la Fatiga proyectada se convierte en Fatiga asentada. El Desgaste remanente que no llegó a convertirse en Fatiga proyectada no se elimina por defecto: sigue marcado y sirve como punto de partida para la siguiente escena hostil.
 
 El descanso no existe para borrar una cuenta infinita de Desgaste. Existe para reducir la **Fatiga asentada** y permitir que el personaje recupere funcionalidad.
 
@@ -54,8 +56,8 @@ En resumen:
 
 | Momento | Qué ocurre |
 | --- | --- |
-| Durante la escena | El personaje acumula Desgaste y calcula Fatiga proyectada |
-| Al terminar la escena | La Fatiga proyectada se convierte en Fatiga asentada |
+| Durante la escena | El personaje acumula Desgaste, completa umbrales y genera Fatiga proyectada |
+| Al terminar la escena | La Fatiga proyectada se convierte en Fatiga asentada; el Desgaste remanente sigue marcado |
 | Durante el descanso | El personaje puede reducir Fatiga asentada y realizar tareas de recuperación |
 
 ---
@@ -225,17 +227,17 @@ La Fatiga no puede bajar de `0`.
 
 ---
 
-### 2. Recuperación de Desgaste persistente
+### 2. Recuperación de Desgaste remanente
 
-Algunas reglas específicas pueden hacer que cierto Desgaste persista más allá de una escena, en lugar de convertirse normalmente en Fatiga asentada.
+El Desgaste que no alcanzó a convertirse en Fatiga proyectada puede seguir marcado entre escenas.
 
-Si un personaje conserva Desgaste persistente por una regla específica, un Descanso Completo reduce ese Desgaste en una cantidad igual a:
+Un Descanso Completo reduce ese Desgaste remanente en una cantidad igual a:
 
 ```text
 2 × Aguante
 ```
 
-Si no existe Desgaste persistente, este paso no se aplica.
+Si el personaje no tiene Desgaste remanente marcado, este paso no se aplica.
 
 ---
 

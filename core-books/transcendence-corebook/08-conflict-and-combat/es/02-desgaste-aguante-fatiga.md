@@ -217,17 +217,30 @@ La Fatiga puede reflejar:
 
 La Fatiga se maneja en dos momentos: mientras la escena sigue activa y cuando la escena termina.
 
+En mesa, el Desgaste se registra en casillas. Esas casillas no se borran cada vez que cambia la escena ni se vacían por defecto al terminar un combate.
+
+La lógica es esta:
+
+- marcas casillas de **Desgaste** cada vez que una acción te lo haga ganar;
+- cuando completas un umbral de **Aguante**, esas casillas se convierten en `1` nivel de **Fatiga proyectada**;
+- las casillas usadas para completar ese umbral se borran en ese momento;
+- si quedan casillas que no alcanzan un nuevo umbral, permanecen marcadas como Desgaste remanente;
+- cuando la escena hostil termina, la **Fatiga proyectada** se borra y pasa a **Fatiga asentada**;
+- el Desgaste remanente que no llegó a convertirse en Fatiga proyectada sigue marcado y sirve como punto de partida para la siguiente escena hostil.
+
 ---
 
 ### Fatiga proyectada
 
-Durante una escena hostil, el personaje registra el Desgaste acumulado y calcula qué nivel de Fatiga tendría si la escena terminara en ese momento.
+Durante una escena hostil, el personaje registra el Desgaste que va marcando en sus casillas y calcula qué nivel de Fatiga tendría si la escena terminara en ese momento.
 
 Esa Fatiga todavía está **proyectada**.
 
 El personaje está forzando su margen, pero la penalización completa no se asienta mientras la adrenalina, la urgencia o el peligro inmediato sigan sosteniendo su rendimiento.
 
 Durante el combate, la Fatiga se proyecta.
+
+La Fatiga proyectada no aplica todavía los efectos de Fatiga. Solo registra cuántos umbrales de Aguante ya fueron sobrepasados durante esa escena.
 
 ---
 
@@ -237,10 +250,10 @@ Cuando la escena hostil termina o desciende claramente de intensidad, la Fatiga 
 
 En ese momento:
 
-1. Revisa el Desgaste acumulado.
-2. Determina el nivel de Fatiga alcanzado.
-3. Aplica ese nivel como Fatiga asentada.
-4. Elimina el Desgaste acumulado de esa escena, salvo que una regla específica indique lo contrario.
+1. Revisa cuántos niveles de Fatiga proyectada se alcanzaron durante la escena.
+2. Borra la Fatiga proyectada.
+3. Aplica esa misma cantidad como Fatiga asentada.
+4. Conserva marcado cualquier Desgaste remanente que no hubiera alcanzado a completar un nuevo umbral de Aguante.
 
 Al terminar el combate, la Fatiga se asienta.
 
@@ -248,7 +261,7 @@ Al terminar el combate, la Fatiga se asienta.
 
 ## Umbrales de Fatiga
 
-La Fatiga se determina comparando el Desgaste acumulado con el Aguante del personaje.
+La Fatiga se determina comparando el Desgaste marcado en ese momento con el Aguante del personaje. Cada vez que el Desgaste completa un nuevo múltiplo de Aguante, ese tramo se traduce en un nivel de Fatiga proyectada.
 
 | Nivel | Condición |
 | --- | --- |
@@ -269,7 +282,7 @@ Si una mecánica vuelve a añadir Fatiga cuando el personaje ya está en Fatiga 
 
 Si un personaje tiene Aguante `7`:
 
-| Desgaste acumulado | Fatiga proyectada o asentada |
+| Desgaste marcado en casillas | Fatiga proyectada o asentada |
 | ---: | ---: |
 | 0–6 | Fatiga 0 |
 | 7–13 | Fatiga 1 |
@@ -285,6 +298,8 @@ Fatiga 5 no es un margen táctico que pueda sostenerse voluntariamente. Es el ú
 ## Efectos de Fatiga
 
 Los efectos de Fatiga son **acumulativos**. Llegar a Fatiga 3 significa que el personaje carga simultáneamente con los efectos de Fatiga 1, 2 y 3. Cada nivel cierra o encarece algo distinto — no es más del mismo modificador.
+
+Estos efectos se aplican cuando la Fatiga ya está **asentada**. La Fatiga proyectada no activa estos efectos mientras la escena hostil sigue en curso.
 
 | Nivel | Efecto |
 | --- | --- |
@@ -367,8 +382,9 @@ Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje m
 | --- | --- |
 | Desgaste | Se acumula por acciones significativas bajo presión |
 | Aguante | `3 + (Tenacidad × 2)` |
-| Fatiga proyectada | Se calcula durante la escena, pero no se asienta todavía |
+| Fatiga proyectada | Se genera cuando el Desgaste completa umbrales de Aguante durante la escena |
 | Fatiga asentada | Se aplica cuando termina la escena hostil o baja la intensidad |
+| Desgaste remanente | Si no completa un nuevo umbral, permanece marcado para la siguiente escena |
 | Fatiga 1 | Desgaste igual o mayor al Aguante |
 | Fatiga 5 | Máximo nivel base de Fatiga |
 | Más allá de Fatiga 5 | Incapacitado por agotamiento |
@@ -384,12 +400,21 @@ Durante la escena acumula `15` puntos de Desgaste. Mientras el combate sigue act
 
 ```text
 Aguante = 7
-Desgaste acumulado = 15
+Desgaste marcado = 15
 Fatiga proyectada = 2
+Desgaste remanente = 1
 ```
 
 El personaje sigue actuando mientras la escena continúa, salvo que otra regla indique lo contrario.
 
-Cuando el combate termina, la Fatiga se asienta. El personaje recibe Fatiga 2 y elimina el Desgaste acumulado de esa escena.
+En la hoja, el proceso se vería así:
+
+1. Marca 7 casillas de Desgaste.
+2. Esas 7 casillas se borran y se convierten en `Fatiga proyectada 1`.
+3. Marca otras 7 casillas de Desgaste.
+4. Esas 7 casillas se borran y se convierten en `Fatiga proyectada 2`.
+5. La casilla restante de Desgaste permanece marcada.
+
+Cuando el combate termina, la Fatiga se asienta. El personaje borra la Fatiga proyectada, anota Fatiga asentada `2` y conserva `1` casilla de Desgaste marcada como remanente para la siguiente escena hostil.
 
 Si más adelante descansa, podrá reducir Fatiga según las reglas de Descanso.

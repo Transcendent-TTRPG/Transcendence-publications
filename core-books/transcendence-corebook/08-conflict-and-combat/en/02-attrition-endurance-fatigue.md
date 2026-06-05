@@ -217,17 +217,30 @@ Fatigue can reflect:
 
 Fatigue is handled in two moments: while the scene is still active, and when the scene ends.
 
+At the table, Attrition is tracked in boxes. Those boxes are not cleared every time a scene changes, and they do not empty by default when combat ends.
+
+The logic is:
+
+- mark **Attrition** boxes each time an action makes you gain it;
+- when you complete one **Endurance** threshold, those boxes turn into `1` level of **Projected Fatigue**;
+- the boxes used to complete that threshold are cleared at that moment;
+- if any boxes remain that do not reach a new threshold, they stay marked as leftover Attrition;
+- when the hostile scene ends, **Projected Fatigue** is cleared and becomes **Settled Fatigue**;
+- leftover Attrition that did not become Projected Fatigue stays marked and becomes the starting point for the next hostile scene.
+
 ---
 
 ### Projected Fatigue
 
-During a hostile scene, the character tracks accumulated Attrition and calculates what Fatigue level they would suffer if the scene ended at that moment.
+During a hostile scene, the character tracks the Attrition marked in their boxes and calculates what Fatigue level they would suffer if the scene ended at that moment.
 
 That Fatigue is still **projected**.
 
 This means the character is pushing their margin, but the full penalty does not settle while adrenaline, urgency, or immediate danger continue to support performance.
 
 During combat, Fatigue is projected.
+
+Projected Fatigue does not apply Fatigue effects yet. It only records how many Endurance thresholds have already been exceeded during that scene.
 
 ---
 
@@ -237,10 +250,10 @@ When the hostile scene ends or clearly drops in intensity, Projected Fatigue bec
 
 At that moment:
 
-1. Check accumulated Attrition.
-2. Determine the Fatigue level reached.
-3. Apply that level as Settled Fatigue.
-4. Clear the accumulated Attrition from that scene, unless a specific rule says otherwise.
+1. Check how many levels of Projected Fatigue were reached during the scene.
+2. Clear the Projected Fatigue.
+3. Apply that same amount as Settled Fatigue.
+4. Keep marked any leftover Attrition that had not completed a new Endurance threshold.
 
 When combat ends, Fatigue settles.
 
@@ -248,7 +261,7 @@ When combat ends, Fatigue settles.
 
 ## Fatigue Thresholds
 
-Fatigue is determined by comparing accumulated Attrition with the character’s Endurance.
+Fatigue is determined by comparing the Attrition currently marked with the character’s Endurance. Each time Attrition completes a new multiple of Endurance, that segment translates into one level of Projected Fatigue.
 
 | Level | Condition |
 | --- | --- |
@@ -269,7 +282,7 @@ If a mechanic adds Fatigue while the character is already at Fatigue 5, the char
 
 If a character has Endurance `7`:
 
-| Accumulated Attrition | Projected or Settled Fatigue |
+| Attrition marked in boxes | Projected or Settled Fatigue |
 | ---: | ---: |
 | 0–6 | Fatigue 0 |
 | 7–13 | Fatigue 1 |
@@ -285,6 +298,8 @@ Fatigue 5 is not a tactical margin that can be sustained voluntarily. It is the 
 ## Fatigue Effects
 
 Fatigue effects are **cumulative**. Reaching Fatigue 3 means the character is under the effects of Fatigue 1, 2, and 3 simultaneously. Each level closes off or increases the cost of something distinct — it is not simply more of the same modifier.
+
+These effects apply when Fatigue is already **settled**. Projected Fatigue does not activate these effects while the hostile scene is still in progress.
 
 | Level | Effect |
 | --- | --- |
@@ -367,8 +382,9 @@ If a new application of sustained load Fatigue would push the character beyond F
 | --- | --- |
 | Attrition | Accumulates from meaningful actions under pressure |
 | Endurance | `3 + (Tenacity × 2)` |
-| Projected Fatigue | Calculated during the scene, but not settled yet |
+| Projected Fatigue | Generated when Attrition completes Endurance thresholds during the scene |
 | Settled Fatigue | Applied when the hostile scene ends or intensity drops |
+| Leftover Attrition | If it does not complete a new threshold, it stays marked for the next scene |
 | Fatigue 1 | Attrition equal to or greater than Endurance |
 | Fatigue 5 | Maximum base Fatigue level |
 | Beyond Fatigue 5 | Incapacitated by exhaustion |
@@ -384,12 +400,21 @@ During the scene, it accumulates `15` points of Attrition. While combat remains 
 
 ```text
 Endurance = 7
-Accumulated Attrition = 15
+Marked Attrition = 15
 Projected Fatigue = 2
+Leftover Attrition = 1
 ```
 
 The character continues acting while the scene continues, unless another rule says otherwise.
 
-When combat ends, Fatigue settles. The character receives Fatigue 2 and clears the accumulated Attrition from that scene.
+On the sheet, the process would look like this:
+
+1. Mark 7 Attrition boxes.
+2. Those 7 boxes are cleared and become `Projected Fatigue 1`.
+3. Mark 7 more Attrition boxes.
+4. Those 7 boxes are cleared and become `Projected Fatigue 2`.
+5. The remaining 1 Attrition box stays marked.
+
+When combat ends, Fatigue settles. The character clears the Projected Fatigue, records Settled Fatigue `2`, and keeps `1` Attrition box marked as leftover for the next hostile scene.
 
 If they rest later, they can reduce Fatigue according to the Rest rules.

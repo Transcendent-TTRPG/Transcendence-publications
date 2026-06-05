@@ -17,7 +17,7 @@ related:
 
 # Anudar el Paso
 
-### Reacción - Utilidad
+### Reacción - Ataque
 
 **Rango Novato**
 
@@ -41,4 +41,8 @@ related:
 
 ## Efecto
 
-Cuando un enemigo que ya está dentro del alcance de tu perfil intenta retirarse, realiza una `T.A.`. Si aciertas, el enemigo permanece en su posición disputada o en la posición válida más cercana que todavía lo deja dentro del alcance de tu perfil. Si fallas, completa su movimiento normalmente.
+Cuando un enemigo que ya está dentro del alcance de tu perfil intenta retirarse, realiza una `T.A.`.
+
+Si aciertas, resuelve la `T.I.` con normalidad. Luego, el enemigo permanece en su posición disputada o en la posición válida más cercana que todavía lo deja dentro del alcance de tu perfil.
+
+Si fallas, completa su movimiento normalmente.

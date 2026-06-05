@@ -25,11 +25,11 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Tú | Instantáneo | T.D. |
+| Personal | Tú | Permanente | T.D. |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `3` | `1` |
+| — | — | `3` | `2` |
 
 ## Requisitos
 
@@ -46,7 +46,11 @@ Cuando un enemigo ejecuta un ataque físico contra ti, puedes declarar esta téc
 
 Si la T.D. falla, el ataque se resuelve normalmente.
 
-Si la T.D. tiene éxito, la próxima vez que debas realizar una T.A., T.R., T.C. o T.E. contra dicho enemigo, recibes un bonificador a esa tirada igual a tu rango de `Evasión`:
+Si la T.D. tiene éxito, evitas el ataque y puedes desplazarte hasta `1` metro a un espacio válido sin provocar reacciones de ese enemigo.
+
+Si ese desplazamiento te deja fuera del alcance inmediato del enemigo o lo obliga a recomponer claramente su línea para alcanzarte, vacías su blanco.
+
+Mientras el enemigo no cierre esa distancia, no cambie de zona o no recupere claramente esa línea contigo, recibes un bonificador a tus `T.A.` y `T.E.` contra él igual a tu rango de `Evasión`:
 
 | Rango | Bonificador |
 | --- | --- |

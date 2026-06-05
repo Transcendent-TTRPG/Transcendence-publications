@@ -29,7 +29,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.R.` (Alteraciones) | `T.I.` | `4` | `1` |
+| `T.R.` (Alteraciones) | `T.I.` | `5` | `2` |
 
 ## Requisitos
 

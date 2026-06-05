@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 criatura | Instantáneo | `T.A.` |
+| Arma | 1 criatura | Permanente | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -43,8 +43,10 @@ related:
 
 Realiza una `T.A.` contra un objetivo.
 
+Si fallas, no realizas el desplazamiento ni robas el ángulo.
+
 Si tienes éxito, puedes desplazarte hasta `1` metro alrededor del objetivo, dentro del alcance de tu arma, sin provocar reacciones de ese objetivo.
 
-El objetivo sufre una penalización igual a tu bonificador de rango con el arma usada en la próxima acción que realice contra ti.
+Si al terminar ese desplazamiento quedas en una posición que obligue al objetivo a reorientarse claramente para encararte, le robas el ángulo.
 
-Si fallas, no realizas el desplazamiento ni aplicas la penalización.
+Mientras el objetivo no se reoriente hacia ti, no cambie de zona o no altere la relación espacial entre ambos de modo que recupere claramente esa línea, sus acciones dirigidas contra ti sufren una penalización igual a tu bonificador de rango con el arma usada.

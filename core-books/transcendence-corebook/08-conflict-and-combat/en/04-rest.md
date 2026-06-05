@@ -46,7 +46,9 @@ Not all rest offers the same recovery. A brief pause can return some control, bu
 
 During a hostile scene, the character accumulates **Attrition**.
 
-While the scene remains active, that Attrition generates **Projected Fatigue**. When the scene ends or clearly drops in intensity, that Fatigue settles and the accumulated Attrition from the scene is cleared, unless a specific rule says otherwise.
+While the scene remains active, that Attrition may complete **Endurance** thresholds and translate into **Projected Fatigue**. The Attrition boxes used to complete each threshold are cleared at that moment. If any Attrition boxes remain that do not reach a new threshold, they stay marked as leftover Attrition.
+
+When the scene ends or clearly drops in intensity, Projected Fatigue becomes Settled Fatigue. Leftover Attrition that did not become Projected Fatigue is not cleared by default: it stays marked and becomes the starting point for the next hostile scene.
 
 Rest does not exist to erase an infinite Attrition count. It exists to reduce **Settled Fatigue** and allow the character to recover functionality.
 
@@ -54,8 +56,8 @@ In summary:
 
 | Moment | What happens |
 | --- | --- |
-| During the scene | The character accumulates Attrition and calculates Projected Fatigue |
-| When the scene ends | Projected Fatigue becomes Settled Fatigue |
+| During the scene | The character accumulates Attrition, completes thresholds, and generates Projected Fatigue |
+| When the scene ends | Projected Fatigue becomes Settled Fatigue; leftover Attrition remains marked |
 | During rest | The character can reduce Settled Fatigue and perform recovery tasks |
 
 ---
@@ -225,17 +227,17 @@ Fatigue cannot drop below `0`.
 
 ---
 
-### 2. Persistent Attrition Recovery
+### 2. Leftover Attrition Recovery
 
-Some specific rules may cause certain Attrition to persist beyond a scene, instead of converting normally into Settled Fatigue.
+Attrition that did not reach a new Projected Fatigue threshold may remain marked between scenes.
 
-If a character has persistent Attrition from a specific rule, a Full Rest reduces that Attrition by an amount equal to:
+A Full Rest reduces that leftover Attrition by an amount equal to:
 
 ```text
 2 × Endurance
 ```
 
-If no persistent Attrition exists, this step does not apply.
+If the character has no leftover Attrition marked, this step does not apply.
 
 ---
 
