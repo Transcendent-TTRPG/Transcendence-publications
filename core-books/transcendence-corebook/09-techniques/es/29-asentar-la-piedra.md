@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Bastión`
+- `Postura`
 
 ## Efecto
 

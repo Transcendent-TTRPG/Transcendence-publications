@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Guarda`
+- `Postura`
 
 ## Efecto
 

@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Control de Línea`
+- `Postura`
 
 ## Efecto
 

@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Armadura pesada`
+- `Postura`
 
 ## Efecto
 
@@ -45,4 +46,4 @@ Mientras esta postura esté activa, puedes redirigir cualquier impacto que recib
 
 Cuando un impacto se resuelve en una zona redirigida de este modo, añades un bonificador igual al bono de rango de tu competencia de armadura al `Bloqueo` de esa zona. Si ese impacto también causaría `Derribado` o `Desequilibrado`, aplica el mismo bonificador a esa `T.R.`.
 
-La técnica termina si quedas en estado `Derribado`, si ya no llevas al menos 3 piezas de armadura funcional equipadas, o abandonas tu posición.
+La técnica termina si quedas en estado `Derribado`, si ya no llevas al menos 3 piezas de armadura funcional equipadas, o eliges terminarla voluntariamente.
