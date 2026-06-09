@@ -143,6 +143,16 @@ body {
   --accent-soft: rgba(35, 76, 69, 0.14);
 }
 
+.spectrum-defense {
+  --accent: #3a4655;
+  --accent-soft: rgba(58, 70, 85, 0.13);
+}
+
+.spectrum-specialization {
+  --accent: #3d3558;
+  --accent-soft: rgba(61, 53, 88, 0.13);
+}
+
 .card-header {
   min-height: 16mm;
   padding: 1.1mm 2mm 1.3mm;
