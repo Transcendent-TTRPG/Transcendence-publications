@@ -204,14 +204,25 @@ El juego puede usarse con grid o medición flexible. El grid es recomendable cua
 
 ## Rango visual estándar
 
-En condiciones claras, una criatura puede reconocer detalles relevantes hasta `60 metros`.
+En condiciones claras, una criatura Mediana puede reconocer detalles relevantes hasta `60 metros`.
+
+El rango visual varía con el tamaño de la criatura que observa:
+
+| Tamaño | Rango visual estándar |
+| --- | ---: |
+| Diminuto | 30 m |
+| Pequeño | 45 m |
+| Mediano | 60 m |
+| Grande | 80 m |
+| Enorme | 100 m |
+| Gigantesco | 140 m |
 
 Más allá de ese rango, una acción que dependa de distinguir detalles visuales requiere una Tirada de Especialización de Percepción.
 
 El Narrador aumenta la dificultad según:
 
 - distancia
-- tamaño
+- tamaño del objetivo
 - movimiento
 - contraste
 - condiciones ambientales

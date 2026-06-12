@@ -347,8 +347,10 @@ Valor mínimo: `1`.
 El Aguante mide cuánta carga acumulada puede sostener el personaje antes de entrar en Fatiga.
 
 ```text
-Aguante = 3 + (Tenacidad × 2)
+Aguante = base de tamaño + (Tenacidad × 2)
 ```
+
+La base de tamaño depende de la especie: `2` para Pequeño, `4` para Mediano, `6` para Grande. La mayoría de las especies jugables son Mediano.
 
 La especialización universal inicial de Tenacidad ya está incluida indirectamente, porque aplica Sinapsis y aumenta Tenacidad durante la creación.
 
@@ -410,11 +412,11 @@ Resiliencia = 4 / 3
 Resiliencia = 2
 ```
 
-Calcula Aguante:
+Calcula Aguante (especie Mediana):
 
 ```text
-Aguante = 3 + (2 × 2)
-Aguante = 7
+Aguante = 4 + (2 × 2)
+Aguante = 8
 ```
 
 Calcula Cordura:

@@ -96,7 +96,7 @@ Los Formix obtienen `+1` en **Tenacidad**, **Astucia** y **Compostura**.
 
 ### Legado
 
-**Exoesqueleto** — Para todos los cálculos relacionados con Vigor (Aguante, Capacidad de Carga y Tiradas de Talento relacionadas con resistencia física), los Formix se tratan como de tamaño Grande. Esto no altera su categoría de tamaño real.
+**Exoesqueleto** — La estructura esquelética externa reduce la acumulación de carga y aumenta la masa sostenible. Para el cálculo del Aguante base y la Capacidad de Carga, los Formix se tratan como de tamaño Grande. Esto no altera su categoría de tamaño real ni sus modificadores de T.R. o T.E. por tamaño.
 
 **Señal Química** — Las antenas detectan señales químicas de manera continua. Los Formix obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción, Rastreo, Supervivencia e Intuición cuando la información relevante está disponible por vía química u olfativa. Adicionalmente, dentro de un radio de 10 m, las T.E. de Percepción para detectar o localizar seres vivos no están sujetas a penalizadores por visibilidad reducida ni cobertura visual — esta detección se basa en la firma metabólica del organismo y no requiere línea de visión.
 

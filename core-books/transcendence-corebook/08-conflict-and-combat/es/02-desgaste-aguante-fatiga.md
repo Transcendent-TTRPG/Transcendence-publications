@@ -170,13 +170,21 @@ Todo personaje posee una reserva mínima de funcionamiento. Esa reserva cubre tr
 - la **mente**, que sostiene atención, lectura e interpretación
 - la **compostura**, que sostiene control, intención y claridad bajo tensión
 
-Todo personaje cuenta con una reserva base de Aguante de `3`. A esa base se suma la resistencia corporal final del personaje, expresada en su Tenacidad.
+El Aguante parte de una base determinada por el tamaño de la criatura. A esa base se suma la resistencia corporal final del personaje, expresada en su Tenacidad.
 
 ```text
-Aguante = 3 + (Tenacidad × 2)
+Aguante = base de tamaño + (Tenacidad × 2)
 ```
 
-La Tenacidad usada en esta fórmula es la Tenacidad final del personaje, después de aplicar especie y Sinapsis.
+| Tamaño | Base de Aguante |
+| --- | ---: |
+| Pequeño | 2 |
+| Mediano | 4 |
+| Grande | 6 |
+
+La mayoría de las especies jugables son Mediano (base `4`). La Tenacidad usada en esta fórmula es la Tenacidad final del personaje, después de aplicar especie y Sinapsis.
+
+Para la tabla completa de modificadores de tamaño, ver el capítulo **Tamaño y Escala**.
 
 Todo personaje comienza con una especialización inicial de Tenacidad en nivel 1, rango Novato: **Marcha**, **Aclimatación** o **Tolerancia**. Esa especialización ya está incluida indirectamente en el Aguante porque aumenta Tenacidad mediante Sinapsis durante la creación.
 
@@ -184,14 +192,14 @@ Todo personaje comienza con una especialización inicial de Tenacidad en nivel 1
 
 ## Ejemplo
 
-Un personaje termina la creación con Tenacidad `2`.
+Un personaje Mediano termina la creación con Tenacidad `2`.
 
 ```text
-Aguante = 3 + (2 × 2)
-Aguante = 7
+Aguante = 4 + (2 × 2)
+Aguante = 8
 ```
 
-Ese personaje tiene Aguante `7`.
+Ese personaje tiene Aguante `8`.
 
 ---
 
@@ -280,16 +288,16 @@ Si una mecánica vuelve a añadir Fatiga cuando el personaje ya está en Fatiga 
 
 ## Ejemplo de umbrales
 
-Si un personaje tiene Aguante `7`:
+Si un personaje Mediano tiene Tenacidad `2` (Aguante `8`):
 
 | Desgaste marcado en casillas | Fatiga proyectada o asentada |
 | ---: | ---: |
-| 0–6 | Fatiga 0 |
-| 7–13 | Fatiga 1 |
-| 14–20 | Fatiga 2 |
-| 21–27 | Fatiga 3 |
-| 28–34 | Fatiga 4 |
-| 35 o más | Fatiga 5 |
+| 0–7 | Fatiga 0 |
+| 8–15 | Fatiga 1 |
+| 16–23 | Fatiga 2 |
+| 24–31 | Fatiga 3 |
+| 32–39 | Fatiga 4 |
+| 40 o más | Fatiga 5 |
 
 Fatiga 5 no es un margen táctico que pueda sostenerse voluntariamente. Es el último punto antes del colapso operativo.
 
@@ -381,7 +389,7 @@ Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje m
 | Elemento | Regla |
 | --- | --- |
 | Desgaste | Se acumula por acciones significativas bajo presión |
-| Aguante | `3 + (Tenacidad × 2)` |
+| Aguante | `base de tamaño + (Tenacidad × 2)` |
 | Fatiga proyectada | Se genera cuando el Desgaste completa umbrales de Aguante durante la escena |
 | Fatiga asentada | Se aplica cuando termina la escena hostil o baja la intensidad |
 | Desgaste remanente | Si no completa un nuevo umbral, permanece marcado para la siguiente escena |
@@ -394,13 +402,13 @@ Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje m
 
 ## Ejemplo de combate
 
-Una criatura con Aguante `7` participa en un combate largo.
+Una criatura Mediana con Tenacidad `2` (Aguante `8`) participa en un combate largo.
 
-Durante la escena acumula `15` puntos de Desgaste. Mientras el combate sigue activo, esa Fatiga está proyectada.
+Durante la escena acumula `17` puntos de Desgaste. Mientras el combate sigue activo, esa Fatiga está proyectada.
 
 ```text
-Aguante = 7
-Desgaste marcado = 15
+Aguante = 8
+Desgaste marcado = 17
 Fatiga proyectada = 2
 Desgaste remanente = 1
 ```
@@ -409,10 +417,10 @@ El personaje sigue actuando mientras la escena continúa, salvo que otra regla i
 
 En la hoja, el proceso se vería así:
 
-1. Marca 7 casillas de Desgaste.
-2. Esas 7 casillas se borran y se convierten en `Fatiga proyectada 1`.
-3. Marca otras 7 casillas de Desgaste.
-4. Esas 7 casillas se borran y se convierten en `Fatiga proyectada 2`.
+1. Marca 8 casillas de Desgaste.
+2. Esas 8 casillas se borran y se convierten en `Fatiga proyectada 1`.
+3. Marca otras 8 casillas de Desgaste.
+4. Esas 8 casillas se borran y se convierten en `Fatiga proyectada 2`.
 5. La casilla restante de Desgaste permanece marcada.
 
 Cuando el combate termina, la Fatiga se asienta. El personaje borra la Fatiga proyectada, anota Fatiga asentada `2` y conserva `1` casilla de Desgaste marcada como remanente para la siguiente escena hostil.
