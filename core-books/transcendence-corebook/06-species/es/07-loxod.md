@@ -102,9 +102,9 @@ Los Loxod obtienen `+1` en **Tenacidad**, **Intelecto** y **Compostura**.
 
 **Archivo Viviente** — La arquitectura olfativo-mnémica retiene impresiones absorbidas directamente con una fidelidad que ningún registro externo puede igualar. Los Loxod obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Historia, Geografía y Lingüística cuando la información relevante fue absorbida o vivida directamente por el personaje.
 
-**Percepción Química** — La información química del entorno llega de forma continua e involuntaria. Los Loxod obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción e Intuición cuando la información relevante tiene componente químico: estados fisiológicos en criaturas cercanas, materiales recientemente perturbados, presencia de sustancias específicas. Dentro de un radio de `15 m`, los Loxod son pasivamente conscientes del número y posición aproximada de organismos vivos a través de su firma metabólica, con independencia de las condiciones de visibilidad.
+**Percepción Química** — La información química del entorno llega de forma continua e involuntaria. Los Loxod obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción, Rastreo e Intuición cuando la información relevante tiene componente químico: estados fisiológicos en criaturas cercanas, materiales recientemente perturbados, presencia de sustancias específicas. Adicionalmente, dentro de un radio de `10 m`, las T.E. de Percepción para detectar o localizar seres vivos no están sujetas a penalizadores por visibilidad reducida ni cobertura visual — esta detección se basa en la firma química y metabólica del organismo y no requiere línea de visión.
 
-**Trompa Versátil** — La trompa opera como herramienta de manipulación de precisión y de fuerza sostenida. Los Loxod obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Atletismo en acciones que impliquen agarre, elevación o aplicación controlada de fuerza sostenida. Adicionalmente, obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción cuando la señal relevante se transmite a través de superficies sólidas.
+**Trompa Versátil** — La trompa opera como herramienta de manipulación de precisión y de fuerza sostenida. Los Loxod obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Trepar y Agarre. Adicionalmente, obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción cuando la señal relevante se transmite a través de superficies sólidas — vibración, movimiento distante, infrasonido de otros Loxod.
 
 ### Armas Naturales
 
@@ -132,7 +132,7 @@ Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acc
 
 | T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
 | --- | --- | --- | --- | --- | --- |
-| Tenacidad | Tenacidad | 3 m | d8 | 8 × rango | 8 × rango |
+| Tenacidad | Tenacidad | 3 m | d8 | 5 × rango | 6 × rango |
 
 **Perfiles:** Control de Línea · Torsión · Bastión · Ruptura
 
