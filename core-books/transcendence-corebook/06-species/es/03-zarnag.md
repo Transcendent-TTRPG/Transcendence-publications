@@ -18,7 +18,7 @@ related:
 
 Los Zarnag trabajan donde las otras especies no quieren estar cuando el trabajo ya no puede esperar. Campos de batalla sin limpiar, fosas de enfermedad que se reabren con la lluvia, enterramientos fallidos, rastros de carroñeros que se acercan demasiado al perímetro de los vivos: ninguno de estos es un problema que desaparezca si nadie lo gestiona. Se expande.
 
-Su afirmación civilizacional más antigua lo resume: los muertos no siempre se van, y alguien tiene que ocuparse de lo que queda.
+Los muertos no siempre se van, y alguien tiene que ocuparse de lo que queda.
 
 ## El Cuerpo
 
@@ -34,9 +34,9 @@ Su risa tiene cuerpo antes que significado. Libera presión nerviosa en grupo, m
 
 ## La Cultura
 
-La civilización Zarnag se construyó en torno a labores que otras especies dejan incompletas: retirar cuerpos de campos de batalla cuando nadie más quiere acercarse, trabajar zanjas de cuarentena durante una plaga, corregir entierros fallidos, gestionar las rutas donde los carroñeros se acumulan, limpiar ruinas donde los muertos siguen presentes.
+Las labores que la mayoría deja incompletas tienen alguien que las termina: retirar cuerpos de campos de batalla cuando nadie más quiere acercarse, trabajar zanjas de cuarentena durante una plaga, corregir entierros fallidos, gestionar las rutas donde los carroñeros se acumulan, limpiar ruinas donde los muertos siguen presentes.
 
-Su idea civilizacional central es el **resto peligroso**. Un cadáver mal gestionado puede envenenar el agua, atraer depredadores y propagar infección. Un entierro fallido puede dejar algo que los demás no saben nombrar pero que afecta el comportamiento del sitio durante años. Lo que queda después de la muerte no es pasivo para los Zarnag. Tiene consecuencias si nadie lo trabaja.
+Un cadáver mal gestionado puede envenenar el agua, atraer depredadores y propagar infección. Un entierro fallido puede dejar algo que los demás no saben nombrar pero que afecta el comportamiento del sitio durante años. Lo que queda después de la muerte no es pasivo para los Zarnag. Tiene consecuencias si nadie lo trabaja.
 
 El respeto dentro de la sociedad Zarnag no viene de la posición heredada. Viene de la resistencia, el nervio y la precisión del juicio: quien puede trabajar cerca del asco sin perder la claridad, y quien distingue lo simplemente desagradable de lo verdaderamente peligroso, tiene más peso que quien solo puede aguantar más tiempo.
 
@@ -44,7 +44,7 @@ La risa juega aquí un papel diferente al que tiene en otras sociedades. Libera 
 
 ## Teología y Cosmología
 
-La teología Zarnag comienza en una observación que sus labores confirman: la muerte no siempre cierra. Hay sitios donde los restos ejercen presión — en fosas de muerte masiva, en lugares donde los ritos de cierre nunca se completaron, en campos donde los cuerpos se acumularon sin que nadie los gestionara. Ese comportamiento de los restos no lo tratan como accidente.
+La muerte no siempre cierra. Hay sitios donde los restos ejercen presión — en fosas de muerte masiva, en lugares donde los ritos de cierre nunca se completaron, en campos donde los cuerpos se acumularon sin que nadie los gestionara. Ese comportamiento de los restos no lo tratan como accidente.
 
 Diferentes comunidades lo describen de maneras distintas. Algunas hablan de hambre de cadáver, algunas de eco de tumba, de una presión que el Limbo no recogió cuando la vida se cerró. El vocabulario varía. La conclusión coincide: el intervalo entre la vida y la partida verdadera puede volverse peligroso si nadie lo gestiona.
 
@@ -56,7 +56,7 @@ Una comunidad que lleva generaciones gestionando esos umbrales termina siendo re
 
 ## Organización e Identidad Interna
 
-Las comunidades Zarnag no se organizan por genealogía ni por territorio compartido. Se organizan por el tipo de trabajo que aceptan y el umbral de riesgo que pueden sostener. Un campamento de borde de tumba — pequeño, móvil, gestionando entierros locales — no funciona de la misma manera que un grupo vinculado a zonas de guerra recurrentes, ni que los asentamientos de cuarentena construidos alrededor del control de infecciones, ni que los círculos que trabajan sitios catastróficos con muertos viejos y perturbados. Diferentes formas, diferentes tolerancias, diferentes memorias de lo que tocaron y sobrevivieron.
+Un campamento de borde de tumba — pequeño, móvil, gestionando entierros locales — no funciona de la misma manera que un grupo vinculado a zonas de guerra recurrentes, ni que los asentamientos de cuarentena construidos alrededor del control de infecciones, ni que los círculos que trabajan sitios catastróficos con muertos viejos y perturbados. Diferentes formas, diferentes tolerancias, diferentes memorias de lo que tocaron y sobrevivieron.
 
 Lo que permanece consistente no es una estructura política sino una exigencia: alguien en el grupo debe poder distinguir lo que es simplemente feo de lo que es verdaderamente peligroso. Cuando ese juicio falla, todo lo demás falla con él.
 

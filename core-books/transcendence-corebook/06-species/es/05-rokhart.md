@@ -58,7 +58,7 @@ Y luego están los que cruzaron la línea que la metodología prohíbe. La Conco
 
 Setenta años es poco para una especie que mide el conocimiento en generaciones, y la consecuencia práctica es que no hay tiempo para esperar: los jóvenes entran al entrenamiento de observación antes de que puedan argumentar contra él, y para cuando pueden argumentar, ya lo han hecho suyo.
 
-La vida en un puesto se organiza alrededor de tres actos que se repiten sin distinción de urgencia — observar, registrar, comunicar — y esa repetición es la estructura de cada jornada y la medida de cada semana. Hay menos ritual que en cualquier otra especie y más documentación por individuo que en casi cualquier institución del mundo.
+La vida en un puesto se organiza alrededor de una secuencia que se repite sin distinción de urgencia — observar, registrar, comunicar — y esa repetición es la estructura de cada jornada y la medida de cada semana. Hay menos ritual que en cualquier otra especie y más documentación por individuo que en casi cualquier institución del mundo.
 
 Cuando un investigador muere, lo primero que ocurre es una revisión de archivo: todo lo que registró se cruza con las hipótesis activas, y lo que nunca escribió — las conexiones que llevaba en la cabeza, las observaciones que no habían llegado al papel — ya no existe. La pérdida se registra como reducción de capacidad y como oportunidad archivística. Ambas cosas son ciertas, y en un puesto de la Concordia no se distingue entre ellas.
 

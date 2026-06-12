@@ -30,9 +30,9 @@ Sus mandíbulas son cultural y mecánicamente centrales. Una mordida Sauri no se
 
 ## La Cultura
 
-La civilización Sauri se forma en torno al agua bajo presión: márgenes de ríos, llanuras inundables, templos de pantano, cuencas de piedra, reservorios ocultos y bordes desérticos donde la vida depende de gestionar la poca humedad que sobrevive al calor. Sus asentamientos a menudo parecen bajos, sellados y seminaturales desde afuera. Desde adentro, se despliegan a través de canales, cámaras descendentes, pasillos inundados, patios tostados por el sol y espacios rituales diseñados para retener calor, agua, respiración y silencio.
+Sus asentamientos parecen bajos, sellados y seminaturales desde afuera — semienterrados, construidos para retener antes que para mostrar. Desde adentro, se despliegan a través de canales, cámaras descendentes, pasillos inundados, patios tostados por el sol y espacios rituales diseñados para retener calor, agua, respiración y silencio. Márgenes de ríos, llanuras inundables, bordes desérticos donde la humedad que sobrevive al calor se gestiona con la misma atención que los linajes o las leyes: con registro, con autoridad, con consecuencias para quien rompe el sistema.
 
-Su idea civilizacional central es **el recipiente**. Un recipiente puede ser un cuerpo, un templo, un linaje, una ley, una tumba, un canal, una máscara o un gobernante. Lo que importa es si puede retener fuerza sin filtrarse, quebrarse o corromper lo que contiene.
+Un recipiente puede ser un cuerpo, un templo, un linaje, una ley, una tumba, un canal, una máscara o un gobernante. Lo que importa es si puede retener fuerza sin filtrarse, quebrarse o corromper lo que contiene.
 
 La mayoría de las comunidades Sauri están gobernadas por un **soberano sagrado** cuyo cuerpo es tratado como el recipiente vivo del pueblo. Este gobernante no es simplemente un líder político. Es la prueba de que el Tauma, el linaje, la disciplina ritual y el orden territorial pueden sostenerse en un solo cuerpo sin colapsar. Diferentes comunidades explican este rol de maneras distintas: algunas creen que el soberano es un avatar de la corriente primordial; otras que es elegido por el río, el sol y la piedra a través de una prueba; algunas que es una ficción necesaria que impide que los templos se vuelvan unos contra otros; algunas que los gobernantes fracasados continúan gobernando desde cámaras selladas, preservados y consultados mediante ritual. La ambigüedad importa. El orden político Sauri depende de la afirmación de que el recipiente es real. El horror de la cultura comienza donde la evidencia se vuelve incierta.
 
@@ -46,9 +46,7 @@ Los Sauri no describen al Tauma como una fuerza exterior que irrumpe en el mundo
 
 Los Sauri no creen que la muerte sea liberación del cuerpo. Creen que el cuerpo es el primer y más importante recipiente que recibe una persona. Morir sin la preservación adecuada es dejar que el recipiente se derrame antes de que su contenido haya sido juzgado, medido o devuelto a la corriente correcta. Sus prácticas funerarias no son meramente reverentes. Son técnicas, políticas y teológicas. Los cuerpos preservados pueden convertirse en registros, advertencias, consejeros, anclas para la autoridad de linaje o evidencia en disputas sobre legitimidad.
 
-El horror central Sauri no es la ignorancia. Es la sobreconfianza en la contención.
-
-Construyen recipientes para el Tauma. Preservan gobernantes. Sellan cámaras. Miden señales en escama, agua, mineral y carne. Creen que un cuerpo correctamente preparado puede cargar más de lo que una vida ordinaria debería sostener. La pregunta que no les gusta hacerse es simple: ¿qué pasa si nada viviente estuvo nunca destinado a contener esa corriente?
+Construyen recipientes para el Tauma. Preservan gobernantes. Sellan cámaras. Miden señales en escama, agua, mineral y carne. Creen que un cuerpo correctamente preparado puede cargar más de lo que una vida ordinaria debería sostener. La pregunta que no aparece en ningún texto ritual: ¿qué pasa si nada viviente estuvo nunca destinado a contener esa corriente?
 
 ## Organización e Identidad Interna
 

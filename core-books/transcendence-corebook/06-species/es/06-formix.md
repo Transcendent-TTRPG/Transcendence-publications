@@ -26,7 +26,7 @@ El exoesqueleto es lo primero que nota cualquiera que se acerca. No es armadura 
 
 La cara es el elemento que más aleja a los Formix del patrón humanoide usual: mandíbulas donde otros tienen mandíbula blanda, ojos compuestos orientados a la detección de movimiento en campo amplio, y dos antenas que procesan información química de manera continua y sin pausa. No hay forma de "apagar" la percepción antenal. Un Formix en un espacio nuevo está recibiendo datos del aire — metabolismo de cada ser vivo en el radio inmediato, trazas de quién estuvo antes, toxinas, señales que la mayoría de otras especies nunca sabrían que estaban ahí.
 
-El cuerpo está construido para resistir antes que para evadir. El exoesqueleto distribuye impacto; la musculatura debajo es densa; la configuración general sugiere algo que espera que le lleguen y continúa. Lo que hace daño en un Formix no es un golpe sino la acumulación — y los Formix saben, mejor que nadie, lo que significa seguir funcionando cuando algo duele.
+El cuerpo está construido para resistir antes que para evadir. El exoesqueleto distribuye impacto, la musculatura debajo es densa — todo en la configuración sugiere algo que no busca la distancia sino que espera que el problema llegue a él. Lo que hace daño en un Formix no es un golpe sino la acumulación — y los Formix saben, mejor que nadie, lo que significa seguir funcionando cuando algo duele.
 
 ## La Cultura
 
@@ -54,7 +54,7 @@ El riesgo de acercarse a territorio de una Reina lo conoce cualquier Formix libr
 
 ## Vida Cotidiana
 
-Un Formix recién llegado a una ciudad refugio es, biológicamente, un adulto. Tiene tamaño, tiene fuerza, tiene las habilidades que la Reina necesitó que tuviera. Lo que no tiene es una sola preferencia verificada. Nunca ha hecho nada porque quería hacerlo. La experiencia de querer algo — no de recibir la dirección de quererlo sino de notar que algo en ti se inclina hacia una cosa y no hacia otra — llega en momentos distintos para cada uno, y cuando llega la mayoría no sabe qué es hasta que alguien mayor se lo señala.
+Un Formix recién llegado a una ciudad refugio es, biológicamente, un adulto. Tiene todo lo que la Reina necesitó que tuviera — tamaño, fuerza, las habilidades de su casta. Lo que no tiene es una sola preferencia verificada. Nunca ha hecho nada porque quería hacerlo. La experiencia de querer algo — no de recibir la dirección de quererlo sino de notar que algo en ti se inclina hacia una cosa y no hacia otra — llega en momentos distintos para cada uno, y cuando llega la mayoría no sabe qué es hasta que alguien mayor se lo señala.
 
 La vida en una ciudad refugio se organiza alrededor de la transmisión porque no puede no hacerlo: sin nacimientos, cada Formix que muere se lleva lo que construyó, y lo que no se escribió o se enseñó no sobrevive. Los archivos de las ciudades más antiguas son detallados de una manera que sorprende a visitantes de otras especies — no porque los Formix sean historiadores de vocación, sino porque aprendieron pronto que documentar era la única forma de que algo persistiera.
 
