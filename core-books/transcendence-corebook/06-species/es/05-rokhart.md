@@ -84,7 +84,7 @@ En combate, la estructura es movilidad primero: el pico encuentra el punto corre
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 70–80 años | Mediano | 1.60–1.80 m | 50–70 kg | 9 m |
+| 70–80 años | Mediano | 1.60–1.80 m | 50–70 kg | 12 m |
 
 **Idiomas:** Alar (nativo) · Común
 

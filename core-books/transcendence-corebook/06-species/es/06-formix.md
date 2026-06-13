@@ -82,7 +82,7 @@ En combate, la estructura es absorber y sostener. Un Formix no busca la posició
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–80 años | Mediano | 1.50–1.70 m | 70–85 kg | 10 m |
+| 60–80 años | Mediano | 1.50–1.70 m | 70–85 kg | 9 m |
 
 **Idiomas:** Ferón (nativo) · Común
 

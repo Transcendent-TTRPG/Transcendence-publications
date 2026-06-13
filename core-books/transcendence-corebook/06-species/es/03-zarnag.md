@@ -106,7 +106,7 @@ La pregunta que la mayoría de los personajes Zarnag se llevan consigo no es si 
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 50–70 años | Mediano | 1.61–1.73 m | 65–73 kg | 9 m |
+| 50–70 años | Mediano | 1.61–1.73 m | 65–73 kg | 10 m |
 
 **Idiomas:** Gorrak (nativo) · Común
 

@@ -96,7 +96,7 @@ Los Loxod obtienen `+1` en **Tenacidad**, **Intelecto** y **Compostura**.
 
 ### Herencia
 
-**Firma Sísmica** — Los Loxod emiten infrasonido de forma continua e involuntaria en frecuencias que se superponen con la textura vibratoria del Tauma. Esta emisión no tiene control voluntario. En entornos donde el Narrador determine que el Tauma está activo o sus límites son difusos, los Loxod no pueden beneficiarse de T.E. de Sigilo: su firma vibratoria persiste a través de cualquier barrera material. Las criaturas y entidades que perciben señales del Tauma son automáticamente conscientes de la presencia y posición de cualquier Loxod dentro del rango que el entorno determine.
+**Firma Sísmica** — Los Loxod emiten infrasonido de forma continua e involuntaria en frecuencias que se superponen con la textura vibratoria del Tauma. Esta emisión no tiene control voluntario. En entornos donde el Narrador determine que el Tauma está activo o sus límites son difusos, los Loxod reciben una penalización de `−3` a todas las T.E. de Sigilo: su firma vibratoria persiste a través de cualquier barrera material y no puede suprimirse. Esta penalización no proviene de un estado ni de una condición — es la forma en que la especie existe en entornos de Tauma activo.
 
 ### Legado
 
@@ -117,7 +117,7 @@ Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acc
 | --- | --- | --- | --- | --- | --- |
 | Tenacidad | Tenacidad | 2 m | d10 | 7 × rango | 9 × rango |
 
-**Perfiles:** Carga · Perforación · Demolición · Intercepción
+**Perfiles:** Carga · Perforación · Ruptura · Intercepción
 
 **Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Derribado.
 

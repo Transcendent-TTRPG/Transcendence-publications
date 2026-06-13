@@ -96,7 +96,7 @@ Lo que un personaje Sauri sabe al salir: cómo leer señales de presión en pied
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–80 años | Grande | 2.00–2.30 m | 150–200 kg | 9 m |
+| 60–80 años | Grande | 2.00–2.30 m | 150–200 kg | 8 m |
 
 **Idiomas:** Zhirash (nativo) · Común
 
