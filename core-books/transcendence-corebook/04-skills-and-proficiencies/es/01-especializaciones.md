@@ -48,7 +48,7 @@ En juego, las especializaciones cumplen tres funciones:
 
 Una especialización no es un poder que el personaje posee por sí mismo. Es una práctica.
 
-Dos personajes con la misma característica pueden actuar de formas distintas si han entrenado dominios diferentes. Un personaje con Sabiduría alta y Medicina interpreta heridas, síntomas y tratamientos. Otro con Sabiduría alta y Supervivencia lee rastros, clima, rutas y señales del entorno.
+Dos personajes con la misma característica pueden actuar de formas distintas si han entrenado dominios diferentes. Un personaje con Sabiduría alta y Medicina interpreta heridas, síntomas y tratamientos. Otro con Astucia alta y Supervivencia lee rastros, clima, rutas y señales del entorno.
 
 La característica da la base. La especialización define cómo se convierte esa base en acción.
 

@@ -49,8 +49,8 @@ Local modifiers should remain short and readable. In this catalog, `-1` represen
 | Strength | Jumping, Climbing, Throwing, Swimming, Gripping |
 | Agility | Acrobatics, Dexterity, Balance, Riding |
 | Tenacity | March, Acclimation, Tolerance |
-| Cunning | Navigation, Tracking, Intuition, Deception, Improvisation, Theft |
-| Wisdom | Perception, Survival, Medicine, Herbalism, Alchemy, Traps, Mining, Smithing, Tailoring, Jewelry, Engineering |
+| Cunning | Navigation, Tracking, Intuition, Survival, Deception, Improvisation, Theft |
+| Wisdom | Perception, Medicine, Herbalism, Alchemy, Traps, Mining, Smithing, Tailoring, Jewelry, Engineering |
 | Intellect | Identification, Interpretation, Linguistics, Thaumaturgy, History, Geography, Astronomy, Theology, Cryptology, Archaeology, Architecture, Belicology |
 | Composure | Focus, Containment, Meditation, Poise |
 | Aura | Instinct, Resonance, Bond, Taming |

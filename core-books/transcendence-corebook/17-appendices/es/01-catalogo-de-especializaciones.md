@@ -49,8 +49,8 @@ Los modificadores locales deben mantenerse cortos y legibles. En este catálogo,
 | Fuerza | Saltar, Trepar, Lanzamiento, Nadar, Agarre |
 | Agilidad | Acrobacias, Destreza, Equilibrio, Equitación |
 | Tenacidad | Marcha, Aclimatación, Tolerancia |
-| Astucia | Orientación, Rastreo, Intuición, Engaño, Improvisación, Hurto |
-| Sabiduría | Percepción, Supervivencia, Medicina, Herboristería, Alquimia, Trampas, Minería, Herrería, Sastrería, Joyería, Ingeniería |
+| Astucia | Orientación, Rastreo, Intuición, Supervivencia, Engaño, Improvisación, Hurto |
+| Sabiduría | Percepción, Medicina, Herboristería, Alquimia, Trampas, Minería, Herrería, Sastrería, Joyería, Ingeniería |
 | Intelecto | Identificación, Interpretación, Lingüística, Taumaturgia, Historia, Geografía, Astronomía, Teología, Criptología, Arqueología, Arquitectura, Belicología |
 | Compostura | Enfoque, Contención, Meditación, Aplomo |
 | Aura | Instinto, Resonancia, Vínculo, Domesticación |

@@ -167,7 +167,7 @@ Las siguientes especializaciones interactúan directamente con las condiciones d
 | Aclimatación (Tenacidad) | Natural — ambiental | Adaptación a entornos hostiles o extremos |
 | Tolerancia (Tenacidad) | Natural — fisiológica | Resistencia al dolor y la tensión física que genera el entorno |
 | Equilibrio (Agilidad) | Natural — terreno | Respuesta reactiva a pérdida de balance involuntaria |
-| Supervivencia (Sabiduría) | Natural — campo | Toma de decisiones práctica en entornos hostiles |
+| Supervivencia (Astucia) | Natural — campo | Toma de decisiones práctica en entornos hostiles |
 
 Las especializaciones aplicables a condiciones hostiles o extranaturales — Percepción, Intuición, Instinto, Resonancia, Taumaturgia — se describen en sus capítulos correspondientes. Aquí importa el principio general: una presión de escena puede exigir leer, soportar o interpretar, no solo resistir físicamente.
 

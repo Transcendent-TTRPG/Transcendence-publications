@@ -48,7 +48,7 @@ In play, specializations serve three functions:
 
 A specialization is not a power the character simply possesses. It is a practice.
 
-Two characters with the same characteristic can act in different ways if they have trained different domains. A character with high Wisdom and Medicine interprets wounds, symptoms, and treatments. Another with high Wisdom and Survival reads tracks, weather, routes, and signs in the environment.
+Two characters with the same characteristic can act in different ways if they have trained different domains. A character with high Wisdom and Medicine interprets wounds, symptoms, and treatments. Another with high Cunning and Survival reads tracks, weather, routes, and signs in the environment.
 
 The characteristic gives the base. The specialization defines how that base becomes action.
 
