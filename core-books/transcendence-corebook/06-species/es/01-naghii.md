@@ -124,7 +124,7 @@ Los Naghii obtienen `+1` en **Agilidad**, **Sabiduría** y **Presencia**.
 
 ### Legado
 
-**Maestría en la Coerción** — Los Naghii obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las tiradas de Coerción.
+**Resistencia al Veneno** — Los Naghii obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.R. de Veneno.
 
 **Camuflaje** — Los Naghii obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Sigilo o Supervivencia para ocultarse.
 

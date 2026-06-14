@@ -26,7 +26,7 @@ Los Drak'kai son humanoides medianos de linaje tortuga terrestre de gran tamaño
 
 El caparazón es parte del esqueleto, no equipo que se usa. Cubre la espalda del torso y, en posición bípeda, da refuerzo estructural desde atrás. Su uso como superficie de absorción requiere posicionamiento deliberado — ángulo calculado, no reacción. Un Drak'kai que usa bien el caparazón ya tomó la decisión antes de que el contacto ocurriera.
 
-Su mandíbula es su arma más comprometida. No golpea — cierra. Una vez que asienta, mantenerla abierta requiere más que la resistencia del objetivo. El tiempo entre el cierre y la consecuencia no es error; es el diseño.
+Su mandíbula es su arma más comprometida. No es solo el impacto del primer golpe — es la presión que continúa. A mayor dominio del arma, mayor es la fuerza que acumula el cierre. El tiempo entre el contacto y la consecuencia completa no es error; es el diseño.
 
 Sus garras son funcionales. Agarran, manipulan objetos que requieren tratamiento delicado, escavan, escalan. En el combate sirven para mantener al oponente en posición y crear presión suplementaria — no como herramienta de daño sino como la que hace difícil sostenerse donde uno está.
 
@@ -120,7 +120,7 @@ Los Drak'kai obtienen `+1` en **Tenacidad**, **Sabiduría** y **Compostura**.
 
 ### Legado
 
-**Caparazón** — Los Drak'kai obtienen un bonificador de `+2` al Bloqueo de la zona Torso por cada cuatro Niveles de Referencia. Este bonificador proviene de la integración estructural del caparazón y se aplica únicamente a la zona Torso.
+**Caparazón** — Los Drak'kai obtienen un bonificador de `+4` al Bloqueo de la zona Torso por cada cuatro Niveles de Referencia. Este bonificador proviene de la integración estructural del caparazón y se aplica únicamente a la zona Torso.
 
 **Magnetismo** — Los Drak'kai obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción, Supervivencia, Orientación y Rastreo.
 

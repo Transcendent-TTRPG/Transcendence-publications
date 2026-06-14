@@ -131,7 +131,7 @@ Ya no es solo tomar aire. Permite recuperar margen funcional y dedicar atención
 
 Tareas significativas disponibles:
 
-- estabilizar una Herida Leve con Medicina, si se cuenta con el kit adecuado
+- estabilizar una zona con 1–2 ranuras ocupadas con Medicina, si se cuenta con kit Básico
 - estudiar una pista reciente
 - revisar huellas, mapas o notas
 - repartir recursos
@@ -168,7 +168,7 @@ El Narrador puede considerar favorables las condiciones si el grupo cuenta con:
 - espacio para sentarse o recostarse
 - herramientas apropiadas para tratar el cuerpo o el equipo
 
-Durante un Descanso de 60 minutos, un personaje puede intentar estabilizar una Herida Grave con Medicina, si cuenta con el kit adecuado.
+Durante un Descanso de 60 minutos, un personaje puede intentar estabilizar una zona con 3–4 ranuras ocupadas con Medicina, si cuenta con kit Avanzado.
 
 Este descanso no libera Ranuras de Herida.
 
@@ -252,9 +252,9 @@ Si el tratamiento tiene éxito, el paciente libera `1` Ranura de Herida de esa Z
 | Descanso | Puede estabilizar | Puede liberar ranuras |
 | --- | --- | ---: |
 | 15 minutos | No por regla base | No |
-| 30 minutos | Herida Leve | No |
-| 60 minutos | Herida Grave | No |
-| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | 1 ranura con T.E. Medicina exitosa |
+| 30 minutos | Zona con 1–2 ranuras (kit Básico) | No |
+| 60 minutos | Zona con 3–4 ranuras (kit Avanzado) | No |
+| Descanso Completo | Zona con 5 ranuras o Colapsada (kit Especializado) | 1 ranura con T.E. Medicina exitosa |
 
 Las reglas completas de dificultad, kits y ajuste por ranuras ocupadas están en **Heridas y Daño**.
 

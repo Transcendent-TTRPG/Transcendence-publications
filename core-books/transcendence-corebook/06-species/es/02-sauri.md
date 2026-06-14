@@ -26,6 +26,8 @@ Los Sauri son humanoides bípedos de gran tamaño con cuerpos de cocodrilo pesad
 
 Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos cargados de Tauma, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales Sauri interpretan estos cambios como evidencia corporal de la presión ambiental: calor, humedad, contenido mineral, flujo ambiental, residuo de vestigio o la proximidad de una manifestación más fuerte. Esto no hace a los Sauri hechiceros naturales. Su piel no comanda el Tauma. Lo recibe y hace esa presión visible. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hace la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar la corriente que los atraviesa.
 
+Su biología depende del calor de maneras que van más allá del confort. El tejido Sauri tiene una capacidad regenerativa que se activa bajo temperatura corporal sostenida: con calor externo disponible, el cuerpo repara heridas a un ritmo que otras especies no alcanzan con los mismos recursos médicos. En frío, esa capacidad se reduce hasta la norma de cualquier otra especie. Sus sacerdocios conocen este rasgo — sus rituales de recuperación siempre incluyen el mantenimiento de temperatura como condición primaria.
+
 Sus mandíbulas son cultural y mecánicamente centrales. Una mordida Sauri no se concibe como un golpe rápido. Es cierre, aprensión, juicio. Una vez que las mandíbulas se asientan, el oponente ya no está meramente herido: ha entrado en un enfrentamiento de masa, palanca, respiración y tiempo. Sus garras existen anatómicamente y cumplen funciones prácticas — trepar, agarrar, escalar, desgarrar obstáculos — más que una función de combate formal. La cola gobierna el espacio alrededor de la decisión que toma la mandíbula.
 
 ## La Cultura
@@ -110,7 +112,7 @@ Los Sauri obtienen `+1` en **Fuerza**, **Sabiduría** y **Aura**.
 
 ### Legado
 
-**Resistencia Corporal** — Los Sauri obtienen `+1` a su **Aguante** por cada Nivel de Referencia.
+**Cicatrización Acelerada** — Los Sauri liberan 1 ranura adicional por cada cuatro Niveles de Referencia cuando un tratamiento durante Descanso Completo tiene éxito, hasta un máximo de 3 ranuras por descanso. Esta cicatrización requiere calor externo sostenido durante el Descanso Completo: cerca de un fuego, bajo el sol directo, en aguas cálidas o en ambiente templado equivalente. Sin calor disponible, el tratamiento libera solo 1 ranura con éxito. Las tiradas de Medicina sobre un Sauri siempre son a `+1 Nivel de Referencia` de dificultad, independientemente de las condiciones.
 
 **Protección Natural** — Cuando un Sauri recibe una herida no crítica, puede acumular `2 Desgaste` para reducir su severidad en un grado.
 

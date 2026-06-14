@@ -447,68 +447,45 @@ permite volver a ellos en condiciones limpias.
 
 ## Estabilización
 
-Para estabilizar una Herida, un personaje realiza una Tirada de Especialización de Medicina con Sabiduría.
+Para estabilizar una zona, un personaje realiza una Tirada de Especialización de Medicina con Sabiduría.
 
-| Herida | Dificultad | Kit requerido | Tiempo |
+| Ranuras ocupadas en la zona | Dificultad | Kit requerido | Tiempo |
 | --- | --- | --- | --- |
-| Leve | Desafiante | Básico | 30 minutos |
-| Grave | Rigurosa | Avanzado | 60 minutos |
-| Crítica | Exigente | Especializado | Descanso Completo |
+| 1–2 | Fundamentos | Básico | 30 minutos |
+| 3–4 | Desafiante | Avanzado | 60 minutos |
+| 5 / Colapsada | Rigurosa | Especializado | Descanso Completo |
 
-En un éxito, la Herida queda estabilizada. Sus efectos inmediatos dejan de empeorar.
+En un éxito, la zona queda estabilizada. Sus efectos inmediatos dejan de empeorar.
 
-En un fallo, la Herida sigue activa y el intento puede consumir tiempo, recursos o abrir una complicación si la escena sigue bajo presión.
+En un fallo, la zona sigue activa y el intento puede consumir tiempo, recursos o abrir una complicación si la escena sigue bajo presión.
 
 ---
 
 ## Tratamiento
 
-Las Heridas deben estar estabilizadas antes de liberar ranuras. Una Herida activa primero debe estabilizarse.
-
-| Descanso | Puede estabilizar | Puede liberar ranuras |
-| --- | --- | ---: |
-| 30 minutos | Herida Leve | No |
-| 60 minutos | Herida Grave | No |
-| Descanso Completo | Herida Crítica o cualquier Herida estabilizada | 1 ranura con T.E. Medicina exitosa |
+Las zonas deben estar estabilizadas antes de liberar ranuras. Una zona activa primero debe estabilizarse.
 
 Al tratar una zona durante un Descanso Completo, el personaje que atiende al paciente realiza una Tirada de Especialización de Medicina con Sabiduría.
 
-La dificultad base y el kit dependen de la ranura más severa que todavía esté ocupada en esa zona.
-
-| Ranura ocupada más severa | Dificultad | Kit requerido |
+| Ranuras ocupadas en la zona | Dificultad | Kit requerido |
 | --- | --- | --- |
-| Leve | Desafiante | Básico |
-| Grave | Rigurosa | Avanzado |
-| Crítica | Exigente | Especializado |
-
-Después, aumenta el Nivel de Referencia según cuántas ranuras estén ocupadas en la misma zona al inicio del Descanso Completo.
-
-| Ranuras ocupadas en la zona | Ajuste |
-| ---: | --- |
-| 1 | Sin ajuste |
-| 2–3 | +1 Nivel de Referencia |
-| 4–5 | +2 Nivel de Referencia |
-| Zona Colapsada | +1 Nivel de Referencia adicional |
+| 1–2 | Desafiante | Básico |
+| 3–4 | Rigurosa | Avanzado |
+| 5 / Colapsada | Exigente | Especializado |
 
 En un éxito, el paciente libera 1 ranura ocupada de esa zona.
 
-La ranura liberada debe pertenecer a una Herida estabilizada.
-
 En un fallo, la zona no libera ranuras.
-
-Cuando hay varias Heridas estabilizadas en la misma zona, quien realiza el tratamiento declara qué ranura intenta liberar antes de tirar.
-
-El Narrador puede exigir que primero se libere una ranura de la Herida más severa si esa lesión mantiene Agonía, Colapso o una pérdida funcional dominante.
 
 ---
 
 ## Ejemplos de progresión
 
-Una Herida Leve ocupa 1 ranura. Si está estabilizada y recibe tratamiento exitoso durante un Descanso Completo, libera esa ranura y desaparece.
+Un golpe que produce una Herida Leve llena 1 ranura. Una vez estabilizada la zona, un tratamiento exitoso la vacía.
 
-Una Herida Grave ocupa 2 ranuras. Después de un Descanso Completo con tratamiento exitoso, libera 1 ranura y queda como Herida Leve. Necesita otro Descanso Completo con tratamiento exitoso para desaparecer.
+Un golpe que produce una Herida Grave llena 2 ranuras. Dos tratamientos exitosos para vaciarlas. La dificultad al tratar baja de Rigurosa a Desafiante cuando queda 1 ranura.
 
-Una Herida Crítica ocupa 3 ranuras. Después de un Descanso Completo con tratamiento exitoso, libera 1 ranura y queda como Grave. Después de otro Descanso Completo con tratamiento exitoso, queda como Leve. Después de otro, desaparece.
+Un golpe que produce una Herida Crítica llena 3 ranuras. Tres tratamientos exitosos para vaciarlas. La dificultad baja de Exigente a Rigurosa al llegar a 2 ranuras, y a Desafiante al llegar a 1.
 
 ---
 

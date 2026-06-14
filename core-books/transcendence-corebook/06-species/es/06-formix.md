@@ -98,7 +98,7 @@ Los Formix obtienen `+1` en **Tenacidad**, **Astucia** y **Compostura**.
 
 **Exoesqueleto** — La estructura esquelética externa reduce la acumulación de carga y aumenta la masa sostenible. Para el cálculo del Aguante base y la Capacidad de Carga, los Formix se tratan como de tamaño Grande. Esto no altera su categoría de tamaño real ni sus modificadores de T.R. o T.E. por tamaño.
 
-**Señal Química** — Las antenas detectan señales químicas de manera continua. Los Formix obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción, Rastreo, Supervivencia e Intuición cuando la información relevante está disponible por vía química u olfativa. Adicionalmente, dentro de un radio de 10 m, las T.E. de Percepción para detectar o localizar seres vivos no están sujetas a penalizadores por visibilidad reducida ni cobertura visual — esta detección se basa en la firma metabólica del organismo y no requiere línea de visión.
+**Señal Química** — Las antenas detectan señales químicas de manera continua. Los Formix obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción, Rastreo, Supervivencia e Intuición cuando la información relevante está disponible por vía química u olfativa. Esta detección no está limitada a fuentes vivas: los Formix pueden identificar venenos, trampas, materiales específicos, residuos de actividad reciente y cualquier fuente química presente en el entorno. Adicionalmente, dentro de un radio de `10 m`, las T.E. de Percepción para detectar o localizar seres vivos no están sujetas a penalizadores por visibilidad reducida ni cobertura visual — esta detección se basa en la firma metabólica del organismo y no requiere línea de visión.
 
 **Umbral del Dolor** — El cuerpo Formix fue construido para continuar funcionando bajo condiciones que detendrían a otras especies. Las Alteraciones Lacerado y Electrizado afectan a los Formix con un nivel de severidad menos: Grave se aplica como Moderado, Moderado como Leve, y Leve sin penalización mecánica.
 
@@ -132,9 +132,9 @@ Los Formix tienen variantes biológicas determinadas por la Reina en el momento 
 
 **Perfiles:** Hostigamiento · Intercepción · Perforación · Precisión
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Veneno. Si falla, reduce su Tenacidad según el rango de competencia.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Veneno. Si falla, reduce su Fuerza según el rango de competencia.
 
-| Rango | Severidad | Reducción de Tenacidad |
+| Rango | Severidad | Reducción de Fuerza |
 | --- | --- | --- |
 | 1–2 | Leve | 1d2 |
 | 3–4 | Moderado | 1d4 |
