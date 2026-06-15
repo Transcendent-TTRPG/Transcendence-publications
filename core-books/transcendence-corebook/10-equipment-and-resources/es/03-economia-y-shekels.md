@@ -104,11 +104,13 @@ El precio de un servicio tiene dos componentes:
 
 El honorario es negociable, pero un especialista de rango alto que acepta trabajar por menos del valor de su tiempo está, en la práctica, subsidiando al encargante.
 
-### Salvamento de ruinas
+### Exploración de zonas peligrosas
 
-Las ruinas humanas contienen materiales que no pueden producirse con tecnología actual. Los materiales umbral extraídos de ruinas tienen valor extraordinario, especialmente para producción de trampas umbral, equipo tauma-impregnado, y ciertos procesos alquímicos avanzados.
+Algunas fuentes de ingreso no son contratos formales sino consecuencia directa de ir a donde otros no van. Las zonas de alta concentración taumática — territorios de Primordiales, anomalías de alta intensidad, entornos con propiedades extranaturales documentadas — contienen materiales que no se encuentran en condiciones normales. Entre ellos están los materiales umbral: materia natural que el gradiente taumático ha alterado estructuralmente con el tiempo.
 
-El riesgo de extracción en ruinas es el más alto del juego — entrar sin saber qué hay dentro es una de las formas más comunes de morir o adquirir aflicciones graves. El precio de los materiales umbral refleja esa tasa de mortalidad.
+Extraer materiales umbral de estas zonas es posible pero extremadamente peligroso. El riesgo no es solo las criaturas del entorno — es la concentración extranatural en sí, que puede producir aflicciones graves por exposición sostenida. El precio de los materiales umbral refleja esa tasa de mortalidad.
+
+Las ruinas humanas no son fuente de materiales ni de ningún otro tipo de recurso. Nada de lo que hay dentro es utilizable — ni los materiales de construcción, ni los objetos, ni la tecnología residual. Las ruinas son sitios de adoración, interpretación y muerte, en ese orden.
 
 ---
 
