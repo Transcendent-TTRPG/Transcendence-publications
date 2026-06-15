@@ -11,7 +11,7 @@ tags: [herramientas, kits, planos, ingeniería, infraestructura, fabricación, c
 related:
   - core-books/transcendence-corebook/10-equipment-and-resources/es/01-materiales.md
   - core-books/transcendence-corebook/10-equipment-and-resources/es/02-extraccion-y-conservacion.md
-  - core-books/transcendence-corebook/10-equipment-and-resources/es/03-fabricacion-equipo.md
+  - core-books/transcendence-corebook/10-equipment-and-resources/es/04-fabricacion-equipo.md
 authority_refs:
   - Transcendence-design/docs/system/materials-and-fabrication.md
   - Transcendence-design/data/system/materials-and-fabrication.yaml
@@ -77,11 +77,12 @@ Para fabricar cualquier herramienta o kit se necesita:
 2. **Los materiales** en los tipos y cantidades especificados.
 3. **La especialización Ingeniería** al rango suficiente para la complejidad del Plano.
 
-Cuando el personaje declara una sesión de fabricación:
+El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Ingeniería**. La dificultad la determina la complejidad del Plano.
 
-- Realiza una tirada de **Ingeniería** al inicio. La dificultad la determina la complejidad del Plano.
-- Si la tirada **falla**: el tiempo se consume sin avance.
-- Si la tirada **tiene éxito**: el personaje trabaja durante las horas requeridas y produce el objeto.
+- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
+- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
+
+El trabajo continúa en sesiones hasta completar el total de horas calculado por la fórmula.
 
 ### Tiempo de fabricación
 

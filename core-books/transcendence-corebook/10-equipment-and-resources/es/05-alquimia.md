@@ -31,11 +31,12 @@ Para fabricar un compuesto alquímico se necesita:
 2. **Los reactivos** en los tipos y cantidades indicados por la fórmula.
 3. **La especialización Alquimia** al rango suficiente para la rareza de la fórmula.
 
-Cuando el personaje declara una sesión de producción:
+El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Alquimia**. La dificultad la determina el tipo de reactivo principal de la fórmula.
 
-- Realiza una tirada de **Alquimia** al inicio. La dificultad la determina el tipo de reactivo principal de la fórmula.
-- Si la tirada **falla**: el tiempo se consume y los reactivos se pierden.
-- Si la tirada **tiene éxito**: el personaje trabaja durante las horas requeridas y produce el compuesto con las dosis obtenidas.
+- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
+- Si la tirada **falla**: esa hora se consume sin avance. Los reactivos no se ven afectados.
+
+El proceso se extiende en sesiones hasta completar el total de horas requeridas. Al completar ese total, el personaje produce el compuesto y tira las dosis.
 
 ### Dificultad por tipo de reactivo
 

@@ -59,13 +59,12 @@ Para fabricar una trampa se necesita:
 2. **Los materiales** en las cantidades especificadas.
 3. **La especialización Ingeniería** al rango suficiente para la rareza.
 
-Cuando el personaje declara una sesión de fabricación:
+El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Ingeniería**. La dificultad la determina la rareza de la trampa.
 
-- Realiza una tirada de **Ingeniería** al inicio. La dificultad la determina la rareza de la trampa.
-- Si la tirada **falla**: el tiempo se consume sin producir avance y los materiales de esa sesión se pierden.
-- Si la tirada **tiene éxito**: el personaje trabaja durante las horas requeridas y completa la trampa.
+- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
+- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
 
-A diferencia del equipo, las trampas se fabrican en una sola sesión sin división en semanas — el tiempo listado es el total.
+El trabajo continúa en sesiones hasta completar el total de horas requeridas.
 
 ### Parámetros por rareza
 

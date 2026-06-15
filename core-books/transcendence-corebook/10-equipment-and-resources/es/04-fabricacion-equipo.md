@@ -30,13 +30,12 @@ Para fabricar cualquier pieza de equipo se necesita:
 2. **Los materiales** en las cantidades y tipos requeridos para el objeto.
 3. **La especialización relevante** al rango suficiente para el material.
 
-Cuando el personaje declara una sesión de trabajo:
+El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de la **especialización relevante**. La dificultad la determina la accesibilidad del material principal del objeto.
 
-- Realiza una tirada de la **especialización relevante** al inicio. La dificultad la determina la accesibilidad del material principal del objeto.
-- Si la tirada **falla**: las horas de esa sesión se consumen sin producir avance.
-- Si la tirada **tiene éxito**: el personaje trabaja durante esa sesión y acumula horas de progreso.
+- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
+- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
 
-El trabajo continúa en sesiones hasta completar el total de horas requeridas para el material.
+El trabajo continúa en sesiones hasta completar el total de horas de progreso requeridas para el material.
 
 ### Dificultad por accesibilidad del material
 
@@ -194,4 +193,4 @@ El tiempo de fabricación lo fija la accesibilidad del material principal del ob
 | Limitada | 2 semanas (60 horas) | 10 días × 6 horas/día |
 | Singular | 3 semanas (90 horas) | 15 días × 6 horas/día |
 
-Las sesiones de trabajo se pueden distribuir libremente en el tiempo. Cada vez que un personaje comienza una nueva sesión, realiza la tirada de especialización de nuevo.
+Las sesiones de trabajo se pueden distribuir libremente en el tiempo. En cada sesión, el personaje declara cuántas horas trabaja y realiza una tirada de especialización por hora.

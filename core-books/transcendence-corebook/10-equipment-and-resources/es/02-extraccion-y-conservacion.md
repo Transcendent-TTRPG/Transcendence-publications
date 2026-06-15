@@ -10,7 +10,7 @@ canonical: false
 tags: [materiales, extracción, conservación, partes-de-criatura, medicina, minería, herboristería]
 related:
   - core-books/transcendence-corebook/10-equipment-and-resources/es/01-materiales.md
-  - core-books/transcendence-corebook/10-equipment-and-resources/es/03-fabricacion-equipo.md
+  - core-books/transcendence-corebook/10-equipment-and-resources/es/04-fabricacion-equipo.md
   - core-books/transcendence-corebook/11-ailments/es/03-aflicciones.md
 authority_refs:
   - Transcendence-design/docs/system/materials-and-fabrication.md

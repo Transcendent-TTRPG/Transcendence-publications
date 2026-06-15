@@ -10,7 +10,7 @@ canonical: false
 tags: [materiales, fabricación, extracción, recursos, materiales-vivos, equipamiento]
 related:
   - core-books/transcendence-corebook/10-equipment-and-resources/es/02-extraccion-y-conservacion.md
-  - core-books/transcendence-corebook/10-equipment-and-resources/es/03-fabricacion-equipo.md
+  - core-books/transcendence-corebook/10-equipment-and-resources/es/04-fabricacion-equipo.md
   - core-books/transcendence-corebook/08-conflict-and-combat/es/05-heridas-y-dano.md
 authority_refs:
   - Transcendence-design/docs/system/materials-and-fabrication.md
