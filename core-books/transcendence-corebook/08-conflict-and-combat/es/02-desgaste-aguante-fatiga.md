@@ -282,7 +282,7 @@ La Fatiga se determina comparando el Desgaste marcado en ese momento con el Agua
 
 La escala base no supera Fatiga 5.
 
-Si una mecánica vuelve a añadir Fatiga cuando el personaje ya está en Fatiga 5, el personaje queda **Incapacitado por agotamiento**.
+Si una mecánica vuelve a añadir Fatiga cuando el personaje ya está en Fatiga 5, el personaje queda **Inconsciente por agotamiento**.
 
 ---
 
@@ -317,13 +317,13 @@ Estos efectos se aplican cuando la Fatiga ya está **asentada**. La Fatiga proye
 | **Fatiga 4** | Las Reacciones no están disponibles. Solo se pueden usar Acciones Activas. |
 | **Fatiga 5** | Las Técnicas solo resuelven su efecto primario (`T.A.`, `T.I.` o efecto de utilidad base). El reposicionamiento gratuito, las Alteraciones aplicadas y el control de posición no se activan. |
 
-Si una mecánica añade Fatiga cuando el personaje ya está en Fatiga 5, queda **Incapacitado**.
+Si una mecánica añade Fatiga cuando el personaje ya está en Fatiga 5, queda **Inconsciente**.
 
 ---
 
-## Incapacitado por agotamiento
+## Inconsciente por agotamiento
 
-Un personaje **Incapacitado por agotamiento** no puede realizar:
+Un personaje **Inconsciente** no puede realizar:
 
 - Acciones Activas
 - Reacciones
@@ -380,7 +380,7 @@ Una carga que supera el `100%` de la capacidad no puede transportarse de forma f
 
 La Fatiga por carga sostenida no revisa umbrales de Desgaste. Se añade directamente por tiempo.
 
-Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje más allá de Fatiga 5, queda **Incapacitado por agotamiento**.
+Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje más allá de Fatiga 5, queda **Inconsciente por agotamiento**.
 
 ---
 
@@ -395,7 +395,7 @@ Si una nueva aplicación de Fatiga por carga sostenida empujaría al personaje m
 | Desgaste remanente | Si no completa un nuevo umbral, permanece marcado para la siguiente escena |
 | Fatiga 1 | Desgaste igual o mayor al Aguante |
 | Fatiga 5 | Máximo nivel base de Fatiga |
-| Más allá de Fatiga 5 | Incapacitado por agotamiento |
+| Más allá de Fatiga 5 | Inconsciente por agotamiento |
 | Carga sostenida | Añade Fatiga directamente por tiempo, no por umbrales de Desgaste |
 
 ---
