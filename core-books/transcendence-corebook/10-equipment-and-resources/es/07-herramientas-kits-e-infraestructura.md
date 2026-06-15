@@ -56,7 +56,7 @@ El grado no determina si necesitas instalación — eso lo fija la naturaleza de
 
 Un Kit Médico de Grado 1 trata heridas y venenos comunes. Uno de Grado 3 puede abordar condiciones de accesibilidad Singular — procedimientos que normalmente requerirían quirófano. La instalación sigue siendo gran calibre en ambos casos; lo que cambia es qué traes contigo.
 
-Los kits son **consumibles**: sus suministros se agotan. El número de usos aumenta con el grado.
+Los kits **consumibles** — Médico, Alquímico, Conservación y Veneno — tienen un número de usos por grado: sus insumos se agotan físicamente. Los demás son **durables**: herramientas que se desgastan con el tiempo pero sin cuenta de uso.
 
 ---
 
@@ -64,17 +64,17 @@ Los kits son **consumibles**: sus suministros se agotan. El número de usos aume
 
 ### Con especialización requerida
 
-| Kit | Especialización | Peso | Precio × grado | Usos × grado |
-| --- | --- | ---: | ---: | ---: |
-| Kit de Extracción | Medicina | 5 kg | 280 S | 10 |
-| Kit Médico | Medicina | 5 kg | 300 S | 15 |
-| Kit de Minería | Minería | 10 kg | 280 S | 10 |
-| Kit Alquímico | Alquimia | 6 kg | 400 S | 20 |
-| Kit de Herboristería | Herboristería | 3 kg | 120 S | 20 |
-| Kit de Costura | Sastrería | 2 kg | 80 S | 15 |
-| Kit de Trampas | Ingeniería | 7 kg | 350 S | 8 |
-| Kit de Municiones | Ingeniería | 5 kg | 300 S | 10 |
-| Kit de Reparación | Ingeniería | 7 kg | 300 S | 8 |
+| Kit | Especialización | Peso | Precio × grado | Usos |
+| --- | --- | ---: | ---: | --- |
+| Kit de Extracción | Medicina | 5 kg | 280 S | — |
+| Kit Médico | Medicina | 5 kg | 300 S | 15 × grado |
+| Kit de Minería | Minería | 10 kg | 280 S | — |
+| Kit Alquímico | Alquimia | 6 kg | 400 S | 20 × grado |
+| Kit de Herboristería | Herboristería | 3 kg | 120 S | — |
+| Kit de Costura | Sastrería | 2 kg | 80 S | — |
+| Kit de Trampas | Ingeniería | 7 kg | 350 S | — |
+| Kit de Municiones | Ingeniería | 5 kg | 300 S | — |
+| Kit de Reparación | Ingeniería | 7 kg | 300 S | — |
 
 **Kit de Extracción** — Bisturíes, jeringas, recipientes sellados, pinzas de precisión. Sin él, la extracción de partes sensibles en campo produce muestra arruinada con facilidad. El grado determina hasta qué accesibilidad puedes trabajar sin perder la pieza.
 
@@ -92,20 +92,20 @@ Los kits son **consumibles**: sus suministros se agotan. El número de usos aume
 
 **Kit de Municiones** — Herramientas de corte y moldeado, vástagos, plumas, resinas, piezas metálicas. Cubre fabricación de proyectiles estándar y munición especial, y es **requisito** para técnicas que dependen de munición especial — sin él, esas técnicas no son ejecutables sin importar la especialización. El grado determina qué tipos de proyectil puedes producir.
 
-**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Para recuperar durabilidad en equipo dañado sin volver a taller. El grado determina los materiales que puedes reparar.
+**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Triage de campo para objetos rotos (D=0) — no sustituye a la forja, estabiliza. El grado determina qué materiales puedes reparar y cuánta D restaura el parche: Grado 1 → D=1, Grado 2 → D=2, Grado 3 → D=3. Cada reparación sucesiva del mismo objeto sin gran calibre de por medio restaura 1 punto menos de D. Cuando llegaría a 0, el objeto necesita forja para recuperarse — la forja también reinicia el contador.
 
 ---
 
 ### Sin especialización requerida
 
-| Kit | Peso | Precio × grado | Usos × grado |
-| --- | ---: | ---: | ---: |
-| Kit de Conservación | 8 kg | 400 S | 5 |
-| Kit de Veneno | 3 kg | 250 S | 12 |
-| Kit de Cartografía | 5 kg | 300 S | 10 |
-| Kit de Caligrafía | 2 kg | 100 S | 20 |
-| Kit de Escalada | 8 kg | 200 S | 15 |
-| Kit de Supervivencia | 6 kg | 150 S | 10 |
+| Kit | Peso | Precio × grado | Usos |
+| --- | ---: | ---: | --- |
+| Kit de Conservación | 8 kg | 400 S | 5 × grado |
+| Kit de Veneno | 3 kg | 250 S | 12 × grado |
+| Kit de Cartografía | 5 kg | 300 S | — |
+| Kit de Caligrafía | 2 kg | 100 S | — |
+| Kit de Escalada | 8 kg | 200 S | — |
+| Kit de Supervivencia | 6 kg | 150 S | — |
 
 **Kit de Conservación** — Soluciones conservantes, recipientes herméticos, materiales absorbentes. Sin conservación, la mayoría del material orgánico empieza a degradarse en horas. El grado determina qué tipo de material puedes estabilizar y por cuánto tiempo. Pocos usos por grado — los conservantes se consumen en cantidad.
 
