@@ -92,7 +92,7 @@ Los kits **consumibles** — Médico, Alquímico, Conservación y Veneno — tie
 
 **Kit de Municiones** — Herramientas de corte y moldeado, vástagos, plumas, resinas, piezas metálicas. Cubre fabricación de proyectiles estándar y munición especial, y es **requisito** para técnicas que dependen de munición especial — sin él, esas técnicas no son ejecutables sin importar la especialización. El grado determina qué tipos de proyectil puedes producir.
 
-**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Triage de campo para objetos rotos (D=0) — no sustituye a la forja, estabiliza. El grado determina qué materiales puedes reparar y cuánta D restaura el parche: Grado 1 → D=1, Grado 2 → D=2, Grado 3 → D=3. Cada reparación sucesiva del mismo objeto sin gran calibre de por medio restaura 1 punto menos de D. Cuando llegaría a 0, el objeto necesita forja para recuperarse — la forja también reinicia el contador.
+**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Para estabilizar en campo equipo que ya se rompió — no reemplaza a la forja, compra tiempo. El grado determina qué materiales puedes abordar y cuánta D deja el parche: un kit de Grado 3 devuelve hasta D=3. Pero el objeto recuerda los parches: cada vez que lo repares en campo sin pasar por gran calibre primero, la D que recuperas baja en 1. La forja lo reinicia.
 
 ---
 
