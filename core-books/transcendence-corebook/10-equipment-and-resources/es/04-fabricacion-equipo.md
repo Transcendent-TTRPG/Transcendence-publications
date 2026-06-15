@@ -177,7 +177,7 @@ El costo de mano de obra depende de la accesibilidad del material, el grado y el
 | Limitada | 45 S × Grado × kg |
 | Singular | 150 S × Grado × kg |
 
-**Ejemplo:** Una hoja larga (una mano) de acero (material de accesibilidad general, grado 2) pesa 2 kg. Mano de obra = 15 × 2 × 2 = **60 S**. El costo de materiales se suma aparte según el catálogo de materiales.
+**Ejemplo:** Una hoja larga (una mano) de acero (material de accesibilidad limitada, grado 2) pesa 2 kg. Mano de obra = 45 × 2 × 2 = **180 S**. Material: 30 S × 2 × 2 kg = 120 S. Total: **300 S**. Ver el _Catálogo de Materiales_ para precios de materiales.
 
 Para objetos con componentes de materiales distintos (asta de madera + punta de metal), se calcula la mano de obra por separado para cada componente si difieren en accesibilidad o grado.
 
