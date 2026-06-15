@@ -65,11 +65,8 @@ El plomo tiene Potencia alta por pura densidad de masa — un golpe contundente 
 
 | Material | Acc. | S/kg | D base | P base | Notas |
 | --- | --- | ---: | ---: | ---: | --- |
-| Carbón | General | 5 | 3 | 2 | Combustible; esencial para forja, sin valor estructural real |
 | Piedra | General | 5 | 10 | 10 | Masa bruta; decente en ambos por volumen puro |
 | Roca | General | 5 | 10 | 10 | Bloques sin trabajar; mismo perfil que piedra |
-| Ámbar | General | 20 | 5 | 5 | Resina fosilizada; frágil bajo impacto |
-| Coral | General | 20 | 5 | 6 | Esqueletos porosos de organismos acuáticos; frágil bajo presión directa |
 | Vidrio | General | 8 | 3 | 8 | Extremadamente frágil; corta bien hasta que se rompe |
 | Obsidiana | Singular | 40 | 6 | 22 | El mayor filo conocido; se astilla con cualquier torsión |
 
@@ -147,11 +144,9 @@ La distinción clave: **dureza** (qué raya qué) ≠ **tenacidad** (resistencia
 | Lapislázuli | Limitada | 30 | 8 | 7 | Semiprecioso moderado |
 | Cuarzo | Limitada | 20 | 10 | 10 | 7 Mohs; rasca metales blandos |
 | Cristales | Limitada | 30 | 10 | 9 | Similar a cuarzo; variados en color |
-| Marfil | Limitada | 40 | 12 | 8 | Duro y tenaz; buen material de trabajo |
 | Topacio | Singular | 120 | 13 | 13 | 8 Mohs; duro y algo tenaz |
 | Esmeralda | Singular | 170 | 13 | 12 | Similar a topacio; algo más frágil |
-| Zafiro | Singular | 130 | 16 | 16 | Corindón: 9 Mohs, duro Y tenaz |
-| Rubí | Singular | 150 | 16 | 16 | Mismo mineral que zafiro (corindón) |
+| Corindón | Singular | 140 | 16 | 16 | 9 Mohs, duro y tenaz — se presenta como zafiro (azul) o rubí (rojo) |
 | Jade | Singular | 150 | 20 | 8 | El mineral más tenaz conocido; no es para corte |
 | Diamante | Singular | 250 | 12 | 26 | Más duro que todo (10 Mohs) pero frágil bajo impacto directo |
 
