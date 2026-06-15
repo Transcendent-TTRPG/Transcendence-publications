@@ -45,13 +45,13 @@ Una extracción normalmente requiere todo lo siguiente:
 
 Las herramientas y kits determinan qué se puede extraer de forma segura y eficiente.
 
-| Grado | Puede extraer de forma segura hasta | Reducción de tiempo | Bonificador a la tirada |
+| Kit | Puede extraer de forma segura hasta | Reducción de tiempo | Bonificador a la tirada |
 | --- | --- | --- | --- |
-| Básico | Grado 1 (común) | — | +0 |
-| Avanzado | Grado 2 (raro) | 25% | +1 |
-| Especializado | Grado 3 (excepcional) | 50% | +2 |
+| Grado 1 | Grado 1 (común) | — | +0 |
+| Grado 2 | Grado 2 (raro) | 25% | +1 |
+| Grado 3 | Grado 3 (excepcional) | 50% | +2 |
 
-Un kit básico no puede extraer material raro o excepcional de forma segura por defecto.
+Un kit de Grado 1 no puede extraer material raro o excepcional de forma segura.
 
 ### Resultados de la extracción
 
@@ -165,12 +165,12 @@ Los materiales vivos pueden requerir **mantenimiento activo** en lugar de simple
 
 | Parte | Kit mínimo | Tiempo en condiciones favorables | Requisito |
 | --- | --- | --- | --- |
-| Pelaje / Plumaje | Básico | 1 mes | Almacenamiento seco, fresco, alejado de humedad |
-| Escamas / Caparazón | Avanzado | 2 meses | Limpiar residuo orgánico y almacenar seco |
-| Colmillos / Garras | Básico | 6 semanas | Secar completamente y mantener en baja humedad |
-| Huesos / Cuernos | Avanzado | 2 meses | Retirar tejido blando y tratar con conservante |
-| Glándulas / Órganos | Especializado | 1 semana | Preservar en salino, alcohol o medio equivalente |
-| Fluidos | Básico | 2 semanas (sangre) / 1 mes (venenos) | Contenedores sellados y aislados |
-| Sistema nervioso | Especializado | 3 días | Conservación controlada en medio especializado |
+| Pelaje / Plumaje | Grado 1 | 1 mes | Almacenamiento seco, fresco, alejado de humedad |
+| Escamas / Caparazón | Grado 2 | 2 meses | Limpiar residuo orgánico y almacenar seco |
+| Colmillos / Garras | Grado 1 | 6 semanas | Secar completamente y mantener en baja humedad |
+| Huesos / Cuernos | Grado 2 | 2 meses | Retirar tejido blando y tratar con conservante |
+| Glándulas / Órganos | Grado 3 | 1 semana | Preservar en salino, alcohol o medio equivalente |
+| Fluidos | Grado 1 | 2 semanas (sangre) / 1 mes (venenos) | Contenedores sellados y aislados |
+| Sistema nervioso | Grado 3 | 3 días | Conservación controlada en medio especializado |
 
 Las entradas individuales de criatura o tejido tauma-reactivo pueden modificar estos perfiles.

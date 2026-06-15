@@ -59,6 +59,8 @@ Para fabricar una trampa se necesita:
 2. **Los materiales** en las cantidades especificadas.
 3. **La especialización Ingeniería** al rango suficiente para la rareza.
 
+Para fabricar trampas **en campo**, se requiere además el **Kit de Trampas** del grado adecuado (ver _Herramientas, Kits e Infraestructura_). En un taller de Ingeniería no se necesita el kit.
+
 El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Ingeniería**. La dificultad la determina la rareza de la trampa.
 
 - Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
@@ -70,9 +72,9 @@ El trabajo continúa en sesiones hasta completar el total de horas requeridas.
 
 | Rareza | Tiempo | Dificultad de fabricación | Detección | Desactivación | Costo de labor | Costo de materiales |
 | --- | --- | --- | --- | --- | --- | --- |
-| Común | 4 horas | Desafiante | Desafiante | Desafiante | 200 S | 216 S |
-| Rara | 10 horas | Exigente | Exigente | Exigente | 500 S | 432 S |
-| Excepcional | 24 horas | Extremo | Exigente | Exigente | 1.200 S | 648 S |
+| Común | 4 horas | Desafiante | Desafiante | Desafiante | 200 S | 50 S |
+| Rara | 10 horas | Exigente | Exigente | Exigente | 500 S | 150 S |
+| Excepcional | 24 horas | Extremo | Exigente | Exigente | 1.200 S | 400 S |
 
 El costo total mínimo de cada trampa es la suma de labor + materiales + el costo adicional del tipo. El Diagrama es un costo único de adquisición aparte.
 

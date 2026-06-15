@@ -23,6 +23,14 @@ La alquimia produce compuestos consumibles a partir de reactivos de criatura y p
 
 ---
 
+## Preparación e índices alquímicos
+
+La fabricación tiene dos etapas con requisitos distintos. La primera — moler, medir y combinar los reactivos base — se llama preparación de **índices alquímicos** y puede hacerse en campo con el Kit Alquímico. La segunda — sintetizar el elixir o veneno terminado — siempre necesita alambique u horno en instalación fija.
+
+Un personaje puede preparar sus índices durante la expedición. El producto se completa al regresar.
+
+---
+
 ## Proceso de fabricación alquímica
 
 Para fabricar un compuesto alquímico se necesita:
@@ -42,9 +50,9 @@ El proceso se extiende en sesiones hasta completar el total de horas requeridas.
 
 | Reactivo principal | Accesibilidad | Dificultad de fabricación |
 | --- | --- | --- |
-| Glándulas | General | Desafiante |
+| Fluidos | General | Desafiante |
+| Glándulas | Limitada | Exigente |
 | Órganos | Limitada | Exigente |
-| Fluidos | Limitada | Exigente |
 | Sistema nervioso | Singular | Extremo |
 
 ---
@@ -88,9 +96,9 @@ Los compuestos alquímicos requieren dos categorías de insumo: un **reactivo de
 
 | Reactivo de criatura | Tipo | Accesibilidad |
 | --- | --- | --- |
-| Glándulas | Parte sensible de criatura | General |
+| Fluidos | Parte sensible de criatura | General |
+| Glándulas | Parte sensible de criatura | Limitada |
 | Órganos | Parte sensible de criatura | Limitada |
-| Fluidos | Parte sensible de criatura | Limitada |
 | Sistema nervioso | Parte sensible de criatura | Singular |
 
 Cada fórmula especifica cuántas unidades del reactivo y cuántas plantas o reactivos vegetales requiere.

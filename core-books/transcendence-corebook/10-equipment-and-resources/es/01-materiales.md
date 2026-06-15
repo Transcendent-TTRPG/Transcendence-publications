@@ -42,7 +42,7 @@ Incluyen:
 - plantas y hongos
 - piedras preciosas
 
-Son los materiales que un personaje espera encontrar primero y entender con más facilidad.
+Son el punto de entrada: lo que se extrae, se caza y se recolecta antes de que el proceso de ningún artesano los toque.
 
 ### Materiales procesados
 
@@ -99,7 +99,7 @@ Los materiales vivos son extraordinarios porque crean problemas distintos de man
 
 ## Grado
 
-El grado es la banda de calidad de una instancia de material, independiente de su accesibilidad.
+Un kilogramo de hierro de veta superficial no es el mismo material que hierro de filón profundo — no en pureza, no en estructura, no en lo que rinde. El grado captura esa diferencia.
 
 | Grado | Denominación |
 | --- | --- |
@@ -107,7 +107,7 @@ El grado es la banda de calidad de una instancia de material, independiente de s
 | 2 | Raro |
 | 3 | Excepcional |
 
-El grado afecta las superficies mecánicas del material — durabilidad, potencia base — y determina qué producción es posible a partir de él.
+El grado afecta durabilidad, potencia base, y qué producción es posible a partir del material.
 
 ---
 
