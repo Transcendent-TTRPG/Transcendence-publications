@@ -182,6 +182,22 @@ Esta fórmula mantiene la posibilidad de usar el arma, pero limita cuánto puede
 
 ---
 
+#### Armas naturales
+
+Las armas naturales — garras, mordida, cuernos, cola y estructuras equivalentes — no tienen grado de arma. Su potencia escala con el dominio del personaje, no con la calidad del equipo.
+
+Para armas naturales, el grado se deriva del rango de competencia:
+
+| Rango de competencia | Grado equivalente |
+| --- | ---: |
+| 1–2 | 1 |
+| 3–4 | 2 |
+| 5–6 | 3 |
+
+La fórmula de T.I. es idéntica. Solo cambia de dónde viene el grado.
+
+---
+
 ### Tirada de Característica (T.C.)
 
 La Tirada de Característica se usa cuando la acción depende de una aptitud general: Fuerza, Agilidad, Tenacidad, Sabiduría o cualquier otra característica relevante.
