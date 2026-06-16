@@ -74,9 +74,9 @@ Si el Narrador **deniega**, indica que algo no está bien sin revelar qué. El p
 
 ## Sin atajos
 
-Taumaturgia puede revelar el sentido vinculado al objeto antes de cualquier interacción directa. No puede revelar el patrón de uso. La investigación académica puede orientar sobre qué clase de entidad está implicada o qué tipo de efecto podría producir. No puede sustituir la impregnación.
+Taumaturgia puede revelar el sentido vinculado al objeto antes de cualquier interacción directa, pero no el patrón de uso. La investigación académica puede orientar sobre qué clase de entidad está implicada — no puede sustituir la impregnación.
 
-El motivo es estructural: el patrón no existe como información almacenada en el objeto esperando a ser extraída. Existe como lo que ocurre cuando la naturaleza de la entidad encuentra el canal neural específico del portador. No hay nada externo a esa interacción que pueda acceder a eso, porque el canal no es parte del objeto — es parte del portador, y se construye en el portador mientras el portador lo entiende.
+El patrón no existe como información almacenada en el objeto esperando a ser extraída. Existe como lo que ocurre cuando la naturaleza de la entidad encuentra el canal neural específico del portador. No hay nada externo a esa interacción que pueda acceder a eso, porque el canal no es parte del objeto — es parte del portador, y se construye en el portador mientras el portador lo entiende.
 
 ---
 

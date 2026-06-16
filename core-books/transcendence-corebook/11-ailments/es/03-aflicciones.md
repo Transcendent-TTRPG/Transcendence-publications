@@ -19,9 +19,9 @@ authority_refs:
 
 # Aflicciones
 
-Las **Aflicciones** son disrupciones mentales, perceptuales o de estado interno. A diferencia de las Alteraciones — que son disrupciones fisiológicas directas del cuerpo — las Aflicciones comprometen la estabilidad interna del ser: juicio, percepción, regulación emocional, integridad cognitiva.
+Las **Aflicciones** son disrupciones del estado interno. Alteran el juicio, la percepción y la capacidad de contener lo que el entorno le arroja al organismo.
 
-Una Aflicción puede tener origen en exposición psíquica, contacto con vestigios o vínculos, trauma sostenido, presencia de horror o infusión extranatural. Lo que la define es que el resultado es una disrupción del estado interno que no se resuelve como una lesión física ordinaria.
+Una Aflicción puede tener origen en exposición psíquica, contacto con vestigios o vínculos, trauma sostenido, presencia de horror o infusión extranatural.
 
 **Tirada de Resistencia:** `1d10 + Compostura + nivel de competencia en Resistencia a Aflicciones + bonificadores adicionales`
 

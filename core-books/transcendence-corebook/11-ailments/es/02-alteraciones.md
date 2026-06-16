@@ -20,9 +20,9 @@ authority_refs:
 
 # Alteraciones
 
-Las **Alteraciones** son disrupciones fisiológicas que comprometen directamente la función del cuerpo. Son la capa principal de estados de combate del sistema.
+Las **Alteraciones** son disrupciones fisiológicas que comprometen directamente la función del cuerpo.
 
-Una Alteración puede tener origen físico, ambiental, mental, por criatura o anómalo — lo que la define es que el resultado es una disrupción operativa directa del cuerpo durante el juego.
+Una Alteración puede tener origen físico, ambiental, mental, por criatura o anómalo. Lo que importa es el resultado: una disrupción operativa del cuerpo.
 
 **Tirada de Resistencia:** `1d10 + Resiliencia + nivel de competencia en Resistencia a Alteraciones + bonificadores adicionales`
 

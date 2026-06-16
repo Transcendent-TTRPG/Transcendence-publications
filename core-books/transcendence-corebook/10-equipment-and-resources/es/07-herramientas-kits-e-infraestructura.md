@@ -20,7 +20,7 @@ authority_refs:
 
 # Herramientas, Kits e Infraestructura
 
-La especialización **Ingeniería** produce los instrumentos que hacen posible el trabajo de todas las demás especializaciones. No fabrica armas ni elixires — fabrica las herramientas y sistemas necesarios para que otros los fabriquen, extraigan, traten o construyan.
+Las herramientas que usan todas las demás especializaciones las produce **Ingeniería**: los picos, los alambiques, los kits de campo, las instalaciones fijas.
 
 ---
 
@@ -163,7 +163,7 @@ El Alambique es el mínimo para sintetizar elixires y venenos. Instalaciones má
 | --- | --- | ---: |
 | Taller de Ingeniería | Acero 15 kg G2 + Roble 20 kg G2 + Cromo 5 kg G2 | 5.850 S |
 
-El Taller de Ingeniería es lo que permite producir gran calibre para otras especializaciones. Sin él, un ingeniero puede fabricar kits — que son campo, no taller — pero no yunques, alambiques ni prensas.
+Sin Taller de Ingeniería, los kits son fabricables — pero no el gran calibre. Yunques, alambiques y prensas necesitan el taller.
 
 ---
 
@@ -203,8 +203,8 @@ Para fabricar cualquier herramienta, kit o instalación de gran calibre se neces
 
 El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Ingeniería**. La dificultad la determina la complejidad del Plano.
 
-- Si la tirada **tiene éxito**: esa hora cuenta como progreso real.
-- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
+- Éxito: una hora de progreso.
+- Fallo: la hora pasa sin avanzar; los materiales quedan.
 
 ### Tiempo de fabricación
 

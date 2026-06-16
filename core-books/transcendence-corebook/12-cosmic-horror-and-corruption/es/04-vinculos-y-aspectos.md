@@ -21,11 +21,7 @@ authority_refs:
 
 # Vínculos y Aspectos
 
-Un vestigo hace algo. Un vínculo cambia lo que el portador es.
-
-No es una diferencia de grado — es una diferencia de estructura. Un vestigo da acceso a un efecto concreto mientras el patrón dure. Un vínculo reorganiza cómo el portador existe en el combate, en el espacio, en la percepción: sus competencias siguen siendo suyas, pero pasan a expresarse a través de lo que el vínculo hace posible. El daño viene de sus armas. La resistencia viene de su constitución. El vínculo no añade poder de la nada — estructura cómo se expresa el poder que el portador ya tiene.
-
-Esta es la consecuencia directa del principio del Tauma: no genera, modifica. El canal no inventa. Canaliza.
+El vínculo reorganiza al portador, no lo amplía. Sus competencias siguen siendo suyas — el daño viene de sus armas, la resistencia de su constitución — pero el vínculo estructura cómo todo eso se expresa. La entidad aporta la forma, no la fuerza.
 
 ---
 

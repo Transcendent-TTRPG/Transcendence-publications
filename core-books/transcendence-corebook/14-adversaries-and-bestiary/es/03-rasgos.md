@@ -18,7 +18,7 @@ authority_refs:
 
 # Rasgos
 
-Los rasgos son la forma en que las criaturas tienen ventaja. Cada rasgo es una condición que, cuando se cumple, le otorga a la criatura Ventaja de Ejecución en un tipo específico de tirada. Sin condición activa, la tirada es directa.
+Cada rasgo es una condición que, cuando se cumple, le otorga a la criatura Ventaja de Ejecución en un tipo específico de tirada. Sin condición activa, la tirada es directa.
 
 ---
 

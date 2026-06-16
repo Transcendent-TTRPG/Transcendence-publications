@@ -28,7 +28,7 @@ section_modes:
 
 # Condiciones del Entorno
 
-Las condiciones del entorno dan al Narrador un marco para asignar dificultad cuando el desafío proviene de una presión externa al actor: terreno, clima, exposición, una presencia hostil dominante o el nivel de amenaza general de una situación. No funcionan como una regla separada del sistema de umbrales. Son la herramienta con la que el Narrador determina qué nivel de dificultad aplicar cuando ninguna otra mecánica lo hace.
+Las condiciones del entorno formalizan la presión de escena que no proviene del personaje: terreno, clima, exposición, una amenaza dominante o el nivel de hostilidad general de una situación. Cuando ninguna otra mecánica asigna el umbral de dificultad, la severidad del entorno lo hace.
 
 Si existe una regla propia para una acción, esa regla tiene precedencia. Si no existe, la severidad del entorno establece el umbral.
 
@@ -44,7 +44,7 @@ Las fuentes más comunes son tres:
 - **Hostil.** Una presencia que domina la situación aunque no exista todavía una regla puntual para resolverla: una criatura mortal muy superior, una entidad anómala, una presencia primordial, una persecución o un espacio controlado por amenaza activa.
 - **Extranatural.** Una alteración del mundo perceptible causada por filtración del Limbo o por Tauma actuando sobre algo ya existente.
 
-La taxonomía exacta de criaturas pertenece al capítulo correspondiente. Aquí solo importa una distinción mecánica: si la presión sigue la lógica natural del mundo o si proviene de una filtración extranatural.
+La distinción relevante para este sistema es si la presión sigue la lógica natural del mundo o proviene de una filtración extranatural.
 
 ---
 
@@ -52,7 +52,7 @@ La taxonomía exacta de criaturas pertenece al capítulo correspondiente. Aquí 
 
 Las condiciones naturales se ajustan a las leyes del mundo. Pueden ser extremas — un huracán, un campo volcánico, un derrumbe, la presencia de un depredador descomunal o una criatura mortal abrumadora — pero operan dentro de una lógica física coherente.
 
-Las condiciones extranaturales son fenómenos del mundo perceptible que involucran la energía del Limbo — la dimensión paralela impercibible, origen del Tauma. El Tauma no genera fenómenos de la nada: transforma, modifica, amplifica lo que ya existe en el mundo material. Lo que distingue una condición extranatural de una natural no es la intensidad ni los elementos involucrados, sino el origen: cualquier reacción que no corresponda a la lógica natural del mundo y que provenga de la dimensión imperceptible filtrándose en la perceptible.
+Las condiciones extranaturales son fenómenos del mundo perceptible que involucran la energía del Limbo — la dimensión paralela impercibible, origen del Tauma. El Tauma no genera fenómenos de la nada: transforma, modifica, amplifica lo que ya existe en el mundo material. Una condición es extranatural por su origen, no por su intensidad ni por los elementos que involucra: cualquier reacción que provenga de la dimensión imperceptible filtrándose en la perceptible entra en esa categoría.
 
 Una presencia hostil puede pertenecer a cualquiera de los dos grupos. Un enemigo mortal o una bestia material siguen siendo presión natural. Una entidad anómala o primordial, o una presencia hecha de energía del Limbo, genera presión extranatural aunque adopte forma visible o material.
 
@@ -160,7 +160,7 @@ La severidad orienta estas decisiones — una condición Extrema hace probable q
 
 ## Especializaciones relevantes
 
-Las siguientes especializaciones interactúan directamente con las condiciones del entorno. Su presencia en el grupo determina qué opciones tiene el personaje para responder activamente a la presión de escena, en lugar de limitarse a soportarla.
+Tener estas especializaciones en el grupo determina si los personajes pueden responder activamente a la presión de escena o solo soportarla.
 
 | Especialización | Tipo de condición | Contexto |
 | --- | --- | --- |

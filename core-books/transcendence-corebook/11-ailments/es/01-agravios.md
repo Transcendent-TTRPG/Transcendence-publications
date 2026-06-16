@@ -20,13 +20,9 @@ authority_refs:
 
 # Agravios
 
-Un **Agravio** es una condición perjudicial que se asienta sobre una criatura y altera la forma en que puede actuar, percibir, resistir o mantenerse funcional.
+Un **Agravio** activo altera cómo actúa una criatura, cómo percibe, cómo resiste. No termina hasta que algo lo elimine, lo alivie o expire por sus propias condiciones.
 
-Los Agravios no describen simples molestias pasajeras. Representan estados que ya lograron imponerse sobre el cuerpo o la mente de una criatura. 
-
-Mientras un Agravio permanezca activo, la criatura afectada debe tratar con sus consecuencias hasta que el estado se elimine, se alivie o termine por sus propias condiciones.
-
-La fuente de un Agravio puede variar: una criatura, un arma, un veneno, una exposición prolongada, una escena peligrosa, un objeto, un lugar o una causa extranatural. Lo que define al Agravio no es de dónde viene, sino **qué tipo de daño funcional deja una vez existe sobre el objetivo**.
+De dónde llegó — una criatura, un arma, un veneno, una escena, un lugar — no cambia lo que hace.
 
 ---
 
@@ -56,9 +52,7 @@ Todos los Agravios usan tres niveles de severidad:
 
 La severidad indica cuánto se ha asentado el Agravio y cuánta presión ejerce sobre la criatura afectada.
 
-La estructura de tres niveles es común a todas las familias, pero cada Agravio define qué significa esa severidad en su propio caso. En algunos Agravios, una severidad mayor aumenta una penalización. En otros, activa restricciones adicionales o vuelve más difícil eliminar el estado.
-
-La severidad no debe leerse siempre como “más número”. A veces significa que el Agravio es más profundo, más estable, más difícil de limpiar o más peligroso si se ignora.
+Los tres niveles son comunes a todas las familias; lo que cambia es qué significa escalar. En algunos Agravios, una severidad mayor aumenta una penalización. En otros, activa restricciones adicionales o vuelve más difícil eliminar el estado.
 
 ### Umbrales de aplicación por defecto
 

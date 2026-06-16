@@ -18,7 +18,7 @@ authority_refs:
 
 # Fabricación de Equipo
 
-La fabricación de equipo produce armas, armaduras, escudos y joyas a través de un proceso controlado de trabajo manual. No existe una tirada genérica de "hacer un objeto" — cada pieza de equipo pertenece a la especialización que la ejecuta, requiere un documento de diseño, y consume horas de trabajo real.
+Cada pieza de equipo tiene una especialización que la produce, un diseño que la define, y un costo en horas de trabajo real.
 
 ---
 
@@ -32,8 +32,8 @@ Para fabricar cualquier pieza de equipo se necesita:
 
 El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de la **especialización relevante**. La dificultad la determina la accesibilidad del material principal del objeto.
 
-- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
-- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
+- Si la tirada **tiene éxito**: esa hora cuenta como progreso.
+- Si la tirada **falla**: la hora se pierde, los materiales no.
 
 El trabajo continúa en sesiones hasta completar el total de horas de progreso requeridas para el material.
 

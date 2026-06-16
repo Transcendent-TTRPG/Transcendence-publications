@@ -20,7 +20,7 @@ authority_refs:
 
 # Catálogo de Materiales
 
-Este catálogo es la referencia de precios, durabilidad y potencia para todos los materiales del sistema. Los valores corresponden a **Grado 1**. Para Grado 2, multiplica por 2; para Grado 3, por 3.
+Los valores corresponden a **Grado 1**. Para Grado 2, multiplica por 2; para Grado 3, por 3.
 
 Los materiales de Accesibilidad **Limitada** o **Singular** pueden no estar disponibles en todos los asentamientos — su presencia depende de las rutas comerciales y la región.
 
@@ -57,8 +57,6 @@ La **Durabilidad** refleja qué tan resistente es la estructura del material a s
 | Cromo | Limitada | 60 | 22 | 12 | Durísimo superficialmente; no transmite bien la fuerza solo |
 | Titanio | Singular | 200 | 32 | 18 | Resistencia excepcional a la fractura; ligero, sin filo natural |
 
-El plomo tiene Potencia alta por pura densidad de masa — un golpe contundente de plomo transmite mucha fuerza — pero su Durabilidad baja significa que el arma o armadura de plomo se destruye rápido cuando es el objetivo de ruptura. El oro tiene la misma lógica a menor escala.
-
 ---
 
 ## Rocas y minerales
@@ -70,7 +68,7 @@ El plomo tiene Potencia alta por pura densidad de masa — un golpe contundente 
 | Vidrio | General | 8 | 3 | 8 | Extremadamente frágil; corta bien hasta que se rompe |
 | Obsidiana | Singular | 40 | 6 | 22 | El mayor filo conocido; se astilla con cualquier torsión |
 
-La obsidiana no es rara en zonas volcánicas, pero su fragilidad extrema y la precisión que exige su trabajo la sitúan en Accesibilidad Singular. Su Potencia muy alta y Durabilidad muy baja crean una elección táctica genuina: corta casi cualquier cosa, pero el arma o pieza de obsidiana también se destruye rápido.
+La obsidiana no es rara en zonas volcánicas, pero su fragilidad extrema y la precisión que exige su trabajo la sitúan en Accesibilidad Singular. Corta casi cualquier cosa; también se destruye rápido.
 
 ---
 
@@ -137,7 +135,7 @@ Materiales de precisión para uso alquímico. No tienen valor estructural — su
 
 Las gemas se usan en cantidades pequeñas en joyería. Los precios por kilogramo son para referencia de extracción y comercio mayorista — una pieza de joyería consume entre 0,02 y 0,1 kg de material.
 
-La distinción clave: **dureza** (qué raya qué) ≠ **tenacidad** (resistencia a fractura). El diamante es el más duro de todos pero frágil bajo impacto directo. El jade es menos duro pero casi imposible de fracturar — la mayor tenacidad entre los minerales conocidos.
+**Dureza** y **Potencia** no son lo mismo. El diamante raya todo — y se parte ante un impacto directo. El jade es menos duro pero casi imposible de fracturar.
 
 | Material | Acc. | S/kg | D base | P base | Notas |
 | --- | --- | ---: | ---: | ---: | --- |

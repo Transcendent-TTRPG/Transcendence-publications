@@ -20,13 +20,11 @@ authority_refs:
 
 # Entidades
 
-El Tauma existe en todas partes. Fluye desde el Limbo de forma continua y pasiva. No tiene voluntad — es energía, no agente. Pero en zonas de alta concentración sostenida, rodeado durante generaciones de la consciencia colectiva de las criaturas que las habitaron, puede adquirir una forma distinta. Puede dejar de ser Tauma que fluye y convertirse en Tauma que quiere.
-
-A eso se llama un **Primordial**.
+El Tauma existe en todas partes. Fluye desde el Limbo de forma continua y pasiva — es energía, no agente. Pero en zonas de alta concentración sostenida, rodeado durante generaciones de la consciencia colectiva de las criaturas que las habitaron, puede adquirir una forma distinta: dejar de ser Tauma que fluye y convertirse en Tauma que quiere. A eso se llama un **Primordial**.
 
 Un Primordial no preexiste como ser independiente. Emerge cuando el Tauma concentrado en una zona incorpora suficiente impronta de la vida consciente que la habita. Sus deseos, sus miedos, sus patrones rituales, sus guerras, sus creencias sostenidas durante siglos — todo eso orienta el Tauma hasta que el Tauma empieza a orientarse solo. El querer no es anterior a ese proceso. Es ese proceso.
 
-Esta diferencia importa para entender lo que el Narrador está diseñando cuando diseña una entidad. No es un ítem con estadísticas. Es la cristalización de lo que una zona fue.
+Cada Primordial es la cristalización de lo que una zona fue — y esa historia determina su naturaleza, su agenda y su escala.
 
 ---
 
@@ -38,7 +36,7 @@ No todos los Primordiales tienen la misma escala. La diferencia no es solo de po
 
 Residuo taumático con cohesión mínima. Sin voluntad definida. Es Tauma bruto que adquirió la forma más básica posible — suficiente para impregnarse en un objeto, suficiente para comunicarse a través de la aflicción de un portador, pero sin capacidad de sostener una agenda propia ni de mantener un patrón complejo durante mucho tiempo.
 
-Sus vestigos se agotan rápido. Sus pistas son más arquetípicas que personales: no hay individualidad detrás del mensaje, solo una orientación elemental muy básica. Los Fragmentos son los más comunes. Sus vínculos son accesibles desde el inicio (NR 1), pero de alcance limitado.
+Los vestigos de un Fragmento se agotan rápido. Las pistas que genera son más arquetípicas que personales: no hay individualidad detrás del mensaje, solo una orientación elemental muy básica. Los Fragmentos son los más comunes y sus vínculos son accesibles desde el inicio (NR 1), aunque de alcance limitado.
 
 Los Fragmentos no son únicos. Hay múltiples instancias del mismo tipo.
 
@@ -48,7 +46,7 @@ La mayoría de los vestigos y vínculos del juego provienen de este nivel. Una E
 
 Sus pistas no son solo información sobre el efecto: reflejan cómo la entidad se siente respecto al portador actual, qué espera, qué recuerda. Un portador que presta atención puede aprender más sobre la entidad que sobre el objeto.
 
-Sus vestigos duran más que los de un Fragmento. Sus vínculos requieren progresión real (NR 3) y tienen consecuencias que van más allá de la mecánica: la entidad tiene una presencia que se puede tratar como interlocutor, no solo como fuente de poder.
+Los vestigos de una Entidad duran más que los de un Fragmento. Los vínculos requieren progresión real (NR 3) y tienen peso propio: la entidad tiene una presencia que se puede tratar como interlocutor, no solo como fuente de poder.
 
 ### Soberano
 
@@ -56,13 +54,9 @@ Un Soberano tiene identidad fuerte. No necesita muchas pistas para comunicar lo 
 
 Interactuar con un Soberano no es neutral. La entidad tiene agenda propia y memoria de quienes la han portado antes. Puede reconocer al portador actual dentro de una historia más larga. Sus vínculos tienen consecuencias narrativas además de mecánicas (NR 5): no se puede usar un vínculo soberano sin que la entidad esté, de alguna forma, al tanto.
 
-Sus vestigos son objetos con historia. El Narrador debería saber de antemano cuándo se van a agotar y preparar ese momento como un evento narrativo, no como el fin de un recurso.
-
-Un Soberano no se diseña como mecánica. Se diseña como personaje.
+Los vestigos de un Soberano son objetos con historia. El Narrador debería saber de antemano cuándo se van a agotar y preparar ese momento como un evento narrativo, no como el fin de un recurso.
 
 ### Abismal
-
-El Abismal no es una mecánica. Es un evento.
 
 No tiene NR mínimo porque ningún NR lo hace accesible — su presencia en el mundo no es una recompensa de avance. Es una circunstancia narrativa excepcional, algo que ocurre cuando el Narrador decide que eso es lo que está en esa zona y que los personajes están a punto de atravesarla.
 
@@ -109,8 +103,6 @@ La consecuencia práctica para los personajes es que la historia de una zona es 
 ---
 
 ## Diseñar una entidad
-
-Una entidad bien diseñada es un personaje con historia y agenda, no un ítem con estadísticas.
 
 Al diseñar una entidad, el Narrador responde estas preguntas en orden:
 

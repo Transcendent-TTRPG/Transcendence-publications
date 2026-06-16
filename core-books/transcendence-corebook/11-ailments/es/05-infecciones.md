@@ -18,7 +18,7 @@ authority_refs:
 
 # Infecciones
 
-Las **Infecciones** son agentes biológicos o contaminantes que se infiltran en el organismo, persisten en él y pueden propagarse a otras criaturas. A diferencia de los Venenos — que actúan una vez y son estáticos — las Infecciones son dinámicas: tienen un período de incubación, pueden agravarse con el tiempo sin tratamiento y son capaces de extenderse por contacto.
+Una **Infección** entra al organismo, incuba en silencio, y en algún punto se activa. Ya activa, puede empeorar sin tratamiento y propagarse a quien entre en contacto con el portador.
 
 **Tirada de Resistencia:** `1d10 + Tenacidad + nivel de competencia en Resistencia a Infecciones + bonificadores adicionales`
 

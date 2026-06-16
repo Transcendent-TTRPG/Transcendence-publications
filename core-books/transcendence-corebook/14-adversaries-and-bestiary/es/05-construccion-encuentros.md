@@ -50,7 +50,7 @@ La categoría define el rango de NR recomendado relativo al NR del grupo (NRg):
 
 Estos rangos son puntos de partida. Ajusta según la composición del grupo, la información que tengan sobre la criatura, y el nivel de preparación que hayan podido reunir.
 
-Recuerda: un Común puede tener el mismo NR que un Campeón o un Elite. Lo que diferencia a cada categoría no es el NR, sino el tipo de presión que ejerce en el encuentro.
+Un Común puede tener el mismo NR que un Campeón o un Elite — lo que diferencia a cada categoría es el tipo de presión que ejerce en el encuentro.
 
 ---
 
@@ -115,7 +115,7 @@ Golpe Final
 
 ## Workflow de diseño
 
-Seguir este orden evita criaturas donde los números existen pero el cuerpo no puede explicar el comportamiento, o donde el comportamiento existe pero no tiene zona que lo sostenga.
+Este orden evita criaturas incoherentes: comportamientos sin cuerpo que los explique, zonas sin comportamiento que las justifique.
 
 1. **Define qué hace la criatura en combate.** Lista todos los comportamientos: tipos de ataque, respuestas defensivas, efectos recurrentes, presencia ambiental.
 2. **Identifica la parte del cuerpo que habilita cada comportamiento.** Esto no es sabor opcional — es el trabajo de diseño. Si no puedes identificar una parte del cuerpo para un comportamiento, el comportamiento no está listo para ser escrito.

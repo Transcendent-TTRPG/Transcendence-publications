@@ -21,7 +21,7 @@ authority_refs:
 
 ## Extracción
 
-La extracción siempre se resuelve a través de la **especialización relevante**. No existe una tirada genérica que cubra trabajo extractivo — cada proceso pertenece al dominio que realmente lo ejecuta.
+Cada proceso de extracción pertenece al dominio que realmente lo ejecuta.
 
 ### Dominios de extracción
 
@@ -67,7 +67,7 @@ En caso de fallo, el resultado por defecto es generalmente uno o más de los sig
 
 ## Partes de criatura
 
-Las partes de criatura son uno de los materiales con más presión de extracción del juego. Combinan riesgo biológico, demanda de conservación y potencial de refinamiento alquímico.
+Las partes de criatura son el material más exigente: se deterioran rápido, contaminan al extractor que falla, y pierden casi todo su valor si llegan rotas al proceso.
 
 ### Grupos de extracción
 
@@ -78,7 +78,7 @@ Las partes de criatura se dividen en dos grupos con lógicas distintas:
 | **No sensibles** | Pelaje, escamas, caparazón, plumaje, huesos, cuernos, garras, colmillos | kg |
 | **Sensibles** | Glándulas, órganos, fluidos, sistema nervioso | unidades / litros |
 
-Las partes no sensibles son extracción estructural en volumen. Las sensibles requieren precisión: cortes controlados, separación cuidadosa, y riesgo de arruinar la muestra ante un fallo.
+Las partes no sensibles se extraen en volumen — hueso, escama, pelaje. Las sensibles exigen cortes exactos; un fallo en un órgano o una glándula arruina la muestra entera.
 
 ### Tiempo y rendimiento
 

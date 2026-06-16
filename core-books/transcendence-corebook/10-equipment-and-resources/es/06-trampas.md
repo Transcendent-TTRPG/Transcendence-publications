@@ -19,9 +19,9 @@ authority_refs:
 
 # Trampas
 
-Una trampa es un mecanismo, disposición o sistema preparado de antemano para activarse ante una condición específica — generalmente la presencia o el movimiento de un objetivo. A diferencia del equipo o los compuestos alquímicos, las trampas no se portan ni se usan activamente: se instalan y esperan.
+Una trampa no requiere al fabricante para funcionar. Se instala en el terreno, aguarda la condición que la activa, y trabaja sola.
 
-La especialización que fabrica trampas es **Ingeniería**. La que las detecta o desactiva es también Ingeniería, aunque otras especializaciones pueden ser relevantes según el tipo.
+Fabricarlas, detectarlas y desactivarlas pertenece a la misma especialización: **Trampas**.
 
 ---
 
@@ -63,8 +63,8 @@ Para fabricar trampas **en campo**, se requiere además el **Kit de Trampas** de
 
 El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Ingeniería**. La dificultad la determina la rareza de la trampa.
 
-- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
-- Si la tirada **falla**: esa hora se consume sin avance. Los materiales no se ven afectados.
+- Con éxito: esa hora avanza el proceso.
+- Con fallo: se pierde la hora; los materiales quedan intactos.
 
 El trabajo continúa en sesiones hasta completar el total de horas requeridas.
 

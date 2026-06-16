@@ -34,7 +34,7 @@ Un Shekel es una unidad de peso en metal estandarizado. Su forma varía entre as
 
 ## Costo de vida
 
-El costo de vida varía significativamente según el contexto. Dentro de un asentamiento, la infraestructura colectiva — almacenes comunes, defensas compartidas, acceso a artesanos locales — reduce el costo de subsistir. Fuera de un asentamiento, cada recurso tiene el precio del riesgo que costó traerlo.
+Dentro de un asentamiento, la infraestructura colectiva — almacenes comunes, defensas compartidas, acceso a artesanos locales — reduce el costo de subsistir. Fuera de un asentamiento, cada recurso tiene el precio del riesgo que costó traerlo.
 
 ### Dentro de un asentamiento
 
@@ -51,7 +51,7 @@ El costo de vida varía significativamente según el contexto. Dentro de un asen
 | **Subsistencia** | 20–25 S/día | Raciones de campo, agua purificada o almacenada, sin refugio fijo |
 | **Cómodo** | 55–70 S/día | Suministros de calidad, herramientas de supervivencia, posada en paradas intermedias si existen |
 
-El precio más alto fuera del asentamiento no refleja lujo — refleja el costo real de transportar bienes a través de terreno hostil.
+Cada recurso en ruta carga el precio de haberlo traído a través de terreno hostil.
 
 ---
 
@@ -91,7 +91,7 @@ Estos valores son orientativos. Un asentamiento pobre puede no tener Shekels dis
 
 Los materiales que los personajes extraen de criaturas, ruinas o yacimientos tienen valor de venta. El precio lo determina la demanda local y el grado del material. Los materiales de grado excepcional o de origen umbral son raros y valiosos, especialmente para alquimistas y artesanos especializados.
 
-Las transacciones de materiales no tienen tabla fija — el Narrador establece el precio justo según el contexto del asentamiento receptor y la disponibilidad local del material.
+El precio de un material depende del asentamiento que lo recibe y de qué tan disponible sea localmente.
 
 ### Servicios de especialización
 

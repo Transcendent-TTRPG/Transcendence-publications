@@ -30,13 +30,13 @@ Hay dos designaciones posibles para una zona:
 
 **Núcleo** — una zona (puede ser más de una en criaturas complejas) cuyo colapso es existencialmente significativo: termina a la criatura o activa una fase mayor. El Núcleo también tiene comportamiento — no es simplemente "el corazón" ni una abstracción de vida total. Es la zona que, al desaparecer, rompe el sistema completo.
 
-La designación Núcleo no aumenta por sí sola la importancia táctica de la zona — la importancia viene de lo que ocurre cuando colapsa. Una criatura cuyo Núcleo sea obvio desde el primer round es tácticamente trivial. Una cuyo Núcleo sea difícil de identificar o de alcanzar es un problema real.
+La importancia táctica del Núcleo viene de lo que ocurre cuando colapsa. Una criatura cuyo Núcleo sea obvio desde el primer round es tácticamente trivial. Una cuyo Núcleo sea difícil de identificar o de alcanzar es un problema real.
 
 ---
 
 ## PV y Bloqueo
 
-Los PV y el Bloqueo de cada zona se derivan del NR de la criatura, su rol y su naturaleza. La categoría (Común, Campeón, Elite) no afecta estos valores — determina el alcance de los ciclos autónomos, no la dureza de las zonas.
+Los PV y el Bloqueo de cada zona se derivan del NR de la criatura, su rol y su naturaleza. La categoría (Común, Campeón, Elite) determina el alcance de los ciclos autónomos — la dureza de las zonas la da el NR.
 
 ### PV base
 

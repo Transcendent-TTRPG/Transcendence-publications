@@ -19,7 +19,7 @@ authority_refs:
 
 # Alquimia
 
-La alquimia produce compuestos consumibles a partir de reactivos de criatura y plantas. Sus productos no son herramientas de trabajo — son sustancias que se introducen en un organismo y producen un efecto biológico o psicofísico. La Alquimia es la especialización que ejecuta este proceso.
+Los compuestos alquímicos entran en un organismo y cambian algo en él: la velocidad de respuesta, la resistencia, el estado de consciencia, la capacidad de moverse. Los reactivos son partes de criatura y vegetales; el proceso, Alquimia.
 
 ---
 
@@ -41,8 +41,8 @@ Para fabricar un compuesto alquímico se necesita:
 
 El personaje declara cuántas horas va a trabajar en esa sesión. Por cada hora declarada, realiza una tirada de **Alquimia**. La dificultad la determina el tipo de reactivo principal de la fórmula.
 
-- Si la tirada **tiene éxito**: esa hora cuenta como progreso real hacia el total requerido.
-- Si la tirada **falla**: esa hora se consume sin avance. Los reactivos no se ven afectados.
+- Éxito: esa hora suma progreso.
+- Fallo: la hora se pierde, los reactivos quedan intactos.
 
 El proceso se extiende en sesiones hasta completar el total de horas requeridas. Al completar ese total, el personaje produce el compuesto y tira las dosis.
 
@@ -73,7 +73,7 @@ Las fórmulas tienen tres niveles de rareza que determinan el tiempo de producci
 | Rara | 24 horas | 1d3 | Exigente |
 | Excepcional | 36 horas | 1d2 | Extremo |
 
-Las dosis son aleatorias por diseño. Una fórmula común produce entre 1 y 4 dosis del mismo lote porque el proceso alquímico no es industrialmente controlado — cada lote depende de la calidad exacta de los reactivos y las condiciones del entorno.
+El rendimiento de cada lote varía — los reactivos orgánicos y las condiciones del entorno nunca son exactamente los mismos.
 
 ---
 

@@ -18,7 +18,7 @@ authority_refs:
 
 # Doctrina, Naturaleza, Categoría y Rol
 
-Las criaturas no son personajes jugadores sin hoja. Son sistemas con comportamientos — y cada comportamiento tiene un cuerpo que lo hace posible. Eso es la doctrina de diseño que rige toda criatura en este juego.
+Cada criatura es un sistema con comportamientos, y cada comportamiento tiene un cuerpo que lo hace posible.
 
 ---
 
@@ -30,13 +30,13 @@ El punto de partida siempre son los comportamientos: qué hace la criatura, cóm
 
 **Si un comportamiento no tiene zona, no es un comportamiento: es una abstracción. Las abstracciones no pertenecen al diseño de criaturas.**
 
-Cuando una zona colapsa, el comportamiento vinculado a ella se detiene. Los jugadores que apuntan a zonas no están agotando recursos — están desmantelando un sistema vivo. El problema táctico no es "cuánta vida le queda" sino "qué comportamiento desactivar primero y qué hace la criatura cuando lo pierde."
+Cuando una zona colapsa, el comportamiento vinculado a ella se detiene. Los jugadores que apuntan a zonas desmantelan la criatura parte a parte: cuando una zona colapsa, el comportamiento que sostenía desaparece. La pregunta táctica es cuál desactivar primero, y qué hace la criatura cuando lo pierde.
 
 ---
 
 ## Naturaleza
 
-La naturaleza describe la composición biológica de la criatura y su relación con el Tauma. No es una medida de poder. Una criatura Mortal no es más débil que una Anomalía por definición — su naturaleza describe qué es, no qué tan peligrosa resulta.
+La naturaleza describe la composición biológica de la criatura y su relación con el Tauma. El peligro viene del NR — una Mortal puede ser tan letal como una Anomalía; la naturaleza describe qué es la criatura, no cuánto daña.
 
 ### Mortal
 
@@ -62,7 +62,7 @@ Para los Primordiales, los ataques que alcanzan zonas sin relación con su lógi
 
 ## Categoría
 
-La categoría define el rol de la criatura en el ecosistema y el alcance de sus ciclos autónomos. No determina el poder — eso lo hace el NR. Determina qué tipo de presencia tiene la criatura en el mundo y en un encuentro.
+La categoría define el tipo de presencia que tiene la criatura en el mundo y en un encuentro: su rol en el ecosistema y el alcance de sus ciclos autónomos. El poder lo determina el NR.
 
 ### Común
 
@@ -76,7 +76,7 @@ Un individuo poderoso que comanda o coordina a un grupo. Sus ciclos autónomos i
 
 Un individuo excepcional, más allá de cualquier otro miembro de su especie. Sus ciclos autónomos incluyen ciclos biológicos y ciclos ambientales — procesos que cambian el propio campo de batalla: visibilidad, terreno, condiciones elementales, estabilidad espacial.
 
-Las criaturas Elite no son Comunes o Campeones más fuertes. Son encuentros que cambian la naturaleza del espacio donde están los jugadores.
+Una criatura Elite no es un Común o un Campeón con más potencia — es un encuentro que modifica el espacio mismo donde están los jugadores.
 
 Las criaturas Elite tienen además:
 

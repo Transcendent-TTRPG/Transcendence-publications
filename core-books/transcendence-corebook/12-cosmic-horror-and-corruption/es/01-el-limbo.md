@@ -75,4 +75,4 @@ Cuatro especializaciones permiten identificar presencia taumática antes de inte
 
 **Teología** (Intelecto) interpreta por doctrina. El personaje que conoce la tradición religiosa que ha sistematizado el conocimiento de las manifestaciones del Limbo puede reconocer presencia taumática e inferir la clase de entidad implicada según los signos de esa tradición. No es ciencia del Tauma — es exégesis religiosa aplicada al objeto. Un taumaturgo y un teólogo pueden llegar a conclusiones similares por caminos completamente distintos.
 
-Las cuatro especializaciones son complementarias, no excluyentes. Un personaje con Resonancia y Taumaturgia sabe más que uno que solo tiene Instinto. Un creyente con doctrina sistematizada puede llegar a conclusiones parecidas a las de un taumaturgo por un camino que no comparte ningún vocabulario con él.
+Las cuatro especializaciones son complementarias, no excluyentes. Un creyente con doctrina sistematizada puede llegar a conclusiones parecidas a las de un taumaturgo por un camino que no comparte ningún vocabulario con él.

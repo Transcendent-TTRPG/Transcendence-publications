@@ -20,7 +20,7 @@ authority_refs:
 
 # Materiales
 
-Los materiales no son solo descripción. Son la razón por la que una armadura aguanta más, un arma penetra mejor, o un kit de extracción falla con un componente y no con otro. Todo material que tiene entrada en el sistema cambia al menos una superficie mecánica real — durabilidad, potencia base, qué proceso puede seguir, cómo se conserva, con qué se puede refinar. Si un material no cambia ninguna de esas cosas, no necesita entrada propia.
+Los materiales no son solo descripción. Son la razón por la que una armadura aguanta más, un arma penetra mejor, o un kit de extracción falla con un componente y no con otro. Cada material catalogado cambia al menos una superficie mecánica real: durabilidad, potencia base, qué proceso puede seguir, cómo se conserva, con qué se puede refinar.
 
 ---
 
@@ -42,13 +42,9 @@ Incluyen:
 - plantas y hongos
 - piedras preciosas
 
-Son el punto de entrada: lo que se extrae, se caza y se recolecta antes de que el proceso de ningún artesano los toque.
-
 ### Materiales procesados
 
-No son una categoría separada de la materia — son outputs producidos a partir de materiales naturales mediante un proceso de fabricación válido.
-
-Ejemplos: piel cruda convertida en cuero, escama o concha trabajada en compuesto protector, mineral fundido en aleación, fibra hilada en tela.
+Un material procesado no existe sin el natural que lo precede: piel cruda vuelta cuero, escama trabajada en compuesto protector, mineral fundido en aleación, fibra hilada en tela.
 
 Un material procesado define su material de origen, la especialización que lo produce, y si hereda, reemplaza o modifica las propiedades mecánicas del original.
 
@@ -56,7 +52,7 @@ Un material procesado define su material de origen, la especialización que lo p
 
 La capa extraordinaria. No se definen por ser orgánicos — se definen por seguir **comportándose**.
 
-Un material vivo es cualquier material que retiene respuesta activa, crecimiento, adaptación o lógica interna continua después de convertirse en un material usable. Puede ser biológico, mineral, fúngico o compuesto. Lo que lo hace vivo no es su familia sino que reacciona como si tuviera vida, patrón o estructura autoadaptable en curso.
+Un material vivo es cualquier material que sigue respondiendo, creciendo o adaptándose después de ser extraído. Puede ser biológico, mineral, fúngico o compuesto. Lo que lo hace vivo no es su familia sino que reacciona como si tuviera vida, patrón o estructura autoadaptable en curso.
 
 ---
 
@@ -78,7 +74,7 @@ Dos materiales de la misma familia pueden comportarse de forma completamente dis
 
 ## Comportamientos de materiales vivos
 
-Un material vivo se define por lo que hace, no solo por su nombre. Cada entrada de material vivo tiene uno o más comportamientos activos.
+Cada material vivo tiene uno o más comportamientos activos.
 
 | Comportamiento | Significado |
 | --- | --- |
@@ -93,7 +89,7 @@ Un material vivo se define por lo que hace, no solo por su nombre. Cada entrada 
 | **Reactividad taumática** | Responde al Tauma, presión de vestigos, lógica de vínculos o entornos del Limbo |
 | **Dependencia** | Requiere alimentación, humedad, temperatura, oscuridad, resonancia u otra condición de mantenimiento |
 
-Los materiales vivos son extraordinarios porque crean problemas distintos de mantenimiento, extracción, fabricación o uso táctico — no porque sean automáticamente mejores. Un material vivo puede ser más difícil de conservar, útil solo en ciertos climas, o autorreparable pero inestable.
+Los materiales vivos crean problemas distintos — de mantenimiento, de extracción, de fabricación, de uso táctico. Uno puede ser difícil de conservar, útil solo en ciertos climas, o autorreparable pero inestable.
 
 ---
 

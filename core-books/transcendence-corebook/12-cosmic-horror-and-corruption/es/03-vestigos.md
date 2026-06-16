@@ -26,9 +26,9 @@ Una vez descubierto, un vestigo puede activarse intencionalmente. El portador sa
 
 ## Uso intencional
 
-Activar un vestigo no es conjurar energía de la nada. El vestigo sesa, sincroniza o filtra un proceso físico que ya existe en el entorno. Para funcionar, necesita un medio real — luz, sonido, vibración, calor, presión — algo tangible a través de lo cual el patrón pueda expresarse.
+El vestigo no crea lo que usa — toma lo que ya existe en el entorno. Sesa, sincroniza o filtra el proceso físico que hay en la escena, siempre apoyado en un medio real: luz, sonido, vibración, calor, presión.
 
-Un vestigo vinculado al sonido no crea sonido donde no hay ninguno. Opera a través del sonido que ya existe en la escena — lo redirige, lo amplifica en una dirección específica, lo confunde en un punto concreto. El entorno es parte del mecanismo. Si el medio que necesita no está presente, el vestigo no puede activarse.
+Un vestigo vinculado al sonido no crea sonido donde no hay ninguno. Opera a través del sonido que ya existe en la escena — lo redirige, lo amplifica en una dirección específica, lo confunde en un punto concreto. Si el medio que necesita no está presente, el vestigo no puede activarse.
 
 Esto también define el alcance de lo que un vestigo puede hacer. Su efecto es real y puede ser decisivo — pero siempre es un efecto que la física del entorno podría explicar si alguien no supiera lo que está mirando. No rompe las reglas del mundo físico. Las usa con una precisión que el mundo físico solo no produciría.
 
@@ -64,4 +64,4 @@ La Aflicción que el portador acumuló durante el uso no desaparece con el agota
 
 Un vestigo no le da al portador un poder independiente de él. El portador no "aprende" a hacer lo que el vestigo hacía. Si el objeto se destruye, se pierde o se agota, el portador no retiene esa capacidad — retiene la Aflicción, retiene la percepción expandida que viene con ella, pero no el efecto.
 
-Lo que el vestigo otorga mientras existe es acceso a algo que el portador, por sus propios medios, no puede producir. Eso es suficiente para que valga el coste. También es suficiente para que su pérdida sea real.
+Lo que el vestigo otorga mientras existe es acceso a algo que el portador, por sus propios medios, no puede producir.

@@ -19,9 +19,7 @@ authority_refs:
 
 # Ciclos Autónomos
 
-Un ciclo autónomo es una entrada adicional en el ATB — separada del turno principal de la criatura — que representa un comportamiento recurrente con su propio Ritmo. No es una acción del Narrador en su turno. Es una pieza propia en la línea del ATB con su propio momento de activación y su propio efecto al dispararse.
-
-Es lo que hace que una criatura sea más que una barra de vida con ataques.
+Un ciclo autónomo es una entrada adicional en el ATB — separada del turno principal de la criatura — que representa un comportamiento recurrente con su propio Ritmo. Ocupa su propia posición en la línea del ATB, con su propio momento de activación y su propio efecto al dispararse.
 
 ---
 
@@ -35,7 +33,7 @@ La categoría determina qué tipos de ciclos puede tener una criatura. No determ
 | **Campeón** | Biológicos + coordinación de aliados: ciclos que modifican el comportamiento de criaturas cercanas |
 | **Elite** | Biológicos + ambientales: ciclos que modifican el campo de batalla mismo |
 
-Un Común con NR alto puede tener muchos ciclos biológicos. La dificultad de un Campeón no viene de tener ciclos "más fuertes" — viene de que sus ciclos afectan a otras criaturas en el encuentro. La dificultad de un Elite viene de que sus ciclos transforman el espacio donde están los jugadores: visibilidad, terreno, condiciones climáticas, estabilidad del entorno.
+Un Común con NR alto puede tener muchos ciclos biológicos. Un Campeón es más complejo porque sus ciclos afectan a otras criaturas del encuentro — no porque cada ciclo sea más potente. Un Elite transforma el espacio mismo donde están los jugadores: visibilidad, terreno, condiciones climáticas, estabilidad del entorno.
 
 ---
 
