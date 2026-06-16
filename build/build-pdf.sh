@@ -31,7 +31,8 @@ PDF_OUT="$PDF_DEST/transcendence-corebook-${LANG}.pdf"
 PDF_RAW="${TMPDIR:-/tmp}/transcendence-corebook-${LANG}.raw.pdf"
 PAPER_BACKGROUND="$ASSETS_DIR/corebook-paper-background.jpg"
 mkdir -p "$PDF_DEST"
-trap 'rm -f "$PDF_RAW"' EXIT
+TECH_COMPILED="$(mktemp /tmp/techniques-compiled-XXXXXX.md)"
+trap 'rm -f "$PDF_RAW" "${TECH_COMPILED:-}"' EXIT
 
 echo "============================================"
 echo "  Building Transcendence Corebook"
@@ -39,6 +40,17 @@ echo "  Language : $LANG"
 echo "  Title    : $TITLE"
 echo "============================================"
 echo ""
+
+# --- Preprocess technique files ---
+TECH_DIR="$COREBOOK_DIR/09-techniques/$LANG"
+if [ -d "$TECH_DIR" ]; then
+  echo "Preprocessing technique files..."
+  "$PYTHON_BIN" "$SCRIPTS_DIR/preprocess-techniques.py" \
+    "$TECH_DIR" \
+    "$TECH_COMPILED" \
+    "$LANG"
+  echo ""
+fi
 
 # --- Collect markdown files in chapter order ---
 echo "Collecting chapters..."
@@ -64,6 +76,13 @@ for chapter_dir in \
   "$COREBOOK_DIR"/17-*
 do
   [ -d "$chapter_dir/$LANG" ] || continue
+
+  # Technique files are preprocessed into a single compiled file to avoid
+  # per-technique page breaks (CSS: h1 { break-before: page }).
+  if [[ "$(basename "$chapter_dir")" == 09-* ]]; then
+    [ -f "$TECH_COMPILED" ] && CHAPTERS+=("$TECH_COMPILED")
+    continue
+  fi
 
   while IFS= read -r -d '' f; do
     [[ "$(basename "$f")" == "README.md" ]] && continue
