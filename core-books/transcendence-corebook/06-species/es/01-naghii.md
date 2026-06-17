@@ -16,9 +16,21 @@ related:
 
 # Naghii
 
-Los Naghii poseen los registros astronómicos más antiguos del mundo. Registros que preceden a toda civilización viva. En esos archivos, el período inmediatamente anterior a la catástrofe está marcado por un evento llamado **Khataar**. No pueden fecharlo. No saben cuántos ciclos han pasado desde que ocurrió, porque las especies que podrían recordarlo murieron, y las que llegaron después tuvieron que empezar desde nada. Lo que tienen es evidencia en las ruinas y en el cielo, y la convicción de que el estado del mundo, la forma de las ruinas, el comportamiento del Tauma, todo apunta a algo que sucedió allá arriba y que no ha terminado del todo.
+Los Naghii conservan los registros astronómicos más antiguos del mundo.
 
-No observan el cielo porque sea hermoso. Lo observan porque no están seguros de que haya terminado.
+No son completos. No son seguros. No están escritos en una lengua que ninguna especie viva pueda leer con certeza. Son copias de copias, traducciones de signos muertos, comparaciones entre ruinas partidas y cielos que ya no se comportan como deberían.
+
+Aun así, son lo más cercano que el mundo tiene a una memoria anterior a la catástrofe.
+
+En esos registros aparece una palabra: Khataar.
+
+Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los estratos inmediatamente anteriores al colapso. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que el Tauma no fluye igual en los lugares donde esa palabra se repite.
+
+Y saben algo peor: tal vez lo tradujeron mal.
+
+No observan el cielo porque sea hermoso.
+
+Lo observan porque no están seguros de que haya terminado.
 
 ## El Cuerpo
 
