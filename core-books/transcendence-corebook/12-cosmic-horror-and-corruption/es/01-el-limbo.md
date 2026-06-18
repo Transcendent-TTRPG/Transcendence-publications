@@ -45,19 +45,19 @@ Todo vínculo activo genera flujo ambiental en su entorno inmediato como efecto 
 
 ## Vestigos
 
-El residuo que deja el Tauma cuando pasa a través de un objeto físico. La fuente ya no está presente. No hay entidad activa — lo que queda es la huella de que el flujo estuvo ahí. El vestigo se debilita con el tiempo.
+El Tauma cristalizado en un objeto por la impronta de la conciencia que lo usó. Los vestigios se forman cuando una creencia, un deseo o un propósito suficientemente intenso — sostenido por un individuo durante décadas o por una comunidad entera durante generaciones — atrae y da forma al Tauma disponible en el entorno. El objeto hace lo que esa conciencia siempre creyó que hacía: no como metáfora, sino porque esa creencia es exactamente lo que formó el patrón. La fuente ya no está presente. Lo que queda es lo que creyó.
 
 Un vestigo es pasivo: no genera efectos por su cuenta, no emite flujo ambiental, no quiere nada. Lo que tiene es un **patrón** — una forma de sesgar, sincronizar o filtrar un proceso físico existente, siempre apoyado en un medio real: luz, sonido, vibración, presión, calor. Cuando un portador con el canal adecuado lo activa intencionalmente, el patrón se expresa. El objeto no crea energía de la nada; redirige lo que ya existe.
 
-Cada uso de un vestigo incrementa la **Aflicción** del portador en el sentido vinculado. El número exacto de usos disponibles no está visible para el portador — el patrón se agota de forma impredecible. La capacidad que otorga es real pero acotada: crea ventaja, no supremacía definitiva.
+Cada uso de un vestigo puede incrementar la **Aflicción** del portador en el sentido vinculado. El número exacto de usos disponibles no está visible para el portador — el patrón se agota de forma impredecible porque el Tauma anclado es finito. La capacidad que otorga es real pero acotada: crea ventaja, no supremacía definitiva.
 
-El objeto en el que reside un vestigo no determina su capacidad. Lo que determina la capacidad es la naturaleza de la entidad que estuvo en él. Una pluma, una vasija, un trozo de madera, una moneda rota — cualquiera puede ser un vestigo. El objeto importa para la ficción; el Tauma que lo impregna importa para la mecánica.
+El objeto en el que reside un vestigo no determina su capacidad. Lo que determina la capacidad es la forma de la impronta que lo creó — qué creyó, quiso o temió la conciencia que lo formó. Una pluma, una vasija, un trozo de madera, una moneda rota — cualquiera puede ser un vestigo. El objeto importa para la ficción; el patrón de conciencia que ancló el Tauma importa para la mecánica.
 
 ---
 
 ## Vínculos
 
-Una conexión activa entre el mundo físico y el Limbo, sostenida a través de un objeto físico. A diferencia del vestigo, el vínculo mantiene un flujo continuo: hay una entidad del Limbo presente, y esa presencia no es residual. La energía sigue cruzando.
+Una conexión activa entre el mundo físico y el Limbo, sostenida a través de un objeto físico. Los vínculos no se forman por impronta directa: se forman cuando una entidad del Limbo, cuya naturaleza resuena con el patrón de una impronta existente, se establece activamente en ese objeto. La entidad no hace lo que la civilización creyó que hacía el objeto — hace lo que su propia naturaleza produce. La impronta original fue el punto de entrada; lo que el vínculo genera pertenece a la entidad. A diferencia del vestigo, el vínculo mantiene un flujo continuo: hay una entidad del Limbo presente, y esa presencia no es residual. La energía sigue cruzando.
 
 Los vínculos no tienen cargas almacenadas que se agoten. Lo que limita su uso es la capacidad del portador de sostener la conexión. Cada activación de un **Aspecto** — las expresiones de poder que el vínculo habilita — acumula **Eco**. Cuando el Eco supera la **Cordura** del portador, aparece la **Disonancia**, deterioro progresivo de la coherencia perceptual. El sistema completo se desarrolla en el capítulo dedicado a vínculos y Aspectos.
 
