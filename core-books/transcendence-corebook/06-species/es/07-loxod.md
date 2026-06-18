@@ -50,7 +50,7 @@ En muchas comunidades, los colmillos dañados no se ocultan. Se registran, se in
 
 Los Loxod producen infrasonido. Sin pausa, sin intención, por el solo hecho de existir. Las frecuencias viajan por aire y suelo simultáneamente, y otros Loxod las reciben a través de las plantas de los pies, de la trompa en contacto con superficies y de zonas del cuerpo entrenadas para distinguir vibración de ruido. En una ciudad oscura, saben que hay alguien en el pasillo siguiente antes de doblarlo. Saben desde cierta distancia si otro Loxod está bajo presión emocional intensa o en calma. Pueden reconocer presencia, masa, ritmo, desplazamiento y estado antes de que el sonido llegue al oído de otros.
 
-El canal de comunicación que les dio eso es el mismo canal en el que vibra el Tauma. No por diseño de nadie, sino porque el Tauma está en el universo desde antes de que nada evolucionara en él, y la biología que se desarrolló en ese universo convergió en las frecuencias que mejor propagaban.
+El canal de comunicación que les dio eso opera en el mismo rango de frecuencias que los patrones de vestigio usan cuando se expresan a través de la vibración. No por diseño de nadie, sino porque el Tauma está en el universo desde antes de que nada evolucionara en él, y los patrones que se cristalizaron en ese universo usan la vibración como uno de sus medios de expresión — el mismo rango en el que los Loxod evolucionaron para comunicarse. Lo que los Loxod reciben no es el Tauma. Es su propio infrasonido de vuelta, con la forma que le imprimió lo que atravesó.
 
 Lo que vive en esas frecuencias los detecta.
 
@@ -94,7 +94,7 @@ Es la forma en que la sociedad respira.
 
 ## Teología y Cosmología
 
-Lo que los Loxod saben del Tauma lo saben porque lo reciben directamente en sus propios sistemas, en condiciones documentadas, replicables, con anomalías que se repiten de una generación a otra. Sus canales de infrasonido producen, bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — señales que no tienen emisor Loxod identificable.
+Lo que los Loxod saben del Tauma lo saben porque lo reciben en sus propios sistemas, en condiciones documentadas, replicables, con anomalías que se repiten de una generación a otra. Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
 
 Contenido que precede a cualquier individuo vivo.
 
@@ -114,7 +114,11 @@ Tampoco les dice si lo que han encontrado hasta ahora es el fondo o solo el prim
 
 Los Loxod no suelen construir teologías expansivas. Desconfían de los sistemas que convierten la recepción en certeza demasiado pronto. Saben lo que se siente recibir algo antes de comprenderlo, y esa experiencia ha vuelto sus comunidades cautelosas frente a cualquier explicación que llegue demasiado completa.
 
-El Tauma, para ellos, no es exterior del todo. Tampoco es interior. Es un medio donde las cosas vibran, persisten, atraviesan y dejan impresiones. Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen como patrones de resonancia. Otros sugieren que ciertas ruinas no contienen memoria en sentido simbólico, sino presión real: información vibratoria que busca cuerpo donde completarse.
+El Tauma, para ellos, no es exterior del todo. Tampoco es interior. Es un medio donde las cosas vibran, persisten, atraviesan y dejan impresiones. Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen como patrones de resonancia. Otros sugieren que ciertas ruinas no contienen memoria en sentido simbólico, sino presión real: información vibratoria que no buscó nada — pero que el cuerpo Loxod, si está presente, es la arquitectura más receptiva que existe para recibirla.
+
+La práctica archivística ha permitido distinguir dos comportamientos en esas señales anómalas. Hay retornos con forma fija: registrados a lo largo de generaciones, producen siempre la misma modulación. Se pueden catalogar, comparar, archivar. Son el eco cristalizado de lo que ocurrió en ese espacio.
+
+Y hay retornos que no se fijan. Que entre una observación y la siguiente cambiaron de forma de maneras que el análisis no predijo. Que los archivistas con más décadas de práctica describen igual: parecen responder a quien los recibe, en lugar de simplemente llegar. La primera categoría tiene nombres provisionales en el sistema. La segunda no tiene nombre confirmado. Solo el consenso de que no debe tratarse igual.
 
 Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor lo mismo que generaron en ellos.
 
