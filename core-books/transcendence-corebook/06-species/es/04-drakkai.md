@@ -82,7 +82,9 @@ Después de eso, empieza el verdadero vagabundeo.
 
 Los Drak'kai han tenido más encuentros con entidades Primordiales que cualquier otra especie, no porque los busquen, sino porque lo que coleccionan hace el contacto inadvertido más probable y más prolongado.
 
-Un objeto cargado durante veinte años puede empezar a responder en presencia de una comunidad que cree algo con suficiente fuerza. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con la forma en que una entidad se manifestó un siglo después en otra región.
+Un objeto que ha permanecido durante generaciones en presencia de una comunidad que cree algo con suficiente fuerza puede empezar a responder de manera distinta a como lo hacía antes. No de golpe: el patrón se revela en el registro de décadas. Una entidad cambia cuando cambia la conciencia colectiva que la rodea. Lo que un objeto hacía bajo una civilización puede no ser lo que hace bajo otra que lo heredó y lo creyó diferente durante generaciones. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con la forma en que una entidad se manifestó un siglo después en otra región.
+
+Lo que pocos Drak'kai enuncian directamente es la implicación inversa: si la creencia sostenida de una comunidad puede reorientar con el tiempo lo que un objeto expresa, un portador que carga algo durante décadas también deja su impronta. La colección no es archivo pasivo. La creencia del que la carga se acumula en lo que carga.
 
 Los Drak'kai no suelen buscar a los Primordiales.
 
