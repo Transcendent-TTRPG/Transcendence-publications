@@ -42,7 +42,7 @@ Las fuentes más comunes son tres:
 
 - **Ambiental.** Terreno, clima, oscuridad, calor, frío, altura, agua, humo, ruido o exposición.
 - **Hostil.** Una presencia que domina la situación aunque no exista todavía una regla puntual para resolverla: una criatura mortal muy superior, una entidad anómala, una presencia primordial, una persecución o un espacio controlado por amenaza activa.
-- **Extranatural.** Una alteración del mundo perceptible causada por filtración del Limbo o por Tauma actuando sobre algo ya existente.
+- **Extranatural.** Una alteración del mundo perceptible causada por la presencia activa de un Primordial expresándose a través de su territorio, o por densidad extrema de vestigios en la zona. En ambos casos, el Tauma no actúa de forma difusa — actúa porque algo lo organiza.
 
 La distinción relevante para este sistema es si la presión sigue la lógica natural del mundo o proviene de una filtración extranatural.
 
@@ -52,7 +52,7 @@ La distinción relevante para este sistema es si la presión sigue la lógica na
 
 Las condiciones naturales se ajustan a las leyes del mundo. Pueden ser extremas — un huracán, un campo volcánico, un derrumbe, la presencia de un depredador descomunal o una criatura mortal abrumadora — pero operan dentro de una lógica física coherente.
 
-Las condiciones extranaturales son fenómenos del mundo perceptible que involucran la energía del Limbo — la dimensión paralela impercibible, origen del Tauma. El Tauma no genera fenómenos de la nada: transforma, modifica, amplifica lo que ya existe en el mundo material. Una condición es extranatural por su origen, no por su intensidad ni por los elementos que involucra: cualquier reacción que provenga de la dimensión imperceptible filtrándose en la perceptible entra en esa categoría.
+Las condiciones extranaturales son fenómenos del mundo perceptible con origen en el Limbo — la dimensión paralela que es la fuente del Tauma. Ese origen puede ser la presencia activa de un Primordial expresándose a través de su territorio, o la densidad extrema de vestigios en una zona cuya carga taumática no se ha disipado. El flujo ambiental de Tauma por sí solo no produce condiciones extranaturales: lo que las produce es el Tauma organizado. Cuando esa organización existe, el Tauma no genera fenómenos de la nada — actúa a través de lo que ya existe en el mundo material, transformando, modificando o amplificando condiciones presentes. Una condición es extranatural por su origen, no por su intensidad ni por los elementos que involucra.
 
 Una presencia hostil puede pertenecer a cualquiera de los dos grupos. Un enemigo mortal o una bestia material siguen siendo presión natural. Una entidad anómala o primordial, o una presencia hecha de energía del Limbo, genera presión extranatural aunque adopte forma visible o material.
 

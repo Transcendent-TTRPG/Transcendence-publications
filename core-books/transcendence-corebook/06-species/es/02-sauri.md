@@ -42,13 +42,15 @@ Sus asentamientos parecen bajos, sellados y seminaturales desde afuera: semiente
 
 Los Sauri se instalan en márgenes de ríos, llanuras inundables, bordes desérticos donde la humedad que sobrevive al calor se gestiona con la misma atención que los linajes o las leyes: con registro, con autoridad y con consecuencias para quien rompe el sistema.
 
+El río no es solo hábitat. Es una ruta de llegada. Las corrientes que atraviesan territorios de Primordiales, ruinas antiguas o sitios de muerte masiva arrastran consigo objetos que esas zonas marcaron. Un Sauri que conoce su río sabe leer qué trajo la última crecida: la escama cambia antes de que el ojo confirme nada. Las comunidades desarrollaron prácticas de recolección y evaluación de estos objetos durante generaciones. No los acumulan para armarse ni para comerciar. Los guardan para lo que importa: la prueba.
+
 Un recipiente puede ser un cuerpo, un templo, un linaje, una ley, una tumba, un canal, una máscara o un gobernante. Lo que importa es si puede retener fuerza sin filtrarse, quebrarse o corromper lo que contiene.
 
-La mayoría de las comunidades Sauri están gobernadas por un soberano sagrado cuyo cuerpo es tratado como el recipiente vivo del pueblo. No es simplemente un líder político. Es la demostración pública de que el Tauma, el linaje, la disciplina ritual y el orden territorial pueden sostenerse en una sola forma sin colapsar.
+La mayoría de las comunidades Sauri están gobernadas por un soberano cuya autoridad no se hereda ni se negocia: se demuestra. La prueba consiste en sostener, simultáneamente, los objetos más cargados que la comunidad ha reunido — los que abren canales en el sistema nervioso de quien los porta, los que permiten que lo que está del otro lado cruce. El soberano es el Sauri que puede sostener más de eso sin perder el propósito. Sin romperse. Sin que lo que entra lo reemplace.
 
-Por eso el cuerpo del soberano pertenece menos a sí mismo que a la comunidad que afirma contener. Sus cambios de escama se registran. Sus heridas se interpretan. Sus enfermedades rara vez son privadas. Una fiebre prolongada puede convertirse en disputa doctrinal; una deformación inexplicable puede cerrar mercados, suspender duelos sucesorios o provocar que los templos interiores nieguen acceso incluso a la familia gobernante.
+Las escamas lo registran todo. Ese es el instrumento que otras especies no tienen: el cuerpo del soberano es legible para quienes lo rodean en tiempo real. Los cambios de color no son ceremoniales — son datos. Una oscilación durante el pico de la exposición puede terminar una candidatura. Una estabilidad sostenida puede establecer a alguien como soberano durante décadas.
 
-Diferentes comunidades explican este rol de maneras distintas: algunas creen que el soberano es un avatar de la corriente primordial; otras que es elegido por el río, el sol y la piedra a través de una prueba; algunas que es una ficción necesaria que impide que los templos se vuelvan unos contra otros; algunas que los gobernantes fracasados continúan gobernando desde cámaras selladas, preservados y consultados mediante ritual.
+Por eso el cuerpo del soberano pertenece menos a sí mismo que a la comunidad que afirma contener. Sus cambios de escama se registran. Sus heridas se interpretan. Sus enfermedades rara vez son privadas. Una alteración inexplicable puede suspender decisiones de estado o iniciar un proceso de nueva prueba antes de que el soberano haya muerto.
 
 La ambigüedad importa. El orden político Sauri depende de la afirmación de que el recipiente es real. El horror de la cultura comienza cuando todos siguen obedeciendo a un cuerpo que quizá ya se rompió.
 
@@ -70,7 +72,9 @@ Para los Sauri, la forma no es decoración. La forma es defensa. Una cámara mal
 
 Los Sauri no creen que la muerte sea liberación del cuerpo. Creen que el cuerpo es el primer y más importante recipiente que recibe una persona. Morir sin la preservación adecuada es dejar que el recipiente se derrame antes de que su contenido haya sido juzgado, medido o devuelto a la corriente correcta.
 
-Sus prácticas funerarias no son meramente reverentes. Son técnicas, políticas y teológicas. Los cuerpos preservados pueden convertirse en registros, advertencias, consejeros, anclas para la autoridad de linaje o evidencia en disputas sobre legitimidad.
+Sus prácticas funerarias no son meramente reverentes. Son técnicas, políticas y teológicas. Un cuerpo preservado retiene la impronta de lo que atravesó a quien lo habitó. El soberano que sostuvo los objetos más cargados durante décadas — cuyo sistema nervioso fue el canal más activo de su generación — deja en su cuerpo preservado el registro más denso que la comunidad puede conservar. Las cámaras funerarias no son memoriales. Son el archivo que se usa en la siguiente prueba.
+
+La secuencia es deliberada. Un candidato al soberanato es expuesto progresivamente: primero a los objetos del río de menor carga, luego a los más intensos, finalmente a los cuerpos preservados de los soberanos anteriores. Quien aguanta el pico de exposición sin perder coherencia es el nuevo soberano. Los muertos no son consultados. Son instrumentos de calibración.
 
 Los Sauri preparan cuerpos, sellan cámaras, orientan canales, miden cambios en escama, agua, mineral y carne. Todo en su teología insiste en la misma posibilidad: que la forma correcta puede impedir que la corriente destruya lo que atraviesa.
 

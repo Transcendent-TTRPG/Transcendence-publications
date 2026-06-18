@@ -106,15 +106,21 @@ Ninguna escuela tiene suficiente evidencia para refutar plenamente a las otras. 
 
 Los Naghii no utilizan el mismo nombre para el espacio de vacío que otras especies llaman el Limbo. Su vocabulario teológico lo llama el Abzu: un término heredado del vocabulario simbólico de las ruinas, reinterpretado para nombrar el espacio sin dimensiones que existe más allá de lo que puede observarse.
 
-Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el vacío entre las estrellas desde el que fluye el Tauma y hacia el que los Primigenios desaparecieron. El Abzu no se venera. Se estudia, se vigila y se teme de la manera específica en que se teme algo que ya demostró de lo que es capaz.
+Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el estrato desde el que el Tauma fluye hacia el mundo, y hacia el que los Primigenios desaparecieron cuando su era terminó, dejando algo que los registros más antiguos aprendieron a buscar en el cielo. El Abzu no se venera. Se estudia, se vigila y se teme de la manera específica en que se teme algo que ya demostró de lo que es capaz.
 
-La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no simplemente observa el firmamento: permite que las señales del cielo entren, leyendo el flujo de Tauma en términos celestiales.
+La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no observa el firmamento con los ojos. Abre su percepción a lo que llega desde esa capa exterior: permite que el Abzu entre, y lee lo que ese ingreso produce.
 
-El costo de esta práctica se enseña explícitamente dentro de la orden. Abrir la mente a la señal celestial también la abre a la influencia del Abzu. Los practicantes más experimentados del igi-an son simultáneamente los miembros más capaces y los más vulnerables de la orden.
+Lo que produce no es igual en dos practicantes.
+
+Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como frecuencia sin fuente localizable. Otro lo recibe como temperatura que se distribuye de adentro hacia afuera. Otro pierde durante un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene. La experiencia es real — algo cruza — pero lo que ese cruce encuentra en cada individuo es distinto. Lo que el archivo registra son esas experiencias, no el fenómeno en sí.
+
+Esa anomalía en el flujo es lo que los Naghii llaman Khataar. O al menos es lo más cercano que pueden llegar. Los registros más antiguos la identificaron como una configuración celeste. Los sacerdotes con décadas de igi-an la sienten antes de que los mapas puedan confirmarla, a veces cuando la configuración no coincide, a veces con el cielo cubierto y sin nada que observar. Los mapas y los cuerpos no siempre concuerdan. Y entre lo que el archivo registra de los que la sintieron y lo que los astrónomos registran de lo que midieron, la distancia es a veces más amplia que la que separa las tres escuelas de interpretación.
+
+El costo de esta práctica se enseña explícitamente dentro de la orden. Abrir sus sentidos al Abzu también lo abre al Tauma que este contiene. Los practicantes más experimentados del igi-an son simultáneamente los miembros más capaces y los más vulnerables de la orden.
 
 Un Naghii puede leer más porque deja entrar más.
 
-Esa es la paradoja central de su espiritualidad: la misma apertura que permite interpretar lo que otras especies no perciben también crea la herida por donde algo externo puede entrar.
+Esa es la paradoja central de su espiritualidad: la misma apertura que permite percibir lo que otras especies no perciben también es el canal por donde algo externo puede cruzar sin que el practicante lo elija. Lo que los Naghii llaman leer el Abzu y lo que el Abzu llama cruzar un sistema nervioso disponible son, desde dentro, indistinguibles.
 
 ## Organización e Identidad Interna
 

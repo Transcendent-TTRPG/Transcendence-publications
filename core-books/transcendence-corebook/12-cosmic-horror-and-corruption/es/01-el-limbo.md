@@ -37,6 +37,8 @@ La filtración continua y pasiva del Tauma en una zona física. No está anclada
 
 A intensidades bajas, el flujo ambiental es irrelevante para criaturas ordinarias. A intensidades altas, puede sostener condiciones extranaturales persistentes en la zona o facilitar la manifestación de entidades del Limbo que de otro modo no tendrían punto de entrada suficiente.
 
+Lo que el flujo ambiental no produce, ni siquiera a alta concentración, es aflicciones. El Tauma difuso carece de dirección — fluye, pero no presiona sobre los sistemas nerviosos porque no está organizado. Las aflicciones requieren contacto con un objeto o exposición al flujo estructurado de un Primordial, no al gradiente ambiental en sí mismo.
+
 Todo vínculo activo genera flujo ambiental en su entorno inmediato como efecto secundario. Un vínculo especialmente poderoso puede producir condiciones extranaturales visibles para cualquier criatura del área, independientemente de si esa criatura tiene alguna capacidad de percibir el Limbo.
 
 ---

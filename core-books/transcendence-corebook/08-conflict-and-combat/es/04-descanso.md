@@ -290,6 +290,20 @@ Una Aflicción no desaparece necesariamente por dormir una noche. Este efecto re
 
 ---
 
+#### Territorio de Primordial
+
+Descansar en el territorio activo de un Primordial modifica este efecto. El flujo taumático organizado contrarresta la recuperación normal.
+
+**Entidad o Soberano:** al completar el Descanso Completo, cada personaje realiza una **T.R. de Compostura** con umbral establecido por la severidad del entorno según las reglas de Condiciones del Entorno. Si acierta, el descanso ocurre sin consecuencias adicionales — la reducción normal de Aflicción se aplica. Si falla, la intensidad de la Aflicción en el sentido vinculado a la naturaleza de ese Primordial aumenta en `1` en lugar de reducirse.
+
+**Abismal:** no hay T.R. La intensidad de la Aflicción en el sentido relevante aumenta en `1` automáticamente. El Descanso Completo no reduce esa Aflicción.
+
+Si el personaje no tiene Aflicción en el sentido afectado, el aumento la crea con intensidad `1`.
+
+El sentido vinculado a cada Primordial lo determina el Narrador según la naturaleza de la entidad. El patrón es consistente dentro del mismo territorio.
+
+---
+
 ### 6. Preparación del día
 
 Durante un Descanso Completo, el grupo puede reorganizarse para lo que viene.

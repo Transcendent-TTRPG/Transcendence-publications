@@ -134,6 +134,8 @@ Es el comienzo de algo.
 
 Todavía no tiene nombre.
 
+Los que formulan esas preguntas y los que describen las nuevas sensibilidades del entorno son, consistentemente, los mismos Formix. Los que llevan más tiempo fuera del radio. Los que más se alejaron.
+
 Algunas ciudades están desarrollando ritos de decisión. No ritos heredados de la colmena, porque la colmena no pedía decisiones, sino prácticas nuevas: elegir un oficio por un ciclo, cambiar de nombre, negarse públicamente a una tarea que se sabe hacer, caminar fuera de la ciudad y volver por voluntad propia, guardar silencio ante una señal colectiva hasta poder decir “sí” o “no” con claridad.
 
 Para otras especies, estos actos pueden parecer pequeños.
@@ -143,6 +145,12 @@ Para un Formix, pueden ser teología práctica.
 ## Organización e Identidad Interna
 
 Dentro de la colmena, la Reina es el centro inmóvil desde el que todo irradia: cada túnel, cada cámara, cada ruta de trabajo responde a su proximidad. El control no requiere vigilancia. Opera a través del aire mismo, atado a la distancia, reforzado por química, hábito, arquitectura y una forma de conciencia colectiva que nunca necesitó explicarse porque funcionaba.
+
+Las Reinas no envejecen en la escala en que lo hacen sus trabajadores. Una colmena establecida lleva décadas — a veces mucho más — construida alrededor de una Reina que permanece en el mismo núcleo mientras generaciones enteras de trabajadores nacen, funcionan y mueren a su alrededor. Ella conoce el territorio de una manera que ningún trabajador puede conocerlo: no como mapa aprendido sino como memoria acumulada de todo lo que ocurrió en su radio mientras ella permanecía inmóvil.
+
+Las colonias no se establecen al azar. Los pocos Formix libres que han observado colmenas activas desde lejos reportan que esas zonas tienen propiedades que los territorios circundantes no tienen: materiales con comportamientos difíciles de explicar, condiciones que otras especies describen como inhabilitantes pero que la colmena aprovecha sin aparente dificultad. Por qué las Reinas eligen esos lugares — o si algo en esos lugares las atrae antes de que puedan articular la razón — es una pregunta que los libres no tienen modo de responder.
+
+Lo que sí reportan algunos de los que llevan más tiempo fuera es que bajo el radio de la Reina ciertas cosas no llegaban. Algo en el campo de la colmena filtraba algo que no tenía nombre porque nunca faltó. Con el tiempo suficiente afuera, ese filtro ya no existe. El entorno empieza a pesar de formas que antes no tenía: la sensación de que ciertos espacios guardan más historia de la que su deterioro visible explica, que algunas ruinas contienen algo que no es solo ausencia. La mayoría no lo nombra porque no tiene vocabulario para ello, y porque los que lo nombran en voz alta reciben miradas de quienes llevan menos tiempo fuera y todavía no lo sienten.
 
 Lo que eso significa para cualquier Formix que se aleje lo suficiente es una de las verdades más difíciles de aceptar:
 

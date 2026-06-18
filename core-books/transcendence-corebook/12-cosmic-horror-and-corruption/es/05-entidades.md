@@ -26,6 +26,8 @@ Un Primordial no preexiste como ser independiente. Emerge cuando el Tauma concen
 
 Cada Primordial es la cristalización de lo que una zona fue — y esa historia determina su naturaleza, su agenda y su escala.
 
+El territorio de un Primordial no es decorado. El flujo taumático en esa zona ya no es pre-consciente: está organizado por la naturaleza de la entidad. Esa organización tiene consecuencia directa para las criaturas que lo atraviesan o habitan. La exposición sostenida al flujo organizado de un Primordial abre canales en los sistemas nerviosos disponibles — sin objeto de por medio, sin contacto discreto. La duración reemplaza la intensidad del contacto. Permanecer en territorio de un Primordial lo suficiente produce aflicciones progresivas aunque la criatura no haya tocado nada.
+
 ---
 
 ## Los cuatro niveles
