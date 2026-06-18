@@ -48,57 +48,51 @@ Los Zarnag saben que la risa puede cruzar una línea. Puede dejar de expulsar mi
 
 ## La Cultura
 
-Las labores que la mayoría deja incompletas tienen alguien que las termina: retirar cuerpos de campos de batalla cuando nadie más quiere acercarse, trabajar zanjas de cuarentena durante una plaga, corregir entierros fallidos, gestionar las rutas donde los carroñeros se acumulan, limpiar ruinas donde los muertos siguen presentes.
+El muerto no siempre cierra.
 
-Un cadáver mal gestionado puede envenenar el agua, atraer depredadores y propagar infección. Un entierro fallido puede dejar algo que los demás no saben nombrar pero que afecta el comportamiento del sitio durante años. Una fosa abierta por lluvia puede convertir una tragedia vieja en una crisis nueva. Lo que queda después de la muerte no es pasivo para los Zarnag. Tiene consecuencias si nadie lo trabaja.
+Lo que quería cuando murió sigue en lo que sostenía. Su miedo sigue en el cuchillo que no soltó. Su búsqueda sigue en el talismán que llevaba desde la infancia. Lo que un hombre quería y no alcanzó, lo que una mujer temía y no pudo resolver — eso no desaparece con el cuerpo. Queda en los objetos. Queda en el terreno donde cayeron muchos. Y si nadie lo trabaja, jala hacia los vivos que se acercan.
 
-Por eso la cultura Zarnag no se construyó alrededor de la veneración abstracta de la muerte. Se construyó alrededor de su mantenimiento.
+Los Zarnag llaman a esto el peso que queda.
 
-Los Zarnag no son, en su propia lectura, profanadores. Tampoco se consideran guardianes sagrados en el sentido limpio que otras especies preferirían usar. Son trabajadores del resto. Cierran lo que quedó abierto. Separan lo que puede volver al mundo de lo que debe aislarse. Distinguen la podredumbre ordinaria de la contaminación activa. Deciden cuándo quemar, cuándo enterrar, cuándo mover, cuándo sellar y cuándo abandonar un lugar porque ya no está del lado correcto de la vida.
+No es creencia abstracta. Es observación heredada durante generaciones: los sitios donde murieron muchos hacen cosas. Los objetos de los muertos cambian a quienes los tocan sin saber lo que tienen. Los lugares sin cerrar se vuelven peligrosos de formas que no se explican solo por la infección o la descomposición. Algo permanece que no es el cuerpo, que no puede nombrarse con exactitud pero que puede sentirse, y que se acumula si nadie lo recibe.
 
-El respeto dentro de la sociedad Zarnag no viene de la posición heredada. Viene de la resistencia, el nervio y la precisión del juicio. Quien puede trabajar cerca del asco sin perder la claridad tiene peso. Quien distingue lo simplemente desagradable de lo verdaderamente peligroso tiene más peso. Quien sabe cuándo detener a su propio grupo antes de que la eficacia se vuelva crueldad puede salvar una comunidad entera.
+La función de los Zarnag no es limpiar cadáveres. Es recibir ese peso y procesarlo para que deje de jalar.
 
-La risa juega aquí un papel diferente al que tiene en otras sociedades. Libera tensión, presiona al débil y expone quién está perdiendo la compostura en lugares donde perderla puede ser fatal. Un grupo que se ríe en una fosa no siempre se está burlando de los muertos. A veces está evitando quebrarse. A veces está recordándose que todavía puede respirar.
+No veneran la muerte. Veneran el cierre — el acto de completar lo que el morir dejó incompleto. Su figura central no es la muerte sino el último gesto: la mano que toma lo que el moribundo no pudo terminar y lo vuelve inerte. Algunas comunidades llaman a esto el Último Hambre — el momento en que el peso que quedó abierto es finalmente recibido por alguien capaz de sostenerlo.
 
-Pero los Zarnag también saben que esa misma risa puede deslizarse hacia la crueldad. El momento en que la dureza necesaria empieza a saber a apetito es la advertencia moral que más aparece en sus comunidades.
+Esa recepción tiene costo. Quienes llevan generaciones en ese trabajo cambian. No de una forma que puedan señalar con precisión — sino en cómo leen los sitios, en lo que sienten cuando se acercan a ciertos objetos, en los sueños que empiezan a tener que no son suyos. Los Zarnag más viejos no impresionan porque hayan sobrevivido. Impresionan si todavía saben con precisión qué parte del peso que cargan era originalmente suyo.
 
-No todos la escuchan a tiempo.
+De ahí la única distinción moral que importa en una comunidad Zarnag: recibir el peso de los muertos para cerrarlo, o recibirlo para quedárselo. Entre esos dos gestos — que desde afuera son indistinguibles — vive la diferencia entre un trabajador del cierre y algo que aprendió a nutrirse de lo que debía neutralizar.
 
-Los asentamientos Zarnag suelen formarse en los márgenes de lugares que los necesitan y los rechazan al mismo tiempo: fuera de murallas, cerca de fosas, en caminos de retirada, a sotavento de campos de cremación, en bordes de pantano donde los cuerpos aparecen después de las lluvias, junto a rutas por donde pasan ejércitos, caravanas o pestes. Su cercanía nunca es del todo bienvenida, pero su ausencia se nota cuando algo empieza a pudrirse.
+Los asentamientos Zarnag se forman donde el peso se acumula: bordes de campos de batalla, márgenes de fosas, salidas de ruinas donde los muertos son viejos y perturbados. No porque sean atraídos por la muerte, sino porque esos son los sitios que necesitan lo que saben hacer, y porque las habilidades solo pueden aprenderse donde el peso está presente.
 
-La economía Zarnag se sostiene sobre servicios que otros prefieren no nombrar durante la comida: limpieza de campos, recuperación de cuerpos, cuarentena, desinfección, manejo de restos, rastreo de plagas, control de carroñeros, reconocimiento de terreno contaminado, traslado de cadáveres, cremación, entierro profundo y sellado de zonas que no deben abrirse.
+La risa tiene un rol aquí que otras culturas no terminan de entender. Reírse cerca de los muertos no es burla ni dureza nerviosa solamente. Es una afirmación: estamos aquí, todavía queremos, todavía somos vivos — lo que dejaste no puede tenernos. La risa le dice al peso que todavía hay algo del lado equivocado para él. Muchos tabúes Zarnag giran alrededor de cuándo esa risa deja de ser afirmación y empieza a ser otra cosa.
 
-Muchas comunidades cobran por el trabajo. Algunas lo tratan como obligación heredada. Otras operan como bandas móviles contratadas en crisis. Y algunas, las más peligrosas, aprendieron que siempre habrá más trabajo si el mundo permanece lo suficientemente roto.
-
-Ahí empieza el miedo interno Zarnag: no a la muerte, sino a necesitar demasiado de ella.
+Las comunidades más peligrosas son las que aprendieron que el mundo siempre producirá más peso — y que ese peso siempre necesitará quien lo reciba.
 
 ## Teología y Cosmología
 
-La muerte no siempre cierra.
+El moribundo lleva consigo lo que quería.
 
-Hay sitios donde los restos ejercen presión: fosas de muerte masiva, lugares donde los ritos de cierre nunca se completaron, campos donde los cuerpos se acumularon sin gestión, ruinas donde algo fue dejado a medio irse. Ese comportamiento de los restos no se trata como accidente dentro de las comunidades Zarnag.
+Eso lo saben todos los Zarnag, aunque no todos lo digan igual. Algunas comunidades hablan de hambre que pasa a los objetos. Otras de peso que el sitio absorbe. Otras de lo que el Limbo no recogió porque nadie terminó de ofrecérselo. El vocabulario cambia. La observación no: cuando alguien muere con algo sin resolver, lo que tenía en la mano guarda eso. Y si nadie lo trabaja, eso que guarda puede comenzar a querer de nuevo a través del mundo.
 
-Diferentes grupos lo describen de maneras distintas. Algunos hablan de hambre de cadáver. Algunos de eco de tumba. Otros de una presión que el Limbo no recogió cuando la vida se cerró. El vocabulario varía. La conclusión coincide: el intervalo entre la vida y la partida verdadera puede volverse peligroso si nadie lo gestiona.
+No es que el muerto vuelva. Es que su querer — lo que no terminó, lo que temió, lo que buscaba — sigue actuando desde lo que dejó. Un campo de batalla donde nadie retiró los cuerpos no es peligroso solo por la infección. Es peligroso porque miles de hambrientos que no terminaron dejaron su hambre en todo lo que cargaban, y eso se acumula, y lo acumulado jala.
 
-Esa conclusión transforma el trabajo. El entierro, el despojo, la quema, la clasificación, el sellado y el movimiento de restos no son actos puramente técnicos para los Zarnag. Son actos de cierre contra lo que el abandono deja abierto.
+La teología Zarnag no pregunta si la muerte asusta. Pregunta si algo verdaderamente se va.
+
+Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el mundo haya dejado de poder cerrar a sus muertos — que las trincheras, las cavernas, los osarios y las ruinas sean señales de un fallo que ya está activo y que nadie más quiere mirar. Cada vez que un sitio resiste el cierre, cada vez que un objeto sigue queriendo más tiempo del que debería, eso es evidencia de que el peso se acumula más rápido de lo que puede procesarse.
 
 Donde los Naghii miran el cielo para saber si el desastre terminó, los Zarnag miran el suelo.
 
-Preguntan qué no fue cerrado. Qué se mezcló con el agua. Qué comió de lo que no debía comer. Qué cuerpo fue dejado en un lugar donde el sitio todavía podía usarlo. Qué rastro sigue activo después de que todos los demás decidieron que la historia había terminado.
+Su ritual más fundamental es el cierre. Enterrar, quemar, separar, sellar — ninguno de esos actos es puramente técnico. Son actos de recepción: tomar el peso que quedó, sostenerlo el tiempo necesario, devolver al mundo algo que ya no jala. Los Zarnag que llevan generaciones haciendo esto saben que ese peso deja huella en quien lo recibe. No siempre visible desde afuera. A veces desde adentro, de maneras que demoran años en volverse legibles.
 
-Su horror no es la oscuridad como categoría. Es la posibilidad concreta de que el mundo haya dejado de terminar bien a sus muertos: que las trincheras, las cavernas, los osarios y las ruinas sean síntomas de un fallo que ya está activo y que nadie más quiere mirar directamente. Los Zarnag no preguntan si la muerte asusta. Preguntan si algo verdaderamente se va.
-
-Muchas comunidades sostienen tabúes alrededor de la alimentación, el despojo y la risa. No porque los Zarnag nieguen la realidad material del cuerpo muerto, sino porque saben que la familiaridad puede corroer el límite moral antes de que alguien lo note. Un hueso puede ser herramienta, registro, advertencia o resto que debe cerrarse. Convertirlo en trofeo sin necesidad es peligroso. Reír durante el trabajo puede sostener al grupo. Reírse del muerto puede ser el primer signo de contaminación del carácter.
+Sus tabúes más profundos van ahí. No guardar objetos de los muertos salvo con función ritual. No nombrar a los muertos con apodos — la familiaridad acerca el peso. No dormir dentro del perímetro de una fosa abierta. No llevar sobre uno mismo más cierre del que se puede sostener sin perder cuenta de qué parte era suyo. Cada tabú es la memoria de alguien que lo rompió y cambió de una manera que la comunidad recordó como advertencia.
 
 La contaminación que más temen no siempre entra por una herida.
 
-A veces entra por el hábito.
+A veces entra porque alguien empezó a recibir el peso de los muertos sin devolverlo. Lo fue guardando. Acumulando lo que otros quisieron y temieron. Primero lo sintió como conocimiento. Después como familiaridad. Después como hambre propia.
 
-Una comunidad que lleva generaciones gestionando esos umbrales termina siendo reformada por ellos. Su fuerza nace de mirar lo que otros apartan. Su deformación posible nace del mismo lugar. Muchos tabúes Zarnag intentan contener esa transformación: no comer durante ciertos trabajos, no nombrar a los muertos con apodos, no dormir dentro del perímetro de una fosa abierta, no conservar piezas de un cadáver salvo por función ritual o prueba, no reír cuando el silencio del lugar todavía no ha sido entendido.
-
-Cada comunidad decide cuáles de esos tabúes importan.
-
-Y cada comunidad tiene historias sobre lo que ocurrió cuando alguien decidió que ya no eran necesarios.
+Los ancianos Zarnag llaman a eso el cruce — el momento en que quien recibía el peso para cerrarlo empezó a necesitar que el peso existiera para recibirlo. La comunidad entera aprende a reconocer ese momento en los suyos antes de que el que cruzó lo note en sí mismo.
 
 ## Organización e Identidad Interna
 
