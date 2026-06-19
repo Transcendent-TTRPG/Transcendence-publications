@@ -86,3 +86,12 @@ El **efecto** determina:
 - qué tirada se hace
 - qué pasa si funciona
 - qué pasa si falla
+
+### Duración
+
+La duración de una Técnica describe cuánto tiempo permanece activo su efecto.
+
+- `Instantáneo`: el efecto ocurre y termina en el mismo momento en que la Técnica resuelve. No hay nada que mantener ni rastrear.
+- `Permanente`: el efecto persiste hasta que se cumpla una condición de fin descrita en el propio texto de la Técnica. Siempre hay al menos una condición explícita.
+
+**Toda Técnica con duración `Permanente` termina automáticamente cuando el combate concluye**, salvo que su efecto sea claramente relevante fuera de él. La adrenalina cesa, el cuerpo recupera su estado basal y los estados sostenidos por la activación dejan de mantenerse. Las condiciones de fin adicionales descritas en el texto de cada Técnica aplican también durante el combate.
