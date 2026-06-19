@@ -42,7 +42,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 | Severidad | Efectos |
 | --- | --- |
-| **Leve** | Al inicio de cada activación, realiza una `T.E.` de Tolerancia contra la severidad original. Si fallas, quedas incapacitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
+| **Leve** | Al inicio de cada activación, realiza una `T.E.` de Tolerancia contra la severidad original. Si fallas, quedas Debilitado esa activación. Penalización acumulativa de `−1` a todas las tiradas por cada activación transcurrida bajo Asfixiado. |
 | **Moderado** | Leve, más: `Preparación` se convierte en `0`. No puedes correr, gritar con fuerza, mantener esfuerzo prolongado ni usar acciones claramente dependientes de la respiración sin superar primero la `T.E.` de Tolerancia. |
 | **Grave** | Moderado, más: si fallas la `T.E.` de Tolerancia al inicio de la activación, quedas Incapacitado. |
 

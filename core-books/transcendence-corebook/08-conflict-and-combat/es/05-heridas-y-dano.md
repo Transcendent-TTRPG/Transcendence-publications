@@ -368,7 +368,7 @@ Cada zona aplica su penalizador a una categoría exclusiva de tiradas. Los penal
 | Zona | Dominio del penalizador | Saturada | Colapsada |
 | --- | --- | --- | --- |
 | Cabeza | T.E. de Sabiduría, Intelecto, Compostura, Presencia y Astucia; Preparación | Penalizador de Saturación a T.E. de Sabiduría, Intelecto, Compostura y Astucia. Penalizador de Saturación a Preparación. | Debe superar una T.R. de Alteración contra la severidad de la Herida que causó el Colapso o queda Inconsciente. |
-| Torso | T.E. de Tenacidad; T.R. | Penalizador de Saturación a T.E. de Tenacidad y a Tiradas de Resistencia. El cuerpo puede seguir ejecutando, pero ya no puede absorber presión de la misma forma. | Queda Incapacitado hasta estabilizarse. Si la Herida que causó el Colapso fue Crítica, también entra en Agonía. |
+| Torso | T.E. de Tenacidad; T.R. | Penalizador de Saturación a T.E. de Tenacidad y a Tiradas de Resistencia. El cuerpo puede seguir ejecutando, pero ya no puede absorber presión de la misma forma. | Queda Debilitado hasta estabilizarse. Si la Herida que causó el Colapso fue Crítica, también entra en Agonía. |
 | Brazos | T.A. | Penalizador de Saturación a Tiradas de Ataque | Un brazo queda inutilizado. No puede usar armas a dos manos, escudo o Técnicas que requieran coordinación de ambos brazos. Puede aplicar Impedido. |
 | Piernas | T.E. de Fuerza | Movimiento reducido a la mitad. Penalizador de Saturación a T.E. de Fuerza. | No puede llevar a cabo ninguna acción relacionada con Fuerza. |
 | Pies | T.E. y T.C. de Agilidad | No puede correr. Penalizador de Saturación a T.E. y T.C. de Agilidad. | Puede moverse solo con apoyo, ayuda o una T.E. apropiada. Si intenta moverse sin apoyo y falla, queda Derribado. |
@@ -390,9 +390,10 @@ Los Estados Corporales describen la condición general de una criatura cuando el
 | Estado | Significado |
 | --- | --- |
 | Operativo | Puede actuar con los penalizadores que tenga por zona, Agravio, Fatiga o Desgaste |
-| Incapacitado | No puede realizar acciones con ritmo mayor a 3. Puede hablar, arrastrarse, sostener algo o reaccionar débilmente si la ficción lo permite |
+| Debilitado | No puede realizar acciones con ritmo mayor a 3. Puede hablar, arrastrarse, sostener algo o reaccionar débilmente si la ficción lo permite |
+| Incapacitado | Queda Derribado y no puede realizar acciones declaradas. Está consciente — puede percibir y hablar con dificultad — pero el dolor o la lesión impiden toda ejecución activa |
 | Inconsciente | No puede actuar ni percibir de forma útil. No puede defenderse de forma activa |
-| Agonía | Está en riesgo de morir si no recibe estabilización. No puede actuar de forma significativa |
+| Agonía | Está en riesgo de morir si no recibe estabilización. Queda Incapacitado |
 | Muerto | La criatura deja de ser recuperable por medios normales |
 
 Si una zona ya Colapsada recibe otra Herida, se aplica o refresca el efecto de Colapso.
