@@ -263,7 +263,7 @@ Requiere Cobertura Ligera disponible y que ningún enemigo te tenga localizado c
 
 **Restricción:** No puedes usar un arma a dos manos durante la misma activación cuando la cola actúa como arma principal.
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Desequilibrado.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Desorientado.
 
 | Rango | Severidad |
 | --- | --- |

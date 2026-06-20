@@ -303,7 +303,7 @@ Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acc
 
 **Perfiles:** Carga · Perforación · Ruptura · Intercepción
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Derribado.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Aturdido.
 
 | Rango | Severidad |
 | --- | --- |

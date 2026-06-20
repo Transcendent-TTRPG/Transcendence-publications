@@ -251,16 +251,13 @@ Los Drak'kai no tienen variantes biológicas. Todos los personajes Drak'kai tien
 
 **Perfiles:** Impacto · Imparable · Intercepción · Torsión
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el ataque inflige daño adicional según el rango de competencia. Estos dados adicionales no son el dado designado de crítico y no afectan la probabilidad de crítico.
+**Efecto:** Cuando generas un impacto critico, el objetivo queda Aterrorizado sin derecho a una T.R. La severidad escala según el rango del portador.
 
-| Rango | Daño adicional |
+| Rango | Severidad |
 | --- | --- |
-| 1 | +1d2 |
-| 2 | +2d2 |
-| 3 | +3d2 |
-| 4 | +4d2 |
-| 5 | +5d2 |
-| 6 | +6d2 |
+| 1–2 | Leve |
+| 3–4 | Moderado |
+| 5–6 | Grave |
 
 #### Garras
 *Todos los Drak'kai · Auxiliar*
@@ -271,10 +268,10 @@ Los Drak'kai no tienen variantes biológicas. Todos los personajes Drak'kai tien
 
 **Perfiles:** Desvío · Intercepción · Torsión · Interrupción
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Impedido.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo se desplaza en la dirección que el Drak'kai elija según el rango del portador.
 
-| Rango | Severidad |
+| Rango | Desplazamiento |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1–2 | 1 m |
+| 3–4 | 2 m |
+| 5–6 | 3 m |

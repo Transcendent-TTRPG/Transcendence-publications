@@ -197,13 +197,7 @@ Los Sauri no tienen variantes biológicas. Todos los personajes Sauri tienen acc
 
 **Restricción:** No puedes usar un arma a dos manos durante la misma activación cuando la cola actúa como arma principal.
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Derribado.
-
-| Rango | Severidad |
-| --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+**Efecto:** Los ataques con Cola imponen una penalización a la T.D. del objetivo igual al rango de competencia del portador con esta arma natural.
 
 #### Mordisco
 *Todos los Sauri · Principal*

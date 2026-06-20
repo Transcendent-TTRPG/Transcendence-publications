@@ -377,13 +377,7 @@ Los Ursari no tienen variantes biológicas. Todos los personajes Ursari tienen a
 
 **Perfiles:** Impacto · Bastión · Desgarramiento · Control de Línea
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Desequilibrado.
-
-| Rango | Severidad |
-| --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, su T.D. se reduce en 1 por cada rango de competencia. Este efecto es Permanente y termina al concluir el combate.
 
 #### Mordisco
 *Todos los Ursari · Principal*
