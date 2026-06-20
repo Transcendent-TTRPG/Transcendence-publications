@@ -338,7 +338,7 @@ Los Chelicer no tienen variantes biológicas. Todos los personajes Chelicer tien
 
 **Perfiles:** Intercepción · Torsión · Interrupción · Desgarramiento
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Atrapado.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Sobrecargado.
 
 | Rango | Severidad |
 | --- | --- |

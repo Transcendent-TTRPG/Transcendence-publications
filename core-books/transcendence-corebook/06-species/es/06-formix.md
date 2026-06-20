@@ -319,7 +319,7 @@ Los Formix tienen variantes biológicas determinadas por la Reina en el momento 
 
 **Perfiles:** Imparable · Intercepción · Perforación · Torsión
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Atrapado.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Confundido.
 
 | Rango | Severidad |
 | --- | --- |

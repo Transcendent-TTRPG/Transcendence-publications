@@ -325,7 +325,7 @@ Todos los Panin tienen acceso al Mordisco desde el inicio.
 
 **Perfiles:** Interrupción · Precisión · Desgarro · Acecho
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Lacerado con severidad según el rango de competencia.
+**Efecto:** Si la T.A. supera la T.D. del objetivo por 3 o más, el objetivo realiza una T.R. de Alteraciones. Si falla, queda Conmocionado.
 
 | Rango | Severidad |
 | --- | --- |
