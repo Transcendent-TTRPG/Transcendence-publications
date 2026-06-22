@@ -46,7 +46,7 @@ El órgano de caza es la lengua. Larga, rápida, con superficie adhesiva, anclad
 
 Los ojos son grandes, de iris dorado-ámbar a cobre oscuro, con pupila horizontal. No resuelven detalle fino a distancia con precisión. Lo que hacen es abarcar: el ángulo de cobertura de un Bufoni en reposo es más amplio que el de cualquier especie con visión frontal. En poca luz, funcionan. Lo que ven no siempre importa más que lo que la piel registra.
 
-En la base de la garganta hay un saco vocal retráctil. Inflado, amplifica la vocalización hacia un rango de resonancia que tiene usos territoriales y rituales. En condiciones acústicas específicas — el terreno propio, la proximidad de los puntos de anclaje del kunitsukami del dominio — las frecuencias que un Bufoni produce pueden ser reconocidas por la Entidad que habita ese territorio. Generaciones del mismo linaje produciendo las mismas frecuencias en el mismo lugar han hecho ese reconocimiento recíproco.
+En la base de la garganta hay un saco vocal retráctil. Inflado, amplifica la vocalización hacia un rango de resonancia que tiene usos territoriales y rituales. En condiciones acústicas específicas — el terreno propio, la proximidad de los puntos de anclaje del kunitsukami del dominio — las frecuencias que un Bufoni produce pueden ser reconocidas por el kunitsukami que habita ese territorio. Generaciones del mismo linaje produciendo las mismas frecuencias en el mismo lugar han hecho ese reconocimiento recíproco.
 
 Para quien lo escucha desde afuera, el sonido es simplemente volumen.
 
@@ -54,11 +54,11 @@ Para quien lo escucha desde afuera, el sonido es simplemente volumen.
 
 El dominio es la unidad que importa.
 
-No el asentamiento. No el clan. No la alianza ni el pueblo. El dominio: un territorio de extensión acotada cuyos límites están definidos por dónde termina la relación activa con la Entidad que lo habita, y por dónde la piel Bufoni empieza a no reconocer bien el suelo.
+No el asentamiento. No el clan. No la alianza ni el pueblo. El dominio: un territorio de extensión acotada cuyos límites están definidos por dónde termina la relación activa con el kunitsukami que lo habita, y por dónde la piel Bufoni empieza a no reconocer bien el suelo.
 
-El dominio tiene un daimyo. Linaje por designación de la Entidad, no por herencia automática: cuando el titular muere o pierde capacidad, el kunitsukami señala al sucesor a través de cambios en cómo el territorio responde a cada candidato. El daimyo tiene autoridad sobre los asuntos del dominio — relaciones exteriores, estructura interna, decisiones de conflicto. No tiene autoridad sobre los guardianes rituales, que mantienen la relación con el kunitsukami independientemente de la política.
+El dominio tiene un daimyo. Linaje por designación del kunitsukami, no por herencia automática: cuando el titular muere o pierde capacidad, el kunitsukami señala al sucesor a través de cambios en cómo el territorio responde a cada candidato. El daimyo tiene autoridad sobre los asuntos del dominio — relaciones exteriores, estructura interna, decisiones de conflicto. No tiene autoridad sobre los guardianes rituales, que mantienen la relación con el kunitsukami independientemente de la política.
 
-Los guardianes no son sacerdotes en el sentido de otras especies. Son los custodios del protocolo de ofrenda, del vocabulario ritual y del registro de cómo ha respondido la Entidad a lo largo de generaciones. Lo que saben no puede transferirse por descripción: se aprende participando en el dominio desde la infancia, observando las respuestas del territorio, reconociendo cuándo una señal cambió y qué significó la última vez que ocurrió así. Los dominios que pierden sus guardianes sin transmisión completa pierden parte de la lectura que construyeron.
+Los guardianes no son sacerdotes en el sentido de otras especies. Son los custodios del protocolo de ofrenda, del vocabulario ritual y del registro de cómo ha respondido el kunitsukami a lo largo de generaciones. Lo que saben no puede transferirse por descripción: se aprende participando en el dominio desde la infancia, observando las respuestas del territorio, reconociendo cuándo una señal cambió y qué significó la última vez que ocurrió así. Los dominios que pierden sus guardianes sin transmisión completa pierden parte de la lectura que construyeron.
 
 El prestigio se acumula por dos vías. Una es la generosidad hacia el kunitsukami y la comunidad: las familias que ofrendan con constancia, que comparten en escasez, que mantienen las prácticas sin abreviación son recordadas en el registro oral del dominio. La deshonra llega por ruptura pública de protocolo, por extracción sin ofrenda, por negligencia que debilitó una relación que el dominio mantenía.
 
@@ -66,21 +66,21 @@ Y luego están los shinobi.
 
 El shinobi no es un concepto importado. Es la respuesta interna de una civilización de dominios cerrados a la necesidad de información y acción fuera de esos dominios. Cada dominio que puede sostenerse tiene uno o varios: elegidos antes de que la firma química de su piel quede fija al territorio natal, y expuestos deliberadamente a otro dominio o entorno durante años. El cuerpo hace el resto. La piel absorbe. La firma cambia. El shinobi que emerge de ese proceso puede moverse en otros territorios sin que su biología lo anuncie como forastero de origen.
 
-Lo que hace un shinobi en territorio ajeno no es combate directo. Es información: qué Entidad existe ahí, qué tan estable está la relación de ese dominio con su kunitsukami, qué recursos tiene, qué debilidades estructurales hay en su vínculo. Esa información llega al daimyo que la encargó. Lo que el daimyo hace con ella puede o no traducirse en acción.
+Lo que hace un shinobi en territorio ajeno no es combate directo. Es información: qué kunitsukami existe ahí, qué tan estable está la relación de ese dominio con él, qué recursos tiene, qué debilidades estructurales hay en su vínculo. Esa información llega al daimyo que la encargó. Lo que el daimyo hace con ella puede o no traducirse en acción.
 
-Los dominios llevan guerras entre sí. No campañas abiertas: tensión de largo plazo, acciones focalizadas, daño a la relación de un dominio con su Entidad antes que destrucción directa de su población. Una guerra Bufoni puede durar décadas sin que ningún lado sea destruido en sentido ordinario, y terminar cuando uno de los dos dominios colapsa porque nadie pudo mantener el protocolo bajo presión continua.
+Los dominios llevan guerras entre sí. No campañas abiertas: tensión de largo plazo, acciones focalizadas, daño a la relación de un dominio con su kunitsukami antes que destrucción directa de su población. Una guerra Bufoni puede durar décadas sin que ningún lado sea destruido en sentido ordinario, y terminar cuando uno de los dos dominios colapsa porque nadie pudo mantener el protocolo bajo presión continua.
 
 ## Teología y Cosmología
 
 Los Bufoni organizan lo que existe en capas de presencia y relación.
 
-Lo que otras especies llaman vestigios — los ecos del Tauma que quedan en objetos y sitios — los Bufoni lo experimentan como la capa más inmediata de lo vivo: cosas que acumularon contacto con la corriente y lo retienen, que responden si se les habla correctamente, que pueden ser herramienta o amenaza según la calidad de la relación que se tenga con ellas. El mundo para los Bufoni está lleno de esos ecos. No todos tienen nombre. No todos merecen nombre.
+Los yaoyorozu son la capa más inmediata de lo vivo: presencias que se acumularon en objetos y sitios, que retienen algo de lo que los tocó, que responden si se les habla correctamente, que pueden ser herramienta o amenaza según la calidad de la relación que se tenga con ellas. El mundo para los Bufoni está lleno de yaoyorozu. No todos tienen nombre. No todos merecen nombre.
 
-Los vínculos más persistentes y personales son para ellos los ujigami: las presencias que se asocian a un linaje o comunidad específica, que se anclan en objetos físicos que la familia porta, que responden de manera más predecible porque la relación acumulada las ha hecho más legibles. Un ujigami no es un espíritu guardián en el sentido de una entidad que protege activamente. Es una relación que se sostiene. Mientras se sostiene, hay reciprocidad. Si se descuida, hay ausencia. Si se rompe mal, hay consecuencias.
+Los ujigami son las presencias más persistentes y personales del mundo Bufoni: las que se asocian a un linaje o comunidad específica, que se anclan en objetos físicos que la familia porta, que responden de manera más predecible porque la relación acumulada las ha hecho más legibles. Un ujigami no es un espíritu guardián en el sentido de algo que protege activamente. Es una relación que se sostiene. Mientras se sostiene, hay reciprocidad. Si se descuida, hay ausencia. Si se rompe mal, hay consecuencias.
 
 Los kunitsukami son los que importan.
 
-Son las Entidades del dominio: presencias que habitaron un territorio antes de que los Bufoni llegaran, o que surgieron de la historia acumulada de ese territorio bajo su cuidado. Algunos dominios muy antiguos albergan algo que supera en alcance y poder lo que los Bufoni describen como kunitsukami ordinario — lo que el mundo reconocería como Soberano. La mayoría de los Bufoni no saben leer esa distinción. El protocolo no cambia según el rango de la Entidad. La experiencia sí.
+Son presencias que habitaron un territorio antes de que los Bufoni llegaran, o que surgieron de la historia acumulada de ese territorio bajo su cuidado. Algunos dominios muy antiguos albergan algo que excede en alcance y peso lo que el protocolo ordinario puede nombrar. La mayoría de los Bufoni no reconocen esa diferencia hasta que es demasiado tarde. El protocolo no cambia con la escala de lo que habita el dominio. La experiencia sí.
 
 En el extremo más alto están los amatsukami: las presencias de alcance que no pertenecen a ningún dominio específico, que actúan a una escala que los kunitsukami no alcanzan. Los Bufoni no tienen protocolo para relacionarse con ellos. Los amatsukami son el techo del mundo reconocible — lo que existe más allá del punto en que las relaciones ordinarias dejan de funcionar.
 
@@ -88,13 +88,13 @@ La premisa teológica fundamental es simple: la presencia se sostiene con atenci
 
 Lo que la cosmología Bufoni no puede resolver es la pregunta de dirección.
 
-Si un dominio desarrolla prácticas rituales sostenidas durante generaciones alrededor de una Entidad, y esa Entidad empieza a responder en las formas que esas prácticas le dan forma — ¿quién comenzó? ¿El kunitsukami que llegó primero y encontró en el dominio un canal para expresarse? ¿O la comunidad que, sin saberlo, construyó una entidad a partir de lo que acumuló?
+Si un dominio desarrolla prácticas rituales sostenidas durante generaciones alrededor de un kunitsukami, y ese kunitsukami empieza a responder en las formas que esas prácticas le dan forma — ¿quién comenzó? ¿El kunitsukami que llegó primero y encontró en el dominio un canal para expresarse? ¿O la comunidad que, sin saberlo, construyó una presencia a partir de lo que acumuló?
 
 La teología Bufoni tiene una respuesta práctica: no importa. El protocolo funciona de la misma manera en ambos casos.
 
 El problema aparece cuando el kunitsukami de un dominio empieza a responder de maneras que el vocabulario ritual acumulado no reconoce.
 
-Una Entidad que nadie está atendiendo no muere. Sigue existiendo, expresando lo que siempre fue, sin el canal que le daba forma reconocible. Para un dominio vecino que intente leer lo que quedó de un dominio caído, la distinción entre una Entidad corrupta y una Entidad simplemente sin moldear por generaciones de relación es casi imposible de establecer desde fuera.
+Un kunitsukami que nadie está atendiendo no muere. Sigue existiendo, expresando lo que siempre fue, sin el canal que le daba forma reconocible. Para un dominio vecino que intente leer lo que quedó de un dominio caído, la distinción entre un kunitsukami corrompido y uno simplemente sin moldear por generaciones de relación es casi imposible de establecer desde fuera.
 
 Para los Bufoni que sobrevivieron al colapso, no es mucho más fácil desde adentro.
 
@@ -104,7 +104,7 @@ Los Bufoni se dividen en tres categorías que ellos mismos reconocen, aunque no 
 
 El Bufoni de dominio es el que tiene relación activa y viva con un kunitsukami específico: tiene protocolo, linaje registrado en el vocabulario ritual, firma química calibrada al territorio. Su identidad está anclada en un lugar que responde a ella. Cuando ese anclaje falta — por colapso del dominio, por expulsión, por ausencia extendida — el Bufoni de dominio carga algo que no puede depositarse en ningún otro lugar de la misma manera.
 
-Los guardianes de sitio neutral son los que habitan los puntos de cruce entre dominios: territorios donde no hay una Entidad dominante, donde el terreno pertenece a la transacción más que a una relación sostenida. Son los árbitros de los conflictos inter-dominio, los custodios de los tratados. Tienen una perspectiva de la política Bufoni que ningún dominio interior puede tener. También tienen una identidad que ningún dominio reconocerá completamente como propia.
+Los guardianes de sitio neutral son los que habitan los puntos de cruce entre dominios: territorios donde ningún kunitsukami reconoce ese suelo como propio, donde el terreno pertenece a la transacción más que a una relación sostenida. Son los árbitros de los conflictos inter-dominio, los custodios de los tratados. Tienen una perspectiva de la política Bufoni que ningún dominio interior puede tener. También tienen una identidad que ningún dominio reconocerá completamente como propia.
 
 Los shinobi en operación son una categoría aparte: personas cuya firma química fue remapeada deliberadamente, que operan en territorios que no son el suyo. Algunos tienen un dominio activo que los encargó y al que teóricamente pueden regresar. Otros regresarían a encontrar que el dominio no sobrevivió su ausencia, o que quien los envió ya no puede recibirlos.
 
@@ -112,7 +112,7 @@ Las tensiones estructurales que importan son dos.
 
 La primera: entre el daimyo, que ejerce autoridad política sobre el dominio, y los guardianes rituales, cuya autoridad sobre la relación con el kunitsukami no está subordinada a la política. Cuando los dos entran en conflicto sobre cómo proceder en una crisis, el dominio tiene que encontrar un camino sin romper ninguno de los dos ejes — porque perder a los guardianes puede costar la relación, y perder al daimyo puede costar la estructura.
 
-La segunda: entre dominios cuya relación con su Entidad es muy antigua y dominios que la construyeron más recientemente. Los primeros tienen más capas de lectura, más historia acumulada. También tienen más formas de llamar peculiaridad local a lo que podría ser deterioro. Los segundos tienen relaciones más simples y menos historia que justifique errores de interpretación.
+La segunda: entre dominios cuya relación con su kunitsukami es muy antigua y dominios que la construyeron más recientemente. Los primeros tienen más capas de lectura, más historia acumulada. También tienen más formas de llamar peculiaridad local a lo que podría ser deterioro. Los segundos tienen relaciones más simples y menos historia que justifique errores de interpretación.
 
 Cuál de los dos sobrevive mejor a una crisis depende de qué tipo de crisis es.
 
@@ -136,9 +136,9 @@ La muerte fuera del dominio es la pérdida que los Bufoni articulan con más cla
 
 ## Relaciones con el Mundo
 
-Los **Rokhart** necesitan lo que los Bufoni saben y no pueden obtenerlo en condiciones que sus métodos permitan. Un Rokhart que quiere estudiar la relación entre práctica colectiva y respuesta de Entidad tendría en un dominio Bufoni el ejemplo más sostenido y documentado disponible. El problema es que cualquier proceso de documentación rigurosa altera la relación que intenta medir. Los Bufoni comprenden la incompatibilidad. No la ven como un problema que les corresponda resolver.
+Los **Rokhart** necesitan lo que los Bufoni saben y no pueden obtenerlo en condiciones que sus métodos permitan. Un Rokhart que quiere estudiar la relación entre práctica colectiva y respuesta del kunitsukami tendría en un dominio Bufoni el ejemplo más sostenido y documentado disponible. El problema es que cualquier proceso de documentación rigurosa altera la relación que intenta medir. Los Bufoni comprenden la incompatibilidad. No la ven como un problema que les corresponda resolver.
 
-Los **Naghii** y los Bufoni comparten algo que pocas especies comparten: ambos organizan su relación con el territorio en términos de vínculos sostenidos con presencias que responden a práctica colectiva acumulada. Las diferencias teológicas son reales y las dos cosmologías no se superponen sin fricción. Lo que produce tensión no es desacuerdo doctrinal — es que cada especie puede leer parcialmente lo que la otra hace y sacar conclusiones que la otra no compartiría.
+Los **Naghii** y los Bufoni comparten algo que pocas especies comparten: ambos organizan su relación con el territorio en torno a presencias que responden a práctica colectiva acumulada. Las diferencias teológicas son reales y las dos cosmologías no se superponen sin fricción. Lo que produce tensión no es desacuerdo doctrinal — es que cada especie puede leer parcialmente lo que la otra hace y sacar conclusiones que la otra no compartiría.
 
 Los **Drak'kai** que transitan cerca de un dominio activo pueden leer la firma taumática de lo que ese dominio ha construido. Lo que leen no siempre coincide con lo que el dominio describe. Los Drak'kai no lo dicen como amenaza. Los Bufoni no siempre están en posición de escucharlo sin consecuencias para cómo tocan el protocolo al día siguiente.
 
@@ -192,7 +192,7 @@ Y si hay diferencia.
 
 ### Características
 
-Los Bufoni obtienen `+1` en **Agilidad**, **Sabiduría** y **Compostura**.
+Los Bufoni obtienen `+1` en **Agilidad**, **Sabiduría** y **Astucia**.
 
 ### Herencia
 
