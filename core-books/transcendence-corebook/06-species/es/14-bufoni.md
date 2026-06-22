@@ -192,7 +192,7 @@ Y si hay diferencia.
 
 ### Características
 
-Los Bufoni obtienen `+1` en **Agilidad**, **Sabiduría** y **Astucia**.
+Los Bufoni obtienen `+1` en **Tenacidad**, **Compostura** y **Sabiduría**.
 
 ### Herencia
 
@@ -201,6 +201,14 @@ Los Bufoni obtienen `+1` en **Agilidad**, **Sabiduría** y **Astucia**.
 ### Legado
 
 **Sabiduría Corporal** — Los Bufoni utilizan **Sabiduría** en lugar de la característica por defecto en T.E. de **Saltar**, **Nadar** y **Sigilo**. Además, recibes un bonificador de `+1` por cada cuatro Niveles de Referencia en esas tres T.E.
+
+**Acecho** — Cuando atacas desde estado Oculto y tu T.A. supera la T.D. del objetivo, añades dados de daño adicionales según tu rango de competencia con el arma:
+
+| Rango | Dados adicionales |
+| --- | --- |
+| 1–2 | +1d6 |
+| 3–4 | +2d6 |
+| 5–6 | +3d6 |
 
 **Golpe Sin Eco** — *Reactivo · Utilidad · Ritmo 0 · Desgaste 2.*
 
@@ -234,11 +242,3 @@ Todos los Bufoni tienen acceso a la Lengua desde el inicio.
 | 5–6 | Grave |
 
 El efecto específico del compuesto varía según el linaje del portador. Ver variantes de clan.
-
-**El Peso de la Espera:** Cuando atacas con la Lengua desde estado Oculto y tu T.A. supera la T.D. del objetivo, añades dados de daño adicionales según tu rango de competencia con esta arma:
-
-| Rango | Dados adicionales |
-| --- | --- |
-| 1–2 | +1d6 |
-| 3–4 | +2d6 |
-| 5–6 | +3d6 |
