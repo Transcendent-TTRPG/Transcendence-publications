@@ -188,7 +188,7 @@ Y si hay diferencia.
 | --- | --- | --- | --- | --- |
 | 50–70 años | Mediano | 1.35–1.60 m | 60–90 kg | 10 m |
 
-**Idiomas:** [Idioma nativo · pendiente] · Común
+**Idiomas:** Zetsugo · Común
 
 ### Características
 
@@ -233,7 +233,7 @@ Todos los Bufoni tienen acceso a la Lengua desde el inicio.
 
 **Perfiles:** Torsión · Interrupción · Impredecibilidad · Corrosión
 
-**Efecto:** Si la T.A. supera la T.D. del objetivo, el objetivo realiza T.R. de Veneno. Si falla, queda afectado por el compuesto. La severidad escala según el rango del portador:
+**Efecto:** Si la T.A. supera la T.D. del objetivo, el objetivo realiza T.R. de Veneno. Si falla, queda afectado por el compuesto de la Lengua. La severidad escala según el rango del portador:
 
 | Rango | Severidad |
 | --- | --- |
@@ -241,4 +241,52 @@ Todos los Bufoni tienen acceso a la Lengua desde el inicio.
 | 3–4 | Moderado |
 | 5–6 | Grave |
 
-El efecto específico del compuesto varía según el linaje del portador. Ver variantes de clan.
+El compuesto específico que entrega la Lengua depende del linaje del portador — ver **Variante de Linaje**.
+
+---
+
+#### Variante de Linaje
+
+Al inicio de la campaña, los personajes Bufoni eligen su linaje. Esta elección determina qué Veneno entrega la Lengua al contacto y no puede cambiarse. Todos los linajes utilizan el mismo umbral de severidad que se muestra arriba.
+
+Los cinco linajes canónicos corresponden a los cinco tipos de dominio territorial que los Bufoni han habitado históricamente. El compuesto de cada linaje está calibrado a las condiciones químicas de ese dominio de origen.
+
+##### Clan Numachi
+
+*Dominios de pantano profundo y ciénaga*
+
+El compuesto Numachi interrumpe la transmisión entre intención y ejecución muscular. Cada acción del objetivo cuesta más tiempo del esperado.
+
+La Lengua de los Numachi entrega **Entorpecido** (ver capítulo 11 — Venenos).
+
+##### Clan Kawanagi
+
+*Dominios de orillas de río de corriente rápida*
+
+El compuesto Kawanagi reacciona con los tejidos sensoriales del objetivo: membranas mucosas, ojos, terminaciones nerviosas superficiales. La precisión del ataque se degrada.
+
+La Lengua de los Kawanagi entrega **Escaldado** (ver capítulo 11 — Venenos).
+
+##### Clan Morita
+
+*Dominios de bosque húmedo cerrado*
+
+El compuesto Morita es un complejo enzimático que actúa sistémicamente a través del torrente sanguíneo, desintegrando proteínas estructurales en las capas protectoras biológicas de todas las zonas del cuerpo.
+
+La Lengua de los Morita entrega **Erosionado** (ver capítulo 11 — Venenos).
+
+##### Clan Uminata
+
+*Dominios costeros y marismas tidales*
+
+El compuesto Uminata se acumula en el sistema renal del objetivo, colapsando su capacidad de filtración. La resistencia a cualquier agente dañino queda comprometida.
+
+La Lengua de los Uminata entrega **Saturado** (ver capítulo 11 — Venenos).
+
+##### Clan Kirishima
+
+*Dominios de montaña brumosa y alturas húmedas*
+
+El compuesto Kirishima suprime la síntesis hepática de proteínas reparadoras. Mientras esté activo, el objetivo no puede beneficiarse de curación ni tratamiento médico.
+
+La Lengua de los Kirishima entrega **Inhibido** (ver capítulo 11 — Venenos).
