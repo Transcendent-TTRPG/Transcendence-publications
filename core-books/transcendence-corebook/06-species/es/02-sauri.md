@@ -20,15 +20,15 @@ Los Sauri no temen al Tauma porque sea distante o incomprensible. Lo temen porqu
 
 Su gobernante es el mayor intento de prueba de esa afirmación.
 
-Por eso, cuando un soberano Sauri enferma, cambia de color, deja de aparecer en público o permanece demasiado tiempo dentro de una cámara sellada, no se interpreta como un problema privado de la corona. Se interpreta como una grieta en la idea misma de que algo vivo puede contener la corriente sin romperse.
+Por eso, cuando un soberano Sauri enferma, cambia de color, deja de aparecer en público o permanece demasiado tiempo dentro de una cámara sellada, no se interpreta como un problema privado de la corona. Se interpreta como una grieta en la idea misma de que algo vivo puede contener esa fuerza sin romperse.
 
 ## El Cuerpo
 
 Los Sauri son humanoides bípedos de gran tamaño con cuerpos de cocodrilo pesados: torsos anchos, musculatura densa, mandíbulas poderosas, colas largas y escamas gruesas estratificadas. No están construidos para la elegancia veloz. Su movimiento lleva el peso de algo que puede permanecer inmóvil durante mucho tiempo y luego cerrar la distancia en una decisión.
 
-Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos cargados de Tauma, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales Sauri interpretan estos cambios como evidencia corporal de la presión ambiental: calor, humedad, contenido mineral, flujo ambiental, proximidad de una manifestación más fuerte.
+Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos cargados de Tauma, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales Sauri interpretan estos cambios como evidencia corporal de presión ambiental: calor, humedad, contenido mineral, alteración del entorno o cercanía de algo más pesado de lo habitual.
 
-Esto no hace a los Sauri hechiceros naturales. Su piel no comanda el Tauma. Lo recibe y hace visible la presión que atraviesa el entorno. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hacen la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar la corriente que los atraviesa.
+Esto no hace a los Sauri hechiceros naturales. Su piel no comanda el Tauma. Lo recibe y hace visible la presión que atraviesa el entorno. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hacen la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar lo que pasa a través de ellos.
 
 Su biología depende del calor de maneras que van más allá del confort. El tejido Sauri tiene una capacidad regenerativa que se activa bajo temperatura corporal sostenida: con calor externo disponible, el cuerpo repara heridas a un ritmo que otras especies no alcanzan con los mismos recursos médicos. En frío, esa capacidad se reduce hasta la norma de cualquier otra especie. Sus sacerdocios conocen este rasgo; sus rituales de recuperación siempre incluyen el mantenimiento de temperatura como condición primaria.
 
@@ -42,19 +42,19 @@ Sus asentamientos parecen bajos, sellados y seminaturales desde afuera: semiente
 
 Los Sauri se instalan en márgenes de ríos, llanuras inundables, bordes desérticos donde la humedad que sobrevive al calor se gestiona con la misma atención que los linajes o las leyes: con registro, con autoridad y con consecuencias para quien rompe el sistema.
 
-El río no es solo hábitat. Es una ruta de llegada. Las corrientes que atraviesan territorios de Primordiales, ruinas antiguas o sitios de muerte masiva arrastran consigo objetos que esas zonas marcaron. Un Sauri que conoce su río sabe leer qué trajo la última crecida: la escama cambia antes de que el ojo confirme nada. Las comunidades desarrollaron prácticas de recolección y evaluación de estos objetos durante generaciones. No los acumulan para armarse ni para comerciar. Los guardan para lo que importa: la prueba.
+El río no es solo hábitat. Es una ruta de llegada. Las corrientes que atraviesan territorios temidos, ruinas antiguas o sitios de muerte masiva arrastran consigo objetos que esas zonas marcaron. Un Sauri que conoce su río sabe leer qué trajo la última crecida: la escama cambia antes de que el ojo confirme nada. Las comunidades desarrollaron prácticas de recolección y evaluación de estos objetos durante generaciones. No los acumulan para armarse ni para comerciar. Los guardan para lo que importa: la prueba.
 
 Un recipiente puede ser un cuerpo, un templo, un linaje, una ley, una tumba, un canal, una máscara o un gobernante. Lo que importa es si puede retener fuerza sin filtrarse, quebrarse o corromper lo que contiene.
 
-La mayoría de las comunidades Sauri están gobernadas por un soberano cuya autoridad no se hereda ni se negocia: se demuestra. La prueba consiste en sostener, simultáneamente, los objetos más cargados que la comunidad ha reunido — los que abren canales en el sistema nervioso de quien los porta, los que permiten que lo que está del otro lado cruce. El soberano es el Sauri que puede sostener más de eso sin perder el propósito. Sin romperse. Sin que lo que entra lo reemplace.
+La mayoría de las comunidades Sauri están gobernadas por un soberano cuya autoridad no se hereda ni se negocia: se demuestra. La prueba consiste en sostener, simultáneamente, los objetos más cargados que la comunidad ha reunido, los que ponen a prueba la forma de quien los porta y exigen de él algo que no puede fingirse. El soberano es el Sauri que puede sostener más de eso sin perder el propósito. Sin romperse. Sin que la prueba lo vuelva otra cosa.
 
-Las escamas lo registran todo. Ese es el instrumento que otras especies no tienen: el cuerpo del soberano es legible para quienes lo rodean en tiempo real. Los cambios de color no son ceremoniales — son datos. Una oscilación durante el pico de la exposición puede terminar una candidatura. Una estabilidad sostenida puede establecer a alguien como soberano durante décadas.
+Las escamas lo registran todo. Ese es el instrumento que otras especies no tienen: el cuerpo del soberano es legible para quienes lo rodean en tiempo real. Los cambios de color no son ceremoniales — son datos. Una oscilación durante el punto más intenso de la prueba puede terminar una candidatura. Una estabilidad sostenida puede establecer a alguien como soberano durante décadas.
 
 Por eso el cuerpo del soberano pertenece menos a sí mismo que a la comunidad que afirma contener. Sus cambios de escama se registran. Sus heridas se interpretan. Sus enfermedades rara vez son privadas. Una alteración inexplicable puede suspender decisiones de estado o iniciar un proceso de nueva prueba antes de que el soberano haya muerto.
 
 La ambigüedad importa. El orden político Sauri depende de la afirmación de que el recipiente es real. El horror de la cultura comienza cuando todos siguen obedeciendo a un cuerpo que quizá ya se rompió.
 
-La jerarquía Sauri es ritualizada antes que impulsiva. La fuerza importa, pero la fuerza sola no es suficiente. Un desafiante debe probar contención: la capacidad de soportar calor, presión, dolor, hambre, quietud, humillación social, exposición al Tauma o el peso de un secreto sin romper la forma.
+La jerarquía Sauri es ritualizada antes que impulsiva. La fuerza importa, pero la fuerza sola no es suficiente. Un desafiante debe probar contención: la capacidad de soportar calor, presión, dolor, hambre, quietud, humillación social, exposición a lo peligroso o el peso de un secreto sin romper la forma.
 
 Los duelos existen, pero los concursos más respetados no son violencia simple. Son pruebas de presión. Un Sauri que gana demasiado rápido puede ser admirado. Un Sauri que permanece entero mientras el mundo intenta dividirlo es temido.
 
@@ -64,25 +64,25 @@ Un visitante no simplemente entra a un templo Sauri. El templo lo procesa.
 
 ## Teología y Cosmología
 
-Los Sauri no describen al Tauma como una fuerza exterior que irrumpe en el mundo. Lo describen como una corriente que se mueve a través del mundo cuando existen canales para ello. Lechos de ríos, venas, raíces, vasos sanguíneos, filones minerales, caminos antiguos, ruinas y linajes rituales se interpretan todos como posibles cursos para el poder.
+Los Sauri no describen al Tauma como una fuerza exterior que irrumpe en el mundo. Lo describen como una corriente que busca cauce, una presión que se deja sentir allí donde la forma no está bien cerrada y allí donde los recipientes fueron preparados para recibirla. Lechos de ríos, venas, raíces, vasos sanguíneos, filones minerales, caminos antiguos, ruinas y linajes rituales se interpretan todos como posibles cursos para ese poder.
 
 Esto hace a los Sauri una de las especies más dispuestas a acercarse directamente al Tauma. No lo tratan como seguro. Lo tratan como algo suficientemente peligroso como para merecer arquitectura.
 
-Para los Sauri, la forma no es decoración. La forma es defensa. Una cámara mal orientada, un canal abierto antes de tiempo, un cuerpo preservado con una secuencia incompleta o una ley incapaz de contener una crisis no son fallas separadas. Son variaciones de la misma amenaza: la corriente encontró una grieta.
+Para los Sauri, la forma no es decoración. La forma es defensa. Una cámara mal orientada, un canal abierto antes de tiempo, un cuerpo preservado con una secuencia incompleta o una ley incapaz de contener una crisis no son fallas separadas. Son variaciones de la misma amenaza: algo que debía mantenerse dentro de su forma encontró una grieta.
 
-Los Sauri no creen que la muerte sea liberación del cuerpo. Creen que el cuerpo es el primer y más importante recipiente que recibe una persona. Morir sin la preservación adecuada es dejar que el recipiente se derrame antes de que su contenido haya sido juzgado, medido o devuelto a la corriente correcta.
+Los Sauri no creen que la muerte sea liberación del cuerpo. Creen que el cuerpo es el primer y más importante recipiente que recibe una persona. Morir sin la preservación adecuada es dejar que ese recipiente se derrame antes de que lo que cargó haya sido juzgado, pesado y devuelto al orden que le corresponde.
 
-Sus prácticas funerarias no son meramente reverentes. Son técnicas, políticas y teológicas. Un cuerpo preservado retiene la impronta de lo que atravesó a quien lo habitó. El soberano que sostuvo los objetos más cargados durante décadas — cuyo sistema nervioso fue el canal más activo de su generación — deja en su cuerpo preservado el registro más denso que la comunidad puede conservar. Las cámaras funerarias no son memoriales. Son el archivo que se usa en la siguiente prueba.
+Sus prácticas funerarias no son meramente reverentes. Son técnicas, políticas y teológicas. Un cuerpo preservado retiene la marca de lo que soportó quien lo habitó. El soberano que sostuvo durante décadas los objetos más pesados para su tradición deja en su cuerpo preservado el registro más denso que la comunidad puede conservar. Las cámaras funerarias no son memoriales. Son el archivo que se usa en la siguiente prueba.
 
-La secuencia es deliberada. Un candidato al soberanato es expuesto progresivamente: primero a los objetos del río de menor carga, luego a los más intensos, finalmente a los cuerpos preservados de los soberanos anteriores. Quien aguanta el pico de exposición sin perder coherencia es el nuevo soberano. Los muertos no son consultados. Son instrumentos de calibración.
+La secuencia es deliberada. Un candidato al soberanato es puesto progresivamente bajo presión: primero ante los objetos del río de menor peso ritual, luego ante los más intensos, finalmente ante los cuerpos preservados de los soberanos anteriores. Quien soporta la prueba final sin perder coherencia es el nuevo soberano. Los muertos no son consultados. Son instrumentos de calibración.
 
-Los Sauri preparan cuerpos, sellan cámaras, orientan canales, miden cambios en escama, agua, mineral y carne. Todo en su teología insiste en la misma posibilidad: que la forma correcta puede impedir que la corriente destruya lo que atraviesa.
+Los Sauri preparan cuerpos, sellan cámaras, orientan canales, miden cambios en escama, agua, mineral y carne. Todo en su teología insiste en la misma posibilidad: que la forma correcta puede impedir que lo sagrado, lo pesado o lo demasiado antiguo destruya aquello que toca.
 
 La pregunta que no aparece en ningún texto ritual es la más simple: ¿y si nada viviente estuvo nunca destinado a contenerla?
 
 ## Organización e Identidad Interna
 
-Ningún orden Sauri sobrevive solo por simbolismo. Sus divisiones internas existen porque diferentes cuerpos deben cargar diferentes formas de presión, y porque un solo error en el agua, la preservación, la soberanía o el manejo del Tauma puede arruinar un asentamiento entero.
+Ningún orden Sauri sobrevive solo por simbolismo. Sus divisiones internas existen porque diferentes cuerpos deben cargar diferentes formas de presión, y porque un solo error en el agua, la preservación, la soberanía o el manejo de fuerzas demasiado pesadas puede arruinar un asentamiento entero.
 
 Las comunidades Sauri raramente son idénticas. Un templo de pantano, un reino fluvial, una ciudad cisterna al borde del desierto y una fortaleza de reservorio semienterrada pueden honrar todos el recipiente, pero no distribuyen la autoridad de la misma manera.
 
@@ -98,7 +98,7 @@ Los Sauri que viven cerca del poder aprenden pronto que no todas las cámaras se
 
 ## Vida Cotidiana
 
-Sobrevivir como Sauri es vivir dentro de presión gestionada. El agua debe retenerse, el calor debe soportarse, la carne debe preservarse, la piedra no debe agrietarse en el momento equivocado y las señales del Tauma deben leerse antes de que se conviertan en catástrofe. Lo que otros pueblos llaman “asentamiento” se siente para los Sauri más como una estructura de contención continuamente mantenida.
+Sobrevivir como Sauri es vivir dentro de presión gestionada. El agua debe retenerse, el calor debe soportarse, la carne debe preservarse, la piedra no debe agrietarse en el momento equivocado y las señales de desajuste deben leerse antes de que se conviertan en catástrofe. Lo que otros pueblos llaman “asentamiento” se siente para los Sauri más como una estructura de contención continuamente mantenida.
 
 Al amanecer, los patios calientes se llenan antes que los mercados. Los cuerpos heridos se colocan cerca de piedra tibia o aguas templadas. Los preservadores revisan sellos de sal, humo y resina antes de que el calor suba demasiado. Los trabajadores de canal prueban compuertas con la misma seriedad con la que un sacerdote revisa una inscripción. Los niños aprenden a no correr hacia la sombra sin mirar primero qué la proyecta.
 
@@ -112,7 +112,7 @@ La infancia Sauri raramente es tan protegida como otras especies preferirían. L
 
 Un niño Sauri no aprende primero a vencer. Aprende a no romperse.
 
-Lo que los Sauri encuentran más difícil de soportar son las pérdidas de contención: un reservorio que falla, un cuerpo de linaje que queda sin preservar, un hijo llevado por el calor o el pantano, un soberano que colapsa bajo el peso que se suponía debía sostener, un templo cuyos rituales continúan después de que la corriente interior ya ha salido mal.
+Lo que los Sauri encuentran más difícil de soportar son las pérdidas de contención: un reservorio que falla, un cuerpo de linaje que queda sin preservar, un hijo llevado por el calor o el pantano, un soberano que colapsa bajo el peso que se suponía debía sostener, un templo cuyos rituales continúan después de que algo en su interior ya se torció.
 
 ## Relaciones con el Mundo
 
@@ -120,11 +120,11 @@ Los Sauri tienden a ocupar llanuras inundables, márgenes de pantano, reservorio
 
 Otras especies raramente encuentran a los Sauri en términos neutrales. Los Sauri controlan agua, rutas preservadas, cuencas antiguas, reservas ocultas, tierra funeraria y trabajos de piedra que otros pueden necesitar desesperadamente. Esto los convierte en socios comerciales valiosos, cobradores de peaje temidos, aliados duros u objetivos naturales.
 
-Algunos vecinos los ven como guardianes de la estabilidad. Otros los ven como acaparadores de infraestructura de supervivencia. Ambas lecturas pueden ser correctas dependiendo de si el canal está abierto, los muertos están quietos y el tratado aún se mantiene.
+Algunos vecinos los ven como guardianes de la estabilidad. Otros los ven como acaparadores de infraestructura de supervivencia. Ambas lecturas pueden ser correctas dependiendo de si las obras siguen funcionando, los muertos están quietos y el tratado aún se mantiene.
 
 Muchos forasteros respetan la resistencia Sauri pero temen el juicio Sauri. Su calma ceremonial puede parecer confianza, crueldad o ceguera obstinada dependiendo de quién está muriendo fuera de las puertas. Para pueblos que viven más ligeramente, los Sauri parecen demasiado dispuestos a preservar lo que debería enterrarse y demasiado seguros de que suficiente disciplina puede sobrevivir a cualquier cosa.
 
-Los Naghii suelen entender la importancia Sauri de la secuencia, pero desconfían de su disposición a convertir cuerpos en instrumentos teológicos. Los Panin alteran los entornos que los Sauri intentan canalizar y contienen mal las consecuencias de su propia presencia. Los Rokhart pueden admirar la ingeniería Sauri y desesperarse ante sus secretos funerarios. Los Myo suelen tratar los asentamientos Sauri con cautela: donde hay cámaras selladas, cuerpos preservados y Tauma medido durante generaciones, siempre existe la posibilidad de que algo haya aprendido a esperar.
+Los Naghii suelen entender la importancia Sauri de la secuencia, pero desconfían de su disposición a convertir cuerpos en instrumentos teológicos. Los Panin alteran los entornos que los Sauri intentan encauzar y contienen mal las consecuencias de su propia presencia. Los Rokhart pueden admirar la ingeniería Sauri y desesperarse ante sus secretos funerarios. Los Myo suelen tratar los asentamientos Sauri con cautela: donde hay cámaras selladas, cuerpos preservados y signos vigilados durante generaciones, siempre existe la posibilidad de que algo haya aprendido a esperar.
 
 Los Sauri no consideran que esto sea paranoia externa. Consideran que los demás han tardado demasiado en notar lo obvio.
 
@@ -136,9 +136,9 @@ Los Sauri tienden a dominar por peso y contención antes que por velocidad. Su c
 
 Su formación ritual genera inclinaciones hacia la arquitectura sagrada, las técnicas de preservación, el conocimiento del cuerpo como recipiente y la autoridad ceremonial. Incluso un Sauri sin cargo religioso suele haber crecido dentro de una cultura donde el orden material tiene significado moral: una compuerta abierta a destiempo, una cámara mal sellada o una herida mal cuidada pueden ser leídas como fallas de disciplina antes que como simples accidentes.
 
-Las escamas son lo más relevante del cuerpo Sauri en entornos activos de Tauma. No controlan la corriente, pero la registran: los cambios de color son datos sobre lo que hay alrededor antes de que el ojo o el oído lo confirmen. Esa misma sensibilidad tiene un costo. Un Sauri cerca de una manifestación activa puede quedar absorbido por la señal que sus propias escamas le envían, y eso no siempre es seguro.
+Las escamas son lo más relevante del cuerpo Sauri en entornos activos de Tauma. No controlan la corriente, pero la registran: los cambios de color son datos sobre lo que hay alrededor antes de que el ojo o el oído lo confirmen. Esa misma sensibilidad tiene un costo. Un Sauri cerca de una presencia especialmente intensa puede quedar absorbido por la señal que sus propias escamas le envían, y eso no siempre es seguro.
 
-Un Sauri no domina el Tauma porque lo ignore. Lo trabaja porque lo deja entrar en cantidades medidas. El peligro empieza cuando la corriente deja de ser medida.
+Un Sauri no domina el Tauma porque lo ignore. Lo trabaja porque acepta acercarse a él bajo forma, secuencia y medida. El peligro empieza cuando esa medida falla.
 
 La otra cara es física: años de exposición a calor extremo, presión ritual y contacto con sustancias peligrosas producen una reserva de aguante que otras especies difícilmente igualan. Sus escamas también absorben impacto. Un Sauri puede sacrificar esfuerzo para amortiguar una herida que otro cuerpo no podría encajar de la misma manera.
 
@@ -146,7 +146,7 @@ En combate, la mandíbula es la identidad Sauri por excelencia: no como primer g
 
 La cola trabaja el espacio exterior a esa decisión: barridos laterales pesados, disrupción del equilibrio y negación del paso alrededor del cuerpo. A diferencia de la cola prensil del Naghii, la cola Sauri es masa en movimiento. No busca envolver. Busca despejar.
 
-Muchos personajes Sauri están fuera de sus comunidades porque algo rompió la relación con el recipiente que se suponía debían proteger o ser. Algunos son herederos de un linaje soberano que no reconoció al gobernante elegido. Algunos son preservadores que encontraron algo en las cámaras selladas que no debería moverse todavía. Algunos son guardianes de canal cansados de sacerdotes que hablan de contención sin cargar agua. Algunos sobrevivieron a un asentamiento donde el recipiente falló: reservorio, templo, linaje o gobernante. Otros son creyentes absolutos, dispuestos a demostrar con su propio cuerpo que la corriente puede ser sostenida si la forma es suficientemente fuerte.
+Muchos personajes Sauri están fuera de sus comunidades porque algo rompió la relación con el recipiente que se suponía debían proteger o ser. Algunos son herederos de un linaje soberano que no reconoció al gobernante elegido. Algunos son preservadores que encontraron algo en las cámaras selladas que no debería moverse todavía. Algunos son guardianes de canal cansados de sacerdotes que hablan de contención sin cargar agua. Algunos sobrevivieron a un asentamiento donde el recipiente falló: reservorio, templo, linaje o gobernante. Otros son creyentes absolutos, dispuestos a demostrar con su propio cuerpo que esa fuerza puede ser sostenida si la forma es suficientemente fuerte.
 
 Lo que un personaje Sauri sabe al salir: cómo leer señales de presión en piedra, agua y temperatura; que la contención importa más que la velocidad; cómo preservar lo que no debe corromperse; y que la corriente primordial no espera a que estés listo.
 

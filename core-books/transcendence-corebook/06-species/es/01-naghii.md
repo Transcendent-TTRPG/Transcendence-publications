@@ -24,7 +24,7 @@ Aun así, son lo más cercano que el mundo tiene a una memoria anterior a la cat
 
 En esos registros aparece una palabra: Khataar.
 
-Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los estratos inmediatamente anteriores al colapso. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que el Tauma no fluye igual en los lugares donde esa palabra se repite.
+Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los estratos inmediatamente anteriores al colapso. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que los lugares donde esa palabra se repite se comportan de manera distinta a otros sitios antiguos, aunque no siempre puedan decir en qué sentido primero.
 
 Y saben algo peor: tal vez lo tradujeron mal.
 
@@ -96,31 +96,31 @@ Khataar es la pregunta central sin resolver de la teología Naghii. Sus registro
 
 Dentro de la orden sacerdotal existen tres escuelas de pensamiento que no se han resuelto en siglos.
 
-La interpretación más extendida sostiene que Khataar es una advertencia: la configuración señala que algo se aproxima, que el límite entre el mundo físico y el Abzu se adelgaza, que la orden debe estar preparada para cuando llegue. Sobre qué hacer exactamente, la escuela se fractura internamente. Para algunos, preparación significa acumulación de registros y rutas de evacuación. Para otros, significa control estricto de ruinas, cierre de observatorios no autorizados y eliminación de prácticas que puedan llamar lo que todavía no ha terminado de llegar.
+La interpretación más extendida sostiene que Khataar es una advertencia: la configuración señala que algo se aproxima, que el cielo entra en una disposición peligrosa, que la orden debe estar preparada para cuando llegue la señal completa. Sobre qué hacer exactamente, la escuela se fractura internamente. Para algunos, preparación significa acumulación de registros y rutas de evacuación. Para otros, significa control estricto de ruinas, cierre de observatorios no autorizados y eliminación de prácticas que puedan invitar lo que todavía no ha terminado de nombrarse.
 
-La segunda escuela sostiene que la catástrofe no fue causada por lo que llegó durante Khataar sino por lo que se hizo en ese umbral. Los Primigenios intentaron cruzarlo, mantenerlo abierto, atravesarlo con algo que no debía moverse entre estados o convertir el mundo entero en instrumento de paso. El rol Naghii, según este argumento, es asegurarse de que nadie lo intente de nuevo.
+La segunda escuela sostiene que la catástrofe no fue causada por lo que llegó durante Khataar sino por lo que se hizo en ese umbral. Los Primigenios habrían intentado forzar una puerta, retener una apertura que debía cerrarse, o convertir el mundo entero en cámara ritual para una obra que ninguna especie viva comprende ya. El rol Naghii, según este argumento, es asegurarse de que nadie lo intente de nuevo.
 
 La tercera posición no circula en asambleas. Está sostenida por una minoría dentro de los archivos más profundos, y se enseña, cuando se enseña, solo después de capas de iniciación que tienen como propósito parcial hacer a alguien capaz de soportar lo que significa: Khataar no fue advertencia ni umbral. Fue el evento hacia el que los Primigenios construyeron. Volverá a ocurrir. La pregunta no es cómo prevenirlo sino si los Naghii estarán preparados para recibir lo que traiga.
 
 Ninguna escuela tiene suficiente evidencia para refutar plenamente a las otras. Los registros más internos contienen pasajes que apoyan cada interpretación, dependiendo de qué se traduzca y qué se deje de lado. Y esas traducciones fueron hechas de un idioma que nadie verdaderamente lee.
 
-Los Naghii no utilizan el mismo nombre para el espacio de vacío que otras especies llaman el Limbo. Su vocabulario teológico lo llama el Abzu: un término heredado del vocabulario simbólico de las ruinas, reinterpretado para nombrar el espacio sin dimensiones que existe más allá de lo que puede observarse.
+Los Naghii no utilizan el mismo nombre para la profundidad exterior que otras especies describen con otras palabras. Su vocabulario teológico la llama el Abzu: un término heredado del lenguaje simbólico de las ruinas, reinterpretado para nombrar la hondura detrás del cielo, aquello que no puede medirse bien pero cuya presencia se deduce por lo que deja en los registros, en ciertas ruinas y en ciertas noches.
 
-Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el estrato desde el que el Tauma fluye hacia el mundo, y hacia el que los Primigenios desaparecieron cuando su era terminó, dejando algo que los registros más antiguos aprendieron a buscar en el cielo. El Abzu no se venera. Se estudia, se vigila y se teme de la manera específica en que se teme algo que ya demostró de lo que es capaz.
+Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el lugar hacia el que los Primigenios desaparecieron cuando su era terminó, y desde el cual los registros más antiguos aprendieron a esperar respuesta. El Abzu no se venera. Se estudia, se vigila y se teme de la manera específica en que se teme algo cuya cercanía nunca puede confirmarse por completo, pero cuyos signos se consideran demasiado persistentes para ignorarlos.
 
-La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no observa el firmamento con los ojos. Abre su percepción a lo que llega desde esa capa exterior: permite que el Abzu entre, y lee lo que ese ingreso produce.
+La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no observa el firmamento con los ojos solamente. Entra en un estado de lectura ritual en el que deja de mirar el cielo como distancia y empieza a tratarlo como respuesta posible.
 
 Lo que produce no es igual en dos practicantes.
 
-Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como frecuencia sin fuente localizable. Otro lo recibe como temperatura que se distribuye de adentro hacia afuera. Otro pierde durante un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene. La experiencia es real — algo cruza — pero lo que ese cruce encuentra en cada individuo es distinto. Lo que el archivo registra son esas experiencias, no el fenómeno en sí.
+Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como frecuencia sin fuente localizable. Otro lo recibe como temperatura que se distribuye de adentro hacia afuera. Otro pierde durante un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene. La experiencia es real para quien la atraviesa, pero no se repite de manera idéntica. Lo que el archivo registra son esas experiencias, no una explicación definitiva de lo que las causó.
 
-Esa anomalía en el flujo es lo que los Naghii llaman Khataar. O al menos es lo más cercano que pueden llegar. Los registros más antiguos la identificaron como una configuración celeste. Los sacerdotes con décadas de igi-an la sienten antes de que los mapas puedan confirmarla, a veces cuando la configuración no coincide, a veces con el cielo cubierto y sin nada que observar. Los mapas y los cuerpos no siempre concuerdan. Y entre lo que el archivo registra de los que la sintieron y lo que los astrónomos registran de lo que midieron, la distancia es a veces más amplia que la que separa las tres escuelas de interpretación.
+Esa discordancia es lo que los Naghii llaman Khataar. O al menos es lo más cercano que pueden llegar. Los registros más antiguos la identificaron como una configuración celeste. Los sacerdotes con décadas de igi-an dicen sentir su aproximación antes de que los mapas puedan confirmarla, a veces cuando la configuración no coincide, a veces con el cielo cubierto y sin nada que observar. Los mapas y los cuerpos no siempre concuerdan. Y entre lo que el archivo registra de quienes la sintieron y lo que los astrónomos registran de lo que midieron, la distancia es a veces más amplia que la que separa las tres escuelas de interpretación.
 
-El costo de esta práctica se enseña explícitamente dentro de la orden. Abrir sus sentidos al Abzu también lo abre al Tauma que este contiene. Los practicantes más experimentados del igi-an son simultáneamente los miembros más capaces y los más vulnerables de la orden.
+El costo de esta práctica se enseña explícitamente dentro de la orden. Quien aprende a leer de ese modo también aprende a exponerse. Los practicantes más experimentados del igi-an son simultáneamente los miembros más capaces y los más vulnerables de la orden.
 
 Un Naghii puede leer más porque deja entrar más.
 
-Esa es la paradoja central de su espiritualidad: la misma apertura que permite percibir lo que otras especies no perciben también es el canal por donde algo externo puede cruzar sin que el practicante lo elija. Lo que los Naghii llaman leer el Abzu y lo que el Abzu llama cruzar un sistema nervioso disponible son, desde dentro, indistinguibles.
+Esa es la paradoja central de su espiritualidad: la misma apertura que permite percibir lo que otras especies no perciben también puede deformar al practicante, obsesionarlo, enfermarlo o dejarlo marcado por cosas que la tradición no sabe describir con precisión. Lo que un sacerdote llama lectura profunda, otro puede llamarlo exceso, contaminación ritual o cercanía indebida con aquello que debía permanecer a distancia.
 
 ## Organización e Identidad Interna
 
@@ -132,7 +132,7 @@ Lo que permanece universal no es una teología uniforme, sino la convicción de 
 
 Las tensiones internas recurren en patrones conocidos: la urgencia de los Kha frente a la demora interpretativa de los Saa; el secreto del archivo interior frente a la necesidad del campo; el conocimiento local de ruinas frente al control doctrinal central; la preservación de registros peligrosos frente a la destrucción de lo que puede ser demasiado costoso conservar; comunidades que ven a los Primigenios como culminación sagrada frente a las que sospechan crecientemente de fracaso civilizacional.
 
-Estas tensiones importan porque la vida Naghii a menudo depende del tiempo. Una advertencia tardía, una línea de mensajeros bloqueada o una orden sacerdotal paralizada por disputa interna puede convertir el desacuerdo doctrinal en hambruna, pérdida de archivos o un evento Abzu prevenible.
+Estas tensiones importan porque la vida Naghii a menudo depende del tiempo. Una advertencia tardía, una línea de mensajeros bloqueada o una orden sacerdotal paralizada por disputa interna puede convertir el desacuerdo doctrinal en hambruna, pérdida de archivos o un desastre asociado al Abzu que quizá pudo haberse evitado.
 
 La autoridad no se mide solo por rango. Se mide por acceso.
 
@@ -190,7 +190,7 @@ Los Drak'kai interesan y preocupan por igual. Su relación con diferentes reliqu
 
 Los Ceratox suelen ser interlocutores difíciles pero útiles. Su lectura ambiental continua puede confirmar patrones que los Naghii registran de forma más lenta. Sin embargo, los Naghii tienden a desconfiar de cualquier percepción que no pase por archivo, secuencia y comparación histórica. Un dato sentido en el cuerpo puede ser valioso. También puede ser una contaminación interpretativa.
 
-Para los Naghii, ninguna relación exterior es completamente diplomática. Toda especie vecina es también una variable: algo que puede abrir ruinas, alterar rutas, reclamar registros, producir ruido Tauma, disputar traducciones o acelerar eventos que el archivo todavía no ha terminado de comprender.
+Para los Naghii, ninguna relación exterior es completamente diplomática. Toda especie vecina es también una variable: algo que puede abrir ruinas, alterar rutas, reclamar registros, perturbar lecturas delicadas, disputar traducciones o acelerar eventos que el archivo todavía no ha terminado de comprender.
 
 ## Como Personaje Jugador
 
@@ -204,7 +204,7 @@ El cuerpo también da forma a cómo un Naghii se mueve en el conflicto. La cola 
 
 Su lengua bífida es lo que los forasteros subestiman más. En oscuridad, niebla o ruina cerrada, un Naghii sigue rastros de calor y señal química y percibe presencia y movimiento que otros no ven.
 
-La otra cara de esa apertura perceptiva es lo que generaciones de igi-an dejaron acumulado: la mente entrenada para recibir señales del cielo también recibe lo que no debería entrar. Lo que permite leer también permite que entre.
+La otra cara de esa apertura perceptiva es lo que generaciones de igi-an dejaron acumulado: la mente entrenada para recibir señales del cielo también queda más expuesta a sueños, fijaciones, presagios y marcas que la propia tradición Naghii no siempre sabe clasificar. Lo que permite leer también puede dejar huella.
 
 Los Kha-Naghii acumulan tolerancia a lo que sus propias glándulas producen; veneno propio y ajeno les afecta de manera distinta. Los Saa-Naghii desarrollan una lectura de largo alcance más allá de lo sensorial: leen estructuras, patrones y configuraciones a distancias donde otros necesitan acercarse para ver algo.
 
@@ -212,7 +212,7 @@ Muchos personajes Naghii están en el mundo porque algo los separó de la orden.
 
 Un personaje Naghii puede ser un Kha que quería interpretar y fue entrenado para custodiar. Un Saa que proyectó una lectura demasiado peligrosa en público. Un archivista menor que descubrió dos traducciones contradictorias del mismo signo. Un guardián que abrió una puerta para salvar una vida y dejó salir algo más. Un exiliado de una comunidad que decidió destruir registros que él creía necesarios. Un enviado de la orden que empieza a sospechar que su misión no busca recuperar información, sino impedir que alguien más la lea.
 
-Lo que un Naghii sabe al salir de su comunidad: cómo leer el cielo en términos básicos, qué es Khataar y por qué importa, que el Abzu es real y no es neutral, y que la información debe tratarse con la misma seriedad que el agua o el fuego.
+Lo que un Naghii sabe al salir de su comunidad: cómo leer el cielo en términos básicos, qué es Khataar y por qué importa dentro de su tradición, que el Abzu debe tratarse como algo real y peligroso aunque nadie pueda explicarlo con certeza, y que la información debe tratarse con la misma seriedad que el agua o el fuego.
 
 Lo que muchos no saben: cuántas de las interpretaciones en que fueron criados son correctas, cuáles ruinas son realmente seguras de entrar, qué haría la orden si supiera lo que ellos saben ahora, y si la vigilancia de siglos ha prevenido algo o simplemente ha enseñado a los Naghii a esperar con más precisión.
 
