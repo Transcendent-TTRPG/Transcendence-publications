@@ -26,7 +26,7 @@ Por eso, cuando un soberano Sauri enferma, cambia de color, deja de aparecer en 
 
 Los Sauri son humanoides bípedos de gran tamaño con cuerpos de cocodrilo pesados: torsos anchos, musculatura densa, mandíbulas poderosas, colas largas y escamas gruesas estratificadas. No están construidos para la elegancia veloz. Su movimiento lleva el peso de algo que puede permanecer inmóvil durante mucho tiempo y luego cerrar la distancia en una decisión.
 
-Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos cargados de Tauma, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales Sauri interpretan estos cambios como evidencia corporal de la presión ambiental: calor, humedad, contenido mineral, flujo ambiental, residuo de vestigio o proximidad de una manifestación más fuerte.
+Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos cargados de Tauma, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales Sauri interpretan estos cambios como evidencia corporal de la presión ambiental: calor, humedad, contenido mineral, flujo ambiental, proximidad de una manifestación más fuerte.
 
 Esto no hace a los Sauri hechiceros naturales. Su piel no comanda el Tauma. Lo recibe y hace visible la presión que atraviesa el entorno. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hacen la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar la corriente que los atraviesa.
 
