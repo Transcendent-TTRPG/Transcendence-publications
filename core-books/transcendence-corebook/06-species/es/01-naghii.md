@@ -58,7 +58,11 @@ Esto es central para la tensión teológica y política Naghii: el cuerpo llega 
 
 El archivo que los Naghii mantienen no es una biblioteca pasiva. Es un registro vivo, ampliado en cada generación, que define qué puede construirse a su alrededor y a quién se le permite acercarse a sus niveles más internos. Los templos-zigurat existen para albergarlo: observatorio en el techo, administración en el centro, secciones restringidas bajo tierra donde el acceso se controla con la misma seriedad que el agua o el fuego.
 
+No todo lo que el archivo guarda son textos. Algunas piezas conservan algo más que información: tablillas, instrumentos, fragmentos rituales y reliquias de ruina que la tradición describe como signos celestes, objetos donde una lectura antigua, una operación incompleta o una cercanía indebida al cielo dejó marca suficiente como para seguir pesando sobre quien los toca o los estudia.
+
 Un templo Naghii se organiza verticalmente porque su cosmología también lo hace. Arriba está el cielo: observación, cálculo, espera. En el centro está la comunidad: iniciaciones, tribunales, aulas, patios de interpretación, espacios donde la vida cotidiana debe continuar bajo la sombra de lo que se vigila. Abajo está el archivo interior: cámaras selladas, registros peligrosos, tablillas incompletas, traducciones disputadas y pasajes que no se leen en voz alta hasta que alguien ha sido preparado para soportar lo que podría significar leerlos mal.
+
+Las cámaras más temidas no contienen simplemente signos celestes. Contienen lo que ciertas escuelas llaman umbrales del cielo: disposiciones, objetos o recintos que no solo conservan una marca antigua, sino que parecen devolver algo al lector, exponerlo a una respuesta o alterar la lectura según quién entre y en qué secuencia lo haga.
 
 Los Naghii no son una civilización unificada. Múltiples comunidades existen en diferentes regiones, cada una desarrollada en torno a las ruinas que encontraron cuando se asentaron por primera vez. Como no hay dos sitios de ruinas idénticos, y porque la comprensión que los Naghii tienen de su propia historia está filtrada a través de interpretaciones de un lenguaje incomprensible, las comunidades que se desarrollaron en lugares distintos llegaron a conclusiones diferentes sobre qué significan las ruinas, qué fue Khataar y qué representan teológicamente las variantes Kha y Saa.
 
@@ -108,6 +112,8 @@ Los Naghii no utilizan el mismo nombre para la profundidad exterior que otras es
 
 Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el lugar hacia el que los Primigenios desaparecieron cuando su era terminó, y desde el cual los registros más antiguos aprendieron a esperar respuesta. El Abzu no se venera. Se estudia, se vigila y se teme de la manera específica en que se teme algo cuya cercanía nunca puede confirmarse por completo, pero cuyos signos se consideran demasiado persistentes para ignorarlos.
 
+Las presencias que algunas comunidades creen percibir detrás de ciertas respuestas, configuraciones o aperturas no suelen describirse como dioses en sentido simple. En la tradición más extendida se las nombra, cuando se las nombra, como rostros del Abzu: manifestaciones parciales, inteligencias incompletamente vistas o formas que el fondo del cielo adopta cuando encuentra cómo ser leído sin dejar por ello de seguir siendo incomprensible.
+
 La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no observa el firmamento con los ojos solamente. Entra en un estado de lectura ritual en el que deja de mirar el cielo como distancia y empieza a tratarlo como respuesta posible.
 
 Lo que produce no es igual en dos practicantes.
@@ -121,6 +127,8 @@ El costo de esta práctica se enseña explícitamente dentro de la orden. Quien 
 Un Naghii puede leer más porque deja entrar más.
 
 Esa es la paradoja central de su espiritualidad: la misma apertura que permite percibir lo que otras especies no perciben también puede deformar al practicante, obsesionarlo, enfermarlo o dejarlo marcado por cosas que la tradición no sabe describir con precisión. Lo que un sacerdote llama lectura profunda, otro puede llamarlo exceso, contaminación ritual o cercanía indebida con aquello que debía permanecer a distancia.
+
+Esas huellas reciben en muchas comunidades un nombre concreto: marcas del Abzu. No todas se presentan igual ni todas se consideran igualmente graves. Algunas se interpretan como advertencia de retiro inmediato. Otras como costo esperable del oficio. Otras, en los archivos más rígidos, como prueba de que alguien ya no debería seguir leyendo sin supervisión.
 
 ## Organización e Identidad Interna
 
@@ -238,7 +246,7 @@ Los Naghii obtienen `+1` en **Agilidad**, **Sabiduría** y **Presencia**.
 
 ### Herencia
 
-**Susceptibilidad al Abzu** — Los Naghii reciben una penalización de `−3` a todas las T.R., T.C. y T.E. de Compostura, Aura y Sabiduría contra fenómenos extranaturales.
+**Susceptibilidad al Abzu** — Los Naghii reciben una penalización permanente de `−3` a las T.R. contra Aflicciones, Maldiciones y Alteraciones de origen extranatural cuando el efecto busque controlar, engañar, desorientar o influir su conducta. Esta penalización no proviene de un estado ni de una condición — es la huella hereditaria que generaciones de igi-an dejaron en una especie entrenada para abrirse a señales que no siempre sabe cerrar.
 
 ### Legado
 

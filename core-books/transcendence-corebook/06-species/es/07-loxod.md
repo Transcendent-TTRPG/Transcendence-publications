@@ -50,7 +50,7 @@ En muchas comunidades, los colmillos dañados no se ocultan. Se registran, se in
 
 Los Loxod producen infrasonido. Sin pausa, sin intención, por el solo hecho de existir. Las frecuencias viajan por aire y suelo simultáneamente, y otros Loxod las reciben a través de las plantas de los pies, de la trompa en contacto con superficies y de zonas del cuerpo entrenadas para distinguir vibración de ruido. En una ciudad oscura, saben que hay alguien en el pasillo siguiente antes de doblarlo. Saben desde cierta distancia si otro Loxod está bajo presión emocional intensa o en calma. Pueden reconocer presencia, masa, ritmo, desplazamiento y estado antes de que el sonido llegue al oído de otros.
 
-El canal de comunicación que les dio eso opera en el mismo rango de frecuencias que los patrones de vestigio usan cuando se expresan a través de la vibración. No por diseño de nadie, sino porque el Tauma está en el universo desde antes de que nada evolucionara en él, y los patrones que se cristalizaron en ese universo usan la vibración como uno de sus medios de expresión — el mismo rango en el que los Loxod evolucionaron para comunicarse. Lo que los Loxod reciben no es el Tauma. Es su propio infrasonido de vuelta, con la forma que le imprimió lo que atravesó.
+El canal de comunicación que les dio eso opera en el mismo rango donde ciertas anomalías del entorno alteran la vibración de regreso. Los Loxod no reciben el origen de esa anomalía. Reciben el cambio que dejó en su propio infrasonido al devolverlo.
 
 Lo que vive en esas frecuencias los detecta.
 
@@ -74,7 +74,7 @@ Se codifica, se ubica en el sistema, se compara con registros anteriores, se col
 
 Lo que parece desde afuera una cultura obsesionada con la preservación del conocimiento es, desde adentro, la práctica colectiva de no romperse bajo lo que se absorbe.
 
-Sus ciudades están donde la geología amortigua la vibración sísmica, lejos de zonas con actividad activa del Tauma, construidas con materiales que dispersan resonancia en lugar de concentrarla. La mayor parte de la infraestructura relevante no es visible: es acústica, química, subterránea, estructural. Es el diseño de cómo los espacios respiran, vibran, filtran, separan y descargan.
+Sus ciudades están donde la geología amortigua la vibración sísmica, lejos de zonas donde esas frecuencias se comportan de forma inestable, construidas con materiales que dispersan resonancia en lugar de concentrarla. La mayor parte de la infraestructura relevante no es visible: es acústica, química, subterránea, estructural. Es el diseño de cómo los espacios respiran, vibran, filtran, separan y descargan.
 
 Los visitantes ven archivos bien ordenados, plazas amplias, rampas anchas, cámaras de piedra antigua, colecciones de registro, pasillos silenciosos, memoria institucional.
 
@@ -94,7 +94,7 @@ Es la forma en que la sociedad respira.
 
 ## Teología y Cosmología
 
-Lo que los Loxod saben del Tauma lo saben porque lo reciben en sus propios sistemas, en condiciones documentadas, replicables, con anomalías que se repiten de una generación a otra. Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
+Lo que los Loxod saben de estas anomalías lo saben porque las reciben en sus propios sistemas, en condiciones documentadas, replicables, con cambios que se repiten de una generación a otra. Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
 
 Contenido que precede a cualquier individuo vivo.
 
@@ -104,23 +104,23 @@ Lo interpretan como dato.
 
 Eso no significa que lo reciban con frialdad. Una señal que atraviesa el cuerpo antes de ser nombrada no se vuelve menos terrible porque se registre con precisión. Los Loxod han aprendido que llamar dato a algo no lo vuelve seguro. Solo permite decidir qué hacer con él antes de que se convierta en otra cosa.
 
-El conjunto de datos que han acumulado sobre el comportamiento del Tauma en condiciones específicas no tiene equivalente en ninguna otra especie. Lo que ese conjunto no produce es una respuesta que funcione como consuelo, como narrativa de por qué el mundo es así y no de otra manera.
+El conjunto de datos que han acumulado sobre el comportamiento de estas frecuencias en condiciones específicas no tiene equivalente en ninguna otra especie. Lo que ese conjunto no produce es una respuesta que funcione como consuelo, como narrativa de por qué el mundo es así y no de otra manera.
 
 Les dice qué ocurre.
 
 No les dice qué significa.
 
-Tampoco les dice si lo que han encontrado hasta ahora es el fondo o solo el primero de varios pisos más profundos.
+Tampoco les dice de dónde viene.
 
 Los Loxod no suelen construir teologías expansivas. Desconfían de los sistemas que convierten la recepción en certeza demasiado pronto. Saben lo que se siente recibir algo antes de comprenderlo, y esa experiencia ha vuelto sus comunidades cautelosas frente a cualquier explicación que llegue demasiado completa.
 
-El Tauma, para ellos, no es exterior del todo. Tampoco es interior. Es un medio donde las cosas vibran, persisten, atraviesan y dejan impresiones. Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen como patrones de resonancia. Otros sugieren que ciertas ruinas no contienen memoria en sentido simbólico, sino presión real: información vibratoria que no buscó nada — pero que el cuerpo Loxod, si está presente, es la arquitectura más receptiva que existe para recibirla.
+Para los Loxod, lo importante no es el origen último sino el comportamiento. Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen como frecuencias. Otros sugieren que ciertas ruinas no contienen memoria en sentido simbólico, sino presión real: información vibratoria que no buscó nada — pero que el cuerpo Loxod, si está presente, es la arquitectura más receptiva que existe para recibirla.
 
-La práctica archivística ha permitido distinguir dos comportamientos en esas señales anómalas. Hay retornos con forma fija: registrados a lo largo de generaciones, producen siempre la misma modulación. Se pueden catalogar, comparar, archivar. Son el eco cristalizado de lo que ocurrió en ese espacio.
+La práctica archivística ha permitido distinguir comportamientos en esas frecuencias. Hay frecuencias estables: registradas a lo largo de generaciones, producen siempre la misma modulación. Se pueden catalogar, comparar, archivar. Son la forma más segura de aquello que ya fue recibido muchas veces sin alterar su patrón.
 
-Y hay retornos que no se fijan. Que entre una observación y la siguiente cambiaron de forma de maneras que el análisis no predijo. Que los archivistas con más décadas de práctica describen igual: parecen responder a quien los recibe, en lugar de simplemente llegar. La primera categoría tiene nombres provisionales en el sistema. La segunda no tiene nombre confirmado. Solo el consenso de que no debe tratarse igual.
+Hay otras que no se fijan. Que entre una observación y la siguiente cambiaron de forma de maneras que el análisis no predijo. Que los archivistas con más décadas de práctica describen igual: parecen responder a quien las recibe, en lugar de simplemente llegar. A veces se las trata como variables. A veces como responsivas. Ninguna de esas palabras afirma qué son. Solo permite registrar que no deben tratarse igual que una frecuencia estable.
 
-Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor lo mismo que generaron en ellos.
+Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor una distorsión comparable a la que generaron en ellos.
 
 Un conocimiento puede ser verdadero y aun así no ser seguro.
 
@@ -242,7 +242,7 @@ Lo que un Loxod trae a un grupo: el rango de percepción química, que cambia lo
 
 Y la señal.
 
-En cualquier lugar ordinario, el infrasonido que producen no significa nada especial. En los tipos de lugares a los que los personajes jugadores van — ruinas antiguas, zonas con presencia activa del Tauma, sitios donde algo importante ocurrió, cámaras que aún conservan presión, fronteras donde la realidad está delgada — los Loxod son detectables de maneras que otras especies no son.
+En cualquier lugar ordinario, el infrasonido que producen no significa nada especial. En los tipos de lugares a los que los personajes jugadores van — ruinas antiguas, zonas donde las frecuencias se alteran con facilidad, sitios donde algo importante ocurrió, cámaras que aún conservan presión, fronteras donde la realidad parece responder distinto — los Loxod son detectables de maneras que otras especies no son.
 
 Los que viajan con ellos lo saben o lo aprenden.
 
@@ -278,7 +278,7 @@ Los Loxod obtienen `+1` en **Tenacidad**, **Intelecto** y **Compostura**.
 
 ### Herencia
 
-**Firma Sísmica** — Los Loxod emiten infrasonido de forma continua e involuntaria en frecuencias que se superponen con la textura vibratoria del Tauma. Esta emisión no tiene control voluntario. En entornos donde el Narrador determine que el Tauma está activo o sus límites son difusos, los Loxod reciben una penalización de `−3` a todas las T.E. de Sigilo: su firma vibratoria persiste a través de cualquier barrera material y no puede suprimirse. Esta penalización no proviene de un estado ni de una condición — es la forma en que la especie existe en entornos de Tauma activo.
+**Firma Sísmica** — Los Loxod emiten infrasonido de forma continua e involuntaria. Esta emisión no tiene control voluntario. En entornos donde el Narrador determine que las frecuencias anómalas están activas o que la realidad responde con inestabilidad inusual, los Loxod reciben una penalización de `−3` a todas las T.E. de Sigilo: su firma vibratoria persiste a través de cualquier barrera material y no puede suprimirse. Esta penalización no proviene de un estado ni de una condición — es la forma en que la especie existe en entornos sensibles a la resonancia.
 
 ### Legado
 

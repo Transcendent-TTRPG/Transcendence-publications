@@ -32,7 +32,7 @@ Los Zarnag son humanoides medianos de linaje hiena: hombros inclinados hacia ade
 
 El cuerpo entero sugiere que el terreno bajo los pies es provisional.
 
-Sus mandíbulas son la herramienta que el resto del cuerpo sirve. Una mordida Zarnag no es un golpe rápido: es un cierre. Lo que asienta no suelta limpiamente, y esa persistencia después del contacto — la consecuencia que continúa sin que el Zarnag tenga que sostenerla — es lo que la especie trata como su instrumento principal.
+Sus mandíbulas son la herramienta que el resto del cuerpo sirve. Una mordida Zarnag no es un golpe rápido: es una presa. Lo que atrapa no suelta limpiamente, y esa persistencia después del contacto — la consecuencia que continúa sin que el Zarnag tenga que sostenerla — es lo que la especie trata como su instrumento principal.
 
 Donde otras especies muerden para herir, los Zarnag muerden para iniciar un deterioro.
 
@@ -48,51 +48,51 @@ Los Zarnag saben que la risa puede cruzar una línea. Puede dejar de expulsar mi
 
 ## La Cultura
 
-El muerto no siempre cierra.
+El muerto no siempre se aquieta.
 
 Lo que quería cuando murió sigue en lo que sostenía. Su miedo sigue en el cuchillo que no soltó. Su búsqueda sigue en el talismán que llevaba desde la infancia. Lo que un hombre quería y no alcanzó, lo que una mujer temía y no pudo resolver — eso no desaparece con el cuerpo. Queda en los objetos. Queda en el terreno donde cayeron muchos. Y si nadie lo trabaja, jala hacia los vivos que se acercan.
 
-Los Zarnag llaman a esto el peso que queda.
+Los Zarnag llaman restos a lo que el muerto deja cargado en objetos y suelos. Y al tirón que esos restos conservan lo llaman el peso que queda.
 
-No es creencia abstracta. Es observación heredada durante generaciones: los sitios donde murieron muchos hacen cosas. Los objetos de los muertos cambian a quienes los tocan sin saber lo que tienen. Los lugares sin cerrar se vuelven peligrosos de formas que no se explican solo por la infección o la descomposición. Algo permanece que no es el cuerpo, que no puede nombrarse con exactitud pero que puede sentirse, y que se acumula si nadie lo recibe.
+No es creencia abstracta. Es observación heredada durante generaciones: los sitios donde murieron muchos hacen cosas. Los objetos de los muertos cambian a quienes los tocan sin saber lo que tienen. Los lugares no saciados se vuelven peligrosos de formas que no se explican solo por la infección o la descomposición. Algo permanece que no es el cuerpo, que no puede nombrarse con exactitud pero que puede sentirse, y que se acumula si nadie lo trabaja.
 
-La función de los Zarnag no es limpiar cadáveres. Es recibir ese peso y procesarlo para que deje de jalar.
+La función de los Zarnag no es limpiar cadáveres. Es trabajar esos restos hasta que el hambre se calme y deje de jalar.
 
-No veneran la muerte. Veneran el cierre — el acto de completar lo que el morir dejó incompleto. Su figura central no es la muerte sino el último gesto: la mano que toma lo que el moribundo no pudo terminar y lo vuelve inerte. Algunas comunidades llaman a esto el Último Hambre — el momento en que el peso que quedó abierto es finalmente recibido por alguien capaz de sostenerlo.
+No veneran la muerte. Veneran la saciedad — el acto de dar término a lo que el morir dejó queriendo. Su figura central no es la muerte sino el último gesto: la mano que toma lo que quedó hambriento y lo alimenta hasta volverlo quietud. Para ellos, eso es saciar: el momento en que el peso que quedó abierto por fin deja de querer.
 
-Esa recepción tiene costo. Quienes llevan generaciones en ese trabajo cambian. No de una forma que puedan señalar con precisión — sino en cómo leen los sitios, en lo que sienten cuando se acercan a ciertos objetos, en los sueños que empiezan a tener que no son suyos. Los Zarnag más viejos no impresionan porque hayan sobrevivido. Impresionan si todavía saben con precisión qué parte del peso que cargan era originalmente suyo.
+Ese trabajo tiene costo. Quienes llevan generaciones en él cambian. No de una forma que puedan señalar con precisión — sino en cómo leen los sitios, en lo que sienten cuando se acercan a ciertos objetos, en los sueños que empiezan a tener que no son suyos. Los Zarnag más viejos no impresionan porque hayan sobrevivido. Impresionan si todavía saben con precisión qué parte del peso que cargan era originalmente suyo.
 
-De ahí la única distinción moral que importa en una comunidad Zarnag: recibir el peso de los muertos para cerrarlo, o recibirlo para quedárselo. Entre esos dos gestos — que desde afuera son indistinguibles — vive la diferencia entre un trabajador del cierre y algo que aprendió a nutrirse de lo que debía neutralizar.
+De ahí la única distinción moral que importa en una comunidad Zarnag: trabajar el peso de los muertos para saciarlo, o acercarse a él para alimentar algo propio. Entre esos dos gestos — que desde afuera son indistinguibles — vive la diferencia entre un trabajador necesario y algo que aprendió a nutrirse de lo que debía calmar.
 
-Los asentamientos Zarnag se forman donde el peso se acumula: bordes de campos de batalla, márgenes de fosas, salidas de ruinas donde los muertos son viejos y perturbados. No porque sean atraídos por la muerte, sino porque esos son los sitios que necesitan lo que saben hacer, y porque las habilidades solo pueden aprenderse donde el peso está presente.
+Los asentamientos Zarnag se forman donde los restos se acumulan y el peso aprieta: bordes de campos de batalla, márgenes de fosas, salidas de ruinas donde los muertos son viejos y perturbados. No porque sean atraídos por la muerte, sino porque esos son los sitios que necesitan lo que saben hacer, y porque las habilidades solo pueden aprenderse donde el peso está presente.
 
 La risa tiene un rol aquí que otras culturas no terminan de entender. Reírse cerca de los muertos no es burla ni dureza nerviosa solamente. Es una afirmación: estamos aquí, todavía queremos, todavía somos vivos — lo que dejaste no puede tenernos. La risa le dice al peso que todavía hay algo del lado equivocado para él. Muchos tabúes Zarnag giran alrededor de cuándo esa risa deja de ser afirmación y empieza a ser otra cosa.
 
-Las comunidades más peligrosas son las que aprendieron que el mundo siempre producirá más peso — y que ese peso siempre necesitará quien lo reciba.
+Las comunidades más peligrosas son las que aprendieron que el mundo siempre producirá más hambre — y que esa hambre siempre necesitará quien la toque.
 
 ## Teología y Cosmología
 
 El moribundo lleva consigo lo que quería.
 
-Eso lo saben todos los Zarnag, aunque no todos lo digan igual. Algunas comunidades hablan de hambre que pasa a los objetos. Otras de peso que el sitio absorbe. Otras de lo que el Limbo no recogió porque nadie terminó de ofrecérselo. El vocabulario cambia. La observación no: cuando alguien muere con algo sin resolver, lo que tenía en la mano guarda eso. Y si nadie lo trabaja, eso que guarda puede comenzar a querer de nuevo a través del mundo.
+Eso lo saben todos los Zarnag, aunque no todos lo digan igual. Para muchos, el hambre está en todas partes y la vida no hace más que darle forma. Hay hambres que se quedan prendidas en un objeto. Hambres que se pegan al suelo donde cayeron muchos. Hambres que se espesan tanto en un sitio que ya no esperan una mano: empiezan a jalar por sí mismas. Por eso llaman restos tanto a lo que quedó en una cosa como a lo que quedó en un lugar. No todas las comunidades sienten la necesidad de dar nombres distintos a cada caso. Les basta con saber si un resto guarda hambre o si ya la está derramando. El vocabulario cambia. La observación no: cuando alguien muere con algo sin resolver, lo que tenía en la mano o bajo los pies puede seguir queriendo por él.
 
-No es que el muerto vuelva. Es que su querer — lo que no terminó, lo que temió, lo que buscaba — sigue actuando desde lo que dejó. Un campo de batalla donde nadie retiró los cuerpos no es peligroso solo por la infección. Es peligroso porque miles de hambrientos que no terminaron dejaron su hambre en todo lo que cargaban, y eso se acumula, y lo acumulado jala.
+No es que el muerto vuelva. Es que su querer — lo que no terminó, lo que temió, lo que buscaba — dejó hambre detrás de sí. Un campo de batalla donde nadie retiró los cuerpos no es peligroso solo por la infección. Es peligroso porque miles de muertes dejaron el hambre pegada a armas, ropas, barro, zanjas y huesos, y lo hambriento jala.
 
 La teología Zarnag no pregunta si la muerte asusta. Pregunta si algo verdaderamente se va.
 
-Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el mundo haya dejado de poder cerrar a sus muertos — que las trincheras, las cavernas, los osarios y las ruinas sean señales de un fallo que ya está activo y que nadie más quiere mirar. Cada vez que un sitio resiste el cierre, cada vez que un objeto sigue queriendo más tiempo del que debería, eso es evidencia de que el peso se acumula más rápido de lo que puede procesarse.
+Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el hambre del mundo esté encontrando demasiados sitios abiertos a la vez — que las trincheras, las cavernas, los osarios y las ruinas sean señales de un desarreglo que ya está activo y que nadie más quiere mirar. Cada vez que un sitio no se deja saciar, cada vez que un objeto sigue queriendo más tiempo del que debería, eso es evidencia de que el hambre se está asentando más rápido de lo que puede calmarse.
 
 Donde los Naghii miran el cielo para saber si el desastre terminó, los Zarnag miran el suelo.
 
-Su ritual más fundamental es el cierre. Enterrar, quemar, separar, sellar — ninguno de esos actos es puramente técnico. Son actos de recepción: tomar el peso que quedó, sostenerlo el tiempo necesario, devolver al mundo algo que ya no jala. Los Zarnag que llevan generaciones haciendo esto saben que ese peso deja huella en quien lo recibe. No siempre visible desde afuera. A veces desde adentro, de maneras que demoran años en volverse legibles.
+Su ritual más fundamental es saciar. Enterrar, quemar, separar, sellar — ninguno de esos actos es puramente técnico. Son formas de darle término al hambre: quitarle manos, quitarle nombre, quitarle ocasión, devolver al mundo algo que ya no jala. Los Zarnag que llevan generaciones haciendo esto saben que el hambre no se va sin tocar a quien la trabaja. No siempre desde afuera. A veces desde adentro, de maneras que demoran años en volverse legibles.
 
-Sus tabúes más profundos van ahí. No guardar objetos de los muertos salvo con función ritual. No nombrar a los muertos con apodos — la familiaridad acerca el peso. No dormir dentro del perímetro de una fosa abierta. No llevar sobre uno mismo más cierre del que se puede sostener sin perder cuenta de qué parte era suyo. Cada tabú es la memoria de alguien que lo rompió y cambió de una manera que la comunidad recordó como advertencia.
+Sus tabúes más profundos van ahí. No guardar objetos de los muertos salvo con función ritual. No nombrar a los muertos con apodos — la familiaridad acerca el hambre. No dormir dentro del perímetro de una fosa abierta. No cargar sobre uno mismo más hambre de la que puede saciarse sin perder cuenta de qué parte era suya. Cada tabú es la memoria de alguien que lo rompió y cambió de una manera que la comunidad recordó como advertencia.
 
 La contaminación que más temen no siempre entra por una herida.
 
-A veces entra porque alguien empezó a recibir el peso de los muertos sin devolverlo. Lo fue guardando. Acumulando lo que otros quisieron y temieron. Primero lo sintió como conocimiento. Después como familiaridad. Después como hambre propia.
+A veces entra porque alguien empezó a trabajar el hambre de los muertos sin soltarla. La fue guardando. Acumulando lo que otros quisieron y temieron. Primero lo sintió como conocimiento. Después como familiaridad. Después como gusto.
 
-Los ancianos Zarnag llaman a eso el cruce — el momento en que quien recibía el peso para cerrarlo empezó a necesitar que el peso existiera para recibirlo. La comunidad entera aprende a reconocer ese momento en los suyos antes de que el que cruzó lo note en sí mismo.
+Los ancianos Zarnag llaman gula a la marca que deja esa cercanía, porque quien la carga empieza a reconocer hambre donde antes había solo barro, hierro o silencio; y, al verla más, corre el riesgo de desearla. Y llaman el cruce al momento en que quien trabajaba para saciar empezó a necesitar que el hambre siguiera ahí. La comunidad entera aprende a reconocer ese momento en los suyos antes de que el que cruzó lo note en sí mismo.
 
 ## Organización e Identidad Interna
 
@@ -152,17 +152,17 @@ Cuando las fosas se abren y los campos se pudren, la utilidad Zarnag se vuelve u
 
 Otras especies los nombran de maneras que los Zarnag no usan para sí mismos: comedores de cadáveres, caminantes de plaga, profanadores de tumba, carroñeros con manos. Los Zarnag rara vez argumentan contra esos nombres. Se definen por el trabajo. La mayoría de sus comunidades ha llegado a tratar el desprecio externo como información sobre cuán cerca está la próxima crisis.
 
-Los Naghii suelen reconocer el valor Zarnag en sitios donde las ruinas y los muertos se mezclan, pero rara vez confían en su método. Para un Naghii, un resto debe ser leído dentro de una cadena de significado. Para un Zarnag, primero debe determinarse si va a envenenar el agua, levantar carroñeros o dejar una presión activa en el sitio. Esa diferencia produce cooperación útil y desprecio mutuo: los Naghii pueden parecer demasiado lentos; los Zarnag, demasiado dispuestos a tocar antes de comprender.
+Los Naghii suelen reconocer el valor Zarnag en sitios donde las ruinas y los muertos se mezclan, pero rara vez confían en su método. Para un Naghii, un resto debe ser leído dentro de una cadena de significado. Para un Zarnag, primero debe determinarse si va a envenenar el agua, levantar carroñeros o dejar hambre activa en el sitio. Esa diferencia produce cooperación útil y desprecio mutuo: los Naghii pueden parecer demasiado lentos; los Zarnag, demasiado dispuestos a tocar antes de comprender.
 
-Los Sauri entienden mejor que la mayoría la idea de manejar lo que otros prefieren no ver. Pero su relación con la preservación puede resultar inquietante para los Zarnag. Un cuerpo preservado puede ser registro, autoridad o advertencia. También puede ser algo que debió cerrarse y fue retenido por orgullo, linaje o teología. Donde los Sauri preguntan qué puede contenerse, los Zarnag preguntan qué está pasando por mantenerlo aquí.
+Los Sauri entienden mejor que la mayoría la idea de manejar lo que otros prefieren no ver. Pero su relación con la preservación puede resultar inquietante para los Zarnag. Un cuerpo preservado puede ser registro, autoridad o advertencia. También puede ser algo que debió saciarse y fue retenido por orgullo, linaje o teología. Donde los Sauri preguntan qué puede contenerse, los Zarnag preguntan qué está pasando por mantenerlo aquí.
 
 Los Panin son un problema práctico. En zonas de muerte, infección o restos activos, su curiosidad puede romper perímetros antes de que entiendan que el perímetro existe por una razón. Los Zarnag no suelen odiarlos; suelen agotarse rápido con ellos. Un Panin que toca lo que no debe puede convertir una jornada difícil en una crisis. Un Panin que escucha, en cambio, puede ser útil para rastrear rutas, entradas y pequeños cambios del entorno que otros pasan por alto.
 
-Los Rokhart documentan y los Zarnag recuerdan con el cuerpo. Pueden trabajar bien juntos en campos de desastre, siempre que el Rokhart entienda que no todo debe conservarse como dato antes de ser neutralizado como riesgo. La tensión aparece cuando alguien quiere registrar un sitio que todavía está activo, mover piezas antes de sellar el perímetro o llevarse evidencia que los Zarnag consideran contaminada.
+Los Rokhart documentan y los Zarnag recuerdan con el cuerpo. Pueden trabajar bien juntos en campos de desastre, siempre que el Rokhart entienda que no todo debe conservarse como dato antes de ser tratado como riesgo. La tensión aparece cuando alguien quiere registrar un sitio que todavía está activo, mover piezas antes de saciar el perímetro o llevarse evidencia que los Zarnag consideran contaminada.
 
-Los Myo tratan a los Zarnag con una cautela distinta. Donde los Zarnag leen el resto material, los Myo pueden leer ecos, presagios o patrones que no dependen del cuerpo físico. Algunos círculos Zarnag respetan esa capacidad. Otros la consideran una forma peligrosa de quedarse demasiado cerca de lo que debería cerrarse.
+Los Myo tratan a los Zarnag con una cautela distinta. Donde los Zarnag leen el resto material, los Myo pueden leer ecos, presagios o patrones que no dependen del cuerpo físico. Algunos círculos Zarnag respetan esa capacidad. Otros la consideran una forma peligrosa de quedarse demasiado cerca de lo que debería saciarse.
 
-Los Drak'kai son especialmente problemáticos en sitios de muerte antigua. Un vestigio encontrado entre restos no es simplemente un objeto interesante para los Zarnag. Es parte de una escena de cierre incompleto hasta que se demuestre lo contrario. Los Drak'kai pueden querer conservar, estudiar o reclamar. Los Zarnag pueden querer quemar, sellar o enterrar profundo. Más de un conflicto ha empezado con ambos convencidos de estar evitando una pérdida mayor.
+Los Drak'kai son especialmente problemáticos en sitios de muerte antigua. Un resto encontrado entre muertos viejos no es simplemente un objeto interesante para los Zarnag. Es parte de una escena que sigue hambrienta hasta que se demuestre lo contrario. Los Drak'kai pueden querer conservar, estudiar o reclamar. Los Zarnag pueden querer quemar, sellar o enterrar profundo. Más de un conflicto ha empezado con ambos convencidos de estar evitando una pérdida mayor.
 
 A la mayoría de los pueblos les gustaría que los Zarnag fueran necesarios solo en tiempos excepcionales. Los Zarnag saben que eso es mentira. La muerte mal gestionada no es excepcional. Solo suele estar lo bastante lejos para que otros finjan que no la ven.
 
@@ -178,11 +178,11 @@ La cara opuesta es lo que esa exposición acumula. El contacto sistemático con 
 
 Un Zarnag no es resistente porque la muerte no lo toca. Es resistente porque aprendió a trabajar mientras algo intenta tocarlo todo el tiempo.
 
-En el conflicto, las mandíbulas definen su identidad: no como el primer golpe sino como la consecuencia que cierra la distancia y la sostiene. Una mordida Zarnag no es un impacto. Es la apertura de un problema que no termina en el momento del contacto. Sus garras trabajan diferente: más rápidas, orientadas a crear presión encadenada y abrir camino a través de lo que rodea a un oponente antes que contra él directamente.
+En el conflicto, las mandíbulas definen su identidad: no como el primer golpe sino como la consecuencia que traba la distancia y la sostiene. Una mordida Zarnag no es un impacto. Es la apertura de un problema que no termina en el momento del contacto. Sus garras trabajan diferente: más rápidas, orientadas a crear presión encadenada y abrir camino a través de lo que rodea a un oponente antes que contra él directamente.
 
 Muchos personajes Zarnag están fuera de su comunidad porque algo rompió el contrato que hacía sostenible su trabajo. Algunos salieron porque el asentamiento al que servían los echó cuando la crisis pasó. Algunos porque vieron a su propia comunidad cruzar la línea que distingue el trabajo necesario del apetito. Algunos porque encontraron algo en los sitios que trabajaban que todavía no está quieto, y caminan ahora con ese conocimiento sin saber qué hacer con él.
 
-Un personaje Zarnag puede ser un limpiador de campos de batalla que reconoció los mismos cuerpos antes y después de una supuesta tregua. Una rastreadora de plaga que sabe que una ciudad abrió sus puertas demasiado pronto. Un enterrador que selló una fosa desde la que todavía escucha risa en sueños. Un antiguo trabajador de cuarentena acusado de crueldad por haber cerrado la puerta correcta. Una joven que abandonó su grupo porque los mayores empezaron a aceptar trabajos que producían más muertos de los que cerraban. O un profesional frío, útil y despreciado, que sabe que todos lo llamarán monstruo hasta el día en que necesiten que entre primero.
+Un personaje Zarnag puede ser un limpiador de campos de batalla que reconoció los mismos cuerpos antes y después de una supuesta tregua. Una rastreadora de plaga que sabe que una ciudad abrió sus puertas demasiado pronto. Un enterrador que selló una fosa desde la que todavía escucha risa en sueños. Un antiguo trabajador de cuarentena acusado de crueldad por haber cerrado la puerta correcta. Una joven que abandonó su grupo porque los mayores empezaron a aceptar trabajos que producían más muertos de los que podían saciar. O un profesional frío, útil y despreciado, que sabe que todos lo llamarán monstruo hasta el día en que necesiten que entre primero.
 
 Lo que un personaje Zarnag sabe al salir: cómo leer un entorno de muerte, qué hace que los restos sean peligrosos después de la vida, cómo sostener el nervio donde otros colapsan, y que la repulsa de los otros no siempre es juicio. A veces es distancia. A veces es culpa.
 
@@ -210,7 +210,7 @@ Los Zarnag obtienen `+1` en **Tenacidad**, **Astucia** y **Presencia**.
 
 ### Herencia
 
-**Umbral del Resto** — En presencia de focos activos de infección, restos con vestigio activo o sitios de muerte masiva (determinados por el Narrador), los Zarnag reciben una penalización de `−3` a todas las T.R. de Aflicciones.
+**Umbral del Hambre** — Los Zarnag reciben una penalización permanente de `−3` a todas las T.R. frente a Aflicciones. Esta penalización no proviene de un estado ni de una condición — es la consecuencia de una percepción entrenada durante generaciones para vivir demasiado cerca de los restos, del hambre y de la gula que dejan.
 
 ### Legado
 

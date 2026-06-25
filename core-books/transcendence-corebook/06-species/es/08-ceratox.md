@@ -34,7 +34,7 @@ El cuerno es lo primero que otros ven: crece desde el puente nasal, continúa a 
 
 Es un órgano sensorial.
 
-Está hecho de material biológico que responde a las firmas físicas del entorno: densidad y alteración en la materia, variaciones de presión y temperatura, cambios en la estructura química del espacio, tensiones acumuladas en ciertos materiales, saturaciones que preceden o acompañan eventos extranaturales. Igual que ciertos materiales umbrales responden al Tauma, pero vivo, constante, sin apagado.
+Está hecho de material biológico que responde a las firmas físicas del entorno: densidad y alteración en la materia, variaciones de presión y temperatura, cambios en la estructura química del espacio, tensiones acumuladas en ciertos materiales, saturaciones que preceden o acompañan cambios que el entorno no debería sostener por sí solo. Vivo, constante, sin apagado.
 
 Un Ceratox no decide sentir una señal.
 
@@ -64,7 +64,7 @@ Vive en un territorio y usa el asentamiento.
 
 La distinción importa. El territorio es donde el cuerno trabaja: una extensión geográfica monitoreada durante años, a veces durante décadas, cuya línea base conocen con suficiente profundidad como para reconocer cuando algo cambia. El asentamiento es donde se reaprovisionan, donde descansan de la saturación de señal que un entorno mixto produce de manera continua, donde intercambian lo que han acumulado por lo que necesitan y donde toleran, por necesidad, el ruido de otros cuerpos.
 
-La mayoría de los asentamientos mixtos resulta agotadora para un Ceratox en un sentido muy específico: el cuerno no discrimina fuentes de manera limpia. Lo que produce la biología de otras especies, lo que llevan encima, los materiales que manipulan, los alimentos que cocinan, las sustancias que almacenan, los temblores de maquinaria, la concentración de cuerpos, el metal, la sangre, el miedo, el calor, la piedra, el Tauma residual: todo llega.
+La mayoría de los asentamientos mixtos resulta agotadora para un Ceratox en un sentido muy específico: el cuerno no discrimina fuentes de manera limpia. Lo que produce la biología de otras especies, lo que llevan encima, los materiales que manipulan, los alimentos que cocinan, las sustancias que almacenan, los temblores de maquinaria, la concentración de cuerpos, el metal, la sangre, el miedo, el calor, la piedra, las anomalías acumuladas: todo llega.
 
 Un Ceratox en un asentamiento mixto está constantemente procesando ruido que no puede aislar por completo.
 
@@ -108,7 +108,7 @@ Todo eso es lo que el observador añade después.
 
 Y añadir es precisamente el error que la tradición Ceratox lleva generaciones intentando no cometer.
 
-El principio que estructura su relación con el mundo extranatural es consecuentemente austero: la señal es el contenido honesto. Cualquier cosa dicha sobre el significado de la señal pertenece ya al territorio del que habla, no de lo que ocurrió.
+El principio que estructura su relación con todo lo que altera el entorno es consecuentemente austero: la señal es el contenido honesto. Cualquier cosa dicha sobre el significado de la señal pertenece ya al territorio del que habla, no de lo que ocurrió.
 
 Un Ceratox que lleva décadas monitoreando el mismo corredor puede decirte exactamente cómo se comporta la zona. Puede decirte cuándo se activa, bajo qué condiciones, con qué intensidad, qué tipo de criaturas evitan cruzarla, qué materiales cambian de temperatura allí, qué clase de tormenta altera su respuesta, qué estación produce lecturas falsas y qué señal precedió al último incidente.
 
@@ -118,7 +118,7 @@ La pregunta asume que hay algo que querer.
 
 El cuerno no reporta eso.
 
-Este principio genera fricción persistente con cualquier tradición que emita veredictos sobre lo que el Tauma significa. Las que interpretan eventos de saturación como decisiones de entidades con intención; las que organizan el mundo extranatural en jerarquías con leyes; las que asignan nombres propios, voluntades, mandatos o relaciones personales a los fenómenos de zona: todas producen en el Ceratox una incomodidad específica.
+Este principio genera fricción persistente con cualquier tradición que emita veredictos sobre lo que la señal significa. Las que interpretan eventos de saturación como decisiones de entidades con intención; las que organizan todo lo que altera el entorno en jerarquías con leyes; las que asignan nombres propios, voluntades, mandatos o relaciones personales a los fenómenos de zona: todas producen en el Ceratox una incomodidad específica.
 
 No es exactamente incredulidad.
 
@@ -127,6 +127,12 @@ Es la experiencia de estar leyendo el mismo dato desde un marco que llega demasi
 Con quienes resisten la interpretación, el acuerdo suele ser tácito y no necesita formularse. Un Ceratox puede trabajar con un Loxod que registra antes de explicar, con un Rokhart que separa hipótesis de conclusión, con un Zarnag que pregunta primero si el sitio sigue activo antes de nombrar lo que ocurre. Pero incluso allí hay distancia. El Ceratox no busca sentido compartido.
 
 Busca calibración suficiente para no actuar sobre una mentira del cuerpo.
+
+Las tradiciones Ceratox distinguen, además, entre señal, saturación, ruido y acoplamiento. La señal es la alteración honesta. La saturación es cuando esa alteración ya se acumuló en una zona o la volvió difícil de atravesar sin consecuencias. El ruido es la mezcla de fuentes que vuelve confusa la lectura. El acoplamiento es el punto más peligroso: cuando el lector empieza a cambiar con la señal que recibe.
+
+No todo acoplamiento se trata como deterioro inmediato.
+
+Hay aperturas que, en un Ceratox, pueden parecer confirmación: la vista, el oído, el tacto, el olfato o el gusto empiezan a registrar más del mismo fenómeno que el cuerno ya había marcado como anómalo. El problema es que esa lectura adicional no es compartible con la misma confianza. Puede afinar la percepción privada del lector. También puede volverlo incapaz de distinguir entre una señal real, un exceso de ruido y una mentira generada por su propio cuerpo.
 
 La pregunta que el principio no puede responder es la que ningún registro resuelve con certeza: si la señal está cambiando de carácter — más activa, más frecuente, más densa, de calidad diferente — eso puede ser información sobre el mundo.
 
@@ -240,13 +246,13 @@ Ninguno puede cambiar su biología.
 
 El resultado es que cualquier entorno que incluya a ambas especies exige del Ceratox un esfuerzo sostenido de descuento que no puede completarse del todo nunca.
 
-Los Naghii pueden valorar la precisión Ceratox, pero suelen frustrarse ante su negativa a interpretar más allá de la señal. Para un Naghii, una anomalía puede tener lugar dentro de una cadena de signos, archivos, traducciones y cielo. Para un Ceratox, esa cadena puede contaminar el dato antes de que el dato haya sido calibrado. Aun así, en ruinas peligrosas o zonas de Tauma inestable, ambos pueblos pueden necesitarse más de lo que se toleran.
+Los Naghii pueden valorar la precisión Ceratox, pero suelen frustrarse ante su negativa a interpretar más allá de la señal. Para un Naghii, una anomalía puede tener lugar dentro de una cadena de signos, archivos, traducciones y cielo. Para un Ceratox, esa cadena puede contaminar el dato antes de que el dato haya sido calibrado. Aun así, en ruinas peligrosas o zonas de señal inestable, ambos pueblos pueden necesitarse más de lo que se toleran.
 
 Los Sauri entienden la importancia de territorio, estructura y umbral. Pero donde los Sauri buscan construir recipientes, canales y formas de contención, los Ceratox preguntan primero si la señal realmente indica contención necesaria o si el marco ritual llegó antes que el dato. Los Sauri pueden ver esa cautela como falta de decisión. Los Ceratox pueden ver la seguridad Sauri como interpretación vestida de arquitectura.
 
 Los Zarnag comparten con los Ceratox una relación práctica con sitios que otros prefieren evitar. Un Zarnag puede saber qué ocurrió con los restos; un Ceratox puede saber si el territorio sigue comportándose como antes de esos restos. Trabajan bien cuando ambos respetan sus límites. La fricción aparece cuando el Zarnag quiere cerrar un sitio y el Ceratox insiste en seguir calibrándolo, o cuando el Ceratox quiere registrar una anomalía que el Zarnag reconoce como riesgo inmediato.
 
-Los Drak'kai son útiles y peligrosos. Sus rutas largas, colecciones y objetos acumulados pueden contener datos que el Ceratox no tiene. Pero un Drak'kai cargado de reliquias, vestigios o materiales extraños también puede convertir cualquier lectura de zona en ruido móvil. Un Ceratox puede desconfiar profundamente de alguien que lleva consigo tantas fuentes sin poder separarlas del entorno.
+Los Drak'kai son útiles y peligrosos. Sus rutas largas, colecciones y objetos acumulados pueden contener datos que el Ceratox no tiene. Pero un Drak'kai cargado de reliquias o materiales extraños también puede convertir cualquier lectura de zona en ruido móvil. Un Ceratox puede desconfiar profundamente de alguien que lleva consigo tantas fuentes sin poder separarlas del entorno.
 
 Los Rokhart son interlocutores metodológicos naturales. Ambos valoran distinguir observación de interpretación. Sin embargo, los Rokhart trabajan con red, protocolo y comparación distribuida; los Ceratox trabajan con cuerpo, territorio y línea base personal. Un Rokhart puede pedir replicabilidad donde el Ceratox solo puede ofrecer registro situado. Un Ceratox puede ver en la Concordia una metodología limpia, pero demasiado separada del órgano que recibe la señal.
 
@@ -288,7 +294,7 @@ Un personaje Ceratox puede ser un monitor de ruta que abandonó un corredor ante
 
 Lo que un Ceratox sabe al salir: cómo leer la calidad de una señal sin inventarle significado, cómo comparar una zona contra una línea base, cómo reconocer ruido, cómo sostener posición cuando el cuerpo ya decidió moverse, y que actuar rápido sobre una mala interpretación puede ser peor que no actuar.
 
-Lo que muchos no saben: si la señal que llevan reportando en los últimos meses está cambiando porque el mundo está cambiando, porque el grupo altera cada territorio que pisa, porque el Tauma está modificando sus umbrales, o porque su propio cuerno empezó a desviarse.
+Lo que muchos no saben: si la señal que llevan reportando en los últimos meses está cambiando porque el mundo está cambiando, porque el grupo altera cada territorio que pisa, porque algo está modificando sus umbrales, o porque su propio cuerno empezó a desviarse.
 
 La pregunta que muchos Ceratox se llevan consigo no es qué significa la señal.
 
@@ -312,15 +318,19 @@ Los Ceratox obtienen `+1` en **Fuerza**, **Sabiduría** y **Aura**.
 
 ### Herencia
 
-**Ruido de Calibración** — El cuerno registra de manera continua las firmas físicas del entorno: densidad y composición de los materiales circundantes, emisiones biológicas de los organismos presentes, gradientes de presión, temperatura y estructura química del espacio. En entornos con múltiples fuentes activas simultáneas — asentamientos mixtos, grupos numerosos, espacios con alta densidad de organismos o señales en frecuencias superpuestas — el cuerno no puede aislar señales individuales y procesa todo a la vez. El Ceratox recibe una penalización de `−3` a todas las T.E. de Percepción. Esta penalización no proviene de un estado ni de una condición — es la forma en que el cuerno percibe.
+**Ruido de Saturación** — El cuerno registra de manera continua las firmas físicas del entorno: densidad y composición de los materiales circundantes, emisiones biológicas de los organismos presentes, gradientes de presión, temperatura y estructura química del espacio. En entornos con múltiples fuentes activas simultáneas — asentamientos mixtos, grupos numerosos, espacios con alta densidad de organismos o señales en frecuencias superpuestas — el cuerno no puede aislar señales individuales y procesa todo a la vez. El Ceratox recibe una penalización de `−3` a todas las T.E. de Percepción. Esta penalización no proviene de un estado ni de una condición — es la forma en que el cuerno percibe.
 
 ### Legado
 
-**Calibración** — Los Ceratox obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Supervivencia, Orientación e Intuición.
+**Señal Guía** — Los Ceratox obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Supervivencia, Orientación e Intuición.
 
-**La Embestida** — *Activo · Ritmo 5 · Desgaste 2 · Alcance Personal · Área Criatura · Duración Instantáneo · Tirada T.A.*
+**Integridad de la Señal** — *Activo · Ritmo 4 · Desgaste 2 · Alcance Personal · Área Circular 8 m · Duración Instantáneo · Tirada T.C. (Aura).*
 
-Muévete en línea recta hasta tu Velocidad (9 m) hacia un objetivo que quede dentro del alcance del Cuerno al final del movimiento. Realiza una T.A. Si el ataque impacta, resuelve T.I. normalmente y elige uno: el objetivo es empujado 3 m en la dirección de la embestida, o el objetivo realiza una T.R. de Alteraciones y queda Desequilibrado si falla (Leve en NR 1–4, Moderado en NR 5–8, Grave en NR 9+). Ver técnica #105.
+Realiza una T.C. (Aura) sobre el área. Con éxito, sabes si dentro del área hay una señal anormal y si esa señal está `Estable`, `Escalando` o `Cediendo`. Esta lectura no revela origen, causa ni naturaleza exacta de la anomalía: solo confirma que algo en esa zona está alterando el entorno de una manera que el cuerno reconoce como no ordinaria.
+
+Además, si durante esa lectura hay ciclos autónomos visibles en el ATB operando sobre criaturas, zonas o efectos dentro del área, puedes clasificarlos como `Biológicos`, `de Coordinación de Aliados` o `Ambientales`.
+
+Hasta el final de la escena, obtienes un bonificador de `+1` por cada cuatro Niveles de Referencia a tus T.E. para identificar `Puntos Vitales` o `zonas` vinculadas a cualquiera de esos ciclos. Ver técnica #105.
 
 **Dermis** — La capa exterior del Ceratox, densa y biológicamente endurecida, aporta protección natural contra el daño físico. Los Ceratox obtienen un bonificador de `+2` por cada cuatro Niveles de Referencia al Bloqueo de todas las zonas.
 

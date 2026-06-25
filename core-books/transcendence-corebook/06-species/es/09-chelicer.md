@@ -60,7 +60,7 @@ Un asentamiento cuya corte no funciona no es un asentamiento menor.
 
 Es un asentamiento con un problema que impide resolver cualquier otra cosa.
 
-La cámara está construida para que nadie interfiera con lo que el sacerdote ve. Los testigos se ubican en ángulos que confirman que la lectura fue conducida, pero no pueden ver la fuente de luz directamente. El sacerdote no ve a los testigos mientras lee. El examinado está frente a la luz. Esta disposición no es estética. Codifica quién verifica qué, bajo qué condiciones y con qué límites, de modo que cualquier irregularidad sea trazable después.
+La cámara está construida para que nadie interfiera con lo que el sacerdote ve. Los testigos se ubican en ángulos que confirman que la lectura fue conducida, pero no pueden ver directamente el instrumento litúrgico principal. El sacerdote no ve a los testigos mientras lee. El examinado está frente a la luz. Esta disposición no es estética. Codifica quién verifica qué, bajo qué condiciones y con qué límites, de modo que cualquier irregularidad sea trazable después.
 
 Generaciones de corrupción institucional — real, presunta o recordada — produjeron las especificidades actuales del espacio.
 
@@ -122,19 +122,25 @@ Ese no es un descuido.
 
 Es el diseño.
 
-El Primordial de Luz cuya cara es Revelación es real dentro del territorio Chelicer. Los veredictos emitidos en condiciones apropiadas dentro de ese territorio tienden a confirmarse con el tiempo de maneras que el azar no explica del todo. La teología sostiene que esto ocurre porque el dios existe y actúa. Quienes estudian el Tauma desde afuera tienen documentación sobre el mecanismo que probablemente produce esa realidad.
+Dentro de ese marco, la Revelación no es una metáfora.
 
-Esa documentación no puede presentarse a comunidades Chelicer sin que el sistema la clasifique como señal de creencia contaminada.
+Es la categoría total bajo la que los Chelicer ordenan todo lo que vuelve legible la verdad: la luz correcta, la cámara correcta, el cuerpo correctamente dispuesto, la lectura del sacerdote, los instrumentos litúrgicos heredados, las reliquias de juicio que todavía responden, los signos del entorno que confirman un designio, incluso los efectos que una exposición excesiva deja sobre quien lee. Ellos no separan estas cosas por causa. Las separan por legitimidad.
 
-El territorio hace lo que la teología dice que hace.
+Lo importante no es de dónde vino la Revelación.
 
-Por qué lo hace es la pregunta que el sistema fue construido para no necesitar responder.
+Lo importante es si llegó bajo condiciones puras.
+
+Por eso un instrumento litúrgico no es, para ellos, solo un objeto antiguo. Es una pieza que conserva capacidad de confirmación: algo que sigue repitiendo, filtrando o sosteniendo la forma en que una verdad fue hecha visible antes. Puede tratarse de una lámpara, una placa, una sal mineral, una cámara parcial, un borde de corte derruida. Si al ponerlo en condiciones correctas vuelve a hacer legible un designio, entonces pertenece a la Revelación.
+
+Las reliquias de juicio ocupan un lugar aún más delicado. No son solo piezas que conservan. Son focos que todavía responden. Una corte antigua cuya luz aún dicta lectura, una cámara donde el veredicto parece descender con violencia inmediata, un objeto que no solo confirma sino que impone condiciones de lectura: todo eso pertenece al orden de las reliquias de juicio. Los Chelicer no dirían que tales reliquias contienen otra clase de fuerza que sus instrumentos litúrgicos. Dirían que la Revelación allí no quedó asentada. Sigue juzgando.
+
+Esto vuelve secundaria, e incluso sospechosa, cualquier pregunta sobre mecanismo. Si un sacerdote recibe demasiado, si el entorno se altera durante la lectura, si una reliquia intensifica el signo hasta deformar el cuerpo del lector, todo eso puede seguir tratándose como Revelación. Lo que otras tradiciones llamarían contaminación, exposición o distorsión, los Chelicer lo discuten como pureza, exceso o corrupción de condiciones. La disputa nunca es si la verdad actuó. La disputa es si fue recibida como debía.
 
 Su historia sagrada sostiene que la civilización anterior colapsó porque las grandes cortes de la era pasada derivaron hacia la corrupción: sacerdotes que manipulaban condiciones, lecturas al servicio de intereses políticos, fuentes de luz adulteradas o controladas por facciones que querían resultados específicos. La catástrofe fue el veredicto.
 
 La civilización actual existe como segunda oportunidad de administrar correctamente lo que la anterior administró mal.
 
-Esto da a las ruinas antiguas un valor teológico inmediato. No son solo restos. Son expedientes materiales del fracaso. Las ruinas de cortes antiguas son evidencia: su estructura física puede mostrar dónde fallaron las salvaguardas, dónde el procedimiento era falsificable, dónde el espacio permitía intervención externa, dónde el sacerdote pudo ver algo que el testigo no podía verificar o viceversa.
+Esto da a las ruinas antiguas un valor teológico inmediato. No son solo restos. Son expedientes materiales del fracaso. Las ruinas de cortes antiguas pueden conservar instrumentos litúrgicos, reliquias de juicio o ambas cosas a la vez, y su estructura física puede mostrar dónde fallaron las salvaguardas, dónde el procedimiento era falsificable, dónde el espacio permitía intervención externa, dónde el sacerdote pudo ver algo que el testigo no podía verificar o viceversa.
 
 Encontrar esos fallos confirma la teología.
 
@@ -146,7 +152,7 @@ La fractura que atraviesa la civilización Chelicer tiene dos siglos de historia
 
 La escuela conservadora sostiene que un veredicto emitido bajo condiciones formalmente correctas es absoluto. Si el procedimiento se cumplió, el veredicto es el veredicto. Cualquier intento de revisión es evidencia de creencia corrupta intentando subvertir la verdad divina.
 
-La escuela progresista sostiene que las condiciones formales son necesarias pero no suficientes. Una fuente de luz de calidad incierta, un espacio cuya integridad no puede confirmarse o testigos cuya presencia fue coaccionada invalidan el proceso aunque el procedimiento visible se haya seguido.
+La escuela progresista sostiene que las condiciones formales son necesarias pero no suficientes. Un instrumento litúrgico de calidad incierta, un espacio cuya integridad no puede confirmarse o testigos cuya presencia fue coaccionada invalidan el proceso aunque el procedimiento visible se haya seguido.
 
 La escuela progresista tiene más fuerza en comunidades de borde, donde los veredictos fallan con una frecuencia que las explicaciones conservadoras no alcanzan a cubrir.
 
@@ -176,7 +182,7 @@ La infancia dura lo que tarda en llegar ese momento.
 
 Y no más.
 
-La primera ordalía no ocurre por acusación. Es el rito de iniciación. El sacerdote conduce una lectura del joven bajo condiciones formales y reporta lo que la luz mostró. Ese reporte, formulado en el registro ceremonial que los sacerdotes usan para las actas, se convierte en el nombre de registro: el nombre que identifica al individuo en todos los contextos legales y formales por el resto de su vida.
+La primera ordalía no ocurre por acusación. Es el rito de iniciación. El sacerdote conduce una lectura del joven bajo condiciones formales y reporta lo que el instrumento litúrgico hizo visible. Ese reporte, formulado en el registro ceremonial que los sacerdotes usan para las actas, se convierte en el nombre de registro: el nombre que identifica al individuo en todos los contextos legales y formales por el resto de su vida.
 
 El nombre cotidiano lo elige la familia antes de ese momento.
 
@@ -196,7 +202,7 @@ La mecánica de alimentarse es asunto privado.
 
 La mecánica de establecer verdad, no.
 
-Cuando un Chelicer muere, el sacerdote conduce una lectura del cuerpo. La fluorescencia persiste durante algunas horas después de la muerte en forma decreciente, y ese período es el material de la lectura de paso. El reporte determina el tono con que se recuerda a la persona: como modelo, advertencia, continuidad o caso sin resolución.
+Cuando un Chelicer muere, el sacerdote conduce una lectura del cuerpo. La fluorescencia persiste durante algunas horas después de la muerte en forma decreciente, y ese período es el material de la lectura de paso. Si la corte conserva reliquias de juicio asociadas al tránsito o a la lectura final, pueden incorporarse al procedimiento. El reporte determina el tono con que se recuerda a la persona: como modelo, advertencia, continuidad o caso sin resolución.
 
 La familia no desafía el reporte en el acta.
 
@@ -216,11 +222,11 @@ Es haber presenciado suficientes veredictos como para convertirse en garantía v
 
 Los Chelicer se concentran en terreno árido y semiárido: sistemas de cañones rocosos, llanuras pedregosas densas en ruinas y regiones donde la vibración del suelo se transmite bien y los minerales luminiscentes usados para la ordalía están presentes geológicamente. No son una especie marítima ni forestal. Sus asentamientos se ubican donde una corte puede mantenerse, y el territorio se extiende desde ahí hacia afuera.
 
-Los Ceratox que entran al territorio Chelicer exhiben comportamientos que los Chelicer observan sin poder explicar. El cuerno reacciona a algo en el entorno — una señal continua y organizada que el territorio produce de manera sostenida — y el Ceratox responde a esa reacción de maneras que no corresponden a ningún evento visible. Los Chelicer ven una criatura que actúa como si algo estuviera ocurriendo cuando nada parece estar ocurriendo. Los Ceratox ven un territorio que emite señal sostenida sin que los Chelicer tengan conciencia de lo que su propio espacio hace al instrumento.
+Los Ceratox que entran al territorio Chelicer exhiben comportamientos que los Chelicer observan sin poder explicar. El cuerno reacciona a algo en el entorno y el Ceratox responde a esa reacción de maneras que no corresponden a ningún evento visible. Los Chelicer ven una criatura que actúa como si algo estuviera ocurriendo cuando nada parece estar ocurriendo. Desde su marco, eso solo confirma una vieja sospecha: hay verdades del territorio que algunos cuerpos reciben antes de que una corte las vuelva legibles.
 
 El intercambio es posible — inteligencia de ruta, información sobre zonas adyacentes, advertencias de frontera — y termina casi siempre con la misma incomprensión de fondo.
 
-Los Rokhart han documentado el territorio Chelicer con la precisión que aplican a todo. No hay una forma de presentar esa documentación a comunidades Chelicer sin que el sistema la clasifique como señal de creencia contaminada: investigar por qué el dios funciona equivale, dentro del marco, a sugerir que podría no funcionar por esa razón.
+Los Rokhart han documentado el territorio Chelicer con la precisión que aplican a todo. No hay una forma de presentar esa documentación a comunidades Chelicer sin que el sistema la clasifique como señal de creencia contaminada: investigar por qué la Revelación parece responder equivale, dentro del marco, a sugerir que la legitimidad del veredicto depende de algo distinto al veredicto mismo.
 
 Los Rokhart no han dejado de documentar.
 
@@ -250,7 +256,7 @@ Es casi una ofensa ontológica.
 
 Un personaje Chelicer sabe cómo funciona la ordalía en todos sus detalles procedimentales. Sabe leer territorio con la paciencia del depredador solitario que su biología sigue siendo. Sabe que el silencio antes de actuar no es indecisión, sino la forma correcta de procesar. Y sabe lo que la primera ordalía dijo sobre él, y ha tenido tiempo de decidir qué hacer con eso.
 
-Lo que la mayoría no sabe al partir es más peligroso: que hay documentación sobre su dios que no pueden recibir sin que el sistema los procese como contaminados, y que el territorio donde el sistema es verificable es exactamente el territorio que acaban de dejar. Fuera del espacio Chelicer, los veredictos no tienen autoridad inmediata.
+Lo que la mayoría no sabe al partir es más peligroso: que existen lecturas del mundo que su formación clasificó de antemano como impuras, y que el territorio donde la Revelación era reconocida como legítima es exactamente el territorio que acaban de dejar. Fuera del espacio Chelicer, los veredictos no tienen autoridad inmediata.
 
 Lo que el sacerdote dijo sobre ellos al iniciarse es, para casi todos los demás pueblos, solo texto.
 

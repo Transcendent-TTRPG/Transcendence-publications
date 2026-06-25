@@ -108,6 +108,10 @@ Dirige trabajo.
 
 Un Formix que salió de la colmena lleva consigo todo lo que la Reina necesitaba que supiera: idioma, tareas, reacción a señales, el mapa de un territorio que quizá ya no habita, la química de obediencia, la arquitectura del túnel, el lugar de su cuerpo dentro de un sistema de cuerpos. Lo que no lleva es respuesta a preguntas que la colmena nunca le dio espacio de formular.
 
+Eso incluye buena parte de lo extraño.
+
+Un trabajador podía recibir la orden de evitar una cámara, sellar un objeto, excavar alrededor de una grieta, reforzar un perímetro o abandonar un túnel sin saber qué hacía peligrosa a esa cosa o a ese lugar. Sabía la tarea. No la interpretación. La validación no era suya.
+
 ¿Quién soy cuando nadie me dirige?
 
 ¿Qué deseo si nadie traduce mi deseo en función?
@@ -128,15 +132,19 @@ No fueron libres.
 
 Eso no encaja bien en mitos de creación, doctrinas elementales ni cosmologías organizadas alrededor de la premisa de que un ser que piensa es un ser que elige. Para un Formix, esa premisa no es filosóficamente débil. Es biográficamente falsa.
 
-Los más viejos de las ciudades refugio han empezado a hacer preguntas sobre qué eran exactamente las Reinas. No biológicamente, sino en términos de lo que hacían a la conciencia de miles a través de la distancia. ¿Eran tiranas? ¿Órganos sociales? ¿Primordiales menores de obediencia química? ¿Máquinas vivas de coordinación? ¿Madres sin parentesco? ¿Dioses locales que nunca necesitaron culto porque tenían señal?
+Por eso la mayoría de las ciudades refugio no tiene una cosmología propia en sentido pleno. Tiene préstamos, costumbres recientes, advertencias repetidas y algunas prácticas para no volver a confundirse con la colmena. No hay linajes familiares que transmitan doctrina. No hay infancia larga donde una generación eduque a la siguiente desde cero. No hay ancianos que lleven siglos contando el mismo origen. Hay recién llegados, veteranos escasos y archivos.
 
-Es el comienzo de algo.
+Esos archivos rara vez empiezan por el universo.
 
-Todavía no tiene nombre.
+Empiezan por el oficio, por el error, por la decisión y por la pérdida. Qué trabajo sabía hacer alguien. Qué descubrió fuera de la colmena. Qué contrato no debió aceptar. Qué señales precedieron un peligro. Qué parte de su vida logró volver elección y qué parte siguió pareciendo función. Cuando un Formix viejo muere, eso es lo que una ciudad teme perder primero.
 
-Los que formulan esas preguntas y los que describen las nuevas sensibilidades del entorno son, consistentemente, los mismos Formix. Los que llevan más tiempo fuera del radio. Los que más se alejaron.
+Lo poco que empieza a parecer doctrina nace así: tarde, incompleto y discutido.
 
-Algunas ciudades están desarrollando ritos de decisión. No ritos heredados de la colmena, porque la colmena no pedía decisiones, sino prácticas nuevas: elegir un oficio por un ciclo, cambiar de nombre, negarse públicamente a una tarea que se sabe hacer, caminar fuera de la ciudad y volver por voluntad propia, guardar silencio ante una señal colectiva hasta poder decir “sí” o “no” con claridad.
+Los libres no salen de la colmena con respuestas sobre el mundo profundo. Salen con tareas, memoria funcional y una pregunta demasiado urgente sobre sí mismos. La mayoría no tiene tiempo ni estabilidad para construir una metafísica propia. Toman palabras ajenas cuando las necesitan, las mezclan entre sí, las abandonan cuando dejan de servirles y siguen adelante.
+
+Por eso, en muchas ciudades refugio, lo más cercano a una teología no es una explicación del universo. Es una disciplina de la decisión: prácticas para distinguir entre obedecer, servir, pertenecer, desear y elegir.
+
+Por eso algunas ciudades están desarrollando ritos de decisión. No ritos heredados de la colmena, porque la colmena no pedía decisiones, sino prácticas nuevas: elegir un oficio por un ciclo, cambiar de nombre, negarse públicamente a una tarea que se sabe hacer, caminar fuera de la ciudad y volver por voluntad propia, guardar silencio ante una señal colectiva hasta poder decir “sí” o “no” con claridad.
 
 Para otras especies, estos actos pueden parecer pequeños.
 
@@ -150,7 +158,7 @@ Las Reinas no envejecen en la escala en que lo hacen sus trabajadores. Una colme
 
 Las colonias no se establecen al azar. Los pocos Formix libres que han observado colmenas activas desde lejos reportan que esas zonas tienen propiedades que los territorios circundantes no tienen: materiales con comportamientos difíciles de explicar, condiciones que otras especies describen como inhabilitantes pero que la colmena aprovecha sin aparente dificultad. Por qué las Reinas eligen esos lugares — o si algo en esos lugares las atrae antes de que puedan articular la razón — es una pregunta que los libres no tienen modo de responder.
 
-Lo que sí reportan algunos de los que llevan más tiempo fuera es que bajo el radio de la Reina ciertas cosas no llegaban. Algo en el campo de la colmena filtraba algo que no tenía nombre porque nunca faltó. Con el tiempo suficiente afuera, ese filtro ya no existe. El entorno empieza a pesar de formas que antes no tenía: la sensación de que ciertos espacios guardan más historia de la que su deterioro visible explica, que algunas ruinas contienen algo que no es solo ausencia. La mayoría no lo nombra porque no tiene vocabulario para ello, y porque los que lo nombran en voz alta reciben miradas de quienes llevan menos tiempo fuera y todavía no lo sienten.
+Lo que sí reportan algunos de los que llevan más tiempo fuera es que bajo el radio de la Reina ciertas cosas no llegaban. Algo en el campo de la colmena dejaba al mundo más silencioso. Con el tiempo suficiente afuera, ese filtro ya no existe. El entorno empieza a sentirse más extraño, más pesado, menos fácil de reducir a tarea. Eso no significa que de pronto recuerden haber entendido algo dentro de la colmena. Significa más bien lo contrario: empiezan a sospechar que durante años obedecieron respuestas a cosas que nunca se les permitió comprender.
 
 Lo que eso significa para cualquier Formix que se aleje lo suficiente es una de las verdades más difíciles de aceptar:
 
@@ -266,7 +274,7 @@ Eso no significa que no puedan aprender.
 
 Muchos personajes Formix están fuera de una ciudad refugio porque la libertad allí empezó a sentirse demasiado parecida a otra cosa. Algunos fueron enviados para negociar, explorar o buscar otros Formix. Algunos aceptaron un contrato y descubrieron tarde que no sabían cómo retirarse. Algunos se acercaron demasiado a territorio de Reina y volvieron con miedo de cuánto alivio sintieron. Algunos no nacieron libres, pero llevan tanto tiempo decidiendo que la colmena ya parece un recuerdo ajeno. Otros acaban de salir y todavía esperan, en algún lugar del cuerpo, la próxima orden.
 
-Un personaje Formix puede ser un Guerrero que no quiere que su vida sea una línea de defensa. Un Destilador que intenta convertir la química corporal en medicina, cocina, arte o investigación. Un recién llegado que no sabe si su primera amistad es vínculo o dependencia. Un veterano de Márach que ha visto demasiadas ciudades refugio repetir la forma de la colmena. Un explorador que sigue rastros químicos de otros fugitivos. O alguien que cree que la única manera de liberar a su especie es entender qué es una Reina sin volver a obedecerla.
+Un personaje Formix puede ser un Guerrero que no quiere que su vida sea una línea de defensa. Un Destilador que intenta convertir la química corporal en medicina, cocina, arte o investigación. Un recién llegado que no sabe si su primera amistad es lazo o dependencia. Un veterano de Márach que ha visto demasiadas ciudades refugio repetir la forma de la colmena. Un explorador que sigue rastros químicos de otros fugitivos y teme reconocer demasiado bien una señal que su cuerpo quiera obedecer. O alguien que cree que la única manera de liberar a su especie es entender qué es una Reina sin volver a obedecerla.
 
 Lo que un Formix sabe al salir: cómo trabajar bajo presión, cómo leer un espacio por señal química, cómo resistir dolor y acumulación de daño, cómo funcionar dentro de un grupo coordinado, y qué se siente pensar sin haber elegido.
 
