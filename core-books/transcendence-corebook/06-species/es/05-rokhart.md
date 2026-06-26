@@ -30,13 +30,21 @@ Para la comunidad anfitriona son vecinos de largo plazo: útiles, atentos, moder
 
 Lo que acumulan a través de generaciones no es poder en ningún sentido que la mayoría reconocería.
 
-Es el patrón.
+Es el Patrón.
 
-La misma fuerza elemental en territorios distintos produciendo manifestaciones distintas. La misma clase de fenómeno cambiando de forma según lo que cada comunidad ha creído durante generaciones. Fuego como destrucción. Fuego como renovación. Fuego como purificación. Fuego como castigo. Fuego como herencia.
+La misma clase de fenómeno en territorios distintos produciendo manifestaciones distintas. El mismo tipo de presencia, fuerza, residuo o respuesta cambiando de forma según lo que cada comunidad ha creído, temido, repetido y enseñado durante generaciones.
 
-La fuerza no cambia sola.
+Fuego como destrucción.
 
-O eso creen los Rokhart.
+Fuego como renovación.
+
+Fuego como purificación.
+
+Fuego como castigo.
+
+Fuego como herencia.
+
+Los Rokhart sospechan que la manifestación no cambia sola.
 
 Lo que saben es demasiado consistente para ignorarlo y demasiado incompleto para usarlo sin peligro. Por eso lo cargan con el cuidado con que se carga algo que, soltado en el contexto equivocado, destruye más de lo que ilumina.
 
@@ -53,6 +61,10 @@ Los brazos son alas que no vuelan: amplias, emplumadas, construidas para un vuel
 En sociedad, son lenguaje.
 
 Los Rokhart comunican matices internos a través de posiciones de pluma, apertura de ala, ángulos de hombro y microajustes que otras especies rara vez aprenden a leer. Una respuesta diplomática que para un forastero parece neutra puede ir acompañada de una señal alar que cualquier Rokhart presente entiende como advertencia, desacuerdo o cierre de conversación.
+
+El cuerpo Rokhart aprendió a decir más de lo que la boca admite.
+
+Eso es útil para una especie entrenada en observar sin revelar cuánto entendió.
 
 El plumaje varía por línea de origen. Algunos linajes cargan iridiscencias vivas; otros, tonos más sobrios, moteados o apagados. Nada de esto se entiende como decoración pura. El plumaje participa en reconocimiento, comunicación de estado, lectura de salud, linaje y, en ciertos puestos antiguos, identificación de tradición metodológica.
 
@@ -80,7 +92,13 @@ Hace algo más eficaz: se vuelve útil.
 
 Lo que mantiene coherente a una red sin centro geográfico no es doctrina sino protocolo: qué cuenta como observación válida, cómo se registra y transmite la información, qué constituye una conclusión versus una hipótesis de trabajo, cuándo un testimonio debe conservarse aunque parezca falso, cuándo una intervención invalida el dato, y qué información no debe compartirse con una comunidad anfitriona aunque esa comunidad la haya producido sin saberlo.
 
-Dos Rokhart de puestos en extremos opuestos del mundo pueden disentir sobre hallazgos específicos, pero no sobre cómo evaluar el desacuerdo. Esa es la verdadera unidad de la Concordia. No creen lo mismo. Miden de la misma manera.
+Dos Rokhart de puestos en extremos opuestos del mundo pueden disentir sobre hallazgos específicos, pero no sobre cómo evaluar el desacuerdo.
+
+Esa es la verdadera unidad de la Concordia.
+
+No creen lo mismo.
+
+Miden de la misma manera.
 
 El puesto no es templo, fortaleza ni embajada. Es una máquina social de observación. Tiene archivos, sí, pero también cocinas, dormitorios, torres, patios de señal, plataformas de vuelo perdido, salas de copia, túneles de almacenamiento, dormitorios para observadores de paso, espacios de negociación y rincones donde un Rokhart puede mirar una calle durante años sin admitir que esa calle es el motivo por el que el puesto existe.
 
@@ -88,39 +106,93 @@ La neutralidad Rokhart no es ausencia de interés.
 
 Es una técnica para conservar acceso.
 
-Esto produce tensiones internas constantes. Un puesto puede salvar una comunidad de una mala cosecha porque necesita observarla durante otra generación. Puede mediar una disputa porque una guerra destruiría el fenómeno que registra. Puede ocultar información porque revelarla cambiaría el comportamiento local y contaminaría el patrón. La Concordia enseña que esto no es manipulación si el daño evitado es mayor que el daño causado por callar.
+Esto produce tensiones internas constantes. Un puesto puede salvar una comunidad de una mala cosecha porque necesita observarla durante otra generación. Puede mediar una disputa porque una guerra destruiría el fenómeno que registra. Puede ocultar información porque revelarla cambiaría el comportamiento local y contaminaría el Patrón. La Concordia enseña que esto no es manipulación si el daño evitado es mayor que el daño causado por callar.
 
 No todos los Rokhart siguen creyéndolo.
 
-## Teología y Cosmología
+La Concordia forma a los suyos para distinguir observación de intervención, pero la vida cotidiana de un puesto demuestra que la diferencia nunca es limpia. Traducir una negociación ya cambia su resultado. Advertir de una tormenta altera una cosecha. Curar una epidemia preserva una comunidad que quizá estaba a punto de producir el dato más importante de una generación. No hacer nada también produce consecuencias.
 
-Los Rokhart no tienen nombre único para lo que la mayoría llama dios.
+El método no salva a los Rokhart de la culpa.
 
-Tienen un modelo de observación, un conjunto de correlaciones documentadas y una pregunta que lleva generaciones sin moverse del centro del archivo.
+Solo les exige fecharla correctamente.
 
-El hallazgo más sólido, replicado a través de suficientes territorios como para haber dejado de ser disputable dentro de la Concordia, es este: la misma fuerza elemental se manifiesta de forma distinta según lo que las comunidades que la habitan han creído durante generaciones.
+Teología y Cosmología
 
-La misma fuerza.
+La Concordia evita nombres únicos.
+
+Un nombre único suele cerrar demasiado pronto una observación todavía incompleta.
+
+Los Rokhart no empiezan preguntando qué es una fuerza, una presencia o una manifestación. Empiezan con el Patrón: la repetición incómoda de que fenómenos comparables adoptan formas distintas en comunidades distintas, y que esas diferencias coinciden demasiado bien con relatos, miedos, ritos, prohibiciones, gestos de infancia, calendarios y generaciones de interpretación local.
+
+El hallazgo más sólido que la Concordia se atreve a tratar como base de trabajo es este: allí donde una comunidad ha aprendido durante generaciones a nombrar, temer, invocar, evitar o celebrar un fenómeno de una manera específica, la manifestación observada tiende a ajustarse a esa forma más de lo que el azar permite ignorar.
+
+La misma clase de fenómeno.
 
 No la misma forma.
 
-Fuego como destrucción. Fuego como renovación. Fuego como transformación. Fuego como prueba. Fuego como hambre. Fuego como herencia. La diferencia coincide demasiado limpiamente con la teología local, los relatos heredados, los ritos de infancia, los miedos colectivos y las prácticas repetidas como para tratarla como accidente.
+Fuego como destrucción.
 
-Por eso la Concordia no estudia objetos aislados ni doctrinas aisladas. Estudia la dinámica de esa fuerza en el entorno: cómo deja residuos, cómo se sostiene, qué la conduce y qué contamina su lectura.
+Fuego como renovación.
 
-Los Rokhart suelen distinguir dos comportamientos mayores de la fuerza elemental. Hay fuerzas residuales: restos de actividad que conservan un patrón suficientemente repetible como para ser comparado entre décadas, rutas y archivos. Y hay fuerzas perpetuas: casos donde la actividad no se deja tratar como residuo, sigue respondiendo, reordena el entorno o altera al observador de maneras que el registro no logra fijar con la misma limpieza.
+Fuego como transformación.
 
-La diferencia no siempre está en el objeto mismo. A veces está en el sitio. A veces en el uso ritual. A veces en la comunidad que lo rodea. A veces en la clase de atención que recibe. La fuerza elemental no aparece sola: aparece atravesando conductores.
+Fuego como prueba.
 
-Un conductor puede ser un rito, una cámara, una geografía, una práctica repetida, una tradición de interpretación, un linaje, una reliquia o una presencia. La Concordia no afirma que todos conduzcan del mismo modo. Afirma algo más estrecho y más útil: cuando la fuerza cambia de comportamiento, casi siempre hay conductores alrededor.
+Fuego como hambre.
 
-Lo que el modelo no ha podido resolver es la dirección de esa relación. Tal vez la creencia colectiva reordena la fuerza. Tal vez la fuerza enseña con el tiempo qué debe creerse sobre ella. Tal vez ambos procesos se alimentan entre sí hasta que ya no hay manera limpia de separar causa y efecto. Los datos sugieren todas esas posibilidades. Ningún conjunto de observaciones que puedan realizar sin romper el método ha llegado más lejos.
+Fuego como herencia.
 
-Eso deja otro problema, igual de importante. El observador no es limpio por defecto. La exposición prolongada, ciertas rutas, algunas reliquias, determinadas comunidades o presencias especialmente densas producen contaminaciones: sesgos de lectura, fijaciones, interferencias perceptuales, pérdida de comparabilidad entre observadores y, en los casos peores, la incapacidad de distinguir si el dato cambió o si cambió quien lo registra.
+La diferencia coincide demasiado limpiamente con la teología local, los relatos heredados, los ritos de infancia, los miedos colectivos y las prácticas repetidas como para tratarla como accidente.
 
-Las aflicciones son la forma más contundente y a la vez más peligrosa de contaminación, porque acercan al observador a una clase de información que luego resulta difícil comparar entre cuerpos distintos. La Concordia no ignora ese dato. Lo teme. Una observación más intensa no siempre es una observación mejor si destruye el instrumento que la produjo.
+Por eso la Concordia no estudia objetos aislados ni doctrinas aisladas. Estudia la dinámica entre manifestación, entorno, comunidad y repetición: cómo deja residuos, cómo se sostiene, qué la conduce y qué contamina su lectura.
 
-Cada otra especie que conocen tiene algo que poner en el centro del modelo: dioses, presencias antiguas, linajes sagrados, profundidades del cielo, corrientes, restos, destino, memoria, profecía. Los Rokhart tienen el registro de que el problema existe.
+Los Rokhart trabajan con dos etiquetas imperfectas: residuo y persistencia.
+
+Un residuo es una manifestación de actividad previa que conserva un patrón suficientemente repetible como para ser comparado entre décadas, rutas y archivos. No significa que sea seguro. Significa que se comporta con cierta estabilidad relativa.
+
+Una persistencia es un caso donde la actividad no se deja tratar como resto de algo anterior. Sigue respondiendo, reorganiza el entorno, altera al observador o modifica su propia forma con suficiente continuidad como para que el registro no pueda fijarla limpiamente.
+
+La diferencia no siempre está en el objeto mismo. A veces está en el sitio. A veces en el uso ritual. A veces en la comunidad que lo rodea. A veces en la clase de atención que recibe.
+
+Por eso la Concordia considera central la noción de conductor.
+
+Un conductor puede ser un rito, una cámara, una geografía, una práctica repetida, una tradición de interpretación, un linaje, una reliquia, una prohibición, una presencia o una historia contada de la misma manera durante demasiadas generaciones. La Concordia no afirma que todos conduzcan del mismo modo. Afirma algo más estrecho y más útil: cuando una manifestación cambia de comportamiento, casi siempre hay conductores alrededor.
+
+El problema no resuelto es la dirección de esa relación.
+
+Tal vez la creencia colectiva reordena la manifestación.
+
+Tal vez la manifestación enseña con el tiempo qué debe creerse sobre ella.
+
+Tal vez ambos procesos se alimentan entre sí hasta que ya no hay manera limpia de separar causa y efecto.
+
+Los datos sugieren todas esas posibilidades. Ningún conjunto de observaciones que puedan realizar sin romper el método ha llegado más lejos.
+
+Eso deja otro problema, igual de importante: el observador no es limpio por defecto.
+
+La exposición prolongada, ciertas rutas, algunas reliquias, determinadas comunidades o presencias especialmente densas producen contaminaciones: sesgos de lectura, fijaciones, interferencias perceptuales, pérdida de comparabilidad entre observadores y, en los casos peores, la incapacidad de distinguir si cambió el dato o si cambió quien lo registra.
+
+Las aflicciones son la forma más contundente y a la vez más peligrosa de contaminación. No porque solo dañen al observador, sino porque acercan al cuerpo a una clase de información que luego resulta difícil comparar entre cuerpos distintos.
+
+La Concordia no ignora ese dato.
+
+Lo teme.
+
+Una observación más intensa no siempre es una observación mejor si destruye el instrumento que la produjo.
+
+El instrumento, en este caso, es el Rokhart.
+
+Por eso los informes de campo no registran únicamente el fenómeno observado. Registran horas de sueño, exposición prolongada, cambios de lenguaje, vínculos afectivos con la comunidad anfitriona, sueños recurrentes, repeticiones involuntarias, alteraciones de plumaje, respuesta ante manifestaciones similares y cualquier señal de que el observador ya no distingue con precisión entre dato, interpretación y necesidad personal.
+
+Algunas contaminaciones son leves. Todo observador de campo se modifica por lo que observa durante años. Otras invalidan una línea de registro entera. Las más peligrosas son las que producen observaciones brillantes.
+
+Un Rokhart contaminado puede ver algo que nadie más ve.
+
+Ese es precisamente el problema.
+
+Cada especie que conocen tiene algo que poner en el centro del mundo: dioses, presencias antiguas, linajes sagrados, profundidades del cielo, corrientes, restos, destino, memoria, profecía, territorio, juicio o hambre.
+
+Los Rokhart tienen el registro de que el problema existe.
 
 Eso no les da calma.
 
@@ -130,11 +202,11 @@ Ese conocimiento los vuelve útiles.
 
 También los vuelve casi incapaces de rezar.
 
-El horror Rokhart no es descubrir que los dioses no existen. Es descubrir que existen de maneras demasiado dependientes de quienes los miran. Que una comunidad puede producir aquello que luego la gobierna. Que la fuerza elemental no solo responde a la creencia, sino que puede enseñar a una población qué creer para seguir recibiendo una forma determinada.
+El horror Rokhart no es descubrir que los dioses no existen. Es descubrir que existen de maneras demasiado dependientes de quienes los miran. Que una comunidad puede producir aquello que luego la gobierna. Que una manifestación no solo responde a la creencia, sino que puede enseñar a una población qué creer para seguir recibiendo una forma determinada.
 
 La Concordia no tiene una respuesta religiosa para eso.
 
-Tiene expedientes.
+Tiene registros, comparaciones y demasiados casos como para fingir que el problema es menor.
 
 ## Organización e Identidad Interna
 
@@ -146,7 +218,7 @@ Bajo el Custodio trabajan copistas, archivistas, observadores de torre, especial
 
 Los observadores de campo son la apuesta de mayor riesgo: Rokhart incrustados en otras comunidades durante años, aprendiendo lo que no puede aprenderse desde afuera. La Concordia los monitorea con informes periódicos requeridos, y las brechas en esos informes se anotan.
 
-Una brecha puede significar enfermedad, muerte, pérdida de acceso, enamoramiento, conversión, corrupción, captura, disidencia o algo que el observador decidió no escribir.
+Una brecha puede significar enfermedad, muerte, pérdida de acceso, enamoramiento, conversión, contaminación, captura, disidencia o algo que el observador decidió no escribir.
 
 La Concordia no trata todas esas posibilidades igual.
 
@@ -154,15 +226,29 @@ También existen los enlaces, Rokhart entrenados para sostener relaciones con co
 
 Los que dejan sus puestos sin asignación — por elección, por expulsión, por razones que la Concordia no documenta públicamente — siguen siendo Rokhart. La red no les cierra la identidad. Solo les cierra los datos actuales.
 
+Eso puede doler más que el exilio.
+
+Un Rokhart separado de la Concordia no pierde solamente acceso a archivos. Pierde corrección, contraste, señales de red, versiones actualizadas, hipótesis degradadas, advertencias nuevas, cambios de protocolo y la posibilidad de saber si algo que descubrió ya fue refutado en otro puesto. Puede conservar el método, pero queda condenado a practicarlo sin la maquinaria que lo mantenía honesto.
+
 Y luego están los que cruzaron la línea que la metodología prohíbe.
 
-Quienes intervinieron para comprobar una hipótesis. Quienes alteraron una comunidad para ver cómo respondía la fuerza elemental. Quienes introdujeron una creencia en un grupo pequeño para medir si la manifestación cambiaba. Quienes manipularon ritos, matrimonios, relatos infantiles, crisis políticas o miedo colectivo para obtener una respuesta más clara.
+Quienes intervinieron para comprobar una hipótesis. Quienes alteraron una comunidad para ver cómo respondía una manifestación. Quienes introdujeron una creencia en un grupo pequeño para medir si el Patrón cambiaba. Quienes manipularon ritos, matrimonios, relatos infantiles, crisis políticas o miedo colectivo para obtener una respuesta más clara.
 
 La Concordia no los documenta formalmente.
 
 No han vuelto.
 
-La tensión interna más importante de la especie nace de ahí: el modelo central quizá solo pueda resolverse haciendo exactamente lo que la metodología prohíbe. Observar no basta. Intervenir contamina. No intervenir deja la pregunta abierta. Intervenir podría convertir a la Concordia en aquello que todas las comunidades anfitrionas tendrían razón en temer.
+La tensión interna más importante de la especie nace de ahí: el modelo central quizá solo pueda resolverse haciendo exactamente lo que la metodología prohíbe.
+
+Para saber si una creencia produce una manifestación, habría que introducir una creencia, sostenerla durante generaciones y medir qué nace de ella.
+
+Observar no basta.
+
+Intervenir contamina.
+
+No intervenir deja la pregunta abierta.
+
+Intervenir podría convertir a la Concordia en aquello que todas las comunidades anfitrionas tendrían razón en temer.
 
 Los Rokhart viven dentro de ese límite.
 
@@ -182,7 +268,13 @@ Un puesto Rokhart no suele ser ruidoso. La actividad ocurre en capas: plumas, ti
 
 La comida es práctica, ligera y regulada por trabajo. Granos, frutas secas, semillas, pequeños animales, caldos simples, alimentos fáciles de transportar a torres o rutas. El cuerpo Rokhart no agradece el peso innecesario, y la cultura tampoco.
 
-Las relaciones afectivas existen, pero suelen pasar a través del método. Un vínculo profundo puede expresarse revisando los informes de otro con más severidad que cortesía. Un duelo puede comenzar con la conservación exacta de la última nota de alguien. Una reconciliación puede consistir en aceptar una corrección pública sin responder con orgullo.
+Las relaciones afectivas existen, pero suelen pasar a través del método. Un vínculo profundo puede expresarse revisando los informes de otro con más severidad que cortesía. Una amistad puede consistir en corregir una conclusión antes de que se vuelva vergonzosa. Un amor puede sostenerse durante años en notas marginales que nadie más entiende, porque ambos saben qué palabra fue elegida para no exagerar.
+
+Una ruptura puede comenzar cuando alguien deja de enviar borradores.
+
+Un duelo puede comenzar con la conservación exacta de la última observación de alguien.
+
+Una reconciliación puede consistir en aceptar una corrección pública sin responder con orgullo.
 
 Cuando un investigador muere, lo primero que ocurre es una revisión de archivo: todo lo que registró se cruza con hipótesis activas, y lo que nunca escribió — las conexiones que llevaba en la cabeza, las observaciones que no habían llegado al papel — ya no existe.
 
@@ -191,6 +283,14 @@ La pérdida se registra como reducción de capacidad y como oportunidad archiví
 Ambas cosas son ciertas.
 
 En un puesto de la Concordia no siempre se distingue entre ellas.
+
+Las contaminaciones menores son parte de la vida cotidiana. Un observador que usa demasiado una palabra local. Una archivista que defiende una hipótesis con más fuerza de la que sus datos permiten. Un enlace que empieza a proteger la reputación de una familia anfitriona porque la conoce desde hace veinte años. Un investigador que sueña una manifestación y decide no ponerlo en el informe porque todavía no sabe si fue dato, miedo o vergüenza.
+
+La Concordia no castiga toda contaminación.
+
+La registra.
+
+Eso puede ser peor.
 
 Envejecer bien entre los Rokhart no es volverse sabio en el sentido cómodo. Es conservar precisión sin endurecerse hasta confundir metodología con verdad. Los viejos más respetados no son quienes tienen más respuestas, sino quienes recuerdan más errores: conclusiones prematuras, informes mal fechados, observaciones sesgadas por simpatía, intervenciones justificadas demasiado tarde, datos que parecían inútiles hasta que una generación posterior entendió qué estaban viendo.
 
@@ -208,7 +308,7 @@ Son expulsados, cuando ocurre, por lo que alguien descubre que estaban observand
 
 Con los Naghii, la relación oscila entre admiración y frustración. Ambos preservan, comparan y desconfían de conclusiones rápidas. Pero los Naghii organizan el conocimiento alrededor del archivo sagrado, el acceso restringido y la posibilidad de una verdad antigua mal traducida. Los Rokhart organizan el conocimiento alrededor de método replicable, observación distribuida y corrección progresiva. Para un Naghii, la Concordia puede parecer demasiado dispuesta a separar conocimiento de reverencia. Para un Rokhart, los Naghii pueden parecer demasiado dispuestos a proteger una interpretación por miedo a no tener otra.
 
-Los Sauri interesan a los Rokhart porque su relación con la fuerza elemental es corporal, arquitectónica y política a la vez. Un soberano Sauri, una cámara sellada o un canal ritual pueden ser fenómeno, símbolo, tecnología y gobierno en la misma forma. Esto los vuelve valiosos para el modelo y peligrosos como vecinos de observación. Los Sauri, por su parte, no siempre toleran bien a quienes toman notas sobre recipientes que ellos consideran sagrados o secretos.
+Los Sauri interesan a los Rokhart porque su relación con la manifestación es corporal, arquitectónica y política a la vez. Un soberano Sauri, una cámara sellada o un canal ritual pueden ser fenómeno, símbolo, tecnología y gobierno en la misma forma. Esto los vuelve valiosos para el modelo y peligrosos como vecinos de observación. Los Sauri, por su parte, no siempre toleran bien a quienes toman notas sobre recipientes que ellos consideran sagrados o secretos.
 
 Los Zarnag producen datos que muchas otras especies preferirían borrar. Los Rokhart valoran su memoria de sitios de muerte, contaminación y cierre incompleto, pero pueden subestimar el costo del trabajo Zarnag. Una observación que para un Rokhart es necesaria puede requerir que otro entre primero en un lugar donde el aire mismo está mal. Los Zarnag suelen detectar más rápido que nadie cuándo un Rokhart quiere conservar un sitio que debería cerrarse.
 
@@ -218,7 +318,21 @@ Los Panin son ruido y revelación. Su presencia altera patrones, interrumpe secu
 
 Los Myo representan una irritación epistemológica particular. Una visión Myo puede saltar por encima de décadas de observación y acertar. También puede ser inverificable, simbólica o peligrosa de interpretar literalmente. Los Rokhart no rechazan la información oracular por principio, pero la someten a una presión metodológica que muchos Myo consideran una forma de ceguera voluntaria.
 
-Los Ceratox persiguen desde la biología lo que los Rokhart persiguen desde el patrón histórico: cómo el entorno, la fuerza elemental y la percepción se modifican mutuamente. Este paralelo raramente se nombra de manera formal. Hay colaboración local, respeto técnico y desconfianza sobre qué parte del fenómeno está mirando cada uno. La pregunta de quién está mirando la parte equivocada sigue sin respuesta.
+Los Ceratox persiguen desde la biología lo que los Rokhart persiguen desde el patrón histórico: cómo el entorno, la manifestación y la percepción se modifican mutuamente. Este paralelo raramente se nombra de manera formal. Hay colaboración local, respeto técnico y desconfianza sobre qué parte del fenómeno está mirando cada uno. La pregunta de quién está mirando la parte equivocada sigue sin respuesta.
+
+Los Arakhel inquietan a los Rokhart porque sus nodos son observatorios involuntarios del tránsito, pero no se comportan como puestos. Una familia Arakhel habita el cruce que un Rokhart querría medir desde afuera. Para la Concordia, un nodo antiguo puede revelar cómo paso, ofrenda, memoria y práctica repetida modifican un lugar durante generaciones. Para los Arakhel, esa mirada puede parecer una forma de no entender que el entre no se conserva como dato sin cambiar de naturaleza.
+
+Los Bufoni son evidencia viva de que territorio, protocolo y presencia local no pueden separarse limpiamente. Un dominio Bufoni activo puede confirmar demasiadas sospechas Rokhart sobre conductores: suelo, linaje, rito, ofrenda, nombre y respuesta acumulada. Pero los Bufoni desconfían de quien quiera comparar dominios como si fueran casos equivalentes. Para ellos, cada dominio responde desde una relación concreta. Para la Concordia, esa concreción es precisamente lo que debe registrarse antes de que se vuelva imposible comparar.
+
+Los Loxod desafían la paciencia Rokhart. Donde la Concordia registra durante generaciones, un Loxod puede recibir capas químicas, vibraciones y memoria de un sitio en minutos u horas. Para un Rokhart, esa recepción es valiosa pero peligrosa si no se documenta con rigor. Para un Loxod, el archivo Rokhart puede parecer una manera lenta de reconstruir lo que un cuerpo atento ya sabe, aunque no siempre pueda probarlo.
+
+Los Ursari interesan por la contaminación del oficio. Una forja puede cambiar a quien trabaja en ella durante años del mismo modo que un puesto cambia a quien observa demasiado tiempo un fenómeno local. Los Rokhart suelen respetar su disciplina material y desconfiar de su confianza en la maestría personal. Los Ursari, a su vez, pueden ver en la Concordia una cultura que sabe registrar el riesgo de exposición, pero no siempre sabe cuándo dejar de mirar.
+
+Los Chelicer son un desafío casi intolerable. Para ellos, la verdad puede revelarse bajo procedimiento correcto. Para los Rokhart, todo procedimiento produce condiciones de observación, y esas condiciones pueden formar parte del resultado. Los Chelicer ven en la duda Rokhart una evasión de la verdad. Los Rokhart ven en la certeza Chelicer una contaminación convertida en institución.
+
+Los Formix ofrecen una pregunta incómoda sobre red, señal y obediencia. La Concordia observa comunidades desde puestos distribuidos y protocolos comunes; los Formix conocen desde el cuerpo lo que significa vivir dentro de una estructura donde señal y función preceden al individuo. Algunos Rokhart estudian comunidades Formix libres con cautela extrema, conscientes de que su propia red puede verse reflejada de maneras que preferirían no registrar.
+
+Los Luphran conservan memoria de ruta y tripulación de formas que la Concordia no puede reducir a informe sin perder algo esencial. Un jarl, una nave viva, una ley oral y una ruta repetida pueden funcionar como conductores sociales de largo plazo. Los Rokhart valoran esa memoria, pero sospechan de su dependencia de autoridad personal. Los Luphran, por su parte, suelen desconfiar de una especie que recuerda mucho y responde poco cuando la tripulación exige acción.
 
 A los Rokhart se les llama neutrales porque no suelen reclamar tronos, templos ni territorios.
 
@@ -230,9 +344,9 @@ Y la Concordia sabe que no siempre la posee.
 
 Un personaje Rokhart sale de su puesto — o nunca entró a uno — y lleva consigo el entrenamiento, que no se borra aunque el contexto desaparezca. La compostura que mantiene es real, y también es, cuando conviene, una herramienta. Sabe distinguir entre las dos cosas, aunque no siempre le guste lo que eso dice de sí mismo.
 
-Lo que lleva: el método, que es una forma de ver antes de ser un conjunto de procedimientos; el patrón, que es demasiado sólido para ignorarlo y demasiado incompleto para usarlo con confianza; y la pregunta de qué significa que la única forma de resolver el modelo central requiere exactamente lo que la metodología nunca le permitió hacer.
+Lo que lleva: el método, que es una forma de ver antes de ser un conjunto de procedimientos; el Patrón, que es demasiado sólido para ignorarlo y demasiado incompleto para usarlo con confianza; y la pregunta de qué significa que la única forma de resolver el modelo central requiere exactamente lo que la metodología nunca le permitió hacer.
 
-Lo que no tiene es la calma que da tener algo firme en ese lugar: el marco que hace que la fuerza elemental sea manejable, parte de un orden que alguien administra. Sabe demasiado para creer lo que la mayoría cree y no lo suficiente para tener algo que poner en su lugar.
+Lo que no tiene es la calma que da tener algo firme en ese lugar: el marco que hace que una manifestación sea manejable, parte de un orden que alguien administra. Sabe demasiado para creer lo que la mayoría cree y no lo suficiente para tener algo que poner en su lugar.
 
 En combate, la estructura es movilidad primero. El pico encuentra el punto correcto y las garras crean la posición para el siguiente movimiento. Un Rokhart en el suelo está en un lugar donde su cuerpo ya no trabaja para él, y lo sabe, y no planea llegar ahí.
 
@@ -242,7 +356,7 @@ Muchos personajes Rokhart están lejos de la Concordia porque algo rompió la re
 
 Un personaje Rokhart puede ser un observador de campo que se involucró demasiado con la comunidad que estudiaba. Un exenlace que sabe cuántas deudas tiene realmente la Concordia con sus anfitriones. Un archivista que encontró informes borrados sobre un puesto desaparecido. Un aprendiz que nunca encajó porque veía el costo humano antes que la pureza del dato. Un investigador que cree que el modelo central debe resolverse aunque eso implique intervenir. O un agente leal que teme descubrir que la Concordia ya cruzó esa línea hace generaciones.
 
-Lo que un Rokhart sabe al salir: cómo observar sin delatar interés, cómo registrar patrones bajo presión, cómo negociar desde aparente neutralidad, cómo leer rutas, alturas, movimientos pequeños y cambios de comportamiento colectivo, y que las creencias de una comunidad pueden ser parte activa de la fuerza elemental que creen estar interpretando.
+Lo que un Rokhart sabe al salir: cómo observar sin delatar interés, cómo registrar patrones bajo presión, cómo negociar desde aparente neutralidad, cómo leer rutas, alturas, movimientos pequeños y cambios de comportamiento colectivo, y que las creencias de una comunidad rara vez se quedan quietas cuando empiezan a mezclarse con la manifestación que intentan nombrar.
 
 Lo que muchos no saben: si la Concordia tiene razón al callar, si la neutralidad que aprendieron fue alguna vez posible, cuántos datos fueron obtenidos por medios que el método no admitiría, y si una verdad que solo puede descubrirse rompiendo el método merece ser descubierta.
 

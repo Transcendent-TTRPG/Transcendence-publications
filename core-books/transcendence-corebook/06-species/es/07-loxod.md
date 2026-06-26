@@ -48,9 +48,13 @@ Es perder esa historia de encima del cuerpo.
 
 En muchas comunidades, los colmillos dañados no se ocultan. Se registran, se interpretan, se integran en la historia corporal del individuo. Un colmillo roto puede hablar de trabajo, accidente, batalla, duelo o decisión. Lo que resulta insoportable no es siempre el daño físico, sino la desaparición de marcas que todavía no habían sido transmitidas al archivo.
 
+Un colmillo es registro antes de ser ornamento.
+
+Tocarlo sin permiso puede ser tan invasivo como abrir un archivo privado. Repararlo puede ser acto médico, memoria familiar y proceso archivístico a la vez. Mutilarlo deliberadamente no es solo violencia corporal. Es borrado.
+
 Los Loxod producen infrasonido. Sin pausa, sin intención, por el solo hecho de existir. Las frecuencias viajan por aire y suelo simultáneamente, y otros Loxod las reciben a través de las plantas de los pies, de la trompa en contacto con superficies y de zonas del cuerpo entrenadas para distinguir vibración de ruido. En una ciudad oscura, saben que hay alguien en el pasillo siguiente antes de doblarlo. Saben desde cierta distancia si otro Loxod está bajo presión emocional intensa o en calma. Pueden reconocer presencia, masa, ritmo, desplazamiento y estado antes de que el sonido llegue al oído de otros.
 
-El canal de comunicación que les dio eso opera en el mismo rango donde ciertas anomalías del entorno alteran la vibración de regreso. Los Loxod no reciben el origen de esa anomalía. Reciben el cambio que dejó en su propio infrasonido al devolverlo.
+El canal de comunicación que les dio eso opera en el mismo rango donde ciertas resonancias del entorno alteran la vibración de regreso. Los Loxod no reciben necesariamente el origen de esa alteración. Reciben el retorno: su propia señal volviendo distinta después de tocar algo que no se comporta como el mundo debería comportarse.
 
 Lo que vive en esas frecuencias los detecta.
 
@@ -66,11 +70,27 @@ Escribir algo, para un Loxod, no es guardar información.
 
 Es terminar de recibirla.
 
-La impresión de un evento intenso — una muerte cercana, un lugar donde algo catastrófico ocurrió, la química densa del miedo ajeno sostenido demasiado tiempo, una vibración anómala en una ruina, una señal que llegó sin emisor identificable — no desaparece cuando uno se aleja del lugar. Sigue resonando en la neurología hasta que se procesa lo suficiente.
+La impresión de un evento intenso — una muerte cercana, un lugar donde algo catastrófico ocurrió, la química densa del miedo ajeno sostenido demasiado tiempo, una vibración alterada en una ruina, una señal que llegó sin emisor identificable — no desaparece cuando uno se aleja del lugar. Sigue resonando en la neurología hasta que se procesa lo suficiente.
 
-El archivo es el proceso.
+Los Loxod llaman recepción al acto de absorber aquello que el mundo deja en química, vibración, textura, olor, ritmo o memoria ambiental. La recepción no siempre es voluntaria. Muchas veces ocurre antes de que puedan decidir si quieren recibir.
 
-Se codifica, se ubica en el sistema, se compara con registros anteriores, se coloca en el lugar correcto y se transmite a quienes pueden sostenerlo sin quebrarse. Entonces el peso de cargarlo sin forma disminuye.
+Llaman carga a lo recibido antes de ser organizado.
+
+La carga puede ser pequeña: el miedo de alguien oculto detrás de una sonrisa, una firma química de enfermedad temprana, una vibración extraña en un muro. También puede ser enorme: una muerte masiva, una cámara antigua, un duelo colectivo, una ruina donde el retorno no llega limpio, un objeto que sigue devolviendo señal mucho después de haber sido tocado.
+
+La carga sin forma pesa.
+
+Por eso existe el archivo.
+
+El archivo no es solo conservación. No es biblioteca, museo ni depósito de memoria. Es el proceso por el cual una recepción se vuelve soportable. Se codifica, se ubica en el sistema, se compara con registros anteriores, se coloca en el lugar correcto y se transmite a quienes pueden sostenerla sin quebrarse.
+
+Entonces el peso de cargarla sin forma disminuye.
+
+Codificar es darle forma segura a lo recibido.
+
+Descargar es reducir la presión interna de la carga mediante archivo, transmisión, rito, escritura, resonancia compartida o acompañamiento colectivo.
+
+Archivar es sobrevivir a lo que se recibió sin dejar que sustituya a quien lo recibió.
 
 Lo que parece desde afuera una cultura obsesionada con la preservación del conocimiento es, desde adentro, la práctica colectiva de no romperse bajo lo que se absorbe.
 
@@ -94,13 +114,19 @@ Es la forma en que la sociedad respira.
 
 ## Teología y Cosmología
 
-Lo que los Loxod saben de estas anomalías lo saben porque las reciben en sus propios sistemas, en condiciones documentadas, replicables, con cambios que se repiten de una generación a otra. Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
+Los Loxod no suelen empezar preguntando qué es una fuerza, de dónde viene o qué nombre verdadero debería recibir.
+
+Empiezan con una pregunta más corporal:
+
+¿cómo volvió la señal?
+
+Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
 
 Contenido que precede a cualquier individuo vivo.
 
 No lo interpretan como milagro.
 
-Lo interpretan como dato.
+Lo tratan como registro.
 
 Eso no significa que lo reciban con frialdad. Una señal que atraviesa el cuerpo antes de ser nombrada no se vuelve menos terrible porque se registre con precisión. Los Loxod han aprendido que llamar dato a algo no lo vuelve seguro. Solo permite decidir qué hacer con él antes de que se convierta en otra cosa.
 
@@ -114,13 +140,23 @@ Tampoco les dice de dónde viene.
 
 Los Loxod no suelen construir teologías expansivas. Desconfían de los sistemas que convierten la recepción en certeza demasiado pronto. Saben lo que se siente recibir algo antes de comprenderlo, y esa experiencia ha vuelto sus comunidades cautelosas frente a cualquier explicación que llegue demasiado completa.
 
-Para los Loxod, lo importante no es el origen último sino el comportamiento. Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen como frecuencias. Otros sugieren que ciertas ruinas no contienen memoria en sentido simbólico, sino presión real: información vibratoria que no buscó nada — pero que el cuerpo Loxod, si está presente, es la arquitectura más receptiva que existe para recibirla.
+Para los Loxod, lo importante no es el origen último sino el comportamiento de lo recibido.
 
-La práctica archivística ha permitido distinguir comportamientos en esas frecuencias. Hay frecuencias estables: registradas a lo largo de generaciones, producen siempre la misma modulación. Se pueden catalogar, comparar, archivar. Son la forma más segura de aquello que ya fue recibido muchas veces sin alterar su patrón.
+Algunos registros sugieren que ciertos eventos no terminan cuando terminan sus participantes. Siguen volviendo. Otros sugieren que hay ruinas donde lo recibido no se comporta como recuerdo, sino como presión: algo que no pidió ser entendido y que, sin embargo, encuentra en el cuerpo Loxod una manera especialmente eficaz de entrar.
 
-Hay otras que no se fijan. Que entre una observación y la siguiente cambiaron de forma de maneras que el análisis no predijo. Que los archivistas con más décadas de práctica describen igual: parecen responder a quien las recibe, en lugar de simplemente llegar. A veces se las trata como variables. A veces como responsivas. Ninguna de esas palabras afirma qué son. Solo permite registrar que no deben tratarse igual que una frecuencia estable.
+La práctica archivística ha permitido distinguir comportamientos en esas frecuencias. Ningún archivista serio los trata como verdades finales del mundo. Son categorías de manejo: formas de decidir cómo recibir, codificar, descargar o aislar.
 
-Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor una distorsión comparable a la que generaron en ellos.
+Hay frecuencias estables: retornos registrados a lo largo de generaciones que producen siempre una modulación comparable. Se pueden catalogar, comparar, archivar. Son la forma más segura de aquello que ya fue recibido muchas veces sin alterar su patrón, aunque ningún archivista serio confunde estable con inocuo.
+
+Hay frecuencias responsivas: retornos que no se fijan. Entre una observación y la siguiente cambian de forma de maneras que el análisis no predijo. Los archivistas con más décadas de práctica las describen igual: parecen responder a quien las recibe, en lugar de simplemente llegar.
+
+En archivos más viejos aparecen con nombres menos técnicos y más honestos: las que devuelven la mirada, las que no terminan de quedarse quietas.
+
+Ninguna de esas palabras pretende resolver qué son.
+
+Solo deja asentado que no deben tratarse igual que una frecuencia estable.
+
+Hay también frecuencias que todavía no pueden codificarse con seguridad. No porque sean falsas, sino porque el cuerpo que las recibe no logra separarlas de sí mismo sin riesgo. Los archivos más cuidadosos no las destruyen ni las transmiten de inmediato. Las aíslan, las rodean de contexto, las asignan a receptores preparados o deciden que nadie debe recibirlas por ahora.
 
 Un conocimiento puede ser verdadero y aun así no ser seguro.
 
@@ -129,6 +165,32 @@ Esa es la frontera teológica Loxod.
 No preguntan solamente qué debe saberse.
 
 Preguntan quién puede recibirlo sin ser cambiado más allá de sí.
+
+Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor una distorsión comparable a la que generaron en ellos.
+
+Los Loxod no suelen hablar de maldición, revelación o corrupción como primeras categorías. Hablan de sobrecarga, distorsión y desplazamiento.
+
+La sobrecarga ocurre cuando lo recibido pesa más de lo que el receptor puede ordenar.
+
+La distorsión ocurre cuando la carga empieza a alterar juicio, sueño, memoria, percepción o lenguaje.
+
+El desplazamiento ocurre cuando lo recibido empieza a ocupar el lugar de lo propio.
+
+Esta última palabra se usa con cuidado.
+
+Decir que un Loxod está desplazado no significa que esté perdido ni condenado. Significa que quienes lo rodean ya no pueden asumir que toda memoria, reacción o certeza que expresa nace de su propia vida. Algo recibido se volvió demasiado presente.
+
+La pregunta más temida entre algunos archivistas viejos no se escribe en los archivos públicos.
+
+¿Y si el archivo no está descargando lo recibido, sino enseñándole a entrar con más precisión?
+
+O peor:
+
+¿y si no preservan memoria, sino que se están volviendo el órgano por el que algo antiguo aprende a recordarse?
+
+Ningún colectivo serio trata esa sospecha como doctrina.
+
+Pero tampoco la olvida.
 
 ## Organización e Identidad Interna
 
@@ -148,7 +210,17 @@ Nadie dramatiza esto.
 
 Se registra, se vigila, se gestiona si hay forma de hacerlo.
 
-Las comunidades Loxod reconocen varios roles sin convertirlos siempre en castas fijas. Están quienes reciben primero: individuos con capacidad probada para entrar en sitios cargados y no perder forma. Están quienes codifican: organizan impresiones, señales, relatos químicos, mapas de resonancia y registros históricos. Están quienes descargan: acompañan a otros en el proceso de separar lo recibido de lo propio. Están quienes preservan: mantienen los archivos físicos, acústicos y químicos donde la memoria colectiva puede existir sin estar dentro de un solo cuerpo.
+Las comunidades Loxod reconocen varios roles sin convertirlos siempre en castas fijas.
+
+Están quienes reciben primero: individuos con capacidad probada para entrar en sitios cargados y no perder forma.
+
+Están quienes codifican: organizan impresiones, señales, relatos químicos, mapas de resonancia y registros históricos.
+
+Están quienes descargan: acompañan a otros en el proceso de separar lo recibido de lo propio.
+
+Están quienes preservan: mantienen los archivos físicos, acústicos y químicos donde la memoria colectiva puede existir sin estar dentro de un solo cuerpo.
+
+Están quienes traducen: vuelven transmisible una carga sin convertirla en daño. No toda traducción es entre lenguas. A veces traducir significa quitar suficiente intensidad para que otro pueda recibir sin quebrarse. A veces significa negarse a transmitir.
 
 La autoridad aumenta con la carga procesada, pero también disminuye si alguien deja de poder distinguir su experiencia de lo recibido. Un anciano respetado puede ser apartado de ciertas decisiones no por debilidad, sino porque sabe demasiado de una forma que ya no se puede separar limpiamente. Esto se vive con dolor, pero no necesariamente con vergüenza.
 
@@ -162,9 +234,21 @@ Convertir la capacidad de percibir en dominio sobre quienes no pueden ocultarse.
 
 Los Loxod tienen leyes y tabúes alrededor de eso. No siempre se cumplen. Pero existen porque todos saben lo fácil que sería dañar con solo decir lo que se percibió.
 
+También tienen tabúes sobre el archivo.
+
+No toda carga debe preservarse intacta.
+
+No toda frecuencia debe reproducirse.
+
+No toda verdad debe llegar con la intensidad original.
+
+No todo registro incompleto debe completarse si completarlo exige romper al receptor.
+
+Para otras especies, esto puede parecer censura o pérdida. Para los Loxod, es ética básica de transmisión. Una verdad que destruye al cuerpo que la recibe no se vuelve más verdadera por haber llegado entera.
+
 ## Vida Cotidiana
 
-Las primeras décadas de un Loxod son el período en que aprende a no ser destruido por lo que recibe. No aprende a no recibir. Eso no cambia. Aprende la práctica de la recepción organizada: cómo entrar a un espacio con carga química intensa y catalogar en lugar de absorber sin forma; cómo reconocer el miedo ajeno sin volverlo propio; cómo sentir una vibración anómala sin seguirla de inmediato; cómo escribir antes de interpretar.
+Las primeras décadas de un Loxod son el período en que aprende a no ser destruido por lo que recibe. No aprende a no recibir. Eso no cambia. Aprende la práctica de la recepción organizada: cómo entrar a un espacio con carga química intensa y catalogar en lugar de absorber sin forma; cómo reconocer el miedo ajeno sin volverlo propio; cómo sentir una vibración alterada sin seguirla de inmediato; cómo escribir antes de interpretar.
 
 Los mayores que trabajan con los jóvenes hacen lo más invisible de la educación Loxod: enseñar que hay una diferencia entre recibir algo y dejar que te cambie sin consentimiento.
 
@@ -175,6 +259,12 @@ Los Loxod sí, desde temprano, como fundamento de todo lo demás.
 La madurez no tiene fecha fija. Llega cuando alguien absorbió algo que podría haberlo quebrado y no lo quebró; cuando lo procesó, lo registró, lo transmitió de manera segura y siguió siendo reconocible para quienes lo conocían antes. Algunos llegan ahí a los cuarenta años. Hay quienes no llegan hasta los cien. No hay vergüenza en el camino más largo, solo más tiempo antes de acceder a lo que el archivo guarda con mayor peso.
 
 Un día ordinario en una comunidad Loxod suele comenzar con revisión de estado antes que con tarea. No basta saber quién está presente. Se necesita saber qué está cargando cada uno. Las cámaras se ventilan. Los corredores de resonancia se inspeccionan. Los jóvenes practican identificación química con materiales seguros. Los archivistas revisan codificaciones recientes. Quienes vienen de zonas cargadas no entran directamente a espacios comunes: pasan primero por salas de descarga, no por desconfianza, sino para evitar que lo recibido se derrame sobre otros sin forma.
+
+La lengua Loxian opera en capas que muchas especies no perciben por completo. Una frase puede tener contenido audible y presión infrasonora, y esa presión no es adorno emocional. Puede indicar intensidad, límite, cuidado, advertencia, duelo, autoridad o la cantidad de carga que acompaña a lo dicho.
+
+Traducir Loxian a una lengua sin infrasonido conserva el texto y pierde la presión con que debía recibirse.
+
+Por eso los Loxod son cautelosos con ciertos registros traducidos. Algunas cosas no solo significan. Deben llegar con la vibración correcta para no deformar lo que transmiten.
 
 La comida es abundante, lenta y social, pero no siempre ruidosa. Comer juntos permite verificar estados sin interrogatorio directo. La proximidad dice cosas. El ritmo de respiración dice cosas. La firma química de alguien que no ha dormido, que oculta angustia o que volvió de un lugar demasiado cargado no necesita convertirse en acusación para ser atendida.
 
@@ -206,19 +296,29 @@ Los Naghii respetan los archivos Loxod, pero no siempre entienden su naturaleza.
 
 Los Sauri comparten con los Loxod la idea de que ciertas fuerzas deben ser contenidas por estructura, cuerpo y espacio. Sin embargo, los Loxod suelen desconfiar de la disposición Sauri a preservar cuerpos, soberanos o cámaras cargadas durante demasiado tiempo. Para un Sauri, contener puede ser victoria. Para un Loxod, contener sin descarga puede ser solo una forma lenta de contaminación.
 
-Los Zarnag trabajan con lo que queda después de la muerte; los Loxod reciben lo que la muerte deja en el aire. Esto puede producir una cooperación profunda en sitios de desastre. El Zarnag sabe qué debe cerrarse en tierra, carne, agua y resto. El Loxod sabe qué sigue resonando en quienes entran. También puede producir tensión: los Zarnag desconfían de cualquier pueblo que escuche demasiado a los muertos sin ensuciarse las manos, y los Loxod temen que la costumbre Zarnag de resistir el horror normalice cargas que deberían procesarse.
+Los Zarnag trabajan con lo que queda después de la muerte; los Loxod reciben lo que la muerte deja en el aire. Esto puede producir una cooperación profunda en sitios de desastre. El Zarnag sabe qué debe cerrarse en tierra, carne, agua y Resto. El Loxod sabe qué sigue resonando en quienes entran. También puede producir tensión: los Zarnag desconfían de cualquier pueblo que escuche demasiado a los muertos sin ensuciarse las manos, y los Loxod temen que la costumbre Zarnag de resistir el horror normalice cargas que deberían procesarse.
 
 Los Drak'kai atraen la cautela Loxod por sus colecciones. Un objeto cargado durante décadas puede haber acumulado impresiones que su dueño no percibe por completo. Los Drak'kai valoran el hallazgo, la ruta y la permanencia. Los Loxod preguntan qué está resonando dentro del objeto y qué hará cuando alguien lo reciba sin preparación.
 
 Los Rokhart producen una relación intelectual compleja. La Concordia observa, registra y evita intervenir. Los Loxod registran porque no registrar puede destruir al receptor. Ambos valoran método, pero el origen emocional del archivo es distinto. Un Rokhart puede considerar que un Loxod está demasiado cerca del dato. Un Loxod puede responder que algunos datos solo existen porque alguien estuvo dispuesto a recibirlos en el cuerpo.
 
-Los Formix plantean a los Loxod una pregunta difícil sobre agencia. La química de obediencia residual, la señal de Reina y las marcas corporales de función llegan al cuerpo Loxod como información intensa. Los Formix libres pueden sentirse invadidos por una especie que percibe demasiado de aquello que intentan separar de sí mismos. Las comunidades Loxod más cuidadosas tratan a los Formix con protocolos estrictos de consentimiento perceptivo.
+Los Formix plantean a los Loxod una pregunta difícil sobre agencia. La química de obediencia residual, la Señal de Reina y las marcas corporales de función llegan al cuerpo Loxod como información intensa. Los Formix libres pueden sentirse invadidos por una especie que percibe demasiado de aquello que intentan separar de sí mismos. Las comunidades Loxod más cuidadosas tratan a los Formix con protocolos estrictos de consentimiento perceptivo.
 
 Los Panin son casi lo contrario de los Loxod en la experiencia del tiempo. Donde los Loxod cargan impresiones durante décadas, los Panin viven en la señal presente. Esa diferencia puede producir frustración, pero también alivio. Un Panin puede entrar en una situación cargada y actuar antes de quedar atrapado por el peso histórico. Un Loxod puede impedir que esa acción ignore lo que el lugar todavía está diciendo.
 
 Los Myo son escuchados con atención y miedo. Sus oráculos pueden nombrar patrones que los Loxod han sentido durante años sin poder convertir en lenguaje seguro. Pero los Loxod desconfían de toda transmisión que llegue sin el proceso de descarga adecuado. Una verdad oracular puede ser correcta. También puede ser insoportable para quien la recibe sin estructura.
 
 Los Ceratox comparten la experiencia de vivir con un cuerpo que procesa el entorno constantemente. La diferencia está en el tipo de señal y en su manejo social. Los Ceratox calibran. Los Loxod codifican y descargan. Ambos pueden entender el costo de no poder cerrar del todo la percepción.
+
+Los Arakhel habitan cruces donde memoria, paso, ofrenda y tránsito se acumulan sin volverse archivo en sentido Loxod. Para un Loxod, un nodo Arakhel puede resonar con demasiadas capas a la vez: quién cruzó, quién prometió, quién volvió, quién no pudo volver. Los Arakhel suelen recordarles que no todo lo que un lugar guarda debe descargarse en un cuerpo. Los Loxod suelen responder que no todo lo que un lugar guarda sabe cuándo dejar de hablar.
+
+Los Bufoni trabajan con dominios que reconocen, responden y recuerdan de forma territorial. Para los Loxod, eso puede parecer una forma de archivo vivo distribuido en suelo, agua, ofrenda y costumbre. Para los Bufoni, la mirada Loxod puede ser peligrosa si intenta recibir demasiado de un dominio sin pertenecer a su protocolo. Ambos entienden que un lugar puede cargar memoria. Discrepan sobre quién tiene derecho a recibirla.
+
+Los Ursari entienden el cuerpo transformado por oficio prolongado. Una forja, como un archivo Loxod, puede ser un lugar donde materia, memoria y trabajo dejan marca. Los Loxod respetan a los Ursari que saben cuándo una obra pesa demasiado sobre el artesano. Desconfían de los que llaman maestría a lo que quizá ya es distorsión. Los Ursari, por su parte, pueden considerar que los Loxod codifican demasiado lo que a veces debe resolverse golpeando, fundiendo o transformando.
+
+Los Chelicer producen una tensión ética clara. Para un Chelicer, ciertas verdades se revelan bajo prueba, riesgo y procedimiento. Para un Loxod, una verdad revelada sin cuidado puede desplazar al receptor que la recibe. Los Chelicer preguntan si alguien está dispuesto a soportar el veredicto. Los Loxod preguntan si ese cuerpo seguirá siendo suyo después.
+
+Los Luphran conservan memoria en tripulación, ruta, jarl, canto y nave viva. Eso interesa a los Loxod porque no toda memoria Luphran está escrita ni aislada en archivo; vive en coordinación, lealtad y repetición compartida. Un Loxod puede sentir la resonancia de una tripulación antes de entender su historia. Un Luphran puede desconfiar de alguien que recibe demasiado de la nave o de los muertos sin haber jurado lealtad a bordo.
 
 Para muchas especies, los Loxod son memoria, paciencia y juicio.
 
@@ -234,7 +334,7 @@ Y el juicio no debería pertenecer a quien recibió más de lo que podía cargar
 
 El Loxod que viaja fuera de su colectivo está haciendo algo que su biología no optimizó para funcionar solo.
 
-La estructura que distribuía la carga ya no está. Lo que absorbe — cada lugar con historia química, cada muerte en el radio cercano, cada criatura con estados emocionales intensos, cada ruina con vibración anómala, cada señal que responde al infrasonido de su propio cuerpo — se acumula sin la transmisión que antes lo organizaba.
+La estructura que distribuía la carga ya no está. Lo que absorbe — cada lugar con historia química, cada muerte en el radio cercano, cada criatura con estados emocionales intensos, cada ruina con vibración alterada, cada señal que responde al infrasonido de su propio cuerpo — se acumula sin la transmisión que antes lo organizaba.
 
 El margen entre funcionar bien y desplazarse gradualmente está disponible como tensión en el fondo de cada sesión, sin tener que nombrarse.
 

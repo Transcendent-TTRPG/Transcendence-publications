@@ -28,13 +28,23 @@ Para que cuando llegue, quien lo recibe pueda distinguirlo de todos los que vini
 
 Y actuar en consecuencia.
 
+La señal es honesta.
+
+El significado es peligroso.
+
 ## El Cuerpo
 
 El cuerno es lo primero que otros ven: crece desde el puente nasal, continúa a través de la estructura frontal del cráneo y no se detiene. Un Ceratox adulto lleva décadas de densificación sobre la cara. No es un arma primariamente, aunque puede partir hueso, madera o piedra mal asentada cuando el cuerpo entero se mueve detrás de él.
 
 Es un órgano sensorial.
 
-Está hecho de material biológico que responde a las firmas físicas del entorno: densidad y alteración en la materia, variaciones de presión y temperatura, cambios en la estructura química del espacio, tensiones acumuladas en ciertos materiales, saturaciones que preceden o acompañan cambios que el entorno no debería sostener por sí solo. Vivo, constante, sin apagado.
+Los Ceratox discuten poco de qué está hecho exactamente el cuerno y mucho de cómo responde. Responde a las firmas físicas del entorno: densidad y alteración en la materia, variaciones de presión y temperatura, cambios en la estructura química del espacio, tensiones acumuladas en ciertos materiales, saturaciones que preceden o acompañan cambios que el entorno no debería sostener por sí solo.
+
+Vivo.
+
+Constante.
+
+Sin apagado.
 
 Un Ceratox no decide sentir una señal.
 
@@ -50,11 +60,21 @@ Hay cuerpos que entran en una habitación.
 
 El Ceratox cambia la habitación al entrar.
 
-Son solitarios por instinto y territoriales de principio a fin. Esto no significa que carezcan de vínculo. Significa que la mayor parte de su vida social ocurre alrededor de una excepción: el vínculo de calibración, una relación específica e intensa que un Ceratox puede formar una o dos veces en décadas. La diferencia entre tenerlo y no tenerlo no es simplemente emocional.
+Son solitarios por instinto y territoriales de principio a fin. Esto no significa que carezcan de vínculo. Significa que la mayor parte de su vida social ocurre alrededor de una excepción: el vínculo de calibración, una relación específica e intensa que un Ceratox puede formar una o dos veces en décadas.
+
+La diferencia entre tenerlo y no tenerlo no es simplemente emocional.
 
 Es funcional.
 
 El cuerno lee mejor cuando hay alguien con quien comparar.
+
+El cuerpo Ceratox no fue hecho para dudar de sí mismo con facilidad. Esa es parte de su fuerza y parte de su peligro. Una señal intensa puede mover antes de que exista lenguaje. Un umbral superado puede volver el mundo estrecho: allí, eso, ahora. El peso avanza. El cuerno apuntó. El cuerpo ya entendió dirección.
+
+La cultura existe para introducir una pausa en ese impulso.
+
+No para apagarlo.
+
+Para calibrarlo.
 
 ## La Cultura
 
@@ -63,6 +83,14 @@ Un Ceratox no vive en un asentamiento.
 Vive en un territorio y usa el asentamiento.
 
 La distinción importa. El territorio es donde el cuerno trabaja: una extensión geográfica monitoreada durante años, a veces durante décadas, cuya línea base conocen con suficiente profundidad como para reconocer cuando algo cambia. El asentamiento es donde se reaprovisionan, donde descansan de la saturación de señal que un entorno mixto produce de manera continua, donde intercambian lo que han acumulado por lo que necesitan y donde toleran, por necesidad, el ruido de otros cuerpos.
+
+La línea base es el corazón de la vida Ceratox.
+
+No es mapa. No es frontera. No es propiedad. Es el comportamiento conocido de un territorio después de años de registro: cómo cambia el aire antes de una tormenta común, qué calor pertenece a la piedra al mediodía, qué presión produce el paso de caravanas, qué ruido deja una concentración normal de cuerpos, qué materiales reaccionan en estaciones húmedas, qué zonas siempre han tenido saturación baja y cuáles nunca fueron verdaderamente silenciosas.
+
+Sin línea base, la señal queda desnuda.
+
+Y una señal desnuda puede ser cierta sin ser útil.
 
 La mayoría de los asentamientos mixtos resulta agotadora para un Ceratox en un sentido muy específico: el cuerno no discrimina fuentes de manera limpia. Lo que produce la biología de otras especies, lo que llevan encima, los materiales que manipulan, los alimentos que cocinan, las sustancias que almacenan, los temblores de maquinaria, la concentración de cuerpos, el metal, la sangre, el miedo, el calor, la piedra, las anomalías acumuladas: todo llega.
 
@@ -74,7 +102,13 @@ El territorio llama más que el asentamiento.
 
 Pero el asentamiento no puede evitarse.
 
-Lo más valioso que produce un Ceratox es el registro de calibración: el historial acumulado de qué hizo reaccionar el cuerno, cuándo, con qué calidad de señal, durante cuánto tiempo y qué siguió a continuación. No es información abstracta. Es el recurso que permite a un asentamiento planificar qué rutas están activas en este momento, qué zonas llevan semanas en silencio, qué corredor mostró cambio de carácter la semana pasada, qué paso no debe usarse aunque parezca estable y qué lugar dejó de comportarse como lo hacía durante años.
+Las comunidades Ceratox han desarrollado prácticas que otras especies suelen interpretar como rudeza, austeridad o manía. Espacios de baja saturación. Patios sin metal. Horarios reducidos de mercado. Rutas de entrada y salida que evitan talleres, cocinas densas o depósitos de sustancias. Días de silencio territorial después de periodos urbanos. Protocolos para visitantes que cargan objetos raros, piezas inestables o materiales con firmas demasiado fuertes.
+
+No siempre es desconfianza.
+
+A veces es higiene sensorial.
+
+Si un Ceratox produce algo que los demás realmente no pueden reemplazar, es el registro de calibración: el historial acumulado de qué hizo reaccionar el cuerno, cuándo, con qué calidad de señal, durante cuánto tiempo, bajo qué condiciones y qué siguió a continuación. No es información abstracta. Es el recurso que permite a un asentamiento planificar qué rutas están activas en este momento, qué zonas llevan semanas en silencio, qué corredor mostró cambio de carácter la semana pasada, qué paso no debe usarse aunque parezca estable y qué lugar dejó de comportarse como lo hacía durante años.
 
 Ninguna otra especie puede producir ese tipo de datos con esa fidelidad.
 
@@ -84,7 +118,21 @@ Los Ceratox no comercian solo datos.
 
 Comercian consecuencias.
 
-Una ruta declarada segura puede mover caravanas, ejércitos, refugiados o mercancía. Una ruta declarada inestable puede hundir una economía local. Una advertencia mal dada puede vaciar un asentamiento. Una advertencia retenida puede matar viajeros. Por eso la cultura Ceratox no valora la intuición como impulso, sino como señal sometida a disciplina.
+Una ruta declarada segura puede mover caravanas, ejércitos, refugiados o mercancía. Una ruta declarada inestable puede hundir una economía local. Una advertencia mal dada puede vaciar un asentamiento. Una advertencia retenida puede matar viajeros.
+
+Una ciudad rica puede pagar por advertencias tempranas.
+
+Una comunidad pobre puede morir sin ellas.
+
+Un ejército puede usar una ruta segura para atacar.
+
+Un grupo de refugiados puede quedar atrapado porque una ruta fue declarada inestable en beneficio de quienes controlan otro paso.
+
+Por eso la cultura Ceratox no valora la intuición como impulso, sino como señal sometida a disciplina. La información de zona no pertenece moralmente al primero que pueda pagarla, aunque a veces ese primero sea el único que permite sostener el circuito territorial. Ninguna tradición Ceratox ha resuelto esa contradicción de forma limpia.
+
+Tienen registros.
+
+Y la responsabilidad de no fingir que los registros deciden por ellos.
 
 La transmisión del método de calibración de un Ceratox a otro no es doctrinal. Nadie dice qué significa una señal. Lo que se pasa es la disciplina de notar cuándo el registro personal se corresponde con lo que sigue y cuándo no, y el trabajo de mantenerse honesto frente a esa diferencia.
 
@@ -128,13 +176,37 @@ Con quienes resisten la interpretación, el acuerdo suele ser tácito y no neces
 
 Busca calibración suficiente para no actuar sobre una mentira del cuerpo.
 
-Las tradiciones Ceratox distinguen, además, entre señal, saturación, ruido y acoplamiento. La señal es la alteración honesta. La saturación es cuando esa alteración ya se acumuló en una zona o la volvió difícil de atravesar sin consecuencias. El ruido es la mezcla de fuentes que vuelve confusa la lectura. El acoplamiento es el punto más peligroso: cuando el lector empieza a cambiar con la señal que recibe.
+Las tradiciones Ceratox distinguen entre señal, umbral, saturación, ruido, desviación, divergencia y acoplamiento.
+
+Son palabras de trabajo, no una promesa de haber entendido el fenómeno.
+
+La señal es la alteración honesta.
+
+El umbral es el punto donde una señal deja de ser fondo y exige respuesta.
+
+La saturación es cuando esa alteración ya se acumuló en una zona o la volvió difícil de atravesar sin consecuencias.
+
+El ruido es la mezcla de fuentes que vuelve confusa la lectura.
+
+La desviación es la diferencia entre la lectura actual y la línea base.
+
+La divergencia es la diferencia entre dos lecturas Ceratox que deberían coincidir y no coinciden.
+
+El acoplamiento es el punto más peligroso: cuando el lector empieza a cambiar con la señal que recibe.
 
 No todo acoplamiento se trata como deterioro inmediato.
 
 Hay aperturas que, en un Ceratox, pueden parecer confirmación: la vista, el oído, el tacto, el olfato o el gusto empiezan a registrar más del mismo fenómeno que el cuerno ya había marcado como anómalo. El problema es que esa lectura adicional no es compartible con la misma confianza. Puede afinar la percepción privada del lector. También puede volverlo incapaz de distinguir entre una señal real, un exceso de ruido y una mentira generada por su propio cuerpo.
 
-La pregunta que el principio no puede responder es la que ningún registro resuelve con certeza: si la señal está cambiando de carácter — más activa, más frecuente, más densa, de calidad diferente — eso puede ser información sobre el mundo.
+Por eso algunas comunidades hablan también de desajuste y deriva.
+
+El desajuste aparece cuando la lectura empieza a no coincidir con la línea base ni con la consecuencia posterior. Puede ser error, cansancio, ruido, territorio cambiante o inicio de algo peor.
+
+La deriva aparece cuando el patrón de lectura del Ceratox cambia con el tiempo. El umbral se adelanta. La reacción tarda demasiado. Lo que antes era ruido empieza a sentirse como señal. Lo que antes era señal ahora parece fondo. El mundo no necesariamente cambió.
+
+Quizá cambió el lector.
+
+La pregunta que ningún registro resuelve con certeza es esa: si la señal está cambiando de carácter — más activa, más frecuente, más densa, de calidad diferente — puede ser información sobre el mundo.
 
 O puede ser información sobre el cuerno.
 
@@ -176,7 +248,13 @@ A veces cambió uno de los Ceratox.
 
 A veces cambió el vínculo entre ambos, y eso es lo más difícil de admitir.
 
-El vínculo de calibración puede parecer frío desde fuera: dos individuos que comparan registros, repiten rutas, discuten calidad de señal, se corrigen con una severidad que otras especies encontrarían poco afectiva. Desde dentro, es una intimidad profunda. Permitir que otro Ceratox cuestione tu señal es permitirle tocar el lugar donde más fácilmente puedes mentirte.
+El vínculo de calibración puede parecer frío desde fuera: dos individuos que comparan registros, repiten rutas, discuten calidad de señal, se corrigen con una severidad que otras especies encontrarían poco afectiva. Desde dentro, es una intimidad profunda.
+
+Permitir que otro Ceratox cuestione tu señal es permitirle tocar el lugar donde más fácilmente puedes mentirte.
+
+Un vínculo de calibración no siempre es romance, familia o pacto ceremonial. Puede contener cualquiera de esas cosas, pero no depende de ellas. Su centro es otro: alguien con derecho a decirte que tal vez tu cuerpo está mintiendo.
+
+Por eso romper un vínculo puede doler más que perder un asentamiento. Un Ceratox sin vínculo no está simplemente solo. Está sin espejo confiable.
 
 Las fracturas internas no son de doctrina. Son de criterio: qué hacer cuando el registro de alguien empieza a desviarse de lo que sus pares reportan; si esa desviación es el mundo o es la persona; cuándo una anomalía sostenida deja de ser dato para convertirse en deterioro; quién tiene derecho a declarar que un Ceratox ya no debe vender información sobre una ruta; y qué se le debe a alguien cuya vida entera fue confiable hasta que dejó de serlo.
 
@@ -202,7 +280,7 @@ Por eso muchos registros Ceratox parecen obsesivos para otras especies. No son d
 
 Los Ceratox jóvenes aprenden una sola cosa antes que cualquier otra: la diferencia entre cómo siente el cuerno cuando la señal es ruido de fondo y cómo siente cuando algo real está ahí. Esta distinción nunca se enseña de manera abstracta. Se enseña en campo, en territorio monitoreado, con alguien que lleva suficiente registro para poder decir: el cuerno acaba de reportar algo. ¿Qué fue? No el nombre. La calidad. ¿Lo reconoces?
 
-La educación Ceratox castiga poco el miedo y mucho la invención. Un aprendiz puede admitir que no sabe, que sintió demasiado, que confundió calor con presión, que el ruido de un asentamiento lo sobrepasó. Eso se corrige. Lo que no se tolera es inventar significado para parecer seguro.
+La educación Ceratox castiga poco el miedo y mucho la invención. Un aprendiz puede admitir que no sabe, que sintió demasiado, que confundió calor con presión, que el ruido de un asentamiento lo sobrepasó. Eso se corrige. Lo que no se tolera es redondear una lectura incompleta hasta volverla certeza.
 
 Nada destruye más rápido la confianza que una señal adornada.
 
@@ -211,6 +289,12 @@ En asentamientos, los Ceratox desarrollan rutinas para sobrevivir al ruido: espa
 No siempre lo es.
 
 A veces es higiene sensorial.
+
+Los vínculos de calibración atraviesan la vida diaria de maneras pequeñas. Dos Ceratox pueden caminar el mismo borde durante años sin decir casi nada y, aun así, sostener una conversación completa en pausas, repeticiones, gestos de cuerno, puntos donde uno se detiene y el otro no. Una corrección pública puede ser afecto. Un desacuerdo sobre señal puede ser cuidado. Una ruta repetida en silencio puede ser la forma más profunda de compañía.
+
+La vida social Ceratox parece escasa para otras especies porque pocas relaciones sobreviven al nivel de honestidad que exige comparar señal.
+
+Las que sobreviven pesan.
 
 Envejecer bien entre los Ceratox es, principalmente, no haber perdido la precisión. Los más respetados no son quienes han estado en más zonas ni quienes tienen el registro más extenso. Son quienes llevan décadas de registro que se corresponde con lo que sigue.
 
@@ -250,7 +334,7 @@ Los Naghii pueden valorar la precisión Ceratox, pero suelen frustrarse ante su 
 
 Los Sauri entienden la importancia de territorio, estructura y umbral. Pero donde los Sauri buscan construir recipientes, canales y formas de contención, los Ceratox preguntan primero si la señal realmente indica contención necesaria o si el marco ritual llegó antes que el dato. Los Sauri pueden ver esa cautela como falta de decisión. Los Ceratox pueden ver la seguridad Sauri como interpretación vestida de arquitectura.
 
-Los Zarnag comparten con los Ceratox una relación práctica con sitios que otros prefieren evitar. Un Zarnag puede saber qué ocurrió con los restos; un Ceratox puede saber si el territorio sigue comportándose como antes de esos restos. Trabajan bien cuando ambos respetan sus límites. La fricción aparece cuando el Zarnag quiere cerrar un sitio y el Ceratox insiste en seguir calibrándolo, o cuando el Ceratox quiere registrar una anomalía que el Zarnag reconoce como riesgo inmediato.
+Los Zarnag comparten con los Ceratox una relación práctica con sitios que otros prefieren evitar. Un Zarnag puede saber qué ocurrió con los Restos; un Ceratox puede saber si el territorio sigue comportándose como antes de esos Restos. Trabajan bien cuando ambos respetan sus límites. La fricción aparece cuando el Zarnag quiere cerrar un sitio y el Ceratox insiste en seguir calibrándolo, o cuando el Ceratox quiere registrar una anomalía que el Zarnag reconoce como riesgo inmediato.
 
 Los Drak'kai son útiles y peligrosos. Sus rutas largas, colecciones y objetos acumulados pueden contener datos que el Ceratox no tiene. Pero un Drak'kai cargado de reliquias o materiales extraños también puede convertir cualquier lectura de zona en ruido móvil. Un Ceratox puede desconfiar profundamente de alguien que lleva consigo tantas fuentes sin poder separarlas del entorno.
 
@@ -261,6 +345,16 @@ Los Formix generan ruido químico y social a la vez. Sus señales corporales, re
 Los Panin son difíciles de calibrar. Cambian rutas, reaccionan a estímulos presentes, tocan lo que modifica el entorno y se mueven de maneras que pueden producir datos útiles o arruinar semanas de lectura. Algunos Ceratox los evitan. Otros reconocen que un Panin puede revelar, por accidente, qué parte de una zona estaba esperando una perturbación mínima para mostrar su verdadera respuesta.
 
 Los Myo plantean el problema inverso de los Ceratox. Donde el Ceratox tiene señal sin significado, el Myo puede traer significado sin señal verificable. Esa diferencia produce irritación, fascinación y discusiones interminables. Un Ceratox puede respetar una visión Myo solo después de que el territorio la confirme. Un Myo puede responder que esperar confirmación es a veces llegar tarde.
+
+Los Arakhel interesan y frustran a los Ceratox porque sus nodos son territorios de tránsito donde demasiadas líneas base se superponen. Un cruce habitado durante generaciones puede tener patrones consistentes, pero esos patrones dependen de paso, ofrenda, memoria y relación, no solo de material, clima o presión. Para un Arakhel, el nodo tiene historia y vínculo. Para un Ceratox, tiene señales que deben separarse antes de nombrarse. Ambos pueden cuidar un lugar. No siempre están de acuerdo sobre qué significa cuidarlo.
+
+Los Bufoni producen la discusión territorial más difícil. Un dominio Bufoni responde, reconoce, exige protocolo y puede cambiar cuando la relación con su kunitsukami se altera. Para un Ceratox, eso es un territorio con comportamiento de señal complejo, quizá responsivo, pero no necesariamente con voluntad demostrada. Para un Bufoni, esa cautela puede ser una falta de respeto. El Ceratox pregunta qué cambió y cuándo. El Bufoni pregunta quién fue reconocido y quién no.
+
+Los Ursari suelen trabajar con materiales y forjas que alteran señal de maneras persistentes. Una forja antigua puede convertirse, para un Ceratox, en zona de saturación controlada: calor, metal, memoria de impacto, restos de trabajo y transformaciones repetidas durante años. Los Ursari pueden considerar que el Ceratox ve ruido donde hay oficio. Los Ceratox pueden responder que un oficio sostenido también deja línea base, y que esa línea base puede desviarse.
+
+Los Chelicer chocan con los Ceratox alrededor del veredicto. Para un Chelicer, una prueba bien construida puede revelar verdad. Para un Ceratox, una prueba también puede producir condiciones de señal que parecen más claras de lo que son. El Chelicer quiere saber qué declara el procedimiento. El Ceratox quiere saber si la señal que apareció durante la prueba se repetirá fuera de ella. Ambos desconfían de la interpretación floja. Discrepan sobre cuándo una lectura está lista para convertirse en juicio.
+
+Los Luphran complican la idea de territorio porque llevan su mundo en ruta, tripulación y nave viva. Para un Ceratox, una nave viva puede ser territorio móvil, fuente de señal, ruido biológico y línea base cambiante al mismo tiempo. Un Luphran puede confiar en lo que la nave siente. Un Ceratox puede preguntar si esa sensación se ha calibrado contra algo fuera de la tripulación. Esa pregunta rara vez cae bien, aunque a veces salva vidas.
 
 Con quienes trabajan zonas de alta saturación por razones propias hay un entendimiento que no requiere mucha negociación. Los Ceratox tienen los datos. Los que trabajan esas zonas los necesitan. La relación funciona mientras ambos lados mantengan claro qué es lo que cada uno ofrece y qué espera recibir.
 
@@ -276,7 +370,7 @@ Lo que no funciona igual es la interpretación.
 
 El contexto que hacía legibles las señales ya no está, y cada nueva zona empieza sin línea base.
 
-Lo que trae a un grupo es una combinación específica. Registra pasiva e involuntariamente el estado de cualquier zona que atraviesa, incluso sin haberla estudiado antes. No como conocimiento completo, sino como dato bruto que todavía no tiene marco. El cuerno reporta que algo está activo en el corredor que están por cruzar. No reporta qué, ni si es inmediatamente peligroso, ni de dónde viene, ni si alguien lo puso allí con intención.
+Lo que trae a un grupo es una combinación específica. Registra pasiva e involuntariamente el estado de cualquier zona que atraviesa, incluso sin haberla estudiado antes. No como conocimiento completo, sino como una advertencia todavía sin contexto. El cuerno reporta que algo está activo en el corredor que están por cruzar. No reporta qué, ni si es inmediatamente peligroso, ni de dónde viene, ni si alguien lo puso allí con intención.
 
 Lo que el grupo hace con ese dato depende del grupo.
 
@@ -290,7 +384,7 @@ Hace que el espacio entienda hacia dónde va.
 
 Muchos personajes Ceratox están lejos de su territorio porque algo volvió ilegible su línea base. Algunos fueron enviados para comparar señales con otras regiones. Algunos perdieron su vínculo de calibración y no soportan seguir leyendo solos el mismo lugar. Algunos vendieron información a la facción equivocada y ahora cargan las consecuencias. Algunos descubrieron que su cuerno reportaba cambios que nadie más podía confirmar. Otros simplemente dejaron el territorio porque necesitaban saber si la señal que los inquietaba era local o si el mundo entero estaba empezando a cambiar.
 
-Un personaje Ceratox puede ser un monitor de ruta que abandonó un corredor antes de admitir que ya no confiaba en su registro. Un aprendiz cuyo mentor lo acusa de inventar significado donde solo había señal. Un veterano que sabe que cierta ciudad se construyó sobre una anomalía lenta y que nadie pagará por escuchar la advertencia. Un comerciante de inteligencia de zonas que decidió dejar de vender datos a quienes los usan para cerrar rutas a los débiles. Un Ceratox vinculado a otro que empezó a reportar señales imposibles. O alguien que teme que la divergencia no esté en el territorio, sino en sí mismo.
+Un personaje Ceratox puede ser un monitor de ruta que abandonó un corredor antes de admitir que ya no confiaba en su registro. Un aprendiz cuyo mentor lo acusa de inventar significado donde solo había señal. Un veterano que sabe que cierta ciudad se construyó sobre una anomalía lenta y que nadie pagará por escuchar la advertencia. Un comerciante de inteligencia de zonas que decidió dejar de vender datos a quienes los usan para cerrar rutas a los débiles. Un Ceratox cuyo vínculo de calibración empezó a reportar señales imposibles. O alguien que teme que la divergencia no esté en el territorio, sino en sí mismo.
 
 Lo que un Ceratox sabe al salir: cómo leer la calidad de una señal sin inventarle significado, cómo comparar una zona contra una línea base, cómo reconocer ruido, cómo sostener posición cuando el cuerpo ya decidió moverse, y que actuar rápido sobre una mala interpretación puede ser peor que no actuar.
 

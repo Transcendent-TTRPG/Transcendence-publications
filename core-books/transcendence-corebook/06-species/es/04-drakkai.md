@@ -20,11 +20,17 @@ Los Drak'kai acumulan.
 
 No en archivos abiertos ni catálogos públicos. Acumulan objetos, rutas, encuentros, anomalías, notas incompletas, fragmentos de lenguas muertas, piedras que recuerdan direcciones, instrumentos que todavía no saben usar, relatos que ninguna comunidad cuenta igual dos veces y preguntas que han sobrevivido más que quienes las formularon.
 
-Viajan solos durante décadas. Regresan a puntos de reunión con lo que han hallado. Comparan, discuten, contradicen, intercambian y vuelven a partir.
+Viajan solos durante décadas.
+
+Regresan a puntos de reunión con lo que han hallado.
+
+Comparan, discuten, contradicen, intercambian y vuelven a partir.
 
 El respeto que un Drak'kai gana entre los suyos no se mide por cargo, linaje ni territorio. Se mide por la calidad de lo que carga, por el juicio con que lo conserva y por la disposición a rendir cuentas ante otros que también han pasado una vida entera acumulando.
 
-La comprensión más antigua que comparten no es una doctrina sino una observación: el mundo contiene más de lo que una sola existencia puede sostener.
+La comprensión más antigua que comparten no es una doctrina sino una observación:
+
+el mundo contiene más de lo que una sola existencia puede sostener.
 
 Los Drak'kai no intentan corregir eso.
 
@@ -38,7 +44,13 @@ Un Drak'kai rara vez parece apresurado, incluso cuando tiene motivos para estarl
 
 El caparazón es parte del esqueleto, no equipo que se usa. Cubre la espalda del torso y, en posición bípeda, da refuerzo estructural desde atrás. Su uso como superficie de absorción requiere posicionamiento deliberado: ángulo calculado, no reacción. Un Drak'kai que usa bien el caparazón ya tomó la decisión antes de que el contacto ocurra.
 
-Esa es una clave física de la especie. Resisten mejor cuando han tenido tiempo de ordenar el cuerpo. La defensa Drak'kai no es reflejo puro. Es preparación que se vuelve estructura.
+Esa es una clave física de la especie.
+
+Resisten mejor cuando han tenido tiempo de ordenar el cuerpo.
+
+La defensa Drak'kai no es reflejo puro.
+
+Es preparación que se vuelve estructura.
 
 Su mandíbula es su arma más comprometida. No es solo el impacto del primer golpe. Es la presión que continúa. A mayor dominio del arma, mayor es la fuerza que acumula el cierre. El tiempo entre el contacto y la consecuencia completa no es error; es diseño.
 
@@ -46,7 +58,9 @@ Sus garras son funcionales. Agarran, manipulan objetos que requieren tratamiento
 
 Tienen magnetorrecepción: un sentido que lee gradientes magnéticos, historia de rutas y señales de entorno que la mayoría de otras especies no registra. Para un Drak'kai, un camino no es solo distancia entre puntos. Es una acumulación de orientación, presión, desvío, repetición y memoria física. El primer recorrido revela una cosa. El segundo revela otra. Una ruta caminada durante décadas se convierte en un texto que el cuerpo aprende a leer.
 
-Ese mismo calibrado tiene un costo. La percepción Drak'kai está orientada hacia el entorno, los objetos, los patrones largos y las señales que permanecen. Las personas son más difíciles. Una intención que cambia en segundos, una emoción ocultada, una mentira improvisada o una amenaza social envuelta en cortesía pueden llegarles tarde o llegarles mal.
+Ese mismo calibrado tiene un costo.
+
+La percepción Drak'kai está orientada hacia el entorno, los objetos, los patrones largos y las señales que permanecen. Las personas son más difíciles. Una intención que cambia en segundos, una emoción ocultada, una mentira improvisada o una amenaza social envuelta en cortesía pueden llegarles tarde o llegarles mal.
 
 Leen bien el mundo.
 
@@ -54,15 +68,35 @@ Las criaturas vivas son otra clase de ruina.
 
 ## La Cultura
 
-El conclave es el centro de la vida Drak'kai. No es una capital, un gobierno ni una institución permanente en el sentido habitual. Es una reunión irregular en sitios establecidos, frecuentada por individuos que pueden no haberse visto en décadas, donde el conocimiento y los descubrimientos se comparan, cuestionan y a veces intercambian.
+El conclave es el centro de la vida Drak'kai.
 
-Un conclave no ordena. Pesa.
+No es una capital, un gobierno ni una institución permanente en el sentido habitual. Es una reunión irregular en sitios establecidos, frecuentada por individuos que pueden no haberse visto en décadas, donde el conocimiento y los descubrimientos se comparan, cuestionan y a veces intercambian.
+
+Un conclave no ordena.
+
+Pesa.
 
 Allí, cada acumulación se mide contra otras acumulaciones. Un objeto encontrado en una ruina puede cambiar de significado cuando alguien más reconoce una marca similar vista al otro lado del mundo. Una ruta aparentemente inútil puede conectar dos eventos separados por generaciones. Una nota vieja puede volverse peligrosa cuando se compara con una observación reciente. Nadie llega al conclave con la colección completa de la verdad. La verdad, cuando aparece, suele hacerlo en la fricción entre cargas distintas.
 
+El conclave no existe solo para compartir conocimiento.
+
+Existe para impedir que un Drak'kai crea demasiado en su propia carga.
+
+Esa es una función que pocas especies comprenden. Para los Drak'kai, la soledad es necesaria, pero peligrosa si se prolonga sin rendición. Un viajero puede pasar décadas afinando su juicio, aprendiendo rutas, reconociendo patrones y protegiendo piezas que otros habrían perdido. También puede pasar décadas siendo deformado por aquello que decidió conservar.
+
+El conclave es el lugar donde otros pueden mirar la carga desde afuera.
+
+Y a veces, mirar al portador.
+
 Fuera del conclave, los Drak'kai viajan solos. Esto no se considera antisocial por sus estándares. El viaje en solitario es la forma en que ocurre la acumulación. Viajar con otros introduce ruido, obligación, negociación de ritmo y riesgo de exposición. También crea una pregunta incómoda: si alguien más sabe exactamente lo que llevas, ¿sigues siendo custodio de tu acumulación o solo su transporte?
 
-Lo que gana respeto en un conclave es la profundidad de lo coleccionado, la rareza de lo encontrado, la calidad del juicio sobre qué vale conservar y la disposición a compartir algo genuinamente valioso. Lo que genera vergüenza no es traer poco. Es acumular sin comprender. Es cargar por peso y no por sentido. Es presentar algo peligroso sin haberlo contenido. Es traer una pieza que no puede ser explicada y fingir que sí.
+Lo que gana respeto en un conclave es la profundidad de lo coleccionado, la rareza de lo encontrado, la calidad del juicio sobre qué vale conservar y la disposición a compartir algo genuinamente valioso.
+
+Lo que genera vergüenza no es traer poco.
+
+Es acumular sin comprender.
+
+Es cargar por peso y no por sentido. Es presentar algo peligroso sin haberlo contenido. Es traer una pieza que no puede ser explicada y fingir que sí. Es defender una carga con demasiada rapidez, como si el problema no fuera la objeción de los demás sino la posibilidad de tener que soltarla.
 
 La tensión que la mayoría reconoce pero pocos resuelven es simple: cuanto más profunda la colección, más peligroso que otros sepan qué contiene.
 
@@ -72,7 +106,13 @@ La cultura Drak'kai valora la paciencia, pero no la confunde con bondad. Un Drak
 
 Eso vuelve a los Drak'kai difíciles de amar y difíciles de reemplazar.
 
-Los jóvenes viajan con un mentor durante un período formativo. No necesariamente con un padre, sino con un Drak'kai mayor que acepta llevar a uno más joven y enseñarle a seleccionar, registrar, cargar y callar. El aprendizaje no se centra en encontrar cosas. Cualquiera puede encontrar cosas. La formación enseña qué no recoger, qué devolver al suelo, qué romper, qué no tocar dos veces y qué registrar aunque parezca inútil.
+Los jóvenes viajan con un mentor durante un período formativo. No necesariamente con un padre, sino con un Drak'kai mayor que acepta llevar a uno más joven y enseñarle a seleccionar, registrar, cargar y callar. El aprendizaje no se centra en encontrar cosas.
+
+Cualquiera puede encontrar cosas.
+
+La formación enseña qué no recoger, qué devolver al suelo, qué romper, qué no tocar dos veces y qué registrar aunque parezca inútil.
+
+También enseña a sospechar de la satisfacción del hallazgo. Un joven que encuentra algo raro suele querer conservarlo. Un mentor pregunta otra cosa: qué hará esa pieza con la ruta, con el sueño, con el juicio, con el próximo conclave. La diferencia entre hallazgo y carga suele aprenderse tarde, y casi siempre con vergüenza.
 
 El período termina con la primera asistencia al conclave. No hay graduación formal. Hay un momento en que el mentor deja de corregir cada elección y permite que el joven rinda cuentas ante otros.
 
@@ -80,33 +120,87 @@ Después de eso, empieza el verdadero vagabundeo.
 
 ## Teología y Cosmología
 
+Los Drak'kai no tienen una palabra única para explicar lo que otras culturas intentan convertir en doctrina.
+
+Eso sería demasiado simple para ellos.
+
+Su cosmología no empieza preguntando de dónde viene la fuerza del mundo, qué nombre verdadero tiene una presencia o qué categoría exacta ocupa una pieza dentro de una metafísica estable. Empieza con preguntas más lentas.
+
+¿Cuánto tiempo lleva respondiendo?
+
+¿Respondió igual en otras manos?
+
+¿Qué ruta la cambió?
+
+¿Qué notas contradice?
+
+¿Qué comunidad la nombró de otra manera?
+
+¿Qué empezó a interferir cuando alguien la cargó demasiado tiempo?
+
 Muchos Drak'kai terminan cruzándose con presencias aunque nunca hayan salido a buscarlas. No porque su oficio consista en invocarlas, sino porque cargar durante décadas objetos, notas, restos de rito y rutas torcidas vuelve más probable el contacto largo, el malentendido y la permanencia demasiado cercana.
 
-En muchos conclaves circula una distinción útil, aunque nadie sensato la toma por verdad final. Hay piezas que insisten del mismo modo durante años, a veces durante generaciones. Repiten, pesan, desvían o responden con una terquedad que permite volver a ellas como quien vuelve a una ruta conocida. A esas muchos las llaman legados quietos. Otras no se dejan fijar así. Cambian con el portador, con el sitio, con el rito, con la estación o con la clase de atención que se les presta. A esas suelen llamarlas legados vivos.
+En muchos conclaves circula una distinción útil, aunque nadie sensato la toma por verdad final.
 
-La diferencia rara vez se descubre en una tarde. Se descubre en ruta, en notas mal comparadas, en objetos que no hacen hoy lo que hicieron hace treinta años, en piezas que parecían tranquilas hasta que pasaron por manos nuevas. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con una presencia encontrada un siglo después en otra región. Y aun así, más de un Drak'kai viejo admitiría que hay objetos que cambiaron de una clase a la otra sin pedir permiso al nombre que se les había dado.
+Hay piezas quietas: objetos, marcas, rutas o registros que insisten del mismo modo durante años, a veces durante generaciones. Repiten, pesan, desvían o responden con una terquedad que permite volver a ellas como quien vuelve a una ruta conocida.
+
+Y hay piezas inquietas: aquellas que cambian con el portador, con el sitio, con el rito, con la estación o con la clase de atención que se les presta.
+
+La diferencia rara vez se descubre en una tarde.
+
+Se descubre en ruta, en notas mal comparadas, en objetos que no hacen hoy lo que hicieron hace treinta años, en piezas que parecían tranquilas hasta que pasaron por manos nuevas. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con una presencia encontrada un siglo después en otra región.
+
+Y aun así, más de un Drak'kai viejo admitiría que hay piezas que cambiaron de quietas a inquietas sin pedir permiso al nombre que se les había dado.
+
+Por eso la distinción no es doctrina.
+
+Es advertencia.
+
+Una pieza quieta puede volverse inquieta.
+
+Una pieza inquieta puede aparentar quietud durante más tiempo del que vive quien la carga.
 
 Lo que pocos Drak'kai enuncian directamente es la implicación inversa: si una pieza cambia con los siglos, también cambia con quien la carga. La colección no es archivo pasivo. La ruta, el cuidado, la obsesión y el juicio del portador se acumulan en lo que porta.
 
-Cuando esa cercanía deja huella en el portador, muchos Drak'kai no hablan de bendición ni de contaminación sagrada. Hablan de interferencias: desajustes de lectura, desvíos de atención, sueños que no encajan con la propia ruta, fijaciones que vuelven más difícil distinguir entre una pieza valiosa y una pieza que ya empezó a tirar de quien la lleva. No todas las interferencias son iguales. Algunas solo obligan a vigilar mejor la carga. Otras bastan para que un Drak'kai deje de confiar en su propio juicio.
+Y lo que porta se acumula en él.
+
+Cuando esa cercanía deja huella en el portador, muchos Drak'kai no hablan de bendición ni de contaminación sagrada. Hablan de interferencias: desajustes de lectura, desvíos de atención, sueños que no encajan con la propia ruta, fijaciones que vuelven más difícil distinguir entre una pieza valiosa y una pieza que ya empezó a tirar de quien la lleva.
+
+No todas las interferencias son iguales. Algunas solo obligan a vigilar mejor la carga. Otras bastan para que un Drak'kai deje de confiar en su propio juicio. Las más peligrosas no se sienten como invasión. Se sienten como claridad.
+
+El portador empieza a saber por dónde caminar antes de decidirlo.
+
+Empieza a defender una pieza antes de examinar la objeción.
+
+Empieza a retrasar el conclave.
+
+Empieza a llamar prudencia a lo que tal vez ya es miedo a ser corregido.
 
 Los Drak'kai no suelen buscar presencias.
 
 Pero caminan con demasiadas cosas que podrían llamar su atención.
 
-Lo que han visto en esos encuentros no cabe de manera limpia en ningún marco religioso único. Han visto santuarios donde una misma figura dejó respuestas distintas en siglos distintos. Han visto reliquias volverse más peligrosas cuando una comunidad las veneró de una manera nueva. Han visto lugares donde lo que parecía dormido empezó a responder como si hubiera aprendido otro nombre. De ese registro nace una sospecha persistente: lo que una comunidad cree sobre una fuerza no siempre se queda en la cabeza de esa comunidad.
+Lo que han visto en esos encuentros no cabe de manera limpia en ningún marco religioso único. Han visto santuarios donde una misma figura dejó respuestas distintas en siglos distintos. Han visto reliquias volverse más peligrosas cuando una comunidad las veneró de una manera nueva. Han visto lugares donde lo que parecía dormido empezó a responder como si hubiera aprendido otro nombre.
+
+De ese registro nace una sospecha persistente: lo que una comunidad cree sobre una fuerza no siempre se queda en la cabeza de esa comunidad.
 
 La especie ha visto demasiados casos como para despacharlo como coincidencia, pero no tantos como para fingir que entiende qué está obedeciendo exactamente ahí.
 
-Esto no los vuelve incrédulos frente a las fuerzas elementales. Las creen con profundidad. Han encontrado expresiones directas de ellas. Lo que les cuesta conceder es que una sola interpretación permanezca fiel durante demasiado tiempo.
+Esto no los vuelve incrédulos frente a las fuerzas elementales. Las toman con seriedad porque han visto demasiado como para hacer otra cosa. Lo que les cuesta conceder es que una sola interpretación permanezca fiel durante demasiado tiempo.
 
-Lo que hoy una comunidad jura conocer, dentro de doscientos años puede estar respondiendo de otra manera.
+Lo que hoy una comunidad jura conocer puede estar respondiendo de otra manera mucho antes de que sus nietos aprendan a nombrarlo.
 
 Esa frase, dicha en la comunidad equivocada, puede matar más rápido que una espada.
 
 Por eso la mayoría de los Drak'kai no comparte este entendimiento abiertamente. Causa conflicto, incredulidad, furia teológica y codicia política. Lo cargan como cargan el resto de lo que han encontrado: con cuidado, en privado, sabiendo lo que pesa.
 
-Su horror no es la amenaza de algo que viene. Es haber cargado demasiadas pruebas de que las comprensiones se gastan, se tuercen o aprenden a responder distinto mientras las comunidades siguen jurando que siguen enteras. La pregunta que los sigue no es cuándo llegará el desastre, sino cuánto aguanta una lectura antes de empezar a mentirle incluso a quien la cuida.
+Su horror no es la amenaza de algo que viene.
+
+Es haber cargado demasiadas pruebas de que las comprensiones se gastan, se tuercen o aprenden a responder distinto mientras las comunidades siguen jurando que siguen enteras.
+
+La pregunta que los sigue no es cuándo llegará el desastre.
+
+Es en qué momento una lectura empieza a mentirle incluso a quien la cuida.
 
 Para los Drak'kai, el misterio no es una puerta cerrada esperando una llave.
 
@@ -122,15 +216,23 @@ Los especialistas en ruinas se enfocan en sitios específicos: antiguas locacion
 
 Los custodios de conclave, una minoría, mantienen los sitios entre reuniones. Acumulan menos a través del viaje, pero más a través de lo que otros les traen. Son guardianes de continuidad, preparadores de espacios, testigos de disputas y, a veces, los únicos que recuerdan qué Drak'kai no volvió con la carga que prometió presentar.
 
+Los custodios conocen una clase particular de peligro: el cambio entre conclaves.
+
+Un Drak'kai puede regresar con la misma pieza y no ser la misma persona que la presentó antes. Puede traer una nota corregida demasiado tarde. Puede haber dejado de mencionar una pieza que todos recuerdan haber visto. Puede hablar con demasiada calma de una interferencia que otros consideran grave. Los custodios no tienen autoridad absoluta para detenerlo, pero sí memoria suficiente para inquietar al resto.
+
 Existen también los retirados: Drak'kai que han acumulado algo que no pueden compartir con seguridad y han dejado de asistir. La comunidad no tiene manera formal de exigir su regreso. A veces se les respeta. A veces se les teme. A veces se envía a alguien a buscarlos, no para obligarlos, sino para saber si siguen siendo ellos quienes cargan la colección o si la colección empezó a cargarlos a ellos.
 
 Lo que permanece universal: el idioma Drakar, la institución del conclave, la práctica de acumulación y la incomodidad compartida frente a la pregunta de qué debe destruirse frente a qué debe preservarse.
 
-Las fracturas internas más comunes no son de doctrina. Son de criterio: qué cuenta como acumulación valiosa, qué hacer con el conocimiento peligroso, cuánto debe compartirse en conclave, cuándo un objeto deja de ser hallazgo y se vuelve amenaza, y qué ocurre con una colección cuando su dueño muere.
+Las fracturas internas más comunes no son de doctrina. Son de criterio: qué cuenta como acumulación valiosa, qué hacer con el conocimiento peligroso, cuánto debe compartirse en conclave, cuándo un objeto deja de ser hallazgo y se vuelve amenaza, cuándo una interferencia invalida el juicio, y qué ocurre con una colección cuando su dueño muere.
 
 Ese último problema sigue sin resolverse.
 
-Una colección no es herencia simple. Muchas piezas solo tienen sentido en relación con la ruta, las notas, los recuerdos y los errores del Drak'kai que las cargó. Cuando uno muere sin rendir cuentas, otros pueden recuperar los objetos, pero no siempre recuperan el significado. Una colección dispersa puede convertirse en mercado, peligro, mito o desastre. Una colección sellada puede salvar a todos o condenar siglos de conocimiento al silencio.
+Una colección no es herencia simple. Muchas piezas solo tienen sentido en relación con la ruta, las notas, los recuerdos y los errores del Drak'kai que las cargó. Cuando uno muere sin rendir cuentas, otros pueden recuperar los objetos, pero no siempre recuperan el significado.
+
+Una colección dispersa puede convertirse en mercado, peligro, mito o desastre.
+
+Una colección sellada puede salvar a todos o condenar siglos de conocimiento al silencio.
 
 Cada conclave tiene historias sobre acumulaciones perdidas.
 
@@ -138,7 +240,9 @@ Cada Drak'kai viejo sabe que la suya podría ser la próxima.
 
 ## Vida Cotidiana
 
-La vida diaria de un Drak'kai la definen el movimiento y la carga. Caminan de manera consistente, no siempre rápido ni siempre lejos. Su cuerpo está construido para el viaje sostenido antes que para la velocidad, y pueden cubrir grandes distancias bajo condiciones — temperatura extrema, escasez de agua, terreno difícil — que detendrían a otras especies.
+La vida diaria de un Drak'kai la definen el movimiento y la carga.
+
+Caminan de manera consistente, no siempre rápido ni siempre lejos. Su cuerpo está construido para el viaje sostenido antes que para la velocidad, y pueden cubrir grandes distancias bajo condiciones — temperatura extrema, escasez de agua, terreno difícil — que detendrían a otras especies.
 
 Esto no es una cualidad cultivada.
 
@@ -146,7 +250,13 @@ Es biológica.
 
 Un Drak'kai prepara el día revisando peso, rutas, señales y cierres. Antes de avanzar, comprueba qué objeto quedó demasiado cerca de otro, qué envoltura se aflojó, qué registro debe copiarse antes de que la humedad lo toque, qué ruta está tirando del cuerpo en una dirección que la memoria magnética reconoce. Para otras especies, esto puede parecer lentitud. Para un Drak'kai, salir sin revisar la carga es una forma de ignorancia.
 
-Cargan sus colecciones con ellos. Esto moldea todo lo demás: dónde duermen, qué rutas toman, cuánto tiempo permanecen en un lugar, qué trabajos aceptan, a quién permiten viajar cerca y qué tan lejos se sientan de una fogata común. Una colección no se delega.
+También revisa su propio juicio.
+
+No siempre con solemnidad. A veces basta notar qué pieza miró primero sin razón, qué camino rechazó demasiado rápido, qué sueño volvió por tercera noche, qué nota no quiso releer, qué nombre evitó escribir completo. La carga no se inspecciona solo por daño material. Se inspecciona por interferencia.
+
+Cargan sus colecciones con ellos. Esto moldea todo lo demás: dónde duermen, qué rutas toman, cuánto tiempo permanecen en un lugar, qué trabajos aceptan, a quién permiten viajar cerca y qué tan lejos se sientan de una fogata común.
+
+Una colección no se delega.
 
 Tampoco se muestra por completo.
 
@@ -154,15 +264,23 @@ La comida Drak'kai suele ser simple, conservable y planificada para ruta larga: 
 
 Sus campamentos son discretos. Un Drak'kai acostumbra dormir donde pueda proteger la espalda, organizar la carga y detectar si algo fue movido durante la noche. En compañía de otras especies, puede parecer desconfiado. A veces lo es. A veces simplemente sabe que una colección atrae manos incluso cuando nadie quiere admitirlo.
 
-Los Drak'kai jóvenes viajan con un único mentor durante un período formativo. La relación puede ser afectiva, severa, distante o profundamente leal, pero casi siempre está marcada por una enseñanza central: no todo hallazgo merece ser cargado. Muchos jóvenes fallan al principio por exceso. Guardan demasiado. Confunden rareza con valor. Registran sin jerarquía. Tardan años en entender que acumular no es amontonar.
+Los Drak'kai jóvenes viajan con un único mentor durante un período formativo. La relación puede ser afectiva, severa, distante o profundamente leal, pero casi siempre está marcada por una enseñanza central: no todo hallazgo merece ser cargado.
+
+Muchos jóvenes fallan al principio por exceso. Guardan demasiado. Confunden rareza con valor. Registran sin jerarquía. Tardan años en entender que acumular no es amontonar.
+
+Un mentor enseña a caminar, pero también a abandonar.
+
+Dejar una pieza atrás puede ser una prueba más difícil que encontrarla.
 
 La vejez no se mide en declive físico sino en el peso de lo que se carga y la calidad del juicio con que se selecciona. Los ancianos más respetados son quienes han continuado acumulando sin perder la capacidad de distinguir algo que vale conservar de algo que solo lo parece.
 
 Lo que un Drak'kai más teme no es morir.
 
-Es morir con una colección sin rendir cuentas: objetos cuya naturaleza sigue desconocida, encuentros que nunca llegaron a un conclave, notas que nadie sabrá leer, legados vivos que nadie sabrá aquietar. Que siglos de acumulación cuidadosa se dispersen sin ser examinados es, por sus estándares, una forma de fracaso.
+Es morir con una colección sin rendir cuentas: objetos cuya naturaleza sigue desconocida, encuentros que nunca llegaron a un conclave, notas que nadie sabrá leer, piezas inquietas que nadie sabrá aquietar. Que siglos de acumulación cuidadosa se dispersen sin ser examinados es, por sus estándares, una forma de fracaso.
 
-Pero hay un miedo todavía más privado: llegar al conclave, abrir la carga, presentar lo que se creyó valioso durante décadas y descubrir que no era conocimiento.
+Pero hay un miedo todavía más privado:
+
+llegar al conclave, abrir la carga, presentar lo que se creyó valioso durante décadas y descubrir que no era conocimiento.
 
 Solo peso.
 
@@ -172,7 +290,7 @@ Otras especies encuentran a los Drak'kai difíciles de leer y más difíciles de
 
 Su conocimiento los hace valiosos para quien necesite contexto histórico, información geográfica o datos que de otro modo se han perdido. También los convierte en objetivos. Comunidades y facciones que han descubierto qué lleva un Drak'kai específico han intentado históricamente extraerlo por negociación, engaño o fuerza. El aislamiento de la especie es en parte una defensa contra eso.
 
-Enfrentan incursiones dirigidas a sus colecciones, empleo coercitivo de facciones que quieren acceso a conocimiento específico, y hostilidad teológica de comunidades cuyas creencias los Drak'kai no pueden afirmar sinceramente. Los que cargan legados vivos enfrentan además un riesgo distinto: cuando lo que llevan empieza a afectar el entorno, las comunidades cercanas lo notan.
+Enfrentan incursiones dirigidas a sus colecciones, empleo coercitivo de facciones que quieren acceso a conocimiento específico, y hostilidad teológica de comunidades cuyas creencias los Drak'kai no pueden afirmar sinceramente. Los que cargan piezas inquietas enfrentan además un riesgo distinto: cuando lo que llevan empieza a afectar el entorno, las comunidades cercanas lo notan.
 
 No son bienvenidos en ningún lugar de manera amplia. Son útiles de manera amplia cuando se necesita algo específico. Esta brecha — entre la utilidad que otros quieren extraer y las condiciones bajo las cuales los Drak'kai están dispuestos a proporcionarla — define la mayor parte de sus relaciones externas.
 
@@ -180,7 +298,7 @@ Los Naghii respetan la antigüedad del conocimiento Drak'kai, pero desconfían d
 
 Los Sauri se relacionan con los Drak'kai desde la sospecha material. Un objeto cargado durante generaciones puede ser recipiente, contaminación, reliquia o grieta. Los Drak'kai ven en los Sauri una voluntad peligrosa de preservar cuerpos, linajes y cámaras más allá de lo prudente. Los Sauri ven en los Drak'kai acumuladores que cargan cosas sin someterlas a un orden ritual suficientemente fuerte. Ambos saben que algunas cosas deben contenerse. Discrepan sobre quién tiene derecho a decidir cómo.
 
-Los Zarnag producen en los Drak'kai una incomodidad específica. Donde un Drak'kai puede querer conservar un resto por su valor histórico, un Zarnag puede reconocer que ese resto todavía está activo y debe cerrarse, quemarse o enterrarse. En sitios de muerte antigua, esta tensión puede volverse inmediata. El Drak'kai pregunta qué se perderá si se destruye. El Zarnag pregunta quién pagará el precio si se conserva.
+Los Zarnag producen en los Drak'kai una incomodidad específica. Donde un Drak'kai puede querer conservar un Resto por su valor histórico, un Zarnag puede reconocer que ese Resto todavía está activo y debe saciarse, quemarse o enterrarse. En sitios de muerte antigua, esta tensión puede volverse inmediata. El Drak'kai pregunta qué se perderá si se destruye. El Zarnag pregunta quién pagará el precio si se conserva.
 
 Los Panin fascinan y desesperan a los Drak'kai. Un Panin puede encontrar relaciones entre objetos, rutas o señales que el Drak'kai no había notado, pero también puede mover piezas, tocar sin contexto o perder interés antes de terminar de explicar qué vio. Algunos Drak'kai evitan viajar con Panin por completo. Otros los buscan para problemas específicos y luego pasan años intentando reconstruir la lógica de una observación hecha en tres frases y un gesto.
 
@@ -190,13 +308,29 @@ Los Myo inquietan a muchos Drak'kai porque llegan a conclusiones sin cargar la r
 
 Los Ceratox suelen ser interlocutores útiles en entornos donde la señal ambiental importa. Su lectura continua del entorno puede confirmar gradientes que los Drak'kai sienten en ruta. Sin embargo, los Drak'kai tienden a distinguir entre registrar una señal y entender su historia. Para ellos, la percepción sin acumulación temporal puede ser precisa y aun así incompleta.
 
-A la mayoría de las especies les incomoda que los Drak'kai no digan todo lo que saben. A los Drak'kai les incomoda que los demás crean que decirlo todo sería una virtud.
+Los Arakhel interesan a los Drak'kai por razones que los Arakhel no siempre encuentran cómodas. Un nodo antiguo puede comportarse como ruta, archivo, frontera y pieza inquieta al mismo tiempo. Las familias Arakhel saben cosas sobre cruces que ningún objeto registra. Los Drak'kai quisieran comparar esas lecturas a través de generaciones; los Arakhel suelen recordarles que el cruce no existe para convertirse en carga de nadie.
+
+Los Bufoni ofrecen otro tipo de problema. Un dominio activo no puede separarse limpiamente de su suelo, su linaje, su protocolo y su kunitsukami. Para un Drak'kai, eso lo vuelve difícil de trasladar, pero no imposible de comparar. Pueden reconocer patrones entre dominios caídos, ofrendas antiguas y respuestas territoriales que los propios Bufoni considerarían peligrosamente descontextualizadas. El Bufoni pregunta si el dominio reconoce. El Drak'kai pregunta qué cambió después de cien años de reconocimiento.
+
+Los Loxod son quizá los interlocutores que más cuestionan la acumulación Drak'kai. Donde el Drak'kai carga piezas, notas y rutas, el Loxod recibe capas químicas, vibraciones y memoria ambiental sin necesidad de poseer el objeto. Para un Drak'kai, esa recepción puede parecer incompleta sin registro y demasiado expuesta sin filtro. Para un Loxod, una colección Drak'kai puede parecer una memoria fragmentada que alguien insiste en llevar sobre la espalda porque no sabe soltarla al lugar que la produjo.
+
+Los Ursari entienden la marca que deja un oficio prolongado. Una forja y una colección no son lo mismo, pero ambas enseñan que trabajar durante años con materiales cargados cambia el cuerpo y el criterio. Los Drak'kai respetan a los Ursari que reconocen cuándo una obra debe abandonarse. Desconfían de los que confunden resistencia con sabiduría. Los Ursari, por su parte, pueden ver en los Drak'kai una cultura que acumula demasiado sin transformar lo suficiente.
+
+Los Chelicer resultan difíciles por una razón precisa: confían demasiado en el procedimiento como vía hacia una verdad que se revela. Para un Drak'kai, una verdad puede haberse revelado correctamente hace tres generaciones y estar respondiendo de otro modo ahora. Un Chelicer puede considerar eso relativismo peligroso. Un Drak'kai lo considera historial de casos. Ambos respetan la prueba. Discrepan sobre cuánto tiempo sigue siendo válida después de ocurrir.
+
+Los Formix incomodan a los Drak'kai porque obligan a preguntar qué es acumulación y qué es programación heredada. Un Formix libre puede mirar una colección Drak'kai y preguntar cuánto de esa carga fue elegido realmente y cuánto se volvió identidad porque el portador no sabe existir sin ella. El Drak'kai puede responder con irritación. O puede pasar años sin poder olvidar la pregunta.
+
+Los Luphran viven la ruta de manera opuesta. Donde el Drak'kai camina solo para acumular sin ruido, el Luphran navega con tripulación, memoria oral, jarl y mandato compartido. Ambos entienden que una ruta cambia a quien la sigue durante años. Pero el Luphran mide el camino por lealtad y supervivencia de grupo; el Drak'kai, por lo que la ruta permitió cargar, comparar o descubrir. Pueden respetarse mucho y aun así no soportar el ritmo del otro.
+
+A la mayoría de las especies les incomoda que los Drak'kai no digan todo lo que saben.
+
+A los Drak'kai les incomoda que los demás crean que decirlo todo sería una virtud.
 
 ## Como Personaje Jugador
 
 Un personaje Drak'kai sabe cosas que otras especies aprenden tarde, si las aprenden: cómo leer paisajes y rutas mediante magnetorrecepción acumulada, cómo manejar objetos desconocidos con la cautela apropiada, que ninguna doctrina permanece intacta para siempre frente a siglos de uso y reinterpretación, y qué se siente la paciencia larga desde adentro, incluyendo cuándo es la elección equivocada.
 
-Lo que muchos no saben al partir: cómo leer las emociones e intenciones de otras criaturas con precisión, qué son exactamente muchos de sus objetos acumulados, qué hacer con el duelo a la velocidad con que otras especies lo experimentan, y si el conclave al que asistieron por última vez todavía reconocería en qué se han convertido.
+Lo que muchos no saben al partir: cómo leer las emociones e intenciones de otras criaturas con precisión, qué son exactamente muchas de sus piezas acumuladas, qué hacer con el duelo a la velocidad con que otras especies lo experimentan, y si el conclave al que asistieron por última vez todavía reconocería en qué se han convertido.
 
 En el combate, su identidad es la estructura sobre la velocidad. Su mordisco no es el primer golpe. Es la consecuencia que cierra una decisión. Una vez que asienta, el problema para el oponente no termina cuando termina el impacto.
 
@@ -206,7 +340,9 @@ Muchos personajes Drak'kai están fuera de su ruta porque algo requirió desviar
 
 Un personaje Drak'kai puede ser un vagabundo de ruta que descubrió que todos sus caminos recientes dibujan el mismo símbolo. Un custodio de conclave que abandonó su puesto porque alguien presentó una pieza que no debía existir. Un aprendiz que heredó parte de una colección sin las notas necesarias para entenderla. Un retirado obligado a volver porque lo que escondía empezó a afectar a otros. Un especialista en ruinas que sabe que la misma cámara se está reconstruyendo lentamente en lugares distintos. O un acumulador joven, todavía demasiado orgulloso de lo que carga, que no ha aprendido la diferencia entre hallazgo y carga.
 
-Lo que un personaje Drak'kai lleva consigo: un registro físico de lo acumulado, cuya naturaleza completa quizá ni siquiera ellos han determinado del todo; contexto histórico para eventos y sitios que la mayoría de otras especies no tiene; el conocimiento incómodo de que ningún marco religioso permanece preciso en un sentido estable; y la pregunta abierta de si algo que cargan es un legado quieto o un legado vivo — porque el registro histórico de una pieza no siempre describe lo que esa pieza terminará haciendo después de generaciones de manos, rutas y creencias. No es lo mismo.
+Lo que un personaje Drak'kai lleva consigo: un registro físico de lo acumulado, cuya naturaleza completa quizá ni siquiera ellos han determinado del todo; contexto histórico para eventos y sitios que la mayoría de otras especies no tiene; la sospecha incómoda de que toda religión termina desajustándose de algo que una vez creyó conocer; y la pregunta abierta de si algo que cargan es una pieza quieta o una pieza inquieta, porque el registro histórico de una pieza no siempre describe lo que esa pieza terminará haciendo después de generaciones de manos, rutas y creencias.
+
+No es lo mismo.
 
 La pregunta que muchos Drak'kai se llevan consigo no es qué han encontrado.
 

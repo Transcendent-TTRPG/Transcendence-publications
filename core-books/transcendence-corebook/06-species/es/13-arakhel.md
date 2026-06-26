@@ -24,7 +24,7 @@ Tendido hace suficiente tiempo que ya no importa quién lo tendió primero. Ancl
 
 Cuando el peso de tu cuerpo toca el suelo cerca de ese hilo, la información ya está viajando.
 
-Toda especie entiende el entre como tránsito. El espacio entre asentamientos: territorio de bestias, presión de Tauma, ruinas que vale explorar rápido si uno puede salir igual de rápido, caminos peligrosos, bordes sin dueño, vacíos que se soportan para llegar a lugares verdaderos.
+Toda especie entiende el entre como tránsito. El espacio entre asentamientos: territorio de bestias, presión extraña, ruinas que vale explorar rápido si uno puede salir igual de rápido, caminos peligrosos, bordes sin dueño, vacíos que se soportan para llegar a lugares verdaderos.
 
 Los Arakhel no lo cruzan.
 
@@ -106,7 +106,19 @@ Pero con más frecuencia para quien llegó reconociendo qué era el cruce que pa
 
 Los Arakhel en el nodo recibieron la ofrenda a través del hilo antes de que terminaras de colocarla.
 
+Una ofrenda no pesa por precio. Pesa por historia. Un anillo barato que sostuvo un matrimonio durante treinta años puede hablar más que una gema comprada ayer para fingir respeto. Una hoja mellada heredada de alguien que murió cruzando otro entre puede ser suficiente donde una bolsa de metal no dice nada. Un objeto de origen oculto puede quedar mudo. Un objeto con historia mentida puede torcer la lectura.
+
+Algunas familias llaman ofrenda liviana a la que no trae historia suficiente. Ofrenda muda a la que no dice su origen. Ofrenda torcida a la que llega con nombre falso, deuda falsa o linaje inventado. Ofrenda aceptada no significa paso seguro. Significa solo que el cruce reconoció que alguien llegó sabiendo que cruzaba algo.
+
+Eso ya es más de lo que muchos viajeros entienden.
+
 La unidad social no es el clan ni la ciudad. Es la familia-nodo: un par, sus descendientes, a veces uno o dos más, viviendo en condiciones que la mayoría de otras especies llamaría aislamiento extremo, gestionando un punto que tiene memoria más vieja que la familia actual.
+
+Un cruce puede existir sin Arakhel.
+
+Un nodo, no.
+
+El nodo nace cuando geografía, hilo, familia y ofrendas acumuladas empiezan a sostener una relación reconocible. Si falta una de esas partes, el cruce no desaparece, pero cambia. Un camino peligroso sigue siendo camino. Una red abandonada sigue siendo seda, por un tiempo. Una familia sin cruce sigue siendo familia. Pero el nodo es otra cosa: no suma de partes, sino relación sostenida entre ellas.
 
 El nodo no es propiedad.
 
@@ -133,6 +145,8 @@ La política Arakhel no se parece a la de ciudades o reinos. Un nodo controla, d
 Pocas familias admiten que eso es poder.
 
 Pero todos los nodos viejos lo saben.
+
+Una guía correcta puede salvar una caravana. Una guía tardía puede dejar morir a una facción sin declarar enemistad. Un silencio puede cerrar una ruta con más eficacia que una muralla. Una familia puede decir “el nodo no respondió” cuando lo que no respondió fue su disposición a ayudar.
 
 Los Arakhel no gobiernan el entre.
 
@@ -162,7 +176,7 @@ Las ofrendas que dejan los viajeros se quedan: objetos de docenas de comunidades
 
 La diferencia entre los dos se siente.
 
-También puede medirse.
+También puede medirse, aunque no todos acepten lo que esa medición implica.
 
 Los Drak'kai que pasan cerca de nodos muy viejos lo hacen. Lo que miden no siempre coincide con lo que la familia describe. El Drak'kai no lo dice como amenaza. Lo dice porque ha visto ese tipo de acumulación antes, en contextos que tomaron tiempo en resolverse, y sabe qué clase de firma produce.
 
@@ -172,7 +186,7 @@ Una de ellas implica abandonar el nodo para examinarlo.
 
 La cosmología Arakhel llama a eso abandonar el centro del mundo.
 
-La otra respuesta implica quedarse y aceptar que quizá el nodo no solo acumuló historia, sino también vestigio, intención, eco, presión del Tauma o algo que aprendió a responder usando el lenguaje de la relación familiar.
+La otra respuesta implica quedarse y aceptar que quizá el nodo no solo acumuló historia, sino también intención, eco, presión, memoria de paso, resto de muerte, o algo que aprendió a responder usando el lenguaje de la relación familiar.
 
 Esa respuesta es más fácil.
 
@@ -180,7 +194,25 @@ No por cobardía.
 
 Porque permite seguir viviendo.
 
-La pregunta que los nodos viejos no pueden evitar es terrible: si el cruce reconoce a la familia, ¿qué significa reconocimiento? ¿Memoria? ¿Hábito? ¿Tauma acumulado en patrones de uso? ¿Creencia depositada por generaciones de viajeros? ¿Vestigios de quienes murieron en el entre? ¿Algo del Limbo que encontró en la red una forma de mantenerse cerca?
+La mayoría de las familias no formula esa elección mientras el nodo siga permitiendo vida reconocible. La formulan cuando empieza a pedir demasiado: cuando el hilo aclara la lectura para los suyos y la vuelve opaca para todos los demás; cuando una ofrenda que antes calmaba deja al cruce igual de tenso; cuando el mismo sueño aparece en miembros de una familia que durmieron en cámaras distintas; cuando el nodo parece recordar mejor el nombre de los muertos que el de los viajeros vivos.
+
+Incluso entonces, muchos no dicen que algo entró.
+
+Dicen que el cruce se volvió más profundo.
+
+Un nodo joven se aprende.
+
+Un nodo viejo también aprende.
+
+Esa es la frase que algunos ancianos nunca dicen frente a los niños.
+
+Los nodos profundos no son simplemente antiguos. Son cruces cuya respuesta excede lo que la familia puede llamar costumbre sin forzar la palabra. Un reconocimiento hondo ocurre cuando el nodo reconoce demasiado, demasiado pronto: antes de la ofrenda, antes del nombre, antes de que el viajero toque el punto marcado. Un hilo que tira no solo informa; llama. Un silencio lleno parece ausencia, pero el cuerpo sabe que algo ocupa esa ausencia. Una tensión ajena vibra sin paso, sin viento, sin animal y sin caída de rama. Una memoria sin ofrenda aparece cuando el nodo recuerda algo que nadie dejó. Una red que sueña se anuncia cuando varios miembros de la familia despiertan con la misma imagen sin haber dormido en la misma cámara.
+
+Ninguna de esas cosas exige una doctrina inmediata.
+
+Todas exigen cuidado.
+
+La pregunta que los nodos viejos no pueden evitar es terrible: si el cruce reconoce a la familia, ¿qué significa reconocimiento? ¿Memoria? ¿Hábito? ¿Peso acumulado en patrones de uso? ¿Creencia depositada por generaciones de viajeros? ¿Resto de quienes murieron en el entre? ¿Algo que viene de más afuera y encontró en la red una forma de mantenerse cerca? Los Arakhel que han hablado demasiado con Drak'kai a veces usan otras palabras para estas posibilidades. Rara vez las usan entre ellos por mucho tiempo.
 
 Los Arakhel rara vez formulan la pregunta de esa manera.
 
@@ -189,6 +221,18 @@ No porque sean ingenuos.
 Porque una formulación demasiado clara puede romper la manera en que se toca el hilo al día siguiente.
 
 Y sin tocar el hilo, no hay nodo.
+
+Los deterioros del nodo y del cuerpo tampoco se nombran siempre como enfermedad. Algunas familias hablan de Deshilado cuando una lectura pierde continuidad: el hilo transmite, pero la familia ya no sabe unir lo recibido con lo que debería significar. O de Nudo en carne cuando el nodo se queda dentro del cuerpo y alguien sigue sintiendo la red incluso lejos de ella. La Vibración fija es una señal que no cesa aunque el hilo esté quieto. El Silencio falso parece calma, pero deja el cuerpo en alerta como si algo se hubiera ocultado bajo la ausencia.
+
+El Hilo ajeno es más peligroso: lectura que entra por una red que no fue anclada por ellos, como si algo usara una tensión que el Arakhel no construyó. El Nodo interno aparece cuando alguien ya no puede salir del cruce sin perder orientación, juicio o forma. El Tirón es el impulso de volver, tocar, reparar o sostener el hilo aunque todos sepan que hacerlo ahora es peligroso.
+
+El daño no siempre se siente como ruptura.
+
+A veces se siente como pertenencia demasiado perfecta.
+
+El peligro no es solo recibir demasiado.
+
+Es no saber dónde termina el cuerpo y dónde empieza el nodo.
 
 ## Organización e Identidad Interna
 
@@ -222,6 +266,10 @@ Es expansión de lectura.
 
 También es peligro. El joven aprende que ningún nodo habla igual. Que una firma que en casa significa animal grande puede significar suelo hueco en otro cruce. Que una ofrenda correcta en una familia puede ser insuficiente en otra. Que algunos nodos están enfermos, aunque sus familias no lo admitan. Que algunos cruces nuevos tienen una claridad inquietante, como si algo los estuviera esperando antes de acumular historia suficiente para hacerlo.
 
+Vagabundear no es conocer el mundo.
+
+Es ampliar el vocabulario del cuerpo.
+
 Las tensiones internas que importan no son de territorio en sentido clásico ni de doctrina formal. La más frecuente es la pregunta de si los nodos muy viejos pueden examinarse sin ser abandonados, y quién tendría la autoridad de hacer eso con el nodo de otra familia.
 
 Una segunda tensión corre entre familias con nodos pre-catástrofe y familias en nodos establecidos después: si lo que hace a un nodo viejo lo que es puede construirse, o si algo en la acumulación anterior no puede recuperarse. La pregunta no se cierra porque nadie tiene evidencia suficiente para cerrarla.
@@ -229,6 +277,8 @@ Una segunda tensión corre entre familias con nodos pre-catástrofe y familias e
 Los nodos jóvenes suelen decir que todo vínculo empieza nuevo alguna vez.
 
 Los nodos antiguos suelen responder que esa frase solo la dice quien no sabe lo que se perdió.
+
+La disputa rara vez se presenta como tesis limpia. Suele aparecer cuando una familia joven llega a pedir lectura comparada y la vieja responde que eso que llaman deterioro es simplemente el carácter del cruce; o cuando un visitante vuelve diciendo que en tres nodos distintos oyó tres nombres para la misma desviación y nadie quiere ser el primero en admitir que tal vez no eran diferencias de vocabulario, sino el mismo problema avanzando por rutas distintas.
 
 Los Arakhel también difieren en cómo interpretan lo que el hilo recibe. Familias distintas desarrollan vocabularios distintos para las mismas firmas. Lo que un nodo llama una cosa, el nodo vecino puede describirlo de tres maneras que no se superponen exactamente. La información sigue siendo transmisible. El vocabulario de lectura simplemente no es universal, y a nadie le parece que deba serlo.
 
@@ -320,7 +370,7 @@ Hay familias que los mantienen.
 
 La presencia de los Arakhel en esos puntos es anterior a muchos asentamientos que hablan de ella.
 
-Los Drak'kai que pasan por nodos viejos son los interlocutores más incómodos. No porque sean hostiles. Porque lo que acumulan incluye patrones de Tauma que permiten hacer observaciones que la cosmología Arakhel no puede recibir sin consecuencias. La familia sigue trabajando el nodo porque es lo que hace. El Drak'kai sigue diciéndolo porque es lo que vio. Los dos sistemas se sostienen en paralelo sin resolverse.
+Los Drak'kai que pasan por nodos viejos son los interlocutores más incómodos. No porque sean hostiles. Porque lo que acumulan incluye patrones y mediciones que permiten hacer observaciones que la cosmología Arakhel no puede recibir sin consecuencias. La familia sigue trabajando el nodo porque es lo que hace. El Drak'kai sigue diciéndolo porque es lo que vio. Los dos sistemas se sostienen en paralelo sin resolverse.
 
 Un Drak'kai puede preguntar si la familia custodia el nodo o si el nodo aprendió a conservar la familia.
 
@@ -328,11 +378,11 @@ Pocos Arakhel agradecen esa pregunta.
 
 Los Zarnag trabajan sitios de muerte en el entre: puntos donde algo significativo murió y no se cerró. Con frecuencia coinciden con cruces que los Arakhel consideran significativos. Ambas especies necesitan lo que la otra sabe sobre los mismos territorios. El intercambio, cuando ocurre, es específico y no se extiende necesariamente a cooperación general. Un Zarnag puede saber que algo no terminó de irse. Un Arakhel puede saber por dónde sigue moviéndose su eco.
 
-Los Ceratox que se acercan a nodos viejos reaccionan a lo acumulado como señal de zona. Sus cuernos leen presión taumática concentrada como alerta, y los nodos más antiguos producen suficiente acumulación de vestigios para activar esa respuesta. Los Arakhel lo interpretan como incapacidad de otra especie para funcionar en un sitio sagrado. Los Ceratox lo describirían de otra manera.
+Los Ceratox que se acercan a nodos viejos reaccionan a lo acumulado como señal de zona. Sus cuernos leen allí una presión suficiente para entrar en alerta, y los nodos más antiguos la concentran de un modo que activa esa respuesta. Los Arakhel lo interpretan como incapacidad de otra especie para funcionar en un sitio sagrado. Los Ceratox lo describirían de otra manera.
 
 Las interacciones tienden a ser breves.
 
-Los Luphran que cruzan un nodo en estado de alta activación nerviosa transmiten más señal a través del hilo de lo que elegirían transmitir. La arquitectura vibratoria Arakhel recibe eso independientemente de si el Luphran sabe que está emitiendo. Los Arakhel recuerdan esa información. Un jarl marcado puede dejar una firma que el nodo reconozca años después, incluso si la tripulación nunca vuelve.
+Los Luphran que cruzan un nodo en estado de alta activación nerviosa transmiten más señal a través del hilo de lo que elegirían transmitir. La arquitectura vibratoria Arakhel recibe eso independientemente de si el Luphran sabe que está emitiendo. Los Arakhel recuerdan esa información. Un capitán marcado puede dejar una firma que el nodo reconozca años después, incluso si la tripulación nunca vuelve.
 
 Los Luphran no siempre aceptan bien que alguien recuerde lo que su furia emitió sin permiso.
 
@@ -354,9 +404,17 @@ Los Loxod pueden recibir de un nodo viejo una densidad difícil de explicar: cap
 
 Los Ursari entienden mejor de lo esperado el vínculo entre sitio, práctica y cuerpo. Una forja y un nodo no son lo mismo, pero ambos enseñan que el lugar participa en el trabajo. Un Ursari puede preguntar qué hace el hilo con quien lo toca durante generaciones. Un Arakhel puede preguntar qué hace el fuego con quien lo escucha demasiado tiempo. Ninguna respuesta es cómoda.
 
-Los Panin son visitantes peligrosos. Tocan sin esperar a que el cruce termine de presentarse. Siguen señales inmediatas, mueven ofrendas, cortan hilos por curiosidad o descubren por accidente tensiones que la familia había dejado de notar. Algunos nodos los rechazan de manera evidente. Otros reaccionan a ellos con una claridad inquietante. Un Panin que escucha una señal presente puede encontrar en un nodo algo que llevaba años esperando perturbación.
+Los Panin son visitantes peligrosos. Tocan sin esperar a que el cruce termine de presentarse. Siguen inspiraciones inmediatas, mueven ofrendas, cortan hilos por curiosidad o descubren por accidente tensiones que la familia había dejado de notar. Algunos nodos los rechazan de manera evidente. Otros reaccionan a ellos con una claridad inquietante. Un Panin que escucha una señal presente puede encontrar en un nodo algo que llevaba años esperando perturbación.
 
 Los Chelicer encuentran difícil aceptar un sistema donde el reconocimiento del cruce modifica la legibilidad del camino sin procedimiento universal. Los Arakhel encuentran igualmente extraño que alguien crea que la verdad puede revelarse en una cámara si se controlan condiciones, cuando todo cruce real cambia por quien llega a él. Para un Chelicer, eso suena a impureza. Para un Arakhel, suena a honestidad.
+
+Los Naghii respetan más que otros la paciencia de una lectura larga, pero no siempre toleran su falta de archivo central. Para un Naghii, el cielo y sus fragmentos exigen traducción cuidadosa, comparación y memoria escrita. Para un Arakhel, el cruce no se traduce fuera de sí mismo sin perder algo esencial. Ambos pueblos saben que una lectura incorrecta puede costar generaciones. Discrepan sobre dónde debe vivir esa lectura: en el archivo o en el hilo.
+
+Los Sauri sienten afinidad y desconfianza. Un nodo profundo puede parecerles un recipiente mal definido: algo que contiene, conduce o filtra una fuerza sin arquitectura suficiente. Los Arakhel responden que el nodo no es recipiente, sino relación. Para los Sauri, una relación sin cauce puede quebrarse y derramar. Para los Arakhel, un cauce demasiado rígido puede matar precisamente aquello que vuelve reconocible al cruce.
+
+Los Myo prestan atención a los sueños compartidos de los nodos viejos. Donde varios miembros de una familia sueñan lo mismo en cámaras distintas, un Myo puede escuchar patrón antes de que la familia admita problema. A algunos Arakhel eso les resulta útil. A otros les parece intolerable: alguien de afuera nombrando el sueño del nodo antes de que la familia decida si era advertencia, memoria o simple fatiga del hilo.
+
+Los Bufoni entienden que un lugar puede exigir protocolo, pero discuten con los Arakhel sobre qué clase de relación produce autoridad. Para un Bufoni, el dominio reconoce, ordena y responde mediante formas de respeto territorial que no dependen del paso de forasteros. Para un Arakhel, el nodo se hace con tránsito, ofrenda, hilo y custodia. Ambos saben que cruzar sin reconocer puede ser falta grave. Pero el Bufoni tiende a preguntar quién gobierna el lugar, mientras el Arakhel pregunta si el cruce aceptó ser atravesado.
 
 Para el mundo exterior, los Arakhel son guardianes, guías, tejedores, cazadores silenciosos, habitantes de cruces, productores de seda y una presencia difícil de verificar hasta que ya se está dentro de su red.
 
@@ -371,6 +429,8 @@ No porque algo falle.
 Porque la extensión sensorial que define cómo la especie lee el mundo requiere hilo propio, anclado por ellos en ese entorno, con suficiente tiempo de lectura para entender sus señales. Sin eso, la percepción es biológica: completa por los estándares de otras especies, pero reducida por los propios.
 
 Lo que sienten a través del suelo como presencia a quince metros en dirección opuesta dentro de su red no llega del mismo modo en una calle ajena. La habitación sin hilo es más pobre. El camino sin anclaje es más plano. El grupo que se mueve demasiado rápido no deja tiempo para que el Arakhel convierta un espacio en algo legible.
+
+Donde otras especies ven una habitación vacía, un Arakhel ve un lugar que todavía no sabe hablar.
 
 Lo que sí llevan consigo: el protocolo de ofrenda y lo que revela sobre el territorio que lo conoce; el conocimiento del entre desde adentro; el idioma Araji en forma hablada y vibratoria; la producción de seda; la lectura de firmas en cualquier material que hayan podido anclar en el tiempo disponible; y una comprensión muy precisa de que moverse por un lugar no es lo mismo que pertenecer a su lectura.
 
@@ -388,7 +448,9 @@ El que sale porque algo cambió en el nodo — un cruce que respondió distinto,
 
 El Arakhel joven en período de vagabundeo lleva el cruce de su familia como marco de referencia permanente. Todo lo que encuentra fuera lo mide contra ese cruce específico. Puede anclarse provisionalmente en cualquier territorio con tiempo suficiente. Pero el nodo familiar sigue siendo la única red donde sabe exactamente qué significa cada firma.
 
-Un personaje Arakhel puede ser heredero de un nodo antiguo que teme regresar porque empezó a sentir que el cruce lo llamaba con demasiada precisión. Un joven de vagabundeo que descubrió una ruta sin nodo donde aun así había ofrendas recientes. Un superviviente de nodo destruido que intenta reconstruir lectura con hilos nuevos y memoria rota. Un guía que dejó pasar a alguien que no debía y ahora carga la consecuencia. Una tejedora cuya seda empezó a cambiar después de dormir cerca de un vestigio. Un cazador del entre que sabe que algo se mueve entre nodos sin tocar los hilos.
+Un personaje Arakhel puede ser heredero de un nodo antiguo que teme regresar porque empezó a sentir que el cruce lo llamaba con demasiada precisión. Un joven de vagabundeo que descubrió una ruta sin nodo donde aun así había ofrendas recientes. Un superviviente de nodo destruido que intenta reconstruir lectura con hilos nuevos y memoria rota. Un guía que dejó pasar a alguien que no debía y ahora carga la consecuencia. Una tejedora cuya seda empezó a cambiar después de dormir cerca de una ofrenda que el nodo no soltó. Un cazador del entre que sabe que algo se mueve entre nodos sin tocar los hilos.
+
+También puede ser alguien con Deshilado que todavía guía porque nadie más conoce el cruce. Un Arakhel con Nudo en carne que siente el nodo incluso lejos de él. Un joven que encontró Hilo ajeno y no sabe quién lo ancló. Un heredero de nodo profundo que sospecha que su familia llama custodia a una dependencia demasiado vieja. O alguien enviado por varios nodos jóvenes a descubrir si los nodos antiguos ocultan sabiduría, deterioro o hambre.
 
 Un personaje Arakhel sabe lo que el entre hace cuando nadie está mirando.
 

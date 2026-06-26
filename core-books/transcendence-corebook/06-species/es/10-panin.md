@@ -56,6 +56,12 @@ Esa lectura no siempre es amable.
 
 Un Panin puede decir una verdad emocional demasiado pronto, reírse cuando la tensión todavía debería guardarse, señalar una contradicción que todos habían acordado ignorar, o perder interés en una mentira antes de que el mentiroso termine de construirla.
 
+El encendido se ve en el cuerpo. Una cosa empieza a importar y todo lo demás se vuelve fondo. La respiración cambia. La mano se adelanta. Los ojos dejan de saltar y se fijan con una precisión incómoda. El Panin no está distraído. Está demasiado presente.
+
+La caída también se ve.
+
+Un gesto se interrumpe. Una tarea pierde peso. Una promesa que hace un momento parecía sostener el mundo vuelve a ser solo palabra. No siempre ocurre con drama. A veces basta con que la mirada se vaya a otra parte.
+
 Tienen mordida fuerte, nacida de una dieta oportunista y dura, pero no pelean como criaturas construidas alrededor de la mandíbula. El mordisco aparece cuando todo lo demás falló: cuando la distancia ya se cerró, cuando el arma cayó, cuando la ruta se cerró, cuando el cuerpo decidió antes que el pensamiento.
 
 Un Panin no muerde como declaración.
@@ -68,6 +74,12 @@ La unidad Panin es la banda.
 
 No es una familia extendida, ni una tribu estable, ni una institución con memoria fija. Es una convergencia: veinte, treinta, cincuenta individuos que están en el mismo lugar porque algo allí todavía los inspira.
 
+Una banda puede formarse alrededor de una ruta, una ruina, una amenaza, una cosecha breve, una persona que arrastra atención, un olor extraño en el agua, una serie de objetos que nadie logra dejar en paz, una tensión social que está a punto de romperse o un lugar que sigue entregando problemas interesantes.
+
+No todas las convergencias duran.
+
+Eso no las vuelve falsas.
+
 Una banda llega y prueba. Antes de asentarse, toca el mundo por sus bordes peligrosos. El agua se evalúa antes de beberla como costumbre. Las rutas se recorren antes de depender de ellas. Las estructuras se fuerzan lo suficiente para saber dónde ceden. Los alimentos se prueban en cantidades pequeñas. Los sonidos nocturnos se imitan antes de decidir si pertenecen a animal, viento o cosa que no debería estar ahí.
 
 Nadie lo llama protocolo.
@@ -75,6 +87,8 @@ Nadie lo llama protocolo.
 No hay manual.
 
 Las bandas que no lo hicieron dejaron menos descendientes.
+
+Las marcas que deja una banda son marcas de prueba, no monumentos. Una piedra girada junto a una fuente puede significar que el agua fue probada. Un nudo en una rama puede indicar ruta revisada. Una entrada medio despejada puede advertir que la estructura aguantó suficiente. Una línea de barro seco puede señalar que cierto suelo cede con peso. A veces otra banda las entiende. A veces no. A veces las entiende mal y sobrevive de todos modos.
 
 La autoridad dura lo que dura la inspiración. Quien ve el problema con mayor claridad lo empuja, y los demás lo siguen porque pueden leer esa claridad en su cuerpo. Cuando la inspiración cae, el mando cae con ella. No hay deposición, desafío ni ceremonia. Alguien más está viendo algo ahora.
 
@@ -93,6 +107,30 @@ La memoria cultural Panin existe, pero no se preserva en instituciones fuertes. 
 La banda no conserva todo.
 
 Conserva lo que vuelve a encender algo.
+
+Los objetos Panin son cosas encendidas o cosas apagadas. Una cuerda, una piedra, una máscara, una herramienta rota, una fruta seca, una placa extraña, una llave que no abre nada conocido: todo puede volverse centro mientras llama. Puede ser decorado, probado, defendido, cargado, escondido o compartido con intensidad absoluta.
+
+Después, si la inspiración cae, puede quedar atrás.
+
+No siempre por descuido.
+
+A veces porque ya no está vivo en el cuerpo.
+
+Un objeto peligroso no es el que importa mucho.
+
+Es el que sigue importando cuando la banda ya intentó irse.
+
+La belleza Panin suele ser intensa y breve. Pintura corporal, fibras trenzadas, objetos colgados por sonido o color, pequeños arreglos de piedra, máscaras improvisadas, canciones hechas para cruzar una ruta específica, dibujos en muros que nadie volverá a ver. Nada de eso aspira necesariamente a durar.
+
+Algo puede importar completamente sin necesitar durar.
+
+Los nombres siguen una lógica parecida. Un nombre Panin no es linaje ni ancla de identidad. Es caracterización presente: lo que alguien está haciendo, cómo lo hace, qué calidad tiene su inspiración ahora. Un nombre de nacimiento es apenas una lectura temprana, no un destino. Muchos adultos cargan dos o tres nombres activos según el contexto, la banda o la relación.
+
+No es confusión.
+
+Es precisión.
+
+Un Panin que durante una estación fue “Corre-Borde” puede dejar de serlo cuando ya no vive en esa clase de inspiración. Otro puede ser “Mano-Rápida” para quienes lo vieron abrir estructuras, “Risa-Corta” para una banda que lo conoció en duelo, y “No-Toca” para quienes aprendieron que sabe detenerse justo antes de activar algo peligroso.
 
 Los Panin que permanecen demasiado tiempo en un mismo lugar suelen volverse figuras ambiguas. Para otras especies, son los más confiables. Para otros Panin, pueden parecer admirables, raros, tristes o ligeramente peligrosos. Permanecer exige una relación distinta con la inspiración: no seguir solo lo que arde, sino encontrar modos de volver a encender lo que ya no arde por sí mismo.
 
@@ -126,23 +164,63 @@ Por eso tampoco separan demasiado las cosas que encienden ese estado. Una ruina 
 
 Algunas bandas usan otra palabra cuando la inspiración deja de ser solo impulso y empieza a pasar por el cuerpo entero: evocación. La vista se llena demasiado, la mano se adelanta, el oído jura que algo ya pidió respuesta, el deseo de tocar o seguir una cosa se vuelve más fuerte que la prudencia. No todos la nombran igual, y casi ninguno la trata como enfermedad. Para muchos, es simplemente estar demasiado cerca de algo que inspira de verdad.
 
+La palabra rara vez dura mucho más que la banda que la usa. En otra ruta, con otra gente o una estación después, ese mismo estado puede no llamarse de ninguna forma y seguir siendo igual de reconocible en el cuerpo.
+
+Pero los viejos desconfían de ciertas evocaciones.
+
+No de todas.
+
+Una banda sobrevive porque alguien corre antes, toca antes, grita antes, muerde antes, salta antes de que el mundo termine de explicar el peligro. Muchas grandes acciones Panin nacen de una evocación limpia. El cuerpo ve, y si todos esperaran a que la explicación llegara, ya sería tarde.
+
+El problema empieza cuando la inspiración ya no parece nacer en el Panin.
+
+Cuando lo atraviesa.
+
+Cuando el objeto no solo llama, sino que no permite mirar otra cosa. Cuando la ruina pide contacto con una claridad demasiado perfecta. Cuando el cuerpo sigue una ruta antes de recordar por qué. Cuando la mano toca aunque una parte de la persona esté intentando no tocar.
+
+Algunos llaman a eso arrastre.
+
+No todo arrastre es peligroso. La vida Panin está hecha de respuestas que llegan antes de la justificación. Pero cuando el arrastre se queda, cuando organiza el cuerpo incluso sin estímulo presente, cuando vuelve a un Panin incapaz de abandonar algo que ya debería haber caído, la banda empieza a mirar con inquietud.
+
 Hay lugares donde eso ocurre con más facilidad. En esos sitios, otras especies registran algo que los Panin no intentan clasificar demasiado: una reducción del espacio entre sentir y actuar. La rabia se mueve antes. La curiosidad toca antes. El miedo corre antes. El deseo se vuelve gesto sin pasar por deliberación. Los Panin dicen que el lugar está vivo.
+
+A veces también dicen que el lugar muerde, que empuja o que no deja pensar recto. Ninguna de esas frases intenta fijar una teoría. Solo alcanzan mientras el sitio todavía está encima.
 
 No suelen quedarse lo suficiente para discutir por qué.
 
 Algunas bandas evitan esos sitios porque sienten que la inspiración ya no nace en ellos, sino que los atraviesa. Otras los buscan porque allí todo parece más claro, más rápido, más verdadero. Las más viejas advierten que un lugar así puede gastar a una banda entera y luego dejarla vacía.
 
-Ese es el horror Panin.
+La caída es una herida Panin.
 
-No que algo inspire demasiado.
+Algo que ayer ordenaba el mundo hoy no dice nada. Una persona, una promesa, una ruta, una pregunta, una herramienta, una causa entera pueden apagarse sin volverse falsas. Eso no lo hace menos doloroso. Solo lo vuelve difícil de explicar a quienes creen que la importancia verdadera debe durar.
 
-Sino que lo que hoy parecía capaz de ordenar una vida mañana no diga nada.
+La otra herida es peor.
 
-Y que, aun sabiéndolo, igual no puedan dejar de correr hacia lo que arde ahora.
+La inspiración pegada.
+
+Cuando algo no cae. Cuando sigue llamando después de que la situación terminó. Cuando el presente se niega a convertirse en pasado. Cuando un objeto, una puerta, una persona o una frase vuelve una y otra vez, no como recuerdo, sino como exigencia.
+
+Una inspiración pegada puede parecer propósito.
+
+Puede parecer destino.
+
+Puede parecer revelación.
+
+Puede parecer, por un tiempo, la única cosa que por fin no abandona al Panin.
+
+Por eso es peligrosa.
+
+El horror Panin no es solo que lo que hoy parecía capaz de ordenar una vida mañana no diga nada.
+
+Es también que algo siga hablando cuando ya debería haberse callado.
 
 Para un Panin, lo sagrado no es lo eterno.
 
 Es lo que no se puede ignorar ahora.
+
+Y eso significa que lo sagrado puede durar un segundo.
+
+O no dejarte ir nunca.
 
 ## Organización e Identidad Interna
 
@@ -172,7 +250,19 @@ Los Panin establecidos en comunidades mixtas son los más difíciles de leer par
 
 Un Panin de ciudad puede enseñar a una banda cómo tratar con instituciones externas, contratos y puertas que no se abren mordiendo el borde. También puede mostrar el costo de quedarse: la mirada que vuelve siempre al camino, la mano que toca cada objeto como si buscara una razón para irse, la habilidad triste de cumplir una promesa incluso cuando ya no ilumina nada.
 
+Para otras especies, el Panin de ciudad suele ser el más confiable.
+
+Para otros Panin, puede ser el más difícil de entender.
+
+Quizá aprendió una forma de madurez que la banda no sabe sostener.
+
+Quizá está domesticado.
+
+Quizá ambas cosas son ciertas en días distintos.
+
 Las fracturas internas Panin suelen nacer de preguntas que otras especies considerarían básicas: quién responde por una consecuencia cuando la inspiración que la produjo ya murió; cuánto pesa una promesa hecha en plena inspiración; si alguien que abandona una tarea cuando deja de arder está siendo honesto o cruel; si enseñar a los jóvenes a sostener rutinas es cuidado o domesticación.
+
+No suelen discutir estas preguntas hasta volverlas doctrina. Suelen discutirlas a gritos, en mitad de una partida, mientras alguien todavía carga una herramienta que ayer importaba y hoy ya no, o cuando una banda descubre demasiado tarde que uno de los suyos hablaba en serio cuando dijo “yo no voy a poder seguir con esto”.
 
 Ninguna banda responde igual.
 
@@ -212,6 +302,18 @@ Importaba mientras el cuerpo podía sostenerlo.
 
 Algunos Panin conservan recuerdos más tiempo que otros. Algunos vuelven a lugares donde perdieron a alguien y se sorprenden de que el lugar aún les encienda algo. Otros no pueden volver porque no enciende nada. Ambas respuestas son comprendidas por la banda, aunque rara vez explicadas.
 
+Las promesas son uno de los problemas más difíciles de la vida Panin. Prometer durante el encendido es fácil: el cuerpo entero cree. Cumplir después de la caída exige una práctica que no todas las bandas valoran ni todos los Panin pueden sostener.
+
+Por eso muchas bandas prefieren acuerdos presentes: ahora cruzamos juntos, ahora compartimos alimento, ahora nadie toca esa grieta, ahora esperamos a quien falta.
+
+Los Panin de ciudad aprenden otra cosa: que algunas promesas siguen existiendo aunque la inspiración que las produjo ya no esté.
+
+Aprender eso puede salvarlos.
+
+También puede partirlos.
+
+Un Panin que cumple una promesa apagada puede sentirse falso. Un Panin que la abandona puede herir a quienes todavía viven dentro de ella. Las comunidades mixtas que sobreviven con Panin suelen aprender a renovar compromisos, volverlos concretos, revisables, capaces de encenderse otra vez. Las que no lo hacen acumulan resentimiento y luego llaman traición a lo que quizá fue una caída que nadie supo leer.
+
 Los viejos Panin no enseñan doctrina.
 
 Enseñan por presencia.
@@ -240,7 +342,7 @@ Los Myo ven en las concentraciones Panin información peligrosa: no porque los P
 
 Los Drak'kai suelen atraerlos por accidente. Las colecciones están llenas de objetos de inspiración. Los objetos antiguos llaman la mano Panin con una fuerza inmediata. El problema llega cuando la inspiración termina y el objeto queda donde el cuerpo lo soltó, no donde la colección lo necesitaba. Algunos Drak'kai aprenden a guardar sus objetos antes de dormir cerca de Panin. Otros descubren que el Panin movió exactamente la pieza que necesitaba moverse, aunque nadie pueda reconstruir por qué.
 
-Los Zarnag suelen tener poca paciencia con ellos en sitios de muerte o contaminación. Un Panin curioso puede cruzar un perímetro, tocar un resto, o correr hacia un olor que para el Zarnag significa infección. Pero también pueden detectar peligros antes de que otros los nombren: un silencio extraño, una risa mal puesta, un insecto donde no debería estar. Un Zarnag veterano puede gritarle a un Panin todo el día y aun así mirar hacia donde el Panin dejó de reír.
+Los Zarnag suelen tener poca paciencia con ellos en sitios de muerte o contaminación. Un Panin curioso puede cruzar un perímetro, tocar un Resto, o correr hacia un olor que para el Zarnag significa infección. Pero también pueden detectar peligros antes de que otros los nombren: un silencio extraño, una risa mal puesta, un insecto donde no debería estar. Un Zarnag veterano puede gritarle a un Panin todo el día y aun así mirar hacia donde el Panin dejó de reír.
 
 Los Formix desconciertan a los Panin de una manera particular. Su disciplina, su relación con función y su aprendizaje lento de la preferencia pueden parecer a la vez tristes y fascinantes. Algunos Panin jóvenes admiran la claridad con que un Formix puede sostener una tarea. Algunos Formix admiran, con incomodidad, la facilidad con que un Panin parece querer algo. Ambos pueden malentenderse profundamente: seguir lo que inspira no siempre es libertad, y sostener función no siempre es obediencia.
 
@@ -248,7 +350,15 @@ Los Loxod pueden resultar pesados para los Panin, no por tamaño, sino por memor
 
 Los Ceratox suelen irritarse con ellos. La calibración requiere línea base, repetición y cuidado sobre no inventar significado. Los Panin introducen perturbación, improvisación y acción antes de que el registro esté listo. Pero un Panin puede revelar por accidente qué parte del territorio estaba demasiado frágil para merecer confianza. Para un Ceratox honesto, eso también es dato, aunque duela admitirlo.
 
-Los Chelicer ven en los Panin una amenaza a las condiciones. Una ordalía exige ángulo, testigo, luz, distancia y procedimiento. Un Panin ve una habitación llena de cosas que podrían cambiar si se tocan. El choque es casi inevitable. Sin embargo, un Panin puede detectar la mentira corporal en un sacerdote antes de que cualquier testigo de registro encuentre la irregularidad formal. Eso no vuelve al Panin confiable. Solo vuelve el problema más difícil de ignorar.
+Los Chelicer ven en los Panin una amenaza a las condiciones. Una ordalía exige ángulo, testigo, Luz, distancia y procedimiento. Un Panin ve una habitación llena de cosas que podrían cambiar si se tocan. El choque es casi inevitable. Sin embargo, un Panin puede detectar la mentira corporal en un sacerdote antes de que cualquier testigo de registro encuentre la irregularidad formal. Eso no vuelve al Panin confiable. Solo vuelve el problema más difícil de ignorar.
+
+Los Arakhel entienden algo de las convergencias Panin, aunque no las nombren igual. Un nodo también reúne cuerpos, rutas, decisiones y promesas en un lugar que importa porque muchos pasos se cruzan allí. Pero para un Arakhel, el cruce requiere cuidado, memoria y deuda. Para un Panin, un cruce puede ser intensamente real mientras inspira y luego apagarse sin malicia. Los mejores encuentros ocurren cuando el Arakhel enseña continuidad sin exigir quietud, y el Panin prueba rutas sin romper el hilo.
+
+Los Bufoni suelen encontrar a los Panin peligrosamente descorteses con los dominios. No por burla ni desprecio: simplemente no siempre reconocen protocolo territorial si no produce inspiración inmediata. Un Panin puede tocar una piedra, cruzar un límite, alterar una ofrenda o perseguir un sonido porque el objeto llamó. Para un Bufoni, eso puede ser falta grave. Para un Panin, la falta quizá solo se vuelve real cuando el dominio responde.
+
+Los Ursari incomodan a muchos Panin por su relación con oficio y permanencia. Una vida entera en torno a una forja, una técnica o una transformación material puede parecer admirable y asfixiante a la vez. Los Ursari, por su parte, suelen ver en los Panin un talento que se desperdicia por no sostener práctica suficiente. A veces tienen razón. A veces no entienden que una inspiración muerta no produce maestría, solo mentira corporal.
+
+Los Luphran ofrecen una pertenencia intensa que puede atraer y asustar. Tripulación, jarl, nave viva y lealtad sostenida crean una inspiración social poderosa. Un Panin puede integrarse con rapidez extraordinaria a bordo, leer tensiones antes de que estallen y moverse como parte del barco antes de saber todos los nombres. El problema llega cuando la inspiración cambia. Para los Luphran, irse puede parecer traición. Para el Panin, quedarse sin inspiración puede sentirse como hundirse en una promesa que el cuerpo ya no entiende.
 
 Para el mundo exterior, los Panin son útiles, agotadores, brillantes, irresponsables, honestos hasta la imprudencia y peligrosos sin malicia.
 
@@ -270,9 +380,11 @@ Muchos Panin salen de una banda sin despedirse. Algunos siguen un objeto, un pro
 
 Un personaje Panin puede ser un explorador que se unió al grupo porque una ruina lo llamó y ahora no sabe por qué sigue con ellos. Una reparadora brillante que entiende cualquier mecanismo durante una hora y luego necesita notas ajenas para recordar por qué importaba. Un joven que busca una inspiración que dure más que una estación. Un veterano que teme haberse quedado demasiado tiempo en un lugar y haberse vuelto raro. Una mentirosa excelente porque sabe cuándo los demás están leyendo mal su propia cara. Un compañero intensamente leal hoy, aterrorizado de no sentir lo mismo mañana.
 
+También puede ser un Panin de ciudad que aprendió a cumplir promesas apagadas y todavía no sabe si eso lo volvió mejor o más triste. Alguien con una inspiración pegada que parece destino, don o maldición según el día. Un miembro de banda que abandonó algo importante y vuelve porque la culpa, por fin, encendió de nuevo. O alguien que descubrió un objeto que sigue llamando incluso cuando todos los demás ya lo dejaron atrás.
+
 Lo que un Panin sabe al salir: cómo moverse por espacios inestables, cómo leer intención corporal, cómo probar sin entregarse del todo, cómo actuar antes de que la oportunidad desaparezca, y que la atención puede ser más real que cualquier juramento mientras dura.
 
-Lo que muchos no saben: si la pérdida de interés es verdad o huida; si una promesa debe sobrevivir a la caída de la inspiración; si seguir el impulso es libertad o solo otra forma de obediencia; y si algún día encontrarán algo que siga importando después de apagarse.
+Lo que muchos no saben: si la pérdida de interés es verdad o huida; si una promesa debe sobrevivir a la caída de la inspiración; si seguir el impulso es libertad o solo otra forma de obediencia; si una inspiración pegada es propósito o trampa; y si algún día encontrarán algo que siga importando después de apagarse.
 
 Ninguno sabe con certeza si seguirá queriendo lo mismo mañana.
 
