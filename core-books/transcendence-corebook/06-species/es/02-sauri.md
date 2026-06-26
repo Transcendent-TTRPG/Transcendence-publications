@@ -16,45 +16,29 @@ related:
 
 # Sauri
 
-Los Sauri no temen a la Corriente porque sea distante o incomprensible.
+Los Sauri no temen a la Corriente porque sea distante o incomprensible. La temen porque creen entenderla lo suficiente como para darle cauce, retener su Carga y hacer que un cuerpo la soporte.
 
-La temen porque creen entenderla lo suficiente como para darle cauce, retener su Carga y hacer que un cuerpo la soporte.
-
-Su mayor afirmación teológica es también su mayor peligro: que una forma correcta puede recibir aquello que destruiría a una forma incompleta. Que una cámara puede contener. Que una tumba puede preservar. Que una ley puede sostener presión. Que un cuerpo puede convertirse en recipiente de la Corriente sin quedar arruinado por ella.
+Su mayor afirmación teológica es también su mayor peligro: que una forma correcta puede recibir aquello que destruiría a una forma incompleta. Que una cámara puede contener, que una tumba puede preservar, que una ley puede sostener presión, que un cuerpo puede convertirse en recipiente de la Corriente sin quedar arruinado por ella.
 
 Su gobernante es el mayor intento de prueba de esa afirmación.
 
-Por eso, cuando un soberano Sauri enferma, cambia de color, deja de aparecer en público o permanece demasiado tiempo dentro de una cámara sellada, no se interpreta como un problema privado de la corona.
-
-Se interpreta como una grieta en la idea misma de que algo vivo puede contener esa fuerza sin romperse.
+Por eso, cuando un soberano Sauri enferma, cambia de color, deja de aparecer en público o permanece demasiado tiempo dentro de una cámara sellada, no se interpreta como un problema privado de la corona, sino como una grieta en la idea misma de que algo vivo puede contener esa fuerza sin romperse.
 
 ## El Cuerpo
 
 Los Sauri son humanoides bípedos de gran tamaño con cuerpos de cocodrilo pesados: torsos anchos, musculatura densa, mandíbulas poderosas, colas largas y escamas gruesas estratificadas. No están construidos para la elegancia veloz. Su movimiento lleva el peso de algo que puede permanecer inmóvil durante mucho tiempo y luego cerrar la distancia en una decisión.
 
-El cuerpo Sauri no anuncia prisa.
-
-Anuncia consecuencia.
+El cuerpo Sauri no anuncia prisa: anuncia consecuencia.
 
 Sus escamas son una de las características definitorias de la especie. No solo protegen el cuerpo. En entornos donde la Corriente pesa más sobre el mundo, pueden cambiar de tono, oscurecerse, aclararse o adquirir bandas de color de aspecto mineral. Las clases sacerdotales interpretan estos cambios como evidencia corporal de presión ambiental: calor, humedad, contenido mineral, alteración del entorno, Carga cercana o presencia de algo que no está pasando por el mundo de manera ordinaria.
 
-Esto no hace a los Sauri hechiceros naturales.
+Esto no hace a los Sauri hechiceros naturales: su piel no comanda la Corriente, la recibe, y hace visible la Presión que atraviesa el entorno. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hacen la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar lo que pasa a través de ellos.
 
-Su piel no comanda la Corriente.
-
-La recibe y hace visible la Presión que atraviesa el entorno. Para otras especies esto puede parecer místico. Para los Sauri, es anatomía haciendo lo que hacen la piedra de los templos, los cauces de los ríos y los vasos rituales: registrar lo que pasa a través de ellos.
-
-Una escama que cambia no es una profecía por sí sola.
-
-Es un dato.
-
-El error está en creer que un dato no puede destruir una ciudad cuando todos dependen de interpretarlo a tiempo.
+Una escama que cambia no es una profecía por sí sola: es un dato. Y el error está en creer que un dato no puede destruir una ciudad cuando todos dependen de interpretarlo a tiempo.
 
 Su biología depende del calor de maneras que van más allá del confort. El tejido Sauri tiene una capacidad regenerativa que se activa bajo temperatura corporal sostenida: con calor externo disponible, el cuerpo repara heridas a un ritmo que otras especies no alcanzan con los mismos recursos médicos. En frío, esa capacidad se reduce hasta la norma de cualquier otra especie. Sus sacerdocios conocen este rasgo; sus rituales de recuperación siempre incluyen el mantenimiento de temperatura como condición primaria.
 
-El calor no es lujo.
-
-Es condición de cierre.
+El calor no es lujo: es condición de cierre.
 
 Una herida fría permanece abierta más tiempo. Una cámara fría conserva de otra manera. Un cuerpo privado de calor tarda más en volver a contenerse. En la lógica Sauri, todo esto pertenece al mismo campo: la forma necesita condiciones para no fallar.
 
@@ -72,19 +56,11 @@ Sus asentamientos parecen bajos, sellados y seminaturales desde afuera: semiente
 
 Los Sauri se instalan en márgenes de ríos, llanuras inundables, bordes desérticos donde la humedad que sobrevive al calor se gestiona con la misma atención que los linajes o las leyes: con registro, con autoridad y con consecuencias para quien rompe el sistema.
 
-El río no es solo hábitat.
-
-Es cauce.
-
-Es llegada.
-
-Es memoria en movimiento.
+El río no es solo hábitat: es cauce, llegada, memoria en movimiento.
 
 Las corrientes que atraviesan territorios temidos, ruinas antiguas o sitios de muerte masiva arrastran consigo objetos que esos lugares cargaron. Un Sauri que conoce su río sabe leer qué trajo la última crecida: la escama cambia antes de que el ojo confirme nada. Las comunidades desarrollaron prácticas de recolección, secado, aislamiento y evaluación de estos objetos durante generaciones.
 
-No los acumulan para armarse ni para comerciar.
-
-Los guardan para lo que importa: la prueba.
+No los acumulan para armarse ni para comerciar: los guardan para lo que importa, la prueba.
 
 La categoría más amplia para esas reliquias es la de recipientes: objetos, cuerpos, cámaras o formas que recibieron Carga y no la devolvieron enseguida al mundo. Un recipiente puede permanecer años o generaciones como si estuviera quieto antes de que alguien descubra que no lo estaba.
 
@@ -98,9 +74,7 @@ Un recipiente agrietado todavía conserva forma, pero filtra: altera el entorno,
 
 Un recipiente roto ya no contiene. Derrama.
 
-La diferencia rara vez se decide por apariencia.
-
-Se decide por consecuencia.
+La diferencia rara vez se decide por apariencia: se decide por consecuencia.
 
 Un recipiente puede ser una vasija, una máscara, una cámara, una tumba, un canal, una ley, un linaje, un cuerpo o un gobernante. Lo que importa es si puede retener Carga sin filtrarse, quebrarse o corromper lo que contiene.
 
@@ -108,11 +82,7 @@ La mayoría de las comunidades Sauri están gobernadas por un soberano cuya auto
 
 Esa prueba recibe muchos nombres locales, pero la tradición más extendida la llama la Prueba del Recipiente.
 
-El soberano es el Sauri que puede sostener más Carga sin perder propósito.
-
-Sin romperse.
-
-Sin que la prueba lo vuelva otra cosa.
+El soberano es el Sauri que puede sostener más Carga sin perder propósito, sin romperse, sin que la prueba lo vuelva otra cosa.
 
 Las escamas lo registran todo. Ese es el instrumento que otras especies no tienen: el cuerpo del soberano es legible para quienes lo rodean en tiempo real. Los cambios de color no son ceremoniales. Son datos. Una oscilación durante el punto más intenso de la prueba puede terminar una candidatura. Una estabilidad sostenida puede establecer a alguien como soberano durante décadas.
 
@@ -130,9 +100,7 @@ Los duelos existen, pero los concursos más respetados no son violencia simple. 
 
 La arquitectura Sauri está diseñada como pasaje controlado. Sus templos y fortalezas usan piedra, tierra compactada, metal, agua y sombra para dirigir el movimiento a través de una secuencia de estados: calor en frescura, luz en oscuridad, patio abierto en canal estrecho, cámara seca en pasaje sumergido.
 
-Un visitante no simplemente entra a un templo Sauri.
-
-El templo lo procesa.
+Un visitante no simplemente entra a un templo Sauri: el templo lo procesa.
 
 ## Teología y Cosmología
 
@@ -142,17 +110,13 @@ Un río, una vena, una raíz, un filón, un camino antiguo, una ley heredada o u
 
 Esto hace a los Sauri una de las especies más dispuestas a acercarse directamente a lo que otras culturas evitarían nombrar. No lo tratan como seguro. Lo tratan como algo suficientemente peligroso como para merecer arquitectura.
 
-Para los Sauri, la forma no es decoración.
-
-La forma es defensa.
+Para los Sauri, la forma no es decoración: la forma es defensa.
 
 Una cámara mal orientada, un canal abierto antes de tiempo, un cuerpo preservado con una secuencia incompleta o una ley incapaz de contener una crisis no son fallas separadas. Son variaciones de la misma amenaza: algo que debía mantenerse dentro de su forma encontró una grieta.
 
 Los Sauri no creen que la muerte sea liberación del cuerpo. Creen que el cuerpo es el primer y más importante recipiente que recibe una persona. Morir sin la preservación adecuada es dejar que ese recipiente se derrame antes de que lo que cargó haya sido juzgado, pesado y devuelto al orden que le corresponde.
 
-Sus prácticas funerarias no son meramente reverentes.
-
-Son técnicas, políticas y teológicas.
+Sus prácticas funerarias no son meramente reverentes: son técnicas, políticas y teológicas.
 
 Un cuerpo preservado retiene la marca de lo que soportó quien lo habitó. El soberano que sostuvo durante décadas los objetos más pesados para su tradición deja en su cuerpo preservado el registro más denso que la comunidad puede conservar. Las cámaras funerarias no son memoriales. Son el archivo que se usa en la siguiente prueba.
 
@@ -160,21 +124,11 @@ La secuencia es deliberada. Un candidato al soberanato es puesto progresivamente
 
 Quien soporta la prueba final sin perder coherencia es el nuevo soberano.
 
-Los muertos no son consultados.
-
-Son instrumentos de calibración.
+Los muertos no son consultados: son instrumentos de calibración.
 
 Los Sauri preparan cuerpos, sellan cámaras, orientan canales, miden cambios en escama, agua, mineral y carne. Todo en su teología insiste en la misma posibilidad: que la forma correcta puede impedir que lo sagrado, lo pesado o lo demasiado antiguo destruya aquello que toca.
 
-No todos los recipientes son iguales.
-
-Un recipiente cerrado merece cuidado.
-
-Un recipiente abierto merece secuencia.
-
-Un recipiente agrietado merece vigilancia.
-
-Un recipiente roto merece aislamiento, reparación o destrucción, según qué derrame y cuánto pueda sobrevivirse al intentarlo.
+No todos los recipientes son iguales: uno cerrado merece cuidado; uno abierto, secuencia; uno agrietado, vigilancia; uno roto, aislamiento, reparación o destrucción, según qué derrame y cuánto pueda sobrevivirse al intentarlo.
 
 Esa última frase genera disputas interminables. Los preservadores suelen insistir en reparación. Los trabajadores de canal entienden mejor que a veces una estructura rota debe abrirse por completo para que deje de matar lentamente. Los sacerdotes tienden a retrasar esa decisión mientras haya posibilidad de conservar forma. Los soldados prefieren saber qué hacer antes de que el derrame alcance las puertas.
 
@@ -184,9 +138,7 @@ También se les llama los Sin Recipiente.
 
 No son dioses en sentido simple. No fundan linajes, no gobiernan ciudades, no exigen culto estable. Son presencias que existen dentro de la Corriente sin necesitar la forma que todo lo demás necesita para no romperse. Para una cultura edificada sobre la idea de que toda fuerza debe tener cauce, los Navegantes son fascinantes y terribles.
 
-Un Navegante no prueba que la doctrina Sauri sea falsa.
-
-Prueba algo peor: que quizá la Corriente tiene modos de existencia para los que ningún recipiente vivo fue diseñado.
+Un Navegante no prueba que la doctrina Sauri sea falsa. Prueba algo peor: que quizá la Corriente tiene modos de existencia para los que ningún recipiente vivo fue diseñado.
 
 La pregunta que no aparece en ningún texto ritual es la más simple:
 
@@ -200,17 +152,13 @@ Las comunidades Sauri raramente son idénticas. Un templo de pantano, un reino f
 
 Donde la inundación es la amenaza principal, los guardianes del río y las castas de trabajo pueden rivalizar con los sacerdocios en poder práctico. Donde la preservación y la continuidad dinástica dominan, las órdenes funerarias y los custodios de linaje pueden tener más peso que los soldados. Donde el comercio sostiene la supervivencia, los administradores de canal y los guardianes de peaje pueden decidir más vidas que cualquier noble.
 
-Lo que permanece universal no es una forma política.
-
-Es una exigencia civilizacional:
-
-alguien debe evitar que el recipiente falle.
+Lo que permanece universal no es una forma política, sino una exigencia civilizacional: alguien debe evitar que el recipiente falle.
 
 Las tensiones internas son estructurales y recurrentes: el sacerdocio frente a la autoridad del trabajo; la santidad del soberano frente a la prueba de que el cuerpo soberano está fallando; la preservación de los muertos frente al miedo a que se esté reteniendo demasiado; la defensa de los canales frente al comercio abierto; la ortodoxia ritual frente a la improvisación de supervivencia local.
 
 Estas tensiones se vuelven peligrosas porque los asentamientos Sauri a menudo no tienen margen para equivocarse durante mucho tiempo. Una fractura doctrinal durante sequía, putrefacción, asedio o contaminación de ruinas no es un inconveniente filosófico. Es la forma de un evento de muerte masiva esperando la primera grieta.
 
-Los Sauri que viven cerca del poder aprenden pronto que no todas las cámaras selladas guardan lo mismo. Algunas preservan cuerpos. Algunas preservan legitimidades. Algunas preservan errores que nadie tiene autoridad suficiente para admitir.
+Los Sauri que viven cerca del poder aprenden pronto que no todas las cámaras selladas guardan lo mismo. Algunas preservan cuerpos; otras, legitimidades; otras, errores que nadie tiene autoridad suficiente para admitir.
 
 El lenguaje de las grietas atraviesa toda su organización.
 
@@ -226,11 +174,9 @@ Estas categorías no son solo médicas ni solo religiosas. Un trabajador de cana
 
 La política Sauri consiste, en buena parte, en decidir quién tiene autoridad para declarar que algo pasó de Grieta a Filtración, de Filtración a Derrame, o de Derrame a Ruptura.
 
-Una declaración temprana puede destruir una legitimidad.
+Una declaración temprana puede destruir una legitimidad; una tardía, una ciudad.
 
-Una declaración tardía puede destruir una ciudad.
-
-Vida Cotidiana
+## Vida Cotidiana
 
 Sobrevivir como Sauri es vivir dentro de Presión gestionada.
 
@@ -246,9 +192,7 @@ El mercado Sauri rara vez huele a frescura. Huele a humo, cuero húmedo, sal, ba
 
 La infancia Sauri raramente es tan protegida como otras especies preferirían. Los jóvenes Sauri aprenden pronto a distinguir agua quieta de agua venenosa, piedra estable de piedra hueca, refugio verdadero de sombra engañosa, y una señal útil de una lectura fatal falsa. Los ritos de paso suelen poner a prueba la tolerancia antes que la destreza: resistencia al calor, guardia nocturna, silencio sellado, carga de peso, mantener la postura bajo el miedo, preservar algo confiado al iniciado sin deterioro, pánico ni fuga.
 
-Un niño Sauri no aprende primero a vencer.
-
-Aprende a no romperse.
+Un niño Sauri no aprende primero a vencer: aprende a no romperse.
 
 También aprende que una vasija mal sellada, una promesa incumplida, una compuerta debilitada y una herida desatendida pueden nombrarse con palabras parecidas. No porque sean lo mismo, sino porque todas enseñan la misma verdad: lo que no contiene a tiempo derrama después.
 
@@ -256,15 +200,11 @@ Lo que los Sauri encuentran más difícil de soportar son las pérdidas de conte
 
 Cuando esa torsión deja huella en un cuerpo, una escama o una línea ritual, muchas comunidades la nombran de manera directa: Grieta del Recipiente. No todas significan colapso inminente. Algunas son leves, soportables, incluso esperadas después de ciertos oficios. Otras bastan para apartar a un lector, invalidar una prueba o encender disputas sobre si el soberano sigue conteniendo algo o ya solo está agrietándose alrededor de ello.
 
-La vergüenza no está siempre en tener Grieta.
-
-A veces está en negarla.
+La vergüenza no está siempre en tener Grieta; a veces está en negarla.
 
 Una comunidad puede sobrevivir durante años con pequeñas Filtraciones: una cámara que se revisa más seguido de lo normal, un linaje que ya no participa en ciertas pruebas, un tramo de canal que los niños no cruzan, un soberano que aparece solo bajo cierta luz. Los Sauri son expertos en convivir con señales de falla mientras todavía pueden nombrarlas como mantenimiento.
 
-El peligro empieza cuando el mantenimiento se vuelve doctrina.
-
-Cuando todos saben que algo filtra y siguen llamándolo cerrado.
+El peligro empieza cuando el mantenimiento se vuelve doctrina, cuando todos saben que algo filtra y siguen llamándolo cerrado.
 
 Envejecer bien entre los Sauri no es acumular poder. Es conservar forma bajo Presión y saber cuándo una forma amada ya no puede cumplir su función. Un anciano respetado no es quien nunca se agrietó. Es quien aprendió a distinguir una Grieta que puede sellarse de una Ruptura que debe dejar de obedecerse.
 
@@ -302,7 +242,7 @@ Los Loxod pueden recibir capas de memoria, presión y Carga en cuerpos preservad
 
 Los Formix producen una reflexión incómoda sobre función y cuerpo. Para los Sauri, un cuerpo puede ser recipiente de deber, linaje y Carga. Para un Formix libre, esa clase de lenguaje puede sonar peligrosamente parecida a justificar que una persona exista para una función. Los Sauri no suelen entender la objeción de inmediato. Los Formix sí.
 
-Los Chelicer reconocen la importancia de la prueba, el procedimiento y la presencia pública. Pero para un Chelicer, la ordalía revela un veredicto. Para un Sauri, la prueba no revela verdad abstracta: demuestra si una forma puede sostener Presión sin romperse. Ambos pueden respetarse profundamente y aun así desconfiar del fundamento del otro. El Chelicer pregunta qué fue revelado. El Sauri pregunta qué quedó contenido.
+Los Chelicer reconocen la importancia de la prueba, el procedimiento y la presencia pública. Pero para un Chelicer, la ordalía revela un veredicto. Para un Sauri, la prueba no revela verdad abstracta: demuestra si una forma puede sostener Presión sin romperse. Ambos pueden respetarse profundamente y aun así desconfiar del fundamento del otro. El Chelicer pregunta qué fue revelado; el Sauri, qué quedó contenido.
 
 Los Sauri no consideran que la cautela externa sea paranoia. Consideran que los demás han tardado demasiado en notar lo obvio.
 
@@ -316,19 +256,13 @@ Su formación ritual genera inclinaciones hacia la arquitectura sagrada, las té
 
 Las escamas son lo más relevante del cuerpo Sauri en entornos donde la Corriente se siente con fuerza. No controlan la Corriente, pero la registran: los cambios de color son datos sobre lo que hay alrededor antes de que el ojo o el oído lo confirmen. Esa misma sensibilidad tiene costo. Un Sauri cerca de una presencia especialmente intensa puede quedar absorbido por la señal que sus propias escamas le envían, y eso no siempre es seguro.
 
-Un Sauri no domina la Corriente porque la ignore.
-
-La trabaja porque acepta acercarse a ella bajo forma, secuencia y medida.
-
-El peligro empieza cuando esa medida falla.
+Un Sauri no domina la Corriente porque la ignore: la trabaja porque acepta acercarse a ella bajo forma, secuencia y medida. El peligro empieza cuando esa medida falla.
 
 La otra cara es física: años de exposición a calor extremo, Presión ritual y contacto con sustancias peligrosas producen una reserva de aguante que otras especies difícilmente igualan. Sus escamas también absorben impacto. Un Sauri puede sacrificar esfuerzo para amortiguar una herida que otro cuerpo no podría encajar de la misma manera.
 
 En combate, la mandíbula es la identidad Sauri por excelencia: no como primer golpe sino como consecuencia inevitable una vez que la distancia se cierra. Un Sauri que alcanza a un oponente no ha infligido un impacto. Ha iniciado un problema que el oponente debe resolver antes de que la masa y el tiempo lo resuelvan por él.
 
-La cola trabaja el espacio exterior a esa decisión: barridos laterales pesados, disrupción del equilibrio y negación del paso alrededor del cuerpo. A diferencia de la cola prensil del Naghii, la cola Sauri es masa en movimiento. No busca envolver.
-
-Busca despejar.
+La cola trabaja el espacio exterior a esa decisión: barridos laterales pesados, disrupción del equilibrio y negación del paso alrededor del cuerpo. A diferencia de la cola prensil del Naghii, la cola Sauri es masa en movimiento. No busca envolver: busca despejar.
 
 Muchos personajes Sauri están fuera de sus comunidades porque algo rompió la relación con el recipiente que se suponía debían proteger o ser. Algunos son herederos de un linaje soberano que no reconoció al gobernante elegido. Algunos son preservadores que encontraron algo en las cámaras selladas que no debería moverse todavía. Algunos son guardianes de canal cansados de sacerdotes que hablan de contención sin cargar agua. Algunos sobrevivieron a un asentamiento donde el recipiente falló: reservorio, templo, linaje o gobernante. Otros son creyentes absolutos, dispuestos a demostrar con su propio cuerpo que la Corriente puede ser sostenida si la forma es suficientemente fuerte.
 
@@ -338,9 +272,7 @@ Lo que un personaje Sauri sabe al salir: cómo leer señales de Presión en pied
 
 Lo que muchos no saben: si el recipiente en el que creyeron era tan sólido como pensaban, y qué está pasando realmente dentro de las cámaras que dejaron selladas.
 
-La pregunta que muchos Sauri cargan en silencio no es si la Corriente existe.
-
-Es si contenerla fue alguna vez distinto de retrasar la Ruptura.
+La pregunta que muchos Sauri cargan en silencio no es si la Corriente existe, sino si contenerla fue alguna vez distinto de retrasar la Ruptura.
 
 ---
 
