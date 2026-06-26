@@ -16,7 +16,7 @@ related:
 
 # Sauri
 
-Los Sauri no temen al Tauma porque sea distante o incomprensible. Lo temen porque creen entenderlo lo suficiente como para tocar su paso, retenerlo y hacer que un cuerpo lo soporte. Su mayor afirmación teológica es también su mayor peligro: que un cuerpo puede convertirse en recipiente de la corriente primordial sin quedar arruinado por ella.
+Los Sauri no temen al Tauma porque sea distante o incomprensible. Lo temen porque creen entenderlo lo suficiente como para tocar su paso, retenerlo y hacer que un cuerpo lo soporte. Su mayor afirmación teológica es también su mayor peligro: que un cuerpo puede convertirse en recipiente de la corriente sin quedar arruinado por ella.
 
 Su gobernante es el mayor intento de prueba de esa afirmación.
 
@@ -44,13 +44,13 @@ Los Sauri se instalan en márgenes de ríos, llanuras inundables, bordes desért
 
 El río no es solo hábitat. Es una ruta de llegada. Las corrientes que atraviesan territorios temidos, ruinas antiguas o sitios de muerte masiva arrastran consigo objetos que esas zonas marcaron. Un Sauri que conoce su río sabe leer qué trajo la última crecida: la escama cambia antes de que el ojo confirme nada. Las comunidades desarrollaron prácticas de recolección y evaluación de estos objetos durante generaciones. No los acumulan para armarse ni para comerciar. Los guardan para lo que importa: la prueba.
 
-La categoría más amplia para esas reliquias es la de recipientes cerrados: objetos que retienen carga, memoria ritual o presión antigua sin devolverla de inmediato al entorno. Una pieza puede permanecer años o generaciones como recipiente cerrado antes de que alguien descubra que no estaba tan quieta como parecía.
+La categoría más amplia para esas reliquias es la de recipientes cerrados: objetos que guardan algo del peso que les llegó sin devolverlo enseguida al mundo. Una pieza puede permanecer años o generaciones como recipiente cerrado antes de que alguien descubra que no estaba tan quieta como parecía.
 
 Un recipiente puede ser un cuerpo, un templo, un linaje, una ley, una tumba, un canal, una máscara o un gobernante. Lo que importa es si puede retener fuerza sin filtrarse, quebrarse o corromper lo que contiene.
 
 La mayoría de las comunidades Sauri están gobernadas por un soberano cuya autoridad no se hereda ni se negocia: se demuestra. La prueba consiste en sostener, simultáneamente, los objetos más cargados que la comunidad ha reunido, los que ponen a prueba la forma de quien los porta y exigen de él algo que no puede fingirse. El soberano es el Sauri que puede sostener más de eso sin perder el propósito. Sin romperse. Sin que la prueba lo vuelva otra cosa.
 
-Los objetos más temidos no son los recipientes cerrados, sino los recipientes abiertos: piezas, cámaras o cuerpos que no solo retienen presión, sino que la devuelven, la dejan pasar o exponen a quien se acerca demasiado. La diferencia rara vez se decide por apariencia. Se decide por consecuencia.
+Los objetos más temidos no son los recipientes abiertos: piezas, cámaras o cuerpos que no solo guardan, sino que devuelven, dejan pasar o exponen a quien se acerca demasiado. La diferencia rara vez se decide por apariencia. Se decide por consecuencia.
 
 Las escamas lo registran todo. Ese es el instrumento que otras especies no tienen: el cuerpo del soberano es legible para quienes lo rodean en tiempo real. Los cambios de color no son ceremoniales — son datos. Una oscilación durante el punto más intenso de la prueba puede terminar una candidatura. Una estabilidad sostenida puede establecer a alguien como soberano durante décadas.
 
@@ -68,7 +68,7 @@ Un visitante no simplemente entra a un templo Sauri. El templo lo procesa.
 
 ## Teología y Cosmología
 
-Los Sauri no describen al Tauma como una fuerza exterior que irrumpe en el mundo. Lo describen como una corriente que busca cauce, una presión que se deja sentir allí donde la forma no está bien cerrada y allí donde los recipientes fueron preparados para recibirla. Lechos de ríos, venas, raíces, vasos sanguíneos, filones minerales, caminos antiguos, ruinas y linajes rituales se interpretan todos como posibles cursos para ese poder.
+Los Sauri no describen al Tauma como una fuerza exterior que irrumpe en el mundo. Lo describen como una corriente que busca cauce, una presión que se deja sentir allí donde la forma no está bien cerrada y allí donde los recipientes fueron preparados para recibirla. Un río, una vena, una raíz, un filón, un camino antiguo o un linaje ritual pueden leerse del mismo modo: como cosas por donde esa corriente encontró forma de pasar.
 
 Esto hace a los Sauri una de las especies más dispuestas a acercarse directamente al Tauma. No lo tratan como seguro. Lo tratan como algo suficientemente peligroso como para merecer arquitectura.
 
@@ -82,7 +82,7 @@ La secuencia es deliberada. Un candidato al soberanato es puesto progresivamente
 
 Los Sauri preparan cuerpos, sellan cámaras, orientan canales, miden cambios en escama, agua, mineral y carne. Todo en su teología insiste en la misma posibilidad: que la forma correcta puede impedir que lo sagrado, lo pesado o lo demasiado antiguo destruya aquello que toca.
 
-No todos los recipientes pertenecen a la misma clase. Un recipiente cerrado guarda. Un recipiente abierto deja pasar. Y detrás de algunos recipientes abiertos, según la doctrina más antigua, no hay simple exceso de carga sino presencia: los Navegantes, seres que no necesitan recipiente mortal para existir dentro de la corriente y cuya cercanía explica por qué ciertas cámaras, cuerpos u objetos dejan de obedecer la lógica ordinaria de la contención.
+Los Sauri no hablan de esto siempre con las mismas palabras, pero sí repiten la diferencia una y otra vez: hay recipientes que guardan y recipientes que dejan pasar. Y detrás de algunos de estos últimos, según la doctrina más antigua, no hay simple exceso de peso sino presencia: los Navegantes, seres que no necesitan recipiente mortal para existir dentro de la corriente y cuya cercanía explica por qué ciertas cámaras, cuerpos u objetos dejan de obedecer la lógica ordinaria de la contención.
 
 La pregunta que no aparece en ningún texto ritual es la más simple: ¿y si nada viviente estuvo nunca destinado a contenerla?
 
@@ -156,7 +156,7 @@ La cola trabaja el espacio exterior a esa decisión: barridos laterales pesados,
 
 Muchos personajes Sauri están fuera de sus comunidades porque algo rompió la relación con el recipiente que se suponía debían proteger o ser. Algunos son herederos de un linaje soberano que no reconoció al gobernante elegido. Algunos son preservadores que encontraron algo en las cámaras selladas que no debería moverse todavía. Algunos son guardianes de canal cansados de sacerdotes que hablan de contención sin cargar agua. Algunos sobrevivieron a un asentamiento donde el recipiente falló: reservorio, templo, linaje o gobernante. Otros son creyentes absolutos, dispuestos a demostrar con su propio cuerpo que esa fuerza puede ser sostenida si la forma es suficientemente fuerte.
 
-Lo que un personaje Sauri sabe al salir: cómo leer señales de presión en piedra, agua y temperatura; la diferencia entre un recipiente cerrado y uno abierto; que la contención importa más que la velocidad; cómo preservar lo que no debe corromperse; y que ni una prueba, ni una cámara, ni un recipiente abierto esperan a que estés listo.
+Lo que un personaje Sauri sabe al salir: cómo leer señales de presión en piedra, agua y temperatura; cuándo algo parece guardar y cuándo empieza a dejar pasar; que la contención importa más que la velocidad; cómo preservar lo que no debe corromperse; y que ni una prueba, ni una cámara, ni un recipiente abierto esperan a que estés listo.
 
 Lo que muchos no saben: si el recipiente en el que creyeron era tan sólido como pensaban, y qué está pasando realmente dentro de las cámaras que dejaron selladas.
 

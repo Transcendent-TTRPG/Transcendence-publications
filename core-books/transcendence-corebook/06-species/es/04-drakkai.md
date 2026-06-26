@@ -80,11 +80,11 @@ Después de eso, empieza el verdadero vagabundeo.
 
 ## Teología y Cosmología
 
-Los Drak'kai han tenido más encuentros con presencias que la mayoría de las especies, no porque las busquen, sino porque lo que coleccionan vuelve el contacto inadvertido más probable y más prolongado.
+Muchos Drak'kai terminan cruzándose con presencias aunque nunca hayan salido a buscarlas. No porque su oficio consista en invocarlas, sino porque cargar durante décadas objetos, notas, restos de rito y rutas torcidas vuelve más probable el contacto largo, el malentendido y la permanencia demasiado cercana.
 
-Hay objetos que conservan un comportamiento reconocible durante años, incluso siglos. Los Drak'kai suelen llamarlos legados quietos: piezas que insisten, repiten, pesan, desvían o responden de forma bastante estable si se las observa el tiempo suficiente. También hay otras piezas que no se dejan tratar así. Cambian con el portador, con el sitio, con el rito, con la estación o con la clase de atención que se les presta. A esas las llaman legados vivos.
+En muchos conclaves circula una distinción útil, aunque nadie sensato la toma por verdad final. Hay piezas que insisten del mismo modo durante años, a veces durante generaciones. Repiten, pesan, desvían o responden con una terquedad que permite volver a ellas como quien vuelve a una ruta conocida. A esas muchos las llaman legados quietos. Otras no se dejan fijar así. Cambian con el portador, con el sitio, con el rito, con la estación o con la clase de atención que se les presta. A esas suelen llamarlas legados vivos.
 
-La diferencia rara vez se descubre en una tarde. Se descubre en ruta, en notas mal comparadas, en objetos que no hacen hoy lo que hicieron hace treinta años, en piezas que parecen tranquilas hasta que pasan por manos nuevas. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con una presencia encontrada un siglo después en otra región.
+La diferencia rara vez se descubre en una tarde. Se descubre en ruta, en notas mal comparadas, en objetos que no hacen hoy lo que hicieron hace treinta años, en piezas que parecían tranquilas hasta que pasaron por manos nuevas. Una máscara sin valor aparente puede cambiar de temperatura cuando se acerca a un rito. Una piedra tomada de una ruina puede volverse pesada en noches donde cierta constelación aparece. Una canción registrada por curiosidad puede coincidir con una presencia encontrada un siglo después en otra región. Y aun así, más de un Drak'kai viejo admitiría que hay objetos que cambiaron de una clase a la otra sin pedir permiso al nombre que se les había dado.
 
 Lo que pocos Drak'kai enuncian directamente es la implicación inversa: si una pieza cambia con los siglos, también cambia con quien la carga. La colección no es archivo pasivo. La ruta, el cuidado, la obsesión y el juicio del portador se acumulan en lo que porta.
 
@@ -94,19 +94,19 @@ Los Drak'kai no suelen buscar presencias.
 
 Pero caminan con demasiadas cosas que podrían llamar su atención.
 
-Lo que han visto en esos encuentros no cabe de manera limpia en ningún marco religioso único. Han visto santuarios donde una misma figura dejó respuestas distintas en siglos distintos. Han visto reliquias volverse más peligrosas cuando una comunidad las veneró de una manera nueva. Han visto lugares donde lo que parecía dormido empezó a responder como si hubiera aprendido otro nombre. De ese registro extraen una conclusión incómoda: lo que una comunidad cree sobre una fuerza importa, y a veces importa demasiado.
+Lo que han visto en esos encuentros no cabe de manera limpia en ningún marco religioso único. Han visto santuarios donde una misma figura dejó respuestas distintas en siglos distintos. Han visto reliquias volverse más peligrosas cuando una comunidad las veneró de una manera nueva. Han visto lugares donde lo que parecía dormido empezó a responder como si hubiera aprendido otro nombre. De ese registro nace una sospecha persistente: lo que una comunidad cree sobre una fuerza no siempre se queda en la cabeza de esa comunidad.
 
-La especie ha observado demasiados casos como para tratar eso como coincidencia, pero no tantos como para fingir que entiende del todo el mecanismo.
+La especie ha visto demasiados casos como para despacharlo como coincidencia, pero no tantos como para fingir que entiende qué está obedeciendo exactamente ahí.
 
-Esto no los vuelve incrédulos frente a las fuerzas elementales. Las creen con profundidad. Han encontrado expresiones directas de ellas. Lo que no creen es que la interpretación particular de ninguna comunidad permanezca precisa para siempre.
+Esto no los vuelve incrédulos frente a las fuerzas elementales. Las creen con profundidad. Han encontrado expresiones directas de ellas. Lo que les cuesta conceder es que una sola interpretación permanezca fiel durante demasiado tiempo.
 
-Un dios puede ser real y aun así no ser lo que sus fieles creen que es.
+Lo que hoy una comunidad jura conocer, dentro de doscientos años puede estar respondiendo de otra manera.
 
 Esa frase, dicha en la comunidad equivocada, puede matar más rápido que una espada.
 
 Por eso la mayoría de los Drak'kai no comparte este entendimiento abiertamente. Causa conflicto, incredulidad, furia teológica y codicia política. Lo cargan como cargan el resto de lo que han encontrado: con cuidado, en privado, sabiendo lo que pesa.
 
-Su horror no es la amenaza de algo que viene. Es la certeza de que nada de lo que alguien cree sobre el cosmos permanece quieto por mucho tiempo, y que ellos llevan siglos viendo sus desajustes. La pregunta que los sigue no es cuándo llegará el desastre, sino si alguna comprensión sobrevivirá al contacto con lo que todavía no conocen.
+Su horror no es la amenaza de algo que viene. Es haber cargado demasiadas pruebas de que las comprensiones se gastan, se tuercen o aprenden a responder distinto mientras las comunidades siguen jurando que siguen enteras. La pregunta que los sigue no es cuándo llegará el desastre, sino cuánto aguanta una lectura antes de empezar a mentirle incluso a quien la cuida.
 
 Para los Drak'kai, el misterio no es una puerta cerrada esperando una llave.
 

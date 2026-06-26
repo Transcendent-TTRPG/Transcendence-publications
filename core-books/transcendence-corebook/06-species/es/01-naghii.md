@@ -20,11 +20,11 @@ Los Naghii conservan los registros astronómicos más antiguos del mundo.
 
 No son completos. No son seguros. No están escritos en una lengua que ninguna especie viva pueda leer con certeza. Son copias de copias, traducciones de signos muertos, comparaciones entre ruinas partidas y cielos que ya no se comportan como deberían.
 
-Aun así, son lo más cercano que el mundo tiene a una memoria anterior a la catástrofe.
+Aun así, son lo más cercano que el mundo tiene a una memoria anterior al gran quiebre que los Naghii asocian con Khataar.
 
 En esos registros aparece una palabra: Khataar.
 
-Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los estratos inmediatamente anteriores al colapso. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que los lugares donde esa palabra se repite se comportan de manera distinta a otros sitios antiguos, aunque no siempre puedan decir en qué sentido primero.
+Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los tramos más hondos del archivo, allí donde la memoria de las ruinas empieza a quebrarse. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que los lugares donde esa palabra se repite se comportan de manera distinta a otros sitios antiguos, aunque no siempre puedan decir en qué sentido primero.
 
 Y saben algo peor: tal vez lo tradujeron mal.
 
@@ -62,7 +62,7 @@ No todo lo que el archivo guarda son textos. Algunas piezas conservan algo más 
 
 Un templo Naghii se organiza verticalmente porque su cosmología también lo hace. Arriba está el cielo: observación, cálculo, espera. En el centro está la comunidad: iniciaciones, tribunales, aulas, patios de interpretación, espacios donde la vida cotidiana debe continuar bajo la sombra de lo que se vigila. Abajo está el archivo interior: cámaras selladas, registros peligrosos, tablillas incompletas, traducciones disputadas y pasajes que no se leen en voz alta hasta que alguien ha sido preparado para soportar lo que podría significar leerlos mal.
 
-Las cámaras más temidas no contienen simplemente signos celestes. Contienen lo que ciertas escuelas llaman umbrales del cielo: disposiciones, objetos o recintos que no solo conservan una marca antigua, sino que parecen devolver algo al lector, exponerlo a una respuesta o alterar la lectura según quién entre y en qué secuencia lo haga.
+Las cámaras más temidas no contienen simplemente signos celestes. Contienen lo que ciertas escuelas llaman umbrales del cielo: objetos, cámaras o disposiciones rituales que no solo conservan una marca antigua, sino que parecen devolver algo al lector, exponerlo a una respuesta o alterar la lectura según quién entre y en qué secuencia lo haga.
 
 Los Naghii no son una civilización unificada. Múltiples comunidades existen en diferentes regiones, cada una desarrollada en torno a las ruinas que encontraron cuando se asentaron por primera vez. Como no hay dos sitios de ruinas idénticos, y porque la comprensión que los Naghii tienen de su propia historia está filtrada a través de interpretaciones de un lenguaje incomprensible, las comunidades que se desarrollaron en lugares distintos llegaron a conclusiones diferentes sobre qué significan las ruinas, qué fue Khataar y qué representan teológicamente las variantes Kha y Saa.
 
@@ -88,25 +88,25 @@ Los textos originales — si pudieran leerse — podrían decir algo completamen
 
 ## Teología y Cosmología
 
-Los Naghii llaman a la civilización antigua pre-catástrofe los Primigenios. En su teología, los Primigenios no eran mortales de la manera en que son mortales las especies vivas. Eran los arquitectos del cosmos ordenado: seres que conocían los verdaderos nombres de las estrellas, que construyeron estructuras que tocaban el límite entre el cielo y el vacío, y que al final de su era no simplemente murieron sino que se disolvieron en el vacío. Completaron su obra y se convirtieron en parte de lo que siempre habían estudiado.
+Los Naghii llaman Primigenios a la civilización antigua que precedió el gran quiebre de sus registros. En su teología, los Primigenios no eran mortales de la manera en que son mortales las especies vivas. Eran los arquitectos del cosmos ordenado: seres que conocían los verdaderos nombres de las estrellas, que construyeron estructuras que tocaban el límite entre el cielo y el vacío, y que al final de su era no simplemente murieron sino que se disolvieron en el vacío. Completaron su obra y se convirtieron en parte de lo que siempre habían estudiado.
 
-La catástrofe, en esta lectura, no fue un fracaso.
+Ese quiebre, en esta lectura, no fue un fracaso.
 
 Fue una culminación.
 
 No todas las comunidades aceptan esa conclusión con la misma tranquilidad. Algunas la repiten como dogma. Algunas la enseñan como misterio. Algunas la esconden detrás de capas de iniciación porque saben lo que implica: si los Primigenios no fracasaron, entonces el mundo roto no es una ruina accidental sino la consecuencia de una obra terminada.
 
-Khataar es la pregunta central sin resolver de la teología Naghii. Sus registros astronómicos lo identifican como una configuración celestial específica observada en el período inmediatamente anterior a la catástrofe. Lo que no pueden determinar es cuánto tiempo atrás ocurrió ni si lo que vigilan es un evento que se repite, un umbral único que aún no ha cerrado del todo, o una lectura equivocada que convirtió símbolos técnicos en profecía.
+Khataar es la pregunta central sin resolver de la teología Naghii. Sus registros astronómicos lo sitúan junto al gran quiebre de su herencia, pero nadie puede asegurar si fue una configuración celeste, una apertura, un cumplimiento, o simplemente el nombre que terminó absorbiendo todo lo que vino con aquel final de era. Tampoco saben si la vigilia actual mira un retorno, una puerta que jamás terminó de cerrarse, o una traducción mal nacida que convirtió restos de cálculo en profecía.
 
-Dentro de la orden sacerdotal existen tres escuelas de pensamiento que no se han resuelto en siglos.
+Por eso, cuando dos sacerdotes Naghii pronuncian Khataar, no siempre están hablando de lo mismo.
 
-La interpretación más extendida sostiene que Khataar es una advertencia: la configuración señala que algo se aproxima, que el cielo entra en una disposición peligrosa, que la orden debe estar preparada para cuando llegue la señal completa. Sobre qué hacer exactamente, la escuela se fractura internamente. Para algunos, preparación significa acumulación de registros y rutas de evacuación. Para otros, significa control estricto de ruinas, cierre de observatorios no autorizados y eliminación de prácticas que puedan invitar lo que todavía no ha terminado de nombrarse.
+Hay casas donde Khataar se enseña como advertencia del cielo. Si ciertas luces se ordenan de cierta manera, si ciertos intervalos vuelven a aparecer, si ciertos signos coinciden con ciertos movimientos de ruina, entonces la comunidad debe recogerse, sellar accesos, suspender lectura profunda y esperar. En esas ciudades, abrir de más durante una noche equivocada no es valentía: es soberbia.
 
-La segunda escuela sostiene que la catástrofe no fue causada por lo que llegó durante Khataar sino por lo que se hizo en ese umbral. Los Primigenios habrían intentado forzar una puerta, retener una apertura que debía cerrarse, o convertir el mundo entero en cámara ritual para una obra que ninguna especie viva comprende ya. El rol Naghii, según este argumento, es asegurarse de que nadie lo intente de nuevo.
+Hay otras donde el temor no cae primero sobre el cielo, sino sobre la mano que responde al cielo. Allí se repite que el gran quiebre no vino por haber visto la señal, sino por haber querido obrar sobre ella. Los pasajes cambian de una comunidad a otra, pero siempre giran alrededor de la misma sospecha: alguien sostuvo una operación, abrió una cámara o completó un gesto que jamás debió pasar del cálculo al mundo.
 
-La tercera posición no circula en asambleas. Está sostenida por una minoría dentro de los archivos más profundos, y se enseña, cuando se enseña, solo después de capas de iniciación que tienen como propósito parcial hacer a alguien capaz de soportar lo que significa: Khataar no fue advertencia ni umbral. Fue el evento hacia el que los Primigenios construyeron. Volverá a ocurrir. La pregunta no es cómo prevenirlo sino si los Naghii estarán preparados para recibir lo que traiga.
+Y en los archivos más cerrados persiste otra enseñanza, rara vez dicha entera frente a iniciados jóvenes: que Khataar no fue aviso ni error, sino cumplimiento. Que los Primigenios no fueron alcanzados por algo, sino que llegaron adonde estaban mirando. Quienes guardan esta lectura no siempre la predican. A veces apenas la toleran como una mancha heredada en ciertos pasajes. Otras veces la esconden porque creen que oírla demasiado pronto tuerce el oficio entero.
 
-Ninguna escuela tiene suficiente evidencia para refutar plenamente a las otras. Los registros más internos contienen pasajes que apoyan cada interpretación, dependiendo de qué se traduzca y qué se deje de lado. Y esas traducciones fueron hechas de un idioma que nadie verdaderamente lee.
+Ninguna de estas lecturas vive separada con limpieza. Se pisan, se corrigen, se mezclan en un mismo templo y a veces dentro del mismo maestro. Un sacerdote puede enseñar prudencia pública, copiar en privado una versión más peligrosa y morir sin dejar claro cuál de las dos consideraba verdadera. Esa es también la condición del archivo Naghii: no una doctrina intacta, sino una herencia quebrada que todavía dicta cómo debe temerse el cielo.
 
 Los Naghii no utilizan el mismo nombre para la profundidad exterior que otras especies describen con otras palabras. Su vocabulario teológico la llama el Abzu: un término heredado del lenguaje simbólico de las ruinas, reinterpretado para nombrar la hondura detrás del cielo, aquello que no puede medirse bien pero cuya presencia se deduce por lo que deja en los registros, en ciertas ruinas y en ciertas noches.
 
@@ -120,7 +120,7 @@ Lo que produce no es igual en dos practicantes.
 
 Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como frecuencia sin fuente localizable. Otro lo recibe como temperatura que se distribuye de adentro hacia afuera. Otro pierde durante un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene. La experiencia es real para quien la atraviesa, pero no se repite de manera idéntica. Lo que el archivo registra son esas experiencias, no una explicación definitiva de lo que las causó.
 
-Esa discordancia es lo que los Naghii llaman Khataar. O al menos es lo más cercano que pueden llegar. Los registros más antiguos la identificaron como una configuración celeste. Los sacerdotes con décadas de igi-an dicen sentir su aproximación antes de que los mapas puedan confirmarla, a veces cuando la configuración no coincide, a veces con el cielo cubierto y sin nada que observar. Los mapas y los cuerpos no siempre concuerdan. Y entre lo que el archivo registra de quienes la sintieron y lo que los astrónomos registran de lo que midieron, la distancia es a veces más amplia que la que separa las tres escuelas de interpretación.
+Algunas órdenes leen esa discordancia como la forma más cercana en que Khataar puede anunciarse dentro de un cuerpo. O al menos como lo más cercano que tienen para nombrarlo. Los registros más antiguos la dejaron atada a una configuración celeste. Los sacerdotes con décadas de igi-an dicen sentir su aproximación antes de que los mapas puedan confirmarla, a veces cuando la configuración no coincide, a veces con el cielo cubierto y sin nada que observar. Los mapas y los cuerpos no siempre concuerdan. Y entre lo que el archivo registra de quienes la sintieron y lo que los astrónomos registran de lo que midieron, la distancia es a veces más amplia que la que separa las lecturas rivales de Khataar.
 
 El costo de esta práctica se enseña explícitamente dentro de la orden. Quien aprende a leer de ese modo también aprende a exponerse. Los practicantes más experimentados del igi-an son simultáneamente los miembros más capaces y los más vulnerables de la orden.
 
@@ -220,7 +220,7 @@ Muchos personajes Naghii están en el mundo porque algo los separó de la orden.
 
 Un personaje Naghii puede ser un Kha que quería interpretar y fue entrenado para custodiar. Un Saa que proyectó una lectura demasiado peligrosa en público. Un archivista menor que descubrió dos traducciones contradictorias del mismo signo. Un guardián que abrió una puerta para salvar una vida y dejó salir algo más. Un exiliado de una comunidad que decidió destruir registros que él creía necesarios. Un enviado de la orden que empieza a sospechar que su misión no busca recuperar información, sino impedir que alguien más la lea.
 
-Lo que un Naghii sabe al salir de su comunidad: cómo leer el cielo en términos básicos, qué es Khataar y por qué importa dentro de su tradición, que el Abzu debe tratarse como algo real y peligroso aunque nadie pueda explicarlo con certeza, y que la información debe tratarse con la misma seriedad que el agua o el fuego.
+Lo que un Naghii sabe al salir de su comunidad: cómo leer el cielo en términos básicos, qué es Khataar y por qué importa dentro de su tradición, que el Abzu se trata como algo real y peligroso aunque nadie pueda explicarlo con certeza, y que la información debe tratarse con la misma seriedad que el agua o el fuego.
 
 Lo que muchos no saben: cuántas de las interpretaciones en que fueron criados son correctas, cuáles ruinas son realmente seguras de entrar, qué haría la orden si supiera lo que ellos saben ahora, y si la vigilancia de siglos ha prevenido algo o simplemente ha enseñado a los Naghii a esperar con más precisión.
 

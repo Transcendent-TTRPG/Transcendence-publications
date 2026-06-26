@@ -74,13 +74,13 @@ Las comunidades más peligrosas son las que aprendieron que el mundo siempre pro
 
 El moribundo lleva consigo lo que quería.
 
-Eso lo saben todos los Zarnag, aunque no todos lo digan igual. Para muchos, el hambre está en todas partes y la vida no hace más que darle forma. Hay hambres que se quedan prendidas en un objeto. Hambres que se pegan al suelo donde cayeron muchos. Hambres que se espesan tanto en un sitio que ya no esperan una mano: empiezan a jalar por sí mismas. Por eso llaman restos tanto a lo que quedó en una cosa como a lo que quedó en un lugar. No todas las comunidades sienten la necesidad de dar nombres distintos a cada caso. Les basta con saber si un resto guarda hambre o si ya la está derramando. El vocabulario cambia. La observación no: cuando alguien muere con algo sin resolver, lo que tenía en la mano o bajo los pies puede seguir queriendo por él.
+Eso lo saben todos los Zarnag, aunque no todos lo digan igual. Para muchos, el hambre encuentra forma en todo lo vivo y a veces se queda donde no debería quedarse. Hay hambres que se prenden a un objeto. Hambres que se pegan al suelo donde cayeron muchos. Hambres que se espesan tanto en un sitio que ya no esperan una mano: empiezan a jalar por sí mismas. Por eso llaman restos tanto a lo que quedó en una cosa como a lo que quedó en un lugar. No todas las comunidades sienten la necesidad de dar nombres distintos a cada caso. Les basta con reconocer cuándo un resto sigue guardando hambre y cuándo ya la está soltando. El vocabulario cambia. La observación no: cuando alguien muere con algo sin resolver, lo que tenía en la mano o bajo los pies puede seguir queriendo por él.
 
 No es que el muerto vuelva. Es que su querer — lo que no terminó, lo que temió, lo que buscaba — dejó hambre detrás de sí. Un campo de batalla donde nadie retiró los cuerpos no es peligroso solo por la infección. Es peligroso porque miles de muertes dejaron el hambre pegada a armas, ropas, barro, zanjas y huesos, y lo hambriento jala.
 
 La teología Zarnag no pregunta si la muerte asusta. Pregunta si algo verdaderamente se va.
 
-Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el hambre del mundo esté encontrando demasiados sitios abiertos a la vez — que las trincheras, las cavernas, los osarios y las ruinas sean señales de un desarreglo que ya está activo y que nadie más quiere mirar. Cada vez que un sitio no se deja saciar, cada vez que un objeto sigue queriendo más tiempo del que debería, eso es evidencia de que el hambre se está asentando más rápido de lo que puede calmarse.
+Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el hambre del mundo esté encontrando demasiados sitios abiertos a la vez — que las trincheras, las cavernas, los osarios y las ruinas estén diciendo algo que nadie más quiere mirar. Cada vez que un sitio no se deja saciar, cada vez que un objeto sigue queriendo más tiempo del que debería, muchos Zarnag lo toman como señal de que el hambre se está asentando más rápido de lo que puede calmarse.
 
 Donde los Naghii miran el cielo para saber si el desastre terminó, los Zarnag miran el suelo.
 
