@@ -20,9 +20,7 @@ El Loxod que entra a una habitación donde alguien murió ayer no necesita que n
 
 Los marcadores del estrés final todavía están en el aire: las moléculas del miedo, el cese metabólico, la descarga química del cuerpo, todo lo que se liberó al final y nadie recogió porque nadie sabía que podía recogerse. Su cuerpo lo recibe directamente, sin intermediario, sin la demora que otros sentidos tienen antes de llegar a la memoria.
 
-No es que sepan leer los signos de la muerte.
-
-Es que la muerte les habla primero.
+No es que sepan leer los signos de la muerte. Es que la muerte les habla primero.
 
 El resto de la experiencia de vivir en ese cuerpo es la historia de aprender qué hacer con eso.
 
@@ -34,17 +32,11 @@ La trompa tiene decenas de miles de músculos. Es prehensil, es un órgano senso
 
 Cuando dos Loxod que confían el uno en el otro se saludan después de tiempo separados, extienden las trompas el uno hacia el otro. No es un gesto de cortesía. No es simple curiosidad. Es una forma de verificación íntima: estás aquí, eres tú, llevas esto, has cambiado así, sigues siendo reconocible.
 
-Otras especies que lo presencian suelen leerlo como ternura.
-
-No están completamente equivocadas.
-
-Tampoco están viendo todo lo que ocurre.
+Otras especies que lo presencian suelen leerlo como ternura. No están completamente equivocadas. Tampoco están viendo todo lo que ocurre.
 
 Sus colmillos crecen durante toda la vida y no se detienen. Los de un Loxod que lleva dos siglos son una acumulación visible: ángulos de desgaste del trabajo que los usó, marcas que el marfil generó alrededor de golpes viejos, reparaciones, fracturas selladas, cambios de dirección, superficies pulidas por décadas de uso. Nadie que los vea duda de que hay historia ahí.
 
-Perderlos no es perder un arma.
-
-Es perder esa historia de encima del cuerpo.
+Perderlos no es perder un arma: es perder esa historia de encima del cuerpo.
 
 En muchas comunidades, los colmillos dañados no se ocultan. Se registran, se interpretan, se integran en la historia corporal del individuo. Un colmillo roto puede hablar de trabajo, accidente, batalla, duelo o decisión. Lo que resulta insoportable no es siempre el daño físico, sino la desaparición de marcas que todavía no habían sido transmitidas al archivo.
 
@@ -60,15 +52,11 @@ Lo que vive en esas frecuencias los detecta.
 
 Esto no es una maldición ni un defecto. Es biología con consecuencias que requieren atención permanente.
 
-Un Loxod no puede dejar de emitir.
-
-Solo puede aprender dónde no debería estar cuando algo escucha.
+Un Loxod no puede dejar de emitir. Solo puede aprender dónde no debería estar cuando algo escucha.
 
 ## La Cultura
 
-Escribir algo, para un Loxod, no es guardar información.
-
-Es terminar de recibirla.
+Escribir algo, para un Loxod, no es guardar información: es terminar de recibirla.
 
 La impresión de un evento intenso — una muerte cercana, un lugar donde algo catastrófico ocurrió, la química densa del miedo ajeno sostenido demasiado tiempo, una vibración alterada en una ruina, una señal que llegó sin emisor identificable — no desaparece cuando uno se aleja del lugar. Sigue resonando en la neurología hasta que se procesa lo suficiente.
 
@@ -78,13 +66,9 @@ Llaman carga a lo recibido antes de ser organizado.
 
 La carga puede ser pequeña: el miedo de alguien oculto detrás de una sonrisa, una firma química de enfermedad temprana, una vibración extraña en un muro. También puede ser enorme: una muerte masiva, una cámara antigua, un duelo colectivo, una ruina donde el retorno no llega limpio, un objeto que sigue devolviendo señal mucho después de haber sido tocado.
 
-La carga sin forma pesa.
+La carga sin forma pesa. Por eso existe el archivo.
 
-Por eso existe el archivo.
-
-El archivo no es solo conservación. No es biblioteca, museo ni depósito de memoria. Es el proceso por el cual una recepción se vuelve soportable. Se codifica, se ubica en el sistema, se compara con registros anteriores, se coloca en el lugar correcto y se transmite a quienes pueden sostenerla sin quebrarse.
-
-Entonces el peso de cargarla sin forma disminuye.
+El archivo no es solo conservación. No es biblioteca, museo ni depósito de memoria. Es el proceso por el cual una recepción se vuelve soportable. Se codifica, se ubica en el sistema, se compara con registros anteriores, se coloca en el lugar correcto y se transmite a quienes pueden sostenerla sin quebrarse. Entonces el peso de cargarla sin forma disminuye.
 
 Codificar es darle forma segura a lo recibido.
 
@@ -96,9 +80,7 @@ Lo que parece desde afuera una cultura obsesionada con la preservación del cono
 
 Sus ciudades están donde la geología amortigua la vibración sísmica, lejos de zonas donde esas frecuencias se comportan de forma inestable, construidas con materiales que dispersan resonancia en lugar de concentrarla. La mayor parte de la infraestructura relevante no es visible: es acústica, química, subterránea, estructural. Es el diseño de cómo los espacios respiran, vibran, filtran, separan y descargan.
 
-Los visitantes ven archivos bien ordenados, plazas amplias, rampas anchas, cámaras de piedra antigua, colecciones de registro, pasillos silenciosos, memoria institucional.
-
-Lo que no ven es para qué están diseñados los espacios que rodean esas colecciones.
+Los visitantes ven archivos bien ordenados, plazas amplias, rampas anchas, cámaras de piedra antigua, colecciones de registro, pasillos silenciosos, memoria institucional. Lo que no ven es para qué están diseñados los espacios que rodean esas colecciones.
 
 Una sala de archivo Loxod no existe solo para conservar documentos. Existe para proteger a quienes los reciben. Una cámara de duelo no existe solo para llorar. Existe para distribuir la firma química de una pérdida sin que destruya a una sola persona. Un corredor de piedra no existe solo para conectar lugares. Existe para disipar vibraciones antes de que entren a zonas donde se guarda información demasiado sensible.
 
@@ -108,9 +90,7 @@ Esto produce una autoridad lenta y difícil de falsificar.
 
 Un Loxod puede fingir calma ante otras especies. Es mucho más difícil fingirla ante quienes reciben el peso químico y vibratorio de su cuerpo. Las comunidades Loxod aprenden a distinguir entre quien carga y quien solo endureció la superficie. Esa diferencia importa. El que se endurece demasiado puede parecer fuerte hasta que empieza a transmitir daño sin procesarlo.
 
-Por eso el archivo no es una institución separada de la vida social.
-
-Es la forma en que la sociedad respira.
+Por eso el archivo no es una institución separada de la vida social. Es la forma en que la sociedad respira.
 
 ## Teología y Cosmología
 
@@ -120,23 +100,15 @@ Empiezan con una pregunta más corporal:
 
 ¿cómo volvió la señal?
 
-Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo.
+Bajo ciertas condiciones — ruinas de cierta edad, zonas específicas con determinadas características geológicas, sitios donde hubo concentración extrema de muerte, miedo o manifestación — su propio infrasonido vuelve distinto. Con una forma que ningún Loxod vivo produjo. Contenido que precede a cualquier individuo vivo.
 
-Contenido que precede a cualquier individuo vivo.
-
-No lo interpretan como milagro.
-
-Lo tratan como registro.
+No lo interpretan como milagro. Lo tratan como registro.
 
 Eso no significa que lo reciban con frialdad. Una señal que atraviesa el cuerpo antes de ser nombrada no se vuelve menos terrible porque se registre con precisión. Los Loxod han aprendido que llamar dato a algo no lo vuelve seguro. Solo permite decidir qué hacer con él antes de que se convierta en otra cosa.
 
 El conjunto de datos que han acumulado sobre el comportamiento de estas frecuencias en condiciones específicas no tiene equivalente en ninguna otra especie. Lo que ese conjunto no produce es una respuesta que funcione como consuelo, como narrativa de por qué el mundo es así y no de otra manera.
 
-Les dice qué ocurre.
-
-No les dice qué significa.
-
-Tampoco les dice de dónde viene.
+Les dice qué ocurre. No les dice qué significa. Tampoco les dice de dónde viene.
 
 Los Loxod no suelen construir teologías expansivas. Desconfían de los sistemas que convierten la recepción en certeza demasiado pronto. Saben lo que se siente recibir algo antes de comprenderlo, y esa experiencia ha vuelto sus comunidades cautelosas frente a cualquier explicación que llegue demasiado completa.
 
@@ -152,19 +124,13 @@ Hay frecuencias responsivas: retornos que no se fijan. Entre una observación y 
 
 En archivos más viejos aparecen con nombres menos técnicos y más honestos: las que devuelven la mirada, las que no terminan de quedarse quietas.
 
-Ninguna de esas palabras pretende resolver qué son.
-
-Solo deja asentado que no deben tratarse igual que una frecuencia estable.
+Ninguna de esas palabras pretende resolver qué son. Solo deja asentado que no deben tratarse igual que una frecuencia estable.
 
 Hay también frecuencias que todavía no pueden codificarse con seguridad. No porque sean falsas, sino porque el cuerpo que las recibe no logra separarlas de sí mismo sin riesgo. Los archivos más cuidadosos no las destruyen ni las transmiten de inmediato. Las aíslan, las rodean de contexto, las asignan a receptores preparados o deciden que nadie debe recibirlas por ahora.
 
-Un conocimiento puede ser verdadero y aun así no ser seguro.
+Un conocimiento puede ser verdadero y aun así no ser seguro. Esa es la frontera teológica Loxod.
 
-Esa es la frontera teológica Loxod.
-
-No preguntan solamente qué debe saberse.
-
-Preguntan quién puede recibirlo sin ser cambiado más allá de sí.
+No preguntan solamente qué debe saberse: preguntan quién puede recibirlo sin ser cambiado más allá de sí.
 
 Los más viejos que han llegado al límite de lo que pueden organizar hablan de lo que saben con menos frecuencia, no más. No porque hayan perdido la capacidad. Porque hay cosas que, codificadas incorrectamente o transmitidas al receptor equivocado, generan en ese receptor una distorsión comparable a la que generaron en ellos.
 
@@ -176,9 +142,7 @@ La distorsión ocurre cuando la carga empieza a alterar juicio, sueño, memoria,
 
 El desplazamiento ocurre cuando lo recibido empieza a ocupar el lugar de lo propio.
 
-Esta última palabra se usa con cuidado.
-
-Decir que un Loxod está desplazado no significa que esté perdido ni condenado. Significa que quienes lo rodean ya no pueden asumir que toda memoria, reacción o certeza que expresa nace de su propia vida. Algo recibido se volvió demasiado presente.
+Esta última palabra se usa con cuidado. Decir que un Loxod está desplazado no significa que esté perdido ni condenado. Significa que quienes lo rodean ya no pueden asumir que toda memoria, reacción o certeza que expresa nace de su propia vida. Algo recibido se volvió demasiado presente.
 
 La pregunta más temida entre algunos archivistas viejos no se escribe en los archivos públicos.
 
@@ -188,9 +152,7 @@ O peor:
 
 ¿y si no preservan memoria, sino que se están volviendo el órgano por el que algo antiguo aprende a recordarse?
 
-Ningún colectivo serio trata esa sospecha como doctrina.
-
-Pero tampoco la olvida.
+Ningún colectivo serio trata esa sospecha como doctrina. Pero tampoco la olvida.
 
 ## Organización e Identidad Interna
 
@@ -200,15 +162,11 @@ Es la estructura que distribuye la carga.
 
 Quién carga qué. Quién está cerca del límite de lo que puede sostener. Qué impresiones deben ser codificadas de inmediato. Qué memorias pueden permanecer personales. Cómo se transmite lo que un miembro acumuló antes de que ya no pueda cargarlo más. Quién puede acompañar a alguien que debe entrar en un lugar cargado. Quién debe quedarse fuera.
 
-Un Loxod que deja su colectivo sale de esa distribución.
-
-Lo que antes se repartía entre varios ahora lo recibe solo.
+Un Loxod que deja su colectivo sale de esa distribución. Lo que antes se repartía entre varios ahora lo recibe solo.
 
 En la mayoría de los casos esto no se vuelve un problema rápido. Puede tomar años. Puede tomar décadas. Los que lo han vivido describen el proceso con la economía que caracteriza cómo los Loxod hablan de lo que realmente importa: un desplazamiento gradual en el que lo absorbido se vuelve más presente que lo propio, y la diferencia entre un recuerdo personal y una impresión recibida empieza a ser menos evidente de lo que debería ser.
 
-Nadie dramatiza esto.
-
-Se registra, se vigila, se gestiona si hay forma de hacerlo.
+Nadie dramatiza esto. Se registra, se vigila, se gestiona si hay forma de hacerlo.
 
 Las comunidades Loxod reconocen varios roles sin convertirlos siempre en castas fijas.
 
@@ -224,13 +182,7 @@ Están quienes traducen: vuelven transmisible una carga sin convertirla en daño
 
 La autoridad aumenta con la carga procesada, pero también disminuye si alguien deja de poder distinguir su experiencia de lo recibido. Un anciano respetado puede ser apartado de ciertas decisiones no por debilidad, sino porque sabe demasiado de una forma que ya no se puede separar limpiamente. Esto se vive con dolor, pero no necesariamente con vergüenza.
 
-La vergüenza verdadera es transmitir sin cuidado.
-
-Soltar sobre otro lo que uno no quiso procesar.
-
-Usar información recibida sin consentimiento.
-
-Convertir la capacidad de percibir en dominio sobre quienes no pueden ocultarse.
+La vergüenza verdadera es transmitir sin cuidado. Soltar sobre otro lo que uno no quiso procesar. Usar información recibida sin consentimiento. Convertir la capacidad de percibir en dominio sobre quienes no pueden ocultarse.
 
 Los Loxod tienen leyes y tabúes alrededor de eso. No siempre se cumplen. Pero existen porque todos saben lo fácil que sería dañar con solo decir lo que se percibió.
 
@@ -252,9 +204,7 @@ Las primeras décadas de un Loxod son el período en que aprende a no ser destru
 
 Los mayores que trabajan con los jóvenes hacen lo más invisible de la educación Loxod: enseñar que hay una diferencia entre recibir algo y dejar que te cambie sin consentimiento.
 
-La mayoría de otras especies no necesita aprender esto.
-
-Los Loxod sí, desde temprano, como fundamento de todo lo demás.
+La mayoría de otras especies no necesita aprender esto. Los Loxod sí, desde temprano, como fundamento de todo lo demás.
 
 La madurez no tiene fecha fija. Llega cuando alguien absorbió algo que podría haberlo quebrado y no lo quebró; cuando lo procesó, lo registró, lo transmitió de manera segura y siguió siendo reconocible para quienes lo conocían antes. Algunos llegan ahí a los cuarenta años. Hay quienes no llegan hasta los cien. No hay vergüenza en el camino más largo, solo más tiempo antes de acceder a lo que el archivo guarda con mayor peso.
 
@@ -262,23 +212,17 @@ Un día ordinario en una comunidad Loxod suele comenzar con revisión de estado 
 
 La lengua Loxian opera en capas que muchas especies no perciben por completo. Una frase puede tener contenido audible y presión infrasonora, y esa presión no es adorno emocional. Puede indicar intensidad, límite, cuidado, advertencia, duelo, autoridad o la cantidad de carga que acompaña a lo dicho.
 
-Traducir Loxian a una lengua sin infrasonido conserva el texto y pierde la presión con que debía recibirse.
-
-Por eso los Loxod son cautelosos con ciertos registros traducidos. Algunas cosas no solo significan. Deben llegar con la vibración correcta para no deformar lo que transmiten.
+Traducir Loxian a una lengua sin infrasonido conserva el texto y pierde la presión con que debía recibirse. Por eso los Loxod son cautelosos con ciertos registros traducidos. Algunas cosas no solo significan. Deben llegar con la vibración correcta para no deformar lo que transmiten.
 
 La comida es abundante, lenta y social, pero no siempre ruidosa. Comer juntos permite verificar estados sin interrogatorio directo. La proximidad dice cosas. El ritmo de respiración dice cosas. La firma química de alguien que no ha dormido, que oculta angustia o que volvió de un lugar demasiado cargado no necesita convertirse en acusación para ser atendida.
 
-Los Loxod viven en plazos que la mayoría de otras especies no tiene. Un problema que requiere solución en los próximos diez años es un problema de mediano plazo. Un evento de hace ciento cincuenta años puede haber sido vivido directamente por alguien que todavía participa en la decisión actual. La paciencia que proyectan no es temperamento.
-
-Es consecuencia de tener cientos de años disponibles cuando evalúan algo.
+Los Loxod viven en plazos que la mayoría de otras especies no tiene. Un problema que requiere solución en los próximos diez años es un problema de mediano plazo. Un evento de hace ciento cincuenta años puede haber sido vivido directamente por alguien que todavía participa en la decisión actual. La paciencia que proyectan no es temperamento. Es consecuencia de tener cientos de años disponibles cuando evalúan algo.
 
 Eso no los hace lentos en todos los asuntos. Cuando un Loxod decide que una resonancia es peligrosa, que una relación produce daño persistente o que un lugar no debe abrirse, puede terminar una discusión con una firmeza que otras especies leen como crueldad repentina. No es repentina. Solo ven el final de un proceso que empezó mucho antes.
 
 La muerte entre los Loxod no se trata como desaparición simple. El cuerpo deja una liberación química, una firma final, una serie de impresiones que deben ser manejadas con cuidado. Los cercanos no solo lloran; también reciben. El colectivo decide qué debe registrarse, qué debe permanecer íntimo, qué no debe transmitirse, y quién está en condiciones de entrar a la cámara donde el cuerpo todavía habla.
 
-Lo que más temen en una muerte no es olvidar al muerto.
-
-Es recibirlo mal.
+Lo que más temen en una muerte no es olvidar al muerto: es recibirlo mal.
 
 ## Relaciones con el Mundo
 
@@ -320,15 +264,9 @@ Los Chelicer producen una tensión ética clara. Para un Chelicer, ciertas verda
 
 Los Luphran conservan memoria en tripulación, ruta, jarl, canto y nave viva. Eso interesa a los Loxod porque no toda memoria Luphran está escrita ni aislada en archivo; vive en coordinación, lealtad y repetición compartida. Un Loxod puede sentir la resonancia de una tripulación antes de entender su historia. Un Luphran puede desconfiar de alguien que recibe demasiado de la nave o de los muertos sin haber jurado lealtad a bordo.
 
-Para muchas especies, los Loxod son memoria, paciencia y juicio.
+Para muchas especies, los Loxod son memoria, paciencia y juicio. Para los Loxod, esa reputación es incompleta.
 
-Para los Loxod, esa reputación es incompleta.
-
-La memoria no es virtud si no se procesa.
-
-La paciencia no es bondad si solo retrasa una decisión necesaria.
-
-Y el juicio no debería pertenecer a quien recibió más de lo que podía cargar.
+La memoria no es virtud si no se procesa. La paciencia no es bondad si solo retrasa una decisión necesaria. Y el juicio no debería pertenecer a quien recibió más de lo que podía cargar.
 
 ## Como Personaje Jugador
 
@@ -356,9 +294,7 @@ Lo que un Loxod sabe al salir: cómo leer un espacio por química, vibración y 
 
 Lo que muchos no saben: si lo que están acumulando sin su colectivo va a llegar a un límite, qué hay del otro lado de ese límite, cuánto de lo que recuerdan les pertenece, y si el mundo está lleno de memorias esperando ser recibidas o de cosas que aprendieron a imitar memoria para entrar.
 
-La pregunta que muchos Loxod se llevan consigo no es qué recuerdan.
-
-Es cuánto de lo que cargan todavía pueden llamar suyo.
+La pregunta que muchos Loxod se llevan consigo no es qué recuerdan, sino cuánto de lo que cargan todavía pueden llamar suyo.
 
 ---
 
