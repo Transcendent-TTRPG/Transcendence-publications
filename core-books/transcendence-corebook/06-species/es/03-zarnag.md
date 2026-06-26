@@ -18,17 +18,9 @@ related:
 
 Los Zarnag trabajan donde las otras especies no quieren estar cuando el trabajo ya no puede esperar.
 
-Campos de batalla sin limpiar, fosas de enfermedad que se reabren con la lluvia, enterramientos fallidos, rastros de carroñeros que se acercan demasiado al perímetro de los vivos: ninguno de estos es un problema que desaparezca si nadie lo gestiona.
+Campos de batalla sin limpiar, fosas de enfermedad que se reabren con la lluvia, enterramientos fallidos, rastros de carroñeros que se acercan demasiado al perímetro de los vivos: ninguno de estos es un problema que desaparezca si nadie lo gestiona. Se expande.
 
-Se expande.
-
-Los muertos no siempre se van, y alguien tiene que ocuparse de lo que queda.
-
-Ese alguien suele ser Zarnag.
-
-No porque amen la muerte.
-
-Porque saben qué ocurre cuando lo muerto sigue queriendo.
+Los muertos no siempre se van, y alguien tiene que ocuparse de lo que queda. Ese alguien suele ser Zarnag. No porque amen la muerte, sino porque saben qué ocurre cuando lo muerto sigue queriendo.
 
 ## El Cuerpo
 
@@ -44,31 +36,21 @@ Sus garras son más cortas y prácticas que en linajes similares: útiles para e
 
 Poseen tolerancia pronunciada al aire de podredumbre, la niebla de sangre y las firmas químicas de la descomposición. Esto no los hace invulnerables a la enfermedad. Significa que interpretan entornos que enfermarían a otras especies antes de que ellos mismos empiecen a sentir el efecto. Un olor que para otros es solo asco, para un Zarnag puede ser información: cuánto tiempo lleva abierto un cuerpo, si la fiebre pasó por ahí, si el agua ya está comprometida, si los carroñeros llegaron antes o después de la muerte.
 
-También significa que se exponen.
+También significa que se exponen. Un cuerpo que aprende a leer podredumbre empieza a distinguir diferencias que otros no tienen vocabulario para nombrar. La lluvia sobre una fosa reciente no huele igual que la lluvia sobre un sitio que ya empezó a morder. La sangre vieja no pesa igual en el aire que una muerte que todavía busca manos. La carne abierta habla de una manera. El lugar abierto, de otra.
 
-Un cuerpo que aprende a leer podredumbre empieza a distinguir diferencias que otros no tienen vocabulario para nombrar. La lluvia sobre una fosa reciente no huele igual que la lluvia sobre un sitio que ya empezó a morder. La sangre vieja no pesa igual en el aire que una muerte que todavía busca manos. La carne abierta habla de una manera. El lugar abierto, de otra.
-
-Los Zarnag no siempre separan esas lecturas.
-
-No necesitan hacerlo para sobrevivir.
+Los Zarnag no siempre separan esas lecturas; no necesitan hacerlo para sobrevivir.
 
 Su risa tiene cuerpo antes que significado. Libera presión nerviosa en grupo, marca quién aguanta sin bajar la mirada, y puede poner a otros en guardia antes de que empiece la violencia. En una comunidad Zarnag, aprender a escuchar la risa es aprender a leer el estado del grupo: cuándo endurece, cuándo protege, cuándo desafía y cuándo señala que alguien está demasiado cerca de ceder.
 
-También puede señalar otra cosa.
+También puede señalar otra cosa. Los Zarnag saben que la risa puede cruzar una línea. Puede dejar de expulsar miedo y empezar a llamar al Hambre. Puede dejar de unir al grupo y empezar a separar a quien todavía siente asco de quien ya no lo siente. Pocas cosas inquietan más a un Zarnag viejo que una risa demasiado cómoda en el lugar equivocado.
 
-Los Zarnag saben que la risa puede cruzar una línea. Puede dejar de expulsar miedo y empezar a llamar al Hambre. Puede dejar de unir al grupo y empezar a separar a quien todavía siente asco de quien ya no lo siente. Pocas cosas inquietan más a un Zarnag viejo que una risa demasiado cómoda en el lugar equivocado.
-
-La risa correcta dice: todavía estamos vivos.
-
-La otra dice: esto ya nos conoce.
+La risa correcta dice: todavía estamos vivos. La otra dice: esto ya nos conoce.
 
 ## La Cultura
 
 El muerto no siempre se aquieta.
 
-Lo que quería cuando murió sigue en lo que sostenía. Su miedo sigue en el cuchillo que no soltó. Su búsqueda sigue en el talismán que llevaba desde la infancia. Lo que un hombre quería y no alcanzó, lo que una mujer temía y no pudo resolver, lo que una tropa gritó antes de hundirse en barro, lo que una casa guardó cuando todos adentro enfermaron: eso no desaparece con el cuerpo.
-
-Queda.
+Lo que quería cuando murió sigue en lo que sostenía. Su miedo sigue en el cuchillo que no soltó. Su búsqueda sigue en el talismán que llevaba desde la infancia. Lo que un hombre quería y no alcanzó, lo que una mujer temía y no pudo resolver, lo que una tropa gritó antes de hundirse en barro, lo que una casa guardó cuando todos adentro enfermaron: eso no desaparece con el cuerpo. Queda.
 
 Los Zarnag llaman Última Hambre a lo que alguien no pudo soltar al morir: miedo, deuda, búsqueda, rabia, deseo, promesa, culpa, obediencia, amor, venganza o simple necesidad de seguir. No todas las muertes dejan Última Hambre con la misma fuerza. No todo cuerpo queda peligroso. No todo objeto de muerto debe temerse.
 
@@ -76,9 +58,7 @@ Pero cuando algo no cerró, el mundo puede guardarlo.
 
 Cuando esa Última Hambre queda pegada a un objeto, un cuerpo, un suelo, una habitación, un arma, una fosa, un nombre o una ruta, los Zarnag lo llaman Resto.
 
-Un Resto no es solo un cadáver.
-
-Un Resto es cualquier cosa donde algo que debió terminar todavía conserva forma para seguir queriendo.
+Un Resto no es solo un cadáver: es cualquier cosa donde algo que debió terminar todavía conserva forma para seguir queriendo.
 
 Por eso no distinguen con limpieza entre lo que otras culturas separarían como objeto marcado, lugar maldito, vínculo, reliquia, eco, posesión o presencia menor. Esa clase de diferencias puede importar a otros. A los Zarnag les importa otra pregunta:
 
@@ -88,43 +68,27 @@ Si la tiene, entonces debe trabajarse.
 
 El efecto que un Resto ejerce sobre el sitio y sobre los vivos recibe un nombre simple: Peso. El Peso no siempre jala. A veces aprieta. A veces vuelve familiar lo que debería repugnar. A veces enferma el agua. A veces hace que los animales rodeen un lugar sin entrar. A veces aparece como sueño, fiebre, risa, silencio, terquedad, recuerdo ajeno o deseo de tocar lo que todos saben que no debe tocarse.
 
-El Peso es la forma local del Hambre.
+El Peso es la forma local del Hambre. No es teoría: es lo que se siente cuando un sitio no está quieto.
 
-No es teoría.
+La función de los Zarnag no es limpiar cadáveres. Es trabajar los Restos hasta que el Peso se calme y el Hambre deje de actuar sobre los vivos. A eso lo llaman saciar.
 
-Es lo que se siente cuando un sitio no está quieto.
-
-La función de los Zarnag no es limpiar cadáveres. Es trabajar los Restos hasta que el Peso se calme y el Hambre deje de actuar sobre los vivos.
-
-A eso lo llaman saciar.
-
-Saciar no es alimentar.
-
-Esa diferencia sostiene toda la cultura Zarnag.
+Saciar no es alimentar. Esa diferencia sostiene toda la cultura Zarnag.
 
 Saciar es quitarle ocasión al Hambre. Separar lo que no debe tocarse. Quemar lo que insiste. Enterrar donde el suelo puede recibir. Sellar cuando no se puede devolver. Retirar nombres. Cortar familiaridades. Impedir que el vivo se vuelva extensión de lo que murió sin terminar.
 
-Alimentar es otra cosa.
-
-Alimentar es acercarse al Hambre para obtener de ella conocimiento, poder, costumbre, lucro, comodidad o identidad. Alimentar es tocar más de lo necesario. Guardar lo que debía cerrarse. Convertir el oficio en derecho. Convertir la repulsión en orgullo. Convertir la necesidad del mundo en necesidad propia.
+Alimentar es otra cosa. Alimentar es acercarse al Hambre para obtener de ella conocimiento, poder, costumbre, lucro, comodidad o identidad. Alimentar es tocar más de lo necesario. Guardar lo que debía cerrarse. Convertir el oficio en derecho. Convertir la repulsión en orgullo. Convertir la necesidad del mundo en necesidad propia.
 
 Desde afuera, ambos gestos pueden parecer iguales.
 
 Un Zarnag entra a una fosa. Toca objetos que nadie tocaría. Se cubre de olor, sangre, barro y memoria. Decide qué quemar, qué enterrar, qué separar, qué no mover. Ríe con otros mientras trabaja. Sale cambiado.
 
-La diferencia vive en el propósito.
-
-Trabajar el Hambre para saciarla, o acercarse al Hambre para seguir teniéndola.
+La diferencia vive en el propósito: trabajar el Hambre para saciarla, o acercarse al Hambre para seguir teniéndola.
 
 Entre esos dos gestos vive la única distinción moral que ninguna comunidad Zarnag puede permitirse olvidar.
 
 Los asentamientos Zarnag se forman donde los Restos se acumulan y el Peso aprieta: bordes de campos de batalla, márgenes de fosas, salidas de ruinas donde los muertos son viejos y perturbados, caminos usados por caravanas que desaparecen en estaciones de enfermedad, pueblos que necesitan que alguien entre primero después de una matanza.
 
-No porque sean atraídos por la muerte.
-
-Porque esos son los sitios que necesitan lo que saben hacer.
-
-Y porque las habilidades solo pueden aprenderse donde el Peso está presente.
+No porque sean atraídos por la muerte, sino porque esos son los sitios que necesitan lo que saben hacer, y porque las habilidades solo pueden aprenderse donde el Peso está presente.
 
 La risa tiene un rol aquí que otras culturas no terminan de entender. Reírse cerca de los muertos no es burla ni dureza nerviosa solamente. Es una afirmación: estamos aquí, todavía queremos, todavía somos vivos. Lo que dejaste no puede tenernos. La risa le dice al Peso que todavía hay algo del lado equivocado para él.
 
@@ -134,27 +98,15 @@ Las comunidades más peligrosas son las que aprendieron que el mundo siempre pro
 
 ## Teología y Cosmología
 
-Los Zarnag no tienen una teología del origen del mundo.
-
-No necesitan una.
+Los Zarnag no tienen una teología del origen del mundo, ni la necesitan.
 
 Su cosmología nace del oficio: de fosas abiertas, de muertos mal cerrados, de objetos que cambian a quienes los guardan, de sitios donde el aire pesa aunque no haya nada visible moviéndose.
 
-El Hambre no es un dios.
-
-No es una entidad única.
-
-No es todo lo que existe detrás del mundo.
-
-Para los Zarnag, el Hambre es el nombre de lo que ocurre cuando algo que debía terminar conserva ocasión de seguir queriendo.
+El Hambre no es un dios, ni una entidad única, ni todo lo que existe detrás del mundo. Para los Zarnag, el Hambre es el nombre de lo que ocurre cuando algo que debía terminar conserva ocasión de seguir queriendo.
 
 A veces viene de una muerte. A veces de muchas. A veces de una enfermedad que tomó una casa entera antes de que nadie pudiera despedirse. A veces de una batalla donde nadie enterró a nadie porque todos huyeron. A veces de una ruina donde algo antiguo aprendió a quedarse pegado a los objetos que dejó atrás.
 
-No todo lo extraño es Hambre.
-
-No todo lo poderoso es Hambre.
-
-Pero cuando un sitio, un objeto o un cuerpo empieza a comportarse como si lo inconcluso todavía tuviera boca, los Zarnag no necesitan otro nombre para empezar a trabajar.
+No todo lo extraño es Hambre, ni todo lo poderoso lo es. Pero cuando un sitio, un objeto o un cuerpo empieza a comportarse como si lo inconcluso todavía tuviera boca, los Zarnag no necesitan otro nombre para empezar a trabajar.
 
 El moribundo lleva consigo lo que quería.
 
@@ -162,15 +114,11 @@ Eso lo saben todos los Zarnag, aunque no todos lo digan igual. El vocabulario ca
 
 La observación no cambia: cuando alguien muere con algo sin resolver, lo que tenía en la mano o bajo los pies puede seguir queriendo por él.
 
-No es que el muerto vuelva.
-
-Es que su querer dejó forma.
+No es que el muerto vuelva: es que su querer dejó forma.
 
 Un campo de batalla donde nadie retiró los cuerpos no es peligroso solo por la infección. Es peligroso porque miles de Últimas Hambres quedaron pegadas a armas, ropas, barro, zanjas, huesos, estandartes y órdenes incumplidas. Si nadie trabaja ese sitio, el Peso se espesa. Si se espesa demasiado, empieza a morder a los vivos.
 
-La teología Zarnag no pregunta si la muerte asusta.
-
-Pregunta si algo verdaderamente se va.
+La teología Zarnag no pregunta si la muerte asusta. Pregunta si algo verdaderamente se va.
 
 Su horror no es oscuro en sentido decorativo. Es la posibilidad concreta de que el mundo produzca más Hambre de la que puede saciarse: trincheras, cavernas, osarios, ruinas, casas selladas, pozos enfermos, caminos donde la gente desaparece y regresa con la mirada equivocada. Cada vez que un sitio no se deja saciar, cada vez que un objeto sigue queriendo más tiempo del que debería, muchos Zarnag lo toman como señal de que algo quedó abierto más allá del trabajo ordinario.
 
@@ -200,17 +148,11 @@ Las Aflicciones que otras culturas intentan clasificar de formas más limpias so
 
 Una Mordida no siempre entra por herida. Puede entrar por sueño, olor, costumbre, risa, familiaridad, orgullo o permanencia excesiva. Un vivo mordido por el Hambre empieza a percibir demasiado. Reconoce Restos donde antes veía cosas. Sueña muertes que no vivió. Se siente cómodo en sitios donde debería seguir sintiendo asco. Quiere tocar para confirmar. Quiere guardar para estudiar. Quiere volver para entender.
 
-Algunas Mordidas se limpian.
-
-Otras se esconden.
-
-Otras maduran.
+Algunas Mordidas se limpian; otras se esconden; otras maduran.
 
 Cuando una Mordida deja de sentirse como advertencia y empieza a sentirse como apetito, los ancianos la llaman Gula.
 
-Gula no es hambre de carne.
-
-Es hambre de Hambre.
+Gula no es hambre de carne: es hambre de Hambre.
 
 El que carga Gula no necesariamente parece monstruoso. Puede ser eficiente, valiente, útil, incluso indispensable. Puede entrar donde nadie más entra. Puede leer un Resto con precisión extraordinaria. Puede soportar olores, sueños y voces sin quebrarse. Por eso es peligroso. Porque desde afuera se parece demasiado a alguien bueno en el trabajo.
 
@@ -220,15 +162,11 @@ Empieza a necesitar que los sitios pesen. Se frustra cuando un Resto se sacia de
 
 Los ancianos llaman el Cruce al momento en que quien trabajaba para saciar empezó a necesitar que el Hambre siguiera ahí.
 
-Antes del Cruce, todavía hay trabajo.
-
-Después del Cruce, hay otra cosa usando el oficio como piel.
+Antes del Cruce, todavía hay trabajo. Después del Cruce, hay otra cosa usando el oficio como piel.
 
 Cuando algo excede el trabajo de manos — un sitio demasiado grande, un Resto que parece mirar de vuelta, una presencia que otras especies llamarían dios, entidad o cosa primordial — los Zarnag rara vez construyen una categoría formal para eso.
 
-No les interesa ganar una discusión teológica.
-
-Dicen otras frases.
+No les interesa ganar una discusión teológica. Dicen otras frases:
 
 Eso no se sacia con manos.
 
@@ -260,7 +198,7 @@ El punto más común de ruptura interna no es el territorio ni la doctrina. Es e
 
 Primero aceptan trabajos cada vez más dudosos. Luego dejan de preguntar quién produjo los cuerpos. Luego negocian mejor cuando la crisis empeora. Luego un joven ríe demasiado fuerte en una fosa y nadie lo corrige. Luego alguien dice que no es asunto del grupo cómo llegaron los muertos, solo qué se paga por retirarlos.
 
-Después empiezan las justificaciones.
+Después empiezan las justificaciones:
 
 El Hambre siempre estará ahí.
 
@@ -270,9 +208,7 @@ Si nosotros no lo tocamos, otros morirán.
 
 No es culpa nuestra que el mundo produzca cuerpos.
 
-Para los Zarnag, la corrupción rara vez empieza con maldad declarada.
-
-Empieza con adaptación.
+Para los Zarnag, la corrupción rara vez empieza con maldad declarada. Empieza con adaptación.
 
 Y la adaptación es peligrosa porque en su oficio también es necesaria.
 
@@ -302,9 +238,7 @@ Estos son los bordes donde el grupo puede romperse antes de darse cuenta de que 
 
 Envejecer bien entre los Zarnag no es sobrevivir mucho tiempo. Es conservar la capacidad de distinguir lo que puede sobrevivirse de lo que solo lo parece, y saber qué formas de contaminación llegan al carácter a través del hábito antes que a través de la herida.
 
-Un Zarnag viejo no impresiona por haber visto muchos muertos.
-
-Impresiona si todavía sabe cuándo apartar la mirada.
+Un Zarnag viejo no impresiona por haber visto muchos muertos. Impresiona si todavía sabe cuándo apartar la mirada.
 
 ## Relaciones con el Mundo
 
@@ -338,15 +272,13 @@ Los Bufoni importan especialmente cuando un dominio cae. Para los Bufoni, un kun
 
 Los Formix ofrecen refugio de una manera que muchos Zarnag no esperan. Una comunidad Formix libre puede recibir trabajadores marginados sin cargar el mismo desprecio histórico hacia su oficio. Pero también pueden hacer preguntas incómodas: si un Zarnag existe para trabajar el Hambre, ¿qué queda de él cuando no hay Hambre cerca? Esa pregunta puede sonar demasiado parecida a Gula para algunos Zarnag viejos.
 
-Los Chelicer encuentran difícil aceptar que un oficio tan importante dependa tanto del juicio sucio, situado y corporal. Para un Chelicer, la verdad debe revelarse bajo procedimiento. Para un Zarnag, el procedimiento sirve solo si alguien todavía puede oler cuándo el sitio cambió. Ambos entienden el valor de condiciones correctas. Discrepan sobre qué ocurre cuando las condiciones correctas siguen produciendo algo que no debería estar ahí.
+Los Chelicer encuentran difícil aceptar que un oficio tan importante dependa tanto del juicio sucio, situado y corporal. Para un Chelicer, la verdad debe revelarse bajo procedimiento. Para un Zarnag, el procedimiento sirve solo si alguien todavía puede oler cuándo el sitio cambió. Ambos entienden el valor de las condiciones correctas, pero discrepan sobre qué ocurre cuando esas condiciones siguen produciendo algo que no debería estar ahí.
 
 A la mayoría de los pueblos les gustaría que los Zarnag fueran necesarios solo en tiempos excepcionales.
 
 Los Zarnag saben que eso es mentira.
 
-La muerte mal gestionada no es excepcional.
-
-Solo suele estar lo bastante lejos para que otros finjan que no la ven.
+La muerte mal gestionada no es excepcional; solo suele estar lo bastante lejos para que otros finjan que no la ven.
 
 ## Como Personaje Jugador
 
@@ -358,9 +290,7 @@ En entornos de muerte, podredumbre o contaminación activa, un Zarnag lee el sit
 
 La cara opuesta es lo que esa exposición acumula. El contacto sistemático con lo que no terminó de irse deja la percepción abierta a lo que persiste. Lo mismo que permite leer el sitio también permite que el sitio entre.
 
-Un Zarnag no es resistente porque la muerte no lo toca.
-
-Es resistente porque aprendió a trabajar mientras algo intenta tocarlo todo el tiempo.
+Un Zarnag no es resistente porque la muerte no lo toca: es resistente porque aprendió a trabajar mientras algo intenta tocarlo todo el tiempo.
 
 En el conflicto, las mandíbulas definen su identidad: no como el primer golpe sino como la consecuencia que traba la distancia y la sostiene. Una mordida Zarnag no es un impacto. Es la apertura de un problema que no termina en el momento del contacto. Sus garras trabajan diferente: más rápidas, orientadas a crear presión encadenada y abrir camino a través de lo que rodea a un oponente antes que contra él directamente.
 
@@ -372,9 +302,7 @@ Lo que un personaje Zarnag sabe al salir: cómo leer un entorno de muerte, qué 
 
 Lo que muchos no saben: si lo que encontraron en su último trabajo era tan inofensivo como decidieron creer, si la comunidad que dejaron todavía está al mismo lado de la línea que cuando la conocieron, y si ellos mismos aprendieron a sobrevivir al trabajo o simplemente a parecer intactos.
 
-La pregunta que la mayoría de los personajes Zarnag se llevan consigo no es si pueden hacer el trabajo.
-
-Es si lo que el trabajo les hizo todavía puede deshacerse.
+La pregunta que la mayoría de los personajes Zarnag se llevan consigo no es si pueden hacer el trabajo, sino si lo que el trabajo les hizo todavía puede deshacerse.
 
 ---
 
