@@ -16,21 +16,15 @@ related:
 
 # Bufoni
 
-Llevas tres horas en el territorio.
-
-Los Bufoni llevan tres horas sabiéndolo.
+Llevas tres horas en el territorio. Los Bufoni llevan tres horas sabiéndolo.
 
 No porque hayan visto pasar tus huellas. No porque hayan oído tus pasos en el barro. Porque el territorio en que estás entrando tiene una relación con ellos que no terminó cuando dejaron de estar a la vista. Lo que ocurre aquí les llega por canales que construyeron durante generaciones: la variación química del agua cuando algo nuevo la cruza, la señal que tu cuerpo deja en el suelo sin saber que la deja, el cambio en el silencio que precede a toda presencia no reconocida.
 
-El dominio no es tierra que les pertenece.
-
-Es tierra que los escucha a ellos primero.
+El dominio no es tierra que les pertenece. Es tierra que los escucha a ellos primero.
 
 Cuando finalmente ves a uno — si lo ves antes de que él decida que es momento — lo más probable es que no se esté moviendo. El cuerpo bajo, el centro de gravedad casi pegado al suelo, los ojos demasiado quietos para algo vivo. La piel húmeda, con dos formaciones visibles en la base del cráneo que no tienen nombre en tu vocabulario pero que el territorio en que estás parado ya conoce.
 
-El Bufoni no espera porque no tenga otra opción.
-
-Espera porque sabe lo que viene después.
+El Bufoni no espera porque no tenga otra opción. Espera porque sabe lo que viene después.
 
 ## El Cuerpo
 
@@ -48,31 +42,23 @@ Esa misma capacidad de absorción es la que produce el compuesto que los define.
 
 El compuesto que producen esas glándulas es la firma biológica más precisa de la especie. Su composición está calibrada al dominio de origen. Años de exposición a un territorio distinto modifican la firma gradualmente: un Bufoni que ha vivido en otro dominio el tiempo suficiente comienza a llevar en la piel la huella de ese territorio.
 
-Otros Bufoni pueden leer esa modificación en proximidad estrecha.
-
-No siempre con comodidad.
+Otros Bufoni pueden leer esa modificación en proximidad estrecha. No siempre con comodidad.
 
 El olor químico de un Bufoni dice más de lo que la cortesía permite preguntar. Dice de dónde viene, cuánto tiempo lleva fuera, si su dominio todavía lo marca con fuerza, si fue remapeado deliberadamente, si su piel está intentando pertenecer a más de un sitio, o si carga la firma fantasma de un territorio que ya no responde.
 
 El órgano de caza es la lengua. Larga, rápida, con superficie adhesiva, anclada en la parte delantera de la mandíbula inferior. Sale y regresa en un tiempo que otras especies difícilmente rastrean. El golpe no tiene el perfil de un arma de filo ni de impacto: viene desde debajo, desde quietud, desde un ángulo que la mayoría de los cuerpos no cubre bien.
 
-Y lo que entrega al contacto es el mismo compuesto que las glándulas producen.
-
-El efecto, cuando entra, no necesita anunciarse.
+Y lo que entrega al contacto es el mismo compuesto que las glándulas producen. El efecto, cuando entra, no necesita anunciarse.
 
 Los ojos son grandes, de iris dorado-ámbar a cobre oscuro, con pupila horizontal. No resuelven detalle fino a distancia con precisión. Lo que hacen es abarcar: el ángulo de cobertura de un Bufoni en reposo es más amplio que el de cualquier especie con visión frontal. En poca luz, funcionan. Pero lo que ven no siempre importa más que lo que la piel registra.
 
 En la base de la garganta hay un saco vocal retráctil. Inflado, amplifica la vocalización hacia un rango de resonancia que tiene usos territoriales y rituales. En condiciones acústicas específicas — el terreno propio, la proximidad de los puntos de anclaje de la presencia de dominio — las frecuencias que un Bufoni produce pueden ser reconocidas por la presencia que habita ese territorio. Generaciones del mismo linaje produciendo las mismas frecuencias en el mismo lugar han hecho ese reconocimiento recíproco.
 
-Para quien lo escucha desde afuera, el sonido es simplemente volumen.
-
-Para el dominio, puede ser nombre, presencia, ofrenda, advertencia o regreso.
+Para quien lo escucha desde afuera, el sonido es simplemente volumen. Para el dominio, puede ser nombre, presencia, ofrenda, advertencia o regreso.
 
 ## La Cultura
 
-El dominio es la unidad que importa.
-
-No el asentamiento. No el clan. No la alianza ni el pueblo.
+El dominio es la unidad que importa. No el asentamiento. No el clan. No la alianza ni el pueblo.
 
 El dominio: un territorio de extensión acotada cuyos límites están definidos por dónde termina la relación activa con la presencia que lo habita, y por dónde la piel Bufoni empieza a no reconocer bien el suelo.
 
@@ -82,33 +68,21 @@ El dominio tiene un señor de dominio. Linaje por designación de la presencia d
 
 El señor de dominio tiene autoridad sobre los asuntos del dominio: relaciones exteriores, estructura interna, decisiones de conflicto, tributo, negociación con dominios vecinos y autorización de operaciones fuera del territorio. No tiene autoridad sobre los guardianes rituales, que mantienen la relación con la presencia de dominio independientemente de la política.
 
-Esa separación sostiene al dominio.
-
-También puede partirlo.
+Esa separación sostiene al dominio. También puede partirlo.
 
 Los guardianes no son sacerdotes en el sentido de otras especies. Son custodios del protocolo de ofrenda, del vocabulario ritual y del registro de cómo ha respondido la presencia de dominio a lo largo de generaciones. Lo que saben no puede transferirse por descripción: se aprende participando en el dominio desde la infancia, observando las respuestas del territorio, reconociendo cuándo una señal cambió y qué significó la última vez que ocurrió así.
 
 Los dominios que pierden sus guardianes sin transmisión completa pierden parte de la lectura que construyeron.
 
-No pierden religión.
-
-Pierden idioma.
-
-Porque una presencia de dominio puede seguir presente aunque nadie recuerde ya cómo se le habla sin deformar la respuesta.
+No pierden religión. Pierden idioma. Porque una presencia de dominio puede seguir presente aunque nadie recuerde ya cómo se le habla sin deformar la respuesta.
 
 El prestigio se acumula por dos vías. Una es la generosidad hacia la presencia de dominio y la comunidad: las familias que ofrendan con constancia, que comparten en escasez, que mantienen las prácticas sin abreviación y que no extraen más de lo que el dominio puede sostener son recordadas en el registro oral. La deshonra llega por ruptura pública de protocolo, extracción sin ofrenda, negligencia que debilitó una relación que el dominio mantenía, o uso político de una señal ritual que no debía forzarse.
 
-La segunda vía es el servicio fuera del dominio.
-
-Y ahí están los infiltrados.
+La segunda vía es el servicio fuera del dominio. Y ahí están los infiltrados.
 
 El infiltrado es la respuesta interna de una civilización de dominios cerrados a la necesidad de información y acción fuera de esos dominios. Cada dominio que puede sostenerse tiene uno o varios: elegidos antes de que la firma química de su piel quede fija al territorio natal, y expuestos deliberadamente a otro dominio o entorno durante años.
 
-El cuerpo hace el resto.
-
-La piel absorbe.
-
-La firma cambia.
+El cuerpo hace el resto. La piel absorbe. La firma cambia.
 
 El infiltrado que emerge de ese proceso puede moverse en otros territorios sin que su biología lo anuncie como forastero de origen.
 
@@ -120,27 +94,17 @@ Lo que el señor de dominio hace con ella puede o no traducirse en acción.
 
 Un infiltrado exitoso vuelve siendo útil precisamente porque dejó de ser legible como quien era.
 
-Esa utilidad tiene costo.
-
-La cultura lo sabe.
-
-No siempre lo admite.
+Esa utilidad tiene costo. La cultura lo sabe. No siempre lo admite.
 
 El remapeo tiene palabras propias. Piel prestada es la firma adaptada a territorio ajeno. Firma partida es cuando dos dominios compiten en el cuerpo. Dominio de préstamo es el territorio que enseñó al infiltrado a pasar. Retorno incompleto es la reintegración que no termina de ocurrir, aunque todos hayan realizado la ceremonia correcta. Regreso sin suelo es el caso más temido: el infiltrado vuelve con la piel cambiada y descubre que el dominio que debía recibirlo cayó durante su ausencia.
 
-Un infiltrado en operación no está simplemente trabajando.
-
-Está siendo algo diferente a lo que es.
-
-Esa diferencia deja huella.
+Un infiltrado en operación no está simplemente trabajando. Está siendo algo diferente a lo que es. Esa diferencia deja huella.
 
 Los dominios llevan guerras entre sí. No campañas abiertas, no conquistas veloces, no destrucción total como primera opción. Una guerra Bufoni suele ser tensión de largo plazo, acciones focalizadas, sabotaje de ofrendas, extracción de recursos clave, contaminación ritual, interrupción de guardianes, captura de registros, modificación de puntos de agua, o daño a la relación de un dominio con su presencia antes que destrucción directa de su población.
 
 Una guerra Bufoni puede durar décadas sin que ningún lado sea destruido en sentido ordinario, y terminar cuando uno de los dos dominios colapsa porque nadie pudo mantener el protocolo bajo presión continua.
 
-La victoria no siempre es tomar tierra.
-
-A veces es hacer que la tierra deje de responderle al otro.
+La victoria no siempre es tomar tierra. A veces es hacer que la tierra deje de responderle al otro.
 
 ## Teología y Cosmología
 
@@ -150,23 +114,13 @@ No pretenden que todo el mundo esté obligado a usar sus categorías. Para ellos
 
 Las presencias mundanas son la capa más inmediata de lo vivo: presencias que se acumularon en objetos y sitios, que retienen algo de lo que los tocó, que responden si se les habla correctamente, que pueden ser herramienta o amenaza según la calidad de la relación que se tenga con ellas. El mundo para los Bufoni está lleno de presencias mundanas. No todas tienen nombre. No todas merecen nombre. No todas soportan ser tratadas como si fueran más de lo que son.
 
-Las presencias de linaje son más persistentes y personales dentro del mundo Bufoni: las que se asocian a un linaje o comunidad específica, que se anclan en objetos físicos que la familia porta, que responden de manera más predecible porque la relación acumulada las ha hecho más legibles. Una presencia de linaje no es un espíritu guardián en el sentido simple de algo que protege activamente.
+Las presencias de linaje son más persistentes y personales dentro del mundo Bufoni: las que se asocian a un linaje o comunidad específica, que se anclan en objetos físicos que la familia porta, que responden de manera más predecible porque la relación acumulada las ha hecho más legibles. Una presencia de linaje no es un espíritu guardián en el sentido simple de algo que protege activamente. Es una relación que se sostiene.
 
-Es una relación que se sostiene.
+Mientras se sostiene, hay reciprocidad. Si se descuida, hay ausencia. Si se rompe mal, hay consecuencias.
 
-Mientras se sostiene, hay reciprocidad.
+Las presencias de dominio son las que importan. Son presencias que habitaron un territorio antes de que los Bufoni llegaran, o que surgieron de la historia acumulada de ese territorio bajo su cuidado. Algunos dominios muy antiguos albergan algo que excede en alcance y peso lo que el protocolo ordinario puede nombrar. La mayoría de los Bufoni no reconoce esa diferencia hasta que es demasiado tarde.
 
-Si se descuida, hay ausencia.
-
-Si se rompe mal, hay consecuencias.
-
-Las presencias de dominio son las que importan.
-
-Son presencias que habitaron un territorio antes de que los Bufoni llegaran, o que surgieron de la historia acumulada de ese territorio bajo su cuidado. Algunos dominios muy antiguos albergan algo que excede en alcance y peso lo que el protocolo ordinario puede nombrar. La mayoría de los Bufoni no reconoce esa diferencia hasta que es demasiado tarde.
-
-El protocolo no cambia con la escala de lo que habita el dominio.
-
-La experiencia sí.
+El protocolo no cambia con la escala de lo que habita el dominio. La experiencia sí.
 
 En el extremo más alto, los Bufoni hablan de presencias de alcance o presencias sin dominio: aquello que no pertenece a ningún territorio específico y actúa a una escala donde las relaciones ordinarias dejan de funcionar. No tienen protocolo para tratar con ellas. Una presencia de alcance no es simplemente una presencia de dominio más grande. Es el punto donde el vocabulario de dominio empieza a quedarse sin suelo.
 
@@ -178,13 +132,9 @@ Lo que la cosmología Bufoni no puede resolver es la pregunta de dirección.
 
 Si un dominio desarrolla prácticas rituales sostenidas durante generaciones alrededor de una presencia de dominio, y esa presencia empieza a responder en las formas que esas prácticas le dan forma, ¿quién comenzó?
 
-¿La presencia de dominio que llegó primero y encontró en el dominio un canal para expresarse?
+¿La presencia de dominio que llegó primero y encontró en el dominio un canal para expresarse? ¿O la comunidad que, sin saberlo, construyó una presencia a partir de lo que acumuló?
 
-¿O la comunidad que, sin saberlo, construyó una presencia a partir de lo que acumuló?
-
-La teología Bufoni tiene una respuesta práctica: no importa. El protocolo funciona de la misma manera en ambos casos.
-
-Esa respuesta sirve mientras el protocolo funciona.
+La teología Bufoni tiene una respuesta práctica: no importa. El protocolo funciona de la misma manera en ambos casos. Esa respuesta sirve mientras el protocolo funciona.
 
 El problema aparece cuando la presencia de dominio empieza a responder de maneras que el vocabulario ritual acumulado no reconoce. Cuando una ofrenda correcta produce silencio. Cuando una vocalización antigua convoca una reacción nueva. Cuando el agua cambia después de una ceremonia que nunca antes la alteró. Cuando el señor de dominio recibe señales de designación que los guardianes no pueden validar. Cuando los infiltrados regresan con información que sugiere que otro dominio está experimentando lo mismo.
 
@@ -206,21 +156,13 @@ La Presencia sin Rostro es una respuesta que ocurre, pero no con el vocabulario 
 
 El Regreso Fallido es la tragedia del infiltrado: el cuerpo vuelve, la misión se completa, la información salva al dominio, pero la piel ya no encuentra camino de vuelta.
 
-Una presencia de dominio que nadie atiende no muere.
-
-Sigue existiendo, expresando lo que siempre fue, sin el canal que le daba forma reconocible. Para un dominio vecino que intente leer lo que quedó de un dominio caído, la distinción entre una presencia de dominio arruinada y una simplemente sin moldear por generaciones de relación es casi imposible de establecer desde fuera.
+Una presencia de dominio que nadie atiende no muere. Sigue existiendo, expresando lo que siempre fue, sin el canal que le daba forma reconocible. Para un dominio vecino que intente leer lo que quedó de un dominio caído, la distinción entre una presencia de dominio arruinada y una simplemente sin moldear por generaciones de relación es casi imposible de establecer desde fuera.
 
 Para los Bufoni que sobrevivieron al colapso, no es mucho más fácil desde adentro.
 
-Ese es el horror Bufoni.
+Ese es el horror Bufoni. No que el espíritu del territorio desaparezca, sino que siga ahí, respondiendo sin reconocerlos.
 
-No que el espíritu del territorio desaparezca.
-
-Sino que siga ahí, respondiendo sin reconocerlos.
-
-La piel todavía dice un lugar.
-
-El lugar ya no responde.
+La piel todavía dice un lugar. El lugar ya no responde.
 
 ## Organización e Identidad Interna
 
@@ -228,39 +170,27 @@ Los Bufoni se dividen en tres categorías que ellos mismos reconocen, aunque no 
 
 El Bufoni de dominio es el que tiene relación activa y viva con una presencia de dominio específica: tiene protocolo, linaje registrado en el vocabulario ritual, firma química calibrada al territorio. Su identidad está anclada en un lugar que responde a ella. Cuando ese anclaje falta — por colapso del dominio, por expulsión, por ausencia extendida — el Bufoni de dominio carga algo que no puede depositarse en ningún otro lugar de la misma manera.
 
-Un Bufoni de dominio caído no es simplemente refugiado.
-
-Es alguien cuya piel todavía pronuncia un territorio que ya no contesta.
+Un Bufoni de dominio caído no es simplemente refugiado. Es alguien cuya piel todavía pronuncia un territorio que ya no contesta.
 
 Los guardianes de sitio neutral habitan los puntos de cruce entre dominios: territorios donde ninguna presencia de dominio reconoce ese suelo como propio, donde el terreno pertenece a la transacción más que a una relación sostenida. Son árbitros de conflictos inter-dominio, custodios de tratados y garantes de encuentros donde ningún señor de dominio puede afirmar que el suelo lo favorece.
 
-Tienen una perspectiva de la política Bufoni que ningún dominio interior puede tener.
-
-También tienen una identidad que ningún dominio reconocerá completamente como propia.
+Tienen una perspectiva de la política Bufoni que ningún dominio interior puede tener. También tienen una identidad que ningún dominio reconocerá completamente como propia.
 
 Los infiltrados en operación son una categoría aparte: personas cuya firma química fue remapeada deliberadamente, que operan en territorios que no son el suyo. Algunos tienen un dominio activo que los encargó y al que teóricamente pueden regresar. Otros regresarían a encontrar que el dominio no sobrevivió su ausencia, o que quien los envió ya no puede recibirlos.
 
-Un infiltrado puede completar la misión y perder el regreso.
+Un infiltrado puede completar la misión y perder el regreso. Esa posibilidad está dentro de la función.
 
-Esa posibilidad está dentro de la función.
-
-No por crueldad explícita.
-
-Porque el dominio siempre pesa más que quien sale de él para protegerlo.
+No por crueldad explícita, sino porque el dominio siempre pesa más que quien sale de él para protegerlo.
 
 Las tensiones estructurales que importan son dos.
 
 La primera: entre el señor de dominio, que ejerce autoridad política sobre el dominio, y los guardianes rituales, cuya autoridad sobre la relación con la presencia de dominio no está subordinada a la política. Cuando los dos entran en conflicto sobre cómo proceder en una crisis, el dominio tiene que encontrar un camino sin romper ninguno de los dos ejes.
 
-Perder a los guardianes puede costar la relación.
-
-Perder al señor de dominio puede costar la estructura.
+Perder a los guardianes puede costar la relación. Perder al señor de dominio puede costar la estructura.
 
 Un señor de dominio puede querer atacar antes de que el dominio vecino se fortalezca. Los guardianes pueden decir que la presencia de dominio no ha reconocido esa acción. El infiltrado puede traer información que vuelve urgente el ataque. El territorio puede responder con señales ambiguas, o con señales que distintas facciones leen de manera incompatible.
 
-En esas crisis, la pregunta nunca es solo política.
-
-Es ontológica: quién tiene derecho a decir qué quiso decir el dominio.
+En esas crisis, la pregunta nunca es solo política. Es ontológica: quién tiene derecho a decir qué quiso decir el dominio.
 
 El señor puede usar la voz del dominio como máscara de poder. Los guardianes pueden usar el protocolo como veto. El infiltrado puede traer una verdad externa que nadie quiere oír porque obligaría a tocar la relación interna de una forma peligrosa. Ninguna posición es pura por sí misma. Todas pueden salvar el dominio. Todas pueden romperlo.
 
@@ -270,19 +200,13 @@ Cuál de los dos sobrevive mejor a una crisis depende de qué tipo de crisis es.
 
 Una tercera tensión, menos reconocida, aparece alrededor de los infiltrados. Un dominio necesita información externa, pero la obtiene deformando la pertenencia de algunos de sus propios hijos. Un infiltrado remapeado puede volver con conocimiento vital y aun así resultar químicamente incómodo para los suyos. Puede oler a otro suelo. Puede activar sospecha en guardianes que lo recuerdan niño. Puede ser indispensable y no completamente reintegrable.
 
-La cultura Bufoni tiene ceremonias de retorno.
-
-No siempre funcionan.
+La cultura Bufoni tiene ceremonias de retorno. No siempre funcionan.
 
 Un hijo devuelto puede salvar el dominio y seguir oliendo a pérdida.
 
 ## Vida Cotidiana
 
-Los Bufoni aprenden su dominio antes que cualquier otra cosa.
-
-No el sistema de dominios en general.
-
-No la cosmología en abstracto.
+Los Bufoni aprenden su dominio antes que cualquier otra cosa. No el sistema de dominios en general. No la cosmología en abstracto.
 
 Este suelo. Esta agua. Esta manera en que el territorio cambia cuando algo que no le pertenece entra. Este silencio que precede el reconocimiento, y esta otra clase de silencio que precede el problema.
 
@@ -294,11 +218,7 @@ La selección de los infiltrados ocurre antes de que la firma química quede fij
 
 El proceso de remapeo es lento y no puede apresurarse. El cuerpo absorbe el territorio nuevo gradualmente, y forzar la velocidad produce firmas inconsistentes que otros Bufoni pueden detectar. Un infiltrado en formación vive en una contradicción física: debe aprender suficiente de otro dominio para que su piel lo pronuncie, sin olvidar por completo el dominio que lo envió.
 
-Un infiltrado en operación no está simplemente trabajando.
-
-Está siendo algo diferente a lo que es.
-
-Esa diferencia deja huella.
+Un infiltrado en operación no está simplemente trabajando. Está siendo algo diferente a lo que es. Esa diferencia deja huella.
 
 El rito de paso a la condición adulta en la mayoría de los dominios implica permanecer solo en el territorio de la presencia de dominio durante un período específico: sin ofrenda, sin protocolo formal, solo con la firma propia y lo que el territorio responda. La manera en que cada dominio interpreta lo que ocurre en esa noche varía. Lo que comparten es que el joven sale siendo legible para el territorio de una manera diferente a como entró.
 
@@ -312,13 +232,7 @@ Los objetos cotidianos también sostienen presencia. Una herramienta de guardiá
 
 La muerte en el dominio se entiende como regreso. El cuerpo de alguien que perteneció a un territorio vuelve a él: la firma química se disuelve en el suelo que la formó, y el registro de lo que esa persona sabía sobre la presencia de dominio — lo que solo ella habría podido leer — se pierde de la comunidad.
 
-No hay forma de evitarlo.
-
-Se documenta lo que puede documentarse.
-
-Lo que no puede describirse sin el cuerpo que lo interpretaba, no se documenta.
-
-Se lamenta.
+No hay forma de evitarlo. Se documenta lo que puede documentarse. Lo que no puede describirse sin el cuerpo que lo interpretaba no se documenta: se lamenta.
 
 La muerte fuera del dominio es la pérdida que los Bufoni articulan con más claridad. No hay suelo que reciba esa firma. No hay presencia de dominio que lea lo que esa persona conocía del protocolo. La comunidad pierde la lectura de alguien específico, que nadie más tendrá exactamente igual.
 
@@ -334,23 +248,15 @@ Los Bufoni no se relacionan con el mundo como individuos sueltos primero, sino c
 
 Los Rokhart necesitan lo que los Bufoni saben y no pueden obtenerlo en condiciones que sus métodos permitan. Un Rokhart que quiere estudiar la relación entre práctica colectiva y respuesta de una presencia de dominio tendría en un dominio Bufoni el ejemplo más sostenido y documentado disponible. El problema es que cualquier proceso de documentación rigurosa altera la relación que intenta medir. Los Bufoni comprenden la incompatibilidad. No la ven como un problema que les corresponda resolver.
 
-Para un Rokhart, registrar sin interferir es ideal.
-
-Para un Bufoni, entrar al dominio sin relación ya es interferencia.
+Para un Rokhart, registrar sin interferir es ideal. Para un Bufoni, entrar al dominio sin relación ya es interferencia.
 
 Los Naghii y los Bufoni comparten algo que pocas especies comparten: ambos organizan su relación con el territorio y lo extranatural en torno a presencias que responden a práctica colectiva acumulada. Las diferencias teológicas son reales y las dos cosmologías no se superponen sin fricción. Lo que produce tensión no es el desacuerdo doctrinal, sino que cada especie puede leer parcialmente lo que la otra hace y sacar conclusiones que la otra no compartiría.
 
-Un Naghii puede ver en una presencia de dominio una estructura de señal antigua mal traducida.
-
-Un Bufoni puede ver en los archivos Naghii una forma de tocar presencia sin alimentar relación.
-
-Ambos podrían tener razón en parte.
+Un Naghii puede ver en una presencia de dominio una estructura de señal antigua mal traducida. Un Bufoni puede ver en los archivos Naghii una forma de tocar presencia sin alimentar relación. Ambos podrían tener razón en parte.
 
 Los Drak'kai que transitan cerca de un dominio activo pueden leer en él una clase de firma que sus propios saberes reconocen de inmediato. Lo que leen no siempre coincide con lo que el dominio describe. Los Drak'kai no lo dicen como amenaza. Los Bufoni no siempre están en posición de escucharlo sin consecuencias para cómo tocan el protocolo al día siguiente.
 
-Un Drak'kai puede decir que la acumulación de un dominio se parece a la de otros lugares donde la relación terminó devorando a quienes la sostenían.
-
-Un guardián Bufoni puede responder que una relación sin riesgo no es relación.
+Un Drak'kai puede decir que la acumulación de un dominio se parece a la de otros lugares donde la relación terminó devorando a quienes la sostenían. Un guardián Bufoni puede responder que una relación sin riesgo no es relación.
 
 Los Arakhel tienen nodos en el entre que rodean dominios. Algunas familias Bufoni tienen relaciones de trabajo con ciertos nodos Arakhel: no alianza, sino protocolo de tránsito específico que beneficia a ambas partes. El Arakhel sabe quién cruzó el entre antes de tocar el dominio. El Bufoni sabe qué ocurre cuando ese viajero deja de estar entre lugares y entra en una relación territorial activa.
 
@@ -358,11 +264,7 @@ Fuera de ese marco, la lectura de cruce que los Arakhel ofrecen y la lectura de 
 
 Los Zarnag trabajan sitios donde algo murió sin cerrarse. Los dominios Bufoni colapsados son exactamente esa clase de sitio. Un Zarnag en territorio Bufoni caído tiene información sobre lo que quedó que el dominio superviviente necesita, y viceversa. El intercambio, cuando ocurre, es de información muy específica y no implica ningún otro nivel de cooperación.
 
-Un Zarnag puede decir que el sitio está infectado de Resto.
-
-Un Bufoni puede decir que la presencia de dominio sigue hablando sin guardianes.
-
-Ambas frases pueden describir el mismo horror.
+Un Zarnag puede decir que el sitio está infectado de Resto. Un Bufoni puede decir que la presencia de dominio sigue hablando sin guardianes. Ambas frases pueden describir el mismo horror.
 
 Los Ceratox reaccionan a lo que un dominio activo acumula como si el sitio entero estuviera bajo presión alta. Esa respuesta activa su biología de manera que los Bufoni encuentran difícil de manejar dentro del territorio: un Ceratox en estado de alerta puede desestabilizar relaciones que tardaron generaciones en establecerse. Las interacciones tienden a ser breves, acordadas fuera del territorio principal.
 
@@ -370,9 +272,7 @@ Cuando deben trabajar juntos, suele ser por necesidad: metal extraño en el agua
 
 Los Formix son la especie más abierta a los supervivientes de dominios caídos: sin historia de relaciones inter-dominio que gestionar, sin expectativa de lo que debe ser un territorio o una presencia de dominio, y con una disposición a absorber información nueva que otras especies no tienen. Un Bufoni de dominio caído puede encontrar en una comunidad Formix el único lugar donde nadie espera que el protocolo de su territorio siga siendo funcional.
 
-Eso puede ser alivio.
-
-También puede sentirse como una segunda muerte.
+Eso puede ser alivio. También puede sentirse como una segunda muerte.
 
 Los Loxod pueden recibir la carga química y vibratoria de un dominio antiguo con una profundidad que incomoda a los guardianes. Donde el Bufoni lee relación, el Loxod puede recibir acumulación, duelo, miedo, ofrenda y pérdida. Pueden ayudarse mucho en dominios colapsados, pero el Loxod puede nombrar cargas que el Bufoni necesita seguir tratando como presencia sagrada para no quebrarse.
 
@@ -390,9 +290,7 @@ Los Sauri pueden ver un dominio Bufoni como recipiente mal definido: una relaci�
 
 Los Myo inquietan a guardianes y señores de dominio por igual. A veces detectan cambios de presencia antes de que el protocolo los admita. Un Myo puede decir que la respuesta de un dominio cambió de dirección, que un señor fue reconocido por algo que no era la presencia habitual, o que el agua sueña con una forma que los guardianes no tienen en el registro. Algunos dominios los consultan en secreto. Otros los expulsan antes de que conviertan una duda ritual en crisis política.
 
-Para el mundo exterior, los Bufoni son guías de pantano, emboscadores, guardianes de dominio, envenenadores, agentes secretos, custodios de presencias territoriales y vecinos difíciles de leer.
-
-Para los Bufoni, el mundo exterior está lleno de criaturas que creen que entrar a un lugar es lo mismo que estar autorizadas a existir allí.
+Para el mundo exterior, los Bufoni son guías de pantano, emboscadores, guardianes de dominio, envenenadores, agentes secretos, custodios de presencias territoriales y vecinos difíciles de leer. Para los Bufoni, el mundo exterior está lleno de criaturas que creen que entrar a un lugar es lo mismo que estar autorizadas a existir allí.
 
 ## Como Personaje Jugador
 
@@ -400,21 +298,13 @@ Fuera del dominio, el cuerpo Bufoni no funciona igual.
 
 No por deficiencia biológica. Porque el sistema sensorial que lee el territorio en términos de firma química y respuesta de la presencia de dominio requiere territorio conocido para producir información utilizable. En suelo ajeno, ese sistema sigue activo pero opera en vacío: recibe señales que no puede interpretar, de una presencia que no reconoce el linaje, en un vocabulario que no comparte.
 
-La piel sigue absorbiendo.
-
-El compuesto sigue produciéndose.
-
-El cuerpo sigue siendo lo que es.
-
-Pero lo que producía sentido en el dominio no produce lo mismo afuera.
+La piel sigue absorbiendo. El compuesto sigue produciéndose. El cuerpo sigue siendo lo que es. Pero lo que producía sentido en el dominio no produce lo mismo afuera.
 
 Lo que sí llevan consigo: el protocolo de ofrenda y lo que revela sobre presencias que responden a reconocimiento; el vocabulario de lectura de firma química que permite identificar a otros Bufoni por dominio de origen; la capacidad de leer territorios con paciencia larga que otras especies no mantienen; la lengua y el compuesto; y una comprensión muy precisa de que la relación importa más que la posición, y que la posición se sostiene o se pierde en función de cómo se trata lo que importa.
 
 En combate, los Bufoni son pacientes antes que agresivos. Su ventaja nace de no ser localizados. La lengua funciona mejor desde quietud: el cuerpo que no se ha movido no anuncia dónde está, y el golpe que sale desde allí llega desde un ángulo que el objetivo no rastreó. El compuesto que deposita no necesita anunciarse para estar actuando.
 
-Un Bufoni en combate no mide el éxito por el número de golpes.
-
-Lo mide por cuánto tiempo mantuvo la posición sin ser encontrado, cuándo eligió actuar, y qué dejó el contacto en el objetivo que no podrá ignorar.
+Un Bufoni en combate no mide el éxito por el número de golpes. Lo mide por cuánto tiempo mantuvo la posición sin ser encontrado, cuándo eligió actuar, y qué dejó el contacto en el objetivo que no podrá ignorar.
 
 Los Bufoni que salen de su dominio suelen haberlo perdido o llevar una pregunta que el dominio no puede responder. El superviviente de un dominio caído lleva en la piel la firma de un territorio que ya no existe en la forma que lo formó. El infiltrado cuyo dominio no sobrevivió para recibirlo carga el resultado de años de ser otra cosa sin un lugar al que regresar siendo lo que es. El guardián que encontró en el vocabulario ritual de su presencia de dominio una respuesta que no pertenece al protocolo acumulado busca contexto que ninguna fuente interna puede darle.
 
@@ -426,11 +316,7 @@ Lo que un personaje Bufoni sabe al salir: cómo leer la diferencia entre un terr
 
 Lo que muchos no saben al salir: si lo que su presencia de dominio les mostró en el rito de paso fue lo que el dominio construyó, o lo que siempre estuvo ahí.
 
-Si hay diferencia.
-
-Si son del lugar que su piel recuerda, del lugar que los remapeó, o de ningún suelo que pueda responderles.
-
-Y si un territorio que dejó de reconocerlos puede, algún día, volver a pronunciar su nombre.
+Si hay diferencia. Si son del lugar que su piel recuerda, del lugar que los remapeó, o de ningún suelo que pueda responderles. Y si un territorio que dejó de reconocerlos puede, algún día, volver a pronunciar su nombre.
 
 ---
 
