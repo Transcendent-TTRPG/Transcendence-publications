@@ -16,57 +16,29 @@ related:
 
 # Naghii
 
-Los Naghii conservan los registros astronómicos más antiguos del mundo.
-
-No son completos.
-
-No son seguros.
-
-No están escritos en una lengua que ninguna especie viva pueda leer con certeza. Son copias de copias, traducciones de signos muertos, comparaciones entre ruinas partidas y cielos que ya no se comportan como deberían.
-
-Aun así, son lo más cercano que el mundo tiene a una memoria anterior al gran quiebre que los Naghii asocian con Khataar.
+Los Naghii conservan los registros astronómicos más antiguos del mundo. No están completos, no son seguros, y no están escritos en ninguna lengua que una especie viva pueda leer con certeza: son copias de copias, traducciones de signos muertos, comparaciones entre ruinas partidas y cielos que ya no se comportan como deberían. Aun así, son lo más cercano que el mundo conserva a una memoria anterior al gran quiebre.
 
 En esos registros aparece una palabra: Khataar.
 
-Los Naghii no saben si fue una fecha, una advertencia, una puerta, una alineación, una operación ritual o el nombre que los Primigenios dieron al final de su propia era. Saben que aparece en los tramos más hondos del archivo, allí donde la memoria de las ruinas empieza a quebrarse. Saben que las ruinas más antiguas apuntan hacia arriba. Saben que los lugares donde esa palabra se repite se comportan de manera distinta a otros sitios antiguos, aunque no siempre puedan decir en qué sentido primero.
+Nadie está seguro de qué nombra. Pudo ser una fecha, una advertencia, una puerta, una alineación, una operación ritual, o el nombre que los Primigenios dieron al final de su propia era. Lo que los Naghii sí saben es dónde aparece: en los tramos más hondos del archivo, allí donde la memoria de las ruinas empieza a quebrarse. Saben también que las ruinas más antiguas apuntan hacia arriba, y que los sitios donde esa palabra se repite no se comportan como otros lugares igual de viejos, aunque casi nunca puedan decir en qué consiste la diferencia.
 
-Y saben algo peor.
+Y hay algo peor: tal vez la tradujeron mal.
 
-Tal vez la tradujeron mal.
-
-No observan el cielo porque sea hermoso.
-
-Lo observan porque no están seguros de que haya terminado.
+No observan el cielo porque sea hermoso. Lo observan porque no están seguros de que haya terminado.
 
 ## El Cuerpo
 
 Los Naghii son humanoides bípedos con una complexión marcadamente serpentina: esbeltos, alargados, construidos para la precisión del movimiento antes que para la masa bruta. Sus miembros son fuertes pero fluidos, como si cada grado de movimiento estuviera bajo control deliberado. La cola prensil, aproximadamente tan larga como el torso, funciona como arma natural, mecanismo de equilibrio e instrumento de restricción.
 
-Un Naghii rara vez ocupa el espacio de manera casual. Se enrolla alrededor de una postura, se apoya en la cola antes de que otros noten el cambio de peso, se detiene con una quietud que parece menos descanso que cálculo. Donde otras especies muestran intención moviéndose, un Naghii puede mostrarla dejando de moverse.
+Un Naghii rara vez ocupa el espacio de manera casual. Se enrolla alrededor de una postura, se apoya en la cola antes de que otros noten el cambio de peso, se detiene con una quietud que parece menos descanso que cálculo. Donde otras especies muestran intención moviéndose, un Naghii puede mostrarla dejando de moverse. Esa quietud es del cuerpo tanto como de la educación.
 
-La quietud es parte del cuerpo.
-
-También es parte de la educación.
-
-Sus escamas forman patrones densos y superpuestos por casi todo el cuerpo, cambiando de tono entre negros profundos, verdes oscuros y oros apagados según el individuo. Bajo la luz directa — especialmente la luz de las estrellas — las escamas de algunos Naghii producen una iridiscencia débil, como si algo bajo la superficie reflejara frecuencias que el ojo apenas registra. Los propios Naghii asocian esta cualidad con llevar el cielo dentro.
-
-Esa frase se dice con orgullo.
-
-También con cuidado.
+Sus escamas forman patrones densos y superpuestos por casi todo el cuerpo, cambiando de tono entre negros profundos, verdes oscuros y oros apagados según el individuo. Bajo la luz directa — especialmente la luz de las estrellas — las escamas de algunos Naghii producen una iridiscencia débil, como si algo bajo la superficie reflejara frecuencias que el ojo apenas registra. Los propios Naghii asocian esta cualidad con llevar el cielo dentro, una frase que dicen con orgullo y con cuidado a la vez.
 
 Sus ojos son notablemente quietos. Donde los ojos de la mayoría de las criaturas se desplazan constantemente, la mirada de un Naghii se asienta. Esa quietud no es calma: es la cualidad de algo que aprendió a no revelar qué es lo que ve.
 
-Su lengua bífida es un instrumento sensorial primario, capaz de detectar firmas de calor y rastros químicos a distancias y en condiciones donde el rastreo visual falla. Perciben el entorno en capas que otras especies no tienen — olfato, calor, vibración a través del suelo — y esto se compone en situaciones de combate y rastreo hasta un punto que quien los observa lee como anticipación.
+Su lengua bífida es un instrumento sensorial primario, capaz de detectar firmas de calor y rastros químicos a distancias y en condiciones donde el rastreo visual falla. Perciben el entorno en capas que otras especies no tienen: olfato, calor, vibración a través del suelo. En combate y en rastreo esas capas se superponen hasta un punto que quien los observa lee como anticipación.
 
-Para un Naghii, ver nunca ha sido una sola cosa.
-
-El ojo confirma.
-
-La lengua encuentra.
-
-La piel recibe.
-
-El suelo responde.
+Para un Naghii, ver nunca ha sido una sola cosa: el ojo confirma, la lengua encuentra, la piel recibe, el suelo responde.
 
 Los Kha-Naghii poseen colmillos retráctiles conectados a glándulas de veneno detrás de la mandíbula. Su veneno se inyecta por contacto directo y actúa sistémicamente, degradando la resistencia física con el tiempo. Son la mayoría. En el vocabulario teológico de gran parte de las comunidades Naghii, son los que sostienen: quienes pueden mantener contacto directo con lo peligroso sin ser destruidos por ello.
 
@@ -80,9 +52,7 @@ Esto es central para la tensión teológica y política Naghii: el cuerpo llega 
 
 ## La Cultura
 
-El archivo que los Naghii mantienen no es una biblioteca pasiva.
-
-Es un registro vivo, ampliado en cada generación, que define qué puede construirse a su alrededor y a quién se le permite acercarse a sus niveles más internos. Los templos-zigurat existen para albergarlo: observatorio en el techo, administración en el centro, secciones restringidas bajo tierra donde el acceso se controla con la misma seriedad que el agua o el fuego.
+El archivo que los Naghii mantienen no es una biblioteca pasiva, sino un registro vivo, ampliado en cada generación, que define qué puede construirse a su alrededor y a quién se le permite acercarse a sus niveles más internos. Los templos-zigurat existen para albergarlo: observatorio en el techo, administración en el centro, secciones restringidas bajo tierra donde el acceso se controla con la misma seriedad que el agua o el fuego.
 
 No todo lo que el archivo guarda son textos.
 
@@ -90,25 +60,17 @@ Algunas piezas conservan algo más que información: tablillas, instrumentos, fr
 
 Los Naghii llaman a esas piezas y lugares umbrales del cielo.
 
-No todos los objetos antiguos son umbrales. No toda tablilla pesa más que su inscripción. No toda cámara sellada responde a quien entra. Pero cuando una pieza no solo conserva una lectura, sino que modifica al lector, altera la secuencia, devuelve señal o expone a quien la toca a una respuesta que no estaba allí antes, la orden la trata como umbral.
+No todos los objetos antiguos son umbrales, ni toda tablilla pesa más que su inscripción, ni toda cámara sellada responde a quien entra. Pero cuando una pieza no solo conserva una lectura, sino que modifica al lector, altera la secuencia, devuelve señal o expone a quien la toca a una respuesta que no estaba allí antes, la orden la trata como umbral.
 
-Un umbral no se estudia como un texto.
-
-Se prepara como una entrada.
+Un umbral no se estudia como un texto: se prepara como una entrada.
 
 Un templo Naghii se organiza verticalmente porque su cosmología también lo hace. Arriba está el cielo: observación, cálculo, espera. En el centro está la comunidad: iniciaciones, tribunales, aulas, patios de interpretación, espacios donde la vida cotidiana debe continuar bajo la sombra de lo que se vigila. Abajo está el archivo interior: cámaras selladas, registros peligrosos, tablillas incompletas, traducciones disputadas y pasajes que no se leen en voz alta hasta que alguien ha sido preparado para soportar lo que podría significar leerlos mal.
 
-Las cámaras más temidas no contienen simplemente signos celestes.
-
-Contienen umbrales.
+Las cámaras más temidas no contienen simplemente signos celestes: contienen umbrales.
 
 Objetos, cámaras o disposiciones rituales que parecen devolver algo al lector, exponerlo a una respuesta o alterar la lectura según quién entre, en qué secuencia lo haga, bajo qué cielo y después de qué preparación. La orden no siempre sabe si el umbral conserva una operación antigua, si la reproduce parcialmente, si responde a la expectativa del lector o si solo revela un peligro que ya estaba allí.
 
-Por eso existen los protocolos.
-
-No porque los protocolos garanticen seguridad.
-
-Porque sin ellos no habría diferencia entre leer y abrir.
+Por eso existen los protocolos. No porque garanticen seguridad, sino porque sin ellos no habría diferencia entre leer y abrir.
 
 Los Naghii no son una civilización unificada. Múltiples comunidades existen en diferentes regiones, cada una desarrollada en torno a las ruinas que encontraron cuando se asentaron por primera vez. Como no hay dos sitios de ruinas idénticos, y porque la comprensión que los Naghii tienen de su propia historia está filtrada a través de interpretaciones de un lenguaje incomprensible, las comunidades que se desarrollaron en lugares distintos llegaron a conclusiones diferentes sobre qué significan las ruinas, qué fue Khataar y qué representan teológicamente las variantes Kha y Saa.
 
@@ -128,17 +90,13 @@ Cuando un Saa lee una advertencia y un Kha decide esperar, toda la ciudad aprend
 
 Cuando coinciden, la orden se mueve con una coherencia inusual. Cuando disienten — especialmente sobre el significado de un evento celestial — el resultado puede ser parálisis interna, cierre de rutas, suspensión de iniciaciones, negación de acceso al archivo o, históricamente, cisma.
 
-El problema de fondo es más profundo.
-
-Los registros más antiguos de los Naghii no son textos originales: son interpretaciones Naghii de inscripciones, tablillas y marcas encontradas en las ruinas de la civilización antigua, escritas en un idioma que ninguna especie viva puede leer. Los Naghii ensamblaron su conocimiento fundacional comparando patrones visuales, cotejando observaciones astronómicas con símbolos encontrados en sitios de ruinas y construyendo un cuerpo de significado durante generaciones.
+Pero el problema de fondo va más hondo. Los registros más antiguos de los Naghii no son textos originales: son interpretaciones Naghii de inscripciones, tablillas y marcas encontradas en las ruinas de la civilización antigua, escritas en un idioma que ninguna especie viva puede leer. Los Naghii ensamblaron su conocimiento fundacional comparando patrones visuales, cotejando observaciones astronómicas con símbolos encontrados en sitios de ruinas y construyendo un cuerpo de significado durante generaciones.
 
 Lo que saben es lo que creen que tradujeron.
 
 Los textos originales — si pudieran leerse — podrían decir algo completamente diferente. La orden sacerdotal sabe esto en algún nivel. La mayoría elige no examinarlo directamente.
 
-El archivo es sagrado no porque sea ciertamente verdadero.
-
-Es sagrado porque abandonarlo significaría no tener nada.
+El archivo es sagrado no porque sea ciertamente verdadero, sino porque abandonarlo significaría no tener nada.
 
 ## Teología y Cosmología
 
@@ -146,11 +104,9 @@ Los Naghii llaman Primigenios a la civilización antigua que precedió el gran q
 
 En su teología, los Primigenios no eran mortales de la manera en que son mortales las especies vivas. Eran los arquitectos del cosmos ordenado: seres que conocían los verdaderos nombres de las estrellas, que construyeron estructuras que tocaban el límite entre el cielo y el vacío, y que al final de su era no simplemente murieron sino que se disolvieron en el vacío. Completaron su obra y se convirtieron en parte de lo que siempre habían estudiado.
 
-Ese quiebre, en esta lectura, no fue un fracaso.
+Ese quiebre, en esta lectura, no fue un fracaso sino una culminación.
 
-Fue una culminación.
-
-No todas las comunidades aceptan esa conclusión con la misma tranquilidad. Algunas la repiten como dogma. Algunas la enseñan como misterio. Algunas la esconden detrás de capas de iniciación porque saben lo que implica: si los Primigenios no fracasaron, entonces el mundo roto no es una ruina accidental sino la consecuencia de una obra terminada.
+No todas las comunidades aceptan esa conclusión con la misma tranquilidad. Algunas la repiten como dogma, otras la enseñan como misterio, y otras la esconden detrás de capas de iniciación porque saben lo que implica: si los Primigenios no fracasaron, entonces el mundo roto no es una ruina accidental sino la consecuencia de una obra terminada.
 
 Khataar es la pregunta central sin resolver de la teología Naghii.
 
@@ -174,23 +130,17 @@ La profundidad exterior recibe en su vocabulario teológico el nombre de Abzu: p
 
 Donde el original pudo haber referido a una profundidad primordial bajo la tierra, el Abzu Naghii es la profundidad detrás del cielo: el lugar hacia el que los Primigenios desaparecieron cuando su era terminó, y desde el cual los registros más antiguos aprendieron a esperar respuesta.
 
-El Abzu no se venera.
-
-Se estudia, se vigila y se teme de la manera específica en que se teme algo cuya cercanía nunca puede confirmarse por completo, pero cuyos signos se consideran demasiado persistentes para ignorarlos.
+El Abzu no se venera: se estudia, se vigila y se teme de la manera específica en que se teme algo cuya cercanía nunca puede confirmarse por completo, pero cuyos signos se consideran demasiado persistentes para ignorarlos.
 
 Las presencias que algunas comunidades creen percibir detrás de ciertas respuestas, configuraciones o aperturas no suelen describirse como dioses en sentido simple. En la tradición más extendida se las nombra, cuando se las nombra, como rostros del Abzu: manifestaciones parciales, inteligencias incompletamente vistas o formas que el fondo del cielo adopta cuando encuentra cómo ser leído sin dejar por ello de seguir siendo incomprensible.
 
-Un rostro del Abzu no es necesariamente una persona.
+Un rostro del Abzu no es necesariamente una persona, pero tampoco es solo un fenómeno. Esa incomodidad es parte del nombre.
 
-Tampoco es solo fenómeno.
-
-Esa incomodidad es parte del nombre.
-
-La práctica contemplativa central de la orden se llama igi-an — del vocabulario de las ruinas, igi como ver y an como cielo. En ella, un sacerdote no observa el firmamento con los ojos solamente. Entra en un estado de lectura ritual en el que deja de mirar el cielo como distancia y empieza a tratarlo como respuesta posible.
+La práctica contemplativa central de la orden se llama igi-an (del vocabulario de las ruinas: igi, ver, y an, cielo). Un sacerdote pasa la noche inmóvil en lo alto del zigurat, con los instrumentos enfriándose a su lado, y deja de observar el firmamento solo con los ojos. Entra en un estado de lectura ritual en el que el cielo deja de ser distancia y empieza a tratarse como respuesta posible.
 
 Lo que produce no es igual en dos practicantes.
 
-Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como frecuencia sin fuente localizable. Otro lo recibe como temperatura que se distribuye de adentro hacia afuera. Otro pierde durante un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene.
+Uno lo ve como geometría de luz que no sigue la geometría del cielo real. Otro lo escucha como una frecuencia sin fuente localizable. A un tercero le llega como temperatura que se reparte de adentro hacia afuera; a otro se le borra por un momento la separación entre lo que el cuerpo siente y lo que el espacio contiene.
 
 La experiencia es real para quien la atraviesa, pero no se repite de manera idéntica. Lo que el archivo registra son esas experiencias, no una explicación definitiva de lo que las causó.
 
@@ -210,19 +160,15 @@ Lo que un sacerdote llama lectura profunda, otro puede llamarlo exceso, contamin
 
 Esas huellas reciben en muchas comunidades un nombre concreto: marcas del Abzu.
 
-No todas se presentan igual ni todas se consideran igualmente graves. Algunas se interpretan como advertencia de retiro inmediato. Otras como costo esperable del oficio. Otras, en los archivos más rígidos, como prueba de que alguien ya no debería seguir leyendo sin supervisión.
+No todas se presentan igual ni todas se consideran igualmente graves. Algunas se interpretan como advertencia de retiro inmediato; otras, como costo esperable del oficio; otras, en los archivos más rígidos, como prueba de que alguien ya no debería seguir leyendo sin supervisión.
 
 Una marca del Abzu puede ser sueño repetido, fijación con una secuencia celeste, pérdida de separación entre signo y cuerpo, reacción física ante ciertos umbrales, incapacidad de mirar una estrella sin escuchar otra cosa, o una certeza imposible de justificar con el archivo.
 
-La marca no siempre condena.
-
-Pero siempre cambia el acceso.
+La marca no siempre condena, pero siempre cambia el acceso.
 
 ## Organización e Identidad Interna
 
-Las comunidades Naghii no se fracturan solo porque la gente disienta.
-
-Se fracturan porque el desacuerdo bajo cielos arruinados, registros peligrosos, sitios inestables y verdad incompleta puede matar comunidades antes de que llegue la certeza.
+Las comunidades Naghii no se fracturan solo porque la gente disienta, sino porque el desacuerdo bajo cielos arruinados, registros peligrosos, sitios inestables y verdad incompleta puede matar comunidades antes de que llegue la certeza.
 
 Diferentes comunidades se formaron en torno a campos de ruinas distintos, diferente visibilidad del cielo, diferentes rutas de supervivencia y diferentes interpretaciones de lo que dejaron los Primigenios atrás. Algunas son ciudades-archivo introvertidas con capas profundas de iniciación y contacto mínimo con el exterior. Otras son comunidades orientadas hacia rutas que sobreviven comerciando advertencias, mapas, escoltas e interpretación hacia afuera. Algunas dan más espacio a la autoridad Kha y al cumplimiento. Otras dan más peso práctico a la proyección Saa, el reconocimiento y la señal.
 
@@ -232,15 +178,11 @@ Las tensiones internas recurren en patrones conocidos: la urgencia de los Kha fr
 
 Estas tensiones importan porque la vida Naghii a menudo depende del tiempo. Una advertencia tardía, una línea de mensajeros bloqueada o una orden sacerdotal paralizada por disputa interna puede convertir el desacuerdo doctrinal en hambruna, pérdida de archivos o un desastre asociado al Abzu que quizá pudo haberse evitado.
 
-La autoridad no se mide solo por rango.
+La autoridad no se mide solo por rango: se mide por acceso.
 
-Se mide por acceso.
+Quién puede entrar a una cámara y quién puede tocar una tablilla. Quién puede observar durante una noche marcada, corregir una traducción antigua o declarar que una lectura debe ser enterrada. Y quién puede retirar a un lector marcado antes de que siga abriendo lo que ya no sabe cerrar.
 
-Quién puede entrar a una cámara. Quién puede tocar una tablilla. Quién puede observar durante una noche marcada. Quién puede corregir una traducción antigua. Quién puede declarar que una lectura debe ser enterrada. Quién puede retirar a un lector marcado antes de que siga abriendo lo que ya no sabe cerrar.
-
-En una comunidad Naghii, negar acceso puede ser más grave que dictar sentencia.
-
-Abrir una puerta puede ser más peligroso que iniciar una guerra.
+En una comunidad Naghii, negar acceso puede ser más grave que dictar sentencia, y abrir una puerta, más peligroso que iniciar una guerra.
 
 Los Kha suelen controlar el umbral físico. Los Saa suelen controlar el umbral interpretativo. Pero las comunidades que sobreviven por mucho tiempo aprenden que ningún umbral pertenece por completo a una sola variante. Una puerta abierta sin interpretación puede matar. Una interpretación sin alguien dispuesto a cerrarle el paso al mundo puede no servir de nada.
 
@@ -248,11 +190,9 @@ Por eso las marcas del Abzu producen crisis institucionales delicadas. Un sacerd
 
 Algunas comunidades tienen tribunales de marca: consejos mixtos de Kha, Saa y archivistas mayores que determinan si un lector debe retirarse, ser supervisado, conservar acceso parcial o quedar sellado fuera de ciertas cámaras. Otras no institucionalizan la decisión y la dejan a la autoridad local. Las más peligrosas son las que confunden marca con favor y permiten que la sensibilidad reemplace el juicio.
 
-Los Naghii más peligrosos no son siempre los que poseen más autoridad formal. A veces son los archivistas que recuerdan una versión anterior de una traducción. Los guardianes que saben qué cámara se selló sin acta. Los mensajeros que llevaron una advertencia demasiado tarde. Los iniciados que vieron una estrella moverse contra el patrón y descubrieron que sus superiores ya la estaban esperando.
+Los Naghii más peligrosos no son siempre los que poseen más autoridad formal. A veces son los archivistas que recuerdan una versión anterior de una traducción, los guardianes que saben qué cámara se selló sin acta, los mensajeros que llevaron una advertencia demasiado tarde, los iniciados que vieron una estrella moverse contra el patrón y descubrieron que sus superiores ya la estaban esperando.
 
-También los marcados que aún conservan acceso.
-
-Y los no marcados que creen que eso los vuelve seguros.
+También los marcados que aún conservan acceso. Y los no marcados que creen que eso los vuelve seguros.
 
 ## Vida Cotidiana
 
@@ -282,9 +222,7 @@ Envejecer bien entre los Naghii no es simplemente sobrevivir mucho tiempo. Es pe
 
 Lo que los Naghii encuentran más difícil de perder no suele ser el territorio sino la cadena de significado: un segmento de archivo quemado, inundado, robado o maltraducido; un linaje que ya no puede verificar un rito antiguo; una tradición de vigilancia rota por una temporada de más; una traducción corregida demasiado tarde para salvar a quienes actuaron sobre la versión anterior.
 
-Un Naghii puede sobrevivir a la destrucción de una ciudad.
-
-Sobrevivir a la pérdida de una lectura puede ser más difícil.
+Un Naghii puede sobrevivir a la destrucción de una ciudad; sobrevivir a la pérdida de una lectura puede ser más difícil.
 
 ## Relaciones con el Mundo
 
@@ -292,7 +230,7 @@ Las comunidades Naghii tienden a anclarse en torno a ruinas, sitios de templos e
 
 Otras especies buscan a los Naghii por sus registros, rutas, advertencias, interpretación astronómica, conocimiento sellado, mapas de ruinas y acceso controlado a sitios que nadie más comprende. Eso hace a los Naghii útiles, pero también resentidos. Un pueblo que controla la interpretación puede ser acusado de sabiduría, fraude, cobardía o acaparamiento según cuán desesperados estén todos los demás.
 
-A la mayoría de los forasteros, los Naghii parecen demasiado absortos en algo que probablemente no existe. Son la civilización que espera perpetuamente un apocalipsis que, por lo que cualquier otro puede ver, ya ocurrió. Su paciencia se lee desde afuera como paranoia institucionalizada en religión. Son respetados por su conocimiento pero encontrados agotadores como vecinos.
+A la mayoría de los forasteros, los Naghii parecen demasiado absortos en algo que probablemente no existe. Son la civilización que espera perpetuamente un apocalipsis que, por lo que cualquier otro puede ver, ya ocurrió. El comerciante que espera tres días un permiso de tránsito mientras la orden discute una sola lectura del cielo no ve paciencia: ve obstrucción, una paranoia que se ha vuelto religión. Son respetados por su conocimiento, pero encontrados agotadores como vecinos.
 
 Los Naghii no creen que haya terminado.
 
@@ -300,15 +238,15 @@ Con los Sauri, los Naghii comparten una comprensión básica de la secuencia, el
 
 Los Panin son una fuente de irritación casi metafísica. Su presencia introduce ruido, impulso, variación y movimiento donde los Naghii intentan sostener series largas de observación. Un Panin puede activar una secuencia de eventos sin intención alguna, simplemente tocando, probando, cambiando de foco o atravesando un lugar que para los Naghii debía permanecer estable durante una noche de lectura. Los Naghii rara vez consideran a los Panin enemigos. Eso no los hace menos peligrosos.
 
-Los Rokhart provocan una mezcla de respeto y desconfianza. Su disciplina documental resulta familiar, incluso admirable, pero los Naghii distinguen entre registrar y comprender. Para un Rokhart, una contradicción puede ser un dato. Para un Naghii, una contradicción en el archivo correcto puede ser una puerta abierta en la dirección equivocada. Cooperan bien cuando el objetivo es preservar información. Cooperan peor cuando alguien pregunta quién tiene derecho a interpretarla.
+Los Rokhart provocan una mezcla de respeto y desconfianza. Su disciplina documental resulta familiar, incluso admirable, pero los Naghii distinguen entre registrar y comprender. Para un Rokhart, una contradicción puede ser un dato. Para un Naghii, una contradicción en el archivo correcto puede ser una puerta abierta en la dirección equivocada. Cooperan bien mientras el objetivo sea preservar información, y peor en cuanto alguien pregunta quién tiene derecho a interpretarla.
 
 Los Myo son tratados con cautela especial. Su relación con patrones, presagios y estados alterados toca territorios que los Naghii reconocen, pero no controlan del mismo modo. Un oráculo Myo puede decir en una frase lo que un archivo Naghii tardaría años en permitir formular. Eso fascina a algunos sacerdotes y ofende profundamente a otros. La pregunta que divide a las comunidades Naghii es si los Myo están viendo por otra ruta o si están entrando sin protección por puertas que los Naghii aprendieron a temer.
 
 Los Drak'kai interesan y preocupan por igual. Su relación con reliquias los lleva con frecuencia hacia objetos que los Naghii preferirían mantener catalogados, sellados o al menos observados desde una distancia segura. Un Drak'kai puede valorar una pieza por su presencia, su memoria o su poder; un Naghii quiere saber dónde fue encontrada, bajo qué cielo, asociada a qué inscripción, y cuántas veces cambió de manos antes de llegar allí.
 
-Los Ceratox suelen ser interlocutores difíciles pero útiles. Su lectura ambiental continua puede confirmar patrones que los Naghii registran de forma más lenta. Sin embargo, los Naghii tienden a desconfiar de cualquier percepción que no pase por archivo, secuencia y comparación histórica. Un dato sentido en el cuerpo puede ser valioso. También puede ser una contaminación interpretativa.
+Los Ceratox suelen ser interlocutores difíciles pero útiles. Su lectura ambiental continua puede confirmar patrones que los Naghii registran de forma más lenta. Sin embargo, los Naghii tienden a desconfiar de cualquier percepción que no pase por archivo, secuencia y comparación histórica. Un dato sentido en el cuerpo puede ser valioso, o puede ser una contaminación interpretativa.
 
-Los Arakhel inquietan a los Naghii porque habitan algo que los Naghii preferirían mapear desde afuera. Un nodo Arakhel antiguo puede acumular ofrendas, paso y memoria de formas que recuerdan demasiado a un archivo vivo, pero sin tablillas, sin secuencia formal y sin autoridad interpretativa central. Los Arakhel leen el entre desde el hilo. Los Naghii leen la ruina desde el archivo. Ambos saben que un lugar puede responder. Discrepan sobre si esa respuesta debe habitarse o restringirse.
+Los Arakhel inquietan a los Naghii porque habitan algo que los Naghii preferirían mapear desde afuera. Un nodo Arakhel antiguo puede acumular ofrendas, paso y memoria de formas que recuerdan demasiado a un archivo vivo, pero sin tablillas, sin secuencia formal y sin autoridad interpretativa central. Donde los Arakhel leen el entre desde el hilo, los Naghii leen la ruina desde el archivo; ambos saben que un lugar puede responder, pero discrepan sobre si esa respuesta debe habitarse o restringirse.
 
 Los Loxod producen una incomodidad distinta. Allí donde el Naghii necesita texto, secuencia y comparación, el Loxod puede recibir capas químicas, vibraciones y residuos de muerte o presencia antes de haber construido una interpretación. Para algunos Naghii, eso es una herramienta preciosa. Para otros, una exposición sin protocolo. Un Loxod en una ruina antigua puede decir demasiado pronto lo que un archivo habría tardado décadas en permitir decir.
 
@@ -316,7 +254,7 @@ Los Formix obligan a los Naghii a mirar otra clase de archivo: uno escrito en fu
 
 Los Chelicer son casi opuestos teológicos. Para los Chelicer, la verdad preexiste y la ordalía la encuentra bajo condiciones correctas. Para los Naghii, la verdad quizá existió, quizá fue traducida mal, quizá cambió por el acto de leerla, y aun así debe custodiarse. Ambos controlan acceso, procedimiento y testimonio. Pero donde el Chelicer busca veredicto, el Naghii teme que todo veredicto sobre Khataar llegue antes de comprender la inscripción.
 
-Los Ursari entienden la relación entre sitio, práctica y exposición de una manera que los Naghii respetan más de lo que admiten. Una forja de gradiente y un umbral del cielo no son lo mismo, pero ambos enseñan que el lugar participa en el oficio y que quien trabaja demasiado cerca vuelve cambiado. El Ursari pregunta qué permite hacer el sitio. El Naghii pregunta qué significa que el sitio responda. Ambas preguntas pueden llegar tarde.
+Los Ursari entienden la relación entre sitio, práctica y exposición de una manera que los Naghii respetan más de lo que admiten. Una forja de gradiente y un umbral del cielo no son lo mismo, pero ambos enseñan que el lugar participa en el oficio y que quien trabaja demasiado cerca vuelve cambiado. El Ursari pregunta qué permite hacer el sitio; el Naghii, qué significa que el sitio responda. Las dos preguntas pueden llegar tarde.
 
 Los Luphran inquietan a los Naghii por la furia. Un guerrero marcado por cruces repetidos puede parecer una lectura del Abzu hecha carne sin archivo que la contenga. Los Naghii quisieran registrar la secuencia, comparar marcas, observar el cielo bajo el cual ocurrió la batalla. Los Luphran suelen querer saber si la pregunta es insulto, amenaza o debilidad.
 
