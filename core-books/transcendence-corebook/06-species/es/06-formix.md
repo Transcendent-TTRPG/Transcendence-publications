@@ -24,13 +24,9 @@ Eso fue hace setenta años.
 
 Hoy Márach tiene archivos, acuerdos con tres comunidades vecinas, reglas sobre trabajo contratado, una milicia que discute si debería llamarse milicia, y una generación de Formix que lleva toda su vida libre siendo libre.
 
-Eso no significa que sepan qué hacer con la libertad.
+Eso no significa que sepan qué hacer con la libertad. Pero al menos tienen a otros que tampoco lo saben.
 
-Pero al menos tienen a otros que tampoco lo saben.
-
-Los Formix no nacieron como pueblo libre.
-
-Nacieron como cuerpos conscientes dentro de una arquitectura que no necesitaba preguntarles nada.
+Los Formix no nacieron como pueblo libre. Nacieron como cuerpos conscientes dentro de una arquitectura que no necesitaba preguntarles nada.
 
 ## El Cuerpo
 
@@ -38,19 +34,13 @@ El exoesqueleto es lo primero que nota cualquiera que se acerca. No es armadura:
 
 Su color y textura superficial varían por línea de origen. Para otras especies esto puede parecer rasgo étnico, herencia familiar o variación decorativa. Para los Formix libres es algo más incómodo: una marca de qué colonia los creó, qué Reina los diseñó y qué función esperaba de ellos antes de que salieran de su radio.
 
-Un Formix no lleva el pasado en una cicatriz.
-
-Lo lleva en todo el cuerpo.
+Un Formix no lleva el pasado en una cicatriz: lo lleva en todo el cuerpo.
 
 La cara es el elemento que más los aleja del patrón humanoide usual: mandíbulas donde otros tienen mandíbula blanda, ojos compuestos orientados a la detección de movimiento en campo amplio, y dos antenas que procesan información química de manera continua y sin pausa.
 
-No hay forma de apagar la percepción antenal.
+No hay forma de apagar la percepción antenal. Un Formix en un espacio nuevo está recibiendo datos del aire: metabolismo de cada ser vivo en el radio inmediato, trazas de quién estuvo antes, toxinas, humedad, miedo, sudor, sangre vieja, veneno, alimento, enfermedad, materiales específicos, residuos de actividad reciente y señales que la mayoría de otras especies nunca sabría que estaban ahí.
 
-Un Formix en un espacio nuevo está recibiendo datos del aire: metabolismo de cada ser vivo en el radio inmediato, trazas de quién estuvo antes, toxinas, humedad, miedo, sudor, sangre vieja, veneno, alimento, enfermedad, materiales específicos, residuos de actividad reciente y señales que la mayoría de otras especies nunca sabría que estaban ahí.
-
-Esa percepción no es íntima por elección.
-
-Simplemente ocurre.
+Esa percepción no es íntima por elección: simplemente ocurre.
 
 Los Formix libres aprenden pronto que otras especies consideran invasiva cierta información que ellos perciben sin buscarla. Saber quién estuvo en una habitación, quién está enfermo, quién sudó durante una conversación o qué objeto fue manipulado hace poco puede ser útil. También puede ser socialmente peligroso. La libertad no cerró sus antenas. Solo les dio responsabilidad sobre lo que hacen con lo que perciben.
 
@@ -62,55 +52,31 @@ Sus mandíbulas son herramientas de agarre, corte y cierre. No tienen la expresi
 
 Los Formix tienen variantes biológicas determinadas por la Reina en el momento de su formación. El Guerrero fue construido para sostener frente, cerrar distancia, resistir castigo y mantener contacto. El Destilador fue construido para procesar, producir y expulsar sustancias químicas útiles para control de espacio, defensa y trabajo especializado.
 
-En las colmenas, esas diferencias eran función.
+En las colmenas, esas diferencias eran función. En las ciudades refugio, son identidad heredada sin consentimiento.
 
-En las ciudades refugio, son identidad heredada sin consentimiento.
+Un Guerrero puede no querer combatir. Un Destilador puede no querer que su cuerpo sea tratado como herramienta química. Pero el cuerpo recuerda para qué fue hecho, incluso cuando la persona intenta decidir quién quiere ser.
 
-Un Guerrero puede no querer combatir.
-
-Un Destilador puede no querer que su cuerpo sea tratado como herramienta química.
-
-Pero el cuerpo recuerda para qué fue hecho, incluso cuando la persona intenta decidir quién quiere ser.
-
-Ese recuerdo no siempre habla como pensamiento.
-
-A veces habla como alivio cuando alguien da una orden clara.
-
-A veces como incomodidad cuando nadie la da.
+Ese recuerdo no siempre habla como pensamiento. A veces habla como alivio cuando alguien da una orden clara; a veces, como incomodidad cuando nadie la da.
 
 ## La Cultura
 
 Las ciudades refugio no tienen fundadores en el sentido habitual. Se forman donde los Formix se detienen, y se detienen donde huelen a otros Formix. La misma biología que en la colmena los dirigía hacia la Reina los dirige ahora hacia cualquier punto donde alguien como ellos dejó rastro. La decisión de quedarse llega después, cuando ya están ahí.
 
-Ese orden de eventos importa.
-
-Primero viene el cuerpo.
-
-Luego la comunidad intenta convertirlo en elección.
+Ese orden de eventos importa: primero viene el cuerpo, luego la comunidad intenta convertirlo en elección.
 
 Márach es la más conocida de estas ciudades, no porque sea la primera con certeza, sino porque sobrevivió lo suficiente para producir memoria. Otras existen en rutas menores, ruinas adaptadas, minas abandonadas, bordes de bosque, túneles viejos, asentamientos compartidos o barrios enteros dentro de ciudades de otras especies. Algunas duran años. Algunas se deshacen cuando sus miembros aceptan trabajo en otra parte. Algunas vuelven a parecerse demasiado a una colmena y pierden a quienes pueden notar la diferencia.
 
-Lo que hace que esas ciudades funcionen — cuando funcionan — no es que alguien las haya diseñado.
-
-Es que tienen gente que lleva más tiempo haciéndolo.
+Lo que hace que esas ciudades funcionen — cuando funcionan — no es que alguien las haya diseñado. Es que tienen gente que lleva más tiempo haciéndolo.
 
 Los Formix que llevan veinte años libres son raros. Son los más valiosos en cualquier comunidad no por cargo, linaje o carisma, sino por el simple hecho de que llevan veinte años descubriendo cosas y todavía no se han muerto, no regresaron a una Reina, no se vendieron como mano de obra permanente y no permitieron que la ciudad se convirtiera en una colmena con mejores palabras.
 
 Cuando uno de ellos muere, la ciudad pierde décadas de conocimiento que nadie instaló porque no había Reina que instalarlo. Fue construido día a día, error por error, discusión por discusión, y ahora se fue.
 
-Por eso enseñan.
-
-No siempre con estructura. No siempre con paciencia. No siempre con intención clara. Pero un Formix que llegó hace veinte años ve a otro que llegó hace tres días y sabe exactamente qué errores va a cometer, porque él los cometió también. Eso basta como razón.
+Por eso enseñan. No siempre con estructura, no siempre con paciencia, no siempre con intención clara. Pero un Formix que llegó hace veinte años ve a otro que llegó hace tres días y sabe exactamente qué errores va a cometer, porque él los cometió también. Eso basta como razón.
 
 La tensión que ninguna ciudad refugio nombra en voz alta — la que aparece en los desacuerdos sobre si tener roles fijos, sobre si aceptar contratos colectivos, sobre si mantener jerarquía, sobre cómo organizar defensa, sobre quién decide cuando hay crisis — es que la configuración que resuelve esos problemas con mayor eficiencia se parece, desde cierto ángulo, a algo que ya conocen.
 
-Una orden clara.
-
-Una función asignada.
-
-Un centro que decide.
-
-Un cuerpo colectivo que actúa sin tener que discutir cada impulso.
+Una orden clara. Una función asignada. Un centro que decide. Un cuerpo colectivo que actúa sin tener que discutir cada impulso.
 
 Los Formix que llevan más tiempo libres son los más conscientes de ese parecido. Algunos han concluido que alguna estructura es inevitable y que lo que importa es si fue elegida. Otros creen que cualquier estructura que reduzca demasiado la fricción de decidir juntos ya empezó a oler a Reina. Otros no tienen una teoría, pero se van cuando la ciudad empieza a moverse demasiado bien.
 
@@ -130,61 +96,29 @@ Decisión es lo que debe aprenderse después de salir del radio.
 
 Ruido es todo lo que aparece cuando ya no hay Señal suficiente para ordenar el mundo: deseo, miedo, duda, impulso, memoria, presencia, cansancio, hambre, opción.
 
-Los Formix libres no siempre están de acuerdo sobre esas palabras.
-
-Pero casi todos entienden el peligro de confundirlas.
+Los Formix libres no siempre están de acuerdo sobre esas palabras, pero casi todos entienden el peligro de confundirlas.
 
 ## Teología y Cosmología
 
-La Reina no explica el mundo.
-
-Dirige trabajo.
+La Reina no explica el mundo: dirige trabajo.
 
 Un Formix que salió de la colmena lleva consigo todo lo que la Reina necesitaba que supiera: idioma, tareas, reacción a señales, el mapa de un territorio que quizá ya no habita, la química de obediencia, la arquitectura del túnel, el lugar de su cuerpo dentro de un sistema de cuerpos.
 
-Lo que no lleva es respuesta a preguntas que la colmena nunca le dio espacio de formular.
-
-Eso incluye buena parte de lo extraño.
+Lo que no lleva es respuesta a preguntas que la colmena nunca le dio espacio de formular. Eso incluye buena parte de lo extraño.
 
 Un trabajador podía recibir la orden de evitar una cámara, sellar un objeto, excavar alrededor de una grieta, reforzar un perímetro o abandonar un túnel sin saber qué hacía peligrosa a esa cosa o a ese lugar. Sabía la tarea. No la interpretación. La validación no era suya.
 
-Para un Formix libre, muchos objetos peligrosos no empiezan como reliquias, vestigios, restos o recipientes.
+Para un Formix libre, muchos objetos peligrosos no empiezan como reliquias, vestigios, restos o recipientes: empiezan como tareas sin interpretación.
 
-Empiezan como tareas sin interpretación.
-
-Una cámara que se selló porque la Señal lo ordenó.
-
-Un objeto que se cargó sin tocarlo directamente.
-
-Una grieta que todos rodeaban sin saber qué filtraba.
-
-Un túnel que se abandonó de un día para otro.
-
-Una sala donde nadie entraba, no por miedo propio, sino porque el cuerpo nunca recibió autorización para cruzar.
+Una cámara que se selló porque la Señal lo ordenó. Un objeto que se cargó sin tocarlo directamente. Una grieta que todos rodeaban sin saber qué filtraba. Un túnel que se abandonó de un día para otro. Una sala donde nadie entraba, no por miedo propio, sino porque el cuerpo nunca recibió autorización para cruzar.
 
 Con el tiempo, algunos libres llegaron a sospechar algo peor: que la Reina no solo dirigía cuerpos, sino que administraba contactos, silencios y cercanías que ellos nunca tuvieron permiso de comprender. Si una cámara debía sellarse, se sellaba. Si un objeto no debía tocarse, no se tocaba. Si un tramo entero de túnel quedaba fuera de uso de un día para otro, nadie abajo recibía una explicación; solo cambiaba la tarea, y la colmena seguía funcionando.
 
-La Señal no solo mandaba.
-
-También hacía callar cosas.
-
-Eso es lo que muchos Formix descubren tarde.
+La Señal no solo mandaba. También hacía callar cosas. Eso es lo que muchos Formix descubren tarde.
 
 Dentro del radio, el mundo era más estrecho. Más ordenado. Más soportable. No porque fuera seguro, sino porque demasiadas preguntas morían antes de llegar a ser pregunta. Fuera del radio, el mundo no se vuelve claro. Se vuelve más ruidoso.
 
-Ese Ruido no siempre es malo.
-
-El deseo puede sentirse como Ruido.
-
-La curiosidad también.
-
-La tristeza.
-
-La rabia.
-
-La sospecha.
-
-La posibilidad de decir no.
+Ese Ruido no siempre es malo. El deseo puede sentirse como Ruido. La curiosidad también. La tristeza, la rabia, la sospecha. La posibilidad de decir no.
 
 Pero no todo Ruido libera.
 
@@ -192,11 +126,7 @@ A veces el cuerpo recibe una señal donde no hay Reina. Una orden sin emisor. Un
 
 Muchos Formix libres lo nombran simplemente Ruido.
 
-Cuando ese Ruido se parece demasiado a la Señal, algunos lo llaman Eco de Reina.
-
-No porque venga necesariamente de una Reina.
-
-Sino porque el cuerpo quiere obedecerlo del mismo modo.
+Cuando ese Ruido se parece demasiado a la Señal, algunos lo llaman Eco de Reina. No porque venga necesariamente de una Reina, sino porque el cuerpo quiere obedecerlo del mismo modo.
 
 Las aflicciones, para muchos Formix, no se sienten primero como maldición ni como revelación. Se sienten como un problema de recepción. El cuerpo recibe demasiado, o recibe mal, o empieza a ordenar como si algo externo hubiera vuelto a ocupar el lugar de la Señal. Confundir deseo con función es peligroso. Confundir Ruido con Señal puede ser peor.
 
@@ -214,37 +144,25 @@ Algunos Formix adoptan religiones exteriores con intensidad. Otros las usan como
 
 Lo que los Formix saben — y que ningún sistema teológico que han encontrado incorpora del todo — es que conciencia y agencia son cosas separadas.
 
-Estuvieron conscientes.
+Estuvieron conscientes. No fueron libres.
 
-No fueron libres.
-
-Eso no encaja bien en mitos de creación, doctrinas elementales ni cosmologías organizadas alrededor de la premisa de que un ser que piensa es un ser que elige. Para un Formix, esa premisa no es filosóficamente débil.
-
-Es biográficamente falsa.
+Eso no encaja bien en mitos de creación, doctrinas elementales ni cosmologías organizadas alrededor de la premisa de que un ser que piensa es un ser que elige. Para un Formix, esa premisa no es filosóficamente débil. Es biográficamente falsa.
 
 Por eso la mayoría de las ciudades refugio no tiene una cosmología propia en sentido pleno. Tiene préstamos, costumbres recientes, advertencias repetidas y algunas prácticas para no volver a confundirse con la colmena. No hay linajes familiares que transmitan doctrina. No hay infancia larga donde una generación eduque a la siguiente desde cero. No hay ancianos que lleven siglos contando el mismo origen.
 
 Hay recién llegados, veteranos escasos y archivos.
 
-Esos archivos rara vez empiezan por el universo.
-
-Empiezan por el oficio, por el error, por la decisión y por la pérdida. Qué trabajo sabía hacer alguien. Qué descubrió fuera de la colmena. Qué contrato no debió aceptar. Qué señales precedieron un peligro. Qué parte de su vida logró volver elección y qué parte siguió pareciendo función. Cuando un Formix viejo muere, eso es lo que una ciudad teme perder primero.
+Esos archivos rara vez empiezan por el universo. Empiezan por el oficio, por el error, por la decisión y por la pérdida. Qué trabajo sabía hacer alguien. Qué descubrió fuera de la colmena. Qué contrato no debió aceptar. Qué señales precedieron un peligro. Qué parte de su vida logró volver elección y qué parte siguió pareciendo función. Cuando un Formix viejo muere, eso es lo que una ciudad teme perder primero.
 
 Lo poco que empieza a parecer doctrina nace así: tarde, incompleto y discutido.
 
 Los libres no salen de la colmena con respuestas sobre el mundo profundo. Salen con tareas, memoria funcional y una pregunta demasiado urgente sobre sí mismos. La mayoría no tiene tiempo ni estabilidad para construir una metafísica propia. Toman palabras ajenas cuando las necesitan, las mezclan entre sí, las abandonan cuando dejan de servirles y siguen adelante.
 
-Por eso, en muchas ciudades refugio, lo más cercano a una teología no es una explicación del universo.
-
-Es una disciplina de la decisión.
-
-Prácticas para distinguir entre obedecer, servir, pertenecer, desear y elegir.
+Por eso, en muchas ciudades refugio, lo más cercano a una teología no es una explicación del universo. Es una disciplina de la decisión: prácticas para distinguir entre obedecer, servir, pertenecer, desear y elegir.
 
 Por eso algunas ciudades están desarrollando ritos de decisión. No ritos heredados de la colmena, porque la colmena no pedía decisiones, sino prácticas nuevas: elegir un oficio por un ciclo, cambiar de nombre, negarse públicamente a una tarea que se sabe hacer, caminar fuera de la ciudad y volver por voluntad propia, guardar silencio ante una señal colectiva hasta poder decir “sí” o “no” con claridad.
 
-Para otras especies, estos actos pueden parecer pequeños.
-
-Para un Formix, pueden ser teología práctica.
+Para otras especies, estos actos pueden parecer pequeños. Para un Formix, pueden ser teología práctica.
 
 ## Organización e Identidad Interna
 
@@ -256,69 +174,47 @@ Las colonias no se establecen al azar. Los pocos Formix libres que han observado
 
 Lo que sí reportan algunos de los que llevan más tiempo fuera es que bajo el radio de la Reina ciertas cosas no llegaban. Algo en el campo de la colmena dejaba al mundo más silencioso. Con el tiempo suficiente afuera, ese filtro ya no existe. El entorno empieza a sentirse más extraño, más pesado, menos fácil de reducir a tarea.
 
-Eso no significa que de pronto recuerden haber entendido algo dentro de la colmena.
-
-Significa más bien lo contrario: empiezan a sospechar que durante años obedecieron respuestas a cosas que nunca se les permitió comprender.
+Eso no significa que de pronto recuerden haber entendido algo dentro de la colmena. Significa más bien lo contrario: empiezan a sospechar que durante años obedecieron respuestas a cosas que nunca se les permitió comprender.
 
 Algunos veteranos van más lejos, aunque rara vez lo digan en público: sospechan que una Reina no solo ordena trabajo, sino que decide qué parte del mundo puede alcanzar a sus cuerpos y cuál debe quedar afuera. No saben si eso es conocimiento, adaptación, poder o una mezcla que ninguna otra especie ha sabido nombrar bien. Saben únicamente que, dentro de la colmena, demasiadas cosas parecían resolverse antes de convertirse en pregunta.
 
 Lo que eso significa para cualquier Formix que se aleje lo suficiente es una de las verdades más difíciles de aceptar:
 
-No hubo persecución.
-
-La Reina no manda a buscarlos.
+No hubo persecución. La Reina no manda a buscarlos.
 
 Un Formix que escapa no es una amenaza ni una pérdida recuperable. Es un recurso que salió del radio, procesado y olvidado. Saber eso es una de las cosas que los Formix libres aprenden tarde y no siempre en paz.
 
-Muchos esperaban culpa.
-
-Algunos esperaban castigo.
-
-Pocos estaban preparados para descubrir que la colmena no los extrañaba.
+Muchos esperaban culpa. Algunos esperaban castigo. Pocos estaban preparados para descubrir que la colmena no los extrañaba.
 
 Las ciudades refugio no tienen modelo de gobierno natural porque sus fundadores nunca habían gobernado nada. Lo que emergió en las que llevan más tiempo en pie son redes de deferencia hacia quienes llevan más tiempo libres, sin autoridad formal pero con peso real. No porque alguien los nombrara, sino porque cuando alguien que lleva veinte años respondiendo preguntas que nadie supo responderle habla, los que llevan dos semanas escuchan.
 
-Esa deferencia puede salvar vidas.
-
-También puede convertirse en jerarquía sin admitirlo.
+Esa deferencia puede salvar vidas. También puede convertirse en jerarquía sin admitirlo.
 
 Algunas ciudades organizan consejos temporales por problema: defensa, alimento, relación con vecinos, trabajo contratado, llegada de recién liberados, riesgo de Reina cercana. Otras asignan roles por habilidad, pero obligan a rotarlos para evitar que función se vuelva identidad fija. Otras permiten que cada Formix elija trabajo, aunque eso produzca ineficiencia dolorosa. Otras, presionadas por hambre o amenaza externa, han reconstruido estructuras de mando tan eficientes que los viejos empiezan a mirar el aire con miedo.
 
 El riesgo de acercarse a territorio de una Reina lo conoce cualquier Formix libre que haya pensado en ello. La Señal no desaparece porque te hayas ido. El sistema de recepción sigue abierto. Cuanto más cerca, más fuerte. Los que han regresado por curiosidad, rescate, culpa o necesidad reportan que la frontera no es una línea. Es una presión gradual, algo que empieza como familiaridad, luego como alivio, luego como una voz que no necesita hablar porque el cuerpo ya sabe cómo obedecerla.
 
-Algunos dieron la vuelta.
+Algunos dieron la vuelta. Otros no volvieron a contar nada.
 
-Otros no volvieron a contar nada.
+Lo peor no es que la Señal duela. Lo peor es que puede descansar.
 
-Lo peor no es que la Señal duela.
-
-Lo peor es que puede descansar.
-
-Después de años de decidir, discutir, fallar, elegir mal, negociar, arrepentirse, explicar deseos que ni siquiera están claros, volver a sentir dirección puede parecer paz. Un Formix libre que se acerca demasiado a una Reina no siempre siente terror primero.
-
-A veces siente alivio.
+Después de años de decidir, discutir, fallar, elegir mal, negociar, arrepentirse, explicar deseos que ni siquiera están claros, volver a sentir dirección puede parecer paz. Un Formix libre que se acerca demasiado a una Reina no siempre siente terror primero. A veces siente alivio.
 
 Por eso las ciudades más antiguas no tratan el regreso como simple traición. Lo tratan como riesgo corporal, crisis de identidad y herida política. Nadie quiere admitir demasiado fuerte que obedecer puede sentirse mejor que elegir cuando una especie fue construida para eso.
 
 Los Formix libres distinguen entre los nacidos bajo Reina y los que llevan tanto tiempo fuera que su memoria de colmena se volvió historia interna. Pero ninguna ciudad refugio ha resuelto del todo qué significa una generación libre cuando la especie todavía depende de Reinas para nacer. Algunas comunidades consideran que rescatar Formix del radio de colmena es una obligación moral. Otras lo consideran una forma de guerra que no pueden ganar. Algunas intentan negociar alrededor de las fronteras. Otras prohíben acercarse a ellas.
 
-El futuro biológico Formix sigue atado a aquello de lo que intentan liberarse.
-
-Ese es el nudo que ninguna ciudad ha deshecho.
+El futuro biológico Formix sigue atado a aquello de lo que intentan liberarse. Ese es el nudo que ninguna ciudad ha deshecho.
 
 Algunas ciudades evitan hablar del problema porque no tienen solución. Otras organizan expediciones de rescate como si cada Formix liberado fuera una generación recuperada. Otras estudian la posibilidad de reproducción sin Reina y producen debates que suenan demasiado parecidos a crear otra arquitectura de control. Otras aceptan, con vergüenza, que por ahora la libertad Formix nace robando cuerpos al radio que los creó.
 
-Ninguna respuesta es limpia.
-
-Todas huelen a Reina si se las presiona lo suficiente.
+Ninguna respuesta es limpia. Todas huelen a Reina si se las presiona lo suficiente.
 
 ## Vida Cotidiana
 
 Un Formix recién llegado a una ciudad refugio es, biológicamente, un adulto. Tiene todo lo que la Reina necesitó que tuviera: tamaño, fuerza, habilidades de casta, tolerancia al dolor, reacción a señales, memoria funcional.
 
-Lo que no tiene es una sola preferencia verificada.
-
-Nunca ha hecho nada porque quería hacerlo.
+Lo que no tiene es una sola preferencia verificada. Nunca ha hecho nada porque quería hacerlo.
 
 La experiencia de querer algo — no de recibir la dirección de quererlo, sino de notar que algo en ti se inclina hacia una cosa y no hacia otra — llega en momentos distintos para cada uno. Cuando llega, la mayoría no sabe qué es hasta que alguien mayor se lo señala.
 
@@ -328,9 +224,7 @@ La vida en una ciudad refugio se organiza alrededor de la transmisión porque no
 
 Al amanecer, una ciudad refugio huele a trabajo retenido: metal, humedad, comida simple, cuerpos despiertos, rutas marcadas, químicos de limpieza, miedo bajo en los recién llegados, confianza más estable en quienes llevan años. Las antenas de todos registran demasiado. Por eso muchas ciudades han desarrollado reglas de cortesía química: ventilar salas de discusión, no seguir rastros personales sin permiso, usar barreras aromáticas en dormitorios, declarar sustancias fuertes antes de entrar a espacios comunes.
 
-La privacidad Formix no nació de cerrar puertas.
-
-Nació de aprender a no seguir todos los rastros.
+La privacidad Formix no nació de cerrar puertas: nació de aprender a no seguir todos los rastros.
 
 El trabajo sigue siendo el centro de la vida diaria, pero ahora está lleno de preguntas que antes no existían.
 
@@ -344,23 +238,17 @@ El trabajo sigue siendo el centro de la vida diaria, pero ahora está lleno de p
 
 ¿Es libertad si no tenemos otra manera de comer?
 
-Las ciudades más antiguas suelen tener normas sobre contratación externa. Ningún Formix recién liberado debe aceptar trabajo prolongado sin acompañamiento. Ningún contrato puede exigir obediencia sin derecho a retirada. Ninguna comunidad vecina puede pagar directamente a un grupo de recién llegados sin mediación. Estas reglas no existen porque los Formix desconfíen del trabajo.
-
-Existen porque saben lo fácil que es confundir utilidad con propósito.
+Las ciudades más antiguas suelen tener normas sobre contratación externa. Ningún Formix recién liberado debe aceptar trabajo prolongado sin acompañamiento. Ningún contrato puede exigir obediencia sin derecho a retirada. Ninguna comunidad vecina puede pagar directamente a un grupo de recién llegados sin mediación. Estas reglas no existen porque los Formix desconfíen del trabajo. Existen porque saben lo fácil que es confundir utilidad con propósito.
 
 El Ruido también pertenece a la vida cotidiana. No siempre aparece como crisis. A veces es una sala donde todos empiezan a moverse al mismo ritmo sin haberlo decidido. Una discusión que se resuelve demasiado rápido porque todos siguieron la voz más clara. Un recién llegado que no duerme porque no hay señal que le diga que el turno terminó. Un veterano que huele una sustancia de colmena y se queda quieto demasiado tiempo. Un grupo que llama consenso a lo que quizá fue alivio colectivo ante una orden.
 
 Por eso algunas ciudades practican pausas de decisión. Antes de aceptar trabajos grandes, antes de elegir defensa, antes de enviar exploradores hacia un radio de Reina, antes de asignar funciones a recién llegados, alguien debe preguntar si todos están eligiendo o si solo están descansando dentro de una estructura cómoda.
 
-No siempre funciona.
-
-Pero la pregunta importa.
+No siempre funciona, pero la pregunta importa.
 
 La muerte en una ciudad refugio no tiene ritual heredado. Los que llevan tiempo han construido uno, o varios, o ninguno dependiendo de la ciudad. Lo más consistente no es un rito sino una práctica: reunirse para recordar qué sabía la persona que murió, qué había descubierto, qué dejó sin resolver, qué decisiones tomó por sí misma y cuáles nunca supo si eran suyas.
 
-No es duelo exactamente.
-
-O no solo.
+No es duelo exactamente. O no solo.
 
 Es que el conocimiento sigue siendo útil aunque la persona ya no esté, y alguien tiene que cargarlo. Pero también es otra cosa que los Formix han tenido que aprender lentamente: una persona puede importar aunque su función haya terminado.
 
@@ -406,9 +294,7 @@ Los Luphran ofrecen una forma de pertenencia intensa que no siempre se parece a 
 
 Para el resto del mundo, los Formix son trabajadores excelentes, aliados firmes, vecinos extraños y una oportunidad económica demasiado tentadora.
 
-Para los Formix libres, el mundo exterior es una prueba constante de que no toda orden viene de una Reina.
-
-Algunas vienen con sonrisa, salario y contrato.
+Para los Formix libres, el mundo exterior es una prueba constante de que no toda orden viene de una Reina. Algunas vienen con sonrisa, salario y contrato.
 
 ## Como Personaje Jugador
 
@@ -418,17 +304,13 @@ Las habilidades que tiene las tiene porque una Reina las diseñó para una funci
 
 Lo que lleva: la formación de casta — el Guerrero que sabe combatir porque así lo construyeron, el Destilador que sabe exactamente qué hace su química con tejido vivo —; la percepción química, que entrega información constante que otras especies no tienen; y la pregunta que acompaña cada decisión, silenciosamente, sobre si lo que está eligiendo es lo que quiere o lo que fue programado para querer.
 
-También lleva una vulnerabilidad difícil de admitir: la Señal puede sentirse como alivio.
-
-No solo como amenaza.
+También lleva una vulnerabilidad difícil de admitir: la Señal puede sentirse como alivio. No solo como amenaza.
 
 Un Formix que ha pasado años fuera del radio puede seguir sintiendo, en algún lugar del cuerpo, el cansancio de decidir. Puede temer volver a obedecer y, al mismo tiempo, recordar la paz terrible de no tener que elegir.
 
 En combate, la estructura Formix es absorber y sostener. Un Formix no busca necesariamente la posición de ventaja. Establece posición y hace que sacarlo de ahí sea el problema del otro. El Guerrero cierra con las mandíbulas, mantiene contacto y convierte el forcejeo en desgaste. El Destilador controla el espacio con química, forzando al enemigo a moverse en el terreno que él define.
 
-Ninguno de los dos está construido para huir.
-
-Eso no significa que no puedan aprender.
+Ninguno de los dos está construido para huir. Eso no significa que no puedan aprender.
 
 Muchos personajes Formix están fuera de una ciudad refugio porque la libertad allí empezó a sentirse demasiado parecida a otra cosa. Algunos fueron enviados para negociar, explorar o buscar otros Formix. Algunos aceptaron un contrato y descubrieron tarde que no sabían cómo retirarse. Algunos se acercaron demasiado a territorio de Reina y volvieron con miedo de cuánto alivio sintieron. Algunos no nacieron libres, pero llevan tanto tiempo decidiendo que la colmena ya parece un recuerdo ajeno. Otros acaban de salir y todavía esperan, en algún lugar del cuerpo, la próxima orden.
 
@@ -438,9 +320,7 @@ Lo que un Formix sabe al salir: cómo trabajar bajo presión, cómo leer un espa
 
 Lo que muchos no saben: qué desean cuando nadie los necesita, qué parte de su personalidad es casta, qué parte es costumbre de colmena, qué parte fue construida después, y si la libertad es una condición que se obtiene al escapar o una práctica que debe repetirse cada día.
 
-La pregunta que la mayoría de los personajes Formix se lleva consigo no es si son conscientes.
-
-Es si sus decisiones ya les pertenecen.
+La pregunta que la mayoría de los personajes Formix se lleva consigo no es si son conscientes, sino si sus decisiones ya les pertenecen.
 
 ---
 
