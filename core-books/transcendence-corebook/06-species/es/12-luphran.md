@@ -24,123 +24,75 @@ El capitán que sirve antes de comer ejecuta la única prueba que importa: la tr
 
 Lo que nadie dice en voz alta es que la diferencia entre las dos tripulaciones a veces existe dentro del mismo grupo, en la misma mesa, durante la misma noche.
 
-Y que el capitán que puede leerla a tiempo todavía tiene algo que hacer al respecto.
+Y que el capitán que puede leerla a tiempo todavía tiene algo que hacer al respecto. El que no puede leerla, también.
 
-El que no puede leerla, también.
-
-Los Luphran no construyen poder desde la sangre, ni desde la tierra, ni desde un trono que permanezca cuando todos se van.
-
-Lo construyen desde la tripulación.
-
-Desde la ruta.
-
-Desde la memoria de quienes estuvieron allí cuando el hambre llegó, cuando el casco sangró agua, cuando el capitán falló, cuando alguien entró en furia y volvió distinto.
+Los Luphran no construyen poder desde la sangre, ni desde la tierra, ni desde un trono que permanezca cuando todos se van. Lo construyen desde la tripulación. Desde la ruta. Desde la memoria de quienes estuvieron allí cuando el hambre llegó, cuando el casco sangró agua, cuando el capitán falló, cuando alguien entró en furia y volvió distinto.
 
 ## El Cuerpo
 
 Los Luphran tienen la constitución del cazador que no necesita ganar en un instante. Talla media, cuerpo alargado, extremidades preparadas para resistencia y respuesta, postura levemente inclinada al frente incluso sin intención. El cuerpo siempre calcula opciones de movimiento antes que de fuerza.
 
-Otras especies los ven detenidos y leen quietud.
-
-Lo que hay es pausa.
-
-La diferencia importa cuando la distancia se cierra.
+Otras especies los ven detenidos y leen quietud. Lo que hay es pausa. La diferencia importa cuando la distancia se cierra.
 
 Su musculatura no busca imponerse en un solo impacto, sino sostener presión durante más tiempo del que el objetivo puede tolerar. El cuerpo Luphran está hecho para persecución, flanqueo, agotamiento, lectura de grupo y cierre progresivo. Uno solo puede ser peligroso. Varios son una situación completamente distinta.
 
-El mordisco está construido para sostener. Una vez que la mandíbula encuentra compra, la musculatura de cierre mantiene presión constante sin esfuerzo sostenido adicional. Salir requiere más fuerza de la que la mayoría de criaturas puede generar desde la posición que ya ocupa. El mordisco Luphran no es solo daño.
-
-Es decisión de contacto.
+El mordisco está construido para sostener. Una vez que la mandíbula encuentra compra, la musculatura de cierre mantiene presión constante sin esfuerzo sostenido adicional. Salir requiere más fuerza de la que la mayoría de criaturas puede generar desde la posición que ya ocupa. El mordisco Luphran no es solo daño. Es decisión de contacto.
 
 Las garras hacen otra cosa: fijan. Sujetar un miembro, anclar la posición de un objetivo mientras el mordisco se establece, bloquear la salida, romper una dirección de movimiento antes de que se convierta en huida. No están diseñadas principalmente para desgarrar.
 
-El lobo no necesita cortar.
-
-Necesita que la presa no pueda irse.
+El lobo no necesita cortar. Necesita que la presa no pueda irse.
 
 La mirada Luphran tiende a moverse de una criatura a otra incluso en conversación. No por distracción, sino por cálculo de jerarquía, distancia, tensión, rol, amenaza y oportunidad. Un Luphran recién llegado a un grupo no tarda mucho en saber quién habla más de lo que decide, quién decide sin hablar, quién protege a quién, quién se rompe primero y quién se queda de pie porque no sabe hacer otra cosa.
 
-Ese instinto social no es delicado.
-
-Puede leer con precisión y aun así leer con dureza.
+Ese instinto social no es delicado. Puede leer con precisión y aun así leer con dureza.
 
 Lo que ocurre en el estado de furia no es algo que los Luphran traten como una técnica aprendida, un truco ni una bendición ordenada. Es un cruce real del cuerpo: la parte que piensa cede terreno y la parte que caza ocupa el centro.
 
-El cuerpo Luphran sabe hacer esto desde antes de que existiera cultura.
-
-Lo que la cultura añadió fue un nombre, una jerarquía alrededor de ese nombre y un sistema de honor que mide quién ha cruzado más veces.
+El cuerpo Luphran sabe hacer esto desde antes de que existiera cultura. Lo que la cultura añadió fue un nombre, una jerarquía alrededor de ese nombre y un sistema de honor que mide quién ha cruzado más veces.
 
 Durante la furia, el cuerpo no se vuelve irracional en el sentido de torpe. Al contrario: ciertas lecturas se vuelven más limpias. Movimiento, olor, miedo, desequilibrio, ruta de escape, debilidad del grupo enemigo, posición del aliado. Todo eso entra sin pasar por la demora de la deliberación. Lo que se pierde es otra cosa: matiz, freno, duda, misericordia, contexto.
 
-Un Luphran en furia profunda no deja de entender el mundo.
+Un Luphran en furia profunda no deja de entender el mundo. Entiende un mundo más pequeño. Y por eso puede actuar con una precisión terrible.
 
-Entiende un mundo más pequeño.
-
-Y por eso puede actuar con una precisión terrible.
-
-El problema no es cruzar.
-
-El problema es volver.
+El problema no es cruzar. El problema es volver.
 
 Las marcas de cruces repetidos no siempre son visibles de inmediato. Algunas aparecen en cicatrices que no sanan con el mismo patrón, en cambios de olor que otros Luphran perciben antes que nadie, en una forma distinta de dormir, en una facilidad creciente para entrar en furia y una dificultad creciente para recordar por qué no hacerlo. Los más marcados suelen ser admirados.
 
-También son observados.
-
-No siempre por la misma razón.
+También son observados. No siempre por la misma razón.
 
 ## La Cultura
 
-La unidad que importa no es la familia ni el asentamiento.
-
-Es la tripulación.
+La unidad que importa no es la familia ni el asentamiento. Es la tripulación.
 
 Veinte a sesenta personas elegidas por mérito demostrado, vinculadas por peligro compartido y lealtad verificada en condiciones reales. No por lazo de sangre. No por declaración. No por promesas hechas en tierra firme, donde casi cualquiera puede parecer valiente.
 
-Quien ocupa su espacio lo conserva.
+Quien ocupa su espacio lo conserva. Quien no ocupa el espacio que le corresponde lo pierde.
 
-Quien no ocupa el espacio que le corresponde lo pierde.
-
-No hay proceso formal para eso.
-
-Simplemente ocurre.
+No hay proceso formal para eso. Simplemente ocurre.
 
 Una tripulación Luphran no es democrática en el sentido cómodo ni autoritaria en el sentido simple. Funciona porque todos saben que, cuando el peligro llega, alguien debe decidir antes de que el debate mate a todos. Pero también funciona porque el capitán que decide sin conservar confianza deja de ser capitán mucho antes de que alguien lo diga.
 
-El mando Luphran es una lectura continua.
-
-No se posee.
-
-Se sostiene.
+El mando Luphran es una lectura continua. No se posee: se sostiene.
 
 La embarcación es el hogar. Estructura parcialmente construida, parcialmente viva: el casco integra organismos que sellan sus propias grietas si la tripulación los mantiene alimentados; las secciones de propulsión pulsan en lugar de remar, y suenan diferente según cuánta energía les queda. La tripulación aprende a leer esos sonidos igual que aprende a leer el estado de un compañero.
 
 Cuando una sección del casco empieza a responder lento, hay algo que hacer antes de que deje de responder. Cuando el pulso de propulsión pierde ritmo en travesía, no es problema mecánico. Es médico. Cuando una embarcación rechaza una reparación o cicatriza mal una grieta, los veteranos bajan la voz.
 
-La embarcación que muere no es equipo que se reemplaza.
+La embarcación que muere no es equipo que se reemplaza. Es territorio, hogar, historia material del grupo y memoria orgánica de rutas que nadie sabe escribir por completo.
 
-Es territorio, hogar, historia material del grupo y memoria orgánica de rutas que nadie sabe escribir por completo.
-
-Una tripulación no habita la nave.
-
-La nave participa en si todavía son tripulación.
+Una tripulación no habita la nave. La nave participa en si todavía son tripulación.
 
 Los Luphran cuidan sus embarcaciones con una mezcla de pragmatismo y reverencia no declarada. Las alimentan, las reparan, las escuchan. A veces les hablan. No todos admiten hacerlo. No todos necesitan admitirlo.
 
 El territorio Luphran no es tierra sostenida. Es ruta conocida: qué vías llevan a dónde, qué paradas son seguras, qué condiciones esperar en cada tramo, qué bancos de niebla ocultan piedra, qué asentamiento paga tributo sin resentimiento, cuál sonríe demasiado, dónde el agua cambia de olor, qué puerto no debe tocarse después de luna nueva, qué tripulación desapareció en qué tramo.
 
-Esa información no existe en ningún documento completo.
+Esa información no existe en ningún documento completo. Vive en la tripulación.
 
-Vive en la tripulación.
-
-No se puede robar una ruta, solo aprenderla.
-
-Y aprender requiere haber estado.
+No se puede robar una ruta, solo aprenderla. Y aprender requiere haber estado.
 
 Las incursiones son abastecimiento: suministros, materiales, acuerdos de tributo, extensión de ruta, recuperación de deuda, castigo a quien rompió trato. Desde fuera pueden parecer saqueo simple. A veces lo son. Pero dentro de la lógica Luphran, una incursión legítima debe sostener la continuidad de la tripulación y de la ruta. Una incursión que solo alimenta orgullo, furia o ambición del capitán empieza a oler mal antes de que alguien la nombre.
 
-Cuando un territorio no rinde suficiente, la tripulación avanza.
-
-La palabra que usan no es “abandonar”.
+Cuando un territorio no rinde suficiente, la tripulación avanza. La palabra que usan no es “abandonar”.
 
 Para los Luphran, abandonar implica dejar algo que todavía podía sostener a los suyos. Una ruta que ya no alimenta, ya no protege o ya no responde no se abandona. Se cierra. Se recuerda. A veces se canta. A veces se evita para siempre.
 
@@ -148,11 +100,7 @@ Los refugios son los puntos de convergencia invernal: terreno neutral gobernado 
 
 En los refugios se reparan embarcaciones, se intercambian rutas, se negocian disputas, se presentan jóvenes, se recuerdan muertos, se evalúan capitanes, se revisan precedentes, se cuentan historias que ninguna tripulación debería guardar sola. También allí se ven las grietas: quién llega con menos gente que el año anterior, quién trae una embarcación herida, qué capitán evita a qué portavoz, qué tripulación celebra demasiado fuerte una victoria que huele a pérdida.
 
-El refugio no es paz.
-
-Es pausa compartida.
-
-Y toda pausa Luphran existe para volver a moverse.
+El refugio no es paz. Es pausa compartida. Y toda pausa Luphran existe para volver a moverse.
 
 ## Teología y Cosmología
 
@@ -164,15 +112,11 @@ Esa es la verdad que enseñan, y desde dentro del cruce no hay motivo para dudar
 
 Nadie discute el cruce, ni la mejora que trae, ni la marca que deja. Quien ha entrado en furia suficientes veces puede hacer cosas que otro no hace con la misma facilidad: leer movimiento antes, sostener persecución más lejos, responder sin la fricción de la duda, arrastrar a la tripulación entera hacia una acción que salva o condena.
 
-La discusión no está ahí.
-
-La discusión está en el regreso.
+La discusión no está ahí. La discusión está en el regreso.
 
 Para un Luphran, lo decisivo no es solo quién cruza, sino quién vuelve con bastante forma como para seguir reconociendo aliado, ruta y voz de capitán. La furia no se teme por sí misma. Se teme cuando deja marca demasiado honda. Cuando el cruce empieza a venir con demasiada facilidad. Cuando el guerrero empieza a necesitarlo. Cuando el capitán empieza a escucharse demasiado cómodo dentro de él.
 
-La prueba no es cruzar.
-
-La prueba es volver con suficiente mundo todavía dentro.
+La prueba no es cruzar. La prueba es volver con suficiente mundo todavía dentro.
 
 A veces la tripulación lo nota antes de tener palabras para decirlo: en la retirada que llega medio pulso tarde, en la orden que ya no protege la ruta sino solo la persecución, en la victoria que deja al grupo alimentado pero extrañamente más silencioso que antes. Nadie acusa primero a la furia. Primero se acusa el hambre, el orgullo, la pérdida, el invierno o la mala lectura del terreno.
 
@@ -180,15 +124,11 @@ Esa marca no se limita al cuerpo. También puede quedarse en trofeos, armas, cub
 
 Por eso una ruta puede cerrarse sin que nadie la declare maldita. Un puerto puede evitarse durante generaciones porque tres tripulaciones soñaron lo mismo al tocarlo. Un arma puede dejar de pasar de mano en mano no porque falle, sino porque empieza a pedir demasiado a quien la carga. Un capitán puede seguir venciendo y aun así hacer que sus propios portavoces bajen la voz al nombrarlo.
 
-Los objetos de tripulación no son colección.
-
-Son historia en movimiento.
+Los objetos de tripulación no son colección. Son historia en movimiento.
 
 Un objeto de ruta pertenece a una trayectoria, no a una vitrina. Una marca de tripulación dice quién lo cargó y dónde. Un trofeo con llamado no solo recuerda una victoria: la repite en la mano. Un arma hambrienta vuelve fácil cruzar cuando no había necesidad. Una deuda en tránsito debe llegar a alguien, a un refugio, a una ruta cerrada o a una nave que todavía espera reparación. Un resto de ruta puede ser lo único que quedó de una tripulación desaparecida. Una pieza de nave no es madera, hueso o fibra viva separada: es casi resto corporal de un hogar que respiró.
 
-Un objeto de tripulación no siempre es reliquia.
-
-A veces es deuda en tránsito.
+Un objeto de tripulación no siempre es reliquia. A veces es deuda en tránsito.
 
 La cosmología Luphran sostiene que el mundo se está preparando para una noche mayor. Las marcas profundas no son castigo: son alistamiento. Los más marcados serían los más cerca del ancestro, los primeros llamados para lo que venga cuando la prueba final llegue.
 
@@ -214,19 +154,11 @@ El Oído de Caza puede salvar o deformar. La lectura instintiva no se apaga cuan
 
 Los portavoces tienen una categoría de registro para los capitanes cuyas decisiones se volvieron extrañas después de la gran batalla.
 
-El lenguaje es cuidadoso.
+El lenguaje es cuidadoso. No es veredicto. Es nota al margen con fecha, firmada por quien la observó.
 
-No es veredicto.
+Ese cuidado dice más que una acusación. Si un capitán marcado toma malas decisiones, siempre habrá otra explicación disponible: hambre, orgullo, cansancio, pérdida, presión, gloria o voluntad divina. Pero cuando demasiados capitanes marcados empiezan a empujar a sus tripulaciones hacia batallas innecesarias, rutas peligrosas o conflictos que parecen pedir más cruce que supervivencia, la duda deja de ser privada. Y empieza a parecer historia.
 
-Es nota al margen con fecha, firmada por quien la observó.
-
-Ese cuidado dice más que una acusación. Si un capitán marcado toma malas decisiones, siempre habrá otra explicación disponible: hambre, orgullo, cansancio, pérdida, presión, gloria o voluntad divina. Pero cuando demasiados capitanes marcados empiezan a empujar a sus tripulaciones hacia batallas innecesarias, rutas peligrosas o conflictos que parecen pedir más cruce que supervivencia, la duda deja de ser privada.
-
-Y empieza a parecer historia.
-
-Los Luphran no temen descubrir que la furia existe.
-
-Temen descubrir demasiado tarde que alguien volvió de ella menos solo de lo que parecía.
+Los Luphran no temen descubrir que la furia existe. Temen descubrir demasiado tarde que alguien volvió de ella menos solo de lo que parecía.
 
 ## Organización e Identidad Interna
 
@@ -236,9 +168,7 @@ Las conservadoras lo limitan: quién puede intentarlo, bajo qué condiciones, cu
 
 Las abiertas no ponen restricciones fuertes. Consideran que limitar la furia es limitar la voz del ancestro. Sus capitanes ancianos tienen las marcas más profundas y los cambios más pronunciados. También tienen victorias que ninguna tripulación conservadora habría logrado. Sus historias alimentan canciones, miedo y reclutamiento.
 
-Ninguna posición es doctrina formal.
-
-La tensión entre ellas recorre toda la sociedad Luphran sin resolverse.
+Ninguna posición es doctrina formal. La tensión entre ellas recorre toda la sociedad Luphran sin resolverse.
 
 Una tripulación puede cambiar de postura después de una derrota, una muerte, una victoria imposible o una noche en que alguien no volvió del cruce siendo del todo el mismo. Las categorías no son partidos. Son formas de administrar el riesgo que todos reconocen aunque no usen las mismas palabras.
 
@@ -250,43 +180,27 @@ Pero comer al último no basta.
 
 El capitán debe leer cuándo un guerrero busca furia por necesidad y cuándo la busca por adicción. Debe saber cuándo una incursión alimenta la ruta y cuándo alimenta una marca. Debe escuchar la embarcación, el hambre, el miedo, la ambición de los jóvenes, el silencio de los viejos, el registro de los portavoces y el propio deseo de ser recordado.
 
-Un mal capitán puede matar por debilidad.
-
-Un gran capitán puede matar por grandeza.
-
-La tripulación teme más lo segundo.
+Un mal capitán puede matar por debilidad. Un gran capitán puede matar por grandeza. La tripulación teme más lo segundo.
 
 El ciclo trágico Luphran está ahí: el sistema selecciona a quienes han cruzado, sobrevivido, ganado y vuelto con marcas suficientes para demostrar favor, resistencia y utilidad. Pero los más probados son también quienes han pasado más veces por el umbral. Los mejores líderes pueden ser precisamente los más atravesados.
 
-Una tripulación necesita capitanes probados.
-
-Y los capitanes probados son los que más deben ser observados.
+Una tripulación necesita capitanes probados. Y los capitanes probados son los que más deben ser observados.
 
 Los portavoces son la excepción a casi todo. Viajan entre tripulaciones y refugios sin autoridad militar, protegidos por una convención que incluso los rivales respetan. Llevan el precedente acumulado de todos, de modo que no pueden pertenecer a ninguno.
 
 En su memoria oral vive lo que la especie sabe: rutas, ley, historia de capitanes, condición de los refugios, deudas, pactos, traiciones, qué tripulación no regresó y qué fue lo último que se registró de ellos. No son bardos, aunque cantan. No son jueces, aunque su palabra puede cerrar disputas. No son sacerdotes, aunque conservan lo que la teología preferiría olvidar.
 
-Un portavoz no solo recuerda hechos.
+Un portavoz no solo recuerda hechos. Recuerda cómo una tripulación justificó esos hechos cuando todavía podía mentirse.
 
-Recuerda cómo una tripulación justificó esos hechos cuando todavía podía mentirse.
+Por eso son necesarios. Y por eso incomodan.
 
-Por eso son necesarios.
+El bardo glorifica. El portavoz conserva lo que la canción quisiera borrar.
 
-Y por eso incomodan.
-
-El bardo glorifica.
-
-El portavoz conserva lo que la canción quisiera borrar.
-
-El portavoz no mata la leyenda.
-
-Le deja cicatriz.
+El portavoz no mata la leyenda. Le deja cicatriz.
 
 Cuando uno muere sin completar la transmisión, el ritual que sigue tiene nombre propio: auditoría de pérdida. Declaración formal de lo desconocido. Enumeración de rutas que ya no tienen testigo suficiente. Reconstrucción de precedentes por fragmentos. Llamado a quienes oyeron versiones parciales. Comparación pública de memoria. Inicio del proceso de recuperar lo que pueda recuperarse.
 
-No es duelo.
-
-Es procedimiento de emergencia.
+No es duelo. Es procedimiento de emergencia.
 
 La muerte de un portavoz no solo mata a una persona. Abre un agujero en la continuidad de todos.
 
@@ -294,9 +208,7 @@ Las fracturas internas más graves no siempre se producen por liderazgo. A veces
 
 Esas discusiones rara vez terminan en el momento. Siguen vivas durante inviernos enteros, en refugios donde una misma historia se canta de una forma en la mesa principal y de otra, más baja, junto al fuego de reparación. El portavoz no obliga a nadie a aceptar su versión. Obliga a que la otra versión tenga que convivir con ella.
 
-El portavoz no impide la mentira.
-
-Hace que mentir cueste más generaciones.
+El portavoz no impide la mentira. Hace que mentir cueste más generaciones.
 
 ## Vida Cotidiana
 
@@ -304,9 +216,7 @@ Siempre hay alguien despierto a bordo.
 
 No por regla escrita, sino porque la embarcación requiere atención y el instinto del paquete exige que alguien mire hacia afuera cuando los demás no pueden. Antes de instalarse en cualquier espacio nuevo, el grupo evalúa salidas, líneas de visión, qué hay en los bordes, dónde se rompería una defensa, por dónde entraría alguien que no quiere ser visto.
 
-La teología puede llamarlo respeto por las presencias del borde.
-
-Lo que hace es lo mismo que hacía desde antes de la teología.
+La teología puede llamarlo respeto por las presencias del borde. Lo que hace es lo mismo que hacía desde antes de la teología.
 
 Una mañana Luphran empieza con sonido: pulso del casco, agua contra la estructura, respiración de quienes duermen, pasos de guardia, roce de cuerda, crujido de material vivo ajustándose a la temperatura. El primero que nota un cambio no siempre despierta a todos. Primero escucha otra vez. Luego toca. Luego huele. Luego decide si lo que cambió necesita manos, capitán o silencio.
 
@@ -318,17 +228,13 @@ Un joven aprende dónde sentarse para no estorbar. Luego aprende cuándo levanta
 
 La comida es distribución de confianza. El capitán come al último, pero no es el único gesto relevante. Quien reparte más de lo que le corresponde, quien guarda alimento para un herido, quien come demasiado rápido después de una pérdida, quien finge no tener hambre para parecer fuerte, quien roba de la reserva, quien comparte con alguien de otra tripulación durante refugio: todo eso se lee.
 
-La mesa Luphran no es solo alimento.
-
-Es jerarquía visible.
+La mesa Luphran no es solo alimento: es jerarquía visible.
 
 El miembro que muere en travesía y no puede ser llevado a un refugio es entregado al agua con ceremonia. El portavoz registra. Los objetos de historia personal significativa se conservan hasta poder colocarlos correctamente en tierra. El nombre se mantiene en la ruta por un tiempo, no como fantasma, sino como referencia: aquí cayó, aquí sostuvo, aquí mordió hasta que los demás pudieron salir.
 
 El miembro que muere agonizando durante un movimiento crítico es dejado con cuidado y dejado.
 
-Toda la tripulación conoce ese término antes de unirse.
-
-Nadie lo pronuncia con ligereza.
+Toda la tripulación conoce ese término antes de unirse. Nadie lo pronuncia con ligereza.
 
 Significa que la ruta, la embarcación o la supervivencia de todos exigió no detenerse. No convierte el abandono en virtud. No borra el daño. Solo impide que la mentira lo vuelva otra cosa.
 
@@ -336,9 +242,7 @@ La nave también tiene duelo. Cuando una embarcación muere, no se habla de pér
 
 Los viejos Luphran enseñan menos por consejo que por lectura. Saben cuándo un joven quiere furia por valor y cuándo la quiere porque tiene miedo de no ser visto. Saben cuándo un capitán empezó a amar demasiado las historias sobre sí mismo. Saben cuándo una tripulación ya no está siguiendo, solo obedeciendo. Saben cuándo el pulso de una embarcación suena como una herida que intenta no preocupar a nadie.
 
-Envejecer bien entre los Luphran no es perder el lobo.
-
-Es seguir sabiendo a quién no debe morder.
+Envejecer bien entre los Luphran no es perder el lobo. Es seguir sabiendo a quién no debe morder.
 
 ## Relaciones con el Mundo
 
@@ -352,9 +256,7 @@ El cuerno Ceratox suele inquietarse cerca de Luphran muy marcados. Para el Cerat
 
 Hay algo que los Ursari y los Luphran comparten sin poder nombrarlo. Ambas culturas terminan honrando a quienes han pasado demasiadas veces demasiado cerca de algo mayor que ellos: los Ursari por su trato prolongado con forjas hondas y descensos viejos; los Luphran por cruces repetidos de furia. Un maestro Ursari y un capitán Luphran veterano que se encuentran en el mismo sitio suelen reconocer algo familiar en el otro sin identificarlo del todo. La tradición de cada cultura confirma esa lectura como prueba de que su propio camino era el correcto.
 
-Eso los acerca.
-
-También puede impedir que se adviertan mutuamente a tiempo.
+Eso los acerca. También puede impedir que se adviertan mutuamente a tiempo.
 
 Los sitios de batalla donde operaron tripulaciones Luphran — especialmente donde varios guerreros cruzaron al mismo tiempo — no se asientan fácil. Para los Zarnag no es solo sangre, miedo o muerte trabajando sobre el terreno. Queda algo más difícil de cerrar, como si la urgencia del combate siguiera buscando cuerpo rato después de terminada la batalla. Los Zarnag lo han notado y no lo consideran un Resto ordinario.
 
@@ -364,11 +266,7 @@ Los Naghii encuentran signos difíciles de ordenar alrededor de Luphran de alto 
 
 La presencia Rokhart en el camino de cualquier tripulación Luphran suele terminar en dos interpretaciones posibles: solicitud de tributo o amenaza velada. Los Rokhart tienden a mirar demasiado tiempo a los miembros más marcados, justo a quienes una tripulación protege con más celo. Pedir acceso prolongado a ellos, hacer preguntas repetidas sobre sus cruces o intentar seguir un mismo cambio durante años sería recibido como intromisión directa en lo más sagrado y lo más peligroso de la especie.
 
-Los Rokhart saben observar sin ser vistos.
-
-Los Luphran saben notar quién está mirando demasiado.
-
-Eso complica todo.
+Los Rokhart saben observar sin ser vistos. Los Luphran saben notar quién está mirando demasiado. Eso complica todo.
 
 Los Drak'kai encuentran en las rutas Luphran historias que nadie escribió y objetos que no deberían haberse movido tanto. Una pieza tomada en incursión, perdida en batalla, reparada en otro puerto y cargada durante años por una tripulación puede convertirse en acumulación valiosa. Los Luphran, por su parte, desconfían de quien quiere conservar lo que para ellos pertenece a una ruta viva. Un objeto de tripulación no siempre es reliquia. A veces es deuda en tránsito.
 
@@ -388,17 +286,13 @@ Los Bufoni chocan con los Luphran alrededor del dominio. Un Bufoni espera protoc
 
 Los Myo registran con inquietud los picos colectivos de furia. Una tripulación entera acercándose al cruce puede producir patrones que los Myo no confunden con simple violencia. Algunos oráculos han advertido a refugios sobre capitanes que todavía no habían fallado, solo porque en sus visiones la ruta detrás de ellos aparecía demasiado roja, demasiado repetida, demasiado hambrienta. Los Luphran escuchan a veces. Otras veces deciden que un pueblo que ve antes de estar allí no tiene derecho a hablar de una ruta que no ha recorrido.
 
-Con muchas especies, la pregunta central es simple: ¿están tratando con un individuo Luphran, con una tripulación, con un capitán, con una ruta, o con una furia que todavía no terminó?
-
-Responder mal cambia el tipo de peligro.
+Con muchas especies, la pregunta central es simple: ¿están tratando con un individuo Luphran, con una tripulación, con un capitán, con una ruta, o con una furia que todavía no terminó? Responder mal cambia el tipo de peligro.
 
 ## Como Personaje Jugador
 
 Un Luphran fuera de su tripulación opera con un sistema que asume que hay otros alrededor.
 
-No de forma sentimental.
-
-Funcionalmente.
+No de forma sentimental. Funcionalmente.
 
 La manera de evaluar una situación, de leer la jerarquía de un grupo nuevo, de decidir quién manda cuando algo sale mal, de repartir comida, de dormir, de vigilar, de desconfiar y de confiar: todo asume tripulación. Un Luphran que viaja con grupos mixtos los trata como tripulaciones provisionales porque no puede no hacerlo.
 
@@ -410,13 +304,9 @@ Los Luphran que salen generalmente han perdido la tripulación — batalla devas
 
 En combate, el cuerpo está hecho para agotar y fijar. No el golpe más fuerte: el último que conecta. Las garras anclan posición; el mordisco aplica presión sostenida. El estado de furia amplifica todo lo instintivo — rastreo, lectura del terreno, respuesta al movimiento, reconocimiento de amenaza — mientras el procesamiento racional se retira.
 
-Un Luphran en furia profunda actúa más rápido, con menos interferencia de la duda.
+Un Luphran en furia profunda actúa más rápido, con menos interferencia de la duda. También con menos interferencia de cualquier otra cosa.
 
-También con menos interferencia de cualquier otra cosa.
-
-Eso lo vuelve poderoso.
-
-No necesariamente seguro.
+Eso lo vuelve poderoso. No necesariamente seguro.
 
 Lo que un personaje Luphran porta al salir: resistencia de persecución, capacidad de leer jerarquía en cualquier grupo en horas, conocimiento de rutas por recorrido y no por mapa, instinto de tripulación, memoria oral de precedentes, y el estado de furia como recurso corporal real con consecuencias reales.
 
@@ -432,9 +322,7 @@ Lo que un Luphran sabe al salir: cómo perseguir, cómo fijar, cómo leer miedo 
 
 Lo que muchos no saben: si una tripulación puede formarse con quienes no comparten su instinto, si la furia es don o deuda, si el ancestro-lobo los llama o si algo usa esa voz, y si algún día podrán comer primero sin sentir que fallaron.
 
-La pregunta que muchos Luphran se llevan consigo no es quién manda.
-
-Es quién sigue ahí cuando el mando ya no basta.
+La pregunta que muchos Luphran se llevan consigo no es quién manda, sino quién sigue ahí cuando el mando ya no basta.
 
 ---
 
