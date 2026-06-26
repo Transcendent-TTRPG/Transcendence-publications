@@ -16,115 +16,65 @@ related:
 
 # Chelicer
 
-Los Chelicer no emiten el veredicto.
-
-Lo encuentran.
+Los Chelicer no emiten el veredicto. Lo encuentran.
 
 Esta distinción, que para otras especies puede sonar ceremonial o incluso sofística, organiza cada institución que han construido, cada relación que mantienen y la forma en que mueven el aguijón cuando deciden que el análisis terminó.
 
-Para un Chelicer, decidir por cuenta propia dónde está la verdad es arrogancia.
+Para un Chelicer, decidir por cuenta propia dónde está la verdad es arrogancia. Someterse al procedimiento que la revela es orden.
 
-Someterse al procedimiento que la revela es orden.
-
-La verdad no se inventa.
-
-No se negocia.
-
-No se vota.
-
-No se siente.
-
-Se busca bajo condiciones correctas.
-
-Y si aparece, se obedece.
+La verdad no se inventa. No se negocia. No se vota. No se siente. Se busca bajo condiciones correctas. Y si aparece, se obedece.
 
 ## El Cuerpo
 
 Los Chelicer son humanoides de linaje escorpión de tamaño mediano. La cola segmentada arquea sobre la espalda y termina en el aguijón: la herramienta central del cuerpo, aquella a la que todo lo demás sirve. Las garras, sólidas y articuladas, no son el arma principal. Son la condición previa. Cierran sobre un objetivo, lo sostienen en posición y liberan al aguijón de la necesidad de perseguir.
 
-Primero se asegura el mundo.
-
-Luego se dicta la consecuencia.
+Primero se asegura el mundo. Luego se dicta la consecuencia.
 
 El aguijón opera en dos registros desde el mismo aparato biológico. En contacto, entrega veneno hemotóxico por penetración directa, sin exceso de movimiento, con consecuencias que llegan después del impacto. A distancia, expulsa una preparación neurotóxica en proyección controlada desde el mismo punto. Los dos modos no son herramientas distintas. Son el mismo sistema funcionando con distinto alcance.
 
-Eso importa para la identidad Chelicer.
-
-No se piensan como criaturas con varias armas.
-
-Se piensan como criaturas con un mismo veredicto administrado de dos maneras.
+Eso importa para la identidad Chelicer. No se piensan como criaturas con varias armas, sino como criaturas con un mismo veredicto administrado de dos maneras.
 
 El exoesqueleto quitinoso que cubre el torso y las extremidades absorbe bien el impacto distribuido y el borde superficial. Una vez que una zona es penetrada, la protección ha terminado: el tejido interno queda expuesto de formas que una biología más continua no produciría. No se degrada gradualmente. Cede zona por zona.
 
 Esta lógica corporal dejó marcas profundas en cómo los Chelicer entienden verdad, error y resistencia. El daño, para ellos, no siempre es una erosión difusa. Puede ser la diferencia entre intacto y expuesto. Entre procedimiento preservado y procedimiento comprometido. Entre orden visible y ruptura.
 
-La herida no demuestra verdad.
-
-Pero demuestra que una frontera falló.
+La herida no demuestra verdad. Pero demuestra que una frontera falló.
 
 Su sistema visual alcanza espectros que otras especies no registran. Bajo luz ordinaria, el exoesqueleto aparece entre el ocre oscuro y el casi negro. Bajo luz ultravioleta, esa misma superficie emite una luminiscencia de patrón individual, no idéntica entre individuos y variable con el estado metabólico del portador.
 
-Esta emisión no requiere activación.
+Esta emisión no requiere activación. No tiene apagado.
 
-No tiene apagado.
+Ver el patrón no es leerlo. Esa distinción es una de las primeras lecciones que recibe cualquier Chelicer. Que algo esté visible no significa que cualquiera tenga derecho a interpretarlo. Un niño puede ver el brillo en el caparazón de un anciano. Un visitante puede notar que el patrón cambia bajo cierta luz. Un testigo puede confirmar que la luminiscencia estuvo presente.
 
-Ver el patrón no es leerlo.
+Pero solo bajo condiciones correctas esa visibilidad puede entrar en lectura. Y solo quien fue formado para leer puede decir qué reveló.
 
-Esa distinción es una de las primeras lecciones que recibe cualquier Chelicer. Que algo esté visible no significa que cualquiera tenga derecho a interpretarlo. Un niño puede ver el brillo en el caparazón de un anciano. Un visitante puede notar que el patrón cambia bajo cierta luz. Un testigo puede confirmar que la luminiscencia estuvo presente.
+El cuerpo Chelicer está lleno de cosas visibles que no pertenecen a cualquiera. Eso hace que su cultura desconfíe tanto de la ceguera como de la mirada sin autorización.
 
-Pero solo bajo condiciones correctas esa visibilidad puede entrar en lectura.
-
-Y solo quien fue formado para leer puede decir qué reveló.
-
-El cuerpo Chelicer está lleno de cosas visibles que no pertenecen a cualquiera.
-
-Eso hace que su cultura desconfíe tanto de la ceguera como de la mirada sin autorización.
-
-Mirar no es leer.
-
-Ver no es comprender.
-
-Y comprender sin procedimiento es una de las formas más peligrosas de la arrogancia.
+Mirar no es leer. Ver no es comprender. Y comprender sin procedimiento es una de las formas más peligrosas de la arrogancia.
 
 ## La Cultura
 
 La corte de ordalía está en el centro de cualquier asentamiento Chelicer que funcione. No como institución más importante entre otras, sino como punto desde el que la disposición del asentamiento se organiza hacia afuera. El suministro, el descanso, el intercambio, las relaciones de trabajo, las rutas internas, los espacios de formación: todo tiene sentido en relación con la distancia a la cámara donde las lecturas ocurren.
 
-Un asentamiento cuya corte no funciona no es un asentamiento menor.
-
-Es un asentamiento con un problema que impide resolver cualquier otra cosa.
+Un asentamiento cuya corte no funciona no es un asentamiento menor. Es un asentamiento con un problema que impide resolver cualquier otra cosa.
 
 La cámara está construida para que nadie interfiera con lo que el sacerdote ve. Los testigos se ubican en ángulos que confirman que la lectura fue conducida, pero no pueden ver directamente el instrumento litúrgico principal. El sacerdote no ve a los testigos mientras lee. El examinado está frente a la Luz. Esta disposición no es estética. Codifica quién verifica qué, bajo qué condiciones y con qué límites, de modo que cualquier irregularidad sea trazable después.
 
 Generaciones de corrupción institucional — real, presunta o recordada — produjeron las especificidades actuales del espacio.
 
-Cada ángulo existe porque alguien una vez manipuló algo.
-
-Cada distancia existe porque alguna vez no fue segura.
-
-Cada sombra permitida fue discutida.
-
-Cada sombra prohibida tuvo una causa.
+Cada ángulo existe porque alguien una vez manipuló algo. Cada distancia existe porque alguna vez no fue segura. Cada sombra permitida fue discutida. Cada sombra prohibida tuvo una causa.
 
 Los Chelicer no organizan su vida alrededor de la comunidad en el mismo sentido que muchas otras especies. El asentamiento es una infraestructura de legitimidad. Hace posible el registro, la lectura, la transmisión, la presencia de testigos y la estabilidad necesaria para que el veredicto tenga mundo donde ser reconocido. Pero el cuerpo Chelicer sigue siendo, en un nivel profundo, el de un depredador solitario.
 
 Eso significa que el vínculo entre individuo y sociedad siempre tiene una tensión de fondo.
 
-El asentamiento es funcional.
+El asentamiento es funcional. El territorio privado es donde el cuerpo se instala. La mayoría resuelve la tensión sin nombrarla.
 
-El territorio privado es donde el cuerpo se instala.
-
-La mayoría resuelve la tensión sin nombrarla.
-
-La relación que los Chelicer sostienen con el dolor no es de supresión sino de integración. Generaciones de ordalía como práctica central han producido una respuesta en la que el dolor activo no cierra la capacidad de acción.
-
-La amplía.
+La relación que los Chelicer sostienen con el dolor no es de supresión sino de integración. Generaciones de ordalía como práctica central han producido una respuesta en la que el dolor activo no cierra la capacidad de acción. La amplía.
 
 El sufrimiento físico en el contexto del veredicto no es señal de colapso inminente sino de presencia completa: el cuerpo testificando que algo verdadero está ocurriendo. Un Chelicer herido en combate no está disminuido en su capacidad de aguantar del modo en que otras especies esperarían. Está más completamente dentro de lo que enfrenta.
 
-No es una postura que se adopte conscientemente.
-
-Es la condición base que el entrenamiento cultural revela, no construye.
+No es una postura que se adopte conscientemente. Es la condición base que el entrenamiento cultural revela, no construye.
 
 Los sacerdotes no gobiernan.
 
@@ -134,43 +84,27 @@ Que esto no impida que sacerdotes individuales tengan influencia política es un
 
 Los testigos de registro acumulan peso institucional fuera de la cámara. Un Chelicer que ha participado como testigo en muchos veredictos, cuyo historial de presencia es largo y sin irregularidades documentadas, tiene posición formal para hablar en disputas, validar lecturas y señalar irregularidades de procedimiento.
 
-El sacerdote lee.
+El sacerdote lee. El testigo sostiene que la lectura ocurrió en mundo compartido.
 
-El testigo sostiene que la lectura ocurrió en mundo compartido.
-
-Sin testigo, puede haber experiencia.
-
-Puede incluso haber verdad.
-
-Pero no hay legitimidad suficiente para que la comunidad cargue el veredicto como propio.
+Sin testigo, puede haber experiencia. Puede incluso haber verdad. Pero no hay legitimidad suficiente para que la comunidad cargue el veredicto como propio.
 
 La ciudadanía que otros sistemas organizan por nacimiento, riqueza o combate, los Chelicer la organizan por presencia en veredictos.
 
-Para ellos, pertenecer no es estar allí.
-
-Es haber estado allí cuando la verdad fue buscada.
+Para ellos, pertenecer no es estar allí: es haber estado allí cuando la verdad fue buscada.
 
 ## Teología y Cosmología
 
 Los Chelicer sostienen que el veredicto existía antes del acto.
 
-No el dios que observó y luego decidió.
+No el dios que observó y luego decidió. El dios que sabía, cuya decisión preexistía el evento, y cuya función es que lo que ya es verdad se vuelva legible.
 
-El dios que sabía, cuya decisión preexistía el evento, y cuya función es que lo que ya es verdad se vuelva legible.
-
-La ordalía no produce el resultado.
-
-Encuentra el resultado que estaba ahí.
+La ordalía no produce el resultado. Encuentra el resultado que estaba ahí.
 
 Esta afirmación hace que la cosmología Chelicer sea funcionalmente inaccesible desde fuera. Si el veredicto no puede ser incorrecto — solo la lectura puede ser incorrecta — entonces ninguna evidencia contraria al veredicto cuenta como evidencia contra el sistema. Cuenta como evidencia de condiciones impuras.
 
 Un veredicto que después parece errado se convierte en una pregunta sobre qué falló en la conducción, no sobre si el dios se equivocó.
 
-El sistema no tiene mecanismo para un veredicto incorrecto.
-
-Ese no es un descuido.
-
-Es el diseño.
+El sistema no tiene mecanismo para un veredicto incorrecto. Ese no es un descuido: es el diseño.
 
 Por eso, cuando un veredicto ata a una familia, una corte o una comunidad entera a una consecuencia que después la destruye, la mayoría de los Chelicer no dice que la verdad falló. Dice que la Impureza entró en algún punto, aunque ya no quede forma de demostrar dónde.
 
@@ -178,33 +112,21 @@ Dentro de ese marco, la Revelación no es una metáfora.
 
 Es la categoría total bajo la que los Chelicer ordenan todo lo que vuelve legible la verdad: la Luz correcta, la cámara correcta, el cuerpo correctamente dispuesto, la lectura del sacerdote, los instrumentos litúrgicos heredados, las reliquias de juicio que todavía responden, los signos del entorno que confirman un designio, incluso los efectos que una exposición excesiva deja sobre quien lee.
 
-Ellos no separan estas cosas por causa.
+Ellos no separan estas cosas por causa. Las separan por legitimidad.
 
-Las separan por legitimidad.
-
-Lo importante no es de dónde vino la Revelación.
-
-Lo importante es si llegó bajo condiciones puras.
+Lo importante no es de dónde vino la Revelación. Lo importante es si llegó bajo condiciones puras.
 
 Por eso un instrumento litúrgico no es, para ellos, solo un objeto antiguo. Es una pieza que conserva capacidad de confirmación: algo que sigue repitiendo, filtrando o sosteniendo la forma en que una verdad fue hecha visible antes. Puede tratarse de una lámpara, una placa, una sal mineral, una cámara parcial, un borde de corte derruida, una lente tallada con geometría específica o un mineral que solo responde bajo una clase de Luz.
 
-Un instrumento litúrgico ayuda a leer.
-
-Una reliquia de juicio es otra cosa.
+Un instrumento litúrgico ayuda a leer. Una reliquia de juicio es otra cosa.
 
 Las reliquias de juicio ocupan un lugar aún más delicado. No son solo piezas que conservan. Son focos que todavía responden. Una corte antigua cuya Luz aún dicta lectura, una cámara donde el veredicto parece descender con violencia inmediata, un objeto que no solo confirma sino que impone condiciones de lectura: todo eso pertenece al orden de las reliquias de juicio.
 
-Los Chelicer no dirían que tales reliquias contienen otra clase de fuerza que sus instrumentos litúrgicos.
-
-Dirían que la Revelación allí no quedó asentada.
-
-Sigue juzgando.
+Los Chelicer no dirían que tales reliquias contienen otra clase de fuerza que sus instrumentos litúrgicos. Dirían que la Revelación allí no quedó asentada. Sigue juzgando.
 
 Esto vuelve secundaria, e incluso sospechosa, cualquier pregunta sobre mecanismo. Si un sacerdote recibe demasiado, si el entorno se altera durante la lectura, si una reliquia intensifica el signo hasta deformar el cuerpo del lector, todo eso puede seguir tratándose como Revelación. Lo que otras tradiciones llamarían contaminación, exposición o distorsión, los Chelicer lo discuten como pureza, exceso o corrupción de condiciones.
 
-La disputa nunca es si la verdad actuó.
-
-La disputa es si fue recibida como debía.
+La disputa nunca es si la verdad actuó. La disputa es si fue recibida como debía.
 
 Algunos estados reciben nombres particulares dentro de las cortes.
 
@@ -214,9 +136,7 @@ La Marca de lectura es la consecuencia que queda en el cuerpo o en la percepció
 
 La Lectura abierta es más temida: cuando el acto no se cierra. Cuando el sacerdote, el examinado o incluso un testigo sigue percibiendo veredictos fuera de cámara, fuera de condiciones, fuera de la Luz correcta. Algunos lo llaman don. Otros lo llaman Impureza interior. Las cortes prudentes lo tratan como una emergencia.
 
-El peligro no es solo que el lector se altere.
-
-El peligro es que interprete la alteración como prueba de elección.
+El peligro no es solo que el lector se altere. El peligro es que interprete la alteración como prueba de elección.
 
 Su historia sagrada sostiene que la civilización anterior colapsó porque las grandes cortes de la era pasada derivaron hacia la corrupción: sacerdotes que manipulaban condiciones, lecturas al servicio de intereses políticos, fuentes de Luz adulteradas o controladas por facciones que querían resultados específicos. La catástrofe fue el veredicto.
 
@@ -224,15 +144,11 @@ La civilización actual existe como segunda oportunidad de administrar correctam
 
 Esto da a las ruinas antiguas un valor teológico inmediato. No son solo restos. Son expedientes materiales del fracaso. Las ruinas de cortes antiguas pueden conservar instrumentos litúrgicos, reliquias de juicio o ambas cosas a la vez, y su estructura física puede mostrar dónde fallaron las salvaguardas, dónde el procedimiento era falsificable, dónde el espacio permitía intervención externa, dónde el sacerdote pudo ver algo que el testigo no podía verificar o viceversa.
 
-Encontrar esos fallos confirma la teología.
-
-Una ruina cuya corte no muestra fallos visibles es una pregunta que la mayoría de los Chelicer prefiere no sostener demasiado tiempo.
+Encontrar esos fallos confirma la teología. Una ruina cuya corte no muestra fallos visibles es una pregunta que la mayoría de los Chelicer prefiere no sostener demasiado tiempo.
 
 A veces se clausura la cámara y se registra el sitio como peligrosamente ambiguo. A veces alguien insiste en que la falla está ahí aunque nadie haya logrado verla todavía. A veces una escuela entera construye su reputación alrededor de demostrar que ninguna corte antigua fue pura.
 
-Lo importante no es resolver la incomodidad por completo.
-
-Es impedir que esa incomodidad llegue a parecerse demasiado a una duda sobre la Revelación misma.
+Lo importante no es resolver la incomodidad por completo. Es impedir que esa incomodidad llegue a parecerse demasiado a una duda sobre la Revelación misma.
 
 ## Organización e Identidad Interna
 
@@ -248,27 +164,19 @@ La posición conservadora sobre la progresista es brutalmente simple: su sola ex
 
 La posición progresista es igualmente devastadora: un sistema que no puede distinguir una lectura pura de una corrupta y trata ambas como igualmente vinculantes terminará emitiendo un veredicto falso que destruirá una comunidad por atarla a un resultado erróneo.
 
-Ambas posiciones tienen evidencia.
-
-Y como ambas hablan en nombre de la pureza del sistema, la disputa no puede resolverse sin tocar la base misma de lo que significa Revelación.
+Ambas posiciones tienen evidencia. Y como ambas hablan en nombre de la pureza del sistema, la disputa no puede resolverse sin tocar la base misma de lo que significa Revelación.
 
 No se vive, sin embargo, como un debate abstracto. Se vive como cortes que dejan de reconocerse entre sí, familias que aceptan un veredicto en una ciudad y lo consideran sospechoso en la siguiente, testigos cuyo historial impecable vale menos en cuanto se descubre bajo qué Luz aprendieron a mirar.
 
 Un nombre de registro emitido por una corte conservadora puede no ser reconocido en una comunidad progresista de borde. Un matrimonio ratificado bajo instrumentos considerados impuros puede ser tratado como vínculo dudoso por otra corte. Una lectura final de muerte puede sostener el honor de una familia en un asentamiento y convertirse en advertencia vergonzosa en otro. Un comerciante puede llegar con actas válidas en una ciudad y descubrir que esas actas no tienen peso al otro lado de un cañón.
 
-La fractura no rompe solo doctrinas.
-
-Rompe biografías.
+La fractura no rompe solo doctrinas. Rompe biografías.
 
 Fuera de esta fractura, la variación más significativa es la especialización de función. Algunas cortes han desarrollado procedimientos específicos para ciertos tipos de disputa — sucesión, crimen, ratificación de tratados, legitimación de nombres o resolución de conflictos territoriales — y acumulan autoridad como el sitio apropiado para ese proceso. La jurisdicción que otros sistemas atribuyen a territorios geográficos, los Chelicer la atribuyen a historial de veredictos.
 
 También existen las lecturas privadas: conducidas entre sacerdote y examinado sin testigos, con el reporte del sacerdote como único registro. Las comunidades conservadoras las ven con profunda suspicacia, porque la función del testigo es teológicamente necesaria, no opcional. Las comunidades que las practican argumentan que hay preguntas demasiado sensibles para la presencia pública.
 
-Este desacuerdo no ha llegado a ruptura formal.
-
-Lleva generaciones sin llegar.
-
-Eso lo vuelve más peligroso, no menos.
+Este desacuerdo no ha llegado a ruptura formal. Lleva generaciones sin llegar. Eso lo vuelve más peligroso, no menos.
 
 Los sacerdotes de lecturas privadas rara vez se llaman a sí mismos reformadores. Dicen que protegen lo que el público destruiría al mirarlo. Sus críticos responden que una verdad que no soporta testigo ya empezó a parecerse demasiado a voluntad humana.
 
@@ -278,31 +186,21 @@ Ninguna de las dos frases ha logrado derrotar a la otra.
 
 Los jóvenes Chelicer reciben un período concentrado de transmisión: procedimiento de ordalía, doctrina del veredicto preexistente y obligaciones del testigo. No hay graduación formal. Hay el momento en que la comunidad asume que el joven sabe lo suficiente para sostener su propio territorio y presentarse como testigo cuando se le llama.
 
-La infancia dura lo que tarda en llegar ese momento.
-
-Y no más.
+La infancia dura lo que tarda en llegar ese momento. Y no más.
 
 La primera ordalía no ocurre por acusación. Es el rito de iniciación. El sacerdote conduce una lectura del joven bajo condiciones formales y reporta lo que el instrumento litúrgico hizo visible. Ese reporte, formulado en el registro ceremonial que los sacerdotes usan para las actas, se convierte en el nombre de registro: el nombre que identifica al individuo en todos los contextos legales y formales por el resto de su vida.
 
-El nombre cotidiano lo elige la familia antes de ese momento.
+El nombre cotidiano lo elige la familia antes de ese momento. El nombre de registro lo da el sacerdote basándose en lo que leyó.
 
-El nombre de registro lo da el sacerdote basándose en lo que leyó.
+Un Chelicer que recibe una segunda ordalía significativa que modifica el registro lleva ambos nombres y la historia de por qué el segundo reemplazó al primero. Aquí la biografía se vuelve institución.
 
-Un Chelicer que recibe una segunda ordalía significativa que modifica el registro lleva ambos nombres y la historia de por qué el segundo reemplazó al primero.
-
-Aquí la biografía se vuelve institución.
-
-Un nombre no es solo un nombre.
-
-Es un veredicto convertido en identidad portable.
+Un nombre no es solo un nombre: es un veredicto convertido en identidad portable.
 
 La subsistencia es predatoria e individual. Los Chelicer cazan solos, procesan el alimento solos y no comparten comidas como práctica de vinculación social. La excepción es el consumo ritual al cierre de una ordalía mayor: un acto formal, no una comida afectiva.
 
 Esto vuelve a los Chelicer extraños para muchos otros pueblos. Donde otras especies consolidan comunidad alrededor de la mesa, los Chelicer la consolidan alrededor del procedimiento.
 
-La mecánica de alimentarse es asunto privado.
-
-La mecánica de establecer verdad, no.
+La mecánica de alimentarse es asunto privado. La mecánica de establecer verdad, no.
 
 La vida diaria está llena de pequeñas prohibiciones visuales. No se comenta el patrón UV de otro sin contexto. No se compara el brillo de un joven con el de un condenado. No se usa luz de lectura fuera de cámara como curiosidad. No se mira demasiado tiempo el exoesqueleto de alguien bajo lámparas de corte si no hay acto abierto. La sociedad sabe que todos emiten algo visible.
 
@@ -310,35 +208,21 @@ También sabe que convertir cada visibilidad en interpretación destruiría la p
 
 Los testigos de registro tienen una vida cotidiana marcada por la presencia. No siempre hablan más que otros. No siempre poseen riqueza o cargo. Pero se les llama cuando una corte necesita sostener legitimidad, cuando una familia teme que una lectura sea cuestionada, cuando un sacerdote demasiado joven requiere un historial que lo rodee.
 
-Ser testigo muchas veces no vuelve a alguien puro.
-
-Lo vuelve trazable.
-
-Eso basta para dar autoridad en una sociedad construida contra la manipulación.
+Ser testigo muchas veces no vuelve a alguien puro. Lo vuelve trazable. Eso basta para dar autoridad en una sociedad construida contra la manipulación.
 
 Cuando un Chelicer muere, el sacerdote conduce una lectura del cuerpo. La fluorescencia persiste durante algunas horas después de la muerte en forma decreciente, y ese período es el material de la lectura de paso. Si la corte conserva reliquias de juicio asociadas al tránsito o a la lectura final, pueden incorporarse al procedimiento. El reporte determina el tono con que se recuerda a la persona: como modelo, advertencia, continuidad o caso sin resolución.
 
-La familia no desafía el reporte en el acta.
-
-Puede cargarlo en privado por el resto de su vida.
-
-El registro no cambia.
+La familia no desafía el reporte en el acta. Puede cargarlo en privado por el resto de su vida. El registro no cambia.
 
 Eso dice mucho sobre la sociedad Chelicer: el dolor íntimo tiene espacio, pero no autoridad suficiente para corregir la forma pública de la verdad.
 
 En las ciudades atravesadas por la fractura entre escuelas, la vida cotidiana se vuelve más dura. Un joven puede llevar un nombre que una corte vecina considera débil. Una familia puede evitar comerciar con otra porque su lectura de paso fue emitida bajo Luz sospechosa. Una pareja puede vivir junta durante años y aun así no lograr que dos cortes reconozcan la misma ratificación. Un testigo anciano puede ver medio siglo de presencia institucional cuestionado porque una escuela revisó la fuente litúrgica bajo la que comenzó su historial.
 
-La fractura entra en la mesa aunque la comida sea privada.
-
-Entra en el nombre.
-
-Entra en la muerte.
+La fractura entra en la mesa aunque la comida sea privada. Entra en el nombre. Entra en la muerte.
 
 Un anciano Chelicer con largo historial como testigo de registro, cuya presencia en muchos veredictos fue documentada sin irregularidades, ocupa una posición de autoridad informal que no requiere cargo. No puede conducir lecturas. Pero su presencia en una nueva lectura agrega validación institucional que una corte sin esos ancianos no puede sustituir con otras credenciales.
 
-Envejecer bien entre los Chelicer no es solo durar.
-
-Es haber presenciado suficientes veredictos como para convertirse en garantía viviente de que el procedimiento todavía significa algo.
+Envejecer bien entre los Chelicer no es solo durar. Es haber presenciado suficientes veredictos como para convertirse en garantía viviente de que el procedimiento todavía significa algo.
 
 ## Relaciones con el Mundo
 
@@ -348,15 +232,11 @@ Los Ceratox que entran al territorio Chelicer exhiben comportamientos que los Ch
 
 El intercambio es posible — inteligencia de ruta, información sobre zonas adyacentes, advertencias de frontera — y termina casi siempre con la misma incomprensión de fondo.
 
-El Ceratox dice: la señal no autoriza significado.
-
-El Chelicer responde: entonces falta procedimiento.
+El Ceratox dice: la señal no autoriza significado. El Chelicer responde: entonces falta procedimiento.
 
 Los Rokhart han documentado el territorio Chelicer con la precisión que aplican a todo. No hay una forma de presentar esa documentación a comunidades Chelicer sin que el sistema la clasifique como señal de creencia contaminada: investigar por qué la Revelación parece responder equivale, dentro del marco, a sugerir que la legitimidad del veredicto depende de algo distinto al veredicto mismo.
 
-Los Rokhart no han dejado de documentar.
-
-Han dejado de intentar compartir.
+Los Rokhart no han dejado de documentar. Han dejado de intentar compartir.
 
 Con los Zarnag hay acuerdo funcional y sin afecto. Los Zarnag necesitan territorios estables con infraestructura social preexistente; las cortes de ordalía Chelicer producen precisamente eso. Los Chelicer necesitan, sobre todo en territorios de borde, interlocutores que gestionen márgenes entre zonas sin requerir veredictos formales para cada interacción. Ninguna de las dos especies malinterpreta a la otra como algo más de lo que es.
 
@@ -374,9 +254,7 @@ Los Loxod representan una alteridad más silenciosa. A los Chelicer les resulta 
 
 Los Panin frustran por completo la preferencia Chelicer por condiciones controladas. Alteran el contexto, interrumpen secuencias, hacen preguntas en el lugar equivocado y se mueven con una espontaneidad que a los Chelicer puede parecer irreverencia estructural. Pero también exponen algo que los Chelicer detestan admitir: cuánto depende su sistema de que todos acepten el marco antes de entrar en él.
 
-Los Myo provocan inquietud más profunda. Una visión, un presagio o una lectura interior que no pase por ordalía produce todo el efecto de una verdad sin procedimiento. Para un Chelicer piadoso, eso no es solo heterodoxia.
-
-Es casi una ofensa ontológica.
+Los Myo provocan inquietud más profunda. Una visión, un presagio o una lectura interior que no pase por ordalía produce todo el efecto de una verdad sin procedimiento. Para un Chelicer piadoso, eso no es solo heterodoxia. Es casi una ofensa ontológica.
 
 Los Arakhel plantean un problema espacial. Sus nodos, cruces y familias sostienen verdades relacionales que no siempre pueden llevarse a una corte sin cambiar de naturaleza. Para un Arakhel, el tránsito, la deuda y el vínculo pueden ser parte de lo que vuelve verdadero un acto. Para un Chelicer, eso parece peligroso: si la verdad depende demasiado del cruce, ¿cómo se garantiza que no sea solo relación mal nombrada? Aun así, algunas cortes de frontera han aprendido que ciertos pasos no pueden juzgarse sin presencia Arakhel.
 
@@ -386,9 +264,7 @@ Los Ursari ofrecen una relación más material. Una forja demuestra verdad por r
 
 Los Luphran incomodan porque su legitimidad nace de tripulación, jarl, nave viva y lealtad sostenida bajo ruta. Para un Chelicer, esa clase de autoridad parece demasiado dependiente de relación y presencia continua. Para un Luphran, una corte puede parecer un lugar donde se congela una verdad que en el mar o en ruta tendría que probarse cada día. El conflicto no siempre impide alianza, pero sí vuelve difícil que uno acepte el juicio del otro como final.
 
-Los Chelicer no exigen que otras especies crean.
-
-Exigen algo más difícil:
+Los Chelicer no exigen que otras especies crean. Exigen algo más difícil:
 
 que acepten que, dentro de una corte, la verdad no pertenece a quien la desea.
 
@@ -410,15 +286,9 @@ Muchos Chelicer abandonan la comunidad por razones previsibles: un veredicto adv
 
 haber visto una lectura que saben que estuvo equivocada, y no haber podido decirlo.
 
-No porque hubiera consecuencias graves inmediatas.
+No porque hubiera consecuencias graves inmediatas, sino porque dentro del sistema no existía ningún lugar donde ese conocimiento pudiera vivir sin convertirse en algo que el sistema tuviera que absorber o destruir.
 
-Sino porque dentro del sistema no existía ningún lugar donde ese conocimiento pudiera vivir sin convertirse en algo que el sistema tuviera que absorber o destruir.
-
-Hay Chelicer que se van porque recibieron un veredicto en contra.
-
-Hay algunos que se van porque el veredicto fue a su favor y saben lo que realmente ocurrió.
-
-Ambos cargan el mismo peso, en direcciones distintas.
+Hay Chelicer que se van porque recibieron un veredicto en contra. Hay algunos que se van porque el veredicto fue a su favor y saben lo que realmente ocurrió. Ambos cargan el mismo peso, en direcciones distintas.
 
 Un personaje Chelicer puede ser un testigo de registro que vio una irregularidad y calló porque el acta ya estaba sellada. Un sacerdote joven que teme haber sufrido Deslumbramiento durante una lectura pública. Un conservador enviado a recuperar una reliquia de juicio antes de que una corte progresista la degrade a instrumento impuro. Un progresista que busca una ruina antigua sin fallos visibles porque necesita probar que el problema no siempre fue la corrupción. Un exiliado cuyo nombre de registro no es reconocido fuera de su escuela. O alguien que descubrió que la Luz puede aparecer fuera de cámara y no sabe si eso lo convierte en elegido, impuro o peligroso.
 
