@@ -298,7 +298,7 @@ La pregunta que muchos Ceratox se llevan consigo no es qué significa la señal,
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 100–140 años | Grande | 1.80–2.00 m | 200–350 kg | 9 m |
+| 100–140 años | Grande | 1.80–2.00 m | 200–350 kg | 8 m |
 
 **Idiomas:** Rakan (nativo) · Común
 
