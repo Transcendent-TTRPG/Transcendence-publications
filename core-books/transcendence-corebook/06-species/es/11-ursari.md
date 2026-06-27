@@ -16,305 +16,13 @@ related:
 
 # Ursari
 
-Los Ursari construyen para durar.
+Los Ursari construyen para durar, pero el costo de esa durabilidad lo pagan con sus propios cuerpos. Para su civilización, la maestría no es simplemente una cuestión de destreza intelectual, sino de exposición sostenida. Sus forjas más profundas, los únicos sitios donde el metal y la piedra adquieren las propiedades extraordinarias por las que son conocidos, no son lugares seguros. Son entornos sumamente hostiles que consumen y alteran de forma inexorable a quienes trabajan allí. En lugar de alejarse, los Ursari han organizado toda su cultura para soportarlo, adaptando su biología, su sociedad y su lenguaje para no tener que admitir que su forma de vida es un sacrificio continuo.
 
-No solo edificios, armas, armaduras o herramientas. Construyen continuidad. Construyen líneas de transmisión. Construyen cuerpos capaces de sostener calor, peso, deuda, oficio y memoria sin romperse demasiado pronto.
+Físicamente, son enormes humanoides plantígrados de fuerza abrumadora. Sin embargo, su robustez, su pelaje denso que delata la exposición térmica de su linaje y sus gruesas garras diseñadas para un agarre inquebrantable, no evolucionaron para la guerra. Son herramientas de resistencia laboral. Un Ursari trabaja sosteniendo cosas que quemarían o aplastarían a otras criaturas: vigas ardientes, martillos titánicos y deudas de trabajo inagotables. Su mayor virtud —y su principal causa de muerte— es su incapacidad física y psicológica para soltar. Un Ursari no sabe interpretar el dolor como una señal de límite; solo lo asume como una condición normal del trabajo.
 
-Sus conocimientos se transmiten cuerpo a cuerpo, de maestro a aprendiz, en cadenas que algunos linajes artesanales rastrean durante siglos. Lo que se aprende en la forja no se escribe primero. Se porta. Se porta en los brazos que sostuvieron el martillo durante miles de horas, en los pulmones que aprendieron a trabajar dentro del calor sin ceder, en el oído que distingue el metal que cedió del metal que se quiebra antes de que la grieta aparezca.
+La cima de su jerarquía social está ocupada por los *druidas*. A diferencia de otras culturas que asocian este título con el cuidado de la naturaleza, para un Ursari, el druida es simplemente el herrero que ha pasado más tiempo sobreviviendo en las forjas profundas. Son reverenciados porque logran obras imposibles, afirmando que pueden escuchar al metal responder. Sin embargo, la cultura Ursari carece de palabras para distinguir entre el maestro que comprendió los secretos del fuego y el cuerpo que fue irremediablemente cruzado y deformado por él. Lo que los Ursari llaman devotamente *comunión*, el resto del mundo lo reconoce como un deterioro neurológico y espiritual evidente. Los fuegos fatuos que un druida asegura ver en las sombras, la irritabilidad crónica, las manos que se mueven antes de que el juicio lo ordene o la fiebre incesante no son dones inefables; son los síntomas inequívocos de un individuo cuyo sistema está siendo devorado por su propio entorno. 
 
-Un texto puede describir una técnica. No puede poner el peso correcto en la muñeca.
-
-Su jerarquía no depende de sangre ni de declaración. Depende de lo que un cuerpo ha demostrado poder hacer, y de quién estuvo presente para verlo.
-
-El problema empieza cuando el más competente también resulta ser el más expuesto. Y cuando una cultura entera aprende a llamar maestría a lo que quizá también es herida.
-
-## El Cuerpo
-
-Los Ursari son humanoides grandes de linaje oso pardo: torsos anchos y en barril, musculatura masiva sin esbeltez, extremidades delanteras de alcance y fuerza extraordinarios. Cuando están de pie, su silueta transmite peso antes que velocidad.
-
-Esa impresión engaña.
-
-Un Ursari puede alcanzar a un objetivo en distancia corta con una aceleración que contradice completamente su masa. La carga no es una preparación lenta: es una transición instantánea entre quietud y movimiento completo. Quienes no los han enfrentado antes asumen que el tamaño implica preaviso.
-
-No lo implica.
-
-La quietud Ursari no siempre es descanso. A veces es compresión. Todo el cuerpo parece guardar una decisión hasta que el espacio correcto aparece, y entonces la decisión se mueve de una vez.
-
-Sus garras son el rasgo físico más definitorio en combate. No son principalmente herramientas de corte, aunque pueden desgarrar y lo hacen. Su función central es el agarre. La musculatura de los antebrazos está construida para cerrar hacia adentro con fuerza sostenida: una vez que las dos garras han encontrado compra en un cuerpo, extraer ese cuerpo del contacto requiere más fuerza que la que la mayoría de las criaturas puede aplicar desde una posición de desventaja.
-
-El proceso de soltar es siempre elección del Ursari, no del que está siendo sostenido.
-
-Esa biología atraviesa mucho más que la guerra. Un Ursari trabaja el mundo sujetándolo. Sostiene piezas calientes, vigas, cuerpos heridos, animales grandes, puertas rotas, martillos demasiado pesados para otros, deudas que nadie más puede cargar y conversaciones que requieren que alguien no se aparte cuando empiezan a quemar.
-
-Pueden erguirse a altura completa sobre las patas traseras. En bipedestación ordinaria ya son grandes; en posición completamente erguida ganan entre medio metro y un metro de estatura y cambian toda la geometría de la amenaza que representan. No combaten así habitualmente, porque la posición reduce estabilidad, pero como declaración de presencia física tiene pocos equivalentes.
-
-Un Ursari erguido no siempre está amenazando. A veces está recordando a todos cuánto espacio ocupa lo que están a punto de pedirle.
-
-Su pelaje varía entre linajes artesanales: oscuro hacia el marrón rojizo en familias de forjadores de litoral, gris claro hacia el plateado en comunidades de alta montaña, negro denso en variantes de bosque profundo, marrones apagados en asentamientos de valle y tonos casi cenizos en líneas antiguas de forja volcánica. Estas variaciones no se leen como decoración. En muchas comunidades indican clima, tipo de forja, tradición de combustible, acceso mineral y, a veces, el tipo de exposición que una línea aprendió a soportar.
-
-La piel bajo el pelaje tiene tolerancia térmica acumulada por generaciones de trabajo en la forja. Un Ursari puede operar a temperaturas que producirían quemaduras en cualquier otra especie sin preparación equivalente. No es invulnerabilidad. Es calibración. El cuerpo aprendió dónde está el umbral y cómo trabajar cerca de él sin cruzarlo.
-
-O así se entiende. El problema es que el umbral no es solo térmico.
-
-Algunos Ursari vuelven de la forja honda con una precisión nueva en las manos, una paciencia que antes no tenían, una forma de escuchar el metal que ningún maestro les enseñó. Otros vuelven con fiebre, sueños de fuego bajo piedra, irritabilidad, silencio, una devoción extraña por piezas que todavía no existen o una incapacidad creciente para trabajar metal ordinario sin sentirlo muerto.
-
-La cultura tiene palabras para la excelencia. Tiene menos palabras para preguntar qué entró junto con ella.
-
-## La Cultura
-
-Una comunidad Ursari es una comunidad de forja.
-
-Esto no es metáfora: el asentamiento existe porque existe un sitio viable para la forja, y la forja existe donde la geografía lo permite. Las mejores ubicaciones comparten ciertas características — fuentes de agua para el temple, acceso a mineral o roca trabajable, ventilación natural, bosques o combustibles cercanos, rutas de transporte soportables — pero la más valorada, la que los maestros Ursari han buscado durante generaciones sin nombrarlo siempre en esos términos, es lo que algunos llaman simplemente calidad del fuego.
-
-La forma en que el metal responde en ciertos sitios. La diferencia entre una forja donde el trabajo se completa y una forja donde el trabajo habla.
-
-Lo que los Ceratox detectan con los cuernos, los Ursari lo sienten en el metal. Hay sitios donde el proceso de forja produce resultados que los artesanos no pueden reproducir en otro lugar, con los mismos materiales y las mismas técnicas. Eso no es solo habilidad. Es geografía.
-
-Una forja Ursari no es únicamente horno, yunque y herramienta. Es un sistema de relación entre piedra, fuego, agua, mineral, cuerpo y memoria. La orientación de la cámara importa. La distancia al río importa. La composición de la pared importa. La edad del carbón importa. La respiración del aprendiz importa cuando el maestro está escuchando si la pieza respondió.
-
-Un visitante ve industria. Un Ursari ve una conversación que lleva generaciones en curso.
-
-La jerarquía de la comunidad está organizada por maestría artesanal y por honor atestiguado. El maestro forjador que ha completado obras de mayor exigencia ocupa posición más alta. El artesano cuya competencia ha sido verificada en circunstancias difíciles — escasez de material, presión de tiempo, evaluación pública de pares, trabajo en sitio inestable, reparación de pieza irremplazable — tiene más autoridad que quien solo declara haber alcanzado ese nivel.
-
-El honor no es galardón: es registro público verificado.
-
-Decir “yo hice” no basta. Alguien tuvo que verlo. Alguien tuvo que poder repetir qué condiciones existían. Alguien tuvo que estar allí cuando el metal casi falló y el artesano no se apartó. La palabra Ursari vale mucho, pero la palabra atestiguada vale más.
-
-La obra necesita testigos. La técnica necesita testigos. El honor necesita testigos.
-
-Lo que no se sostuvo ante otros puede seguir siendo verdadero en privado, pero no entra en la continuidad con el mismo peso.
-
-Los druidas son la cima de esa jerarquía.
-
-No porque tengan siempre la mejor técnica de forja, aunque muchos la tienen, sino porque han trabajado durante más tiempo en los sitios más hondos, y lo que llevan de vuelta de ese trabajo tiene un peso que la comunidad reconoce como distinto. El druida que ha pasado décadas en la forja honda sabe cosas que ningún texto describe, que ningún aprendiz puede replicar sin transitar el mismo proceso. La comunidad confía en ese conocimiento porque el druida ha demostrado poder volver con comunión sin perder por completo la mano ni el juicio.
-
-La palabra druida, entre los Ursari, no significa lo mismo que en tradiciones de bosque, culto o equilibrio natural.
-
-No habla por árboles. No guarda un ciclo abstracto. No es sacerdote de una naturaleza general. Es quien escucha la materia cuando la materia deja de ser completamente muda.
-
-Es quien trabaja lo suficientemente cerca del umbral como para que el fuego, el metal y el sitio empiecen a responder de maneras que un artesano ordinario no puede provocar. Es maestro de exposición prolongada, oyente profundo de la forja, cuerpo atravesado por comunión, autoridad peligrosa.
-
-Eso los vuelve necesarios. También los vuelve peligrosos.
-
-La distinción que nadie en la cultura tiene lenguaje cómodo para hacer es la diferencia entre el cuerpo que dominó las condiciones del sitio y el cuerpo al que las condiciones del sitio se le cruzaron con mayor facilidad.
-
-Un druida puede ser maestro. También puede ser síntoma.
-
-La cultura Ursari vive dentro de esa ambigüedad y la sostiene porque el sistema produce resultados. Las armas salen mejores. Las armaduras soportan más. Las herramientas duran generaciones. Las piezas trabajadas en forja honda vuelven con una cualidad que otros pueblos reconocen aunque no puedan nombrarla.
-
-La objeción existe. El martillo sigue sonando.
-
-## Teología y Cosmología
-
-Los Ursari no separan fácilmente oficio, herencia y revelación.
-
-Todo eso vive dentro de la tradición: la línea viva de transmisión, los maestros, los sitios de forja, las piezas heredadas, los métodos que sobrevivieron, los silencios que no se rompen y la memoria de lo que una comunidad ha podido sostener sin quebrarse.
-
-Por eso el druida no es simplemente un artesano más sensible ni un sacerdote del fuego en sentido ajeno.
-
-Es quien desciende por la línea. Lleva consigo objetos todavía ordinarios — hierro, herramientas, sellos de taller, piezas heredadas, formas que aún no están terminadas — y los expone a los sitios donde la forja deja de ser solo trabajo. No baja para usarlos. Baja para oír si el sitio los reconoce.
-
-Los druidas dicen que en esos descensos no se avanza a ciegas. Hablan de fuegos fatuos: luces que no todos ven, que aparecen en los corredores más hondos, junto a respiraderos, grietas calientes, cámaras antiguas y metales que todavía no se han dejado nombrar. Un maestro común puede tomarlos por cansancio, reflejo o aire malo. Un druida afirma que marcan el camino hacia el otro mundo cuando la forja se acerca demasiado a él.
-
-Nadie puede probar del todo cuál de esas cosas son.
-
-Quizá guía. Quizá fatiga. Quizá respuesta. Quizá advertencia. Quizá síntoma de que el druida ya está demasiado abierto.
-
-Lo que vuelve con él no es todavía la obra. Vuelve tocado. También vuelve tocado el propio druida.
-
-Los Ursari llaman comunión a esa cercanía. No la tratan como enfermedad en primer término, aunque sepan que puede arruinar cuerpos, juicios y vidas. Es la condición de quien aprendió a oír demasiado bien: tierra, agua, piedra, aire del horno, temperatura, metal y fuego dejan de sentirse separados. El druida entiende más porque ya no está oyendo con la misma distancia que los demás, y porque en algunos sitios siente que la forja ya no está completamente de este lado.
-
-Comunión no es prueba de pureza. Es prueba de cercanía.
-
-Y la cercanía puede enseñar o deformar. Ahí vive el problema.
-
-La cultura Ursari no sabe hacer una distinción cómoda entre el maestro que comprendió más y el cuerpo que quedó más abierto. Honra a ambos como si fueran la misma persona.
-
-A veces solo empiezan a intentar separarlos cuando el druida ya no duerme, cuando habla con una pieza como si la pieza fuera a responderle, o cuando el taller entero admite en voz baja que la obra salió perfecta y el que la terminó no volvió del todo con ella.
-
-Los síntomas tienen nombres, pero los nombres no siempre detienen el trabajo.
-
-La Fiebre de Forja es el primer aviso: calor interno fuera del horno, irritabilidad, sueños de metal bajo piedra, necesidad de volver a una cámara honda, sensación de que el cuerpo todavía está templándose aunque ya salió del sitio.
-
-El Oído Hondo puede ser don o deterioro. El artesano empieza a escuchar diferencias que nadie más oye: cuándo una pieza miente, cuándo un yunque recuerda demasiado, cuándo un metal no quiere entrar a la forma. A veces tiene razón. A veces solo está oyendo su propia exposición.
-
-La Mano Mentira es más temida. La mano se mueve con seguridad antes de que el juicio pueda justificarla. Corrige una pieza, cambia un temple, arruina una técnica común para producir una forma nueva. Si la obra sale bien, la comunidad tarda demasiado en preguntar si la mano sabía o si estaba obedeciendo algo.
-
-La Comunión Abierta ocurre cuando el descenso no se cierra. El druida vuelve, pero la forja sigue dentro del cuerpo. Habla de calor en habitaciones frías. Siente piezas sin tocarlas. Se irrita ante metal ordinario. Puede producir obras extraordinarias durante un tiempo. Ese es precisamente el peligro.
-
-El Fuego Pegado es la forma cotidiana de ese daño: la forja acompaña al Ursari fuera del sitio. La respiración busca humo donde no hay. El oído encuentra martillo en conversaciones. La piel siente horno en la lluvia. El mundo entero empieza a parecer materia incompleta.
-
-No todos esos estados son tratados como aflicción. Algunas líneas los veneran. Otras los esconden. Otras los registran como costo aceptable. Las más prudentes esperan a ver si el artesano todavía puede distinguir el metal de su deseo.
-
-Cuando el druida regresa, la obra todavía no está hecha. Lo que trajo debe pasar por la mano del herrero, por la disciplina del temple, por el juicio del taller y por la forma correcta. Solo entonces la comunidad reconoce qué destino tiene.
-
-Si la obra fue terminada para una persona concreta — un maestro, un campeón, un heredero, un druida, un guardián — se la trata como obra personal: tesoro de línea, de portador o de deuda íntima.
-
-Si la obra fue terminada para la comunidad — para sostener la forja, guardar un fuego, servir a los druidas, defender la aldea, proteger una cámara o mantener una obra común — se la trata como obra comunal.
-
-La diferencia principal no es qué clase de cosa es en términos ocultos. La diferencia es para quién fue acabada.
-
-Por eso los Ursari no construyen su cosmología principal alrededor de clasificaciones invisibles del objeto. Lo que les importa es si una obra pertenece a una mano o a una aldea, a una deuda íntima o a una continuidad compartida.
-
-Con el tiempo aprenden otras diferencias. Hay obras que dejan más marca en el portador. Hay obras que cobran más del cuerpo y del juicio. Hay obras que vuelven mejor al taller y otras que parecen pedir siempre más fuego. Los Ursari conocen esas variaciones porque viven con ellas, pero no las ponen por encima del destino de la obra.
-
-Una obra inconclusa no es simplemente una obra sin terminar. Es una obra que todavía exige algo.
-
-Una obra retornada es la que vuelve al fuego al final de su ciclo, no como destrucción, sino como cierre.
-
-Una obra extraviada es una pieza que salió de su línea y no volvió cuando debía.
-
-Una herramienta que enseña puede pertenecer a un maestro muerto y conservar transmisión aunque nadie deba usarla de nuevo.
-
-Una obra tomada es la que arrastra al artesano más de lo que el artesano puede admitir.
-
-Una obra que pide fuego es aquella que parece exigir más trabajo, más exposición, más descenso, más cuerpo.
-
-El artesano que critica la jerarquía druida siempre termina regresando al mismo punto: quizá la comunidad no está honrando solo maestría. Quizá está honrando exposición. Quizá la comunión que permite oír mejor también vuelve más fácil quebrarse. Quizá el mejor de todos no es el que más domina el fuego, sino el que más profundamente fue tocado por él.
-
-La objeción existe. El martillo sigue sonando, no porque la duda haya sido respondida, sino porque detener la forja también tendría un costo que la comunidad no sabe asumir.
-
-Los Ursari no suelen preguntar qué quiere el fuego. Preguntan si la obra quedó digna de la tradición. Y cuánta comunión costó traerla al mundo.
-
-## Organización e Identidad Interna
-
-El vínculo que organiza la vida Ursari no es la familia sino la cadena de transmisión.
-
-Un Ursari pertenece a la línea de su maestro. El maestro pertenece a la línea del suyo. Las líneas de transmisión más largas — las que se remontan cinco, seis, siete generaciones de maestros identificados — tienen peso equivalente al linaje en otras culturas: marcan el estilo, las técnicas, la forma de resolver problemas de forja, la elección de materiales, las rutas de comercio, las alianzas entre comunidades y los silencios que cada escuela aprendió a no tocar.
-
-Dos artesanos de líneas opuestas pueden reconocerse en el trabajo del otro antes de haberse presentado.
-
-El origen de sangre importa menos que el origen artesanal. Un Ursari adoptado a los diez años en una línea de maestros forjadores es más hijo de esa línea que el sobrino biológico de un forjador menor. El forastero que demuestra trabajo de calidad puede ser absorbido. El miembro de larga tradición que produce trabajo mediocre pierde posición progresivamente.
-
-Esto vuelve a las comunidades Ursari más móviles de lo que parecen. No se mueven mucho en territorio, pero sí en pertenencia. Un aprendiz puede cambiar de línea si el maestro lo libera o si una disputa pública demuestra que la transmisión falló. Un maestro puede adoptar a alguien de otra especie para tareas periféricas, pero la entrada plena en la cadena exige algo más que utilidad: exige que el cuerpo aprenda el ritmo del trabajo hasta que otros puedan reconocer la línea en lo que produce.
-
-La línea de transmisión carga técnica, estilo, reputación, deudas, herramientas, rutas comerciales, derecho a ciertos materiales, memoria de errores y silencios. Algunas líneas son famosas por sus temples. Otras por reparaciones imposibles. Otras por cámaras demasiado hondas que nadie externo ha visto. Otras por haber perdido demasiados druidas y seguir llamándolo tradición.
-
-Los conflictos serios — disputas de autoría de técnica, acusaciones de deshonor, competencia por la posición de maestro en un sitio de forja, reclamos sobre piezas perdidas o deudas de trabajo no cumplidas — se resuelven mediante combate de campeones.
-
-No porque la fuerza valga más que la razón, sino porque el combate de campeones es un registro de voluntad verificado públicamente.
-
-El resultado no prueba quién tenía razón. Prueba quién estaba dispuesto a respaldarlo con el cuerpo. Después del combate, todavía puede haber compensaciones, revisiones de testigos o separación de líneas. Pero nadie puede decir que la disputa no fue sostenida.
-
-Los druidas no combaten en esas disputas. Su posición ya está verificada de una manera diferente.
-
-Eso también produce resentimiento. Un maestro común debe demostrar su honor bajo mirada pública. Un druida puede decir que cierto metal no debe trabajarse, que cierta cámara debe cerrarse, que cierta pieza no puede volver al fuego, y la comunidad tiende a escuchar. No por obediencia religiosa pura, sino porque demasiadas veces el druida tuvo razón antes de que el resto supiera qué estaba ocurriendo.
-
-Las fracturas internas más comunes no son entre sangre y sangre, sino entre transmisión y exposición. Algunas líneas sostienen que los aprendices prometedores deben acercarse temprano a las forjas hondas para desarrollar oído profundo. Otras consideran eso una forma de sacrificar jóvenes a la ambición de la escuela. Algunas comunidades protegen a sus druidas del trabajo excesivo. Otras los consumen lentamente en nombre de piezas que “solo ellos” pueden terminar.
-
-Estas posiciones rara vez se presentan como doctrina desnuda. Se presentan como un maestro que insiste en que el muchacho ya está listo, otro que responde que lo que oye en sus manos todavía no es oído sino fiebre, y un taller entero fingiendo que discute sobre técnica cuando en realidad discute sobre cuánto cuerpo está dispuesto a perder por una obra.
-
-Cuando una forja honda produce una obra extraordinaria y deja al druida enfermo durante meses, la comunidad registra ambas cosas. No siempre sabe cuál pesa más.
-
-## Vida Cotidiana
-
-Un asentamiento Ursari se organiza alrededor del sonido.
-
-El martillo en el yunque es el reloj, la dirección, la señal de que el sitio sigue activo. El silencio de la forja es mal augurio. Una forja en silencio puede significar escasez de material, lesión del maestro, disputa irresuelta, duelo, falta de combustible, cierre ritual o que algo en el sitio cambió.
-
-El primer diagnóstico del estado de una comunidad Ursari se hace a distancia, antes de verla. Escuchando.
-
-Al amanecer, los aprendices ya han transportado agua, revisado carbón, limpiado herramientas, preparado cuero, ordenado mineral por respuesta esperada y abierto ventilaciones. Los maestros no siempre hablan. A veces solo cambian la posición de una pieza y todos los que llevan suficiente tiempo en la forja entienden qué significa. Los jóvenes aprenden primero a no estorbar, después a sostener, después a repetir, y solo mucho más tarde a proponer.
-
-La enseñanza Ursari no usa mucha explicación verbal. El maestro trabaja; el aprendiz mira; el aprendiz intenta; el maestro corrige por demostración, no por descripción. Esta es la razón por la que el conocimiento no puede transmitirse en texto: no es proposicional. Es corporal. El aprendiz que ha pasado años mirando una forma de resolver un temple difícil lleva ese conocimiento en las manos y en los ojos.
-
-También en la espalda. También en el cansancio. También en la manera de respirar cuando el calor sube.
-
-La alimentación Ursari es densa. Los requerimientos calóricos del trabajo de forja a la escala que producen — con la masa corporal que tienen — necesitan cantidades de comida que otras culturas encontrarían difíciles de sostener. Las comunidades establecidas tienen sistemas de reserva alimentaria diseñados para los períodos en que el trabajo se intensifica y el tiempo para cazar o cultivar se reduce.
-
-En climas fríos, muchas comunidades reducen actividad durante el invierno: menos trabajo, más descanso, consumo de reservas acumuladas, reparación de herramientas, revisión de piezas antiguas, transmisión oral de disputas y evaluación de aprendices. No es una hibernación verdadera, pero sí una contracción cultural. La forja no muere. Respira más lento.
-
-El metal extraño — el que llega de afuera, el que viene de sitios que los Ursari no pueden clasificar fácilmente, el que ya parece traer respuesta propia — se trata con atención antes de ser trabajado. El Ceratox que trabaja cerca de un maestro Ursari puede reaccionar antes de que él lo haga. El metal que produce una respuesta anómala en el cuerno se aparta antes de entrar a la forja principal.
-
-Esta colaboración no está formalizada como alianza. Es simplemente lo que funciona.
-
-Las relaciones afectivas Ursari suelen expresarse mediante trabajo. Reparar una herramienta sin que se pida. Guardar material bueno para el aprendiz correcto. Estar presente como testigo cuando una pieza difícil se completa. No interrumpir a alguien que está escuchando el metal. Traer comida a quien no saldrá de la forja hasta que termine.
-
-El duelo también se trabaja. Cuando muere un maestro, sus herramientas no se reparten de inmediato. Primero se revisan. Cada martillo, tenaza, cuña, molde y pieza incompleta se estudia para determinar qué parte de la transmisión quedó dentro de ellos. Algunas herramientas pasan al aprendiz principal. Otras se devuelven al fuego. Otras se guardan sin usarse porque todavía enseñan, pero ya no deben tocar metal.
-
-La muerte de un druida exige todavía más cuidado. No todo lo que deja es herencia. Algunas piezas se sellan. Algunas herramientas se observan durante estaciones enteras antes de decidir si pueden volver al taller. Algunas obras incompletas se devuelven al fuego sin intentar terminarlas, no porque carezcan de valor, sino porque nadie quiere admitir que quizá siguen pidiendo al mismo cuerpo que ya no está.
-
-Envejecer bien entre los Ursari no es conservar fuerza bruta. Es conservar juicio sobre el umbral.
-
-Saber cuándo una pieza requiere más calor y cuándo el deseo de terminarla está hablando más fuerte que el metal. Saber cuándo un aprendiz debe acercarse a la forja honda y cuándo solo quiere demostrar que puede. Saber cuándo el cuerpo dice “todavía puedo” pero la mano ya empezó a mentir.
-
-Un viejo Ursari respetado no es el que nunca cedió. Es el que sabe qué no debe romperse para que algo dure.
-
-## Relaciones con el Mundo
-
-Los Ursari son valorados casi en todas partes por la calidad de sus obras. Armas, armaduras, herramientas, bisagras, clavos de puente, cerraduras, cadenas, piezas de maquinaria, refuerzos de puerta, calderas, anillos de sellado, moldes de precisión: lo que sale de una forja Ursari suele durar más de lo que quienes lo compran esperan vivir.
-
-Pero esa utilidad no significa comprensión. La mayoría de las especies quiere el resultado; pocas quieren entender el costo del sitio, del cuerpo y de la transmisión que lo produjo.
-
-Los Ceratox son la especie con la que los Ursari tienen la relación más directamente útil y más silenciosamente tensa. El cuerno Ceratox responde antes que cualquier juicio de taller a materiales que no están quietos del todo: eso los convierte en evaluadores invaluables para metal de sitios desconocidos. La tensión viene de que la señal del cuerno no solo indica peligro. Indica también los mejores materiales de forja disponibles. Trabajar junto a un Ceratox en un sitio activo implica que el Ceratox sabe exactamente qué están haciendo los Ursari con esos materiales.
-
-Los Drak'kai son la otra relación recurrente. Las armas de mayor calidad Ursari circulan hacia afuera, se usan, pasan de mano en mano, se modifican, se pierden, se recuperan y aparecen décadas después en colecciones que nadie consultó con la forja original. Los Drak'kai que acumulan objetos de alto valor entienden que una pieza de origen Ursari guarda algo que las réplicas no tienen. Algunos maestros consideran que el trabajo debería volver: que el metal de una forja activa, al final de su uso, merece ser devuelto al fuego, sobre todo si fue terminado como obra personal y no como obra comunal. Lo que los Drak'kai hacen con sus colecciones — conservar indefinidamente, no retornar — no viola ningún acuerdo explícito.
-
-Eso no impide que se sienta como una falta.
-
-Los Rokhart observan a los druidas con el interés sistemático que aplican a cualquier fenómeno que deja patrón. El proceso por el cual un druida soporta años de sitio hondo, vuelve con comunión y sigue siendo funcional resulta inusual incluso para ellos. Los Rokhart no ocultan ese interés. Los Ursari no lo agradecen, pero tampoco lo rechazan del todo: si los Rokhart pueden establecer qué distingue a un druida que sobrevive de uno que no, ese conocimiento tiene valor.
-
-El problema es que ningún Ursari quiere ser tratado como expediente mientras sostiene el martillo.
-
-Los Talpi usan los sitios de forja como zonas de extracción. El mineral que los Ursari valoran por su comportamiento en el trabajo, los Talpi lo valoran por composición y densidad. No hay conflicto formal. Hay competencia por recursos que ambas culturas necesitan, con criterios de valoración distintos. Para un Talpi, el mineral correcto debe salir de la tierra. Para un Ursari, no todo mineral debe abandonar el sitio que lo vuelve capaz de responder.
-
-Los Sauri respetan la durabilidad Ursari y suelen encargar piezas para cámaras, compuertas, canales y estructuras de contención. La relación puede ser sólida cuando ambos pueblos coinciden en que la forma debe resistir. Pero los Ursari desconfían de cualquier cultura que preserve demasiado sin devolver nada al fuego. Una cámara sellada durante siglos puede parecer obra maestra o negativa a terminar el trabajo.
-
-Los Naghii valoran las piezas Ursari encontradas en ruinas, sobre todo cuando sus marcas de forja permiten rastrear rutas antiguas o presencia de talleres perdidos. Los Ursari, por su parte, suelen impacientarse ante comunidades que quieren interpretar demasiado antes de tocar el material. Aun así, ambos entienden algo común: una tradición puede sobrevivir en fragmentos, y un error de lectura puede costar generaciones.
-
-Los Zarnag compran y reparan herramientas duras: ganchos, palas, hojas, cadenas, máscaras, abrazaderas, piezas para cremación, cierres de cuarentena. Los Ursari respetan a quienes hacen trabajo necesario sin buscar belleza. Los Zarnag respetan a quienes fabrican cosas que no fallan cuando el sitio ya está fallando. La relación suele ser directa, áspera y funcional.
-
-Los Loxod son memoria donde los Ursari son transmisión. Un Loxod puede recibir la historia química y vibratoria de una forja antigua de maneras que un Ursari encontraría inquietantes. Un Ursari puede leer la historia de una pieza por trabajo, desgaste y temple. Juntos pueden reconstruir más de lo que cualquiera de los dos podría solo. La dificultad está en que los Loxod preguntan qué carga dejó el trabajo, mientras los Ursari suelen preguntar si el trabajo quedó bien hecho.
-
-Los Formix producen una incomodidad particular. Su cuerpo hecho para función recuerda a los Ursari la parte menos cómoda de su propia cultura: la posibilidad de que el oficio devore a la persona que lo porta. Un Formix Guerrero que no quiere combatir y un aprendiz Ursari que no quiere forjar pueden entenderse sin decir mucho. También pueden ser usados por sus comunidades de formas parecidas, bajo palabras muy distintas.
-
-Los Panin son difíciles en la forja. Tocan, prueban, preguntan, se mueven demasiado cerca de piezas calientes y pueden ver una solución en un mecanismo antes de entender por qué nadie debía moverlo todavía. Los Ursari suelen expulsarlos de las zonas de trabajo delicado. Luego, a veces, descubren que el Panin notó una falla que todos los maestros habían normalizado. Para un Ursari, el talento Panin puede parecer desperdicio. Para un Panin, una vida entera en torno a una técnica puede parecer admirable y asfixiante.
-
-Los Chelicer respetan el testimonio público del honor Ursari, pero les incomoda que la verdad artesanal dependa tanto del cuerpo y del testigo humano. Los Ursari, por su parte, encuentran extraña una sociedad donde el procedimiento puede pesar más que el trabajo visible. Ambos pueblos entienden el valor de estar presente cuando algo se verifica. Discrepan sobre quién, o qué, tiene derecho a decir que la verificación terminó.
-
-Los Arakhel entienden la continuidad de otra forma. Sus nodos y cruces guardan tránsito, deuda y relación; las líneas Ursari guardan técnica, cuerpo y obra. Ambos pueblos saben que algo puede sobrevivir a una generación sin convertirse en simple historia. Pero el Arakhel tiende a preguntar qué vínculos sostienen el paso, mientras el Ursari pregunta quién enseñó la mano que hizo la pieza. Pueden colaborar bien cuando una forja depende de un cruce antiguo o cuando una obra debe viajar sin romper su deuda. También pueden irritarse profundamente: para un Ursari, demasiada verdad Arakhel parece dispersa en relaciones; para un Arakhel, demasiada verdad Ursari parece atrapada en el martillo.
-
-Los Bufoni producen tensión alrededor del sitio que responde. Un dominio Bufoni reconoce, exige protocolo y puede castigar la falta de relación correcta. Una forja honda Ursari también responde, aunque los Ursari prefieren hablar de fuego, materia y obra antes que de voluntad. El Bufoni puede ver en los druidas artesanos que entran demasiado hondo en un dominio sin admitir que están negociando con algo. El Ursari puede responder que una forja no es santuario si la obra no sale digna. Ambos saben que el lugar importa. Discrepan sobre si el lugar debe ser tratado como interlocutor, condición o deuda.
-
-Los Luphran despiertan respeto y sospecha. Su lealtad a tripulación, jarl y nave viva se parece a una línea de transmisión que se mueve. Un Ursari puede reconocer la disciplina de quienes sostienen una obra colectiva bajo presión constante. Pero los Luphran valoran exposición en combate, furia, ruta y nave; los Ursari valoran exposición en forja, umbral y obra. Ambos pueblos producen individuos que sobreviven porque soportaron más cerca algo que otros no podían tocar. Eso puede crear admiración. También puede crear competencia sobre cuál forma de exposición merece autoridad.
-
-Los Myo incomodan porque a veces nombran antes de que el taller quiera nombrar. Un presagio Myo sobre un druida, una obra o una línea puede sonar a intromisión insoportable. Sin embargo, algunas comunidades han aprendido a escuchar cuando un Myo advierte que una comunión llamada don ya empezó a parecerse demasiado a aflicción. Los Ursari suelen responder que la obra todavía no está terminada. Los Myo suelen responder que precisamente por eso queda tiempo para detenerse.
-
-Los Ursari no buscan dominar el mundo exterior. Pero el mundo exterior depende de demasiadas cosas que ellos hicieron para fingir que su trabajo es marginal.
-
-Una bisagra correcta puede sostener una puerta durante cien años. Una espada correcta puede cambiar una guerra. Una herramienta correcta puede permitir que otra especie sobreviva en un sitio donde antes solo podía morir.
-
-Los Ursari construyen para durar. Y por eso, cuando fallan, sus errores también duran.
-
-## Como Personaje Jugador
-
-Un Ursari fuera de su comunidad es un Ursari que perdió algo.
-
-La forja no es trabajo: es identidad, jerarquía, tradición, conocimiento y propósito. Un maestro sin forja no ha tomado vacaciones. Ha quedado sin el sistema que le daba forma. Un aprendiz sin maestro no está simplemente viajando. Está cargando una transmisión incompleta. Un druida lejos de su sitio profundo no está descansando del umbral. Está descubriendo si lo que sabe vino de él, del fuego o de la comunión que todavía lo sigue.
-
-Los Ursari que aparecen en el mundo abierto suelen haber perdido el sitio — una forja que se volvió inaccesible, una comunidad que se dispersó, un maestro que murió con conocimiento que no terminó de transmitir — o han salido por mandato explícito de la cadena: buscar material específico, encontrar un sitio nuevo, resolver una deuda de honor, recuperar una pieza que salió de la forja y debería volver, escoltar una obra irremplazable, verificar un rumor sobre fuego que habla en otra región o seguir fuegos fatuos que un druida juró haber visto cerca del otro mundo.
-
-En combate, el cuerpo Ursari tiene dos velocidades: quietud deliberada y movimiento completo. La transición entre las dos puede sorprender. La capacidad de agarre con las garras no es solo ofensiva: una vez que se establece contacto sostenido, el Ursari determina cuándo termina. El mordisco es de apoyo, no de apertura. Una vez que el objetivo está sujeto, la mandíbula añade consecuencias al contacto que ya existe.
-
-Su tolerancia al daño no es pasividad. Es conocimiento de cuánto puede sostener el cuerpo y seguir completando la tarea. El Ursari que sigue actuando cuando cualquier otro ya cayó no está siendo temerario. Está siendo lo que la forja le enseñó a ser.
-
-Terminar lo empezado. No soltar antes de que la pieza esté lista. No confundir dolor con límite.
-
-Esa enseñanza puede salvar al grupo. También puede matar al Ursari que la lleva demasiado lejos.
-
-Lo que un personaje Ursari porta al salir: la capacidad de evaluar materiales por tacto y trabajo, el conocimiento artesanal transmitido corporalmente, la orientación hacia las cadenas de transmisión como forma natural de organizar relaciones, la fuerza para sostener lo que otros no pueden, y la certeza física de que el calor es trabajo antes que amenaza.
-
-Lo que muchos llevan sin nombrarlo: la pregunta sobre dónde está el umbral entre conocimiento y exposición, y si el maestro del que aprendieron lo cruzó antes de que pudieran saberlo.
-
-Un personaje Ursari puede ser un aprendiz que heredó una técnica incompleta y busca a quien pueda terminar de enseñarla. Un maestro que perdió su forja y no sabe quién es sin el sonido del yunque. Un campeón que ganó una disputa de honor y descubrió que el resultado no reparó nada. Un druida joven que escucha metal demasiado pronto y teme que todos lo llamen don. Un artesano que quiere demostrar que la maestría no debería medirse por cercanía a los sitios hondos. Un exiliado que trabajó un metal que no debía tocarse. O alguien enviado a recuperar una pieza antigua porque su línea cree que ninguna obra personal verdaderamente Ursari debe morir lejos del fuego.
-
-También puede ser alguien con Fiebre de Forja que sigue produciendo trabajos excelentes y por eso nadie quiere pedirle que se detenga. Un heredero de herramientas que todavía enseñan, pero quizá ya no deberían usarse. Un forastero adoptado por una línea que aún no sabe si la transmisión lo aceptó o solo lo está usando. Un Ursari que descubrió que una obra comunal pidió demasiado cuerpo a demasiada gente y ahora quiere cerrar la forja que la sostiene.
-
-Lo que un Ursari sabe al salir: cómo reconocer trabajo verdadero, cómo sostener dolor sin convertirlo en excusa, cómo leer materiales, cómo imponerse físicamente cuando la distancia se cierra, y cómo pertenecer a una cadena más larga que su vida.
-
-Lo que muchos no saben: si pueden construir algo propio fuera de la línea que los formó, si la obra vale el costo que exige, si la exposición de los druidas es sabiduría o daño organizado, y si durar siempre es una virtud.
-
-La pregunta que muchos Ursari se llevan consigo no es qué pueden forjar, sino qué parte de ellos ya fue puesta en el fuego.
+La tragedia estructural de los Ursari es que su sistema de honor, basado en el testimonio público y la obediencia a la transmisión del maestro, recompensa a quienes más rápido se destruyen. Nadie detiene al artesano que empieza a murmurarle a las espadas, porque las espadas que forja salen perfectas. Quienes abandonan sus asentamientos y salen al mundo abierto rara vez lo hacen de vacaciones. Suelen ser aprendices cuyas líneas de transmisión se quebraron cuando sus maestros enloquecieron o murieron prematuramente por la exposición. O peor aún, son individuos que intuyeron el secreto amargo de su civilización: que la sagrada tradición que los formó funciona como una trituradora institucionalizada, diseñada para consumir la vida y la cordura de sus mejores talentos a cambio de una simple bisagra que durará cien años.
 
 ---
 
@@ -334,7 +42,7 @@ Los Ursari obtienen `+1` en **Fuerza**, **Sabiduría** y **Presencia**.
 
 ### Herencia
 
-**Precio de la Comunión** — Los Ursari reciben una penalización permanente de `−3` a todas las T.R. frente a Aflicciones. Esta penalización no proviene de un estado ni de una condición — es la huella que generaciones de forja honda, descensos druídicos y cercanía al otro mundo dejaron en una especie entrenada para soportar demasiado cerca lo que otras prefieren no oír.
+**Precio de la Comunión** — Los Ursari reciben una penalización permanente de `−3` a todas las T.R. frente a Aflicciones. Esta penalización no proviene de un estado alterado; es la huella biológica que generaciones de forja profunda, descensos druídicos y exposición incesante han dejado en una especie entrenada para soportar cerca del umbral lo que otras prefieren no tocar.
 
 ### Legado
 
@@ -342,7 +50,7 @@ Los Ursari obtienen `+1` en **Fuerza**, **Sabiduría** y **Presencia**.
 
 **La Presa del Oso** — *Activo · Ritmo 4 · Desgaste 1 · Alcance Personal · Área Criatura · Duración Permanente.*
 
-Realiza una T.A. con garras. Si impacta, resuelve T.I. de garras normalmente; el objetivo realiza T.R. de Alteraciones. Si falla, queda Atrapado según rango. Mientras el objetivo permanece Atrapado, en cada activación tuya puedes pagar Desgaste 1 para aplicar T.I. de garras sin nueva T.A. El Ursari no puede desplazarse mientras mantiene la presa. El objetivo puede intentar escapar en su activación con T.C. de Fuerza enfrentada; si supera, la presa termina. Ver técnica #108.
+Realiza una T.A. con Garras. Si impacta, resuelve T.I. de Garras normalmente; el objetivo realiza T.R. de Alteraciones. Si falla, queda Atrapado según rango. Mientras el objetivo permanece Atrapado, en cada activación tuya puedes pagar Desgaste 1 para aplicar T.I. de Garras sin nueva T.A. El Ursari no puede desplazarse mientras mantiene la presa. El objetivo puede intentar escapar en su activación con T.C. de Fuerza enfrentada; si supera, la presa termina. Ver técnica #108.
 
 | Rango | Severidad |
 | --- | --- |
@@ -354,7 +62,7 @@ Realiza una T.A. con garras. Si impacta, resuelve T.I. de garras normalmente; el
 
 ### Armas Naturales
 
-Los Ursari no tienen variantes biológicas. Todos los personajes Ursari tienen acceso a las Garras y al Mordisco desde el inicio.
+Todos los personajes Ursari tienen acceso a las Garras y al Mordisco desde el inicio.
 
 #### Garras
 *Todos los Ursari · Auxiliar*
