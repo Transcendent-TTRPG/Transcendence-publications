@@ -24,9 +24,7 @@ Ellos prefieren otra clase de verdad.
 
 La de un recinto donde el aire vuelve. La de una bóveda donde el sonido tropieza con los bordes correctos. La de una criatura que ya no puede ocultar lo que el tiempo, la sangre y la presión hicieron con ella.
 
-No son una civilización de exposición.
-
-Son una civilización de interior: de líneas vivas, de oficios repetidos, de cámaras donde el cuerpo aprende a responder, y de la convicción de que la vida solo empieza a decir algo verdadero cuando deja de poder improvisarse.
+No son una civilización de exposición. Son una civilización de interior: de líneas vivas, de oficios repetidos, de cámaras donde el cuerpo aprende a responder, y de la convicción de que la vida solo empieza a decir algo verdadero cuando deja de poder improvisarse.
 
 ## El Cuerpo
 
@@ -36,13 +34,9 @@ No son grandes ni pesados. Son humanoides medianos de postura recogida: tórax p
 
 Su anatomía no está pensada para la llanura ni para la persecución en campo abierto. Está hecha para pasarelas altas, bordes interiores, vigas, techos de cámara, corredores elevados, andamios rituales, muros con salientes mínimas y todos esos lugares donde otras especies sienten altura o incomodidad y ellos sienten información.
 
-En espacios conocidos se mueven con una seguridad que inquieta.
+En espacios conocidos se mueven con una seguridad que inquieta. En intemperie, menos.
 
-En intemperie, menos.
-
-La clave no es la vista.
-
-Los Vesper ven, por supuesto. Pero su lectura primaria del espacio no depende de la luz, sino del rebote acústico: pulsos cortos, oído fino y una memoria espacial capaz de distinguir profundidad, densidad, hueco, borde, soporte, desnivel y ruptura a partir de cómo el sonido vuelve.
+La clave no es la vista. Los Vesper ven, por supuesto. Pero su lectura primaria del espacio no depende de la luz, sino del rebote acústico: pulsos cortos, oído fino y una memoria espacial capaz de distinguir profundidad, densidad, hueco, borde, soporte, desnivel y ruptura a partir de cómo el sonido vuelve.
 
 No convierten la oscuridad en ventaja automática. Necesitan cierre. Necesitan geometría. Una bóveda les dice más que una explanada. Un túnel les habla mejor que un valle. Un corredor estrecho contiene más verdad útil que un cielo donde el sonido se pierde sin decidirse a responder.
 
@@ -58,9 +52,7 @@ No porque ignoren que la vida adopta arquitecturas extrañas. Saben mejor que ca
 
 Y aun así, para ellos, la sangre sigue siendo la mejor pista común; o mejor dicho, cualquier medio vital que haga en otro cuerpo lo que la sangre hace en el suyo. Lo bastante cercana a la vida como para transportar cambio. Lo bastante visible como para compararlo. Lo bastante íntima como para ofrendarla.
 
-La sangre no es el secreto del mundo.
-
-Es el rastro más ancho que encontraron hacia él.
+La sangre no es el secreto del mundo. Es el rastro más ancho que encontraron hacia él.
 
 ## La Cultura
 
@@ -78,9 +70,7 @@ La vida doméstica nunca está del todo afuera de eso. El niño crece al lado de
 
 La autoridad nace de la continuidad probada. No respetan primero al más brillante, sino a quien no perdió la secuencia. Al custodio capaz de distinguir entre un cambio verdadero y una respuesta forzada. Al oficiante que sabe cuándo la sangre ofrecida abre relación y cuándo solo ensucia el gesto. Al criador que no confundió deseo con signo.
 
-La gran falta Vesper no es el fracaso.
-
-Es la contaminación.
+La gran falta Vesper no es el fracaso. Es la contaminación.
 
 Mezclar líneas sin declararlo. Preservar un cuerpo sin su historia. Presentar un resultado espectacular como si fuera culminación legítima. Forzar tanto una secuencia que el cuerpo ya no responda al mundo, sino a la obsesión de la casa que lo sostuvo.
 
@@ -88,29 +78,21 @@ De ahí viene una de las lecciones más duras de su cultura: lo alto no se fabri
 
 Pueden injertar restos. Pueden saturar cuerpos. Pueden mantener abiertos procesos que debieron cerrarse. Pueden incluso producir criaturas que ya no son mortales corrientes y tampoco son otra cosa estable.
 
-Eso no los acerca necesariamente a lo que buscan.
-
-Solo les recuerda que el error también puede respirar.
+Eso no los acerca necesariamente a lo que buscan. Solo les recuerda que el error también puede respirar.
 
 Los Vesper tienen muchos nombres para esos errores que respiran. Algunos son útiles durante años. Algunos se vuelven advertencia. Algunos deben terminarse antes de que contaminen las líneas vecinas. Otros son conservados con cuidado porque incluso una ruina puede enseñar algo si se la mantiene dentro de una secuencia honesta.
 
 Pero ninguna casa Vesper seria llamaría consagrado a un cuerpo solo porque sobrevivió a una intervención terrible.
 
-Sobrevivir no basta.
-
-Lo alto exige otra cosa.
+Sobrevivir no basta. Lo alto exige otra cosa.
 
 ## Teología y Cosmología
 
-Los Vesper no empiezan por dioses.
-
-Empiezan por el pulso.
+Los Vesper no empiezan por dioses. Empiezan por el pulso.
 
 Llaman el pulso vivo del mundo a la fuerza que insiste dentro de las cosas, las mueve, las satura, las reescribe o las empuja a sostener más de lo que una forma mortal parecía capaz de contener. No la piensan como una energía neutra. La piensan como respiración honda del mundo, presión, hambre de forma, continuidad que busca volverse visible.
 
-Lo que les importa no es definirla desde lejos.
-
-Lo que les importa es dónde deja marca.
+Lo que les importa no es definirla desde lejos. Lo que les importa es dónde deja marca.
 
 Por eso organizan la vida en tres estados amplios.
 
@@ -120,43 +102,25 @@ La aberración es la vida que recibió demasiado, demasiado mal o demasiado pron
 
 El consagrado es otra cosa.
 
-Un consagrado no es una criatura buena.
+Un consagrado no es una criatura buena. No es necesariamente puro, bello, obediente ni digno de veneración fuera de la cosmología Vesper. Es un cuerpo que soportó cercanía real al pulso vivo y quedó establemente transformado. Una vida que no volvió a ser llana, pero tampoco se quebró en aberración. Una forma que resistió donde otras se torcieron.
 
-No es necesariamente puro, bello, obediente ni digno de veneración fuera de la cosmología Vesper. Es un cuerpo que soportó cercanía real al pulso vivo y quedó establemente transformado. Una vida que no volvió a ser llana, pero tampoco se quebró en aberración. Una forma que resistió donde otras se torcieron.
-
-Eso es lo que los Vesper llaman alto.
-
-No por moral.
-
-Por resistencia.
+Eso es lo que los Vesper llaman alto. No por moral: por resistencia.
 
 No todo consagrado es igual. Algunos son consagrados por derecho: seres para quienes esa cercanía pertenece al orden natural de lo que son. La casa Vesper no los hizo. Apenas puede reconocerlos, estudiarlos, temerlos o intentar aprender qué parte de su forma ya nació cerca del pulso.
 
 Otros son consagrados por destino: criaturas llevadas hacia ese estado por sangre, repetición, selección, encierro, disciplina ritual y, en los casos más peligrosos, por el uso de un vínculo verdadero.
 
-Los Vesper no dirían que crean esa condición de la nada.
-
-Dirían que guían un cuerpo hacia el destino que tal vez podía soportar.
-
-Y si no lo soporta, cae en aberración.
+Los Vesper no dirían que crean esa condición de la nada. Dirían que guían un cuerpo hacia el destino que tal vez podía soportar. Y si no lo soporta, cae en aberración.
 
 Ahí aparecen sus objetos raros. Los vestigios, para ellos, no son solo herramientas extrañas: son piezas ceremoniales que ya aprendieron un gesto correcto. Un cuenco que siempre recibió la misma ofrenda. Una hoja usada durante generaciones en el mismo corte ritual. Un bastidor que preserva porque durante demasiado tiempo se creyó que preservaba. Una campana de cámara que anuncia el mismo paso de una secuencia desde hace tantos años que el sonido ya no es solo sonido.
 
-No hacen posible el milagro.
+No hacen posible el milagro. Hacen correcta la relación.
 
-Hacen correcta la relación.
-
-Los vínculos son otra cosa.
-
-El vestigio ordena.
-
-El vínculo sostiene.
+Los vínculos son otra cosa. El vestigio ordena; el vínculo sostiene.
 
 Es el vínculo el que mantiene abierto un proceso que la carne por sí sola cerraría. El que obliga a una línea a permanecer cerca del pulso más tiempo del que debería tolerar. El que vuelve imaginable una consagración por destino. Por eso los vestigios pueden heredarse con orgullo.
 
-Los vínculos, no.
-
-Se guardan como se guarda una deuda peligrosa.
+Los vínculos, no. Se guardan como se guarda una deuda peligrosa.
 
 Los oficiantes de sangre, los guardianes de santuario y los custodios de vínculo nacen de esa cosmología. No son eruditos separados del rito. Son quienes saben cuánto puede pedirse, cuándo una línea se acerca a lo alto y cuándo ya empezó a oler a ruina, qué sangre abre, cuál corrompe y qué casa lleva demasiado tiempo llamando disciplina a una forma de devoción que ya no se atreve a nombrar.
 
@@ -176,15 +140,9 @@ La Falsa Consagración es el error más peligroso: una aberración sostenida con
 
 Y la Hambre de Prueba es la enfermedad de los empujadores de destino: la necesidad de acercar la línea un poco más, sostenerla un poco más, sangrarla un poco más, porque detenerse ahora haría insoportable todo lo que ya se perdió.
 
-El miedo sagrado Vesper no es el conocimiento prohibido.
+El miedo sagrado Vesper no es el conocimiento prohibido. Es que la consagración sea real, pero que ellos no sepan distinguirla de la aberración que aprendieron a fabricar con paciencia.
 
-Es que la consagración sea real, pero que ellos no sepan distinguirla de la aberración que aprendieron a fabricar con paciencia.
-
-O peor:
-
-que sí sepan distinguirla.
-
-Y aun así elijan mal.
+O peor: que sí sepan distinguirla. Y aun así elijan mal.
 
 ## Organización e Identidad Interna
 
@@ -194,35 +152,23 @@ Se parecen porque casi todos sus conflictos importantes nacen dentro del mismo m
 
 Las instituciones cambian de tamaño y nombre según el asentamiento, pero suelen repetirse ciertas funciones: casas de línea, archivos de sangre, recintos de lectura, santuarios de vínculo, recolectores exteriores, cuidadores de aberración y cerradores de secuencia. En un sitio pequeño todo eso puede vivir bajo una misma autoridad. En uno antiguo, compiten.
 
-La división más constante no es administrativa.
-
-Es espiritual y práctica al mismo tiempo.
+La división más constante no es administrativa. Es espiritual y práctica al mismo tiempo.
 
 Por un lado están los guardianes de continuidad, que prefieren secuencia limpia, rito limitado, registro conservado y una sospecha profunda de cualquier presión que dificulte distinguir entre revelación y compulsión. Para ellos, una casa que pierde la capacidad de cerrar una línea falsa ya no está buscando lo alto: está alimentando su propia hambre.
 
 Por el otro están los empujadores de destino, que aceptan acercar una línea un poco más, sostenerla un poco más, exigirle un poco más, si creen que la casa está frente a la posibilidad de un consagrado verdadero. Para ellos, una casa que nunca arriesga una línea nunca sabrá si estaba custodiando vida o solo administrando repetición.
 
-Sin continuidad no hay lectura.
+Sin continuidad no hay lectura. Sin riesgo no hay ascenso.
 
-Sin riesgo no hay ascenso.
-
-Esa frase aparece en muchas casas Vesper.
-
-Rara vez resuelve algo.
+Esa frase aparece en muchas casas Vesper. Rara vez resuelve algo.
 
 Entre ambos están los cerradores de secuencia, figuras respetadas y temidas. Son quienes tienen autoridad para terminar una línea cuando ya no puede producir verdad sin contaminar a las demás. No siempre matan por crueldad. A veces matan para impedir que una casa convierta su vergüenza en doctrina.
 
-Un buen cerrador sabe cuándo una línea se torció.
-
-Uno excelente sabe cuándo el deseo de salvarla está contaminando su propio juicio.
+Un buen cerrador sabe cuándo una línea se torció. Uno excelente sabe cuándo el deseo de salvarla está contaminando su propio juicio.
 
 También se distinguen los Vesper interiores de los exteriores. Los interiores crecieron en santuarios controlados, donde cada variación se compara con algo anterior. Los exteriores traen contradicción: aire malo, restos frescos, animales imposibles, líneas ajenas, agua contaminada, vínculos hallados fuera de rito y el recuerdo incómodo de que el mundo nunca coopera del todo con la forma en que una casa quiere entenderlo.
 
-Los interiores creen que el afuera degrada el método.
-
-Los exteriores sospechan que demasiadas casas, después de generaciones de encierro, ya no distinguen entre escuchar al pulso y entrenar carne para que responda como ellas esperan.
-
-Ambos tienen razón con frecuencia suficiente para odiarse sin poder separarse.
+Los interiores creen que el afuera degrada el método. Los exteriores sospechan que demasiadas casas, después de generaciones de encierro, ya no distinguen entre escuchar al pulso y entrenar carne para que responda como ellas esperan. Ambos tienen razón con frecuencia suficiente para odiarse sin poder separarse.
 
 Otra fractura aparece alrededor de los consagrados por derecho. Algunas casas sostienen que deben ser reconocidos, no estudiados como línea. Otras afirman que negar su estudio es desperdiciar la evidencia más alta. Otras, más peligrosas, creen que todo consagrado por derecho es una instrucción para fabricar consagrados por destino.
 
@@ -230,9 +176,7 @@ Nadie formula esa última idea en público sin medir primero quién está escuch
 
 ## Vida Cotidiana
 
-La vida Vesper es repetitiva, pero no vacía.
-
-Está cargada de rito.
+La vida Vesper es repetitiva, pero no vacía. Está cargada de rito.
 
 Regular humedad, oscuridad y aire no es simple mantenimiento. Alimentar una línea no es solo trabajo de corral. Tomar sangre, limpiar un bastidor, colgar un cuerpo para observación, sellar un recipiente, callar en cierta parte del día, mover una criatura de un recinto a otro sin alterar el patrón del lugar: todo eso participa de una disciplina que protege la posibilidad misma de leer.
 
@@ -252,19 +196,13 @@ Los Vesper no comen cerca de ciertos archivos. No duermen junto a cámaras de v�
 
 El duelo Vesper tiene una crueldad particular. Perder a alguien duele. Pero perderlo sin poder preservar lo que su cuerpo sabía de una línea duele de otro modo. Un custodio muerto puede llevarse años de lectura que ningún registro capturó. Un oficiante que muere antes de transmitir el ritmo correcto de un rito deja detrás una secuencia vulnerable. Un recolector exterior que no regresa puede convertir en rumor una prueba que habría salvado o condenado una casa entera.
 
-Lo que más temen perder no es solamente una vida.
-
-Es la secuencia que hacía que esa vida significara algo.
+Lo que más temen perder no es solamente una vida. Es la secuencia que hacía que esa vida significara algo.
 
 Las aberraciones no siempre se destruyen. Algunas se cuidan. Algunas se estudian. Algunas se mantienen en recintos terminales, no porque sean queridas en sentido simple ni porque la casa las venere abiertamente, sino porque abandonar una aberración también sería perder una parte de la pregunta que la produjo.
 
 Los cuidadores de aberración viven en una tensión que otros Vesper no siempre soportan mirar. Saben cuáles cuerpos ya no ascenderán. Saben cuáles nombres no deberían repetirse en generaciones futuras. Saben cuáles criaturas todavía responden a una voz, a una luz, a una sangre concreta. No todos los cuidadores siguen llamando monstruo a lo que alimentan.
 
-Envejecer bien entre los Vesper no es acumular respuestas.
-
-Es conservar la capacidad de decir: esto no era alto.
-
-Y cerrar la cámara.
+Envejecer bien entre los Vesper no es acumular respuestas. Es conservar la capacidad de decir: esto no era alto. Y cerrar la cámara.
 
 ## Relaciones con el Mundo
 
@@ -328,9 +266,7 @@ Lo que un Vesper sabe al salir es cómo distinguir paciencia de podredumbre, con
 
 Lo que muchos no saben es algo peor:
 
-si sus mayores todavía están leyendo el pulso vivo del mundo,
-
-o si hace tiempo aprendieron a enseñarle qué forma tomar.
+si sus mayores todavía están leyendo el pulso vivo del mundo, o si hace tiempo aprendieron a enseñarle qué forma tomar.
 
 ---
 
