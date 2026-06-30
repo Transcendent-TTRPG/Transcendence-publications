@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, interrupcion, attack, reactive, zarnag, spoil, quarantine]
+tags: [techniques, interrupcion, attack, reactive, zarnag, spoil, quarantine, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,11 +38,12 @@ related:
 ## Keywords
 
 - `Interrupción`
+- `No Hereda Efectos`
 
 ## Efecto
 
 Cuando un enemigo realiza una T.E. o una T.A. que normalmente contestarías con T.D., T.E. o T.R., puedes sustituir esa tirada por una T.A. con tu perfil de `Interrupción`.
 
-Si tu T.A. iguala o supera la tirada del enemigo, su acción no se resuelve y resuelve la T.I. con normalidad.
+Si tu T.A. iguala o supera la tirada del enemigo, su acción no se resuelve y resuelves el impacto. 
 
 Si tu T.A. es menor, la acción del enemigo se resuelve con normalidad.

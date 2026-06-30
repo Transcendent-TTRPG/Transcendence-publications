@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, intercepcion, reactive, defense, sauri, interception, escort]
+tags: [techniques, intercepcion, reactive, defense, sauri, interception, escort, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Intercepción`
+- `Hereda Efectos`
 
 ## Efecto
 
@@ -45,7 +46,7 @@ Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti o con
 
 Realiza `T.A.` contra el atacante y compárala con su `T.A.`:
 
-- **Si tu `T.A.` es igual o superior:** el ataque no alcanza al objetivo protegido, resuelves tu daño normalmente contra el atacante, y cualquier efecto secundario del ataque desencadenante no afecta al objetivo protegido salvo que una regla específica indique lo contrario.
+- **Si tu `T.A.` es igual o superior:** el ataque no alcanza al objetivo protegido, resuelves la `T.I.` normalmente contra el atacante.  Cualquier efecto secundario del ataque desencadenante no afecta al objetivo protegido salvo que una regla específica indique lo contrario.
 
 - **Si tu `T.A.` es inferior:** el ataque resuelve contra el objetivo protegido como si su `T.D.` hubiera fallado. El objetivo no realiza una `T.D.` separada contra ese ataque.
 

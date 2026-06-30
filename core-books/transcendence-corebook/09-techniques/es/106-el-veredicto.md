@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, innate, species, chelicer, reactive, attack, venom, ritmo, aguijón]
+tags: [techniques, innate, species, chelicer, reactive, attack, venom, ritmo, aguijón, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -41,7 +41,8 @@ related:
 - `Chelicer`
 - `Veneno`
 - `Ritmo`
+- `No Hereda Efectos`
 
 ## Efecto
 
-Cuando eres atacado, puedes declarar El Veredicto como reacción en lugar de defender. No realizas tirada de defensa; recibes el daño completo. Al recibir el impacto, el Aguijón hace contacto con el atacante de forma automática, resolviendo T.I. normalmente. El atacante realiza T.R. de Veneno. Si falla, su Ritmo aumenta permanentemente en 1 por cada cuatro NR del Chelicer (mínimo 1). Este efecto permanece hasta que el Veneno sea tratado.
+Cuando eres atacado, puedes declarar El Veredicto como reacción en lugar de defender. No realizas tirada de defensa; recibes el daño completo. Al recibir el impacto, el Aguijón hace contacto con el atacante de forma automática, resolviendo el impacto.  El atacante realiza T.R. de Veneno. Si falla, su Ritmo aumenta permanentemente en 1 por cada cuatro NR del Chelicer (mínimo 1). Este efecto permanece hasta que el Veneno sea tratado.

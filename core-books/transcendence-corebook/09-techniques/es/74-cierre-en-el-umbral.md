@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, intercepcion, defense, reactive, drakkai, impedido, alteracion]
+tags: [techniques, intercepcion, defense, reactive, drakkai, impedido, alteracion, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,12 +39,13 @@ related:
 
 - `Intercepción`
 - `Impedido`
+- `No Hereda Efectos`
 
 ## Efecto
 
 Cuando un enemigo dentro de tu alcance de arma realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de `Intercepción` contra el atacante. Esta tirada reemplaza tu T.D. contra ese ataque.
 
-Si tu T.A. es igual o mayor que la del atacante, el ataque falla. El atacante realiza una T.R. (Alteraciones): si falla, queda `Impedido` a la severidad determinada por tu rango de competencia.
+Si tu T.A. es igual o mayor que la del atacante, el ataque falla.  El atacante realiza una T.R. (Alteraciones): si falla, queda `Impedido` a la severidad determinada por tu rango de competencia.
 
 Si tu T.A. es menor que la del atacante, la intercepción falla y el ataque resuelve como si tu T.D. hubiera fallado.
 

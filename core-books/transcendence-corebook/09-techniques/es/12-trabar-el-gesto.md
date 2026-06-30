@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, flexible-weapons, reactive, attack, naghii, interruption, counter]
+tags: [techniques, flexible-weapons, reactive, attack, naghii, interruption, counter, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -29,7 +29,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `T.R. (Alteraciones)` | `T.I.` | `6` | `2` |
+| `T.R. (Alteraciones)` | `T.I.` | `5` | `2` |
 
 ## Requisitos
 
@@ -39,12 +39,13 @@ related:
 ## Keywords
 
 - `Interrupción`
+- `Hereda Efectos`
 
 ## Efecto
 
 Sustituye tu `T.D.` normal por una `T.A.` contra el atacante.
 
-Si tu `T.A.` supera la del atacante, no recibes daño del ataque y resuelves `T.I.` normalmente contra el atacante. El atacante realiza entonces una `T.R.` de Resistencia a las Alteraciones. La severidad se determina según tu rango:
+Si tu `T.A.` supera la del atacante, no recibes daño del ataque y resuelves la `T.I.` normalmente contra el atacante.  El atacante realiza entonces una `T.R.` de Resistencia a las Alteraciones. La severidad se determina según tu rango:
 
 - Rangos 1-2: Menor
 - Rangos 3-4: Moderado

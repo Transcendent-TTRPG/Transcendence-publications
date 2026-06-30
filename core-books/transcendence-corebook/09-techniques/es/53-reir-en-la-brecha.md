@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, acecho, attack, active, zarnag, disruption, close_pressure]
+tags: [techniques, acecho, attack, active, zarnag, disruption, close_pressure, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Acecho`
+- `No Hereda Efectos`
 
 ## Efecto
 

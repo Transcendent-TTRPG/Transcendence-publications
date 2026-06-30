@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, desvio, attack, reactive, drakkai, natural_weapon, seguimiento]
+tags: [techniques, desvio, attack, reactive, drakkai, natural_weapon, seguimiento, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,11 +39,12 @@ related:
 ## Keywords
 
 - `Desvío`
+- `No Hereda Efectos`
 
 ## Efecto
 
 Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de `Desvío` contra el atacante. Esta tirada reemplaza tu T.D. contra ese ataque. Compara tu T.A. con la T.A. del atacante.
 
-Si tu T.A. es igual o mayor que la del atacante, el ataque falla y resuelves tu T.I. normalmente. Puedes realizar de inmediato una T.A. adicional con una arma natural distinta a la usada en el desvío, con un bonificador a la T.A. igual al valor de tu rango de competencia.
+Si tu T.A. es igual o mayor que la del atacante, el ataque falla y resuelves tu impacto.  Puedes realizar de inmediato una T.A. adicional con una arma natural distinta a la usada en el desvío, con un bonificador a la T.A. igual al valor de tu rango de competencia.
 
 Si tu T.A. es menor que la del atacante, la deflexión falla y el ataque resuelve como si tu T.D. hubiera fallado.

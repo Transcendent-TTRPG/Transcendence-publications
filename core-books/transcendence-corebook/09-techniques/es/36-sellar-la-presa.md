@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, bastion, active, attack, sauri, derribado, knockdown]
+tags: [techniques, bastion, active, attack, sauri, derribado, knockdown, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Bastión`
+- `Hereda Efectos`
 
 ## Efecto
 

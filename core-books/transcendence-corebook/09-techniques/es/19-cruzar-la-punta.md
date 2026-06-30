@@ -48,4 +48,4 @@ Realiza tu T.D. con `Evasión` contra el ataque desencadenante.
 
 Si la T.D. falla, el ataque se resuelve normalmente.
 
-Si la T.D. tiene éxito, avanza hasta 2 metros hacia el atacante en el momento en que el golpe llega.
+Si la T.D. tiene éxito, avanza hasta una cantidad de metros igual a tu **Rango de competencia + 1** hacia el atacante en el momento en que el golpe llega.

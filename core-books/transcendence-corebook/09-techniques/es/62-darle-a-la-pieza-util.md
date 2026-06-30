@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, precisión, attack, active, zarnag, ranged, attack-impair]
+tags: [techniques, precisión, attack, active, zarnag, ranged, attack-impair, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Precisión`
+- `No Hereda Efectos`
 
 ## Efecto
 
@@ -48,4 +49,4 @@ Realiza una T.A. con tu perfil de `Precisión` contra el objetivo. Si el ataque 
 
 Este efecto es permanente hasta que la ficción lo resuelva: tratar la herida, inmovilizar la parte, o recuperarse de un modo que atienda específicamente esa zona.
 
-Esta técnica no inutiliza la parte por completo, solo impone la penalización. 
+Esta técnica no inutiliza la parte por completo, solo impone la penalización.

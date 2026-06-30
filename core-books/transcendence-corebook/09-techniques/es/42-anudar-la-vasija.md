@@ -43,6 +43,6 @@ related:
 
 Realiza `T.E. (Medicina)`. Si fallas, no ocurre nada.
 
-Con éxito, aplica Estabilizar a una de las heridas del objetivo. Los agravios y penalizaciones causados por esa herida terminan. Si el objetivo estaba en Agonía, ese estado se retira.
+Con éxito, aplica Estabilizar a una herida **no estabilizada** del objetivo. Los agravios y penalizaciones causados por esa herida terminan y, si el objetivo estaba en Agonía, ese estado se retira. Al estabilizar la herida de esta forma, el objetivo recupera una cantidad de Desgaste igual a tu Rango de competencia en Medicina.
 
 Las ranuras de herida permanecen ocupadas.

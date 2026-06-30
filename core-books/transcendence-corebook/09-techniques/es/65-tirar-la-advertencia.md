@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| 12m | Tú | Instantáneo | T.E. (Lanzamiento) |
+| Variable | Tú | Instantáneo | T.E. (Lanzamiento) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ related:
 
 ## Efecto
 
-Declara un punto exacto dentro de 12m al que vayas a comprometerte: un borde de paso, inicio de descenso, cruce, salto u otro punto de ruta delimitado.
+Declara un punto exacto dentro de un radio de metros igual a **10 + (tu Rango de competencia × 2)** al que vayas a comprometerte: un borde de paso, inicio de descenso, cruce, salto u otro punto de ruta delimitado.
 
 Realiza una T.E. (Lanzamiento) contra un umbral determinado por la distancia, la visibilidad y la presión de la escena.
 

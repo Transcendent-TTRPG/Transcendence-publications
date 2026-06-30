@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, spear, active, attack, naghii, perforation]
+tags: [techniques, spear, active, attack, naghii, perforation, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,7 +38,8 @@ related:
 ## Keywords
 
 - `Perforación`
+- `Hereda Efectos`
 
 ## Efecto
 
-Avanza hasta `2` metros hacia el objetivo como parte de esta acción, sin gastar una acción de movimiento separada, y luego realiza una `T.A.` desde tu nueva posición. Si aciertas, resuelves `T.I.` normalmente.
+Avanza hasta una cantidad de metros igual a tu **Rango de competencia + 1** hacia el objetivo como parte de esta acción, sin gastar una acción de movimiento separada, y luego realiza una `T.A.` desde tu nueva posición. Si aciertas, resuelves `T.I.` normalmente.

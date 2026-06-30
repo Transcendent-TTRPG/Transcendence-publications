@@ -48,7 +48,7 @@ Los Lapinni obtienen `+1` en **Agilidad**, **Sabiduría** y **Aura**.
 
 **Familiaridad del Umbral** — Cuando actúan bajo Condiciones Ambientales de origen Natural ligadas a la reducción de visibilidad (oscuridad parcial, niebla, humo) o inestabilidad climática (vientos, tormentas), los Lapinni tratan la Severidad del entorno como un grado menor al calcular el Umbral de Dificultad general para sus acciones (ej. una condición Severa cuenta como Moderada). Además, el Narrador no puede aplicarles la herramienta narrativa *Acelerar* (+1 costo de desgaste) a causa de estas condiciones ambientales.
 
-**Aceleración del Caos** — *Reacción · Utilidad · Ritmo 0 · Desgaste 2 · Gatillo: Recibir Daño (El impacto supera el Umbral de Herida).* 
+**Aceleración del Caos** — *Reacción · Utilidad · Ritmo 0 · Desgaste 2 · Requisito: Al recibir una herida.* 
 Cuando tu cuerpo sufre trauma físico, tu sistema nervioso te fuerza a una transición inmediata. Al activar esta técnica como reacción, eliges una de las siguientes opciones:
 - Retrocedes tu ficha en el ATB hasta 1 casilla por cada cuatro niveles de referencia.
 - Realizas un movimiento inmediato de hasta 1 metro por cada cuatro niveles de referencia, ignorando terreno difícil y sin provocar reacciones de los enemigos de los que te alejas.

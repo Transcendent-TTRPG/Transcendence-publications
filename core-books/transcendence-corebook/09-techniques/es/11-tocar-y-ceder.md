@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, flexible-weapons, active, attack, naghii, skirmish, mobility]
+tags: [techniques, flexible-weapons, active, attack, naghii, skirmish, mobility, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,11 +38,14 @@ related:
 ## Keywords
 
 - `Hostigamiento`
+- `Hereda Efectos`
 
 ## Efecto
 
-Como parte de esta acción, puedes avanzar hasta `1` metro hacia el objetivo, sin gastar una acción de movimiento separada. Después realiza una `T.A.`.
+Como parte de esta acción, obtienes una cantidad de movimiento igual a tu **Rango de competencia + 1**. Puedes distribuir este movimiento libremente en dos momentos: antes del ataque y después de resolver el ataque.
 
-Si aciertas, resuelves `T.I.` normalmente y puedes reposicionarte hasta `1` metro a una posición legal. Este reposicionamiento forma parte de la técnica y no genera reacciones por abandonar el rango del objetivo.
+Realiza una `T.A.`.
 
-Si fallas, no puedes realizar el reposicionamiento de esta técnica.
+Si aciertas, resuelves `T.I.` normalmente y puedes utilizar cualquier porción de tu movimiento restante para reposicionarte a una posición legal. Este movimiento no genera reacciones por abandonar el rango del objetivo.
+
+Si fallas, el ataque se pierde y no puedes usar el movimiento restante de la técnica.

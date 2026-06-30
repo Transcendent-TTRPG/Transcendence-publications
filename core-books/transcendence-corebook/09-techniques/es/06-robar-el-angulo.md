@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, flexible-weapons, active, attack, naghii, unpredictability]
+tags: [techniques, flexible-weapons, active, utility, naghii, unpredictability, desequilibrado]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -17,7 +17,7 @@ related:
 
 # Robar el Ángulo
 
-### Activo - Ataque
+### Activo - Utilidad
 
 **Rango Novato**
 
@@ -38,15 +38,18 @@ related:
 ## Keywords
 
 - `Impredecible`
+- `Desequilibrado`
 
 ## Efecto
 
-Realiza una `T.A.` contra un objetivo.
+Realiza una `T.A.` (Ataque) enfrentada a la `T.E. (Intuición)` del objetivo.
 
-Si fallas, no realizas el desplazamiento ni robas el ángulo.
+Si fallas, la técnica no tiene efecto.
 
-Si tienes éxito, puedes desplazarte hasta `1` metro alrededor del objetivo, dentro del alcance de tu arma, sin provocar reacciones de ese objetivo.
+Si tienes éxito, puedes desplazarte hasta la mitad de tu Velocidad de Movimiento sin provocar reacciones de ese objetivo. Además, al "robar su ángulo", el objetivo debe realizar una `T.R. (Alteraciones)`. Si falla, queda `Desequilibrado` a la severidad que corresponda a tu rango de competencia:
 
-Si al terminar ese desplazamiento quedas en una posición que obligue al objetivo a reorientarse claramente para encararte, le robas el ángulo.
-
-Mientras el objetivo no se reoriente hacia ti, no cambie de zona o no altere la relación espacial entre ambos de modo que recupere claramente esa línea, sus acciones dirigidas contra ti sufren una penalización igual a tu bonificador de rango con el arma usada.
+| Rango | Severidad |
+| --- | --- |
+| 1–2 | Leve |
+| 3–4 | Moderado |
+| 5–6 | Grave |

@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, interrupcion, attack, reactive, drakkai, desequilibrado, alteracion]
+tags: [techniques, interrupcion, attack, reactive, drakkai, desequilibrado, alteracion, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,6 +39,7 @@ related:
 
 - `Interrupción`
 - `Desequilibrado`
+- `Hereda Efectos`
 
 ## Efecto
 

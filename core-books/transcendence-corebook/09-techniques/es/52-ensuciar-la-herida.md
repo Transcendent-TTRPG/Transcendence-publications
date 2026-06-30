@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, corrosion, attack, active, zarnag, treatment_denial, foul_contact]
+tags: [techniques, corrosion, attack, active, zarnag, treatment_denial, foul_contact, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Corrosión`
+- `No Hereda Efectos`
 
 ## Efecto
 

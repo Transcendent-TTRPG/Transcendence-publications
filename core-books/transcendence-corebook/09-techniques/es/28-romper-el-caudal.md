@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, escudo, defense, interruption, counter, sauri]
+tags: [techniques, escudo, defense, interruption, counter, sauri, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Interrupción`
+- `Hereda Efectos`
 
 ## Efecto
 

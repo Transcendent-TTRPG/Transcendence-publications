@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, spear, active, attack, naghii, perforation]
+tags: [techniques, spear, active, attack, naghii, perforation, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,7 +38,8 @@ related:
 ## Keywords
 
 - `Perforación`
+- `Hereda Efectos`
 
 ## Efecto
 
-Realiza una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes reposicionarte `1` metro para recuperar la distancia óptima de tu arma. Ese reposicionamiento no genera reacciones adicionales.
+Realiza una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes reposicionarte hasta una cantidad de metros igual a tu **Rango de competencia + 1** para recuperar la distancia óptima de tu arma. Ese reposicionamiento no genera reacciones adicionales.

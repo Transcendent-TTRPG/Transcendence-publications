@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, desgarro, active, attack, sauri, lacerado, wound_pressure]
+tags: [techniques, desgarro, active, attack, sauri, lacerado, wound_pressure, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Desgarro`
+- `Hereda Efectos`
 
 ## Efecto
 

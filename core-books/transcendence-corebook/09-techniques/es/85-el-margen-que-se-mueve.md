@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, line_control, attack, active, drakkai, shield, repositioning, forced_movement]
+tags: [techniques, line_control, attack, active, drakkai, shield, repositioning, forced_movement, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Control de Línea`
+- `No Hereda Efectos`
 
 ## Efecto
 

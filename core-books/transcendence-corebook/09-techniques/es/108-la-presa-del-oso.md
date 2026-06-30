@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, innate, species, ursari, active, attack, atrapado, garras, grapple, permanent]
+tags: [techniques, innate, species, ursari, active, attack, atrapado, garras, grapple, permanent, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -41,10 +41,11 @@ related:
 - `Ursari`
 - `Garras`
 - `Atrapado`
+- `No Hereda Efectos`
 
 ## Efecto
 
-Realiza una T.A. con garras contra un objetivo dentro de tu alcance. Si impacta, resuelve T.I. normalmente. El objetivo realiza una T.R. (Alteraciones). Si falla, queda Atrapado a la severidad que corresponda a tu rango.
+Realiza una T.A. con garras contra un objetivo dentro de tu alcance. Si impacta, resuelves el impacto.  El objetivo realiza una T.R. (Alteraciones). Si falla, queda Atrapado a la severidad que corresponda a tu rango.
 
 | Rango | Severidad |
 | --- | --- |
@@ -52,6 +53,6 @@ Realiza una T.A. con garras contra un objetivo dentro de tu alcance. Si impacta,
 | 3–4 | Moderado |
 | 5–6 | Grave |
 
-Mientras el objetivo permanece Atrapado, en cada una de tus activaciones puedes pagar 1 Desgaste adicional para aplicar T.I. de garras sin una nueva T.A. No puedes moverte mientras mantienes el agarre.
+Mientras el objetivo permanece Atrapado, en cada una de tus activaciones puedes pagar 1 Desgaste adicional para aplicar impacto de garras sin una nueva T.A. No puedes moverte mientras mantienes el agarre.
 
 El objetivo puede intentar liberarse durante su activación contra tu T.C. (Fuerza). Si tiene éxito, el efecto termina. Si fallas voluntariamente esta tirada o decides soltar, el efecto también termina.

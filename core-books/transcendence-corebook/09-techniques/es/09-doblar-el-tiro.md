@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, ranged-weapons, active, attack, naghii, ricochet, geometry]
+tags: [techniques, ranged-weapons, active, attack, naghii, ricochet, geometry, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,10 +39,11 @@ related:
 ## Keywords
 
 - `Desvío`
+- `Hereda Efectos`
 
 ## Efecto
 
-Declara una sola superficie de rebote o desvío y realiza una `T.A.` a través de esa línea indirecta. Si aciertas, resuelves `T.I.` normalmente.
+Declara una cantidad de superficies de rebote o desvío hasta un máximo de la **mitad de tu Rango de competencia** (redondeado hacia arriba) y realiza una `T.A.` a través de esa línea indirecta. Si aciertas, resuelves `T.I.` normalmente.
 
 El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada lo bordea.
 

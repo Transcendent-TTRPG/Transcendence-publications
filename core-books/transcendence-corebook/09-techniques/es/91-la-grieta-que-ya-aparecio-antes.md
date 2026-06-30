@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, historia, specialization, utility, active, drakkai, precedent, failure-point, scaling]
+tags: [techniques, historia, specialization, utility, active, drakkai, precedent, failure-point, scaling, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Historia`
+- `No Hereda Efectos`
 
 ## Efecto
 

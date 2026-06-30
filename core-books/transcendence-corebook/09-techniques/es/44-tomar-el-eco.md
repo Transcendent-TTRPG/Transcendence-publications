@@ -50,7 +50,7 @@ Elige una superficie, objeto o lugar dentro de 10m. Realiza una T.E. con `Resona
 
 Si la fuente suprime activamente su señal, el Narrador puede solicitar una tirada opuesta.
 
-Con éxito, elige uno:
+Con éxito, elige una cantidad de lecturas de la siguiente lista igual a tu **Rango de competencia** (mínimo 1):
 
 - **Posición:** si la fuente está oculta o posicionalmente incierta, detectas su posición exacta en ese momento.
 

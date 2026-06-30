@@ -41,7 +41,7 @@ related:
 
 ## Efecto
 
-Realiza una T.E. (Rastreo). Con éxito, el Narrador declara una de las siguientes lecturas de este espacio:
+Realiza una T.E. (Rastreo). Con éxito, el Narrador declara una cantidad de lecturas de este espacio de la siguiente lista igual a tu **Rango de competencia** (mínimo 1):
 
 | | |
 | --- | --- |

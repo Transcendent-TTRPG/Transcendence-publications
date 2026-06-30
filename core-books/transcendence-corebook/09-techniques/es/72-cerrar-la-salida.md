@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, fluidez, attack, active, zarnag, exit_pressure, close_sequence, lacerado]
+tags: [techniques, fluidez, attack, active, zarnag, exit_pressure, close_sequence, lacerado, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -40,6 +40,7 @@ related:
 
 - `Fluidez`
 - `Lacerado`
+- `No Hereda Efectos`
 
 ## Efecto
 
@@ -47,11 +48,11 @@ Realiza una T.A. con tu perfil de `Fluidez`.
 
 Si el ataque no impacta, la secuencia termina.
 
-Si impacta, resuelve la T.I. normalmente. Realiza de inmediato una segunda T.A. contra el mismo objetivo sin coste adicional de Ritmo.
+Si impacta, resuelves el impacto. Realiza de inmediato una segunda T.A. contra el mismo objetivo sin coste adicional de Ritmo. 
 
 Si la segunda T.A. no impacta, nada ocurre más allá de su resolución normal.
 
-Si ambos ataques impactan, resuelve la T.I. para cada uno normalmente. El objetivo debe realizar una T.R. (Alteraciones) contra `Lacerado`. Si falla, queda `Lacerado` a la severidad determinada por tu rango de competencia:
+Si ambos ataques impactan, resuelves el impacto para cada uno. El objetivo debe realizar una T.R. (Alteraciones) contra `Lacerado`. Si falla, queda `Lacerado` a la severidad determinada por tu rango de competencia:
 
 | Rango | Severidad |
 | --- | --- |

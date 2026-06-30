@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, ruptura, attack, active, drakkai, armor_fault, mace]
+tags: [techniques, ruptura, attack, active, drakkai, armor_fault, mace, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -40,6 +40,7 @@ related:
 ## Keywords
 
 - `Ruptura`
+- `Hereda Efectos`
 
 ## Efecto
 
@@ -48,3 +49,4 @@ Declara una zona de armadura en el objetivo. Realiza una T.A. con tu perfil de `
 Además, la armadura en esa zona queda estructuralmente fallada: su contribución de Bloqueo en esa zona se reduce en un valor igual a tu rango de competencia en el arma usada por el resto del encuentro.
 
 Si el objetivo no lleva armadura en la zona declarada, la técnica no puede ser usada contra esa zona.
+

@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, volley, attack, reactive, zarnag, movement_pressure, skirmisher]
+tags: [techniques, volley, attack, reactive, zarnag, movement_pressure, skirmisher, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -40,12 +40,13 @@ related:
 ## Keywords
 
 - `Volley`
+- `No Hereda Efectos`
 
 ## Efecto
 
 Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.A. con tu perfil de `Volley`, consumiendo 2 armas arrojadizas.
 
-Por cada ataque que impacte, resuelve la T.I. normalmente.
+Por cada ataque que impacte, resuelves el impacto. 
 
 Si al menos un ataque impacta, la distancia restante de ese movimiento desencadenante se reduce en 1m por rango de la competencia usada para esta técnica:
 

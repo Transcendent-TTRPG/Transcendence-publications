@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, ruptura, attack, active, zarnag, sunder, break, anti-protection]
+tags: [techniques, ruptura, attack, active, zarnag, sunder, break, anti-protection, no-hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,9 +38,10 @@ related:
 ## Keywords
 
 - `Ruptura`
+- `No Hereda Efectos`
 
 ## Efecto
 
 Antes de realizar la tirada, declara una estructura rompible que tu ataque pueda alcanzar: un escudo, pieza de armadura u otra estructura dura local que esté protegiendo, apantallando o estabilizando al objetivo en ese momento.
 
-Realiza una T.A. con tu perfil de `Ruptura` contra esa estructura. Si el ataque conecta, se genera un intento de quiebra válido contra la estructura declarada sin necesidad de Impacto Crítico. Resuelve la quiebra con las reglas normales de Durabilidad y Potencia.
+Realiza una T.A. con tu perfil de `Ruptura` contra esa estructura. Si el ataque conecta, se genera un intento de quiebra válido contra la estructura declarada sin necesidad de Impacto Crítico. Resuelve la quiebra con las reglas normales, pero sumando tu **Rango de competencia** a la Potencia Base del arma antes de calcular el daño a la Durabilidad.

@@ -41,4 +41,4 @@ related:
 
 ## Efecto
 
-Tu Aguante aumenta de forma permanente en un valor igual a tu rango en Meditación. Recalcula los umbrales de Fatiga con este nuevo valor. 
+Tu Aguante aumenta de forma permanente en un valor igual a tu rango en Meditación. Recalcula los umbrales de Fatiga con este nuevo valor.
