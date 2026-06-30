@@ -17,7 +17,7 @@ related:
 
 # El Marco Antes Del Paso
 
-### Activo - Utilidad
+### Reacción - Utilidad
 
 **Rango Novato**
 
@@ -25,16 +25,16 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Sensorial | 1 Objetivo | Instantáneo | T.E. (Identificación) |
+| Tú | — | Instantáneo | T.R. (Aflicciones) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `2` | `1` |
+| — | — | `0` | `1` |
 
 ## Requisitos
 
 - Competencia: `Identificación` (Rango Novato o superior)
-- Debes poder observar el objetivo
+- Tocar físicamente un objeto y que este exija una T.R. inicial de Aflicciones (debido a ser un Vestigio o Vínculo).
 
 ## Keywords
 
@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Realiza T.E. (Identificación). Si fallas, el marco no se aclara. Si tienes éxito, el Narrador confirma a qué categoría pertenece el objetivo: objeto común, equipo, `vestigio`, `vínculo`, fenómeno natural, fenómeno taumático, criatura mortal, anomalía, o primordial.
+La determinación parte del reconocimiento de patrones físicos y de comportamiento acumulados en el entorno (desgaste antinatural, reacciones previas, contexto del lugar). Aunque no puedes "ver" el Tauma desde lejos, lees el marco del objeto antes de tocarlo.
 
-Esto no revela qué entidad estuvo o está presente, ni las propiedades específicas del objetivo más allá de su categoría.
+Cuando interactúas con un objeto mundano, no sucede nada. Sin embargo, al tocar un objeto por primera vez que resulta ser un `Vestigio` o `Vínculo` y te exige una T.R. de Aflicciones por el impacto inicial de exposición al Tauma, activas esta técnica como reacción. 
 
-La determinación parte del reconocimiento de patrones físicos y de comportamiento acumulados — no de la percepción directa del Tauma. Un `vestigio` o `vínculo` puede identificarse como tal sin que el personaje pueda ver ni sentir el Tauma que lo define.
+Pagas el coste de Desgaste y sumas tu Rango de competencia en `Identificación` como bonificador a esa T.R. de Aflicciones específica. Tu mente estaba encuadrada empíricamente para el horror, mitigando el impacto del descubrimiento anómalo.

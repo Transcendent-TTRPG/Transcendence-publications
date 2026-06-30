@@ -17,7 +17,7 @@ related:
 
 # Romper el Caudal
 
-### Reactivo - Utilidad
+### Reactivo - Ataque
 
 **Rango Novato**
 
@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Alcance de Arma | 1 enemigo | Instantáneo | T.D. |
+| Alcance de Arma | 1 Criatura | Instantáneo | T.D. |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

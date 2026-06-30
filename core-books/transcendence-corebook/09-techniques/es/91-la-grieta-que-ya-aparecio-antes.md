@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Sensorial | 1 Objetivo | Permanente | T.E. (Historia) |
+| Rango Sensorial | 1 Criatura | Permanente | T.E. (Historia) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -39,7 +39,6 @@ related:
 ## Keywords
 
 - `Historia`
-- `No Hereda Efectos`
 
 ## Efecto
 

@@ -26,7 +26,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Criatura | Permanente | — |
+| Personal | 1 Criatura | Permanente | — |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

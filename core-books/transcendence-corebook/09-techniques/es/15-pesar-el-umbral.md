@@ -25,11 +25,11 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Velocidad de Movimiento | 1 criatura | Instantáneo | T.E. (Sigilo) |
+| Velocidad de Movimiento | 1 Criatura | Instantáneo | T.E. (Sigilo) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| R.R. (Alt.) | — | `4` | `1` |
+| T.R. (Alteraciones.) | — | `4` | `1` |
 
 ## Requisitos
 
@@ -44,16 +44,16 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Sigilo)` desde tu posición oculta contra una criatura a 4 metros o menos. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `R.R. (Alt.)` contra `Aterrorizado`.
+Realiza `T.E. (Sigilo)` desde tu posición oculta contra una criatura a 4 metros o menos. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `T.R. (Alteraciones)` contra `Aterrorizado`.
 
 **Severidad por tu rango de `Sigilo`:**
 
 | Rango | Severidad |
 | --- | --- |
-| Novato — Aprendiz | Menor |
-| Experto — Veterano | Moderada |
-| Maestro — Consumado — Transcendente | Severa |
+| 1-2 | Leve |
+| 3-4 | Moderada |
+| 5-6 | Grave |
 
-Si la `R.R.` falla, el objetivo gana `Aterrorizado` a esa severidad. Si tiene éxito, el miedo no se asienta.
+Si la `T.R.` falla, el objetivo gana `Aterrorizado` a esa severidad. Si tiene éxito, el miedo no se asienta.
 
 Esta técnica no funciona si el objetivo no tiene instinto de autopreservación relevante, ni en campo abierto donde estás completamente expuesto y visible.

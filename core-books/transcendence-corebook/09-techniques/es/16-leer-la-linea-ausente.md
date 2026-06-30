@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Sensorial | 1 patrón o escena | Instantáneo | T.E. (Interpretación) |
+| Tú | Rango Sensorial | Instantáneo | T.E. (Interpretación) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -46,3 +46,5 @@ Realiza `T.E. (Interpretación)` sobre un patrón sospechoso. Si fallas, no se r
 
 La lectura te dice qué tipo de ausencia importa y qué conclusión inmediata es insegura. No revela el contenido completo de lo que falta, no nombra al responsable, no reconstruye el evento completo, y no prueba intención por sí sola.
 **Si la evidencia fue manipulada deliberadamente:** Si otra criatura falsificó, montó u ocultó la ausencia, resuelve contra su método de enmascaramiento. Un éxito en ese caso revela que la evidencia no es confiable, pero no proporciona la categoría de ausencia limpia.
+
+Mientras interactúes con la ausencia revelada, obtienes un bonificador igual a tu Rango de Competencia a cualquier T.A. (Tirada de Ataque), T.C. (Tirada de Característica), T.R. (Tirada de Resistencia) o T.E. (Tirada de Especialización) que realices para explotar ese fallo específico o evitar la trampa o emboscada oculta en el patrón.
