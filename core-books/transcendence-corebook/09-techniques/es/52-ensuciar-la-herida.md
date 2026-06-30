@@ -21,7 +21,7 @@ related:
 
 **Rango Novato**
 
-*No es solo la herida. Es lo que queda en ella.*
+*Un corte limpio se cierra fácil; uno rasgado y retorcido es una pesadilla médica.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
@@ -29,20 +29,21 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| T.D. | — | `5` | `1` |
+| T.D. | T.I | `5` | `1` |
 
 ## Requisitos
 
 - Perfil de arma: `Corrosión`
-- El objetivo debe tener una superficie de herida
 
 ## Keywords
 
 - `Corrosión`
-- `No Hereda Efectos`
+- `Hereda Efectos`
 
 ## Efecto
 
-Realiza un ataque con tu perfil de `Corrosión`. Si es exitoso, la herida queda ensuciada hasta que el objetivo la limpie. Mientras la herida permanezca ensuciada, cualquier T.E. con `Medicina` que intente tratar o estabilizar esa herida sufre una penalización igual al bono de rango de la competencia que usaste para esta técnica.
+Realiza una `T.A.`. Si aciertas, resuelves `T.I.` normalmente, pero en lugar de un tajo limpio, creas una herida irregular. 
 
-Para limpiar la herida, el objetivo afectado debe usar la acción `Interactuar` para que el tratamiento pueda proceder con normalidad. `Medicina` solo funciona con normalidad sobre esa herida una vez completado ese paso.
+Mientras esta herida no sea preparada, cualquier T.E. (Medicina) para **estabilizar** o **tratar** a la criatura sufre una penalización igual a tu Rango de Competencia con el arma. 
+
+Para poder tratar la herida con normalidad, la criatura afectada (o un aliado) debe gastar primero una acción `Interactuar` específicamente dedicada a limpiar, alinear y preparar los tejidos destrozados.
