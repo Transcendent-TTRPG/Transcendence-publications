@@ -34,8 +34,7 @@ related:
 ## Requisitos
 
 - Competencia: `Sigilo`
-- Posición oculta válida: cobertura, ocultamiento, oscuridad, línea de visión interrumpida, o posición creíble de guardián no revelado
-- Criatura dentro de 4 metros capaz de registrar la presencia de una amenaza cercana no visible
+- Posición oculta válida
 
 ## Keywords
 

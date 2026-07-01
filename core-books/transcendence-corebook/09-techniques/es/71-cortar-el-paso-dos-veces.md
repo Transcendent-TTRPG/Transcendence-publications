@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango de lanzamiento | 1 Criatura | Instantáneo | T.A. (Volley) |
+| Rango de lanzamiento | 1 Criatura | Instantáneo | T.A. (Cadencia) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -33,18 +33,18 @@ related:
 
 ## Requisitos
 
-- Perfil de arma: `Volley`
+- Perfil de arma: `Cadencia`
 - Arma arrojadiza
 - Al menos 2 armas arrojadizas disponibles para lanzar
 
 ## Keywords
 
-- `Volley`
+- `Cadencia`
 - `No Hereda Efectos`
 
 ## Efecto
 
-Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.A. con tu perfil de `Volley`, consumiendo 2 armas arrojadizas.
+Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.A. con tu perfil de `Cadencia`, consumiendo 2 armas arrojadizas.
 
 Por cada ataque que impacte, resuelves el impacto. 
 
