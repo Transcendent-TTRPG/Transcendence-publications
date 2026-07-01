@@ -46,7 +46,7 @@ Los Zarnag obtienen `+1` en **Tenacidad**, **Astucia** y **Presencia**.
 
 ### Legado
 
-**Tolerancia a la Putrefacción** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.R. de Veneno e Infecciones.
+**Tolerancia a la Putrefacción** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.R. de **Veneno** e **Infecciones**.
 
 **Mandíbula Trituradora** — Los ataques de Mordisco ignoran `+1/4 NR` puntos del Bloqueo del objetivo al calcular el daño efectivo.
 

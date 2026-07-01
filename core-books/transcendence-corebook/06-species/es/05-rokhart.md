@@ -50,7 +50,7 @@ Los Rokhart obtienen `+1` en **Agilidad**, **Compostura** e **Intelecto**.
 
 ### Legado
 
-**Imperturbable** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Enfoque, Contención, Meditación y Aplomo.
+**Imperturbable** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Enfoque**, **Contención**, **Meditación** y **Aplomo**.
 
 **Visión de Rapaz** — Amplían su rango de percepción visual a 70 m. Los enemigos no pueden establecer ni mantener el estado Oculto contra el personaje usando únicamente Cobertura Ligera — necesitan al menos Cobertura Media.
 

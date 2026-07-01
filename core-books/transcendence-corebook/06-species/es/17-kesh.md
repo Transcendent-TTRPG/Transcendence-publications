@@ -44,7 +44,7 @@ Los Kesh obtienen `+1` en **Agilidad**, **Astucia** y **Compostura**.
 
 ### Legados
 
-**Silencio Inerte** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Sigilo** y **Acrobacias**. Este bono se pierde si el Kesh lleva equipada una armadura Pesada o Intermedia con bloqueos metálicos que generen ruido.
+**Silencio Inerte** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Sigilo**, **Acrobacias**, **Equilibrio** y **Trepar**. Este bono se pierde si el Kesh lleva equipada una armadura Pesada o Intermedia con bloqueos metálicos que generen ruido.
 
 **Anatomía Fluida** — Su estructura ósea y sentido vestibular son perfectos para la verticalidad. El movimiento de trepar no cuesta metros adicionales de movimiento, y no sufren penalizadores de **Terreno Difícil**. Además, reducen la distancia efectiva de cualquier caída en 2 metro por cada Nivel de Referencia antes de que se calcule el impacto o las consecuencias mecánicas de la misma.
 

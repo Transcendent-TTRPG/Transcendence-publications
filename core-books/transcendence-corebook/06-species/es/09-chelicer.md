@@ -50,7 +50,7 @@ Los Chelicer obtienen `+1` en **Agilidad**, **Astucia** y **Compostura**.
 
 Cuando eres atacado, puedes declarar El Veredicto como reacción en lugar de defender. No realizas tirada de defensa; recibes el daño completo. Al recibir el impacto, tu Aguijón hace contacto automático con el atacante, resolviendo el T.I. normalmente. El atacante realiza una T.R. de Veneno; si falla, su Ritmo aumenta permanentemente en 1 por cada cuatro Niveles de Referencia de tu personaje (mínimo 1) hasta que el veneno sea tratado. Ver técnica #106.
 
-**Fe Inquebrantable** — Los Chelicer obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Compostura.
+**Fe Inquebrantable** — Los Chelicer obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Compostura**.
 
 **Transmutación del Dolor** — Cada herida activa aumenta el Aguante máximo del Chelicer según su severidad: **Leve +1**, **Grave +2**, **Crítico +3**. Esta bonificación persiste mientras la herida permanezca sin tratar. La misma ruptura que compromete su defensa expande su capacidad de absorber Desgaste antes de sucumbir a la Fatiga.
 

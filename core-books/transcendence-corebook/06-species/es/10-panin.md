@@ -56,7 +56,7 @@ Cede temporalmente una cantidad de tus especializaciones de afinidad mayor actua
 | 5–8 | 4 |
 | 9+ | 5 |
 
-**Curiosidad** — Pueden usar **Astucia** en lugar de **Intelecto** para las T.E. de Identificación e Interpretación. Además, obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Identificación, Interpretación e Intuición, reflejando su hiperatención al detalle presente.
+**Curiosidad** — Pueden usar **Astucia** en lugar de **Intelecto** para las T.E. de **Identificación** e **Interpretación**. Además, obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Identificación**, **Interpretación** e **Intuición**, reflejando su hiperatención al detalle presente.
 
 **Agilidad Superior** — Su Aguante se calcula como `3 + (Agilidad × 2)` en lugar de la fórmula estándar basada en Tenacidad. La capacidad Panin de absorber presión física depende de cuánto pueden moverse para reducirla, no de cuánta masa tienen para aguantarla.
 

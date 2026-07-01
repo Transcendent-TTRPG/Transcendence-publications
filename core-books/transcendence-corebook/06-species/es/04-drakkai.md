@@ -52,7 +52,7 @@ Los Drak'kai obtienen `+1` en **Tenacidad**, **Sabiduría** y **Compostura**.
 
 Realiza una T.C. (Sabiduría) contra un umbral fijado por las condiciones del entorno. Con éxito, conoces la posición exacta de todas las criaturas dentro del área con firma biomagnética activa o masa metálica significativa, independientemente de visibilidad, oscuridad, cobertura o estado Oculto. Las criaturas dentro del área no pueden establecer ni mantener el estado Oculto contra ti. No puedes ser sorprendido por criaturas dentro del área. El estado termina si quedas Inconsciente o lo finalizas voluntariamente. Ver técnica #101.
 
-**Reliquias** — Pueden usar **Sabiduría** en lugar de **Intelecto** para las T.E. de especialidades de Lingüística, Identificación y saberes (Historia, Geografía, Arqueología, Astronomía y similares). Además, obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a estas tiradas.
+**Reliquias** — Pueden usar **Sabiduría** en lugar de **Intelecto** para las T.E. de especialidades de **Lingüística**, **Identificación** y saberes (**Historia**, **Geografía**, **Arqueología**, **Astronomía** y similares). Además, obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a estas tiradas.
 
 ### Armas Naturales
 

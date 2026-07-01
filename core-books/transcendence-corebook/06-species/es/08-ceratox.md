@@ -46,7 +46,7 @@ Los Ceratox obtienen `+1` en **Fuerza**, **Sabiduría** y **Aura**.
 
 ### Legado
 
-**Señal Guía** — Los Ceratox obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Supervivencia, Orientación e Intuición.
+**Señal Guía** — Los Ceratox obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Supervivencia**, **Orientación** e **Intuición**.
 
 **Integridad de la Señal** — *Activo · Ritmo 4 · Desgaste 2 · Alcance Personal · Área Circular 8 m · Duración Instantáneo · Tirada T.C. (Aura).*
 

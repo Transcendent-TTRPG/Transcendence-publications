@@ -48,7 +48,7 @@ Los Ursari obtienen `+1` en **Fuerza**, **Sabiduría** y **Presencia**.
 
 ### Legado
 
-**Constitución de Forja** — Los Ursari obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Aclimatación, Tolerancia y Supervivencia.
+**Constitución de Forja** — Los Ursari obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Aclimatación**, **Tolerancia** y **Supervivencia**.
 
 **La Presa del Oso** — *Activo · Ritmo 4 · Desgaste 1 · Alcance Personal · Área Criatura · Duración Permanente.*
 

@@ -54,7 +54,7 @@ Los Sauri obtienen `+1` en **Fuerza**, **Sabiduría** y **Aura**.
 
 Cuando una herida no crítica está por aplicarse en cualquier zona de tu cuerpo, puedes declarar esta técnica en tu ventana de reacción. La herida reduce su severidad en un grado: una Herida Grave se convierte en Leve, y una Herida Leve no se aplica. Las Heridas Críticas no pueden reducirse con esta técnica. Ver técnica #99.
 
-**Dominio Extranatural** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Taumaturgia y Resonancia frente a manifestaciones extranaturales o fenómenos de Tauma.
+**Dominio Extranatural** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Taumaturgia**, **Resonancia**, **Instinto** e **Historia** frente a manifestaciones extranaturales o fenómenos de Tauma.
 
 ### Armas Naturales
 

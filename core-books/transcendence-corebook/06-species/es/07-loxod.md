@@ -46,13 +46,13 @@ Los Loxod obtienen `+1` en **Tenacidad**, **Intelecto** y **Compostura**.
 
 ### Legado
 
-**Archivo Viviente** — Retienen impresiones absorbidas directamente con una fidelidad perfecta. Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Historia, Geografía y Lingüística cuando han estado expuestos física o químicamente al sujeto.
+**Archivo Viviente** — Retienen impresiones absorbidas directamente con una fidelidad perfecta. Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Historia**, **Geografía** y **Lingüística** cuando han estado expuestos física o químicamente al sujeto.
 
 **Olfato Profundo** — *Activo · Ritmo 3 · Desgaste 2 · Alcance Personal · Área Circular 8 m · Duración Permanente · Tirada T.C. (Compostura).*
 
 Realiza una T.C. (Compostura). Con éxito, dentro del área: conoces las Alteraciones activas y su severidad en cada criatura visible; sabes si alguien sufre Aflicciones activas (sin conocer su tipo exacto); percibes la presencia general (sin posición exacta) de criaturas Ocultas si estas tienen Alteraciones o Aflicciones activas, sin romper su estado Oculto. Finaliza si quedas Inconsciente o voluntariamente. Ver técnica #104.
 
-**Trompa Versátil** — La trompa puede sostener un objeto adicional, abrir puertas o manipular elementos (no empuñar armas). Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de Trepar y Agarre, así como a las T.E. de Percepción basadas en resonancia sísmica o infrasonido transmitido por superficies sólidas.
+**Trompa Versátil** — La trompa puede sostener un objeto adicional, abrir puertas o manipular elementos (no empuñar armas). Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Trepar** y **Agarre**, así como a las T.E. de **Percepción** basadas en resonancia sísmica o infrasonido transmitido por superficies sólidas.
 
 ### Armas Naturales
 

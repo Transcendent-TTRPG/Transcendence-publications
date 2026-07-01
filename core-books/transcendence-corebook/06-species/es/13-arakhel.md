@@ -46,7 +46,7 @@ Los Arakhel obtienen `+1` en **Agilidad**, **Astucia** y **Aura**.
 
 ### Legado
 
-**Percepción Estructural** — Los Arakhel obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Percepción que detecten movimiento a través de superficies sólidas o estructuras conectadas (sin necesidad de línea de visión), y a las T.E. de Rastreo cuando sigan una firma vibratoria a través de superficies en contacto. Este bonificador no se aplica a la detección por el aire.
+**Percepción Estructural** — Los Arakhel obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Percepción** que detecten movimiento a través de superficies sólidas o estructuras conectadas (sin necesidad de línea de visión), y a las T.E. de **Rastreo** cuando sigan una firma vibratoria a través de superficies en contacto. Este bonificador no se aplica a la detección por el aire. Además, obtienen este mismo bonificador a las T.E. de **Trampas**, independientemente del entorno.
 
 **Glándulas de Seda** — Durante un Descanso Completo, el metabolismo Arakhel sintetiza Seda en bruto. La cantidad y calidad escalan con el Nivel de Referencia:
 

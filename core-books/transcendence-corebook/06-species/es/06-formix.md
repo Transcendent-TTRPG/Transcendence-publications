@@ -54,7 +54,7 @@ Los Formix obtienen `+1` en **Tenacidad**, **Astucia** y **Compostura**.
 
 Realiza una T.C. (Astucia) contra un umbral fijado por la saturación química del entorno: Fundamentos (5 + NR) en entorno neutro, Desafiante (8 + NR) con actividad química moderada, Rigurosa (11 + NR) con contaminación significativa, Exigente (14 + NR) con saturación extrema. Los enemigos pueden contaminar deliberadamente el entorno para elevar la dificultad de la tirada. Con éxito, dentro del área: las criaturas vivas no pueden establecer ni mantener el estado Oculto contra ti, detectadas por firma metabólica independientemente de visibilidad o cobertura; los rastros de criaturas que pasaron recientemente son detectables aunque ya no estén presentes; las sustancias peligrosas activas (venenos, ácidos, gases) quedan localizadas; si tienes una especialización relevante (Destilación u otra), puedes identificar sustancias específicas. El estado termina si quedas Inconsciente, si la saturación del entorno sube al punto de hacer la tirada retroactivamente fallida, o si lo finalizas voluntariamente. Ver técnica #103.
 
-**Umbral del Dolor** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.R. contra las Alteraciones Lacerado, Electrizado, Corroído y Aturdido.
+**Umbral del Dolor** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.R. contra las Alteraciones **Lacerado**, **Electrizado**, **Corroído** y **Aturdido**.
 
 ### Armas Naturales
 

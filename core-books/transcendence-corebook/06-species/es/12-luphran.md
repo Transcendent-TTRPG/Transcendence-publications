@@ -46,7 +46,7 @@ Los Luphran obtienen `+1` en **Agilidad**, **Astucia** y **Presencia**.
 
 ### Legado
 
-**Memoria de Ruta** — Los Luphran obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Rastreo, Intuición y Supervivencia.
+**Memoria de Ruta** — Los Luphran obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Rastreo**, **Intuición** y **Supervivencia**.
 
 **El Ancestro Despierta** — *Activo · Ritmo 2 · Desgaste 1 · Alcance Personal · Área Tú · Duración Permanente.*
 

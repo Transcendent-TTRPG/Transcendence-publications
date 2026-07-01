@@ -54,7 +54,7 @@ Los Naghii obtienen `+1` en **Agilidad**, **Sabiduría** y **Presencia**.
 
 Requiere Cobertura Ligera disponible y que ningún enemigo te tenga localizado con precisión. Realiza una T.C. (Agilidad) enfrentada a la Percepción relevante del observador, o contra un umbral fijado por las condiciones del entorno. Con éxito, ganas el estado Oculto. El estado termina conforme a las reglas de Ocultamiento. Ver técnica #100.
 
-**Lengua Bífida** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de Rastreo y Percepción por olfato para detectar criaturas vivas. Este bonificador se aplica incluso sin visibilidad directa, siempre que el olfato no esté bloqueado.
+**Lengua Bífida** — Obtienen un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Rastreo**, **Percepción** e **Intuición** por olfato para detectar criaturas vivas. Este bonificador se aplica incluso sin visibilidad directa, siempre que el olfato no esté bloqueado.
 
 ### Armas Naturales
 
