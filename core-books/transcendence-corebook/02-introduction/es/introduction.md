@@ -16,79 +16,60 @@ related:
 
 # Introducción
 
-Por todo el mundo hay estructuras que sobrevivieron algo que acabó con todo lo demás. Sus materiales no se desgastan. Sus mecanismos siguen operando según condiciones que nadie puede leer. Millones de años después de que la civilización que las construyó desapareció — no declinó, no fue conquistada, desapareció junto con todo lo que vivía entonces — esas estructuras siguen ahí.
+Por todo el mundo hay estructuras imponentes e incomprensibles que sobrevivieron a algo que acabó con todo lo demás. Millones de años después de que la civilización que las construyó desapareciera por completo, estas ruinas monolíticas siguen operando bajo lógicas alienígenas que nadie logra descifrar.
 
-Los asentamientos que crecieron cerca de ellas usan sus muros como fundamentos, sus objetos como iconos sagrados, su presencia como punto de anclaje para teologías enteras. Lo que veneraron nunca fue diseñado para comunicarles nada. Pero la alternativa era no tener nada sobre lo que construir.
+Los asentamientos actuales usan sus muros indestructibles como cimientos y veneran sus objetos inescrutables como ídolos. El espacio entre estas fronteras seguras es implacablemente hostil, habitado por horrores deformados y barrido por tormentas de energía corrupta. Aquí no hay reyes virtuosos, ni magia heroica, ni dioses bondadosos; solo sobrevivientes aferrándose al borde del abismo.
 
-El espacio entre asentamientos es hostil por defecto. No peligroso si eres descuidado: hostil como condición de base. La mayoría de lo que sale de un asentamiento no regresa. La única ventaja de las especies que habitan este mundo sobre todo lo que las rodea es la inteligencia. No es suficiente para dominar. Es suficiente para sobrevivir.
-
----
-
-## El mundo
-
-Una energía invisible atraviesa este mundo de forma continua y pasiva. Fluye desde una dimensión paralela — el Limbo — donde su concentración es indefinidamente mayor, hacia el mundo físico, sin voluntad ni agente, por la misma lógica con la que el calor fluye hacia el frío. Se llama Tauma, y es tan fundamental al universo como la gravedad.
-
-La mayoría de las criaturas no lo perciben directamente. Lo que sí perciben son sus consecuencias: animales cuya evolución en zonas de alta concentración lo incorporó en su metabolismo; territorios donde la ecología, la química y el clima sirven a la naturaleza de una entidad que lleva tiempo geológico fluyendo a través de ellos; objetos que guardan la huella de un paso de Tauma que ya no está pero dejó algo operable. Las culturas del mundo trabajan con esos efectos del mismo modo que se trabaja con una herramienta sin comprender su mecanismo interno.
-
-La civilización cuyas ruinas persisten sí lo comprendía. Descubrió cómo controlarlo y construyó con ese control tecnología sin equivalente posible en nada que el mundo actual produzca. Lo que hizo con ese control es la razón de que ya no exista.
-
-La tecnología de las especies actuales es bio-orgánica: organismos vivos combinados con materiales inertes, aprovechando funciones biológicas como herramientas, estructuras, medicina y armas. Conocimiento empírico acumulado durante generaciones de necesidad. Tiene un límite central: los organismos tienen necesidades, responden al entorno y mueren. El equipo que funciona en un asentamiento puede fallar en ruta porque el componente vivo no sobrevive la transición.
+**Transcendence** es un juego de rol de mesa de supervivencia, horror cósmico y táctica brutal, ambientado en un mundo de fantasía *Biopunk*. Sus mecánicas y su universo no están diseñados para contar historias de héroes invencibles, sino para emular el peso y el desgaste de sobrevivir en un ecosistema que quiere devorarte.
 
 ---
 
-## Las especies
+## Los Pilares del Sistema
 
-Veinte especies habitan este mundo. Cada una es una línea evolutiva de homínido bípedo descendiente de los organismos que sobrevivieron la catástrofe, desarrollada a lo largo de millones de años bajo presiones que no fueron las mismas en ningún caso. Sus cuerpos, sus instintos, sus estructuras sociales y sus interpretaciones del mundo llevan la marca de esa herencia: el animal que fueron se convirtió en el fundamento de la civilización que construyeron.
+Este manual no es un motor genérico. Sus reglas están diseñadas específicamente para reforzar la crudeza y el tono táctico de su mundo. Transcendence se sostiene sobre cinco pilares mecánicos inseparables de su ficción:
 
-Cada especie encontró las ruinas de la civilización anterior y llegó a conclusiones distintas. Esas conclusiones no son académicas — son religiosas, políticas y existenciales. Las Naghii sostienen registros astronómicos que no saben fechar, vigilando algo que ocurrió arriba y que no están seguras de que haya terminado. Entre los Drak'kai, siglos de acumulación — objetos, conocimientos, encuentros con presencias que no saben cómo nombrar — van construyendo una evidencia incómoda: nada de lo que alguien ha creído sobre el cosmos ha resultado estable. Los Sauri construyen sistemas de contención ritual alrededor de lo que fluye, seguros de que el canal debe sostenerse para que la corriente no destruya lo que la canaliza. En los territorios que otros abandonan, los Zarnag aprenden qué queda cuando los muertos se pudren y qué en ellos todavía funciona.
+### 1. Combate Continuo (El ATB)
+Olvídate de las rondas de combate estáticas donde todos esperan su turno educadamente. En Transcendence, el tiempo fluye de manera continua a través de la **Línea de Tiempo Activa (ATB)**. Cada acción que tomas tiene un costo en **Ritmo** que te desplaza hacia el futuro. Actuar rápido y con golpes ligeros te permite mantener la iniciativa, mientras que preparar un ataque devastador te dejará expuesto a las respuestas enemigas. El combate es cinético, caótico y profundamente táctico.
 
-Habitar una especie distinta es habitar una relación distinta con el mundo: una forma diferente de mirar las mismas ruinas y llegar a conclusiones que ninguna otra especie llegaría sola.
+### 2. La Anatomía del Conflicto (Desgaste y Heridas)
+No eres un saco de *Puntos de Vida*. El sistema rastrea tu estado físico y mental de forma realista. Las acciones bajo presión cuestan **Desgaste**, obligándote a gestionar tu aliento y fatiga para no colapsar antes de que termine el combate. Cuando recibes un golpe grave, no pierdes un número abstracto: sufres **Heridas por Zonas** (cabeza, torso, brazos, piernas) que afectan directamente tus capacidades, pudiendo llegar al colapso y la agonía.
 
----
+### 3. El Tauma no es Magia, es Radiación
+No existen hechizos amigables ni magos lanzando bolas de fuego. El mundo está bañado por el **Tauma**, una energía invisible que fluye desde el Limbo —una dimensión paralela de horror primordial—. Quienes logran conectarse a esta fuerza a través de reliquias no conjuran magia, sino que abren su sistema nervioso a la radiación de entidades cósmicas. El precio se paga en la mente y el alma mediante un sistema acumulativo de **Aflicciones** sensoriales. 
 
-## El sistema
+### 4. Veinte Caminos Evolutivos
+En lugar de depender de los clásicos tropos de fantasía (elfos, enanos o humanos), Transcendence ofrece veinte especies jugables basadas en ramas evolutivas biológicas extremas. Juegas como criaturas que desarrollaron corazas de quitina, estómagos filtradores de veneno, glándulas de regeneración o metabolismos hiperactivos para sobrevivir al colapso del mundo. Cada especie ofrece una lente filosófica, biológica y mecánica totalmente distinta.
 
-El tiempo en combate no se divide en rondas. Cada criatura ocupa una posición en una línea de tiempo activa — el ATB — y cada acción desplaza esa posición hacia adelante de forma individual. Actuar primero abre ventajas inmediatas; también reduce el espacio para responder después. La pregunta táctica es qué pasa si actúo ahora y qué queda si espero.
-
-Los personajes construyen un cuerpo de técnicas: prácticas que su especie y su historia de entrenamiento han desarrollado durante generaciones. Cada técnica es una forma particular de aplicar lo que el cuerpo ya sabe hacer, activada en el momento correcto bajo la condición correcta. La profundidad de ese cuerpo define lo que el personaje puede sostener cuando la situación deja de ser manejable.
-
-Las criaturas son sistemas con comportamientos, y cada comportamiento tiene una parte del cuerpo que lo hace posible. Cuando esa parte queda destruida, el comportamiento desaparece. El problema táctico es cuál de sus capacidades desactivar primero y qué hace la criatura cuando la pierde.
-
-En este mundo hay algo más que la física ordinaria. Objetos que llevan la huella de presencias que los atravesaron, capaces — si un portador aprende a activarlos — de redirigir la luz, silenciar el sonido en un punto específico, o producir efectos que el entorno solo no generaría. Conexiones activas con entidades que siguen ahí, que usan el sistema nervioso del portador como el canal a través del cual se expresan en el mundo físico. Quienes abren esas conexiones pagan en el cuerpo: distorsiones en la percepción que se acumulan y no desaparecen cuando el encuentro termina.
-
-La progresión lleva a los personajes de Novato a Trascendente: un crecimiento en capacidades y en la escala de lo que el personaje puede sostener — presión táctica, exposición a lo que el mundo no puede explicar, el peso acumulado de haber sobrevivido lo que debería haberlos destruido.
+### 5. Progresión sin Clases (Ventaja Evolutiva)
+En Transcendence no existen niveles generales, puntos de experiencia (EXP) ni clases de personaje predefinidas. Eres exactamente lo que practicas. El sistema de progresión se basa en tus **Competencias** individuales y en la **Ventaja Evolutiva**: una mecánica donde, antes de lanzar los dados, debes decidir si priorizas el éxito de tu acción o si te arriesgas a fallar para poder aprender y mejorar. Las técnicas y capacidades de tu personaje no se compran en un árbol de habilidades genérico; nacen orgánicamente del dominio que alcanzas al exponer tu cuerpo al peligro. Sin embargo, alcanzar la maestría mecánica no te otorga habilidades de la nada; las **Técnicas** deben buscarse y adquirirse narrativamente en el mundo (a través de mentores, ruinas antiguas, documentos o instrucción comunitaria). Tu competencia te da el nivel físico y mental para ejecutarla, pero el entorno hostil debe proveerte el conocimiento.
 
 ---
 
-## Para jugar
+## ¿Qué hacen los personajes?
 
-Cada jugador necesita una hoja de personaje y un set completo de dados. El Narrador puede necesitar dados adicionales para adversarios, ciclos autónomos y tiradas ocultas.
+Los personajes jugadores (PJs) son aquellos individuos lo suficientemente valientes, desesperados o desequilibrados como para salir de la seguridad de sus asentamientos. Son exploradores, mercaderes, cazadores de Primordiales y saqueadores de ruinas.
 
-No se requiere mapa ni miniaturas. Transcendence puede jugarse de forma verbal siempre que la mesa mantenga claridad sobre posición, distancia y estado de escena. Si el grupo prefiere apoyo visual, puede usar mapas, marcadores o cualquier referencia espacial que ayude a seguir el conflicto. La herramienta no importa. La posición sí.
+Se adentran en las **Zonas Muertas** para recuperar tecnología biológica (Biopunk), mapear nuevos territorios seguros, o escoltar caravanas a través de tormentas taumatúrgicas. Sus aventuras son expediciones al límite de la capacidad humana (y no humana), donde la verdadera victoria muchas veces no es matar al monstruo, sino lograr regresar a casa vivos y con la mente intacta.
+
+---
+
+## Para Jugar
+
+Cada jugador necesita una hoja de personaje, un lápiz y un set de dados de diez caras (**d10**). El Narrador (quien dirige el juego) puede requerir dados adicionales para controlar el ecosistema y los adversarios.
+
+El combate de Transcendence depende de la posición y el estado táctico. Aunque puede jugarse usando "el teatro de la mente" si el Narrador es claro describiendo las distancias, el sistema de zonas, coberturas y líneas de visión brilla con mayor fuerza cuando se usan mapas y miniaturas (o representaciones digitales) para visualizar el caos de la batalla.
 
 ---
 
 ## Cómo usar este libro
 
-El libro está organizado para leerse en orden durante la primera lectura. Los capítulos iniciales establecen las reglas base y los sistemas de construcción de personaje. Los siguientes desarrollan conflicto, técnicas, equipo, horror, adversarios y escenario.
-
-Después de la primera lectura funciona como referencia: las reglas generales explican cómo resolver acciones; los capítulos posteriores amplían esas reglas para situaciones específicas.
+El libro está estructurado de manera lógica para aprender el sistema desde cero. Los capítulos iniciales establecen las reglas base y la creación de tu personaje, mientras que la segunda mitad del libro profundiza en el conflicto táctico, el equipo y la guía del mundo para el Narrador.
 
 | Capítulo | Contenido |
 | --- | --- |
-| 3 | Reglas generales y sistema de tiradas |
-| 4 | Habilidades y especializaciones |
-| 5 | Creación de personaje |
-| 6 | Especies |
-| 7 | Trasfondos y orígenes |
-| 8 | Conflicto y combate |
-| 9 | Técnicas |
-| 10 | Equipo y recursos |
-| 11 | Agravios |
-| 12 | Horror cósmico y corrupción |
-| 13 | Guía del Narrador |
-| 14 | Adversarios y bestiario |
-| 15 | Escenario y facciones |
-| 16 | Escenarios y aventuras |
-| 17 | Apéndices |
-| 18 | Índice de referencia |
+| 1-3 | Introducción y Reglas Generales del Sistema de Tiradas. |
+| 4-7 | Creación de Personaje: Especializaciones, Especies, Trasfondos y Orígenes. |
+| 8-10 | El Conflicto: Reglas de ATB, Fatiga, Daño, Heridas, Técnicas y Equipo. |
+| 11-12 | Consecuencias: Agravios, Horror Cósmico, Corrupción y Aflicciones. |
+| 13-14 | Guía del Narrador y Bestiario de Adversarios. |
+| 15-18 | Escenario del Mundo, Aventuras, Apéndices e Índice de Referencia. |
