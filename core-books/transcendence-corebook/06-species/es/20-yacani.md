@@ -21,11 +21,72 @@ Su sociedad está estrictamente dividida por el volumen de dolor que han logrado
 
 Quienes viajan por los caminos de otras civilizaciones son los *Jóvenes* o *Vasos Vacíos*. Un Yacani que recién inicia su etapa adulta está limpio de corrupciones. Su deber sagrado es salir a explorar, comerciar y guiar a otros a través de fronteras peligrosas, acumulando gradualmente experiencias, cicatrices y dureza del mundo. Debido a su capacidad inigualable para sobrevivir a la intemperie, son los mercaderes y exploradores definitivos. Si un ejército necesita cruzar un desfiladero tóxico o un imperio busca contrabandear reliquias a través de dunas ardientes, los Yacani son la única opción viable. 
 
-Este estilo de vida nómada y de constante exposición al peligro ha forzado una adaptación biológica brutal. Sus cuerpos filtran la letalidad que atraviesan y la concentran en una cámara estomacal secundaria. En combate, un Yacani rara vez depende únicamente de armas forjadas o de su pura fuerza física; cuando se ven acorralados, pueden contraer su diafragma para regurgitar y escupir a gran presión un fango altamente corrosivo. Mediante esta purga violenta de las impurezas que han recolectado del mundo, logran derretir la moral y las armaduras de quienes se atreven a cortarles el paso.
+Este estilo de vida nómada y de constante exposición al peligro ha forzado una adaptación biológica brutal. Sus cuerpos filtran la letalidad que atraviesan y la concentran en una cámara estomacal secundaria. En combate, un Yacani rara vez depende únicamente de armas forjadas o de su pura fuerza física; cuando optan por crear distancia antes que seguir recibiendo, pueden contraer su diafragma para expulsar a presión el fango acumulado en su cámara estomacal secundaria. El resultado es un líquido cáustico por acumulación, no por refinamiento: suficientemente irritante para quemar piel expuesta, enturbiar la visión y obligar a quien lo recibe a detenerse. Para el Yacani no es un acto marcial; es una purga — el cuerpo devolviendo al exterior lo que el exterior puso dentro.
 
 ---
 
 ## Estadísticas de Especie
 
-> [!NOTE]
-> Las estadísticas mecánicas, herencia, legados y armas naturales de los Yacani se encuentran actualmente en desarrollo (Pendientes por diseño del usuario).
+### Datos Generales
+
+| Longevidad | Tamaño | Estatura | Peso | Velocidad |
+| --- | --- | --- | --- | --- |
+| 115–145 años | Mediano | 1.80–2.10 m | 95–140 kg | 10 m |
+
+**Idiomas:** Yakan · Común
+
+### Características
+
+Los Yacani obtienen `+1` en **Tenacidad**, **Sabiduría** y **Aura**.
+
+### Herencia
+
+**Fisiología Divergente** — La biología Yacani no sigue los parámetros sobre los que descansan los tratamientos médicos estándar: eritrocitos ovales, cámara gástrica secundaria y regulación térmica heterodoxa hacen que los protocolos diseñados para otras especies fallen o produzcan resultados imprevisibles. Toda T.E. de Medicina dirigida **sobre un Yacani** — beneficiosa o perjudicial, realizada por el propio Yacani o por otra criatura — recibe una penalización permanente de `−3`. El organismo no distingue entre intervención curativa y ataque médico: la complejidad biológica aplica por igual en ambos sentidos.
+
+### Legados
+
+**Aclimatación** — Los Yacani obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Marcha**, **Aclimatación**, **Tolerancia** y **Supervivencia**.
+
+**Reserva** — El metabolismo Yacani está optimizado para el esfuerzo sostenido en condiciones de privación. Reducen en `1` el Desgaste generado por técnicas de tipo **Utilidad**. Este valor no puede reducir el Desgaste de una técnica por debajo de `1`.
+
+**Saturación** — *Activo · Utilidad · Ritmo `2` · Desgaste `3` · Alcance Personal · Área Tú · Duración Instantáneo · Tirada T.C. (Tenacidad).*
+
+*Los eritrocitos llevan el límite hasta donde no hay marcha atrás.*
+
+Realizas una T.C. de Tenacidad contra la severidad de la Alteración activa que estás sufriendo. Si tienes éxito, la eliminas. No aplica a Aflicciones ni a Venenos — solo a Alteraciones de origen físico.
+
+**Requisitos:** Especie: Yacani · Sufrir una Alteración física activa.
+
+### Armas Naturales
+
+Todos los Yacani tienen acceso al Mordisco y la Bilis desde el inicio.
+
+#### Mordisco
+
+*Todos los Yacani · Principal*
+
+| T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
+| --- | --- | --- | --- | --- | --- |
+| Tenacidad | Tenacidad | 1 m | d8 | 4 × rango | 6 × rango |
+
+**Perfiles:** Desgarramiento · Torsión · Imparable · Control de Línea
+
+**Efecto:** Si la T.A. supera la T.D. por 3 o más, el objetivo sufre una penalización de `−rango` a todas sus T.D. hasta el final de su próxima activación.
+
+#### Bilis
+
+*Todos los Yacani · Auxiliar*
+
+| T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
+| --- | --- | --- | --- | --- | --- |
+| Tenacidad | Tenacidad | 5 m | d6 | 3 × rango | 4 × rango |
+
+**Perfiles:** Corrosión · Hostigamiento · Interrupción · Impredecibilidad
+
+**Efecto:** Si la T.A. supera la T.D., el objetivo realiza una T.R. de Veneno. Si falla, sufre el estado **Erosionado**. La severidad escala con el rango del atacante.
+
+| Rango | Severidad |
+| --- | --- |
+| 1–2 | Leve |
+| 3–4 | Moderado |
+| 5–6 | Grave |
