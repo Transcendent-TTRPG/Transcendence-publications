@@ -32,7 +32,7 @@ Por eso, sus tabúes son estrictos y brutales: no se guardan recuerdos de fosas,
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 50–70 años | Mediano | 1.61–1.73 m | 65–73 kg | 10 m |
+| 75–95 años | Mediano | 1.61–1.73 m | 65–73 kg | 10 m |
 
 **Idiomas:** Gorrak (nativo) · Común
 

@@ -36,7 +36,7 @@ Un Rokhart que abandona la Concordia, ya sea por exilio, por asco ante la pasivi
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 70–80 años | Mediano | 1.60–1.80 m | 50–70 kg | 12 m |
+| 90–105 años | Mediano | 1.60–1.80 m | 50–70 kg | 12 m |
 
 **Idiomas:** Alar (nativo) · Común
 

@@ -176,6 +176,24 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ---
 
+## Corroído
+
+*La armadura no cedió al golpe. Cedió a lo que el golpe dejó.*
+
+**Aplicación:** Salpicadura o proyección ácida, exposición corrosiva prolongada u otra fuente que degrada de forma creíble la capa protectora de una zona: armadura, exoesqueleto o tejido exterior.
+
+**Duración:** Hasta eliminar.
+
+**Recuperación:** Termina cuando el agente corrosivo es neutralizado o eliminado y la capa protectora es tratada. `Medicina` puede terminar el estado cuando el tratamiento forma parte de la ficción.
+
+| Severidad | Efectos |
+| --- | --- |
+| **Leve** | `T.D.` y Bloqueo de la zona afectada sufren penalización igual al bonificador de rango de la fuente que aplicó Corroído. |
+| **Moderado** | Leve, más: no puedes usar la zona afectada para bloqueo o intercepción deliberada sin superar primero una `T.E.` de Tolerancia contra la severidad original. |
+| **Grave** | Moderado, más: la primera vez en cada activación que el objetivo intente usar la zona afectada de forma defensiva, debe superar esa `T.E.` de Tolerancia; si falla, la acción defensiva no se resuelve y la zona no aporta protección efectiva en ese intento. |
+
+---
+
 ## Derribado
 
 *La postura cede. El suelo gana.*

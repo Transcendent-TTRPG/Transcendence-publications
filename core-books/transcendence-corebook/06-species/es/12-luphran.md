@@ -32,7 +32,7 @@ La tragedia de los Luphran radica en que su meritocracia perfecta selecciona inv
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 55–75 años | Mediano | 1.70–1.95 m | 75–110 kg | 10 m |
+| 65–80 años | Mediano | 1.70–1.95 m | 75–110 kg | 10 m |
 
 **Idiomas:** Ulfral (nativo) · Común
 

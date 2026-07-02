@@ -32,7 +32,7 @@ Quienes abandonan sus asentamientos y viajan por el mundo exterior no siempre lo
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–90 años | Mediano | 1.60–1.90 m | 60–100 kg | 9 m |
+| 70–90 años | Mediano | 1.60–1.90 m | 60–100 kg | 9 m |
 
 **Idiomas:** Khelsar (nativo) · Común
 

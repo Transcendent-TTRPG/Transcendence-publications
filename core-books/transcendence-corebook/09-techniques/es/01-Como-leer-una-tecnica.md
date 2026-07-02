@@ -32,13 +32,13 @@ El bloque de cada Técnica presenta siempre la misma información:
 - `Tipo - Categoría`
 - `Nombre`
 - `Rango de competencia`
-- `Flavor text`
+- `Texto de ambientación`
 - `Rango`
 - `Área`
 - `Duración`
 - `Tirada principal`
 - `Salvación`, si existe una tirada separada que anule el efecto
-- `Impacto`, si la Técnica resuelve `I.R.` o un payload equivalente
+- `Impacto`, si la Técnica resuelve una `T.I.` o efecto de daño equivalente
 - `Ritmo`
 - `Desgaste`
 - `Requisitos`
@@ -126,4 +126,3 @@ La duración de una Técnica describe cuánto tiempo permanece activo su efecto.
 - `Permanente`: el efecto persiste hasta que se cumpla una condición de fin descrita en el propio texto de la Técnica. Siempre hay al menos una condición explícita.
 
 **Toda Técnica con duración `Permanente` termina automáticamente cuando el combate concluye**, salvo que su efecto sea claramente relevante fuera de él. La adrenalina cesa, el cuerpo recupera su estado basal y los estados sostenidos por la activación dejan de mantenerse. Las condiciones de fin adicionales descritas en el texto de cada Técnica aplican también durante el combate.
-- `No Hereda Efectos`

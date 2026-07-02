@@ -32,7 +32,7 @@ Quien los cruza en el camino encuentra individuos de paciencia inagotable, pero 
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 150–200 años | Mediano | 1.60–1.80 m | 100–200 kg | 8 m |
+| 230–320 años | Mediano | 1.60–1.80 m | 100–200 kg | 8 m |
 
 **Idiomas:** Drakar (nativo) · Común
 

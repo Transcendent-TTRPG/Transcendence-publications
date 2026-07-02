@@ -34,7 +34,7 @@ Cuando un Naghii abandona la orden y sale al mundo, lleva consigo la tragedia de
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 90–100 años | Mediano | 1.68–1.83 m | 59–77 kg | 10 m |
+| 80–100 años | Mediano | 1.68–1.83 m | 59–77 kg | 10 m |
 
 **Idiomas:** Sssarith (nativo) · Común
 

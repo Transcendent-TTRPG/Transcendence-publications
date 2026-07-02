@@ -32,7 +32,7 @@ Cuando salen de sus casas, rara vez lo hacen por curiosidad. Salen porque una l�
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 45–70 años | Mediano | 1.45–1.70 m | 45–75 kg | 9 m |
+| 85–110 años | Mediano | 1.45–1.70 m | 45–75 kg | 9 m |
 
 **Idiomas:** Vharin (nativo) · Común
 

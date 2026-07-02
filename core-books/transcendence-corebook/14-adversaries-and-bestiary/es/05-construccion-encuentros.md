@@ -26,13 +26,13 @@ Todas las tiradas de criatura usan el NR como escalador principal. Las caracter�
 
 | Tirada | Común | Campeón | Elite |
 | --- | --- | --- | --- |
-| T.A. | 1d10 + NR + característica | 1d10 + ⌈NR × 1,5⌉ + característica | 1d10 + NR × 2 + característica |
-| T.D. | 1d10 + NR + característica | 1d10 + ⌈NR × 1,5⌉ + característica | 1d10 + NR × 2 + característica |
-| T.R. | 1d10 + NR + característica | 1d10 + ⌈NR × 1,5⌉ + característica | 1d10 + NR × 2 + característica |
-| T.E. | 1d10 + NR + característica | 1d10 + ⌈NR × 1,5⌉ + característica | 1d10 + NR × 2 + característica |
-| T.I. | daño × ⌈NR ÷ 3⌉ + característica | daño × ⌈NR ÷ 2⌉ + característica × 2 | daño × NR + característica × 3 |
+| T.A. | 1d10 + NR + característica | 1d10 + (NR × 1,5)† + característica | 1d10 + NR × 2 + característica |
+| T.D. | 1d10 + NR + característica | 1d10 + (NR × 1,5)† + característica | 1d10 + NR × 2 + característica |
+| T.R. | 1d10 + NR + característica | 1d10 + (NR × 1,5)† + característica | 1d10 + NR × 2 + característica |
+| T.E. | 1d10 + NR + característica | 1d10 + (NR × 1,5)† + característica | 1d10 + NR × 2 + característica |
+| T.I. | daño × (NR ÷ 3)† + característica | daño × (NR ÷ 2)† + característica × 2 | daño × NR + característica × 3 |
 
-⌈x⌉ = redondear hacia arriba
+† Resultado fraccionario: redondear hacia arriba.
 
 Estas son líneas base de calibración. Ajusta por criatura si comportamientos específicos justifican pesos de tirada distintos entre zonas o tipos de ataque.
 

@@ -576,7 +576,7 @@ El **Nivel de Referencia** (**NR**) resume la competencia global de un personaje
 El NR de un personaje se calcula como el promedio redondeado hacia arriba de todas sus competencias base.
 
 ```text
-NRₚ = ⌈promedio de todas las competencias base del personaje⌉
+NRₚ = promedio de todas las competencias base del personaje, redondeado hacia arriba
 ```
 
 Se incluyen todas las competencias listadas en la hoja del personaje con valor numérico. Las competencias marcadas como `—` no se incluyen en el cálculo.
@@ -588,7 +588,7 @@ Se incluyen todas las competencias listadas en la hoja del personaje con valor n
 Cuando el encuentro involucra a varios personajes jugadores, el NR del grupo se calcula como el promedio redondeado hacia arriba de los NR individuales de todos los PJ activos en el encuentro.
 
 ```text
-NRg = ⌈promedio de los NRₚ de todos los PJ activos en el encuentro⌉
+NRg = promedio de los NR individuales de todos los PJ activos en el encuentro, redondeado hacia arriba
 ```
 
 El Narrador usa el NR de grupo para escalar criaturas, fijar dificultades base y comparar fuerzas entre bandos sin revisar cada competencia individual.

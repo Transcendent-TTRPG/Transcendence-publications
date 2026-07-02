@@ -347,22 +347,16 @@ La capacidad de carga depende de tres factores:
 - Fuerza
 - Tenacidad
 
-Para evitar que un personaje con Fuerza `0` o Tenacidad `0` tenga capacidad `0`, usa valores efectivos mínimos.
-
-```text
-Fuerza efectiva = máximo(Fuerza, 1)
-Tenacidad efectiva = máximo(Tenacidad, 1)
-Capacidad de carga = Fuerza efectiva × Tenacidad efectiva × multiplicador de tamaño
-```
+Si la Fuerza o la Tenacidad del personaje es `0`, se usa `1` en su lugar para este cálculo.
 
 | Tamaño | Capacidad de carga |
 | --- | --- |
-| Diminuto | Fuerza efectiva × Tenacidad efectiva × 1 kg |
-| Pequeño | Fuerza efectiva × Tenacidad efectiva × 15 kg |
-| Mediano | Fuerza efectiva × Tenacidad efectiva × 35 kg |
-| Grande | Fuerza efectiva × Tenacidad efectiva × 80 kg |
-| Enorme | Fuerza efectiva × Tenacidad efectiva × 200 kg |
-| Gigantesco | Fuerza efectiva × Tenacidad efectiva × 800 kg |
+| Diminuto | Fuerza × Tenacidad × 1 kg |
+| Pequeño | Fuerza × Tenacidad × 15 kg |
+| Mediano | Fuerza × Tenacidad × 35 kg |
+| Grande | Fuerza × Tenacidad × 80 kg |
+| Enorme | Fuerza × Tenacidad × 200 kg |
+| Gigantesco | Fuerza × Tenacidad × 800 kg |
 
 ---
 

@@ -34,7 +34,7 @@ En combate, un Bufoni es un depredador absoluto. No busca el choque frontal; pre
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 50–70 años | Mediano | 1.35–1.60 m | 60–90 kg | 10 m |
+| 70–90 años | Mediano | 1.35–1.60 m | 60–90 kg | 10 m |
 
 **Idiomas:** Zetsugo · Común
 

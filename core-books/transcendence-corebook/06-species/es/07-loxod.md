@@ -32,7 +32,7 @@ Un joven Loxod tarda décadas en aprender a no ser destruido por todo lo que rec
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 200–300 años | Grande | 2.50–3.00 m | 400–500 kg | 8 m |
+| 160–210 años | Grande | 2.50–3.00 m | 400–500 kg | 8 m |
 
 **Idiomas:** Loxian (nativo) · Común
 

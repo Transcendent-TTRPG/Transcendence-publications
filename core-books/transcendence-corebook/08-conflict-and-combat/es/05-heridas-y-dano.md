@@ -91,113 +91,9 @@ Si una Técnica dice `+Xd2` al Impacto, esos dados se suman a la tirada de esa r
 
 ## Impacto Crítico
 
-Un **Impacto Crítico** ocurre cuando el dado crítico designado de la Tirada de Impacto muestra su valor máximo.
+Cuando el dado crítico designado de la Tirada de Impacto muestra su valor máximo, el ataque produce **Impacto Crítico**. Solo ese dado puede validarlo — los demás dados suman Impacto de forma normal.
 
-Si la Tirada de Impacto usa varios dados, el atacante debe designar uno antes de tirar. En mesa, se recomienda usar un dado de color distinto. En digital, el dado puede marcarse con una etiqueta equivalente.
-
-Solo ese dado valida el Impacto Crítico. Los demás dados suman Impacto de forma normal.
-
-| Dado de Impacto | Resultado crítico |
-| --- | ---: |
-| d4 | 4 |
-| d6 | 6 |
-| d8 | 8 |
-| d10 | 10 |
-| d12 | 12 |
-
-Las armas con dados pequeños generan críticos con más frecuencia. Las armas con dados grandes generan críticos menos frecuentes, pero suelen transmitir más Impacto.
-
-Subir de rango aumenta el Impacto total, pero no aumenta por sí mismo la probabilidad crítica, porque solo el dado designado puede validarla.
-
-Un Impacto Crítico puede permitir:
-
-- aplicar daño crítico contra un PNJ si su modelo lo define
-- intentar romper una parte, pieza de equipo o protección
-- activar una Técnica que requiera Impacto Crítico
-- aplicar una consecuencia física si el ataque o el objetivo la declaran
-
-Un Impacto Crítico no concede una lista universal de efectos. El arma, la Técnica, el objetivo o la escena definen qué opciones están disponibles.
-
----
-
-## Potencia Crítica
-
-La **Potencia Crítica** mide la capacidad del arma para romper, deformar, abrir o inutilizar una estructura resistente durante un Impacto Crítico.
-
-```text
-Potencia Crítica = Potencia base × Multiplicador de Potencia del arma
-```
-
-Si el resultado produce fracciones o decimales, redondea hacia arriba salvo que una regla específica indique lo contrario.
-
-La Potencia base proviene del material, construcción o perfil del arma. El multiplicador depende del tipo de arma y expresa cómo esa arma transmite fuerza durante un crítico.
-
-| Tipo de arma | Multiplicador | Uso ideal |
-| --- | ---: | --- |
-| Lanzas | 80% | Perforar puntos pequeños y atravesar protecciones ligeras |
-| Hachas | 120% | Abrir material y partir superficies rígidas |
-| Mazas | 150% | Romper armaduras pesadas y aplastar estructuras resistentes |
-| Hojas largas | 100% | Cortes amplios contra superficies de resistencia media |
-| Dagas | 50% | Críticos frecuentes contra zonas vulnerables o desprotegidas |
-| Hojas cortas | 75% | Ataques rápidos con potencia moderada |
-| Armas arrojadizas | 40% | Impactos precisos a distancia con baja ruptura estructural |
-| Armas a distancia | 60% | Perforación o impacto desde lejos |
-| Armas flexibles | 30% | Control, restricción y desbalance |
-
-El material no cambia necesariamente el dado de daño de un arma. Un khopesh de hierro y uno de adamantium pueden usar el mismo daño base. La diferencia aparece en Potencia y Durabilidad: el primero puede cortar igual, pero el segundo rompe mejor y resiste más.
-
----
-
-## Romper partes
-
-**Romper Partes** es una opción estratégica disponible cuando un ataque logra un Impacto Crítico y existe un objetivo rompible declarado.
-
-El objetivo debe ser algo que el ataque pueda alcanzar y afectar de forma creíble:
-
-- arma
-- escudo
-- pieza de armadura
-- extremidad
-- mandíbula
-- cuerno
-- caparazón
-- cola
-- ala
-- articulación
-- punto vital
-- parte destructible definida por el encuentro
-
-Para resolver la ruptura, compara Potencia Crítica contra Durabilidad.
-
-```text
-Potencia Crítica >= Durabilidad del objetivo
-```
-
-| Comparación | Resultado |
-| --- | --- |
-| Potencia Crítica >= Durabilidad | La parte se rompe, se deshabilita o queda inutilizada |
-| Potencia Crítica < Durabilidad | La parte no se rompe y pierde 1 punto de Durabilidad |
-
-La pérdida de Durabilidad solo ocurre durante un intento válido de ruptura:
-
-- por Impacto Crítico
-- por una Técnica que permita romper sin crítico
-- por una regla específica del ataque
-
-Los ataques normales no reducen Durabilidad por defecto.
-
-Si una pieza rota aportaba Bloqueo, deja de aportar Bloqueo hasta ser reparada o reemplazada. La pérdida de Durabilidad no reduce Bloqueo por sí misma; la pieza funciona hasta romperse, salvo que una regla indique lo contrario.
-
-Romper una parte puede:
-
-- deshabilitar una opción de ataque
-- reducir defensa
-- destruir equipo
-- impedir una Técnica dependiente de esa parte
-- reducir movilidad
-- alterar un patrón de comportamiento
-- abrir un punto vulnerable
-- cambiar una fase del encuentro
+Las reglas completas de Impacto Crítico, Potencia Crítica y Romper Partes se encuentran en el capítulo **Impacto Crítico y Romper Partes**.
 
 ---
 
@@ -222,9 +118,7 @@ Bloqueo = BC + BM + CD + CO
 | Intermedia | 4 |
 | Pesada | 6 |
 
-```text
-BM = floor(Durabilidad / 10)
-```
+El Bono de Material equivale a la Durabilidad de la pieza dividida entre `10`, redondeada hacia abajo.
 
 La Competencia Defensiva equivale al nivel de competencia en el tipo de armadura que protege la zona golpeada.
 
@@ -238,11 +132,9 @@ Una zona sin armadura no aporta Bloqueo de armadura.
 
 Para convertir Impacto en Herida contra personajes jugadores, usa el **Umbral de Herida** de la zona.
 
-```text
-Umbral de Herida = max(Bloqueo, 1)
-```
+El Umbral de Herida es igual al Bloqueo de esa zona. Si la zona no tiene Bloqueo, el Umbral mínimo es `1`.
 
-Este mínimo evita que una zona sin Bloqueo convierta cualquier golpe en Herida Crítica automática.
+Esta regla evita que una zona desprotegida convierta cualquier golpe en Herida Crítica automática.
 
 El Bloqueo sigue funcionando como protección normal. El Umbral de Herida solo sirve para determinar la gravedad de la Herida cuando el ataque ya conectó.
 

@@ -30,7 +30,7 @@ En el combate, un Kesh nunca entra para intercambiar golpes limpios. Pelean desd
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–70 años | Mediano | 1.65–1.85 m | 55–75 kg | 10 m |
+| 70–85 años | Mediano | 1.65–1.85 m | 55–75 kg | 10 m |
 
 **Idiomas:** Keshwa (nativo) · Común
 

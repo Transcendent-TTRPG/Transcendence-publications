@@ -32,7 +32,7 @@ Para ellos, lo único parecido a lo sagrado es ese momento de encendido absoluto
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 40–50 años | Pequeño | 1.20–1.40 m | 40–60 kg | 12 m |
+| 100–130 años | Pequeño | 1.20–1.40 m | 40–60 kg | 12 m |
 
 **Idiomas:** Maki (nativo) · Común
 

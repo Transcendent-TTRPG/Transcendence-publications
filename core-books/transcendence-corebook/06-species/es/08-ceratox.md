@@ -32,7 +32,7 @@ La vigilancia perpetua tiene un desgaste inevitable que ellos llaman *deriva*: e
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 100–140 años | Grande | 1.80–2.00 m | 200–350 kg | 8 m |
+| 110–145 años | Grande | 1.80–2.00 m | 200–350 kg | 8 m |
 
 **Idiomas:** Rakan (nativo) · Común
 

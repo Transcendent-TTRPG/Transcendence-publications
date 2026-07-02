@@ -34,7 +34,7 @@ Cuando un Sauri abandona sus pantanos o sus ciudades cisternas y sale al mundo, 
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–80 años | Grande | 2.00–2.30 m | 150–200 kg | 8 m |
+| 80–100 años | Grande | 2.00–2.30 m | 150–200 kg | 8 m |
 
 **Idiomas:** Zhirash (nativo) · Común
 

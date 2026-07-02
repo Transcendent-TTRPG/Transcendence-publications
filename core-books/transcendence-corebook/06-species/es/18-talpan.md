@@ -29,7 +29,7 @@ El verdadero horror de su curiosidad yace en quién hace realmente el trabajo su
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 50–60 años | Pequeño | 1.10–1.35 m | 60–80 kg | 8 m |
+| 50–65 años | Pequeño | 1.10–1.35 m | 60–80 kg | 8 m |
 
 **Idiomas:** Tálpico (nativo) · Común
 

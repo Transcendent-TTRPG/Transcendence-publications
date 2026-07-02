@@ -2,11 +2,11 @@
 title: "Áreas de Efecto"
 type: corebook
 content_kind: rules
-writing_mode: prose
+writing_mode: rules
 language: es
 chapter: 8
 status: draft
-canonical: true
+canonical: false
 tags: [combat, grid, area, cone, radius, line]
 related:
   - core-books/transcendence-corebook/08-conflict-and-combat/es/07-cobertura-visibilidad-y-ocultacion.md
@@ -60,6 +60,6 @@ A menos que la técnica especifique un grosor distinto, una línea tiene **1 met
 
 ## Otros Tipos de Alcance y Área
 
-*   **1 Criatura u Objeto:** Técnicas de precisión clínica. No tienen área.
-*   **Tú:** El efecto recae estrictamente sobre el cuerpo, armas o mente de quien activa la técnica.
-*   **Rango Sensorial:** Utilizado mayormente para rastreo e investigación. El área no tiene un límite duro en metros, sino que el efecto se expande hasta el límite natural o físico de tu percepción (visión, olfato, audición) en ese entorno específico antes de ser bloqueado por el terreno.
+- **1 Criatura u Objeto:** Técnicas de precisión clínica. No tienen área.
+- **Tú:** El efecto recae estrictamente sobre el cuerpo, armas o mente de quien activa la técnica.
+- **Rango Sensorial:** Utilizado mayormente para rastreo e investigación. El área no tiene un límite duro en metros, sino que el efecto se expande hasta el límite natural o físico de tu percepción (visión, olfato, audición) en ese entorno específico antes de ser bloqueado por el terreno.

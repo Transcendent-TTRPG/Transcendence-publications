@@ -32,7 +32,7 @@ Los Arakhel que deciden romper esta inercia y caminar por el mundo exterior suel
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 50–70 años | Mediano | 1.45–1.70 m | 50–80 kg | 10 m |
+| 85–110 años | Mediano | 1.45–1.70 m | 50–80 kg | 10 m |
 
 **Idiomas:** Araji (nativo) · Común
 

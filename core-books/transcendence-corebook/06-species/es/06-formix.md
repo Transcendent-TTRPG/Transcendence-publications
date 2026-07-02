@@ -34,7 +34,7 @@ Quienes deambulan lejos de las ciudades refugio son aquellos que no lograron rec
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–80 años | Mediano | 1.50–1.70 m | 70–85 kg | 9 m |
+| 40–55 años | Mediano | 1.50–1.70 m | 70–85 kg | 9 m |
 
 **Idiomas:** Ferón (nativo) · Común
 

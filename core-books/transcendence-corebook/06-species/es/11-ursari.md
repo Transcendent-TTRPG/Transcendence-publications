@@ -34,7 +34,7 @@ Pero el costo de este ciclo de creación es devastador. La naturaleza extrema a 
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 70–100 años | Grande | 2.20–2.60 m | 200–300 kg | 9 m |
+| 90–115 años | Grande | 2.20–2.60 m | 200–300 kg | 9 m |
 
 **Idiomas:** Bherac (nativo) · Común
 
