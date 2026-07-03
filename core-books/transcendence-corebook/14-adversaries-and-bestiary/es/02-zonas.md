@@ -18,7 +18,7 @@ authority_refs:
 
 # Sistema de Zonas
 
-Cada zona de una criatura tiene un comportamiento vinculado a ella y es estructural — sostiene parte del funcionamiento de la criatura. No existen zonas sin comportamiento. Si un comportamiento no tiene zona, no pertenece a la criatura.
+En este ecosistema, ninguna bestia hace nada por arte de magia. Cada zona es una estructura anatómica concreta con un comportamiento anclado a ella. Sostiene parte del funcionamiento de la criatura. No existen zonas sin comportamiento. Si un ataque no tiene un órgano que lo impulse, no existe en la criatura.
 
 ---
 
@@ -28,7 +28,7 @@ Hay dos designaciones posibles para una zona:
 
 **Zona** — cualquier parte del cuerpo registrada por el sistema. Tiene un comportamiento específico vinculado. Al colapsar, ese comportamiento deja de estar disponible y cualquier ciclo autónomo anclado a ella se retira del ATB.
 
-**Núcleo** — una zona (puede ser más de una en criaturas complejas) cuyo colapso es existencialmente significativo: termina a la criatura o activa una fase mayor. El Núcleo también tiene comportamiento — no es simplemente "el corazón" ni una abstracción de vida total. Es la zona que, al desaparecer, rompe el sistema completo.
+**Núcleo** — el fallo sistémico. Una zona (pueden ser más de una en criaturas complejas) cuyo colapso es existencialmente significativo: termina a la criatura o activa una fase mayor de supervivencia. El Núcleo también tiene comportamiento táctico; no es simplemente una barra de vida abstracta o "el corazón". Es el órgano crítico que, al ser mutilado, provoca el colapso biológico de la bestia o la detonación incontrolable de la anomalía.
 
 La importancia táctica del Núcleo viene de lo que ocurre cuando colapsa. Una criatura cuyo Núcleo sea obvio desde el primer round es tácticamente trivial. Una cuyo Núcleo sea difícil de identificar o de alcanzar es un problema real.
 
@@ -104,7 +104,7 @@ Cuando una zona llega a 0 PV:
 - La zona queda destruida.
 - El comportamiento vinculado a ella deja de estar disponible.
 - Cualquier ciclo autónomo anclado a esa zona se retira del ATB.
-- El comportamiento de la criatura cambia según lo definido en su entrada.
+- El comportamiento general cambia drásticamente para compensar la pérdida de ese órgano.
 - Si la zona es Núcleo: la criatura es derrotada o se activa una fase de Metamorfosis (solo Elite).
 
 El colapso de zonas que no son Núcleo no derrota a la criatura. La cambia.
@@ -113,4 +113,4 @@ El colapso de zonas que no son Núcleo no derrota a la criatura. La cambia.
 
 ## Derrota
 
-Una criatura es derrotada cuando su Núcleo colapsa, o — solo para criaturas Elite — cuando el Golpe Final se ejecuta con éxito durante la Apoteosis.
+Una criatura muere cuando sufre un fallo orgánico masivo (colapso del Núcleo), o —solo para criaturas Elite— cuando es ejecutada brutalmente durante la Apoteosis.

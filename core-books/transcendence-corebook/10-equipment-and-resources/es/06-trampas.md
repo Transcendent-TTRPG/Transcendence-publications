@@ -19,7 +19,7 @@ authority_refs:
 
 # Trampas
 
-Una trampa no requiere al fabricante para funcionar. Se instala en el terreno, aguarda la condición que la activa, y trabaja sola.
+Una trampa es hostilidad pasiva. Es dejar atrás una promesa de muerte incrustada en el terreno. Se entierra en el fango, se oculta en la maleza, aguarda pacientemente a su presa, y ejecuta el trabajo sola sin requerir al fabricante.
 
 Fabricarlas, detectarlas y desactivarlas pertenece a la misma especialización: **Trampas**.
 
@@ -34,7 +34,7 @@ Las trampas se clasifican por el principio que las hace funcionar.
 | **Mecanismo** | Dispositivos físicos — resortes, cables, contrapesos, hojas, proyectiles | — |
 | **Ilusorio** | Engaños perceptivos naturales — perspectiva, camuflaje, sombra, desalineación visual | +50 S |
 | **Ambiental** | Manipulación del entorno — pozos ocultos, superficie inestable, acumulación de peso | +50 S |
-| **Vivo** | Organismos vivos incorporados al mecanismo — esporas, insectos, parásitos, lianas | +100 S |
+| **Vivo** | Ingeniería de ecosistemas armados — cápsulas de esporas bajo presión, nidos parasitarios o flora manipulada | +100 S |
 | **Umbral** | Materiales tauma-impregnados con propiedades extranatural fijas — sin control de Tauma | +250 S |
 
 Las trampas ilusorias no requieren materiales de criatura — sus efectos de engaño son puramente físicos: perspectiva distorsionada, camuflaje de superficie, patrones de sombra que ocultan bordes o tensores.
@@ -45,7 +45,7 @@ Las trampas umbral son inusualmente difíciles y costosas. Producen efectos extr
 
 ## Diagramas
 
-Un Diagrama es el documento que define la disposición, materiales y efecto de una trampa. Sin él no es posible fabricarla.
+Construir una trampa letal no es simplemente cavar un hoyo. Un Diagrama es la arquitectura de la letalidad: el documento que define las tensiones, los contrapesos, los ángulos de impacto y los materiales. Sin él no es posible fabricarla.
 
 Los Diagramas los crea la especialización Ingeniería. Como los Diseños de equipo, un diagrama no caduca y puede usarse para fabricar múltiples copias de la misma trampa.
 
@@ -135,7 +135,7 @@ El objetivo que activa la trampa realiza una **T.R. de Alteraciones** — si fal
 
 **Tipo:** Mecanismo · **Rareza:** Común
 
-Una serie de hojas o puntas metálicas ocultas bajo una superficie cede al pisar. El objetivo que activa la trampa recibe daño de la impacto — el Narrador determina el T.I. según el grado del material. El objetivo también realiza una **T.R. de Alteraciones** — si falla, sufre Lacerado.
+Estacas de hueso astillado, quitina o metal dentado ocultas en una fosa poco profunda que cede al menor paso falso. El objetivo que activa la trampa recibe daño del impacto — el Narrador determina el T.I. según el grado del material. El objetivo también realiza una **T.R. de Alteraciones** — si falla, sufre Lacerado.
 
 **Disponibilidad:** Limitada
 
@@ -175,6 +175,6 @@ Una trampa construida con materiales reflectantes y patrones de camuflaje que ha
 
 **Tipo:** Vivo · **Rareza:** Rara · **Reactivo:** Glándula de criatura
 
-Un contenedor biológico con esporas fúngicas preparadas se rompe al activarse y libera el contenido en un área de 3 metros. Cada criatura en el área realiza una **T.R. de Infección** — si falla, contrae la Afliccción correspondiente al fungo utilizado.
+Una vejiga o saco glandular extraído de una criatura purulenta. Al pisar el tensor, el saco detona violentamente, forzando una nube de esporas fúngicas directo a los pulmones en un área de 3 metros. Cada criatura en el área realiza una **T.R. de Infección** — si falla, contrae la Infección correspondiente al hongo utilizado.
 
 **Disponibilidad:** Limitada

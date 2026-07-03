@@ -25,11 +25,11 @@ section_modes:
 
 # Descanso
 
-El descanso es la forma más básica de recuperar control después de una escena exigente.
+En la intemperie, detenerse es un riesgo mortal, pero no hacerlo es suicidio. El descanso es la única oportunidad de tu biología para recuperar el control tras una escena límite.
 
-Un combate, una persecución, una travesía hostil o una confrontación intensa no solo dejan Heridas visibles. También dejan respiración pesada, tensión, saturación mental, pérdida de compostura y Fatiga.
+Sobrevivir a una travesía hostil o a la masacre de un combate no solo te deja Heridas; te deja hiperventilando, con las manos temblando por la adrenalina y los músculos inundados de ácido láctico.
 
-Descansar no reinicia al personaje. Recupera parte del margen perdido.
+Descansar no es un "reinicio mágico". Es metabolismo de supervivencia para recuperar el margen perdido.
 
 El descanso cumple cuatro funciones:
 
@@ -50,7 +50,7 @@ Mientras la escena sigue activa, ese Desgaste puede completar umbrales de **Agua
 
 Cuando la escena termina o baja claramente de intensidad, la Fatiga proyectada se convierte en Fatiga asentada. El Desgaste remanente que no llegó a convertirse en Fatiga proyectada no se elimina por defecto: sigue marcado y sirve como punto de partida para la siguiente escena hostil.
 
-El descanso no existe para borrar una cuenta infinita de Desgaste. Existe para reducir la **Fatiga asentada** y permitir que el personaje recupere funcionalidad.
+El descanso no es una curación divina para borrar una cuenta infinita de Desgaste. Es el tiempo biológico que tu cuerpo necesita para metabolizar el estrés extremo, purgar la **Fatiga asentada** y recuperar funcionalidad táctica.
 
 En resumen:
 
@@ -96,13 +96,13 @@ Cuanto más largo sea el descanso, mayor será la recuperación posible. Tambié
 
 ### Descanso de 15 minutos
 
-Un descanso de 15 minutos representa un respiro breve.
+Un descanso de 15 minutos representa un respiro agónico en territorio hostil.
 
-Sirve para bajar pulsaciones, ordenar equipo, beber agua, revisar el estado del grupo y recuperar un mínimo de control.
+Apenas otorga el tiempo suficiente para frenar la taquicardia, apretar un vendaje rápido de emergencia, tragar agua y verificar quién del grupo sigue vivo y operativo.
 
 **Efecto:**
 
-- reduce `1` nivel de Fatiga asentada de un personaje, si tiene Fatiga 1 o superior
+- reduce `1` nivel de Fatiga asentada de un personaje, si tiene Fatiga 2 o inferior
 - permite realizar `1` tarea breve de mantenimiento o preparación
 
 Tareas breves disponibles:
@@ -120,9 +120,9 @@ Este descanso es útil cuando el grupo no quiere detenerse demasiado, pero neces
 
 ### Descanso de 30 minutos
 
-Un descanso de 30 minutos representa una pausa real de recuperación breve.
+Un descanso de 30 minutos representa una recuperación táctica real.
 
-Ya no es solo tomar aire. Permite recuperar margen funcional y dedicar atención a una tarea más significativa.
+Ya no es solo tomar aire. Permite recuperar margen anatómico, extraer esquirlas superficiales y limpiar el óxido o la sangre del equipo antes de que otros depredadores capten el rastro.
 
 **Efecto:**
 
@@ -144,9 +144,9 @@ Esta es la forma más estable de Descanso Corto. Permite una recuperación útil
 
 ### Descanso de 60 minutos
 
-Un descanso de 60 minutos representa una pausa profunda dentro de la jornada, sin llegar a un sueño completo.
+Un descanso de 60 minutos representa una aclimatación forzada dentro de la jornada, sin llegar al sueño profundo.
 
-El personaje tiene tiempo de recuperar control sobre su cuerpo, ordenar la mente y atender consecuencias inmediatas con mayor eficacia.
+El cuerpo empieza a purgar activamente las toxinas de la Fatiga y la mente logra salir del estado de shock agudo. Es lo más cercano a la seguridad que tendrás antes de encontrar un campamento o refugio real.
 
 **Efecto:**
 
@@ -176,7 +176,7 @@ Este descanso no libera Ranuras de Herida.
 
 ## Límite de recuperación breve
 
-Para evitar que el grupo encadene pausas hasta borrar toda presión de la aventura, solo el primer Descanso Corto tomado después de una escena significativa reduce Fatiga de forma normal.
+Tu biología tiene un límite anatómico. No puedes encadenar pausas repetidas en el barro para anular mágicamente el castigo de la intemperie. Solo el primer Descanso Corto tomado después de una escena significativa reduce Fatiga. Tras ese pico de estabilización, el cuerpo exige un Refugio y un Descanso Completo.
 
 Las pausas posteriores antes de una nueva escena significativa pueden seguir usarse para:
 

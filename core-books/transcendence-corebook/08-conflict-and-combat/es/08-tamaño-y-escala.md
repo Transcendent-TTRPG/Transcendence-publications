@@ -19,18 +19,18 @@ authority_refs:
 
 # Tamaño y Escala
 
-El tamaño de una criatura afecta directamente varios cálculos del sistema. Una criatura más grande tiene más Aguante, puede cargar más peso y tiene mayor rango visual. Una más pequeña puede maniobrar, trepar y pasar desapercibida con más facilidad, pero resiste peor las condiciones físicas adversas.
+El tamaño en Transcendence dicta tu lugar en la cadena alimenticia. La masa biológica de una criatura afecta drásticamente su supervivencia: un depredador grande tiene más Aguante, tolerancia a las alteraciones fisicas y rango visual, mientras que una presa pequeña puede maniobrar, trepar y escurrirse con más facilidad, a costa de salir volando ante un impacto directo.
 
-Las categorías de tamaño son:
+Las categorías de masa biológica son:
 
 | Tamaño | Criterio |
 | --- | --- |
-| Diminuto | La más pequeña. Insectos, animales de bolsillo, formas menores. |
+| Diminuto | La más pequeña. Parásitos, crías o plagas evasivas. |
 | Pequeño | Por debajo del rango humanoide estándar. |
-| Mediano | El rango humanoide estándar. Referencia del sistema. |
+| Mediano | El rango humanoide estándar. Referencia anatómica del sistema. |
 | Grande | Significativamente más grandes que un humanoide. |
-| Enorme | Criaturas masivas. Ocupan varias casillas en tablero. |
-| Gigantesco | La más grande. Bestias colosales, entidades. |
+| Enorme | Abominaciones de pura biomasa que destrozan el terreno al moverse. |
+| Gigantesco | Ápices evolutivos. Entidades cuya simple presencia altera la geografía. |
 
 ---
 
@@ -62,7 +62,7 @@ El modificador de tamaño aplica cuando la criatura realiza:
 - **Trepar** — ascenso o descenso de superficies verticales
 - **Sigilo** — reducir la señal del propio cuerpo para pasar desapercibido
 
-Una criatura Pequeña con Sigilo no es necesariamente más hábil — su firma física (visual, sonora, térmica) es simplemente más difícil de captar. Una criatura Grande carga con esa misma dificultad multiplicada al intentar moverse en silencio.
+Un explorador Pequeño escondido en el barro no es mágicamente más "sigiloso" que otro; simplemente tiene menos masa corporal para irradiar calor o crujir ramas al pisar. Un Gigante carga con esa misma desventaja térmica y sonora multiplicada al intentar acechar en el bosque.
 
 ---
 
@@ -76,7 +76,7 @@ El modificador de tamaño aplica cuando la criatura resiste:
 - **Desequilibrado** — perder temporalmente la estabilidad corporal
 - **Atrapado** — quedar inmovilizado o restringido en movimiento
 
-Una criatura de mayor tamaño tiene más masa, más base de contacto y más inercia. Es más difícil hacerla caer o atraparla. Una criatura pequeña puede ser volteada con menos esfuerzo, aunque sea igualmente ágil.
+No puedes derribar a una bestia Enorme simplemente empujando sus tobillos. Su pura masa, gravedad y momento de inercia absorben el impacto de un ataque que mandaría a volar a un explorador Pequeño. Un gigante exige tácticas estructurales para ser derribado.
 
 ---
 

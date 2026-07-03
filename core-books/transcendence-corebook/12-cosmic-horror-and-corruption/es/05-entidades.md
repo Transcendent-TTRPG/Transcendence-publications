@@ -20,7 +20,7 @@ authority_refs:
 
 # Entidades
 
-El Tauma existe en todas partes. Fluye desde el Limbo de forma continua y pasiva — es energía, no agente. Pero en zonas de alta concentración sostenida, rodeado durante generaciones de la consciencia colectiva de las criaturas que las habitaron, puede adquirir una forma distinta: dejar de ser Tauma que fluye y convertirse en Tauma que quiere. A eso se llama un **Primordial**.
+El Tauma fluye, no piensa. Pero en zonas de alta concentración sostenida, la energía primordial absorbe la consciencia colectiva y el tauma de las criaturas que la habitan. Imita sus miedos, sus masacres y sus rituales hasta que la distorsión cobra una aberrante y estructurada voluntad propia. A esta anomalía geológica y conceptual se le llama un **Primordial**.
 
 Un Primordial no preexiste como ser independiente. Emerge cuando el Tauma concentrado en una zona incorpora suficiente impronta de la vida consciente que la habita. Sus deseos, sus miedos, sus patrones rituales, sus guerras, sus creencias sostenidas durante siglos — todo eso orienta el Tauma hasta que el Tauma empieza a orientarse solo. El querer no es anterior a ese proceso. Es ese proceso.
 
@@ -62,9 +62,9 @@ Los vestigos de un Soberano son objetos con historia. El Narrador debería saber
 
 No tiene NR mínimo porque ningún NR lo hace accesible — su presencia en el mundo no es una recompensa de avance. Es una circunstancia narrativa excepcional, algo que ocurre cuando el Narrador decide que eso es lo que está en esa zona y que los personajes están a punto de atravesarla.
 
-Un Abismal no es un Soberano con más poder. Es un Primordial que ha alcanzado escala ecosistémica: lleva tiempo suficiente fluyendo a través del entorno vivo de su territorio que su expresión a través de organismos simples produce coordinación funcionalmente equivalente a inteligencia deliberada. La ecología, la geología, la química y el clima de ese territorio sirven a su naturaleza — no porque la entidad dirija cada elemento, sino porque el flujo sostenido durante tiempo geológico ha organizado todo el entorno según esa orientación.
+Un Abismal no es un Soberano con más poder. Es un Primordial que ha alcanzado escala ecosistémica: lleva tiempo suficiente fluyendo a través del entorno vivo de su territorio que la ecología, la geología, la química y el clima sirven orgánicamente a su naturaleza antinatural. 
 
-Entrar en territorio Abismal es entrar en el cuerpo de cruce de la entidad.
+Entrar en su territorio no es pisar un terreno dominado; es entrar literalmente en el cuerpo de la entidad. El entorno entero se convierte en un sistema nervioso de escala continental que responde a la lógica alienígena del Abismal.
 
 Un Abismal no deja vestigos. Si alguna vez estuvo en un objeto, lo transformó en un vínculo permanente o lo destruyó. Sus consecuencias sobre la cordura son permanentes y de alcance narrativo. Los Abismales son con frecuencia únicos.
 
@@ -94,7 +94,7 @@ Las entidades únicas son la excepción. Solo existe una instancia. Si el objeto
 
 El Tauma de una zona no es neutral. Se orienta por lo que la habita.
 
-Este proceso no es rápido ni voluntario. Es la acumulación de rituales, creencias, patrones de comportamiento sostenidos, eventos de alta intensidad emocional, generaciones enteras viviendo bajo las mismas condiciones. Lo que eso hace no es solo amplificar el Tauma — lo orienta. Y esa orientación determina qué Primordiales pueden manifestarse y qué naturaleza tendrán.
+Este proceso no es mágico ni voluntario. Es la acumulación de siglos de fanatismo, desesperación, muerte y creencias inamovibles. El Tauma es un espejo deformante: la historia sangrienta o ritual de una zona es lo que esculpe a las entidades que luego emergerán de ella. Esa orientación determina qué Primordiales pueden manifestarse y qué naturaleza tendrán.
 
 El fuego puede ser destrucción, transformación, renovación o sanación. La oscuridad puede ser ocultamiento, consumo, descanso u olvido. No es la energía lo que cambia — es lo que siglos de presencia consciente le han dado. Una zona de Tauma de fuego habitada durante generaciones por adoradores que asocian ese fuego con renovación produce entidades de fuego-renovación. La misma zona, después de ser consumida por décadas de guerra y fanatismo, puede orientar ese mismo Tauma hacia destrucción. Las capas de historia permanecen. Una entidad puede cambiar de naturaleza a lo largo de su existencia sin dejar de ser la misma entidad.
 

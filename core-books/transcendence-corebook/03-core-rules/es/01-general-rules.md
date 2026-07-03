@@ -22,9 +22,9 @@ section_modes:
 
 ## Sistema de dados
 
-Transcendence usa principalmente dados de diez caras. Algunas mecánicas, sobre todo las relacionadas con daño de armas, emplean otros tamaños: d4, d6, d8 y d12. Ciertas tiradas del Narrador pueden usar d100, resuelto con dos d10 leídos como decenas y unidades.
+El motor central de supervivencia en Transcendence es el dado de diez caras (**d10**). Sin embargo, la brutalidad del combate, la fisicalidad de las armas y la capacidad de soportar el daño exigen el uso de otros poliedros de impacto: **d4**, **d6**, **d8** y **d12**. Ciertas tablas de resolución del Narrador pueden requerir un **d100** (usando dos d10 leídos como decenas y unidades).
 
-Cada jugador necesita una hoja de personaje para registrar valores, recursos y efectos activos. La mesa también puede usar fichas, marcadores o referencias visuales para representar posiciones en la línea de tiempo **ATB**.
+Cada jugador necesita una hoja de personaje para registrar el estado de su superviviente. La mesa también usará fichas, marcadores o representaciones visuales para rastrear implacablemente las posiciones en la Línea de Tiempo Activa (**ATB**).
 
 ---
 
@@ -32,7 +32,7 @@ Cada jugador necesita una hoja de personaje para registrar valores, recursos y e
 
 Cuando una regla específica contradice una regla general, la regla específica prevalece. Una mecánica particular siempre tiene prioridad sobre la norma de fondo que normalmente resolvería esa situación.
 
-*Ejemplo:* si una habilidad define su duración como Nivel ÷ 2 redondeado hacia abajo, esa definición reemplaza la regla general de redondeo hacia arriba.
+*Ejemplo:* La regla general dicta que resistir la Alteración de Parálisis usa una Tirada de Resistencia normal. Sin embargo, la Herencia biológica de los Lapinni dicta que sufren un `-3` permanente a esta tirada debido a su metabolismo hiperactivo. La biología de la especie se impone a la regla general.
 
 ---
 
@@ -54,9 +54,9 @@ Cuando un cálculo produce fracciones o decimales, el resultado se redondea haci
 
 Cuando una criatura recibe múltiples efectos del mismo tipo, solo se aplica el de mayor magnitud. Esto incluye penalizaciones, bonificadores, reducciones de velocidad y otros modificadores que afecten el mismo valor o estado.
 
-Para comparar efectos del mismo tipo, primero se revisa la magnitud. Si ambos tienen la misma magnitud, prevalece el de mayor duración restante. Si el nuevo efecto supera al anterior, lo reemplaza y su duración comienza desde ese momento.
+Para comparar efectos del mismo tipo, se revisa su severidad o magnitud. En Transcendence no se rastrean asaltos ni turnos temporales; los efectos de los agravios o condiciones suelen ser instantáneos, persistentes hasta el final de la escena, o perduran indefinidamente hasta ser tratados. Por tanto, si un nuevo efecto de mayor o igual severidad impacta al personaje, reemplaza al anterior.
 
-*Ejemplo:* un personaje sufre una penalización que reduce su velocidad a la mitad durante 3 turnos. Luego recibe otra penalización del mismo tipo durante 6 turnos. Como la magnitud es la misma, se conserva la duración mayor: la penalización queda activa durante 6 turnos desde el nuevo efecto.
+*Ejemplo:* Un personaje sufre una Alteración de **Congelado** (Nivel Leve) persistente por exposición ambiental. Momentos después, el ataque criogénico de un adversario le aplica **Congelado** (Nivel Grave). Al ser el mismo tipo de efecto pero de mayor magnitud, la nueva condición aplasta a la anterior y se convierte en la única alteración activa a soportar.
 
 ---
 
@@ -70,34 +70,34 @@ Estas fases no son turnos ni estructuras obligatorias. La mesa las usa para reco
 
 ### Exploración
 
-La Exploración cubre el avance por el mundo, la investigación, la búsqueda de recursos y la interacción con lugares o habitantes. No hay una urgencia táctica inmediata, pero las decisiones dejan rastro: una ruta elegida, una pista ignorada, una puerta abierta, un recurso consumido.
+La Exploración cubre el avance por los implacables ecosistemas y las Zonas Primordiales. Es la fase de investigación, supervivencia ambiental y toma de decisiones fuera de peligro inminente. No hay urgencia táctica medida en el ATB, pero la presión siempre existe: buscar reliquias en estructuras incomprensibles o navegar ecosistemas tóxicos consume recursos. Cada ruta elegida y cada puerta forzada desgasta las reservas del grupo.
 
-En esta fase, las reglas de descanso, especialización, preparación y gestión del entorno operan con mayor libertad.
+En esta fase, las reglas de orientación, supervivencia, gestión de la intemperie y pruebas de especialización operan con mayor libertad temporal.
 
 ---
 
 ### Conflicto
 
-El Conflicto comienza cuando una escena exige resolución táctica inmediata. Puede tratarse de combate, una confrontación peligrosa, una persecución, una defensa desesperada o un obstáculo que no puede resolverse sin medir tiempo, posición y consecuencia.
+El Conflicto estalla cuando el riesgo letal exige resolución táctica inmediata. Ya sea una emboscada, una cacería de un depredador primigenio o una defensa desesperada, el tiempo lineal se rompe y el sistema **ATB** toma el control absoluto.
 
-Durante el Conflicto, el sistema **ATB** toma el control del tiempo. Las reglas de **Desgaste**, acciones y reacciones determinan qué puede hacer cada criatura y cuánto le cuesta intervenir.
+En esta fase reina la adrenalina. Los personajes no resienten la *Fatiga* de inmediato; en su lugar, acumulan **Desgaste** táctico al ejecutar maniobras y forzar sus músculos. El combate en Transcendence no trata sobre agotar puntos de vida abstractos de forma estática, sino de posicionamiento, daño anatómico a Zonas específicas y una gestión implacable del Ritmo para adelantarte a lo que intenta matarte.
 
-Todo participante en un Conflicto es una **criatura**. Este término incluye personajes jugadores, personajes del Narrador, adversarios y cualquier entidad que actúe dentro de la escena. El flujo completo del Conflicto se describe en el capítulo de Combate.
+Todo participante en un Conflicto es mecánicamente una **criatura**. Esto aplica a personajes jugadores, aberraciones del Limbo o mercenarios por igual.
 
 ---
 
 ### Interludio
 
-El Interludio cubre lapsos de días o más que avanzan sin el detalle escena a escena. Los personajes fabrican, reparan, descansan, tratan heridas, gestionan recursos, desarrollan relaciones o preparan el siguiente avance.
+Cuando la sangre fría de la adrenalina se desvanece, la escena entra en Interludio. Es aquí donde el costo de la supervivencia pasa una factura brutal: el Desgaste acumulado durante el estrés se asienta en el cuerpo en forma de **Fatiga**, y la mente comienza a procesar el peso psicológico de la exposición al horror (Aflicciones).
 
-El tiempo fluye con menos presión inmediata, pero las consecuencias suelen durar más. Lo que se decide durante un Interludio puede definir con qué recursos, heridas, vínculos o riesgos empieza la siguiente escena.
+El Interludio cubre las acampadas, los encierros en santuarios y los lapsos extendidos donde los personajes suturan heridas, fabrican medicina bio-orgánica, reparan blindaje destrozado y evalúan si sus cuerpos pueden soportar otra incursión al día siguiente. 
 
 ---
 
 ## Ejemplo
 
-Un grupo atraviesa unas ruinas en busca de una reliquia. Mientras explora pasillos, revisa rastros y decide qué ruta seguir, la escena está en Exploración.
+Una caravana de sobrevivientes Loxod y exploradores Lapinni se adentra cuidadosamente en los restos de una necrópolis. Mientras descifran los rastros en la piedra y gestionan sus antorchas, la escena fluye en **Exploración**.
 
-Cuando una criatura emerge del fondo del santuario y obliga a reaccionar bajo presión inmediata, la escena pasa a Conflicto. El tiempo deja de avanzar de forma libre y el sistema ATB determina el orden de intervención.
+De pronto, la vibración del suelo y un crujido antinatural delatan una amenaza inminente. La urgencia quiebra el avance libre: el tiempo colapsa en la línea del **ATB** y los personajes queman Desgaste para desenvainar y reposicionarse antes de que la criatura salte. Están en **Conflicto**.
 
-Después del encuentro, los personajes remiendan equipo, atienden heridas y organizan el siguiente avance. La escena entra en Interludio.
+Horas más tarde, con la amenaza erradicada, la adrenalina cae en picada. Los sobrevivientes establecen un perímetro seguro bajo un arco de piedra a medio colapsar. Mientras el dolor punzante del combate se convierte en Fatiga y aplican ungüentos a sus desgarros bajo la fría noche, la escena ha transitado hacia el **Interludio**.

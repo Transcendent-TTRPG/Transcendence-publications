@@ -31,7 +31,7 @@ section_modes:
 
 ## Resolver una tirada
 
-Las tiradas resuelven acciones cuando el resultado no está asegurado y existe una consecuencia relevante. Pueden aparecer en combate, exploración, interacción social o cualquier escena donde la presión haga que fallar importe.
+Las tiradas dictan quién vive, quién sangra y quién logra aprender del trauma cuando el resultado no está asegurado y las consecuencias son letales. Aparecen en combate, durante la navegación de ecosistemas hostiles o en cualquier escena donde la presión exija un costo físico, mental o social para seguir adelante.
 
 La base de una tirada es un `d10`. A ese resultado se suman características, competencias, equipo, rasgos, condiciones y otros modificadores según el tipo de acción.
 
@@ -43,9 +43,9 @@ No todas las tiradas entrenables usan Ventaja Evolutiva. Algunas, como las Tirad
 
 ## Ventaja Evolutiva
 
-La Ventaja Evolutiva representa la forma en que un personaje afronta una acción entrenada bajo presión. Antes de tirar, el jugador elige si prioriza la ejecución inmediata o la posibilidad de aprendizaje.
+La Ventaja Evolutiva es el pulso constante entre sobrevivir el hoy y trascender el mañana. Representa la forma visceral en que un personaje afronta una acción entrenada bajo presión extrema. Antes de lanzar los dados, el jugador debe tomar una decisión táctica: ¿Asegura el impacto para mantenerse con vida (Ventaja en la Ejecución), o duda un milisegundo, exponiendo el cuerpo al error fatal, para obligar a su neurología a registrar la experiencia (Ventaja en el Aprendizaje)?
 
-Esta elección solo aplica a tiradas donde el personaje tiene control activo sobre su ejecución:
+Esta elección solo aplica a tiradas donde el personaje tiene control activo sobre su cuerpo o mente:
 
 - **Tirada de Ataque**
 - **Tirada de Defensa**
@@ -65,7 +65,7 @@ Las Resistencias pueden progresar, pero no mediante Ventaja Evolutiva. Progresan
 
 El jugador lanza dos dados y usa el resultado mayor para resolver la tirada.
 
-La acción tiene más probabilidad de éxito, pero no puede generar progreso. El personaje se concentra en ejecutar bien, no en exponerse al error necesario para aprender.
+La acción tiene más probabilidades de éxito, garantizando la supervivencia o el daño inmediato, pero es imposible generar progreso. El personaje actúa puramente por instinto reflejo o memoria muscular, negándose a exponerse al error necesario para que la mente asimile nueva información.
 
 ---
 
@@ -73,7 +73,7 @@ La acción tiene más probabilidad de éxito, pero no puede generar progreso. El
 
 El jugador lanza dos dados y usa el resultado menor para resolver la tirada. El dado mayor queda reservado como dado de aprendizaje.
 
-Después de resolver la acción, se compara el dado de aprendizaje contra el resultado usado en la tirada y el rango de la competencia que puede progresar.
+Al hacer esto, has forzado a tu cuerpo a probar un método incierto en el peor momento posible. Después de resolver la acción (y sufrir las posibles consecuencias tácticas de usar el dado menor), se compara el dado de aprendizaje contra el resultado usado en la tirada y el rango de la competencia que puede progresar.
 
 ```text
 Dado de aprendizaje > dado usado + rango de competencia
@@ -101,7 +101,7 @@ Las fórmulas de este capítulo usan características como Agilidad, Fuerza, Ten
 
 ### Tirada de Ataque (T.A.)
 
-La Tirada de Ataque mide si una ofensiva conecta. Puede venir de un arma, una maniobra, una habilidad o un objeto usado bajo presión. Se compara contra la defensa, la resistencia u otra tirada opuesta que corresponda.
+La Tirada de Ataque mide tu capacidad de quebrar blindajes, sortear reflejos enemigos y desgarrar la carne bajo presión letal. Puede provenir de un arma, una mutación anatómica, una maniobra táctica o un objeto improvisado. Se compara contra la defensa o la resistencia de la criatura objetivo.
 
 **Fórmula:**
 
@@ -109,13 +109,13 @@ La Tirada de Ataque mide si una ofensiva conecta. Puede venir de un arma, una ma
 T.A. = 1d10 + nivel de competencia + rango de competencia + característica asociada + bonificadores adicionales
 ```
 
-El nivel de competencia aporta práctica acumulada. El rango de competencia representa el grado de dominio alcanzado. La característica asociada aporta la aptitud física, mental o sensorial que sostiene la ejecución.
+El nivel y rango de competencia aportan la brutalidad técnica acumulada en incontables combates. La característica asociada dicta si el golpe se sostiene en fuerza pura, velocidad espasmódica o instinto predatorio.
 
 ---
 
 ### Tirada de Defensa (T.D.)
 
-La Tirada de Defensa mide si una criatura evita un ataque entrante. Combina reflejos, movilidad, entrenamiento evasivo, armadura en la zona amenazada y protección adicional de escudos u otros efectos defensivos.
+La Tirada de Defensa es el instinto primario de preservar la vida: el reflejo de apartarse, desviar el impacto o interponer acero grueso fracciones de segundo antes de que una extremidad sea amputada. Combina movilidad, entrenamiento evasivo y el bloqueo pasivo otorgado por la armadura que cubre la Zona Anatómica amenazada.
 
 **Fórmula:**
 
@@ -150,9 +150,9 @@ La T.D. debe igualar o superar la tirada ofensiva del oponente para evitar daño
 
 ### Tirada de Impacto (T.I.)
 
-La Tirada de Impacto se resuelve después de que un ataque supera la defensa o la tirada opuesta correspondiente. Define cuánto daño llega al objetivo.
+La Tirada de Impacto se efectúa cuando un ataque quiebra la línea defensiva (la T.A. supera la T.D.). Determina cuánta violencia física o cinética penetra realmente en la Zona Anatómica del objetivo, antes de que el blindaje pueda mitigarla.
 
-La T.I. no usa un `d10` base. Usa el dado de daño del arma, multiplicado por el rango de competencia del personaje con esa arma. La característica asociada y el grado del arma añaden ejecución y potencia del equipo.
+La T.I. no usa un `d10` base. Escala con la masacre: usa el dado de daño del arma multiplicado por el rango de competencia del atacante. La característica asociada y la potencia material del arma añaden el empuje destructivo estructural.
 
 **Fórmula:**
 
@@ -216,11 +216,11 @@ La T.C. entra en juego cuando no hay una competencia específica que resuelva me
 
 ### Tirada de Resistencia (T.R.)
 
-La Tirada de Resistencia resuelve si una criatura soporta, evita o reduce un efecto perjudicial: veneno, infección, aflicción, maldición o alteración.
+La Tirada de Resistencia determina si un organismo soporta, purga o colapsa ante un efecto invasivo letal: neurotoxinas, infecciones patógenas, parálisis estructural o la radiación enloquecedora del Tauma (Aflicciones).
 
-A diferencia de una Tirada de Ataque, Defensa o Especialización, una T.R. no representa una ejecución voluntaria del personaje. Representa una respuesta del cuerpo, la mente o la esencia frente a un peligro que intenta afectarlo.
+A diferencia de una Tirada de Ataque o Defensa, una T.R. no es una maniobra consciente. Es el sistema inmunológico, la densidad biológica y la cordura del cerebro luchando para mantener el cuerpo íntegro frente a la hostilidad exterior.
 
-Por eso, la T.R. se resuelve con un solo dado y no usa Ventaja Evolutiva por defecto.
+Debido a su naturaleza fisiológica y autónoma, la T.R. se resuelve con un solo dado y no usa Ventaja Evolutiva por defecto.
 
 La característica base depende del tipo de efecto. La resistencia correspondiente añade experiencia acumulada frente a ese peligro.
 
@@ -538,7 +538,7 @@ Las Resistencias se suman a la T.R. correspondiente, pero no usan Ventaja Evolut
 
 ## Aprendizaje por exposición
 
-Las Resistencias aumentan cuando el personaje se expone a un peligro real, lo sufre y sobrevive a sus consecuencias.
+Nadie aprende a resistir un ácido corrosivo o la psique de un Primordial practicando en un entorno seguro. El cuerpo y la mente solo desarrollan Resistencias cicatrizando, mutando y adaptándose después de haber sido llevados al borde del fallo sistémico. Las Resistencias crecen cuando un personaje se expone a un peligro real, lo sufre en carne propia y logra sobrevivir a sus consecuencias.
 
 Una Resistencia puede ganar progreso si se cumplen todas estas condiciones:
 

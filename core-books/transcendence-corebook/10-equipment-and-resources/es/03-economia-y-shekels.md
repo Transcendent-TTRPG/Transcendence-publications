@@ -18,7 +18,7 @@ authority_refs:
 
 # Economía y Shekels
 
-El mundo no es próspero. Los asentamientos son refugios — concentraciones de individuos donde el esfuerzo colectivo crea un margen de supervivencia que no existe en ningún otro lado. No proyectan riqueza hacia afuera. Sostienen lo necesario hacia adentro.
+El mundo no produce riqueza, produce cadáveres. Los asentamientos son refugios — concentraciones de individuos donde el esfuerzo colectivo crea un margen de supervivencia que no existe en ningún otro lado. No proyectan economía hacia afuera; apenas sostienen lo necesario hacia adentro.
 
 En ese contexto, el comercio no es abundante: es crítico. Lo que no se puede producir localmente hay que obtenerlo de alguien que sí puede, y ese alguien puede estar al otro lado de una ruta que mata a la mitad de los que la intentan. El Shekel existe porque en un mundo así necesitas algo que cualquier persona — de cualquier asentamiento, de cualquier especie — reconozca como válido para intercambiar.
 
@@ -34,7 +34,7 @@ Un Shekel es una unidad de peso en metal estandarizado. Su forma varía entre as
 
 ## Costo de vida
 
-Dentro de un asentamiento, la infraestructura colectiva — almacenes comunes, defensas compartidas, acceso a artesanos locales — reduce el costo de subsistir. Fuera de un asentamiento, cada recurso tiene el precio del riesgo que costó traerlo.
+Dentro de un asentamiento, la infraestructura colectiva — almacenes comunes, defensas compartidas, acceso a artesanos locales — reduce el costo de subsistir. Fuera de los muros, cada ración de comida, recurso y gota de agua purificada tiene el precio del riesgo y la sangre que costó protegerlos en el trayecto.
 
 ### Dentro de un asentamiento
 
@@ -120,7 +120,7 @@ El equipo con componentes vivos — materiales en estado vivo según la taxonom�
 
 El costo de mantenimiento de un objeto con componente vivo es una fracción periódica de su valor de fabricación. El Narrador establece la frecuencia según el organismo involucrado (puede ser diaria, semanal o mensual) y el costo según la accesibilidad de los insumos necesarios.
 
-El equipo inerte puro — solo metal, madera, fibra o cuero sin componentes biológicos activos — no requiere mantenimiento más allá del uso normal. Una espada de hierro puede oxidarse si se descuida, pero no muere.
+El equipo inerte puro — solo metal, madera, fibra o cuero sin componentes biológicos activos — no requiere mantenimiento más allá del uso normal. Una espada de hierro forjado puede oxidarse si se descuida, pero no se muere. Sin embargo, un blindaje con placas vivas o una empuñadura reactiva que no reciba su mantenimiento terminará pudriéndose, marchitándose, o comprometiendo el resto de tu equipo.
 
 ---
 

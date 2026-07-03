@@ -27,13 +27,13 @@ section_modes:
 
 # Cobertura, Visibilidad y Ocultación
 
-Cobertura, Visibilidad y Ocultación resuelven tres capas distintas de una escena.
+En la intemperie o las Zonas Primordiales, lo que no puedes ver te mata. Cobertura, Visibilidad y Ocultación resuelven tres capas distintas de la supervivencia táctica.
 
 | Capa | Qué resuelve |
 | --- | --- |
-| **Cobertura** | Si algo físico bloquea, desvía o absorbe una línea de ataque |
-| **Visibilidad** | Qué tan lejos y con qué claridad se pueden distinguir detalles |
-| **Ocultación** | Si una criatura está localizada con precisión por un enemigo |
+| **Cobertura** | Qué masa sólida se interpone entre tu carne y las garras o proyectiles del enemigo |
+| **Visibilidad** | Hasta dónde y con qué claridad llegan tus ojos en medio del caos ambiental |
+| **Ocultación** | Si la bestia (o la presa) sabe exactamente en qué punto estás escondido |
 
 Estas capas se resuelven por separado.
 
@@ -349,13 +349,11 @@ Si el ataque conecta, el Impacto se resuelve normalmente salvo que una regla esp
 
 ## Ocultación
 
-La **Ocultación** es la capa del sistema que gobierna el estado táctico `Oculto`, la detección, la posición aproximada y la pérdida o mantenimiento de esa ventaja.
+La **Ocultación** es la capa del sistema que gobierna el estado táctico `Oculto`. Es convertir el terreno en tu madriguera o en tu coto de caza, dictando quién detecta a quién, y qué tan rápido pierdes esa ventaja.
 
 Una criatura `Oculta` no está localizada con precisión por uno o más enemigos.
 
-No es invisibilidad. No es inmunidad. No borra evidencia física.
-
-Significa que el enemigo no sabe exactamente dónde está la criatura o no puede fijarla como objetivo directo.
+No es magia de invisibilidad. No otorga inmunidad mecánica. Si estás `Oculto`, significa que el Primordial puede oler tu sudor en el aire o escuchar una rama crujir, pero la densidad del entorno le impide saber exactamente en qué dirección hundir los dientes, impidiéndole fijarte como objetivo directo.
 
 ### Estado `Oculto`
 

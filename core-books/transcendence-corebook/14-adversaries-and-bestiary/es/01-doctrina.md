@@ -18,7 +18,7 @@ authority_refs:
 
 # Doctrina, Naturaleza, Categoría y Rol
 
-Cada criatura es un sistema con comportamientos, y cada comportamiento tiene un cuerpo que lo hace posible.
+Cada criatura es un sistema biológico diseñado para matar o sobrevivir, y cada comportamiento letal tiene una anatomía que lo hace posible.
 
 ---
 
@@ -30,7 +30,7 @@ El punto de partida siempre son los comportamientos: qué hace la criatura, cóm
 
 **Si un comportamiento no tiene zona, no es un comportamiento: es una abstracción. Las abstracciones no pertenecen al diseño de criaturas.**
 
-Cuando una zona colapsa, el comportamiento vinculado a ella se detiene. Los jugadores que apuntan a zonas desmantelan la criatura parte a parte: cuando una zona colapsa, el comportamiento que sostenía desaparece. La pregunta táctica es cuál desactivar primero, y qué hace la criatura cuando lo pierde.
+Cuando una zona colapsa, el comportamiento vinculado a ella se detiene. Los jugadores que apuntan a zonas desmantelan a la criatura parte por parte: cuando una zona colapsa, el comportamiento que sostenía muere con ella. La pregunta táctica no es cuánto daño hacer en general, sino qué órgano mutilar primero, y cómo responderá la criatura al dolor y a la pérdida.
 
 ---
 
@@ -40,18 +40,18 @@ La naturaleza describe la composición biológica de la criatura y su relación 
 
 ### Mortal
 
-Puramente biológica. Sin Tauma en su composición ni en sus procesos internos. La resistencia a daño elemental es natural — pieles, conchas, densidad, masa — y se expresa a través de los valores de Bloqueo en las zonas relevantes.
+Carne, hueso, ácido y quitina. Sin Tauma en su composición ni en sus procesos internos. La resistencia a daño elemental es biológica — pieles gruesas, conchas, densidad, masa — y se expresa a través de los valores de Bloqueo en las zonas relevantes.
 
 ### Anomalía
 
-Base biológica con Tauma presente en sus procesos internos. El Tauma es parte de su metabolismo, no una habilidad que activa o controla.
+Organismos mutados donde el Tauma se ha integrado parasíticamente a sus procesos biológicos. El Tauma es parte indisoluble de su metabolismo, no una habilidad que activa o controla.
 
 - **Afinidad elemental:** 50% de reducción de daño del elemento afiliado.
 - **Vulnerabilidad elemental:** +50% de daño del elemento opuesto.
 
 ### Primordial
 
-Entidades compuestas enteramente de Tauma. Sin estructura biológica convencional.
+Anomalías sin estructura biológica convencional. Entidades compuestas enteramente de la distorsión del Limbo.
 
 - **Afinidad elemental:** 100% de reducción de daño del elemento afiliado.
 - **Vulnerabilidad elemental:** +100% de daño del elemento opuesto.
@@ -80,9 +80,9 @@ Una criatura Elite no es un Común o un Campeón con más potencia — es un enc
 
 Las criaturas Elite tienen además:
 
-**Metamorfosis** — Fases que se activan cuando colapsan zonas específicas. Cada fase modifica los comportamientos disponibles, los ciclos activos y las condiciones ambientales. Las fases no están telegrafidas a los jugadores; los aprenden a través del encuentro.
+**Metamorfosis** — El colapso de órganos principales desencadena respuestas biológicas de supervivencia catastrófica. Cada fase modifica a la bestia, alterando los comportamientos disponibles, los ciclos y el entorno de forma impredecible. Las fases no están telegrafiadas; los jugadores las sufren a medida que desmantelan a la criatura.
 
-**Apoteosis** — Fase final que se activa después de completar todas las fases de Metamorfosis. Concede a la criatura +3 a todas las tiradas de ataque. Reduce en 1 el rango de amenaza crítica para los jugadores que la atacan.
+**Apoteosis** — El organismo llevado más allá de su límite evolutivo; el pico de adrenalina o inestabilidad antes del colapso total. Se activa después de completar todas las fases de Metamorfosis. Concede a la criatura +3 a todas las tiradas de ataque. Reduce en 1 el rango de amenaza crítica para los jugadores que la atacan.
 
 **Golpe Final** — La acción coordinada específica que pone fin a la criatura durante la Apoteosis. Se define por criatura. Requiere daño umbral entregado a través de un ataque coordinado declarado. Hasta que se ejecute el Golpe Final, la criatura en Apoteosis no puede reducirse por debajo de 1 PV en ninguna zona.
 

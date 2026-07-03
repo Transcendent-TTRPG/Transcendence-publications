@@ -20,7 +20,7 @@ authority_refs:
 
 # Herramientas, Kits e Infraestructura
 
-Las herramientas que usan todas las demás especializaciones las produce **Ingeniería**: los picos, los alambiques, los kits de campo, las instalaciones fijas.
+Sin el acero forjado y los mecanismos creados por **Ingeniería**, las demás especializaciones mueren en el lodo con las manos vacías. Ingeniería produce los picos, los alambiques, los kits de campo y las instalaciones fijas.
 
 ---
 
@@ -32,7 +32,7 @@ Toda herramienta de este capítulo pertenece a una de dos categorías. La distin
 
 **Gran calibre** — fijo. Requiere espacio dedicado, y el trabajo que habilita no puede realizarse sin él. Forjar placas de metal necesita yunque y forja. Sintetizar un veneno necesita alambique. No hay atajos de grado ni de habilidad que cambien eso.
 
-La distinción no es de peso ni de precio. Una prensa de cuero de 25 kg es gran calibre no porque pese, sino porque necesita suelo nivelado, anclaje y espacio de trabajo que no vas a montar en campo. La pregunta siempre es si la actividad necesita instalación.
+La distinción no es una etiqueta de precio. Es la diferencia brutal entre suturar una hemorragia bajo la lluvia ácida (Kit) y fundir escoria en el refugio de un asentamiento (Gran Calibre). Una prensa de cuero de 25 kg es gran calibre no por su peso, sino porque exige un suelo nivelado y anclaje que no vas a conseguir mientras huyes en la intemperie. La pregunta siempre es si la actividad exige logística de instalación.
 
 ### Alquimia: preparación e índices
 
@@ -76,7 +76,7 @@ Los kits **consumibles** — Médico, Alquímico, Conservación y Veneno — tie
 | Kit de Municiones | Ingeniería | 5 kg | 300 S | — |
 | Kit de Reparación | Ingeniería | 7 kg | 300 S | — |
 
-**Kit de Extracción** — Bisturíes, jeringas, recipientes sellados, pinzas de precisión. Sin él, la extracción de partes sensibles en campo produce muestra arruinada con facilidad. El grado determina hasta qué accesibilidad puedes trabajar sin perder la pieza.
+**Kit de Extracción** — Bisturíes, jeringas, recipientes sellados, pinzas de precisión. Sin él, intentar extraer glándulas sensibles es solo carnicería inútil, produciendo muestras arruinadas. El grado determina hasta qué accesibilidad puedes trabajar sin perder la pieza.
 
 **Kit Médico** — Vendajes, antisépticos, suturas, pinzas, compuestos estabilizadores. Lo que cambia con el grado no es si puedes tratar en campo — siempre puedes — sino qué: venenos comunes con Grado 1, condiciones de accesibilidad Singular con Grado 3.
 
@@ -92,7 +92,7 @@ Los kits **consumibles** — Médico, Alquímico, Conservación y Veneno — tie
 
 **Kit de Municiones** — Herramientas de corte y moldeado, vástagos, plumas, resinas, piezas metálicas. Cubre fabricación de proyectiles estándar y munición especial, y es **requisito** para técnicas que dependen de munición especial — sin él, esas técnicas no son ejecutables sin importar la especialización. El grado determina qué tipos de proyectil puedes producir.
 
-**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Para estabilizar en campo equipo que ya se rompió — no reemplaza a la forja, compra tiempo. El grado determina qué materiales puedes abordar y cuánta D deja el parche: un kit de Grado 3 devuelve hasta D=3. Pero el objeto recuerda los parches: cada vez que lo repares en campo sin pasar por gran calibre primero, la D que recuperas baja en 1. La forja lo reinicia.
+**Kit de Reparación** — Martillo de campo, lima, tenazas, aceite, parches de metal y cuero. Para estabilizar en campo equipo que ya se destrozó — no reemplaza a la forja, solo te compra tiempo para no morir desarmado. El grado determina qué materiales puedes abordar y cuánta D deja el parche: un kit de Grado 3 devuelve hasta D=3. Pero el objeto recuerda los parches: cada vez que lo repares en campo sin pasar por gran calibre primero, la D que recuperas baja en 1. La forja lo reinicia.
 
 ---
 
@@ -246,11 +246,11 @@ El tamaño de la criatura determina la complejidad mínima del equipo:
 
 ## Equipo para operación en criaturas gigantescas
 
-Las criaturas de escala gigantesca o colosal representan un entorno de trabajo, no solo un combate. Su superficie corporal puede ser el terreno de misiones enteras — para localizar órganos vitales, aplicar procedimientos de Medicina a escala masiva, extraer materiales desde zonas internas, o neutralizar amenazas parásitas que habitan el cuerpo de la bestia.
+Una criatura de escala gigantesca o colosal no es un simple enemigo; es un entorno hostil en movimiento. Su superficie corporal puede ser el terreno de misiones enteras — escalar capas de queratina, fijar plataformas en músculo expuesto para taladrar la coraza biológica, extraer materiales internos masivos, o neutralizar amenazas parásitas que habitan en el cuerpo de la bestia.
 
 Ingeniería produce los sistemas especializados que hacen esto posible:
 
-- **Garfios y cables de anclaje** — para fijar posición en superficies de piel gruesa, membrana o escama.
+- **Garfios y cables de anclaje** — para fijar posición escalando superficies de piel gruesa, membranas, o placas de quitina.
 - **Plataformas de trabajo portátiles** — estructuras plegables que se despliegan en puntos de anclaje para trabajar sin movimiento activo.
 - **Sistemas de tracción** — mecanismos que permiten escalar o desplazarse por la superficie exterior de la criatura sin consumir esfuerzo constante.
 - **Instrumentos de perforación asistida** — para acceder a zonas internas sin herramientas de extracción genéricas.

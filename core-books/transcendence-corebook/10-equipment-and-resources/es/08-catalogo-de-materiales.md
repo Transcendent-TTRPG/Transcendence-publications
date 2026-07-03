@@ -36,7 +36,7 @@ Los materiales de Accesibilidad **Limitada** o **Singular** pueden no estar disp
 | **S/u** | Precio por unidad (partes sensibles) |
 | **S/L** | Precio por litro (fluidos) |
 
-La **Durabilidad** refleja qué tan resistente es la estructura del material a ser rota bajo impacto. La **Potencia** refleja con qué efectividad el material transmite o genera fuerza estructural sobre otro objeto — capacidad de corte, masa, densidad de impacto. Estos valores se usan en el sistema de Ruptura durante los Impactos Críticos.
+La **Durabilidad** no es solo dureza; es cuánto castigo puede absorber el material antes de hacerse pedazos bajo tensión. La **Potencia** es capacidad de destrucción pura: densidad, masa inercial y transmisión de fuerza hacia otro objeto. Estos valores se usan en el sistema de Ruptura durante los Impactos Críticos.
 
 ---
 
@@ -120,7 +120,7 @@ El cuero y el cuero escamado son materiales **procesados** — se obtienen a par
 
 ## Partes de criatura — sensibles
 
-Materiales de precisión para uso alquímico. No tienen valor estructural — su D y P indican únicamente que se destruyen ante el menor intento de ruptura.
+Insumos biológicos crudos para alquimia. No tienen ningún valor estructural; golpea una armadura con una glándula y lo único que lograrás será ensuciarte. Su D y P indican únicamente que se destruyen ante el menor intento de ruptura.
 
 | Material | Acc. | Precio | D base | P base | Unidad |
 | --- | --- | --- | ---: | ---: | --- |
@@ -135,7 +135,7 @@ Materiales de precisión para uso alquímico. No tienen valor estructural — su
 
 Las gemas se usan en cantidades pequeñas en joyería. Los precios por kilogramo son para referencia de extracción y comercio mayorista — una pieza de joyería consume entre 0,02 y 0,1 kg de material.
 
-**Dureza** y **Potencia** no son lo mismo. El diamante raya todo — y se parte ante un impacto directo. El jade es menos duro pero casi imposible de fracturar.
+**Dureza** y **Potencia** no son lo mismo. El diamante raya cualquier placa de acero, pero un mazazo de hierro pesado lo convierte en polvo al instante. El jade apenas tiene filo ofensivo, pero es tan denso que es casi imposible de fracturar.
 
 | Material | Acc. | S/kg | D base | P base | Notas |
 | --- | --- | ---: | ---: | ---: | --- |

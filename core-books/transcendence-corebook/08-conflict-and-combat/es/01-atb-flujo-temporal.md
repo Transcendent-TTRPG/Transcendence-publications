@@ -25,26 +25,22 @@ section_modes:
 
 # ATB: Flujo Temporal de Combate
 
-El combate no se divide en rondas fijas. Cada criatura actúa según su posición en el flujo temporal, su Preparación y el costo de ritmo de sus acciones.
-
-El **ATB** — Flujo Temporal de Combate — representa cuándo una criatura está lista para actuar y cuánto tarda en volver a estarlo.
+El combate en Transcendence no es un intercambio ordenado de turnos fijos. Es un caos hiperactivo de adrenalina, pánico y reflejos de supervivencia. El **ATB (Línea de Tiempo Activa)** no divide el tiempo en rondas estáticas; representa el avance inexorable de una masacre y los preciosos segundos que tardan tus músculos en volver a reaccionar tras un esfuerzo táctico.
 
 El ATB responde dos preguntas:
 
 > ¿Quién actúa ahora?  
-> ¿Cuánto tarda en volver a actuar?
+> ¿Cuánto tardará tu cuerpo en volver a responder?
 
 ---
 
 ## El Flujo Temporal
 
-El ATB se representa como un **track circular**.
+El ATB se representa físicamente en la mesa como un **track circular continuo**.
 
-Cada participante ocupa una posición numerada en ese track. En el track hay un **marcador de flujo** que registra el momento presente del combate.
+Cada participante ocupa una posición numerada. En el track hay un **marcador de flujo** que registra el presente absoluto del combate.
 
-Cuando una criatura se activa, el marcador se coloca en el número correspondiente a su ficha. La criatura declara su acción y mueve su ficha pagando el costo de ritmo. Una vez resuelta la acción, el marcador avanza en el sentido de las manecillas del reloj hasta la siguiente ficha más próxima — esa criatura se activa y el proceso se repite.
-
-El track circular resuelve el problema práctico de la línea infinita: las fichas no se reposicionan. Las fichas avanzan alrededor del track, y el marcador siempre sigue a la siguiente ficha disponible en el sentido del reloj.
+Cuando una criatura se activa, el marcador se empareja con su ficha. La criatura declara su acción y mueve su ficha hacia adelante (alejándose del marcador) pagando el *costo de ritmo*. Este desplazamiento físico de la ficha representa el tiempo de recuperación táctica que necesita antes de volver a ser una amenaza. Una vez resuelta la acción, el marcador avanza inexorablemente en el sentido de las manecillas del reloj hasta la siguiente ficha más próxima; esa criatura se activa y el ciclo continúa.
 
 El track permite ver:
 
@@ -59,9 +55,9 @@ El orden de combate no queda fijo al inicio. Cambia con cada activación.
 
 ## Apertura del combate
 
-Cuando comienza una escena hostil, cada participante recibe una posición inicial en el ATB.
+Cuando la violencia estalla, no todos reaccionan igual. El Valor de Apertura determina quién tiene los nervios más templados frente al horror para asegurar el primer impacto.
 
-Para hacerlo, cada participante calcula su **Valor de Apertura**.
+Para establecer el orden inicial, cada participante calcula su **Valor de Apertura**.
 
 ```text
 Valor de Apertura = Preparación + modificadores de situación
@@ -172,9 +168,9 @@ El costo de ritmo no es lo mismo que el Desgaste.
 | Ritmo | Cuánto tarda la criatura en volver a actuar |
 | Desgaste | Cuánta presión acumulada deja la acción sobre cuerpo, mente o compostura |
 
-Una acción puede ser rápida pero agotadora. También puede ser lenta sin generar mucho Desgaste.
+Una técnica marcial puede resolverse en un parpadeo (bajo costo de Ritmo), pero desgarrar tus tendones en el proceso (alto costo de Desgaste). Por el contrario, recargar y preparar un arma pesada puede tomar tiempo (alto Ritmo), pero no exigirte físicamente.
 
-El ritmo organiza el tiempo. El Desgaste registra el costo interno de sostener la acción.
+El Ritmo organiza el tiempo continuo del combate. El Desgaste registra el sufrimiento fisiológico del cuerpo para sostener ese ritmo.
 
 ---
 

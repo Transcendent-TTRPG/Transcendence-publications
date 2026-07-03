@@ -19,13 +19,13 @@ authority_refs:
 
 # Alquimia
 
-Los compuestos alquímicos entran en un organismo y cambian algo en él: la velocidad de respuesta, la resistencia, el estado de consciencia, la capacidad de moverse. Los reactivos son partes de criatura y vegetales; el proceso, Alquimia.
+En Transcendence, la alquimia no es magia embotellada; es farmacología de supervivencia y toxinas armadas. Extraes fluidos, neurotoxinas y glándulas de los cadáveres y los obligas a reaccionar, inyectando los peores mecanismos del mundo salvaje en el torrente sanguíneo de tu presa... o en el tuyo propio.
 
 ---
 
 ## Preparación e índices alquímicos
 
-La fabricación tiene dos etapas con requisitos distintos. La primera — moler, medir y combinar los reactivos base — se llama preparación de **índices alquímicos** y puede hacerse en campo con el Kit Alquímico. La segunda — sintetizar el elixir o veneno terminado — siempre necesita alambique u horno en instalación fija.
+La fabricación tiene dos etapas con requisitos distintos. La primera — moler glándulas, aislar toxinas y estabilizar sangre negra antes de que se pudra en tu mochila — se llama preparación de **índices alquímicos** y puede hacerse en el fango del campo con un Kit Alquímico. La segunda — sintetizar el elixir o veneno terminado — siempre necesita alambique u horno en instalación fija.
 
 Un personaje puede preparar sus índices durante la expedición. El producto se completa al regresar.
 
@@ -115,7 +115,7 @@ A continuación se presentan fórmulas representativas. Las cantidades de reacti
 
 **Rareza:** Común · **Vía:** Ingestión · **Reactivo:** Glándula (1) · **Plantas:** 1
 
-El organismo canaliza su propia energía para acelerar la estabilización de tejido dañado. Al consumirlo, el personaje reduce 2 puntos de Desgaste. No tiene efecto mientras el personaje esté Inconsciente o en Agonía.
+Fuerza al metabolismo a estabilizar tejido rasgado y cerrar hemorragias por pura sobremarcha biológica. Al consumirlo, el personaje reduce 2 puntos de Desgaste. No tiene efecto mientras el personaje esté Inconsciente o en Agonía.
 
 **Disponibilidad:** General
 
@@ -125,7 +125,7 @@ El organismo canaliza su propia energía para acelerar la estabilización de tej
 
 **Rareza:** Común · **Vía:** Contacto · **Reactivo:** Órgano (1) · **Plantas:** 2 · **Duración:** 3 horas
 
-El compuesto refuerza temporalmente la resistencia física del organismo. Mientras dura el efecto, el personaje incrementa su Aguante en 1. Los beneficios de múltiples dosis no se acumulan — aplica el valor más alto.
+Inyecta una densa capa de estimulantes bioquímicos para adormecer el dolor y estabilizar la fatiga estructural. Mientras dura el efecto, el personaje incrementa su Aguante en 1. Los beneficios de múltiples dosis no se acumulan — aplica el valor más alto.
 
 **Disponibilidad:** General
 
@@ -175,6 +175,6 @@ Suprime la reactividad muscular y la velocidad de respuesta. El objetivo realiza
 
 **Rareza:** Excepcional · **Vía:** Inoculación · **Reactivo:** Sistema nervioso (1) · **Plantas:** 2
 
-Interrumpe la cadena de señales nerviosas con una intensidad suficiente para provocar parálisis funcional. El objetivo realiza una T.R. de Veneno — si falla, queda Inmovilizado. Mientras persiste el efecto, no puede tomar ninguna acción voluntaria. La T.R. puede repetirse al inicio de cada turno del objetivo.
+Un colapso neurológico total. Ataca directamente el puente espinal de la bestia, ahogando sus señales nerviosas. El objetivo realiza una T.R. de Veneno — si falla, queda Inmovilizado. Mientras persiste el efecto, no puede tomar ninguna acción voluntaria. La T.R. puede repetirse al inicio de cada turno del objetivo.
 
 **Disponibilidad:** Singular

@@ -28,7 +28,7 @@ section_modes:
 
 # Condiciones del Entorno
 
-Las condiciones del entorno formalizan la presión de escena que no proviene del personaje: terreno, clima, exposición, una amenaza dominante o el nivel de hostilidad general de una situación. Cuando ninguna otra mecánica asigna el umbral de dificultad, la severidad del entorno lo hace.
+Las condiciones del entorno formalizan la hostilidad del mundo. Es la presión que no surge del choque de armas, sino del ecosistema mismo intentando asfixiarte: terreno traicionero, clima extremo, exposición prolongada, letalidad térmica o la opresión pura de una entidad masiva dominante. Cuando ninguna otra mecánica asigna el umbral de dificultad, la severidad del entorno lo hace.
 
 Si existe una regla propia para una acción, esa regla tiene precedencia. Si no existe, la severidad del entorno establece el umbral.
 
@@ -44,7 +44,7 @@ Las fuentes más comunes son tres:
 - **Hostil.** Una presencia que domina la situación aunque no exista todavía una regla puntual para resolverla: una criatura mortal muy superior, una entidad anómala, una presencia primordial, una persecución o un espacio controlado por amenaza activa.
 - **Extranatural.** Una alteración del mundo perceptible causada por la presencia activa de un Primordial expresándose a través de su territorio, o por densidad extrema de vestigios en la zona. En ambos casos, el Tauma no actúa de forma difusa — actúa porque algo lo organiza.
 
-La distinción relevante para este sistema es si la presión sigue la lógica natural del mundo o proviene de una filtración extranatural.
+La pregunta clave para el Narrador es simple: ¿esta presión sigue las leyes brutales y físicas de la naturaleza, o la realidad local está colapsando bajo el peso de una filtración extranatural del Tauma?
 
 ---
 
@@ -98,7 +98,7 @@ Factores activos que exigen adaptación continua. Afectan la concentración, la 
 
 Factores ambientales significativos. Algunas opciones tácticas se ven limitadas activamente, no solo dificultadas.
 
-*Ejemplos naturales:* tormenta fuerte con viento que impide proyectiles ligeros y dificulta el movimiento; terreno muy accidentado con riesgo real de caída; temperatura extrema sostenida; oscuridad casi total con visibilidad mínima; combate en agua o sobre una superficie inestable.
+*Ejemplos naturales:* tormenta fuerte con viento que impide proyectiles ligeros y dificulta el movimiento; terreno muy accidentado con riesgo inminente de caída; temperatura extrema sostenida; oscuridad absoluta donde encender luz no es una ayuda, sino una delación táctica; combate en agua o sobre una superficie inestable.
 
 *Ejemplos hostiles:* combate contra una criatura mortal claramente superior que fuerza cobertura, retirada parcial o movimiento restringido; persecución cerrada por un depredador que domina el terreno.
 
@@ -112,7 +112,7 @@ Condiciones casi inhabilitantes. Pueden ser fenómenos naturales en su expresió
 
 *Ejemplos naturales:* terremoto activo con derrumbes; huracán de máxima intensidad; incendio forestal activo con dirección imprevisible; tormenta marina con olas que superan estructuras.
 
-*Ejemplos hostiles:* una criatura colosal o letal cuya presencia convierte la escena en supervivencia inmediata incluso antes de resolver acciones concretas; una entidad que controla el espacio y obliga a actuar bajo supresión constante.
+*Ejemplos hostiles:* una criatura colosal o letal cuya sola respiración e inercia convierte cualquier intento de combate en una huida desesperada incluso antes de resolver acciones concretas; una entidad que controla el espacio y obliga a actuar bajo supresión constante.
 
 *Ejemplos extranaturales:* lluvia que cae hacia arriba o en ángulos que contradicen el viento; terreno que cambia de forma activamente sin causa; oscuridad con una fuente de luz visible que no produce efecto iluminador; temperatura que varía varios grados en segundos sin explicación.
 
@@ -124,9 +124,9 @@ Límite de lo supervivible o ejecutable. Las condiciones extranaturales son frec
 
 *Ejemplos naturales:* tormenta marina con abordaje simultáneo y estructuras colapsando; terremoto combinado con erupción volcánica próxima.
 
-*Ejemplos hostiles:* presencia primordial o depredador abrumador que convierte la escena completa en una condición de supervivencia; enfrentamiento en el que el enemigo domina el espacio hasta volver inviables varias acciones básicas.
+*Ejemplos hostiles:* presencia primordial o depredador abrumador que convierte la escena completa en una condición pura de supervivencia sin margen de error; enfrentamiento en el que el enemigo domina el espacio hasta volver inviables varias acciones básicas.
 
-*Ejemplos extranaturales:* múltiples fenómenos naturales amplificados y transformados simultáneamente sin lógica causal entre ellos; Luz y Oscuridad con efectos físicos propios y simultáneos; entorno en colapso dimensional activo; reglas físicas del entorno inestables — gravedad irregular, tiempo perceptiblemente alterado.
+*Ejemplos extranaturales:* múltiples fenómenos naturales amplificados y transformados simultáneamente sin lógica causal entre ellos; Luz y Oscuridad con efectos físicos propios y simultáneos; entorno en colapso dimensional activo; colapso activo de la geometría o el tiempo local; el tejido del mundo cediendo físicamente ante la radiación del Limbo.
 
 ---
 
@@ -152,7 +152,7 @@ El NR del entorno expresa la dificultad de las tiradas. Es la única regla mecá
 
 **Limitar.** El Narrador puede eliminar opciones de acción cuando la condición lo justifica. No hace las acciones más difíciles — las elimina. Un huracán no añade un modificador negativo al correr: lo hace imposible. El Narrador decide cuándo una condición justifica eliminar una opción, y cuáles.
 
-**Acelerar.** El Narrador puede añadir +1 al coste de Desgaste de todas las acciones no gratuitas cuando la condición justifica un drenaje activo. Se aplica mientras dure esa presión ambiental, y el Narrador determina cuándo termina.
+**Acelerar.** El Narrador puede añadir +1 al coste de Desgaste de todas las acciones no gratuitas cuando la condición del entorno produce un drenaje activo de supervivencia. Estar de pie en un campo hipertermal o vadear lodo denso quema biomasa y resistencia, incluso si no atacas. Se aplica mientras dure esa presión ambiental, y el Narrador determina cuándo termina.
 
 La severidad orienta estas decisiones — una condición Extrema hace probable que el Narrador use ambas; una condición Leve hace improbable que use ninguna — pero la decisión es siempre narrativa y contextual. No todos los escenarios de una severidad dada requieren ninguna de las dos herramientas.
 

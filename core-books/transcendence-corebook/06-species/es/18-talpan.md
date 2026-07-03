@@ -39,13 +39,13 @@ Los Talpán obtienen `+1` en **Fuerza**, **Sabiduría** y **Compostura**.
 
 ### Herencia
 
-**Miopía Táctil** — Su biología subterránea no está diseñada para procesar estímulos visuales amplios o fuertes. Su rango visual máximo efectivo está limitado permanentemente a **30 metros**; más allá de eso, no pueden localizar objetivos o peligros visualmente con precisión. Adicionalmente, dado lo sensibles que son sus oídos y su tacto para compensar la vista, obtienen una penalización de `−3` a las T.R. frente a las alteraciones **Ensordecido**, **Desorientado** y **Sobrecargado**.
+**Miopía Táctil** — Su biología subterránea no está diseñada para procesar estímulos visuales amplios o fuertes. Su rango visual máximo efectivo está limitado permanentemente a **25 metros**; más allá de eso, no pueden localizar objetivos o peligros visualmente con precisión. Adicionalmente, dado lo sensibles que son sus oídos y su tacto para compensar la vista, obtienen una penalización de `−3` a las T.R. frente a las alteraciones **Ensordecido**, **Desorientado** y **Sobrecargado**.
 
 ### Legados
 
 **Mente de Ensamblaje** — Su curiosidad por refinar materiales les otorga un bonificador de `+1` por cada cuatro Niveles de Referencia a las T.E. de **Identificación** y **Artes y Oficios**.
 
-**Ojos en la Oscuridad** — Su percepción dentro de su rango confinado es absoluta. Dentro de sus 30 metros de rango visual efectivo, los Talpán ignoran completamente las reducciones de rango o penalizadores otorgados por **condiciones de visibilidad reducida** (lluvia, humo asfixiante, niebla, polvo u oscuridad absoluta). Para ellos, la densidad táctil de una habitación sumida en la oscuridad más profunda es igual a la plena luz del día.
+**Ojos en la Oscuridad** — Su percepción dentro de su rango confinado es absoluta. Dentro de sus 25 metros de rango visual efectivo, los Talpán ignoran completamente las reducciones de rango o penalizadores otorgados por **condiciones de visibilidad reducida** (lluvia, humo asfixiante, niebla, polvo u oscuridad absoluta). Para ellos, la densidad táctil de una habitación sumida en la oscuridad más profunda es igual a la plena luz del día.
 
 **Tórax de Forja** — *Reacción · Utilidad · Ritmo 0 · Desgaste 1*
 *Requisito: Fallas una T.R. contra la alteración de **Asfixiado** o frente a un Veneno o Infección que se transmita por vías respiratorias.*

@@ -29,25 +29,25 @@ section_modes:
 
 # Desgaste, Aguante y Fatiga
 
-El combate y las escenas de alta presión no solo amenazan la vida de un personaje. También desgastan su cuerpo, su mente y su compostura.
+El combate en Transcendence no solo amenaza tu vida; consume tu biología. Este sistema rastrea cómo tus músculos se asfixian, cómo tus nervios se fríen bajo el Tauma, y cuándo tu cuerpo finalmente dice basta.
 
 Este sistema usa tres valores:
 
 | Valor | Qué representa |
 | --- | --- |
-| **Desgaste** | La carga acumulada por actuar bajo presión |
-| **Aguante** | Cuánto Desgaste puede sostener el personaje antes de deteriorarse |
-| **Fatiga** | El deterioro que aparece cuando el Desgaste supera el Aguante |
+| **Desgaste** | La quema táctica de recursos físicos o mentales en combate |
+| **Aguante** | Tu umbral biológico máximo antes del colapso |
+| **Fatiga** | El deterioro fisiológico que te destruye una vez que la adrenalina baja |
 
-El Desgaste no reemplaza al daño. Tampoco reemplaza el orden de activación. Registra cuánto esfuerzo puede seguir sosteniendo un personaje antes de que su rendimiento empiece a quebrarse.
+El Desgaste no reemplaza al daño de las armas. Es el registro de tu propio esfuerzo anaeróbico: cuánta violencia puedes sostener antes de quebrar tu propio organismo.
 
 ---
 
 ## Desgaste
 
-El **Desgaste** es la carga acumulada que un personaje soporta al ejecutar acciones significativas en una escena hostil o de alta tensión.
+El **Desgaste** es la quema de ácido láctico y adrenalina. Representa el estrés extremo que exige forzar tu organismo más allá de sus límites para mantenerte vivo en una escena hostil.
 
-No representa daño físico directo. También incluye esfuerzo corporal, concentración, lectura táctica, control emocional y respuesta inmediata al peligro.
+No es daño entrante; es el precio físico de ejecutar maniobras, movimientos espasmódicos para evadir impactos, o forzar tu mente a leer a un depredador en pleno salto.
 
 Un personaje puede acumular Desgaste por:
 
@@ -77,53 +77,51 @@ Las acciones usan una escala simple de costos.
 
 ### 0 Desgaste
 
-Acciones triviales o puramente narrativas que no exigen esfuerzo real dentro de la escena.
+Acciones que no alteran tus pulsaciones. Movimientos tácticos triviales o puramente narrativos que no te quitan el aliento.
 
 Ejemplos:
 
-- una observación evidente
-- una frase breve sin peso táctico
-- una acción menor sin amenaza inmediata
+- una observación evidente del entorno
+- gritar una orden breve
+- una maniobra menor sin amenaza inminente
 
 ---
 
 ### 1 Desgaste
 
-Acciones significativas normales.
+Esfuerzo táctico estándar. Maniobras diseñadas para matar o evitar que te maten.
 
 Ejemplos:
 
-- un ataque estándar
-- una defensa sencilla
-- un desplazamiento importante bajo presión
-- una observación activa del enemigo
-- una lectura básica del comportamiento de una criatura
+- un ataque corporal para desgarrar o quebrar
+- bloquear un impacto inminente
+- reposicionarte agresivamente bajo fuego
+- analizar los patrones de caza del enemigo en tiempo real
 
 ---
 
 ### 2 Desgaste
 
-Acciones de alta exigencia.
+Sobrecarga física o mental. Forzar la musculatura o la mente al límite para alterar drásticamente el flujo del ATB.
 
 Ejemplos:
 
-- interceptar una carga
-- proteger a otro personaje absorbiendo presión
-- analizar en profundidad a un enemigo durante el combate
-- ejecutar una maniobra que altere el ritmo de la escena
-- usar una acción mental o social que quite una ventaja importante
+- interceptar el impacto letal de un Primordial
+- forzar un movimiento antinatural para salvar a un aliado
+- canalizar una mutación taumatúrgica pesada
+- quebrar psicológicamente a un adversario
 
 ---
 
 ### 3 Desgaste
 
-Acciones extremas o de sobreextensión.
+Al borde del desgarro. Intervenciones desesperadas que destrozan tus reservas metabólicas.
 
 Ejemplos:
 
-- un esfuerzo límite cuando el personaje ya está muy presionado
-- una intervención heroica por encima del margen seguro
-- una maniobra especialmente exigente que fuerza al personaje más allá de su ritmo normal
+- sobrextender el cuerpo en un ataque suicida
+- una intervención heroica que ignora por completo el dolor
+- ejecutar Técnicas supremas que consumen la vida misma del usuario
 
 ---
 
@@ -240,27 +238,23 @@ La lógica es esta:
 
 ### Fatiga proyectada
 
-Durante una escena hostil, el personaje registra el Desgaste que va marcando en sus casillas y calcula qué nivel de Fatiga tendría si la escena terminara en ese momento.
+Durante el Conflicto, la **adrenalina** inunda tu torrente sanguíneo y bloquea el dolor. El personaje registra el Desgaste en sus casillas y cruza matemáticamente sus umbrales de Aguante, lo que genera Fatiga, pero esta solo está **proyectada**.
 
-Esa Fatiga todavía está **proyectada**.
+Es una promesa de colapso. El personaje está forzando sus músculos hasta desgarrarlos, pero los penalizadores no se aplican porque el pánico y el instinto lo mantienen de pie.
 
-El personaje está forzando su margen, pero la penalización completa no se asienta mientras la adrenalina, la urgencia o el peligro inmediato sigan sosteniendo su rendimiento.
-
-Durante el combate, la Fatiga se proyecta.
-
-La Fatiga proyectada no aplica todavía los efectos de Fatiga. Solo registra cuántos umbrales de Aguante ya fueron sobrepasados durante esa escena.
+Durante el combate, peleas al 100% de tu capacidad asentada, sin importar cuánta Fatiga Proyectada acumules.
 
 ---
 
 ### Fatiga asentada
 
-Cuando la escena hostil termina o desciende claramente de intensidad, la Fatiga proyectada se convierte en Fatiga real.
+Cuando la bestia cae y la escena transita al Interludio, la adrenalina se evapora de golpe. Ocurre el choque térmico. En ese instante, todo el estrés anaeróbico acumulado pasa la factura y la Fatiga proyectada aplasta tu cuerpo, convirtiéndose en **Fatiga real y asentada**.
 
 En ese momento:
 
-1. Revisa cuántos niveles de Fatiga proyectada se alcanzaron durante la escena.
+1. Revisa cuántos niveles de Fatiga proyectada alcanzaste quemando Desgaste.
 2. Borra la Fatiga proyectada.
-3. Aplica esa misma cantidad como Fatiga asentada.
+3. Asimila esa misma cantidad como **Fatiga asentada**. Tus dados y movimientos sufren ahora las graves penalizaciones del agotamiento.
 4. Conserva marcado cualquier Desgaste remanente que no hubiera alcanzado a completar un nuevo umbral de Aguante.
 
 Al terminar el combate, la Fatiga se asienta.

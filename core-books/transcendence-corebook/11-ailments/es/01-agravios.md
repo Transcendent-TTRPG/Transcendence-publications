@@ -20,7 +20,7 @@ authority_refs:
 
 # Agravios
 
-Un **Agravio** activo altera cómo actúa una criatura, cómo percibe, cómo resiste. No termina hasta que algo lo elimine, lo alivie o expire por sus propias condiciones.
+En un mundo donde todo intenta consumirte, las heridas no siempre son cortes limpios. Un **Agravio** es el daño que se queda contigo: toxicidad en la sangre, terror parasitario o trauma estructural. Altera cómo actúas, cómo percibes y cómo resistes, y no termina hasta que tu metabolismo lo elimine o te mate.
 
 De dónde llegó — una criatura, un arma, un veneno, una escena, un lugar — no cambia lo que hace.
 
@@ -32,11 +32,11 @@ Cada Agravio pertenece a una familia. La familia indica qué parte de la criatur
 
 | Familia | Qué compromete |
 | --- | --- |
-| **Alteraciones** | El funcionamiento físico inmediato del cuerpo |
-| **Aflicciones** | La mente, la percepción, la estabilidad interna o la relación con lo real |
+| **Alteraciones** | Trauma físico, desgarros estructurales, fracturas y colapso motriz |
+| **Aflicciones** | Colapso psicológico, terror, paranoia y pérdida de anclaje con la realidad |
 | **Venenos** | El organismo mediante una sustancia tóxica introducida por una vía de administración |
-| **Infecciones** | El cuerpo mediante agentes biológicos, contaminantes o procesos persistentes que pueden progresar o propagarse |
-| **Maldiciones** | La exposición constante a fuentes extranaturales |
+| **Infecciones** | Contaminación por esporas, parásitos o putrefacción viva que avanza en el organismo |
+| **Maldiciones** | Desgaste antinatural por exposición directa al Tauma |
 
 ---
 
@@ -50,7 +50,7 @@ Todos los Agravios usan tres niveles de severidad:
 - **Moderado**
 - **Grave**
 
-La severidad indica cuánto se ha asentado el Agravio y cuánta presión ejerce sobre la criatura afectada.
+La severidad no es solo un número; indica cuánto de tu autonomía biológica se ha perdido ante el daño y cuánta presión estructural ejerce sobre la criatura afectada.
 
 Los tres niveles son comunes a todas las familias; lo que cambia es qué significa escalar. En algunos Agravios, una severidad mayor aumenta una penalización. En otros, activa restricciones adicionales o vuelve más difícil eliminar el estado.
 

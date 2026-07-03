@@ -21,23 +21,23 @@ authority_refs:
 
 # El Limbo
 
-El **Limbo** es una dimensión paralela con una concentración de **Tauma** — la energía elemental del mundo — indefinidamente mayor que la del mundo físico. Esa diferencia de concentración produce un gradiente permanente: una presión que hace que el Tauma fluya del Limbo hacia la realidad de forma continua y pasiva, sin voluntad, sin agente, por la misma física con la que el calor fluye hacia el frío.
+El **Limbo** no es un infierno místico ni un reino espiritual; es un ecosistema superpuesto. El **Tauma** —la energía elemental del mundo— fluye desde allí hacia nuestra realidad no por voluntad, sino por pura presión de gradiente, de la misma forma que una masa de agua rompe un dique fisurado.
 
-Para la mayoría de las criaturas, ese flujo es imperceptible. No hay umbral que puedan cruzar, ninguna presencia que puedan sentir. Habitan un mundo bañado en Tauma y no lo saben.
+Para la mayoría de las criaturas, ese flujo de fondo es imperceptible. No hay umbral que puedan cruzar, ninguna presencia que puedan sentir. Habitan un mundo bañado en Tauma y no lo saben.
 
-Lo que cambia la situación es el punto de cruce. Para que el Tauma pase del gradiente difuso a un efecto real en el mundo físico, necesita algo que exista en ambas dimensiones al mismo tiempo. Eso puede ser un objeto que guarda la huella del paso del Tauma, un objeto que sostiene un flujo continuo porque una entidad lo mantiene activo, o un ser vivo cuyo sistema nervioso se ha vuelto permeable. Las tres posibilidades dan forma a las tres manifestaciones con las que los personajes pueden encontrarse.
+Lo que cambia la situación es el punto de cruce. Para que el Tauma pase del gradiente difuso a un efecto real en el mundo físico, necesita algo que actúe como conducto entre ambas dimensiones. Eso puede ser un objeto que guarda la cicatriz del una consciencia coelctiva, un objeto que sostiene un flujo continuo porque una entidad lo anida, o un ser vivo cuyo sistema nervioso se ha vuelto peligrosamente poroso. Estas posibilidades dan forma a las manifestaciones con las que los personajes pueden interactuar.
 
-Vestigos y vínculos son mecanismos de cruce exclusivos de criaturas humanoides — personajes jugadores y PNJs humanoides. Las criaturas no humanoides no los usan; su relación con el Tauma es directa, evolutiva o constitutiva.
+Vestigos y vínculos son conductos casi exclusivos del sistema nervioso humanoide — personajes jugadores y PNJs. Las criaturas no humanoides y la fauna primordial no los necesitan; simplemente mutan, se adaptan o se alimentan de la energía taumática de forma directa y evolutiva.
 
 ---
 
 ## Flujo ambiental
 
-La filtración continua y pasiva del Tauma en una zona física. No está anclada a ningún objeto ni entidad — es difusa, ambiental. Puede ser permanente en zonas geográficamente permeables, o temporal como residuo de un evento de alta intensidad taumática.
+La radiación de fondo del mundo. Es la filtración continua y pasiva del Tauma en una zona física, no anclada a ningún objeto ni entidad; es puramente ambiental. Puede ser permanente en cicatrices geográficas permeables, o temporal como residuo antinatural tras un evento de alta intensidad taumática.
 
-A intensidades bajas, el flujo ambiental es irrelevante para criaturas ordinarias. A intensidades altas, puede sostener condiciones extranaturales persistentes en la zona o facilitar la manifestación de entidades del Limbo que de otro modo no tendrían punto de entrada suficiente.
+A intensidades bajas, el flujo ambiental es irrelevante para criaturas ordinarias. A intensidades altas, el gradiente ambiental corrompe la física local, sosteniendo condiciones extranaturales persistentes en la zona o facilitando la manifestación de entidades del Limbo que de otro modo no tendrían punto de entrada.
 
-Lo que el flujo ambiental no produce, ni siquiera a alta concentración, es aflicciones. El Tauma difuso carece de dirección — fluye, pero no presiona sobre los sistemas nerviosos porque no está organizado. Las aflicciones requieren contacto con un objeto o exposición al flujo estructurado de un Primordial, no al gradiente ambiental en sí mismo.
+Lo que el flujo ambiental difuso *no* produce directamente son aflicciones. El Tauma ambiental fluye, pero no ataca sistemas nerviosos porque no está enfocado. Para que la mente ceda, se requiere contacto directo con un objeto impregnado o exposición al flujo organizado de un Primordial.
 
 Todo vínculo activo genera flujo ambiental en su entorno inmediato como efecto secundario. Un vínculo especialmente poderoso puede producir condiciones extranaturales visibles para cualquier criatura del área, independientemente de si esa criatura tiene alguna capacidad de percibir el Limbo.
 
@@ -45,7 +45,7 @@ Todo vínculo activo genera flujo ambiental en su entorno inmediato como efecto 
 
 ## Vestigos
 
-El Tauma cristalizado en un objeto por la impronta de la conciencia que lo usó. Los vestigios se forman cuando una creencia, un deseo o un propósito suficientemente intenso — sostenido por un individuo durante décadas o por una comunidad entera durante generaciones — atrae y da forma al Tauma disponible en el entorno. El objeto hace lo que esa conciencia siempre creyó que hacía: no como metáfora, sino porque esa creencia es exactamente lo que formó el patrón. La fuente ya no está presente. Lo que queda es lo que creyó.
+El Tauma cristalizado por la obsesión y el trauma. Los vestigios nacen cuando la desesperación, el miedo, la esperanza o el fanatismo colectivo —sostenido por un individuo durante décadas o por una comunidad durante generaciones— literalmente calcifican la energía ambiental sobre un objeto. El objeto hace lo que esa conciencia siempre creyó que hacía: no como metáfora, sino porque esa creencia esculpió el patrón en el Tauma. La fuente ya no está presente. Lo que queda es el peso de esa creencia.
 
 No todo objeto que ha cambiado de manos generación tras generación lleva algo. Lo que forma el patrón es la coherencia y el peso colectivo de la creencia invertida en él — que muchas consciencias hayan apuntado en la misma dirección durante suficiente tiempo, o que una sola lo haya hecho con una intensidad que pocas veces se sostiene. El objeto que fue usado pero nunca el centro de una creencia coherente y sostenida no ancla.
 
@@ -59,7 +59,7 @@ El objeto en el que reside un vestigo no determina su capacidad. Lo que determin
 
 ## Vínculos
 
-Una conexión activa entre el mundo físico y el Limbo, sostenida a través de un objeto físico. Los vínculos no se forman por impronta directa: se forman cuando una entidad del Limbo, cuya naturaleza resuena con el patrón de una impronta existente, se establece activamente en ese objeto. La entidad no hace lo que la civilización creyó que hacía el objeto — hace lo que su propia naturaleza produce. La impronta original fue el punto de entrada; lo que el vínculo genera pertenece a la entidad. A diferencia del vestigo, el vínculo mantiene un flujo continuo: hay una entidad del Limbo presente, y esa presencia no es residual. La energía sigue cruzando.
+Una herida abierta entre realidades sostenida a través de un objeto físico. Los vínculos no nacen solo de la creencia humana: ocurren cuando algo al otro lado nota la impronta dejada en un objeto y se anida activamente en ella. La entidad del Limbo no obedece a lo que el humano creyó; hace lo que su naturaleza le dicta. La impronta original fue solo la puerta de entrada. A diferencia del vestigo, el vínculo mantiene una conexión continua: hay una presencia anidada, y la energía no deja de cruzar.
 
 Los vínculos no tienen cargas almacenadas que se agoten. Lo que limita su uso es la capacidad del portador de sostener la conexión. Cada activación de un **Aspecto** — las expresiones de poder que el vínculo habilita — acumula **Eco**. Cuando el Eco supera la **Cordura** del portador, aparece la **Disonancia**, deterioro progresivo de la coherencia perceptual. El sistema completo se desarrolla en el capítulo dedicado a vínculos y Aspectos.
 
@@ -71,7 +71,7 @@ Un vínculo activo genera flujo ambiental en su entorno como efecto secundario. 
 
 Cuatro especializaciones permiten identificar presencia taumática antes de interactuar con el objeto o la zona. Ninguna equivale al descubrimiento — ninguna revela el patrón de uso de un vestigo ni las capacidades de un vínculo. La detección responde si algo del Limbo está presente. El descubrimiento responde cómo usarlo.
 
-**Instinto** (Aura) actúa de forma pasiva e involuntaria. El personaje siente que algo no pertenece al entorno — atracción o repulsión sin justificación articulable. No da precisión sobre tipo, sentido vinculado ni intensidad relativa. Es la primera señal de que algo ocurre.
+**Instinto** (Aura) actúa de forma pasiva e involuntaria. Náusea, escalofríos o un rechazo visceral incomprensible; el cerebro reptiliano detecta la alteración letal antes de que el córtex pueda articular qué está mal. No da precisión sobre el tipo o intensidad, solo grita que algo no pertenece al ecosistema físico.
 
 **Resonancia** (Aura) es activa y dirigida. El personaje puede sondar un objeto o área con su aura y percibir la carga esencial: confirmar que hay Tauma, distinguir si la señal es activa (vínculo) o residual (vestigo), estimar la intensidad relativa. Más información que Instinto, pero sin estructura formal sobre qué hace ese Tauma.
 

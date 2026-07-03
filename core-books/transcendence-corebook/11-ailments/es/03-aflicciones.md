@@ -19,9 +19,9 @@ authority_refs:
 
 # Aflicciones
 
-Las **Aflicciones** son disrupciones del estado interno. Alteran el juicio, la percepción y la capacidad de contener lo que el entorno le arroja al organismo.
+Las **Aflicciones** no son simples mareos; son disrupciones psicológicas y sensoriales. Es la mente cediendo ante el horror continuo, alterando el juicio, la cordura y el anclaje con la realidad.
 
-Una Aflicción puede tener origen en exposición psíquica, contacto con vestigios o vínculos, trauma sostenido, presencia de horror o infusión extranatural.
+Se originan por exposición prolongada al trauma, ecos del Tauma, contacto con vestigios, vinculos o simple colapso por estrés de supervivencia en zonas primordiales.
 
 **Tirada de Resistencia:** `1d10 + Compostura + nivel de competencia en Resistencia a Aflicciones + bonificadores adicionales`
 
@@ -84,7 +84,7 @@ Las Aflicciones paralelas activas son estados distintos. Cada una lleva su propi
 
 #### Esquizofrenia Paranoide
 
-*Las presencias neutras empiezan a tener intención. El cuerpo las trata como amenazas antes de que la mente decida.*
+*El instinto de supervivencia envenena tu juicio. Todos respiran como depredadores.*
 
 Lees intención donde puede que no la haya. Una persona que espera en la puerta, una mirada que se sostiene un segundo, un movimiento en el borde del campo visual — el cuerpo ya calculó la amenaza antes de que puedas evaluarla. No es que estés equivocado todo el tiempo. El problema es que no puedes distinguir cuándo lo estás.
 
@@ -100,7 +100,7 @@ Lees intención donde puede que no la haya. Una persona que espera en la puerta,
 
 #### Agnosia Visual
 
-*La imagen llega. El significado no.*
+*Ves los colmillos y las garras, pero el cerebro tarda un segundo crucial en ensamblar el peligro.*
 
 Ves con claridad. El objeto está ahí, sus bordes definidos, su forma completa — pero no sabes qué es. El reconocimiento directo ya no funciona de manera confiable. Tienes que construir el significado a través del contexto, la posición, cualquier pista que no sea la identificación inmediata.
 
@@ -116,7 +116,7 @@ Ves con claridad. El objeto está ahí, sus bordes definidos, su forma completa 
 
 #### Alucinaciones Visuales
 
-*Lo que ve no siempre está ahí. Lo que está ahí no siempre puede verse.*
+*La línea fronteriza entre los fantasmas de la fatiga extrema y los horrores reales del Tauma se ha disuelto.*
 
 A veces percibes cosas que no están. A veces no percibes cosas que sí están. No hay consistencia en cuál falla. Aprendiste a dudar de las figuras en el borde del campo visual, de los objetos que aparecen sin haber estado antes — pero tampoco puedes estar completamente seguro de los que sí estaban.
 
@@ -134,7 +134,7 @@ A veces percibes cosas que no están. A veces no percibes cosas que sí están. 
 
 #### Tinnitus
 
-*El tono no se va. Todo lo demás llega desde un poco más lejos.*
+*Un pitido agudo constante. Es el sonido de tu propio sistema nervioso bajo sobrecarga.*
 
 Escuchas un pitido, zumbido o frecuencia constante que no tiene fuente en el entorno. No cambia con el silencio. Todo lo demás llega a través de ese ruido de fondo que solo tú percibes — y hay sonidos que directamente no alcanzan.
 
@@ -150,7 +150,7 @@ Escuchas un pitido, zumbido o frecuencia constante que no tiene fuente en el ent
 
 #### Hiperacusia
 
-*No hace falta que sea fuerte. El cuerpo responde como si lo fuera.*
+*Cada gota que cae resuena como un martillazo. El oído te traiciona induciendo pánico táctico ante el vacío.*
 
 El volumen perdió su escala. Un cubierto sobre una superficie, una puerta que se cierra, una conversación a distancia normal — cualquier sonido que antes era neutro ahora produce una respuesta física desproporcionada. No es solo que moleste. El cuerpo lo trata como una amenaza.
 
@@ -166,7 +166,7 @@ El volumen perdió su escala. Un cubierto sobre una superficie, una puerta que s
 
 #### Eco Persistente
 
-*El oído escucha dos veces. El suelo no siempre responde igual.*
+*Desincronización acústica. El cerebro procesa el ruido del peligro con un segundo letal de retraso.*
 
 Los sonidos llegan con un desfase que no tiene origen real. La primera vez cuando ocurren; la segunda, fracciones de segundo después, como si el entorno los repitiera. No puedes calibrar de dónde vienen con precisión, y ese error se propaga al equilibrio — el suelo ya no responde del todo como esperas.
 
@@ -184,7 +184,7 @@ Los sonidos llegan con un desfase que no tiene origen real. La primera vez cuand
 
 #### Phantosmia
 
-*El olor viene de ningún lado. El cuerpo reacciona igual.*
+*El hedor a bilis y sangre negra te persigue, saturando el aire aunque no haya cadáveres cerca.*
 
 Percibes olores que no tienen fuente en el entorno. Pueden ser familiares o desconocidos, neutros o intensamente desagradables — pero ninguno corresponde a algo presente. El cuerpo reacciona igual: el asco, la alerta o la anticipación que activa un olor fuerte llegan completos aunque el olor sea una invención del sistema olfativo.
 
@@ -200,7 +200,7 @@ Percibes olores que no tienen fuente en el entorno. Pueden ser familiares o desc
 
 #### Hiperosmia
 
-*No hace falta que sea intenso. El olfato ya no tiene escala.*
+*Un infierno de feromonas y podredumbre. El aire te asfixia con un exceso de información letal.*
 
 El olfato ya no tiene rango. Un nivel de intensidad que antes era neutro — la ropa de alguien cercano, el metal de un arma, el aire de un espacio cerrado — ahora llega como si estuviera concentrado a una distancia mínima. Concentrarte mientras el entorno olfativo es activo requiere un esfuerzo que antes no tenías que hacer.
 
@@ -218,7 +218,7 @@ El olfato ya no tiene rango. Un nivel de intensidad que antes era neutro — la 
 
 #### Disgeusia
 
-*Cualquier ingesta llega como si no debiera estar ahí. El cuerpo lo reconoce, pero no lo acepta.*
+*El agua sabe a óxido, la ración sabe a ceniza. Tu propio cuerpo sabotea su sustento.*
 
 El sabor de lo que comes o bebes llega alterado — amargo donde no debería, metálico, o equivocado de una forma que no puedes describir con precisión. El cuerpo lo trata como algo que no debería estar ahí. El acto de ingerir se convierte en una negociación que a veces no puedes sostener.
 
@@ -236,7 +236,7 @@ Al intentar comer o beber durante un descanso, realiza una T.E. de Contención (
 
 #### Compulsión Alimentaria
 
-*Al terminar la violencia, algo más reclama atención. La compulsión no distingue qué es comestible.*
+*El hambre usurpa a la voluntad. Una urgencia macabra de tragar lo que acaba de morir en la escena.*
 
 Al final de una escena de violencia, o ante la presencia de restos orgánicos, algo reclama atención con una urgencia que no distingue comestible de incomestible. No es hambre en el sentido ordinario — es una presión que se instala antes de que puedas procesarla, y que no desaparece hasta que cedes o la contienes de forma activa.
 
@@ -256,7 +256,7 @@ Al terminar una escena hostil o al encontrar cadáveres, restos o tejido orgáni
 
 #### Formicación
 
-*Algo se mueve bajo la piel. No hay nada afuera que lo explique.*
+*Gusanos fantasma bajo la epidermis. Te rascas hasta sangrar buscando un parásito que quizá ni siquiera exista.*
 
 Sientes movimiento bajo la piel — no es dolor exactamente, es presencia. Algo que se desplaza, que cambia de lugar, que responde al movimiento de tus propios músculos. No hay nada externo que lo explique y no hay manera de aliviarlo con contacto. Mantener el enfoque en lo que tienes delante requiere ignorar algo que el cuerpo trata como urgente.
 
@@ -272,7 +272,7 @@ Sientes movimiento bajo la piel — no es dolor exactamente, es presencia. Algo 
 
 #### Anestesia Parcial
 
-*El daño llega. La señal que debería registrarlo no siempre llega completa.*
+*Ceguera de dolor. No sabes que te estás desangrando hasta que sientes el calor en las botas.*
 
 La información que te dice cuánto daño recibiste llega incompleta o con retraso. No es que no sientas nada — es que lo que registras no siempre es proporcional a lo que ocurrió. Puedes recibir un golpe serio y que el cuerpo no lo transmita con la urgencia que debería. El problema no es la ausencia de dolor: es no poder confiar en él como señal.
 
@@ -288,7 +288,7 @@ La información que te dice cuánto daño recibiste llega incompleta o con retra
 
 #### Hipertacto
 
-*El contacto siempre produjo algo. Ahora produce demasiado.*
+*Piel en carne viva. Hasta la fibra de tu propia armadura raspa como lija sobre hueso.*
 
 El contacto produce más de lo que debería. La textura de tu ropa, el peso de lo que cargas, la mano de alguien sobre tu hombro — todo llega con una intensidad que no tiene relación con lo que ocurre. Concentrarte en medio de ese ruido táctil constante requiere un esfuerzo que el cuerpo no siempre puede sostener.
 

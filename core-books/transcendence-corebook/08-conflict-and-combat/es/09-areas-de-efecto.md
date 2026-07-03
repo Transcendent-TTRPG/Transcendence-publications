@@ -14,19 +14,19 @@ related:
 
 # Áreas de Efecto
 
-Algunas técnicas, armas naturales y detonaciones ambientales no apuntan a una criatura específica mediante una Tirada de Ataque tradicional, sino que proyectan su fuerza sobre una zona completa. Todas las criaturas, y en algunos casos las estructuras o elementos del entorno, que se encuentren dentro de esa zona se ven afectadas.
+En Transcendence, la destrucción rara vez es quirúrgica. Un aliento de toxinas, la detonación de una glándula biológica o un colapso ambiental no "apuntan" a un solo individuo; barren el ecosistema completo y tragan todo a su paso. Las técnicas de área afectan a todas las criaturas, y en muchos casos estructuras, que queden atrapadas en la zona.
 
 Transcendence contempla tres formas geométricas principales para las áreas de efecto. Dado que el juego puede resolverse tanto en un grid táctico como en el teatro de la mente, la regla prioriza la lógica física de la expansión.
 
-## Origen y Expansión
+## Epicentro y Expansión
 
-Toda área de efecto tiene un **origen**. Usualmente es la casilla que ocupa el atacante, pero en técnicas arrojadizas o explosiones remotas, el origen es la casilla o punto de detonación en el espacio. Las áreas se expanden desde ese punto ignorando las coberturas menores, pero son bloqueadas por coberturas totales (como un muro de contención sin fisuras) a menos que la técnica indique específicamente que atraviesa materiales o los destruye mediante Potencia.
+Toda area tiene un **Epicentro**. Es el punto exacto (una casilla o coordenada) donde la anatomía falla, el arma detona o la presión estalla. Las ondas expansivas devoran todo a su paso, ignorando maleza, ramas o Coberturas Ligeras. Solo la barrera sólida de una Cobertura Total (como un muro sin fisuras) puede contener la fuerza, asumiendo que el ataque no cuente con la Potencia suficiente para fundir también esa barrera.
 
 ---
 
 ## 1. Área Circular (Radio)
 
-El efecto se expande en todas las direcciones desde el punto de origen. En descripciones de reglas y técnicas, su área se indica como `Circular X m` (por ejemplo, *Circular 8 m*).
+Una explosión omnidireccional. La toxina, la onda de choque térmica o la energía estallan sin preferencia, castigando tanto a las presas como a los aliados. Su área se indica como `Circular X m` (por ejemplo, *Circular 8 m*).
 
 **Resolución en Grid:**
 Para determinar qué casillas cubre una explosión circular, mide la distancia máxima `X` en líneas rectas (ortogonalmente) desde el centro. En las direcciones diagonales, el efecto se expande la mitad de esa distancia real en casillas. El resultado es un área que se aproxima a un círculo táctico, cubriendo el centro y difuminándose equitativamente hacia los bordes.
@@ -37,7 +37,7 @@ Para determinar qué casillas cubre una explosión circular, mide la distancia m
 
 ## 2. Área Cónica (Cono)
 
-El efecto estalla desde el origen en una proyección angular que se ensancha a medida que avanza. Un cono siempre se dispara en una dirección declarada por el atacante.
+El efecto es vomitado, soplado o expulsado con violencia, abriéndose en forma de abanico para abarcar a más víctimas a medida que se aleja de la boca o extremidad del atacante. Un cono siempre se dispara en una dirección declarada.
 
 **Resolución en Grid:**
 La regla fundamental del cono es que **su ancho máximo en el punto más lejano es igual a su longitud total.**
@@ -51,7 +51,7 @@ Esto forma un triángulo perfecto en el mapa táctico. Cualquier criatura ubicad
 
 ## 3. Área Lineal (Línea)
 
-La forma más directa y concentrada. El efecto viaja en línea recta desde el punto de origen hacia una dirección declarada. Su área se define por su longitud máxima.
+Un chorro biológico a presión masiva o un haz de pura fuerza cinética. La forma de impacto más concentrada, que perfora una vía directa a través de la formación enemiga. Su área se define por su longitud máxima.
 
 **Resolución en Grid:**
 A menos que la técnica especifique un grosor distinto, una línea tiene **1 metro de ancho** (1 casilla). Atraviesa directamente las casillas en la trayectoria indicada hasta alcanzar su longitud máxima o chocar contra una cobertura total invulnerable que absorba el impacto. Si disparas en diagonal, la línea afecta cualquier casilla por la que la trayectoria recta cruce el centro.

@@ -52,7 +52,7 @@ Esta división no reemplaza la línea de tiempo **ATB**. Indica cómo entra cada
 
 ## Acciones Activas
 
-Una **Acción Activa** es una acción deliberada realizada durante la activación normal de una criatura en la línea de tiempo ATB.
+Una **Acción Activa** es tu oportunidad para dictar el flujo de la escena. Es una maniobra táctica deliberada, realizada durante la activación normal de una criatura en la línea de tiempo ATB.
 
 Una Acción Activa:
 
@@ -67,9 +67,9 @@ Atacar, moverse, ocultarse, interactuar bajo presión o usar una especializació
 
 ## Reacciones
 
-Una **Reacción** es una acción permitida por un disparador.
+Una **Reacción** es tu organismo luchando por sobrevivir fuera de tu ventana táctica. Ocurre al cumplirse un disparador específico.
 
-No ocurre porque la criatura haya llegado a su activación normal, sino porque algo en la escena permite o exige una respuesta inmediata.
+No suceden por estrategia pura; ocurren porque la adrenalina, el instinto o una amenaza inminente exigen una respuesta biológica o táctica inmediata.
 
 Una Reacción puede usarse para:
 
@@ -185,9 +185,9 @@ Todo ataque se resuelve con una **Tirada de Ataque** (**T.A.**) salvo que una re
 
 ### Armas naturales
 
-Las armas naturales son partes ofensivas del cuerpo de una criatura: garras, mordida, cuernos, cola, pinzas, aguijones u otras estructuras similares.
+Las armas naturales son las herramientas con las que la evolución, la genética o la naturaleza han dotado a una criatura: garras retráctiles, fauces trituradoras, cornamentas, colas prensiles o aguijones tóxicos.
 
-No requieren equipo y no pueden ser desarmadas mientras el cuerpo de la criatura pueda usarlas.
+No requieren equipo y no pueden ser desarmadas mientras el cuerpo de la criatura se mantenga íntegro.
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 6  
@@ -199,9 +199,9 @@ Se resuelve con una T.A. estándar usando la competencia y la característica as
 
 ### Arma a una mano
 
-Un ataque con arma a una mano usa un arma que puede sostenerse y manejarse con una sola mano: espada corta, hacha, maza, daga de combate u otra equivalente.
+Un ataque con arma a una mano usa herramientas rápidas y de corto alcance ideales para combates cerrados y rapidos.
 
-Este ataque deja la otra mano libre.
+Este ataque sacrifica peso de impacto a cambio de dejar la otra mano libre para defender o interactuar.
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 6  
@@ -213,9 +213,9 @@ Se resuelve con una T.A. estándar.
 
 ### Arma a dos manos
 
-Un ataque con arma a dos manos usa un arma que exige compromiso corporal completo: espadón, hacha de guerra, lanza sostenida con ambas manos, gran maza u otra equivalente.
+Un ataque con arma a dos manos emplea armas brutales que exigen comprometer todo el peso y torque del cuerpo.
 
-Estas armas suelen tener más alcance, masa o amenaza, pero retrasan la siguiente intervención de quien las usa.
+Estas armas destrozan blindajes y tienen una letalidad masiva, pero te exponen gravemente, retrasando significativamente tu próxima intervención en el ATB.
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 7  
@@ -298,9 +298,9 @@ Si el personaje primero suelta el arma actual como Acción Gratuita, solo necesi
 
 ## Ocultarse
 
-**Ocultarse** es el intento deliberado de salir de la localización precisa de los enemigos.
+**Ocultarse** es el intento deliberado de evadir la percepción táctica de los enemigos.
 
-No vuelve invisible al personaje. No borra sus rastros. Crea duda sobre dónde está exactamente y desde dónde puede actuar.
+Ocultarse no te vuelve invisible por arte de magia ni borra tus rastros. Es aprovechar el caos ambiental, las esporas en el aire o los escombros de la zona para crear duda sobre dónde estás exactamente y convertirte en un depredador acechante (o en una presa escurridiza).
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 6  

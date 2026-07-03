@@ -18,7 +18,7 @@ authority_refs:
 
 # Venenos
 
-Un **Veneno** entra al organismo a través de una vía de administración — mordedura, ingestión, inhalación, contacto — y actúa desde dentro. No termina cuando termina la fuente: persiste en el cuerpo hasta que algo lo neutralice.
+Un **Veneno** es hostilidad química pura. Entra al organismo a través de los pulmones, la mucosa o un tajo abierto, y secuestra tu metabolismo desde adentro. No es un efecto transitorio que desaparece al ganar el combate; es una toxina que persistirá en tu sangre hasta que la neutralices o te pudra.
 
 **Tirada de Resistencia:** `1d10 + Tenacidad + nivel de competencia en Resistencia a Venenos + bonificadores adicionales`
 
@@ -102,7 +102,7 @@ La penalización numérica de cada Veneno es igual al **bonificador de rango de 
 
 ## Entorpecido
 
-*La criatura cree que actúa. El cuerpo discrepa sobre el momento.*
+*Interrupción neuromuscular. El cerebro da la orden de atacar, pero el sistema central tarda un segundo letal en obedecer.*
 
 **Aplicación:** Se aplica cuando un compuesto que interrumpe la transmisión neuromuscular entra al organismo por inoculación.
 
@@ -122,7 +122,7 @@ La penalización numérica de cada Veneno es igual al **bonificador de rango de 
 
 ## Escaldado
 
-*Apuntar requiere ver. Ver requiere quietud. Ninguna de las dos sobrevive el contacto.*
+*Alcaloide cáustico en las mucosas. Apuntar exige quietud, y la quietud no existe cuando el ácido te está quemando los ojos.*
 
 **Aplicación:** Se aplica cuando un alcaloide cáustico entra al organismo por inoculación y reacciona con tejidos sensoriales: membranas mucosas, ojos, terminaciones nerviosas superficiales.
 
@@ -142,7 +142,7 @@ La penalización numérica de cada Veneno es igual al **bonificador de rango de 
 
 ## Erosionado
 
-*La armadura resistió. El compuesto no lo tuvo en cuenta.*
+*Destrucción enzimática. Las placas protectoras biológicas de tu cuerpo no se rompen desde afuera; se deshacen desde adentro.*
 
 **Aplicación:** Se aplica cuando un complejo enzimático entra al organismo por inoculación y actúa sistémicamente a través del torrente sanguíneo, descomponiendo las proteínas estructurales de las capas protectoras biológicas en todas las zonas del cuerpo.
 
@@ -162,7 +162,7 @@ La penalización numérica de cada Veneno es igual al **bonificador de rango de 
 
 ## Saturado
 
-*El cuerpo tiene fronteras. El compuesto disuelve al guardia.*
+*Falla renal tóxica. El cuerpo pierde por completo su capacidad de filtrado y queda expuesto a cualquier otra infección en el ambiente.*
 
 **Aplicación:** Se aplica cuando un compuesto nefrotóxico entra al organismo por inoculación y se acumula en el sistema renal, colapsando su capacidad de filtración.
 
@@ -182,7 +182,7 @@ La penalización numérica de cada Veneno es igual al **bonificador de rango de 
 
 ## Inhibido
 
-*La herida espera. La reparación no llega.*
+*Necrosis inducida. Las plaquetas mueren y la sangre no coagula. Una herida menor ahora es una sentencia de desangrado constante.*
 
 **Aplicación:** Se aplica cuando un compuesto hepatotóxico entra al organismo por inoculación y suprime la síntesis hepática de proteínas reparadoras: factores de coagulación, factores de crecimiento, moduladores inflamatorios.
 

@@ -20,7 +20,7 @@ authority_refs:
 
 # Materiales
 
-Los materiales no son solo descripción. Son la razón por la que una armadura aguanta más, un arma penetra mejor, o un kit de extracción falla con un componente y no con otro. Cada material catalogado cambia al menos una superficie mecánica real: durabilidad, potencia base, qué proceso puede seguir, cómo se conserva, con qué se puede refinar.
+Los materiales no son solo descripción, son la diferencia práctica en la supervivencia. Cada material catalogado cambia al menos una superficie mecánica real: durabilidad, peso, cómo reacciona al entorno o qué proceso de refinamiento exige. Ya sea hierro extraído de una veta profunda o quitina cosechada de un depredador, el material que elijas define lo que tu equipo puede soportar.
 
 ---
 
@@ -30,7 +30,7 @@ Los materiales se dividen en tres categorías según su lógica de comportamient
 
 ### Materiales naturales
 
-La capa base de recursos del mundo. Son los materiales en su estado sin transformar — lo que se extrae, se caza, se cosecha o se recolecta directamente.
+La capa base de recursos del mundo. Son los materiales en su estado bruto sin transformar — lo que se extrae de la tierra, se tala, se cosecha o se caza directamente.
 
 Incluyen:
 
@@ -44,15 +44,15 @@ Incluyen:
 
 ### Materiales procesados
 
-Un material procesado no existe sin el natural que lo precede: piel cruda vuelta cuero, escama trabajada en compuesto protector, mineral fundido en aleación, fibra hilada en tela.
+El resultado de la industria y la herrería. Un material procesado no existe sin el natural que lo precede: piel cruda curtida en cuero duro, escamas trabajadas en resina protectora, mineral fundido en aleación, o fibras hiladas en tela resistente.
 
 Un material procesado define su material de origen, la especialización que lo produce, y si hereda, reemplaza o modifica las propiedades mecánicas del original.
 
 ### Materiales vivos
 
-La capa extraordinaria. No se definen por ser orgánicos — se definen por seguir **comportándose**.
+La capa de biotecnología. No se definen por ser orgánicos — se definen por seguir **comportándose** tras ser extraídos.
 
-Un material vivo es cualquier material que sigue respondiendo, creciendo o adaptándose después de ser extraído. Puede ser biológico, mineral, fúngico o compuesto. Lo que lo hace vivo no es su familia sino que reacciona como si tuviera vida, patrón o estructura autoadaptable en curso.
+Un material vivo es cualquier material que sigue respondiendo, creciendo o adaptándose. Puede ser biológico, un mineral resonante, tejido fúngico o un compuesto alterado por el Tauma. Lo que lo hace vivo no es su origen, sino que reacciona como si tuviera voluntad o una estructura autoadaptable en curso.
 
 ---
 

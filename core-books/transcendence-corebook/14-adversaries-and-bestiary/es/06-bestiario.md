@@ -18,4 +18,4 @@ authority_refs:
 
 # Bestiario
 
-Las entradas de criatura se añaden aquí una vez que el diseño de la criatura esté completo — naturaleza, categoría, rol, zonas, rasgos, ciclos y comportamiento en cada fase de colapso.
+Las entradas de criatura se documentarán aquí una vez que la disección anatómica y táctica esté completa: naturaleza, categoría, rol, órganos vitales (zonas), instintos predatorios (rasgos), pulsos biológicos (ciclos) y el comportamiento errático del monstruo en cada fase de trauma (colapso).

@@ -20,9 +20,9 @@ authority_refs:
 
 # El Descubrimiento
 
-Un vestigo o vínculo en manos de alguien que no lo ha descubierto no produce ningún efecto. No puede activarse ni accidental ni deliberadamente. El Tauma está en el objeto — pero el Tauma no puede cruzar al mundo físico sin un canal que lo traduzca. Y ese canal no existe hasta que el portador entiende lo que está sosteniendo.
+La energía taumática no te obedece; corrompe a través de ti. Un vestigo o vínculo en manos de alguien que no ha asimilado tu horror es solo chatarra peligrosa. No puede activarse ni accidental ni deliberadamente. El Tauma está en el objeto — pero no puede cruzar al mundo físico sin un huésped que lo traduzca. Y ese canal no existe hasta que mutas para entender lo que estás sosteniendo.
 
-El canal se construye en dos fases. Primero, la biología: el contacto con el objeto impregna el tejido neural del portador, desarrollando la **Aflicción** del sentido vinculado. Eso abre la ruta perceptual. Segundo, el entendimiento: el sistema nervioso necesita haber mapeado cognitivamente lo que está procesando — saber qué hace el objeto, a través de qué sentido, bajo qué condiciones. Sin ese mapa, la señal del Limbo no tiene destino en el mundo físico.
+El canal se construye en dos fases. Primero, la biología: el contacto prolongado inunda tu tejido neural con pura presión taumática, obligándote a desarrollar la **Aflicción** del sentido vinculado. Eso abre la ruta perceptual. Segundo, el entendimiento: el sistema nervioso necesita haber mapeado cognitivamente lo que está procesando — saber qué hace el objeto, a través de qué sentido, bajo qué condiciones. Sin ese mapa, la señal del Limbo no tiene destino en el mundo físico.
 
 El **descubrimiento** es el proceso por el cual ese mapa se construye.
 
@@ -30,7 +30,7 @@ El **descubrimiento** es el proceso por el cual ese mapa se construye.
 
 ## El primer contacto
 
-La primera interacción significativa con un vestigo o vínculo — sostenerlo cuando importa, tocarlo con intención aunque sea sin saber lo que hace — genera automáticamente una **Aflicción de severidad Leve** en el sentido vinculado. Eso inicia la impregnación. El objeto no produce ningún efecto todavía, pero el canal empieza a formarse.
+La primera interacción con un vestigo o vínculo — sostenerlo cuando importa, tocarlo con intención aunque sea sin saber lo que hace — inicia la contaminación. El objeto te impone automáticamente una **Aflicción de severidad Leve** en el sentido vinculado. El objeto no produce ningún efecto todavía, pero el canal empieza a abrirse paso en tu biología.
 
 Si el portador ya tiene una Aflicción en ese sentido, de cualquier severidad, la ruta perceptual ya existía. El primer contacto no añade intensidad — simplemente confirma que hay material para trabajar.
 
@@ -40,7 +40,7 @@ Sin Aflicción en el sentido vinculado, el Tauma del objeto no tiene por dónde 
 
 ## Las pistas
 
-Con la Aflicción activa en el sentido vinculado, la entidad comienza a comunicarse. No elige palabras. Usa lo que tiene disponible, que es la Aflicción del portador: el portador experimenta lo que esa Aflicción le permite experimentar, coloreado por la naturaleza e intención de la entidad.
+Con la Aflicción activa, la entidad anidada comienza a presionar sobre tu mente. No usa palabras. Usa tu propio deterioro biológico: experimentas el mundo a través del filtro deformado de tu Aflicción, pero coloreado por la intención de la entidad.
 
 Una entidad vinculada al oído no habla a través de voces ordinarias. Habla a través del Tinnitus, del Eco Persistente o de la Hiperacusia del portador — lo que sea que ese sistema nervioso particular tenga activo. El portador tiene que aprender a leer ese idioma.
 
@@ -76,7 +76,7 @@ Si el Narrador **deniega**, indica que algo no está bien sin revelar qué. El p
 
 Taumaturgia puede revelar el sentido vinculado al objeto antes de cualquier interacción directa, pero no el patrón de uso. La investigación académica puede orientar sobre qué clase de entidad está implicada — no puede sustituir la impregnación.
 
-El patrón no existe como información almacenada en el objeto esperando a ser extraída. Existe como lo que ocurre cuando la naturaleza de la entidad encuentra el canal neural específico del portador. No hay nada externo a esa interacción que pueda acceder a eso, porque el canal no es parte del objeto — es parte del portador, y se construye en el portador mientras el portador lo entiende.
+El patrón no es un hechizo almacenado esperando ser leído en un grimorio. Es una distorsión extradimensional que reescribe tu percepción. Existe como lo que ocurre cuando la naturaleza de la entidad encuentra tu canal neural. No hay nada externo que pueda sustituir ese proceso, porque el canal no es parte del objeto: el canal eres tú mutando para entenderlo.
 
 ---
 

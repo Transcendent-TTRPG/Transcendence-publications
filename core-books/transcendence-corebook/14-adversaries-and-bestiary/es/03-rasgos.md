@@ -18,7 +18,7 @@ authority_refs:
 
 # Rasgos
 
-Cada rasgo es una condición que, cuando se cumple, le otorga a la criatura Ventaja de Ejecución en un tipo específico de tirada. Sin condición activa, la tirada es directa.
+Cada rasgo es una ventaja evolutiva o un instinto predatorio. Cuando el entorno o el combate cumplen las condiciones de su biotipo, la bestia opera con letalidad absoluta (Ventaja de Ejecución en un tipo específico de tirada). Sin condición activa, la tirada es directa.
 
 ---
 
@@ -48,17 +48,17 @@ Un rasgo no modifica números — determina qué dado conservar. Aplican todas l
 
 ## Descubrir rasgos
 
-Los rasgos no son visibles por defecto. Para identificar un rasgo:
+Los jugadores cazan a ciegas hasta que estudian a su presa. Para identificar la táctica innata de una bestia:
 
 - Una T.E. exitosa de Identificación, Interpretación o Medicina durante el combate revela un rasgo y su condición de activación.
-- La tirada revela que la condición existe y qué es. Los jugadores deben actuar sobre ese conocimiento para neutralizarla.
+- La tirada revela cómo está cazando la criatura. Los jugadores deben actuar sobre ese conocimiento para neutralizar la amenaza.
 
 ---
 
 ## Neutralizar un rasgo
 
-Cuando los jugadores eliminan la condición de activación de un rasgo, la criatura pierde la Ventaja de Ejecución en esa tirada.
+Cuando los cazadores quiebran la condición de activación, obligan a la bestia a abandonar su instinto primario perdiendo la Ventaja de Ejecución en esa tirada.
 
-A partir de ese momento, la criatura usa **Ventaja de Aprendizaje** para esa tirada: lanza 2d10, conserva el dado menor para ejecutar, usa el mayor como dado de aprendizaje. Para más detalle sobre cómo funciona la Ventaja de Aprendizaje, ver _Reglas fundamentales · Sistema de tiradas y competencias_ (Cap. 3).
+Pero las bestias acorraladas se adaptan. A partir de ese momento, la criatura entra en estado de adaptación y usa **Ventaja de Aprendizaje** para esa tirada: lanza 2d10, conserva el dado menor para ejecutar, usa el mayor como dado de aprendizaje. Para más detalle sobre cómo funciona la Ventaja de Aprendizaje, ver _Reglas fundamentales · Sistema de tiradas y competencias_ (Cap. 3).
 
-El progreso se acumula a lo largo del encuentro. Cuanto antes neutralizan los jugadores un rasgo, más tiempo tiene la criatura para aprender.
+El progreso se acumula a lo largo de la cacería. Cuanto antes neutralicen los jugadores la táctica principal de una bestia, más tiempo tendrá para aprender una nueva forma de matarlos.

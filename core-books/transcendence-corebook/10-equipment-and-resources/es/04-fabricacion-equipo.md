@@ -18,13 +18,13 @@ authority_refs:
 
 # Fabricación de Equipo
 
-Cada pieza de equipo tiene una especialización que la produce, un diseño que la define, y un costo en horas de trabajo real.
+En un mundo sin producción en masa, la artesanía es la única barrera entre la civilización y el Tauma. Cada pieza de equipo exige una especialización, un diseño funcional y horas de trabajo físico.
 
 ---
 
 ## Proceso de fabricación
 
-Para fabricar cualquier pieza de equipo se necesita:
+Un error forjando una hoja o curtiendo una piel no es un inconveniente; es una sentencia de muerte en el campo. Para fabricar cualquier pieza de equipo de forma segura se necesita:
 
 1. **Un Diseño** — el documento de instrucciones del objeto. Sin él, no es posible comenzar.
 2. **Los materiales** en las cantidades y tipos requeridos para el objeto.
@@ -49,7 +49,7 @@ El trabajo continúa en sesiones hasta completar el total de horas de progreso r
 
 ## Diseños
 
-Un Diseño es el documento que define la apariencia, configuración y atributos de un objeto de equipo. Sin diseño no hay producción posible.
+Un Diseño no es un simple boceto; es el documento técnico que define las tensiones, la configuración y el balance estructural del objeto. Sin diseño no hay producción posible, solo desperdicio de material.
 
 Los Diseños los crean las mismas especializaciones que fabrican el objeto: Herrería, Sastrería o Joyería. Un diseño no caduca y puede usarse para fabricar múltiples copias del mismo objeto.
 

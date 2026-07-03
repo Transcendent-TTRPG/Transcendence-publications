@@ -40,7 +40,7 @@ No existen hechizos amigables ni magos lanzando bolas de fuego. El mundo está b
 ### 4. Veinte Caminos Evolutivos
 En lugar de depender de los clásicos tropos de fantasía (elfos, enanos o humanos), Transcendence ofrece veinte especies jugables basadas en ramas evolutivas biológicas extremas. Juegas como criaturas que desarrollaron corazas de quitina, estómagos filtradores de veneno, glándulas de regeneración o metabolismos hiperactivos para sobrevivir al colapso del mundo. Cada especie ofrece una lente filosófica, biológica y mecánica totalmente distinta.
 
-### 5. Progresión sin Clases (Ventaja Evolutiva)
+### 5. Progresión sin Clases
 En Transcendence no existen niveles generales, puntos de experiencia (EXP) ni clases de personaje predefinidas. Eres exactamente lo que practicas. El sistema de progresión se basa en tus **Competencias** individuales y en la **Ventaja Evolutiva**: una mecánica donde, antes de lanzar los dados, debes decidir si priorizas el éxito de tu acción o si te arriesgas a fallar para poder aprender y mejorar. Las técnicas y capacidades de tu personaje no se compran en un árbol de habilidades genérico; nacen orgánicamente del dominio que alcanzas al exponer tu cuerpo al peligro. Sin embargo, alcanzar la maestría mecánica no te otorga habilidades de la nada; las **Técnicas** deben buscarse y adquirirse narrativamente en el mundo (a través de mentores, ruinas antiguas, documentos o instrucción comunitaria). Tu competencia te da el nivel físico y mental para ejecutarla, pero el entorno hostil debe proveerte el conocimiento.
 
 ---
@@ -49,7 +49,7 @@ En Transcendence no existen niveles generales, puntos de experiencia (EXP) ni cl
 
 Los personajes jugadores (PJs) son aquellos individuos lo suficientemente valientes, desesperados o desequilibrados como para salir de la seguridad de sus asentamientos. Son exploradores, mercaderes, cazadores de Primordiales y saqueadores de ruinas.
 
-Se adentran en las **Zonas Muertas** para recuperar tecnología biológica (Biopunk), mapear nuevos territorios seguros, o escoltar caravanas a través de tormentas taumatúrgicas. Sus aventuras son expediciones al límite de la capacidad humana (y no humana), donde la verdadera victoria muchas veces no es matar al monstruo, sino lograr regresar a casa vivos y con la mente intacta.
+Se adentran en las **Zonas Primordiales** para recuperar tecnología biológica, mapear nuevos territorios seguros, o escoltar caravanas a través de tormentas taumatúrgicas. Sus aventuras son expediciones al límite de la capacidad humana (y no humana), donde la verdadera victoria muchas veces no es matar al monstruo, sino lograr regresar a casa vivos y con la mente intacta.
 
 ---
 

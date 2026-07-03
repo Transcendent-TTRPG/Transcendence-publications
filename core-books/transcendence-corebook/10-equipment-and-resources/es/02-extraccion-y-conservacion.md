@@ -21,7 +21,7 @@ authority_refs:
 
 ## Extracción
 
-Cada proceso de extracción pertenece al dominio que realmente lo ejecuta.
+Despiezar una presa en el fango no es lo mismo que picar piedra. Cada proceso de extracción exige herramientas precisas y conocimientos específicos.
 
 ### Dominios de extracción
 
@@ -58,16 +58,32 @@ Un kit de Grado 1 no puede extraer material raro o excepcional de forma segura.
 En caso de fallo, el resultado por defecto es generalmente uno o más de los siguientes:
 
 - tiempo invertido sin rendimiento válido
-- muestra arruinada
-- riesgo de Infección activado
+- muestra desgarrada o inútil
+- exposición biológica o derrame tóxico (riesgo de Infección activado)
 - riesgo de Veneno activado
 - daño a una parte sensible de uso posterior
+
+### Determinar el Grado de la Muestra
+
+Al extraer un material, su calidad (Grado 1, 2 o 3) define qué tan potente o puro es para la fabricación. El grado se determina al momento de la extracción según la fuente:
+
+**Materiales Naturales (Minería y Herboristería):**
+La pureza de una veta mineral o la potencia de un espécimen botánico salvaje se define mediante una tirada de **1d100** tras una extracción exitosa:
+- **01-60:** Grado 1 (Común)
+- **61-85:** Grado 2 (Raro)
+- **86-100:** Grado 3 (Excepcional)
+
+**Partes de Criatura (Medicina y Supervivencia):**
+El grado de la biomasa está dictado por la letalidad y el desarrollo anatómico de la presa. Depende del Rango de la criatura cazada:
+- **Criatura Común:** Produce biomasa de **Grado 1** (Común).
+- **Criatura Campeón:** Produce biomasa de **Grado 2** (Raro).
+- **Criatura Élite:** Produce biomasa de **Grado 3** (Excepcional).
 
 ---
 
 ## Partes de criatura
 
-Las partes de criatura son el material más exigente: se deterioran rápido, contaminan al extractor que falla, y pierden casi todo su valor si llegan rotas al proceso.
+El despiece biológico es una carrera contra la putrefacción. Las partes no sensibles (huesos, placas, escamas) toleran la fuerza bruta. Sin embargo, las partes sensibles (glándulas, nervios, órganos) exigen cortes quirúrgicos; un fallo en el tejido blando no solo arruina la muestra, sino que a menudo perfora sacos de toxinas o libera esporas directo a la cara del extractor.
 
 ### Grupos de extracción
 
@@ -128,7 +144,7 @@ El Narrador llama a la T.R. de Infección o Veneno cuando la ficción apoya un r
 
 ## Conservación
 
-No todos los materiales persisten igual una vez extraídos.
+De nada sirve arrancar una glándula intacta si se pudre en tu mochila antes de llegar al campamento o a la fragua. Los minerales y metales son estables, pero la biomasa y los reactivos exigen conservación inmediata.
 
 ### Clases de conservación
 
@@ -151,7 +167,7 @@ Sin conservación válida, el material eventualmente:
 
 ### Conservación de materiales vivos
 
-Los materiales vivos pueden requerir **mantenimiento activo** en lugar de simple almacenamiento. Dependiendo de la entrada del material, ese mantenimiento puede incluir:
+Conservar un material vivo no es almacenarlo; es mantener a un espécimen en cautiverio. Requieren **mantenimiento activo**. Dependiendo de la entrada del material, ese mantenimiento puede incluir:
 
 - humedad controlada
 - oscuridad

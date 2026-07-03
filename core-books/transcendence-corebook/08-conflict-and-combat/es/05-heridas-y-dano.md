@@ -30,9 +30,9 @@ section_modes:
 
 # Heridas y Daño
 
-Las heridas definen qué ocurre cuando un ataque supera la defensa y alcanza el cuerpo, equipo o estructura del objetivo.
+En Transcendence, la carne de los exploradores y la de los monstruos no se rige por las mismas leyes. Los Primordiales y adversarios son masas biológicas que debes abatir (usan HP y Partes rompibles). Tu personaje, en cambio, es un organismo que lucha por sobrevivir; no tienes una "barra de vida". Si un ataque supera tu defensa y tu armadura, tu cuerpo se rompe.
 
-No reemplazan la Tirada de Ataque ni la Tirada de Impacto. Entran después, cuando ya existe contacto efectivo y la escena necesita determinar qué consecuencia deja ese golpe.
+Las heridas definen la brutalidad de esa ruptura. Entran en juego después de la Tirada de Ataque y de Impacto, determinando qué consecuencia física, anatómica o estructural deja el golpe.
 
 Transcendence usa dos modelos de daño:
 
@@ -160,7 +160,7 @@ El Impacto Crítico se resuelve contra ese modelo. No todos los enemigos necesit
 
 ## PNJs contra jugadores
 
-Cuando un PNJ golpea a un personaje jugador, no se usa HP general. El golpe se registra como una Herida en la zona impactada.
+Cuando la bestia te alcanza, no "pierdes puntos de vida". La garra fractura tu hueso, perfora tu pulmón o destroza tu rodilla. El golpe se registra como una **Herida física** que satura, desangra o colapsa de forma realista la zona anatómica impactada.
 
 El orden de resolución es:
 
@@ -354,8 +354,8 @@ Existen dos pasos de recuperación.
 
 | Paso | Función | Libera ranuras |
 | --- | --- | ---: |
-| Estabilizar | Detiene deterioro inmediato, shock activo, sangrado abierto o Colapso que sigue empeorando | No |
-| Tratar | Atiende una zona durante un Descanso Completo — si tiene éxito, libera 1 ranura | Sí, con éxito |
+| Estabilizar | Medicina de campo. Detiene sangrados, cauteriza o aplica torniquetes para evitar que el paciente muera de shock mientras el peligro continúa. | No |
+| Tratar | Cirugía de subsistencia en el Interludio. Consiste en extraer la esquirla, esterilizar el tejido y suturar durante un Descanso Completo para recuperar la zona. | Sí, con éxito |
 
 Medicina cubre estabilizar y tratar daño corporal.
 

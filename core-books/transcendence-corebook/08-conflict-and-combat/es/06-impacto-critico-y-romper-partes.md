@@ -32,9 +32,9 @@ section_modes:
 
 # Impacto Crítico y Romper Partes
 
-El **Impacto Crítico** define cuándo un golpe encontró una entrada excepcional.
+Un **Impacto Crítico** no es solo "hacer más daño"; es encontrar la costura débil en una placa de quitina o el punto ciego de una guardia.
 
-**Romper Partes** define qué puede hacer ese golpe contra una estructura concreta: una pieza de armadura, un escudo, un arma, una mandíbula, una placa natural o cualquier parte que el encuentro haya vuelto relevante.
+**Romper Partes** es la consecuencia táctica pura de un impacto crítico: astillar el caparazón, mutilar una extremidad, arrancar la mandíbula de la bestia o inutilizar el arma enemiga. Define qué puede hacer la fuerza bruta contra una estructura biológica o mecánica concreta.
 
 Este sistema no convierte todos los críticos en daño adicional automático. Separa tres preguntas:
 
@@ -82,12 +82,11 @@ Si los otros dos dados muestran `8` y el dado rojo no, el Impacto aumenta por su
 
 ## Qué permite un Impacto Crítico
 
-Un Impacto Crítico permite acceder a opciones críticas definidas por el arma, Técnica, objetivo o encuentro.
+Un Impacto Crítico abre una ventana táctica. Permite acceder a opciones de mutilación o desmantelamiento definidas por el arma, la Técnica, el objetivo o el encuentro.
 
 Por defecto, puede permitir:
 
-- intentar Romper Partes contra un objetivo rompible declarado
-- aplicar daño crítico si el modelo del PNJ lo define
+- intentar Romper Partes contra un objetivo o superficie declarada
 - activar una Técnica que requiera Impacto Crítico
 - aplicar una consecuencia física si el ataque, la parte o el objetivo la declaran
 
@@ -148,15 +147,15 @@ Si el resultado produce fracciones o decimales, redondea hacia arriba salvo que 
 
 | Tipo de arma | Multiplicador | Lectura de ruptura |
 | --- | ---: | --- |
-| Lanzas | 80% | Presión concentrada en punto. Mejor contra aberturas que contra masa rígida. |
-| Hachas | 120% | Corte pesado que abre material y compromete bordes resistentes. |
-| Mazas | 150% | Impacto contundente contra armadura, hueso, placa y estructura dura. |
-| Hojas largas | 100% | Balance entre corte amplio y transmisión estable. |
-| Dagas | 50% | Precisión alta, baja ruptura contra estructuras resistentes. |
-| Hojas cortas | 75% | Corte rápido con ruptura moderada. |
-| Armas arrojadizas | 40% | Contacto preciso, poca masa para ruptura sostenida. |
-| Armas a distancia | 60% | Perforación o impacto a distancia con ruptura limitada. |
-| Armas flexibles | 30% | Control y desbalance más que destrucción material directa. |
+| Lanzas | 80% | Perfora tejidos profundos y se cuela en aberturas anatómicas estrechas. |
+| Hachas | 120% | Fuerza bruta y peso capaz de astillar caparazones gruesos y huesos expuestos. |
+| Mazas | 150% | Ondas de choque traumáticas. Pulverizan armaduras y exoesqueletos sin necesidad de buscar un filo. |
+| Hojas largas | 100% | Balance entre tajo amputador y transmisión de impacto estable. |
+| Dagas | 50% | Precisión quirúrgica; letal en arterias pero inútil para quebrar blindaje rígido. |
+| Hojas cortas | 75% | Tajos rápidos y viciosos con capacidad de ruptura moderada. |
+| Armas arrojadizas | 40% | Contacto punzante; carecen de la masa necesaria para un daño estructural masivo. |
+| Armas a distancia | 60% | Perforación a alta velocidad; desgarra órganos pero cede ante placas densas. |
+| Armas flexibles | 30% | Control, enredo y asfixia por encima de la destrucción estructural directa. |
 
 Los valores concretos de Potencia base pertenecen al catálogo de armas, materiales y partes de criatura.
 
@@ -237,9 +236,9 @@ Una parte de criatura puede tener:
 - Durabilidad
 - habilidades vinculadas
 
-Romper una parte no solo reduce números. Cambia qué puede hacer la criatura.
+Mutilar a una bestia no es solo reducir sus números; es sobrevivir castrando sus capacidades ofensivas.
 
-Una mandíbula rota puede impedir un aliento. Un ala rota puede impedir vuelo. Una placa rota puede abrir un punto vulnerable. Un cuerno roto puede terminar una señal de mando.
+Una mandíbula destrozada ya no segrega toxinas. Un ala rota tira al Primordial al barro. Una placa arrancada expone sus órganos vitales a los filos de los exploradores. Un cuerno amputado rompe su capacidad de coordinación.
 
 El bloque del enemigo debe indicar:
 

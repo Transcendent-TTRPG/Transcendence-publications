@@ -21,7 +21,7 @@ authority_refs:
 
 # Vínculos y Aspectos
 
-El vínculo reorganiza al portador, no lo amplía. Sus competencias siguen siendo suyas — el daño viene de sus armas, la resistencia de su constitución — pero el vínculo estructura cómo todo eso se expresa. La entidad aporta la forma, no la fuerza.
+El vínculo somete al portador, no lo empodera. Tus competencias físicas siguen siendo tuyas —el daño viene de tu fuerza, la resistencia de tu constitución— pero la entidad anidada retuerce cómo todo eso se expresa en el mundo. La entidad aporta la estructura; tú pones la fuerza.
 
 ---
 
@@ -63,14 +63,14 @@ La convergencia no es automática ni siempre activa. Es una activación propia c
 
 ## Eco, Cordura y Disonancia
 
-El uso de vínculos opera en un track psíquico paralelo al track físico de Desgaste y Fatiga. Los dos acumulan de forma independiente — la Fatiga no afecta al Eco y la Disonancia no afecta al Desgaste. Pero el overflow en cualquiera de los dos deja al personaje **Inconsciente**: no es un AND, es un OR.
+El uso de vínculos opera en un track psíquico paralelo al track físico de Desgaste y Fatiga. Los dos acumulan de forma independiente — la Fatiga no afecta al Eco y la Disonancia no afecta al Desgaste. Pero el desbordamiento en cualquiera de los dos deja al personaje **Inconsciente**: no es un AND, es un OR.
 
 | | Track físico | Track psíquico |
 | --- | --- | --- |
 | Acumulado | Desgaste | **Eco** |
 | Reserva | Aguante | **Cordura** |
 | Consecuencia asentada | Fatiga | **Disonancia** |
-| Overflow | Inconsciente | Inconsciente |
+| Desbordamiento | Inconsciente | Inconsciente |
 
 ### Eco
 
@@ -78,7 +78,7 @@ El **Eco** es la carga psíquica acumulada que genera cada activación de un Asp
 
 ### Cordura
 
-La **Cordura** es cuánta carga psíquica puede absorber el personaje antes de sufrir Disonancia.
+La **Cordura** es cuánta distorsión de la realidad puede procesar tu mente antes de fracturarse por el peso de lo antinatural.
 
 ```text
 Cordura = 3 + (Compostura × 2)
@@ -88,7 +88,7 @@ Valor mínimo: `3`.
 
 ### Disonancia
 
-La **Disonancia** es el deterioro progresivo de la coherencia perceptual cuando el Eco supera lo que la Cordura puede sostener. No surge de una sola activación — surge de acumulación. A medida que el Eco crece, la mente pierde precisión en lo que percibe a través del vínculo: primero lo más fino del procesamiento cognitivo, luego el acceso a las profundidades mayores, finalmente la capacidad de sostener múltiples canales a la vez.
+La **Disonancia** es el colapso de tu marco de realidad. Cuando fuerzas demasiada lógica antinatural a través de un cerebro físico, la mente empieza a fallar. No surge de una sola activación, surge de la acumulación. Primero pierdes la capacidad cognitiva fina, luego olvidas cómo acceder al poder de las profundidades mayores, y finalmente ya no puedes distinguir qué es real ni sostener múltiples canales a la vez.
 
 #### Umbrales
 
@@ -112,7 +112,7 @@ Los efectos son acumulativos — cada nivel añade algo distinto al anterior.
 | **Disonancia 3** | Todas las activaciones de Aspecto cuestan +1 Eco adicional. |
 | **Disonancia 4** | Los vínculos con más de un camino quedan completamente inutilizables. Solo los vínculos de camino único siguen disponibles. |
 | **Disonancia 5** | Los Aspectos solo resuelven su etapa Leve. Los efectos de etapa Moderado y Grave no se activan. El vínculo sigue respondiendo, pero la mente no puede procesar la percepción profunda en acción. |
-| **Overflow** | **Inconsciente** — el cerebro activa el corte automático. El personaje pierde consciencia. Todos los vínculos quedan suspendidos hasta descansar o recibir ayuda. Las Aflicciones acumuladas durante el proceso permanecen. |
+| **Desbordamiento** | **Inconsciente** — el cerebro colapsa voluntariamente para protegerse de la aberración conceptual. Pierdes el conocimiento de golpe. Todos los vínculos se desconectan violentamente hasta descansar o recibir ayuda. Las Aflicciones acumuladas durante el proceso permanecen. |
 
 ---
 

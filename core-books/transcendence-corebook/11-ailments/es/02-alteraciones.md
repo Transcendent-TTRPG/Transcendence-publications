@@ -20,9 +20,9 @@ authority_refs:
 
 # Alteraciones
 
-Las **Alteraciones** son disrupciones fisiológicas que comprometen directamente la función del cuerpo.
+Las **Alteraciones** no son meros inconvenientes temporales; son desgarros, mutilaciones funcionales y fallos sistémicos. Es la masa cediendo bajo la presión extrema del entorno.
 
-Una Alteración puede tener origen físico, ambiental, mental, por criatura o anómalo. Lo que importa es el resultado: una disrupción operativa del cuerpo.
+Una Alteración puede tener origen físico, ambiental, neural, por criatura o anómalo. Lo que importa es el resultado: una disrupción que compromete directamente la viabilidad operativa del cuerpo.
 
 **Tirada de Resistencia:** `1d10 + Resiliencia + nivel de competencia en Resistencia a Alteraciones + bonificadores adicionales`
 
@@ -68,7 +68,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Atrapado
 
-*El espacio sigue. El cuerpo encontró su límite.*
+*La presa forcejea. Las fauces no ceden.*
 
 **Aplicación:** Se aplica cuando hay agarre o sujeción de criatura, red o mecanismo de restricción, peligro adhesivo, superficie en colapso u otra fuente que retiene físicamente al objetivo de forma creíble.
 
@@ -86,7 +86,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Aturdido
 
-*El mundo vuelve antes que el cuerpo.*
+*El cráneo vibra. Las piernas han olvidado cómo sostenerlo.*
 
 **Aplicación:** Impacto, shock neural, fuerza de concusión, sobrecarga u otra fuente que brevemente cierra la acción limpia de forma creíble.
 
@@ -124,7 +124,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Confundido
 
-*Las diferencias siguen ahí. El juicio ya no sabe cuáles importan.*
+*Hemorragia en la percepción. El instinto se ve forzado a atacar a ciegas.*
 
 **Aplicación:** Shock corporal, sobrecarga sensorial, disrupción neural, concusión, toxinas u otra fuente que desestabiliza el juicio operativo inmediato de forma creíble.
 
@@ -142,7 +142,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Congelado
 
-*El frío no avisa. Para cuando el cuerpo reacciona, ya está adentro.*
+*La sangre se vuelve escarcha. El músculo se vuelve piedra.*
 
 **Aplicación:** Exposición prolongada a congelación, efecto hostil basado en hielo u otra fuente que deteriora funcionalmente el cuerpo por frío de forma creíble.
 
@@ -160,7 +160,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Conmocionado
 
-*El impacto terminó. La claridad todavía no recibió esa noticia.*
+*Microfisuras espinales. La orden de luchar no encuentra el camino hacia las manos.*
 
 **Aplicación:** Impacto, shock interno, fuerza de explosión, colisión u otra fuente que produce una desestabilización similar a una conmoción de forma creíble.
 
@@ -178,7 +178,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Corroído
 
-*La armadura no cedió al golpe. Cedió a lo que el golpe dejó.*
+*El ácido no corta. El ácido mastica lentamente hasta encontrar el hueso.*
 
 **Aplicación:** Salpicadura o proyección ácida, exposición corrosiva prolongada u otra fuente que degrada de forma creíble la capa protectora de una zona: armadura, exoesqueleto o tejido exterior.
 
@@ -196,7 +196,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Derribado
 
-*La postura cede. El suelo gana.*
+*La gravedad exige su diezmo.*
 
 **Aplicación:** Impacto, barrido, transferencia de fuerza, colapso de terreno, colisión u otra causa creíble que tira al objetivo al suelo.
 
@@ -216,7 +216,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desarmado
 
-*El arma cae antes de que la mano entienda lo que pasó.*
+*Tendones desgarrados o pánico muscular. Ese acero ya no te pertenece.*
 
 **Aplicación:** Rotación forzada sobre la articulación de agarre, disrupción por dolor o presión estructural sobre la mano o extremidad sostenedora u otra fuente que supera el umbral de agarre de forma creíble.
 
@@ -236,7 +236,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desequilibrado
 
-*El equilibrio siempre tuvo un precio. Ahora se cobra.*
+*La inercia se rompe. El siguiente paso es el abismo.*
 
 **Aplicación:** Pérdida de equilibrio o impulso, shock corporal, suelo inestable u otra fuente que compromete el movimiento estable y la defensa de forma creíble.
 
@@ -254,7 +254,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Desorientado
 
-*El entorno no cambió. El norte sí.*
+*Mareo tóxico. Arriba y abajo son solo una cuestión de fe.*
 
 **Aplicación:** Disrupción espacial, saturación sensorial, mareos, perspectiva inestable u otra fuente que rompe el sentido de dirección del objetivo de forma creíble.
 
@@ -272,7 +272,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Electrizado
 
-*La descarga pasó. Los músculos no terminan de creérselo.*
+*Contracciones masivas. El sistema nervioso traiciona al cuerpo.*
 
 **Aplicación:** Descarga eléctrica significativa, exposición conductora prolongada u otra fuente de shock corporal creíble.
 
@@ -290,7 +290,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Ensordecido
 
-*El sonido llegó demasiado fuerte. Ahora no llega.*
+*Tímpanos colapsados. Ahora solo queda el zumbido de tu propia sangre.*
 
 **Aplicación:** Trauma sónico, shock de presión interna, fuerza de explosión, sobrecarga ambiental u otra fuente que disrumpe la función auditiva lo suficiente para que el oído deje de ser un sentido primario utilizable. Usar Ensordecido solo cuando la audición ya no es utilizable; si una fuente solo ensucia una línea auditiva, un oído, un eco o un canal acotado, usar un estado procedimental en su lugar.
 
@@ -310,7 +310,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Impedido
 
-*El arma responde al agarre. No siempre a la intención.*
+*Músculo atrofiado. Puedes sostener el hacha, pero ya no puedes blandirla.*
 
 **Aplicación:** Disrupción corporal, interferencia neural, bloqueo por dolor, agarre inestable u otra fuente que impide la ejecución de técnicas de arma sin paralizar completamente al objetivo.
 
@@ -328,7 +328,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Lacerado
 
-*Moverse cuesta. La herida recuerda exactamente cuánto.*
+*El tajo sigue abierto. Cada paso exige su propio diezmo en sangre.*
 
 **Aplicación:** Corte profundo o laceración, mordedura o zarpazo desgarrador, contacto con arma con gancho o sierra, herida abierta bajo presión física u otra fuente de disrupción de tejido dolorosa y creíble.
 
@@ -346,7 +346,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Paralizado
 
-*La señal llega. El cuerpo no la ejecuta.*
+*Toxina, frío o falla neural profunda. Eres un prisionero dentro de tu propia carne.*
 
 **Aplicación:** Electricidad, veneno, bloqueo por frío, shock corporal, supresión forzada u otra fuente que detiene de forma creíble la acción significativa.
 
@@ -366,7 +366,7 @@ Los efectos de cada Alteración son **acumulativos por severidad**: Moderado inc
 
 ## Sobrecargado
 
-*Todo llegó a la vez. Nada encontró por dónde salir.*
+*Saturación neuronal. El metabolismo entero entra en colapso por estrés.*
 
 **Aplicación:** Saturación sensorial, sobrecarga interna, desbordamiento psíquico expresado a través del cuerpo u otra fuente que rompe la regulación funcional de forma creíble.
 

@@ -32,9 +32,9 @@ section_modes:
 
 # Especializaciones
 
-Las especializaciones son dominios entrenables. Representan prácticas que el personaje ha desarrollado: acciones, oficios, saberes o disciplinas que puede intentar, fallar y refinar con el tiempo.
+Las especializaciones son dominios entrenables forjados a través de la repetición y la supervivencia. En un mundo donde la ignorancia y el error son sentencias de muerte, una especialización no es solo un "saber"; es conocimiento táctico tallado a golpes en la memoria muscular.
 
-Una característica mide una aptitud base. Una especialización mide lo que el personaje ha practicado con esa aptitud.
+Una característica mide tu talento fisiológico o cognitivo bruto. Una especialización mide cuántas veces has puesto ese talento a prueba frente al peligro y has sobrevivido para refinarlo.
 
 En juego, las especializaciones cumplen tres funciones:
 
@@ -56,7 +56,9 @@ La característica da la base. La especialización define cómo se convierte esa
 
 ## Especializaciones de inicio
 
-Durante la creación de personaje, todo personaje comienza con cuatro especializaciones iniciales:
+Sobrevivir a la intemperie y a las Zonas Primordiales no es opcional. Por ello, independientemente del trasfondo o la vida que tuvieran antes, todos los personajes comienzan curtidos por el rigor del mundo. 
+
+Durante la creación, todo personaje comienza con cuatro especializaciones iniciales:
 
 | Fuente | Cantidad | Nivel inicial | Rango inicial |
 | --- | --- | --- | --- |
@@ -128,9 +130,9 @@ T.E. sin entrenamiento = 1d10 + característica asociada
 
 El nivel y el rango son `0`.
 
-La falta de entrenamiento no impide intentar la acción. Limita lo que el personaje puede alcanzar. Una prueba avanzada puede existir en la ficción, pero quedar fuera del alcance mecánico de alguien sin práctica.
+La falta de entrenamiento no te impide intentar la acción, pero en situaciones de vida o muerte, depender puramente del instinto o el talento bruto (la característica desnuda) suele acabar en tragedia. Limita drásticamente lo que el personaje puede alcanzar. Una prueba avanzada puede existir en la ficción, pero quedar fuera del alcance mecánico de alguien que no ha condicionado su cuerpo para realizarla.
 
-Desarrollar una especialización no habilita la acción. La vuelve sostenible.
+Desarrollar una especialización no "habilita" mágicamente la acción. La vuelve biológicamente sostenible y confiable.
 
 ---
 
@@ -264,14 +266,16 @@ Por sí solo, el uso directo de una especialización no cambia automáticamente 
 
 Una **Técnica** es diferente. Es una aplicación específica que el personaje desbloquea al alcanzar cierto nivel de competencia en una o más especializaciones.
 
-A diferencia del uso directo, una Técnica produce una consecuencia mecánica definida cuando se activa.
+A diferencia del uso directo, una Técnica produce una consecuencia táctica o mecánica definida (y usualmente consume recursos) cuando se activa.
+
+**Importante:** Alcanzar el Rango de Competencia exigido por una Técnica no te la otorga automáticamente de la nada. Subir de rango solo te da la *capacidad fisiológica y mental* para asimilarla. El conocimiento (la Técnica en sí) debe ser extraído del mundo de forma narrativa: entrenando con un maestro de facción, descifrando un archivo, por herencia, o sobreviviendo a una crisis que fuerza tu biología a improvisarla.
 
 Esta distinción es estructural:
 
 | Uso | Resultado |
 | --- | --- |
-| Especialización directa | Abre posibilidades narrativas o prácticas |
-| Técnica | Produce una consecuencia mecánica definida |
+| Especialización directa | Abre posibilidades narrativas, de deducción o de supervivencia |
+| Técnica | Produce una consecuencia táctica o mecánica definida (y estructurada en reglas) |
 
 ---
 

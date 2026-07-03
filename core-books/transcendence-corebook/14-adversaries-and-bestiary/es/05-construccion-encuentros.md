@@ -46,7 +46,7 @@ La categoría define el rango de NR recomendado relativo al NR del grupo (NRg):
 | --- | --- | --- |
 | Común | NRg + 1 a 2 | Desafío relevante; exige atención |
 | Campeón | NRg + 3 a 5 | Amenaza seria; requiere enfoque táctico |
-| Elite | NRg + 6 a 10+ | Amenaza existencial; requiere preparación, conocimiento y coordinación |
+| Elite | NRg + 6 a 10+ | Amenaza existencial; cacería letal que exige preparación, conocimiento anatómico de la bestia y coordinación absoluta |
 
 Estos rangos son puntos de partida. Ajusta según la composición del grupo, la información que tengan sobre la criatura, y el nivel de preparación que hayan podido reunir.
 
@@ -118,7 +118,7 @@ Golpe Final
 Este orden evita criaturas incoherentes: comportamientos sin cuerpo que los explique, zonas sin comportamiento que las justifique.
 
 1. **Define qué hace la criatura en combate.** Lista todos los comportamientos: tipos de ataque, respuestas defensivas, efectos recurrentes, presencia ambiental.
-2. **Identifica la parte del cuerpo que habilita cada comportamiento.** Esto no es sabor opcional — es el trabajo de diseño. Si no puedes identificar una parte del cuerpo para un comportamiento, el comportamiento no está listo para ser escrito.
+2. **Identifica el órgano o estructura anatómica que habilita cada comportamiento.** Esto no es "sabor" narrativo opcional — es el núcleo biológico del combate. Si una táctica predatoria no tiene una glándula, músculo o conducto físico que la produzca, no pertenece a este mundo.
 3. **Asigna cada zona su designación** (Zona o Núcleo) según su función, no su posición anatómica. La garganta de una criatura que respira fuego puede ser Núcleo si todo depende de ella.
 4. **Define naturaleza, categoría y rol.** Esto te da el offset de NR, el alcance de ciclos, los multiplicadores de PV y los multiplicadores de Bloqueo.
 5. **Aplica las fórmulas de zona.** PV y Bloqueo son derivados, no inventados. Aplica el modificador de cobertura por zona para diferenciar Bloqueo entre zonas blandas y duras.

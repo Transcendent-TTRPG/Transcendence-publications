@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Transcendence — Referencia: Agravios</title>
+    <title>Transcendence — Referencia de Reglas</title>
     <link rel="stylesheet" href="styles/character-sheet.css">
   </head>
   <body>
@@ -702,6 +702,384 @@
           Cuando una Aflicción alcanza Intensidad Grave y vuelve a aplicarse (misma u otra), genera una <strong>nueva Aflicción paralela</strong> que comienza en Intensidad Leve. Cada Aflicción paralela es un estado independiente con su propio umbral y factores.
         </p>
       </section>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 4 — Fatiga, Disonancia y Descanso
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Reglas — página 4">
+      <div class="sheet-mark sheet-mark--ref">
+        <span>Ref.</span>
+        <small>04 / Ref.</small>
+      </div>
+
+      <h2 style="margin-bottom: 0.8rem;">Fatiga, Disonancia y Descanso</h2>
+      <p style="font-size: 0.72rem; margin-bottom: 1.2rem; color: var(--ink-mid, #555);">
+        El <strong>Desgaste</strong> físico genera <strong>Fatiga</strong>. El <strong>Eco</strong> psíquico genera <strong>Disonancia</strong>.
+        Ambos se asientan al terminar la escena y son efectos acumulativos. El Descanso purga la Fatiga asentada, pero solo el primer Descanso Corto tras un combate reduce niveles.
+      </p>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 1.5rem;">
+        
+        <!-- FATIGA Y DISONANCIA -->
+        <section>
+          <h3 class="ref-section-title">Consecuencias Acumulativas</h3>
+          <table class="ref-admin-table" style="margin-bottom: 1rem;">
+            <thead>
+              <tr><th style="width: 28%;">Nivel</th><th>Efecto</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Fatiga 1</strong></td>
+                <td>T.E. físicas requieren T.R. de Tenacidad previa o se pierde la acción.</td>
+              </tr>
+              <tr>
+                <td><strong>Fatiga 2</strong></td>
+                <td>Acciones de ritmo 5 o mayor no están disponibles.</td>
+              </tr>
+              <tr>
+                <td><strong>Fatiga 3</strong></td>
+                <td>Todas las acciones no gratuitas cuestan +1 Desgaste adicional.</td>
+              </tr>
+              <tr>
+                <td><strong>Fatiga 4</strong></td>
+                <td>Reacciones no disponibles. Solo se pueden usar Acciones Activas.</td>
+              </tr>
+              <tr>
+                <td><strong>Fatiga 5</strong></td>
+                <td>Técnicas solo resuelven su efecto primario. Sin reposicionamientos.</td>
+              </tr>
+              <tr style="background-color: rgba(220,50,50,0.1);">
+                <td><strong>Desbordamiento</strong></td>
+                <td><strong>Inconsciente (Agotamiento)</strong>.</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table class="ref-admin-table">
+            <thead>
+              <tr><th style="width: 28%;">Nivel</th><th>Efecto</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Disonancia 1</strong></td>
+                <td>T.E. mentales/saber requieren T.R. de Compostura previa o se pierde.</td>
+              </tr>
+              <tr>
+                <td><strong>Disonancia 2</strong></td>
+                <td>Aspectos de etapa Grave no están disponibles.</td>
+              </tr>
+              <tr>
+                <td><strong>Disonancia 3</strong></td>
+                <td>Activaciones de Aspecto cuestan +1 Eco adicional.</td>
+              </tr>
+              <tr>
+                <td><strong>Disonancia 4</strong></td>
+                <td>Vínculos con más de un camino quedan inutilizables.</td>
+              </tr>
+              <tr>
+                <td><strong>Disonancia 5</strong></td>
+                <td>Aspectos solo resuelven su etapa Leve.</td>
+              </tr>
+              <tr style="background-color: rgba(140,50,180,0.1);">
+                <td><strong>Desbordamiento</strong></td>
+                <td><strong>Inconsciente (Colapso psíquico)</strong>.</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+
+        <!-- DESCANSO -->
+        <section>
+          <h3 class="ref-section-title">Descanso (El Respiro)</h3>
+          <table class="ref-admin-table" style="margin-bottom: 1rem;">
+            <thead>
+              <tr><th>Descanso Corto</th><th>Recuperación y Tareas</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>15 min</strong></td>
+                <td><strong>−1 Fatiga</strong> (si la Fatiga actual es 2 o inferior).<br><strong>1 Tarea Breve</strong> (ej: revisar herida, ajustar equipo).</td>
+              </tr>
+              <tr>
+                <td><strong>30 min</strong></td>
+                <td><strong>−1 Fatiga</strong> (sin límite de nivel).<br><strong>1 Tarea Significativa</strong> (ej: tratar 1-2 ranuras con kit Básico).</td>
+              </tr>
+              <tr>
+                <td><strong>60 min</strong></td>
+                <td><strong>−2 Fatiga</strong> (Condiciones favorables: −1 extra).<br><strong>2 Tareas Significativas</strong> (ej: tratar 3-4 ranuras con kit Avanzado).</td>
+              </tr>
+            </tbody>
+          </table>
+          <p style="font-size: 0.7rem; color: var(--ink-mid, #555); margin-bottom: 1rem;">
+            <em>Nota: El Descanso Corto estabiliza Heridas pero NO libera ranuras.</em>
+          </p>
+          
+          <h3 class="ref-section-title">Descanso Completo (El Campamento)</h3>
+          <table class="ref-admin-table">
+            <thead>
+              <tr><th>Fase</th><th>Beneficio / Mecánica</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Refugio</strong></td>
+                <td>Calidad del refugio define si tareas nocturnas son Desafiantes/Extremas.</td>
+              </tr>
+              <tr>
+                <td><strong>Tratamiento</strong></td>
+                <td>Libera ranuras de Heridas. Trata Infecciones, Venenos, Aflicciones.</td>
+              </tr>
+              <tr>
+                <td><strong>Sueño (6h+)</strong></td>
+                <td><strong>−3 Fatiga</strong>. Reduce Intensidad de Aflicciones (si el descanso fue bueno).</td>
+              </tr>
+              <tr>
+                <td><strong>Despertar</strong></td>
+                <td>Si el sueño se interrumpió: Fatiga NO baja; Aflicciones suben +1 Intensidad.</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+
+      </div>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 5 — Guía Paso a Paso: Extracción Biopunk
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Reglas — página 5">
+      <div class="sheet-mark sheet-mark--ref">
+        <span>Ref.</span>
+        <small>05 / Ref.</small>
+      </div>
+
+      <h2 style="margin-bottom: 0.8rem;">Guía Paso a Paso: Extracción Biopunk</h2>
+      <p style="font-size: 0.72rem; margin-bottom: 1.2rem; color: var(--ink-mid, #555);">
+        Despiezar una presa en el fango es una carrera quirúrgica contra la putrefacción y la exposición tóxica. Un error no solo arruina la muestra, sino que te expone a las toxinas del cadáver.
+      </p>
+
+      <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin-bottom: 1.5rem;">
+        
+        <section>
+          <div class="ref-panel-body" style="background-color: var(--bg-card); padding: 1rem; border: 1px solid var(--ink-light, #bbb);">
+            <h3 class="ref-section-title" style="margin-top: 0; color: var(--ink-dark);">EL FLUJO DE TRABAJO (Despiece)</h3>
+            
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 1: Requisitos y Declaración</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li><strong>Objetivo:</strong> El jugador declara qué tipo de parte desea extraer (Sensible o No Sensible).</li>
+              <li><strong>Herramienta:</strong> Se requiere el Kit de Extracción del Grado adecuado (ver tabla inferior). Usar un kit de grado inferior impide extraer de forma segura partes Raras o Excepcionales.</li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 2: Tirada de Extracción</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li>El jugador invierte el <strong>Tiempo Base</strong> (minutos) según el tamaño de la criatura.</li>
+              <li>El Narrador define la Dificultad (T.R.) basándose en el estado del cadáver y las presiones del entorno.</li>
+              <li>El jugador realiza la T.E. pertinente (generalmente <em>Medicina</em> para partes sensibles, <em>Supervivencia</em> para partes duras).</li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 3: Resultados y Riesgos</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li><strong>Éxito:</strong> Obtienes las unidades (Sensibles) o kilos (No Sensibles) indicados en la tabla de rendimiento.</li>
+              <li><strong>Fallo:</strong> El tiempo se invierte, pero <em>la muestra se arruina</em> (órgano perforado, veneno derramado).</li>
+              <li><strong>Exposición (¡Cuidado!):</strong> Si extraes partes Sensibles y fallas la tirada (o si extraes sin el Kit adecuado), el Narrador exigirá una <strong>T.R. contra Infección o Veneno</strong>.</li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 4: Conservación</p>
+            <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li>Las partes sensibles son <em>Perecederas</em> o <em>Volátiles</em>. Deben almacenarse de inmediato usando <strong>Kits de Conservación</strong> adecuados (ver tabla inferior).</li>
+              <li>Partes duras como huesos, cuernos o caparazones requieren limpieza mínima y soportan viajes largos sin kits avanzados.</li>
+            </ul>
+          </div>
+        </section>
+
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+        
+        <section>
+          <h3 class="ref-section-title">Rendimiento y Conservación</h3>
+          <table class="ref-admin-table" style="margin-bottom: 1.5rem;">
+            <thead>
+              <tr><th>Tamaño Criatura</th><th>Sensibles (Órganos)</th><th>No Sensibles (Huesos)</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Pequeño</strong></td>
+                <td><strong>1 ud.</strong> (120 min)</td>
+                <td><strong>2 kg</strong> (60 min)</td>
+              </tr>
+              <tr>
+                <td><strong>Mediano</strong></td>
+                <td><strong>2 uds.</strong> (240 min)</td>
+                <td><strong>4 kg</strong> (120 min)</td>
+              </tr>
+              <tr>
+                <td><strong>Grande</strong></td>
+                <td><strong>3 uds.</strong> (360 min)</td>
+                <td><strong>8 kg</strong> (240 min)</td>
+              </tr>
+              <tr>
+                <td><strong>Enorme</strong></td>
+                <td><strong>4 uds.</strong> (480 min)</td>
+                <td><strong>15 kg</strong> (360 min)</td>
+              </tr>
+              <tr>
+                <td><strong>Gigantesco</strong></td>
+                <td><strong>5 uds.</strong> (600 min)</td>
+                <td><strong>25 kg</strong> (480 min)</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3 class="ref-section-title">Kits de Conservación (Sensibles)</h3>
+          <table class="ref-admin-table">
+            <thead>
+              <tr><th>Parte Sensible</th><th>Kit Mínimo</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Fluidos (Sangre/Veneno)</td>
+                <td>Grado 1 (Contenedores sellados)</td>
+              </tr>
+              <tr>
+                <td>Glándulas / Órganos</td>
+                <td>Grado 3 (Preservados en salino)</td>
+              </tr>
+              <tr>
+                <td>Sistema Nervioso</td>
+                <td>Grado 3 (Medio especializado)</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        
+        <section>
+          <div style="display: flex; flex-direction: column; gap: 1rem;">
+            <div>
+              <h3 class="ref-section-title">Calidad de la Muestra (Grados)</h3>
+              <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.1rem; color: var(--ink-mid, #555);">
+                <li><strong>Naturaleza (1d100):</strong><br>01-60 (Común), 61-85 (Raro), 86-100 (Excep.)</li>
+                <li><strong>Criaturas (Rango):</strong><br>Común (G1), Campeón (G2), Élite (G3)</li>
+              </ul>
+            </div>
+            
+            <div>
+              <h3 class="ref-section-title">Kits de Extracción</h3>
+              <table class="ref-admin-table">
+                <thead>
+                  <tr><th>Grado de Kit</th><th>Límite Seguro</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>Grado 1</td><td>Comunes (Sin reducción de tiempo)</td></tr>
+                  <tr><td>Grado 2</td><td>Raras (Reduce 25% el tiempo)</td></tr>
+                  <tr><td>Grado 3</td><td>Excepcionales (Reduce 50% tiempo)</td></tr>
+                </tbody>
+              </table>
+            </div>
+            
+            <div>
+              <h3 class="ref-section-title">Riesgo Biológico</h3>
+              <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.1rem; color: var(--ink-mid, #555);">
+                <li><strong>Riesgo de Infección:</strong> Pelaje, escamas, órganos, fluidos.</li>
+                <li><strong>Riesgo de Veneno:</strong> Colmillos, glándulas, garras.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         HOJA 6 — Guía Paso a Paso: Fabricación
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="sheet-page" aria-label="Referencia de Reglas — página 6">
+      <div class="sheet-mark sheet-mark--ref">
+        <span>Ref.</span>
+        <small>06 / Ref.</small>
+      </div>
+
+      <h2 style="margin-bottom: 0.8rem;">Guía Paso a Paso: Fabricación y Alquimia</h2>
+      <p style="font-size: 0.72rem; margin-bottom: 1.2rem; color: var(--ink-mid, #555);">
+        Para crear cualquier objeto (armas, pociones o trampas) se sigue estrictamente el siguiente <strong>Flujo de Trabajo</strong>. El artesano no pierde sus materiales si se equivoca, pero el tiempo invertido y el riesgo del entorno nunca se recuperan.
+      </p>
+
+      <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin-bottom: 1.5rem;">
+        
+        <section>
+          <div class="ref-panel-body" style="background-color: var(--bg-card); padding: 1rem; border: 1px solid var(--ink-light, #bbb);">
+            <h3 class="ref-section-title" style="margin-top: 0; color: var(--ink-dark);">EL FLUJO DE TRABAJO (Todas las especializaciones)</h3>
+            
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 1: Requisitos Previos</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li><strong>Documento Técnico:</strong> Debes poseer el <em>Diseño</em> (Equipo), <em>Fórmula</em> (Alquimia) o <em>Diagrama</em> (Trampas).</li>
+              <li><strong>Materiales:</strong> Debes poseer físicamente todos los kilos de material o reactivos orgánicos listados.</li>
+              <li><strong>Infraestructura:</strong> La forja de armas pesadas o la alquimia final requieren una instalación fija (horno/alambique). Solo los índices alquímicos o trampas simples se hacen en campo con un kit portátil.</li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 2: Declaración de Jornada</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li>El jugador declara exactamente <strong>cuántas horas</strong> dedicará a trabajar durante esa sesión (ej. "Trabajaré 3 horas mientras el resto vigila").</li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 3: Tiradas de Especialización (Resolución por Hora)</p>
+            <ul style="font-size: 0.72rem; margin: 0 0 0.8rem 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li>Por <strong>CADA HORA</strong> declarada en el Paso 2, el jugador realiza una T.E. de la especialidad correspondiente (Herrería, Sastrería, Joyería, Alquimia o Ingeniería).</li>
+              <li>La dificultad (T.R.) de estas tiradas la define la rareza del material principal (ver tabla abajo).</li>
+              <li><strong>Éxito:</strong> Esa hora cuenta como 1 hora de progreso real.</li>
+              <li><strong>Fallo:</strong> Esa hora de tiempo se pierde por completo. <em>Los materiales NO se pierden.</em></li>
+            </ul>
+
+            <p style="font-size: 0.75rem; font-weight: 600; margin-bottom: 0.3rem;">PASO 4: Finalización del Producto</p>
+            <ul style="font-size: 0.72rem; margin: 0; padding-left: 1.2rem; color: var(--ink-mid, #444);">
+              <li>El trabajo se acumula entre sesiones. Cuando las <strong>horas de éxito totales</strong> igualan el tiempo de producción del documento, el objeto está terminado y se consumen los materiales.</li>
+              <li><em>Excepción - Alquimia:</em> Al terminar una fórmula alquímica, se tira un dado para ver cuántas dosis resultaron del lote (1d4 Común, 1d3 Raro, 1d2 Excepcional). Las fórmulas no se consumen al usarse.</li>
+              <li><em>Excepción - Trampas:</em> Al terminar, la trampa aún debe ser instalada físicamente en el terreno mediante una Acción Extendida.</li>
+            </ul>
+          </div>
+        </section>
+
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+        
+        <!-- DIFICULTAD EQUIPO -->
+        <section>
+          <h3 class="ref-section-title">Dificultad: Equipo y Trampas</h3>
+          <p style="font-size: 0.7rem; color: var(--ink-mid, #555); margin-bottom: 0.6rem;">
+            Aplica a Herrería, Sastrería, Joyería e Ingeniería, dependiendo del material más raro utilizado.
+          </p>
+          <table class="ref-admin-table">
+            <thead>
+              <tr><th>Rareza del Material</th><th>Dificultad por Hora</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>General (Común)</td><td>Desafiante</td></tr>
+              <tr><td>Limitada (Raro)</td><td>Exigente</td></tr>
+              <tr><td>Singular (Excepcional)</td><td>Extremo</td></tr>
+            </tbody>
+          </table>
+        </section>
+
+        <!-- DIFICULTAD ALQUIMIA -->
+        <section>
+          <h3 class="ref-section-title">Dificultad: Alquimia</h3>
+          <p style="font-size: 0.7rem; color: var(--ink-mid, #555); margin-bottom: 0.6rem;">
+            Aplica a la síntesis alquímica, dependiendo de la parte de criatura utilizada como reactivo base.
+          </p>
+          <table class="ref-admin-table">
+            <thead>
+              <tr><th>Reactivo Orgánico</th><th>Dificultad por Hora</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Fluidos</td><td>Desafiante</td></tr>
+              <tr><td>Glándulas / Órganos</td><td>Exigente</td></tr>
+              <tr><td>Sistema Nervioso</td><td>Extremo</td></tr>
+            </tbody>
+          </table>
+        </section>
+
+      </div>
     </main>
 
   </body>

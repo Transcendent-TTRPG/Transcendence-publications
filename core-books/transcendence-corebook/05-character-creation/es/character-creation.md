@@ -33,7 +33,7 @@ section_modes:
 
 # Creación de Personaje
 
-La creación de personaje define quién eres al inicio de la aventura, de dónde vienes y qué capacidades has desarrollado antes de entrar en juego.
+La creación de personaje no es llenar un formulario estadístico; es definir con qué cicatrices —biológicas, culturales y psicológicas— llegas a este mundo hostil. Define quién eres al inicio de la aventura, de dónde vienes y qué atrocidades has tenido que aprender para sobrevivir antes de entrar en juego.
 
 Para crear un personaje, sigue estos pasos en orden:
 
@@ -53,7 +53,7 @@ El orden importa. Algunos pasos modifican valores que se usan más adelante.
 
 ## 1. Define el concepto
 
-Antes de elegir números, define una idea breve del personaje.
+Antes de asignar puntos a una hoja, define al superviviente.
 
 No necesitas escribir una historia completa. Basta con responder tres preguntas:
 
@@ -71,12 +71,12 @@ No escribas solo:
 - “alguien sigiloso”
 - “un personaje inteligente”
 
-Conviene formularlo como una persona concreta:
+Conviene formularlo como un individuo curtido por su entorno:
 
-- una cazadora paciente que aprendió a sobrevivir sola
-- un antiguo custodio que teme olvidar lo que juró proteger
-- una noble insegura que intenta mantener autoridad en un mundo que ya no la respeta
-- un combatiente criado para resistir dolor antes que para entenderlo
+- una rastreadora solitaria que aprendió a purificar toxinas para sobrevivir en las Zonas Primordiales
+- un custodio Ursari que se aferra a un fragmento de historia que su mente taumatizada está empezando a olvidar
+- una diplomática de un santuario subterráneo que intenta mantener su autoridad en un continente en ruinas que ya no la respeta
+- un ariete orgánico Ceratox criado en fosos de castigo para asimilar el dolor antes que para entenderlo
 
 Usa este concepto como guía para elegir especie, trasfondo, especializaciones y Rasgos de Personalidad.
 
@@ -88,7 +88,7 @@ Al terminar este paso, anota una frase breve de concepto en tu hoja.
 
 Todas las características comienzan en `0`.
 
-Este valor no significa que el personaje sea incompetente. Es una base neutra. La especie y la Sinapsis aumentarán estos valores durante la creación.
+Un `0` no significa incompetencia; significa que eres un organismo base que aún no ha sido moldeado por la intemperie. La fisiología de tu especie y tu entrenamiento vital (Sinapsis) dictarán tus verdaderas fortalezas.
 
 | Grupo | Característica | Qué representa |
 | --- | --- | --- |
@@ -108,23 +108,23 @@ Al terminar este paso, tu hoja debe tener todas las características en `0`.
 
 ## 3. Elige especie
 
-La especie define la base biológica y cultural del personaje.
+La especie define tu anatomía, la cultura en la que te forjaste, y la carga evolutiva con la que enfrentarás el mundo. Determina no solo cómo ves, te mueves y te comunicas, sino también con qué extremidades peleas y qué debilidades genéticas te persiguen.
 
-Al elegir especie, registra todo lo que indique su perfil.
+Al elegir especie, registra todo lo que indique su perfil:
 
 | Elemento | Qué debes anotar |
 | --- | --- |
 | Longevidad | Expectativa de vida habitual |
 | Tamaño | Categoría de tamaño |
 | Estatura y peso | Rango físico de referencia |
-| Idiomas | Lenguas conocidas al inicio |
+| Idiomas | Lenguas y dialectos propios de tu cultura natal |
 | Velocidad | Distancia recorrida con una acción de movimiento |
-| Bonificaciones de características | Aumentos iniciales otorgados por especie |
-| Otros valores iniciales equivalentes | Competencias, sentidos, rasgos innatos u otros valores especiales |
-| Herencia | Vulnerabilidad, limitación o marca ancestral |
-| Legado | Ventajas innatas o adaptaciones compartidas |
-| Ataques corporales o armas naturales | Garras, colmillos, cuernos, cola, pinzas, aguijones u otras formas naturales de combate |
-| Variante | Adaptación interna de la especie, si existe |
+| Bonificaciones de características | Aumentos iniciales otorgados por tu fisiología |
+| Otros valores iniciales equivalentes | Competencias, sentidos agudizados o rasgos innatos |
+| Herencia | El costo de la evolución: un penalizador estricto o vulnerabilidad biológica ineludible |
+| Legado | Adaptaciones, órganos especializados o ventajas evolutivas elegibles |
+| Armas Naturales | Garras, colmillos, aguijones tóxicos, cornamentas u otras extensiones corporales letales |
+| Variante | Una sub-adaptación genética específica de tu linaje |
 
 ### Aplica bonificaciones de especie
 
@@ -146,7 +146,7 @@ Al terminar este paso, tu hoja debe tener:
 
 ## 4. Elige trasfondo
 
-El trasfondo representa la vida del personaje antes de la aventura.
+El trasfondo representa la vida y los oficios que te mantuvieron vivo antes de que la necesidad o la tragedia te empujaran a las Zonas Primordiales.
 
 Cada trasfondo otorga dos cosas:
 
@@ -165,7 +165,7 @@ Las demás especializaciones necesitan `10` puntos de progreso.
 
 ### Artista Marcial
 
-El Artista Marcial ha dedicado su vida al perfeccionamiento del cuerpo, el combate o la resistencia física.
+Guerreros de foso, guardias de caravanas o devotos de monasterios asediados que forjaron su cuerpo como un arma para sobrevivir.
 
 | Rasgo | Valor |
 | --- | --- |
@@ -177,7 +177,7 @@ El Artista Marcial ha dedicado su vida al perfeccionamiento del cuerpo, el comba
 
 ### Artesano
 
-El Artesano transforma materia, herramientas y recursos en objetos útiles, bellos o peligrosos.
+Mecánicos, herreros y alquimistas de subsistencia que mantienen a la precaria civilización respirando.
 
 | Rasgo | Valor |
 | --- | --- |
@@ -188,7 +188,7 @@ El Artesano transforma materia, herramientas y recursos en objetos útiles, bell
 
 ### Errante
 
-El Errante fue formado por el camino, la adaptación, la observación y la supervivencia lejos de un lugar estable.
+Nómadas, exiliados de la sociedad o mensajeros que aprendieron a leer el ecosistema mejor que nadie.
 
 | Rasgo | Valor |
 | --- | --- |
@@ -199,7 +199,7 @@ El Errante fue formado por el camino, la adaptación, la observación y la super
 
 ### Custodio
 
-El Custodio proviene de tradiciones, instituciones o deberes ligados a proteger conocimiento, memoria o reliquias.
+Archivistas de santuarios profundos, chamanes de aldeas aisladas o centinelas juramentados a proteger lo poco que queda del pasado.
 
 | Rasgo | Valor |
 | --- | --- |
@@ -210,7 +210,7 @@ El Custodio proviene de tradiciones, instituciones o deberes ligados a proteger 
 
 ### Noble
 
-El Noble fue criado entre jerarquía, educación, influencia, deber o vínculos sociales.
+Líderes de facción, patricios de enclaves amurallados o herederos de linajes caídos que usan la influencia política como armadura.
 
 | Rasgo | Valor |
 | --- | --- |
@@ -244,7 +244,7 @@ Cada especialización inicial:
 Especialización inicial = nivel 1 / rango Novato
 ```
 
-Todo personaje recibe una especialización universal inicial de Tenacidad.
+El mundo exterior es letal por defecto. La intemperie y el Tauma matan más rápido que las garras. Por ello, todo personaje debe iniciar con una especialización universal de supervivencia basada en Tenacidad.
 
 Elige una:
 
@@ -270,7 +270,7 @@ La lista completa de especializaciones aparece en el **Catálogo de Especializac
 
 ## 6. Aplica Sinapsis
 
-La Sinapsis representa cómo la práctica modifica las características del personaje.
+La Sinapsis es la adaptación forzada del organismo. Representa cómo sobrevivir a los horrores de la intemperie altera físicamente tu densidad muscular, la velocidad de tu respuesta neuronal o la coraza de tu psique.
 
 Cada especialización está asociada a una característica. Cuando una especialización alcanza un nuevo rango, aumenta esa característica en `+1`.
 
@@ -320,7 +320,7 @@ Estos valores usan las características finales del personaje.
 
 ### Preparación
 
-La Preparación mide qué tan bien el personaje anticipa, reacciona y actúa bajo presión.
+La Preparación mide tu paranoia táctica: qué tan rápido anticipas la amenaza, desenfundas y te mueves cuando la emboscada estalla.
 
 ```text
 Preparación = (Agilidad + Astucia + Compostura) / 3
@@ -332,7 +332,7 @@ Valor mínimo: `1`.
 
 ### Resiliencia
 
-La Resiliencia mide la capacidad del personaje para resistir y recuperarse de alteraciones adversas.
+La Resiliencia es la dureza de tu sistema inmunológico y nervioso frente a neurotoxinas, radiación taumatúrgica, parálisis u otros efectos negativos.
 
 ```text
 Resiliencia = (Tenacidad + Sabiduría + Compostura) / 3
@@ -344,7 +344,7 @@ Valor mínimo: `1`.
 
 ### Aguante
 
-El Aguante mide cuánta carga acumulada puede sostener el personaje antes de entrar en Fatiga.
+El Aguante es tu umbral de dolor anaeróbico. Mide cuánta esfuerzo (Desgaste) puedes soportar antes de que tus pulmones y músculos colapsen (Fatiga).
 
 ```text
 Aguante = base de tamaño + (Tenacidad × 2)
@@ -358,7 +358,7 @@ La especialización universal inicial de Tenacidad ya está incluida indirectame
 
 ### Cordura
 
-La Cordura mide la estabilidad mental y anímica del personaje frente a presión extrema, horror, corrupción o efectos que ataquen su equilibrio interno.
+La Cordura mide qué tanto de tu mente sigue siendo tuya frente al asfixiante horror del Limbo, la presión cósmica extrema y la corrupción del Tauma.
 
 ```text
 Cordura = 3 + (Compostura × 2)
@@ -432,7 +432,7 @@ Preparación y Resiliencia se redondean hacia arriba.
 
 ## 8. Elige Rasgos de Personalidad
 
-Los Rasgos de Personalidad describen cómo el personaje piensa, siente y responde ante el mundo.
+Los Rasgos de Personalidad describen los sesgos psicológicos y emocionales con los que tu personaje procesa la supervivencia en un mundo roto.
 
 También pueden usarse en juego. Si un rasgo influye de forma clara en una escena, el jugador puede proponer una **Tirada de Rasgo de Personalidad** en lugar de una Tirada de Característica o de Especialización. El Narrador decide si la justificación es válida.
 

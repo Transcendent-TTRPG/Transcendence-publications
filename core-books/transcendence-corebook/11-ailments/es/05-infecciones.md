@@ -18,7 +18,7 @@ authority_refs:
 
 # Infecciones
 
-Una **Infección** entra al organismo, incuba en silencio, y en algún punto se activa. Ya activa, puede empeorar sin tratamiento y propagarse a quien entre en contacto con el portador.
+Una **Infección** es el entorno reclamando tu cuerpo. Entra al organismo, incuba en silencio como un parásito, y en algún momento florece. Una vez activa, no solo te consume desde adentro si no recibes tratamiento, sino que te convierte en un vector biológico que amenaza a todo tu escuadrón.
 
 **Tirada de Resistencia:** `1d10 + Tenacidad + nivel de competencia en Resistencia a Infecciones + bonificadores adicionales`
 
@@ -26,7 +26,7 @@ Una **Infección** entra al organismo, incuba en silencio, y en algún punto se 
 
 ## Contagio
 
-El **Contagio** representa la dificultad de contraer una Infección tras una exposición inicial. Cuando un personaje es expuesto a una fuente infecciosa, debe superar una **T.R. de Infecciones** con la dificultad especificada en la entrada de esa Infección.
+El **Contagio** representa la resistencia inmunológica del cuerpo ante una exposición inicial. Cuando un personaje es expuesto a una fuente infecciosa, debe superar una **T.R. de Infecciones** con la dificultad especificada en la entrada de esa Infección.
 
 Si falla, la Infección se establece en su organismo y comienza el período de incubación.
 
@@ -34,7 +34,7 @@ Si falla, la Infección se establece en su organismo y comienza el período de i
 
 ## Incubación
 
-Cada Infección tiene un **período de incubación** variable según la enfermedad. Durante este período la Infección está presente en el organismo pero es asintomática — no hay efectos negativos visibles sobre el personaje.
+Cada Infección tiene un **período de incubación** variable según la enfermedad. Durante este período la Infección está anclada en el organismo pero permanece en estado de latencia asintomática — no hay deterioro funcional visible sobre el personaje.
 
 Una vez que el período de incubación termina, los síntomas se manifiestan, los efectos de la Infección se activan y la Infección puede comenzar a propagarse.
 
@@ -42,7 +42,7 @@ Una vez que el período de incubación termina, los síntomas se manifiestan, lo
 
 ## Propagación
 
-Una vez que una Infección ha pasado su período de incubación y está activa, puede propagarse a otras criaturas por **contacto físico directo**. Cualquier criatura que entre en contacto físico con un portador de una Infección activa debe superar una **T.R. de Infecciones** con la dificultad especificada en la entrada de esa Infección para evitar ser contagiada.
+Una vez que el período de incubación termina y la infección se manifiesta, el huésped se convierte en un riesgo biológico por **contacto físico directo**. Cualquier criatura que entre en contacto físico con un portador de una Infección activa debe superar una **T.R. de Infecciones** con la dificultad especificada en la entrada de esa Infección para evitar ser contagiada.
 
 La dificultad de contagio y la dificultad de propagación pueden ser distintas — cada entrada de Infección especifica ambas si difieren.
 
