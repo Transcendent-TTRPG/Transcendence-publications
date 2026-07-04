@@ -70,6 +70,20 @@ Los Diseños los crean las mismas especializaciones que fabrican el objeto: Herr
 | Amuleto | Diseño de joya | 80 S | Limitada |
 | Insignia | Diseño de joya | 100 S | Limitada |
 
+### Sobrecarga de disponibilidad
+
+El costo de adquisición de la tabla anterior refleja un diseño de acceso estándar dentro del mercado local. Cuando un diseño es difícil de encontrar — porque pocos artesanos lo conocen, porque es tecnología de otra región o porque requiere conocimientos inusuales — se aplica una sobrecarga sobre el costo base.
+
+| Disponibilidad del diseño | Sobrecarga |
+| --- | --- |
+| Común | +0 S |
+| Moderada | +100 S |
+| Especializada | +200 S |
+| Rara | +300 S |
+| Excepcional | +400 S |
+
+El Narrador determina la disponibilidad según el asentamiento y el tipo de objeto. Un diseño de armadura pesada puede ser Común en una fortaleza militarizada y Raro en un puesto de avanzada en el territorio salvaje.
+
 ---
 
 ## Especialización por tipo de objeto
