@@ -92,7 +92,7 @@ Por defecto, puede permitir:
 
 Un Impacto Crítico no fuerza una Herida Crítica contra personajes jugadores por sí mismo.
 
-La severidad de la Herida sigue dependiendo de la relación entre Impacto y Umbral de Herida, salvo que una regla específica aumente esa severidad.
+La severidad de la Herida sigue dependiendo de la relación entre Impacto y Bloqueo, salvo que una regla específica aumente esa severidad.
 
 ---
 

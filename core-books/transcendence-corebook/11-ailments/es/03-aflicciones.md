@@ -45,6 +45,12 @@ Cuando la Intensidad de una Aflicción sube lo suficiente para cruzar el siguien
 
 ---
 
+## Primer Contacto
+
+La primera interacción con un vestigo o vínculo — voluntaria o involuntaria — impone automáticamente una **Aflicción de severidad Leve** en el sentido vinculado. No requiere tirada.
+
+---
+
 ## Factores de Empeoramiento
 
 Los siguientes factores aumentan la Intensidad de una Aflicción activa:
@@ -52,10 +58,10 @@ Los siguientes factores aumentan la Intensidad de una Aflicción activa:
 | Factor | Modificador |
 | --- | --- |
 | Noche sin descanso completo | `+1` |
-| Interacción con un vestigio — usarlo o descubrirlo | `+1` |
-| Interacción con un vínculo — descubrirlo | `+1` |
+| Interacción con un vestigo (después del primer contacto) — si falla la T.R. de Aflicción | `+1` |
+| Interacción con un vínculo no descubierto — si falla la T.R. de Aflicción | `+1` |
 
-Cada factor se aplica una vez por evento o período relevante.
+Cada factor se aplica una vez por evento o período relevante. Un vínculo descubierto no genera Aflicción al usarse — acumula Eco en su lugar (ver capítulo 12).
 
 ---
 

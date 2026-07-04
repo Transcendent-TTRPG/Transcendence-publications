@@ -22,7 +22,7 @@ section_modes:
 
 ## Sistema de dados
 
-El motor central de supervivencia en Transcendence es el dado de diez caras (**d10**). Sin embargo, la brutalidad del combate, la fisicalidad de las armas y la capacidad de soportar el daño exigen el uso de otros poliedros de impacto: **d4**, **d6**, **d8** y **d12**. Ciertas tablas de resolución del Narrador pueden requerir un **d100** (usando dos d10 leídos como decenas y unidades).
+El motor central de supervivencia en Transcendence es el dado de diez caras (**d10**). Sin embargo, la brutalidad del combate, la fisicalidad de las armas y la capacidad de soportar el daño exigen el uso de otros poliedros de impacto: **d4**, **d6**, **d8** y **d12**. Ciertas tablas de resolución del Narrador pueden requerir un **d100** (usando dos d10 leídos como decenas y unidades) o un **d20** para resoluciones de estado de criatura, encuentros aleatorios y otras tablas del Narrador.
 
 Cada jugador necesita una hoja de personaje para registrar el estado de su superviviente. La mesa también usará fichas, marcadores o representaciones visuales para rastrear implacablemente las posiciones en la Línea de Tiempo Activa (**ATB**).
 
@@ -54,7 +54,7 @@ Cuando un cálculo produce fracciones o decimales, el resultado se redondea haci
 
 Cuando una criatura recibe múltiples efectos del mismo tipo, solo se aplica el de mayor magnitud. Esto incluye penalizaciones, bonificadores, reducciones de velocidad y otros modificadores que afecten el mismo valor o estado.
 
-Para comparar efectos del mismo tipo, se revisa su severidad o magnitud. En Transcendence no se rastrean asaltos ni turnos temporales; los efectos de los agravios o condiciones suelen ser instantáneos, persistentes hasta el final de la escena, o perduran indefinidamente hasta ser tratados. Por tanto, si un nuevo efecto de mayor o igual severidad impacta al personaje, reemplaza al anterior.
+Para comparar efectos del mismo tipo, se revisa su severidad o magnitud. En Transcendence no se rastrean asaltos ni turnos temporales; los efectos de los agravios o condiciones suelen ser instantáneos, persistentes hasta el final de la escena, o perduran indefinidamente hasta ser tratados. Por tanto, si un nuevo efecto de mayor o igual severidad impacta al personaje, reemplaza al anterior. Si la severidad es igual pero el nuevo efecto tiene una duración mayor o condiciones de cierre más exigentes, también reemplaza al anterior.
 
 *Ejemplo:* Un personaje sufre una Alteración de **Congelado** (Nivel Leve) persistente por exposición ambiental. Momentos después, el ataque criogénico de un adversario le aplica **Congelado** (Nivel Grave). Al ser el mismo tipo de efecto pero de mayor magnitud, la nueva condición aplasta a la anterior y se convierte en la única alteración activa a soportar.
 

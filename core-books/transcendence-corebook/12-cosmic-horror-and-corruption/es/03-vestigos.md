@@ -20,59 +20,61 @@ authority_refs:
 
 # Vestigos
 
-Una vez que la mutación perceptual está completa, el vestigo puede activarse intencionalmente. El portador ya asimiló la distorsión y sabe cómo forzar al entorno a través del objeto. Lo que no sabe es cuántas veces más podrá hacerlo antes de que el anclaje ceda.
+Un Vestigo no es un "artefacto mágico" forjado en un taller arcano. Es un nudo del Limbo anclado en un objeto mundano. Ya sea por el peso opresivo de la historia, un trauma colectivo insoportable, o la devoción fanática de miles de mentes a lo largo de los siglos, el objeto se saturó de consciencia colectiva hasta desgarrar el velo de la realidad. 
+
+Una vez que un portador sufre la mutación perceptual necesaria para sintonizarse con él, el objeto se despierta. El portador asimila la distorsión y aprende a *dirigir* el poder del objeto. Lo que no sabe es cuántas veces podrá forzar la realidad antes de que el anclaje ceda por completo.
 
 ---
 
-## El mecanismo
+## El Mecanismo: La Ilusión del Control
 
-El vestigo no hace magia de la nada. Es un ecualizador antinatural que toma la física del entorno y la pervierte. Sesga, sincroniza o filtra el proceso físico que ya hay en la escena, siempre apoyado en un medio real: luz, sonido, vibración, calor, presión.
+Un vestigo no es un milagro creador; es un parásito de la física. No conjura elementos de la nada, sino que actúa como un ecualizador antinatural que toma las leyes del entorno y las pervierte. Sesga, sincroniza o filtra los procesos que ya existen en la escena, siempre apoyado en un medio real: luz, sonido, vibración, calor, presión.
 
-Un vestigo vinculado al sonido no crea sonido donde no hay ninguno. Opera a través del sonido que ya existe en la escena — lo redirige, lo amplifica en una dirección específica, lo confunde en un punto concreto. Si el medio que necesita no está presente, el vestigo no puede activarse.
+Si un vestigo está vinculado al sonido, no creará ruido en el vacío espacial. Opera a través del sonido que ya impregna la escena: lo arranca de su fuente, lo amplifica hasta quebrar el hueso o lo enmudece en un punto exacto. El efecto puede ser devastadoramente preciso, pero siempre es un fenómeno que la física podría explicar superficialmente si alguien no supiera qué está mirando.
 
-Esto también define el alcance de lo que un vestigo puede hacer. Su efecto es real y puede ser decisivo — pero siempre es un efecto que la física del entorno podría explicar si alguien no supiera lo que está mirando. No rompe las reglas del mundo físico. Las usa con una precisión que el mundo físico solo no produciría.
-
-El vestigo no espera intención. Cuando el medio que necesita está presente y alguien entra en contacto con el objeto, el Tauma opera — sin importar si el portador sabe lo que tiene, si lo busca deliberadamente, o si lo tomó sin saber qué era. No existen usos voluntarios e involuntarios en ningún sentido mecánico relevante: interactuar con el vestigo, es decir tocarlo, lo activa. El Tauma usa al portador; el portador no usa el Tauma.
+El mayor engaño del vestigo es la intención. El portador *cree* que tiene el control absoluto porque decide hacia dónde apuntar el objeto. Sin embargo, el vestigo no es una herramienta dócil. En el instante en que el medio físico requerido (como el fuego o la sangre) está presente y el portador entra en contacto con el objeto, el Tauma se dispara. Tira de la mente y la red nerviosa del portador para usarlos como cable de tierra. El portador no usa el Tauma; es el Tauma el que utiliza el cuerpo del portador para manifestarse.
 
 ---
 
-## El coste de uso
+## El Coste de Uso: La Quiebra Mental
 
-Forzar la lógica del mundo físico desgasta al huésped. Cada uso de un vestigo exige una **T.R. de Aflicción**:
+Forzar la lógica de la materia para doblegar al universo físico tiene un precio devastador para el sistema nervioso del huésped. Cada uso de un vestigo exige una **T.R. de Aflicción**:
 
 ```text
 T.R. de Aflicción = 1d10 + Compostura + nivel de competencia en Resistencia a Aflicciones + bonificadores adicionales
 ```
 
-En caso de fallo, la disrupción avanza y la Intensidad de la Aflicción del portador en el sentido vinculado aumenta en `+1`. Un fallo no impide el uso — el vestigo se activa igual — pero te cuesta cordura y control biológico.
+Si la tirada falla, la disrupción avanza y la Intensidad de la Aflicción del portador (en el sentido vinculado al vestigo) aumenta en `+1`. Este fallo no impide que el vestigo se active; la anomalía ocurre de todos modos, pero el peaje se cobra directamente en tu cordura y control biológico.
 
-La dificultad de esta T.R. usa la escala estándar de Agravios con el NR del vestigo: **Leve: 8 + NR**, **Moderado: 13 + NR**, **Grave: 17 + NR**. A medida que la Intensidad escala, la siguiente tirada se vuelve más difícil. Para un portador de NR bajo frente a un vestigo de NR alto, el ciclo es casi inevitable: falla la T.R., la Intensidad sube, la siguiente tirada exige aún más. Cuando la Aflicción llega a Grave, el canal desborda hacia otros sentidos u otras aflicciones. No hay bloqueo de acceso — el Tauma no pide permiso — pero las consecuencias de usar un vestigo muy por encima del propio NR se acumulan con rapidez.
+La dificultad de esta tirada no es estática, utiliza la escala de Agravios sumando el Nivel de Referencia (NR) oculto del vestigo: **Leve: 8 + NR**, **Moderado: 13 + NR**, **Grave: 17 + NR**. 
 
-La Aflicción acumulada no es solo coste. A medida que la intensidad aumenta, las pistas de cualquier objeto del mismo sentido se vuelven más claras — el canal más cargado percibe más. Lo que el portador pierde en percepción ordinaria, lo redistribuye hacia lo que el Limbo le permite ver.
+A medida que la Intensidad de tu Aflicción escala, la siguiente tirada se vuelve más difícil. Para un aventurero inexperto empuñando un vestigo de alto NR, el descenso a la locura es inevitable: fallas la tirada, tu mente se resquebraja, la Intensidad sube, y la siguiente tirada te exigirá aún más. Cuando la Aflicción alcanza el grado de *Grave*, el canal de corrupción se desborda, pudriendo otros sentidos o detonando nuevas aflicciones cruzadas. El Limbo no pide permiso, y abusar de un objeto más allá de tus límites fracturará tu humanidad.
 
----
-
-## La fatiga del patrón
-
-La alteración antinatural no es eterna. El patrón de un vestigo tiene un número finito de usos. Ese número no es visible para el portador — no hay contador, no hay señal de advertencia. El patrón se agota de forma impredecible. Un vestigo puede durar tres usos o treinta. El portador no lo sabe mientras no lo vive.
-
-Cuando el patrón se agota, el vestigo no explota ni se transforma. Simplemente pierde su anclaje de forma tan abrupta como un cristal que se quiebra. Sigue siendo el objeto que era — la pluma, la moneda, la vasija — pero el Tauma que lo impregnaba se ha disipado. Si alguien con Resonancia lo sondea ahora, encontrará lo que queda de una huella que ya no tiene fuerza.
-
-La Aflicción que el portador acumuló durante el uso no desaparece con el agotamiento del vestigo. El canal que el cuerpo construyó sigue ahí. Lo que ya no existe es el objeto que lo alimentaba.
+Sin embargo, la locura rara vez es solo un castigo. A medida que la intensidad de tu Aflicción aumenta, el "canal" hacia el Limbo se purga y se vuelve más nítido. Lo que pierdes en percepción ordinaria (quedarte ciego o sordo ante el mundo real), lo redistribuyes hacia lo que el Limbo te permite ver. Quien sufre por un vestigo, ve verdades que los cuerdos no pueden soportar.
 
 ---
 
-## Categorías de vestigo
+## La Fatiga del Patrón
 
-El patrón no tiene una sola resistencia. Depende de qué tan profundo fue el consenso que lo creó: cuántos individuos creyeron en el objeto, durante cuánto tiempo, con cuánta convicción, y si la civilización de origen todavía existe para anclar el Tauma acumulado o si solo queda el eco de una fe muerta sin canal vivo hacia donde fluir.
+La alteración antinatural de un Vestigo no es eterna. Su patrón de energía tiene un límite, un número finito de usos que nadie puede predecir. No hay un contador brillante, ni un crujido de advertencia. El patrón se agota a ciegas. Un vestigo podría durar tres activaciones, o treinta.
 
-La categoría de cada vestigo está definida en su propio diseño, junto con su NR. Es una propiedad fija del vestigo que determina dos cosas: la dificultad de las T.R. de Aflicción que genera sobre quienes entran en contacto con él cuando el medio está presente, y la velocidad con que su patrón cede. Esta clasificación no se comunica a los jugadores — forma parte del estado oculto del objeto.
+Cuando el patrón cede, el vestigo no explota en un destello de luz, ni se convierte en polvo. Simplemente se apaga. Su vínculo con el Limbo se quiebra de forma tan abrupta y silenciosa como un cristal cortando un hilo. Seguirá siendo el objeto material que siempre fue —una moneda, una daga, una vasija—, pero el alma taumática que lo habitaba se ha ido para siempre. Si alguien con conocimiento suficiente o percepción del limbo lo examina, solo sentirá el eco fúnebre de una deidad muerta.
 
-### Tirada de agotamiento
+La verdadera tragedia radica en que el portador conserva las cicatrices. La Aflicción acumulada y la locura adquirida no desaparecen cuando el vestigo se apaga. El puente neuronal que el Tauma excavó en tu mente sigue abierto y sangrando; lo único que desapareció fue el objeto que lo justificaba.
 
-Cada vez que el vestigo se activa — cuando el efecto se manifiesta a través del medio físico presente — el Narrador realiza en secreto una tirada de `1d100`. Si el resultado es igual o superior al **umbral de categoría**, el patrón se agota en ese momento. El portador descubre el agotamiento solo cuando el objeto deja de responder.
+---
 
-### Las cinco categorías
+## Categorías de Vestigo y La Ironía Primordial
+
+La fuerza de un vestigo depende de qué tan profundo fue el consenso que lo originó: cuántas almas creyeron en el objeto, durante cuántos siglos, y si la civilización de origen todavía existe para seguir alimentándolo, o si es el eco huérfano de un imperio extinto.
+
+Esta categoría define el Nivel de Referencia (NR) oculto del objeto (el cual dictamina el castigo mental que impone a sus usuarios) y el **Umbral** de ruptura. Todo esto es información clasificada, parte del misterio intrínseco del juego, invisible para los jugadores.
+
+### La Tirada de Agotamiento
+
+Cada vez que el vestigo se activa con éxito, el Narrador realiza en secreto una tirada de `1d100`. Si el resultado es igual o superior al **umbral de categoría**, el patrón se quiebra irrevocablemente en ese instante. El portador solo descubre el agotamiento cuando intenta usar el objeto una vez más, y este responde con un silencio inerte.
+
+### Las Cinco Categorías
 
 | Categoría | NR | Umbral | Probabilidad por activación | Activaciones promedio |
 | --- | --- | --- | --- | --- |
@@ -82,29 +84,27 @@ Cada vez que el vestigo se activa — cuando el efecto se manifiesta a través d
 | Profundo | 9–11 | 85 | 16 % | ~6 |
 | Primordial | 12 | 81 | 20 % | ~5 |
 
-**Fragmentario** — El consenso que lo creó fue pequeño o breve. Una comunidad reducida, una devoción de pocos años, una creencia que nunca alcanzó el centro de la cultura. El patrón es real pero delgado: hay poco Tauma que consumir, y por eso las activaciones apenas lo erosionan. Dura muchos usos. Lo que no tiene es profundidad — sus efectos son limitados.
+**Fragmentario** — El culto que lo adoró fue pequeño o efímero. Su anclaje es delgado y contiene muy poco Tauma. Irónicamente, como su poder es tan escaso, cada activación apenas erosiona su estructura. Duran muchos usos, pero sus efectos son burdos y limitados.
 
-**Menor** — Una comunidad de escala moderada sostuvo esta creencia durante generaciones, aunque nunca fue el eje de su cosmología. El patrón tiene más densidad que el Fragmentario, y cada activación arrastra más. Sigue siendo manejable, pero se gasta con mayor velocidad.
+**Menor** — Una comunidad moderada sostuvo esta reliquia por generaciones, sin llegar a considerarla el eje de su mundo. Tiene mayor densidad, por lo que cada activación arrastra más energía. Empiezan a volverse volátiles.
 
-**Establecido** — El objeto era central para una civilización importante en el pico de su poder. Muchas personas, durante mucho tiempo, creyeron que hacía exactamente esto. El patrón es denso y coherente, y cada activación consume una fracción considerable de lo acumulado.
+**Establecido** — El núcleo teológico de una gran civilización en su apogeo. Miles de mentes creyeron ciegamente que este objeto hacía milagros. Su patrón es denso y coherente. El peaje de usarlo es alto, y cada activación consume una fracción inmensa de su propia esencia.
 
-**Profundo** — Civilización antigua en el cénit de su poder, o dos o más culturas que sostuvieron la misma creencia de forma independiente. La convergencia multiplica la impronta. El patrón es intenso y cada activación lo convulsiona desde dentro.
+**Profundo** — Reliquias en el cénit del poder imperial, o cultos que convergieron de manera independiente multiplicando la impronta. Su poder es convulso. Usarlo desgarra el objeto desde dentro.
 
-**Primordial** — El consenso fue tan masivo, tan antiguo o tan total que el patrón acumula una densidad casi incomprensible. Esa densidad es exactamente lo que lo agota: cada activación arrastra una porción enorme del depósito acumulado. Los vestigos Primordiales suelen provenir de civilizaciones extintas — sin una fe viva que reponga lo que se consume, el Tauma no se recupera. Son los más devastadores y los más volátiles en igual medida.
+**Primordial** — El consenso masivo y milenario ha creado una densidad taumática incomprensible. Esta es la gran ironía trágica del universo: los objetos más divinos son estrellas fugaces. Debido a que su poder es abrumadoramente denso, cada activación requiere un consumo de energía colosal. Son los más devastadores, los más castigadores mentalmente, y los más rápidos en extinguirse.
 
-### Criterios de asignación
+### Criterios de Asignación del Narrador
 
-Cuatro factores determinan la categoría de un vestigo:
-
-- **Antigüedad** — ¿Cuánto tiempo duró la creencia antes de que el Tauma respondiera? Una creencia de veinte años produce resultados distintos a una de dos milenios.
-- **Escala** — ¿Cuántas personas sostuvieron esta creencia en su momento de mayor difusión? Una aldea no equivale a un imperio.
-- **Centralidad** — ¿Era este objeto el eje de la cosmología o un elemento periférico? Los objetos que una cultura consideró sagrados de forma transversal acumulan impronta más rápido que los que fueron importantes solo para un rito específico.
-- **Anclaje** — ¿La civilización de origen todavía existe? Si existe, el Tauma sigue teniendo un canal vivo hacia el que fluir. Si está extinta, ese canal está sellado. El patrón no puede dispersarse hacia ningún lado. Solo puede permanecer.
+- **Antigüedad** — ¿Duró la creencia veinte años o dos milenios antes de solidificarse?
+- **Escala** — Una aldea desesperada nunca igualará el peso psíquico de un imperio en guerra.
+- **Centralidad** — ¿Era el corazón de una cosmología, o una simple herramienta periférica de los ritos menores?
+- **Anclaje** — ¿Siguen vivos sus creyentes? Si la civilización sigue viva, el Tauma fluye. Si la civilización está extinta, el canal está sellado y el patrón es una reserva estancada, lista para evaporarse.
 
 ---
 
-## Lo que el vestigo no hace
+## Lo que el Vestigo no hace
 
-Un vestigo no le da al portador un poder independiente de él. El portador no "aprende" a hacer lo que el vestigo hacía. Si el objeto se destruye, se pierde o se agota, el portador no retiene esa capacidad — retiene la Aflicción, retiene la percepción expandida que viene con ella, pero no el efecto.
+Un vestigo no es un grimorio ni un maestro. No te enseña sus artes. El portador no "aprende" ni absorbe la magia del objeto. Si el vestigo se destruye, es robado o su patrón colapsa por fatiga, el portador queda vacío. No retiene ni un ápice de ese poder sobrenatural.
 
-Lo que el vestigo otorga mientras existe es acceso a algo que el portador, por sus propios medios, no puede producir.
+Lo único que retiene para siempre es la Aflicción en su cuerpo y las cicatrices en su cordura.

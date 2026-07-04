@@ -128,18 +128,6 @@ Una zona sin armadura no aporta Bloqueo de armadura.
 
 ---
 
-## Umbral de Herida
-
-Para convertir Impacto en Herida contra personajes jugadores, usa el **Umbral de Herida** de la zona.
-
-El Umbral de Herida es igual al Bloqueo de esa zona. Si la zona no tiene Bloqueo, el Umbral mínimo es `1`.
-
-Esta regla evita que una zona desprotegida convierta cualquier golpe en Herida Crítica automática.
-
-El Bloqueo sigue funcionando como protección normal. El Umbral de Herida solo sirve para determinar la gravedad de la Herida cuando el ataque ya conectó.
-
----
-
 ## Jugadores contra PNJs
 
 Cuando un personaje jugador golpea a un PNJ, criatura, monstruo o adversario, el ataque usa el modelo de daño del objetivo.
@@ -169,16 +157,15 @@ El orden de resolución es:
 3. Resolver la Tirada de Defensa usando la Evasión aplicable y la Agilidad aplicable según la armadura de la zona.
 4. Si el ataque conecta, tirar Impacto.
 5. Calcular el Bloqueo de la zona.
-6. Calcular el Umbral de Herida.
-7. Comparar Impacto contra el Umbral de Herida.
-8. Registrar la Herida si corresponde.
+6. Comparar Impacto contra el Bloqueo.
+7. Registrar la Herida si corresponde.
 
 | Relación | Resultado | Ranuras |
 | --- | --- | ---: |
-| Impacto <= Umbral de Herida | Sin Herida | 0 |
-| Impacto > Umbral de Herida y <= 2 × Umbral de Herida | Herida Leve | 1 |
-| Impacto > 2 × Umbral de Herida y <= 3 × Umbral de Herida | Herida Grave | 2 |
-| Impacto > 3 × Umbral de Herida | Herida Crítica | 3 |
+| Impacto <= Bloqueo | Sin Herida | 0 |
+| Impacto > Bloqueo y <= Bloqueo × 2 | Herida Leve | 1 |
+| Impacto > Bloqueo × 2 y <= Bloqueo × 3 | Herida Grave | 2 |
+| Impacto > Bloqueo × 3 | Herida Crítica | 3 |
 
 Una Herida Crítica no fuerza una Tirada de Resistencia por defecto. Ya ocupa 3 ranuras y puede saturar o colapsar una zona por sí misma.
 
