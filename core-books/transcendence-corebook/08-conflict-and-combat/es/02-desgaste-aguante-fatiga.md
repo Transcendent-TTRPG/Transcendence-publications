@@ -64,14 +64,16 @@ No toda acción genera Desgaste. Solo lo hacen aquellas que exigen esfuerzo real
 
 ## Costos de Desgaste
 
-Las acciones usan una escala simple de costos.
+Las acciones usan una escala de costos de 0 a 5.
 
 | Costo | Tipo de acción |
 | ---: | --- |
 | 0 | Acción sin exigencia real |
 | 1 | Acción significativa estándar |
 | 2 | Acción de alta exigencia |
-| 3 | Acción extrema o de sobreextensión |
+| 3 | Compromiso extremo concentrado en un solo momento |
+| 4 | Más allá del margen operativo normal — técnicas de rangos altos |
+| 5 | Límite absoluto del sistema — técnicas signature de la cúspide |
 
 ---
 
@@ -124,6 +126,50 @@ Ejemplos:
 - una respuesta biológica de emergencia que fuerza al cuerpo a rebasar su propio estado
 - entrar en una configuración defensiva completa que exige máxima disposición física sostenida
 - el coste de activación único de una Técnica cuyo efecto continuado justifica la carga inicial extrema
+
+---
+
+### 4 Desgaste
+
+Más allá del margen operativo normal. Reservado para Técnicas de rangos Experto y Maestro.
+
+No es desesperación — es el precio físico de maniobras que solo son sostenibles para quien tiene la reserva necesaria. Un personaje con Aguante 8 llega a Fatiga 1 en dos activaciones de Desgaste 4. Un personaje con Aguante 20 puede encadenar cinco.
+
+Ejemplos:
+
+- Técnica de alta complejidad que exige fuerza, velocidad y resistencia simultáneas durante toda su ejecución
+- maniobra que altera drásticamente el estado de la escena de forma sostenida
+- concentración táctica extrema que desplaza casi toda la capacidad operativa del personaje
+
+---
+
+### 5 Desgaste
+
+Límite absoluto del sistema base. Reservado para Técnicas signature de la cúspide — Maestro y Trascendente.
+
+Una sola activación consume más de la mitad del umbral de Fatiga 1 de un personaje con Aguante 8. Para un personaje con Aguante 28, es menos de una quinta parte. Esta asimetría es intencional: las Técnicas más extremas del sistema solo son tácticamente viables para quienes han construido el Aguante necesario para usarlas.
+
+Ejemplos:
+
+- Técnica definitoria que concentra el límite absoluto de una línea de competencia
+- maniobra que reescribe el combate de forma total y deja sin margen para otra activación de igual peso
+- intervención que solo es estratégicamente viable si el Aguante del personaje lo permite
+
+---
+
+## Desgaste y rango de Técnica
+
+El Desgaste de una Técnica es fijo al rango de esa Técnica, no al rango del personaje que la usa.
+
+Una Técnica Novato siempre cuesta Desgaste 1–2, ya sea usada por un Novato o por un Trascendente. Una Técnica de rango Maestro siempre cuesta Desgaste 4–5.
+
+El crecimiento de Aguante vía Tenacidad — impulsado por Sinapsis al subir rangos en especializaciones de resistencia — es el mecanismo que permite a los personajes avanzados sostener Técnicas de alto Desgaste sin colapsar. No reduce el costo; amplía la reserva que lo absorbe.
+
+Esto define la elección táctica central del sistema:
+
+- Las Técnicas de bajo rango son la opción **eficiente** cuando el personaje quiere preservar Aguante para lo que sigue.
+- Las de alto rango son la opción **poderosa** cuando la situación exige el gasto.
+- Ninguna familia se vuelve obsoleta — ocupan posiciones distintas en el presupuesto táctico del combate.
 
 ---
 
