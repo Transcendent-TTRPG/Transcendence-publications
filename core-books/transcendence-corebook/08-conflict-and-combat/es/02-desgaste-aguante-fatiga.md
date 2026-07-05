@@ -115,13 +115,15 @@ Ejemplos:
 
 ### 3 Desgaste
 
-Al borde del desgarro. Intervenciones desesperadas que destrozan tus reservas metabólicas.
+Compromiso físico, biológico o cognitivo extremo concentrado en un solo momento. No se limita a actos desesperados o suicidas — aplica a cualquier activación cuyo costo biológico real es genuinamente extremo, independientemente de si el resultado es ofensivo, defensivo o metabólico.
 
 Ejemplos:
 
-- sobrextender el cuerpo en un ataque suicida
-- una intervención heroica que ignora por completo el dolor
-- ejecutar Técnicas supremas que consumen la vida misma del usuario
+- sobreextender el cuerpo en un ataque o respuesta que ignora el margen de seguridad
+- una intervención heroica que supera voluntariamente el límite funcional del organismo
+- una respuesta biológica de emergencia que fuerza al cuerpo a rebasar su propio estado
+- entrar en una configuración defensiva completa que exige máxima disposición física sostenida
+- el coste de activación único de una Técnica cuyo efecto continuado justifica la carga inicial extrema
 
 ---
 
