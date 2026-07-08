@@ -159,9 +159,11 @@ Las armaduras se fabrican pieza a pieza. El total de material depende de cuánta
 
 | Clase | Materiales válidos |
 | --- | --- |
-| **Ligera** | Cuero, tela, cuero de criatura, titanio |
-| **Intermedia** | Hierro, cobre, bronce, peltre, obsidiana, cuero escamado |
-| **Pesada** | Acero, plomo, plata, oro, platino |
+| **Ligera** | Cuero, tela, cuero de criatura (pelaje), tela de criatura (pelaje), titanio |
+| **Intermedia** | Hierro, cobre, bronce, peltre, obsidiana, cuero escamado, escamas de criatura |
+| **Pesada** | Acero, plomo, plata, oro, platino, coraza de criatura |
+
+Los materiales de criatura usan la Durabilidad de la especie fuente. Ver _Catálogo de Armaduras y Escudos_ para los valores de referencia por tipo.
 
 Los materiales tauma-impregnados de cualquier categoría pueden ser válidos según su equivalente estructural — el Narrador evalúa caso a caso.
 

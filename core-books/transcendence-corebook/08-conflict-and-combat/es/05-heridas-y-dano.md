@@ -101,28 +101,21 @@ Las reglas completas de Impacto Crítico, Potencia Crítica y Romper Partes se e
 
 Cuando un golpe conecta contra una zona protegida, esa zona aporta **Bloqueo**.
 
-```text
-Bloqueo = BC + BM + CD + CO
-```
+El Bloqueo representa cuánta presión absorbe la armadura antes de que el cuerpo reciba daño real. No es solo grosor: también cuenta cómo estás entrenado para recibir golpes, cómo redistribuyes el impacto con el movimiento del cuerpo y qué tan denso es el material que cubre esa zona.
 
-| Componente | Significado |
-| --- | --- |
-| BC | Bloqueo base por categoría de armadura |
-| BM | Bono de material |
-| CD | Competencia Defensiva con la armadura de la zona |
-| CO | Calidad o grado de la pieza |
+**Categoría.** La clase de armadura define el piso de protección. Una armadura pesada está construida para contener impactos sostenidos; una ligera prioriza la libertad de movimiento sobre la absorción pura.
 
-| Armadura | BC |
+| Categoría | Bloqueo base |
 | --- | ---: |
 | Ligera | 2 |
 | Intermedia | 4 |
 | Pesada | 6 |
 
-El Bono de Material equivale a la Durabilidad de la pieza dividida entre `10`, redondeada hacia abajo.
+**Material.** No toda armadura de la misma categoría protege igual. Divide la Durabilidad de la pieza entre seis y redondea hacia abajo: ese es el aporte del material. Un cuero estándar (Durabilidad 10) aporta 1. Un hierro estándar (Durabilidad 14) aporta 2. Un acero forjado (Durabilidad 20) aporta 3. Los materiales exóticos como el titanio, con Durabilidad 32, aportan 5 incluso dentro de una categoría ligera.
 
-La Competencia Defensiva equivale al nivel de competencia en el tipo de armadura que protege la zona golpeada.
+**Competencia.** Llevar una armadura no es lo mismo que saber usarla. Un guerrero entrenado sabe cómo moverse dentro de ella para recibir el impacto donde el material aguanta más, anular ángulos y reducir el pico de daño que llega al cuerpo. Tu nivel de competencia en el tipo de armadura que protege la zona golpeada suma directamente al Bloqueo.
 
-Solo se usa si esa armadura participa en absorber el Impacto.
+El Bloqueo total de la zona es la suma de los tres.
 
 Una zona sin armadura no aporta Bloqueo de armadura.
 

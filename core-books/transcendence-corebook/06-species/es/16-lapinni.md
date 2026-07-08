@@ -30,7 +30,7 @@ Cuando abandonan el caos constante de sus caravanas o cortes de viento, un Lapin
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 60–75 años | Mediano | 1.50–1.75 m | 45–65 kg | 10 m |
+| 60–75 años | Pequeño | 1.25–1.45 m | 35–50 kg | 12 m |
 
 **Idiomas:** Lepor (nativo) · Común
 

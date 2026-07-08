@@ -26,29 +26,40 @@
     flex-direction: column;
   }
 
-  /* Pág 01 — lower-grid (rasgos + legados) crece */
+  /* Pág 01 — lower-grid (biografía + rasgos/legados) crece */
   .lower-grid {
     flex: 1;
     min-height: 0;
     grid-template-rows: 1fr;
   }
 
-  .lower-grid .traits {
+  .lower-grid .biography {
     display: flex;
     flex-direction: column;
   }
 
-  .lower-grid .traits .writing-lines {
+  .lower-grid .biography .bio-lines {
     flex: 1;
     display: flex;
     flex-direction: column;
     min-height: 0;
   }
 
-  .lower-grid .traits .writing-lines i {
+  .lower-grid .biography .bio-lines i {
     flex: 1;
     height: auto;
-    min-height: 0.38in;
+    min-height: 0.36in;
+  }
+
+  .lower-grid .right-stack {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  .lower-grid .right-stack .legacy {
+    flex: 1;
+    min-height: 0;
   }
 
   /* Pág 02 — ataques crecen (6 filas) */
@@ -317,10 +328,44 @@ h1 {
 
 .lower-grid {
   display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
+  grid-template-columns: 1.3fr 0.9fr;
   align-items: stretch;
   gap: 10px;
   margin-top: 8px;
+}
+
+.biography {
+  display: flex;
+  flex-direction: column;
+}
+
+.biography .bio-lines {
+  flex: 1;
+}
+
+.right-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.right-stack .legacy {
+  flex: 1;
+  min-height: 0;
+}
+
+.trait-chips {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+  padding: 8px 10px 10px;
+}
+
+.trait-chips i {
+  display: block;
+  height: 0.3in;
+  border: 1px solid #7c927d;
+  background: var(--paper-line);
 }
 
 .panel {
@@ -492,6 +537,43 @@ h2 {
       transparent 0.25in,
       #7c927d 0.255in,
       transparent 0.262in
+    );
+}
+
+.language-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  background: transparent;
+}
+
+.language-table th,
+.language-table td {
+  border: 1px solid #7c927d;
+  background-color: rgba(246, 239, 217, 0.1);
+  vertical-align: middle;
+}
+
+.language-table th {
+  width: 0.82in;
+  padding: 4px 7px;
+  color: #172b1a;
+  font-family: "Cinzel", Palatino, serif;
+  font-size: 6.5pt;
+  line-height: 1.1;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.language-table td {
+  height: 0.28in;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 0.22in,
+      #7c927d 0.225in,
+      transparent 0.232in
     );
 }
 
