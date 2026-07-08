@@ -197,9 +197,9 @@ Los costos específicos de cada acción base se encuentran en el capítulo de Ac
 
 ## Ciclos autónomos
 
-Algunas criaturas y efectos del entorno generan **ciclos autónomos**: fichas adicionales que entran al ATB con su propio costo de Ritmo e independientes del turno principal de la criatura.
+Algunas criaturas y efectos del entorno generan **ciclos autónomos**: fichas adicionales que entran al ATB con su propio costo de Ritmo e independientes de la activación principal de la criatura.
 
-Un ciclo autónomo no es una acción del Narrador durante el turno de la criatura. Es una ficha propia en el track, visible para todos en la mesa, que se activa cuando el marcador de flujo la alcanza.
+Un ciclo autónomo no es una acción del Narrador durante la activación de la criatura. Es una ficha propia en el track, visible para todos en la mesa, que se activa cuando el marcador de flujo la alcanza.
 
 Su siguiente costo de Ritmo no se declara por defecto. Es información oculta hasta que el ciclo se dispara o hasta que una Técnica lo revela.
 

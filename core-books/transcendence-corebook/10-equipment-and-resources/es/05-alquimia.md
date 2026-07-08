@@ -175,6 +175,6 @@ Suprime la reactividad muscular y la velocidad de respuesta. El objetivo realiza
 
 **Rareza:** Excepcional · **Vía:** Inoculación · **Reactivo:** Sistema nervioso (1) · **Plantas:** 2
 
-Un colapso neurológico total. Ataca directamente el puente espinal de la bestia, ahogando sus señales nerviosas. El objetivo realiza una T.R. de Veneno — si falla, queda Inmovilizado. Mientras persiste el efecto, no puede tomar ninguna acción voluntaria. La T.R. puede repetirse al inicio de cada turno del objetivo.
+Un colapso neurológico total. Ataca directamente el puente espinal de la bestia, ahogando sus señales nerviosas. El objetivo realiza una T.R. de Veneno — si falla, queda Inmovilizado. Mientras persiste el efecto, no puede tomar ninguna acción voluntaria. La T.R. puede repetirse al inicio de cada activación del objetivo.
 
 **Disponibilidad:** Singular

@@ -229,7 +229,7 @@ El personaje regresa al ATB más tarde que con otros ataques base.
 
 ### Dos armas
 
-Combatir con dos armas permite encadenar ataques dentro de una misma activación. La mano principal realiza el ataque inicial. Los ataques adicionales dependen de la coordinación del personaje bajo presión.
+Combatir con dos armas (empuñando un **arma auxiliar en cada mano**) permite encadenar ataques dentro de una misma activación. La mano principal realiza el ataque inicial. Los ataques adicionales dependen de tu destreza y coordinación bajo presión. Las armas anatómicas veloces (como garras múltiples) se consideran armas auxiliares para este propósito.
 
 **Tipo:** Acción Activa  
 **Costo de ritmo:** 8  
@@ -238,11 +238,9 @@ Combatir con dos armas permite encadenar ataques dentro de una misma activación
 Procedimiento:
 
 1. Realiza una **T.A. inicial** con la mano principal, sin penalización.
-2. Realiza una **T.E. de combate con dos armas** contra la T.D. del objetivo.
+2. Realiza una **T.E. de Destreza** contra la T.D. del objetivo.
 3. Si la T.E. supera la T.D., puedes declarar ataques adicionales.
 4. Los ataques adicionales alternan entre ambas manos.
-
-La T.E. usa la especialización **Combate con dos armas** y **Agilidad** como característica asociada.
 
 El personaje obtiene `1` ataque adicional por cada `2` puntos de Agilidad, con mínimo `1`.
 
@@ -284,15 +282,6 @@ Costo orientativo bajo presión activa:
 
 Esto no reemplaza reglas más específicas. Si la situación exige diagnóstico,
 tratamiento técnico o una tirada entrenada, pasa a **Usar Especialización**.
-
-### Cambio de arma
-
-Cambiar el arma que el personaje tiene en la mano requiere dos acciones de Interactuar:
-
-1. dejar o guardar el arma actual
-2. tomar la nueva arma
-
-Si el personaje primero suelta el arma actual como Acción Gratuita, solo necesita una acción de Interactuar para tomar la nueva.
 
 ---
 
@@ -400,7 +389,7 @@ Esto cubre:
 - dejar caer un objeto antes o después de la acción principal
 - liberar algo que ya no forma parte de lo que el personaje está haciendo
 
-Un objeto que forma parte activa de un agarre, forcejeo, bloqueo, maniobra conjunta o situación comprometida no puede soltarse gratuitamente. En ese caso, requiere una acción de Interactuar.
+Un objeto que forma parte activa de un agarre, forcejeo, bloqueo, maniobra conjunta o situación comprometida no puede soltarse gratuitamente. En ese caso, requiere activar Interactuar.
 
 ---
 
@@ -422,7 +411,7 @@ Esto cubre:
 
 Engañar, persuadir, negociar, intimidar, calmar o provocar no es gratuito. La distinción no depende solo de la longitud de la frase, sino de su función.
 
-Transmitir información inmediata puede ser gratuito. Intentar influir sobre otro participante requiere una acción apropiada.
+Transmitir información inmediata puede ser gratuito. Intentar influir sobre otro participante requiere la activación apropiada.
 
 ---
 

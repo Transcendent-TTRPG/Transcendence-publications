@@ -82,14 +82,14 @@ Los Agravios no se miden por rondas. En lugar de eso, usan modelos de duración 
 
 | Modelo | Significado |
 | --- | --- |
-| `hasta_eliminar` | Persiste hasta que una acción, tratamiento, técnica o condición específica lo elimina |
+| `hasta_eliminar` | Persiste hasta que una activación, tratamiento, técnica o condición específica lo elimina |
 | `hasta_desencadenante` | Termina cuando ocurre el desencadenante indicado por el Agravio |
 | `mientras_persista_la_condición` | Persiste mientras la condición ficticia que lo justifica siga presente |
 
 La **duración** indica cuánto tiempo puede permanecer el Agravio.  
 La **recuperación** indica qué debe hacerse para eliminarlo, aliviarlo o impedir que escale.
 
-Son dos cosas distintas. Un Agravio puede durar hasta ser eliminado, pero requerir una acción específica para limpiarlo. Otro puede terminar con la escena, aunque no haya sido tratado directamente.
+Son dos cosas distintas. Un Agravio puede durar hasta ser eliminado, pero requerir una intervención específica para limpiarlo. Otro puede terminar con la escena, aunque no haya sido tratado directamente.
 
 ---
 

@@ -118,7 +118,7 @@ Al elegir especie, registra todo lo que indique su perfil:
 | Tamaño | Categoría de tamaño |
 | Estatura y peso | Rango físico de referencia |
 | Idiomas | Lenguas y dialectos propios de tu cultura natal |
-| Velocidad | Distancia recorrida con una acción de movimiento |
+| Velocidad | Distancia recorrida al activar Movimiento |
 | Bonificaciones de características | Aumentos iniciales otorgados por tu fisiología |
 | Otros valores iniciales equivalentes | Competencias, sentidos agudizados o rasgos innatos |
 | Herencia | El costo de la evolución: un penalizador estricto o vulnerabilidad biológica ineludible |

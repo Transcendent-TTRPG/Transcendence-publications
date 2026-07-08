@@ -57,7 +57,7 @@ Armas pesadas diseñadas para abrir armaduras y cortar a través de defensas. La
 | Bec de Corbin | 2 | d10 | 2 m | 4,8 kg | Fuerza | Primaria | +1 por rango a T.I. contra enemigos con armadura pesada |
 | Pudao | 2 | d12 | 2 m | 5,3 kg | Sabiduría | Primaria | +1 por rango a T.A. por cada enemigo adyacente, máximo +3 |
 | Sagaris | 1 | d8 | 1 m | 2 kg | Fuerza | Primaria | +1 por rango a T.I. contra enemigos con armadura ligera |
-| Skeggox | 1 | d8 | 1 m | 2 kg | Fuerza | Primaria | +1 por rango a T.A. en combate con dos armas |
+| Skeggox | 1 | d6 | 1 m | 1,5 kg | Fuerza | Auxiliar | +1 por rango a T.A. en combate con dos armas |
 | Labrys | 2 | d12 | 2 m | 3,5 kg | Tenacidad | Primaria | Ignora 1 punto de armadura por rango en ataques a dos manos |
 | Dolabra | 1 | d6 | 1 m | 2,5 kg | Tenacidad | Primaria | +3 por rango a T.I. cuando se usa para romper objetos |
 
@@ -86,7 +86,7 @@ Espadas de hoja larga, optimizadas para el corte sostenido. Equilibrio entre da�
 | Katana | 1 | d8 | 1 m | 1,2 kg | Agilidad | Primaria | +1 por rango a T.I. cuando se empuña con ambas manos |
 | Spatha | 1 | d8 | 1 m | 1 kg | Fuerza | Primaria | +1 por rango a T.I. cuando se usa con escudo |
 | Khopesh | 1 | d8 | 1 m | 1,5 kg | Tenacidad | Primaria | Ignora 1 punto de armadura por rango contra escudos |
-| Shamshir | 1 | d8 | 1 m | 1 kg | Agilidad | Primaria | +1 por rango a T.A. si el portador se ha movido en este turno |
+| Shamshir | 1 | d8 | 1 m | 1 kg | Agilidad | Primaria | +1 por rango a T.A. si el portador se ha movido en esta misma activación |
 | Claymore | 2 | d12 | 2 m | 2,5 kg | Tenacidad | Primaria | +1 por rango a T.I. contra múltiples enemigos |
 | Mandoble | 2 | d10 | 2 m | 2 kg | Fuerza | Primaria | +1 por rango a T.A. en un ataque de carga |
 | Estoque | 1 | d8 | 1 m | 1,1 kg | Astucia | Primaria | Ignora 2 puntos de Bloqueo por rango al golpear puntos vitales |
@@ -115,23 +115,23 @@ Espadas cortas con mayor alcance y dado que las dagas. Pueden usarse como arma p
 | --- | :---: | :---: | --- | --- | --- | --- | --- |
 | Wakizashi | 1 | d6 | 1 m | 0,9 kg | Agilidad | Auxiliar | +1 por rango a T.A. en combate con dos armas |
 | Tanto | 1 | d4 | 1 m | 0,6 kg | Agilidad | Auxiliar | +1 por rango a T.I. desde posición oculta o furtiva |
-| Kama | 1 | d6 | 1 m | 0,7 kg | Agilidad | Auxiliar | +1 por rango a T.I. en el segundo ataque del turno |
+| Kama | 1 | d6 | 1 m | 0,7 kg | Agilidad | Auxiliar | +1 por rango a T.I. en el segundo ataque de una misma activación |
 | Claideamh | 1 | d6 | 1 m | 0,8 kg | Fuerza | Auxiliar | +1 por rango a T.A. contra enemigos con armadura ligera |
 | Seax | 1 | d4 | 1 m | 0,7 kg | Fuerza | Auxiliar | +1 por rango a T.A. en maniobras de área contra un solo objetivo |
-| Cimitarra | 1 | d6 | 1 m | 0,8 kg | Agilidad | Primaria | +1d2 de daño adicional por rango cuando el enemigo falla su T.D. |
-| Akinakes | 1 | d4 | 1 m | 0,7 kg | Agilidad | Primaria | Permite un ataque adicional con la mano libre una vez por turno en combate con dos armas |
+| Cimitarra | 1 | d8 | 1 m | 1,1 kg | Agilidad | Primaria | +1d2 de daño adicional por rango cuando el enemigo falla su T.D. |
+| Akinakes | 1 | d4 | 1 m | 0,7 kg | Agilidad | Auxiliar | Permite un ataque adicional con la mano libre una vez por activación en combate con dos armas |
 | Xiphos | 1 | d4 | 1 m | 0,8 kg | Agilidad | Auxiliar | +1 por rango a T.E. de Destreza durante el combate con dos armas |
 
 ---
 
 ## Armas Arrojadizas
 
-Armas diseñadas para atacar a distancia mediante lanzamiento. Algunas pueden usarse en serie durante el mismo turno. El Dory de la familia de lanzas también puede arrojarse con bonificador.
+Armas diseñadas para atacar a distancia mediante lanzamiento. Algunas pueden usarse en serie durante la misma activación. El Dory de la familia de lanzas también puede arrojarse con bonificador.
 
 | Arma | M | Daño | Alcance | Peso | Característica | Asignación | Bonificador |
 | --- | :---: | :---: | --- | --- | --- | --- | --- |
 | Kunai | 1 | d4 | 10 m | 0,3 kg | Agilidad | Auxiliar | +1 por rango a T.A. cuando se lanza a la mitad del alcance máximo |
-| Shuriken | 1 | d4 | 10 m | 0,2 kg | Agilidad | Auxiliar | +1 por rango a T.A. cuando se usa en serie durante el mismo turno |
+| Shuriken | 1 | d4 | 10 m | 0,2 kg | Agilidad | Auxiliar | +1 por rango a T.A. cuando se usa en serie durante la misma activación |
 | Pilum | 1 | d6 | 10 m | 1,5 kg | Fuerza | Primaria | +2 por rango a T.I. cuando se lanza para atravesar escudos o defensas |
 | Francisca | 1 | d6 | 10 m | 1,4 kg | Fuerza | Primaria | +1 por rango a T.I. en cargas o ataques de avance |
 | Chakram | 1 | d4 | 12 m | 0,4 kg | Astucia | Auxiliar | +1 por rango a T.A. cuando se usa contra más de un objetivo en el mismo arco |
@@ -148,7 +148,7 @@ Armas que disparan proyectiles. El dado de daño depende del tipo de proyectil u
 | Gakgung | 2 | Por proyectil | 20 m | 1 kg | Agilidad | Primaria | +1 por rango a T.A. desde posición oculta o furtiva |
 | Fukiya | 1 | Por proyectil | 20 m | 0,5 kg | Agilidad | Primaria | +1 por rango a T.I. en ataques de precisión contra puntos vitales |
 | Scythian | 2 | Por proyectil | 30 m | 1 kg | Fuerza | Primaria | +1 por rango a T.A. cuando se dispara desde una montura |
-| Balearic | 1 | Por proyectil | 20 m | 0,7 kg | Agilidad | Primaria | +1 por rango a T.A. por cada ataque consecutivo realizado en el mismo turno |
+| Balearic | 1 | Por proyectil | 20 m | 0,7 kg | Agilidad | Primaria | +1 por rango a T.A. por cada ataque consecutivo realizado en la misma activación |
 | Sumpit | 1 | Por proyectil | 20 m | 0,5 kg | Agilidad | Primaria | +1 por rango a T.I. cuando el proyectil aplica veneno o enfermedad |
 
 ---
