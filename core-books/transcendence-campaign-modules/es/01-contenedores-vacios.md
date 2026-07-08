@@ -180,6 +180,18 @@ El Narrador indicará a los jugadores que llenen las 5 filas de la tabla ZONAS d
 
 *(Nota: Al ser Nivel 0, la Competencia Defensiva es 0 y no deben sumar nada adicional al Bloqueo).*
 
+Cada pieza otorga además un **bonificador pasivo** según la zona que cubre y la categoría. Al ser Grado 1, todos los valores son **+1**:
+
+| Pieza | Ligera | Intermedia | Pesada |
+| :--- | :--- | :--- | :--- |
+| **Casco** | +1 a Preparación | +1 a T.E. de Compostura | +1 a T.R. contra conmoción, ceguera y aturdimiento |
+| **Peto** | +3 a Aguante | +2 a Aguante | +1 a Aguante |
+| **Brazales** | +1 a T.A. en Técnicas Reactivas | +1 a T.A. en Técnicas Activas | +1 a T.I. en Técnicas Activas |
+| **Pantalón** | +1 a T.E. de Agilidad | +1 a T.E. de Fuerza | +1 a T.E. de Tenacidad |
+| **Botas** | +1 al movimiento | +1 a tiradas reactivas (equilibrio, esquivar efectos de área) | +1 a T.R. contra derribo, desplazamiento y desestabilización |
+
+*(Nota: El Peto ligero da más Aguante porque permite mayor libertad de movimiento; el pesado lo restringe).*
+
 #### Referencia Rápida: Armas Insignia (Grado 1)
 Los jugadores toman un arma del almacén. **No anotan Nivel de Competencia**. Todas las armas disponibles en el bastidor están forjadas en Hierro (excepto la honda, que es de cuero) para que la decisión sea puramente por estilo de juego y no por "min-maxing".
 

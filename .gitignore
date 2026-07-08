@@ -3,3 +3,9 @@
 
 # Generated archives
 *.zip
+
+# Reference PDFs (puzzle/design inspiration, not project files)
+core-books/transcendence-corebook/assets/puzzles/
+
+# Python virtual environments
+**/venv/
