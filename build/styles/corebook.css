@@ -521,8 +521,31 @@ header .date {
   font-family: 'Crimson Text', serif;
   font-size: 1em;
   font-style: italic;
-  margin-bottom: 1.2em;
+  margin-bottom: 0.8em;
   color: var(--ink-body);
+}
+
+.monster-characteristics, .monster-derived, .monster-skills {
+  font-family: 'Crimson Text', serif;
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+  color: var(--ink-body);
+}
+
+.monster-characteristics strong, .monster-derived strong, .monster-skills strong {
+  font-family: 'Cinzel', serif;
+  font-size: 0.85em;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.05em;
+}
+
+.monster-derived {
+  margin-bottom: 1em;
+}
+
+.monster-skills {
+  margin-bottom: 1.2em;
 }
 
 .monster-stats-grid {

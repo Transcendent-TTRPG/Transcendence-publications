@@ -88,20 +88,40 @@ Las criaturas Elite tienen además:
 
 ---
 
+## Características y Estadísticas Base
+
+A diferencia de versiones anteriores de diseño abstracto, las criaturas de *Transcendence* están ancladas al mismo motor simulacionista que los jugadores. Toda bestia, sin importar su intelecto, posee las 9 características base: **Fuerza, Agilidad, Tenacidad, Astucia, Intelecto, Sabiduría, Aura, Presencia y Compostura**.
+
+A partir de estas características, se derivan sus atributos de supervivencia de la misma forma que un personaje jugador:
+- **Preparación:** `(Agilidad + Astucia + Compostura) / 3` (redondeado hacia arriba). Puede recibir bonificadores pasivos si la bestia es un depredador de emboscada.
+- **Resiliencia:** `(Tenacidad + Sabiduría + Compostura) / 3` (redondeado hacia arriba).
+
+### Nivel Base y Tiradas de Combate
+
+Las criaturas no tienen "Niveles de Especialización" genéricos en armas como un jugador. En su lugar, el juego les asigna un **Nivel Base** dictado por su letalidad biológica:
+`Nivel Base = NR + Rango` *(donde el Rango es 1 para NR 1-2, R2 para NR 3-4, R3 para NR 5-6)*.
+
+Este Nivel Base se suma a la Característica relevante de la criatura para calcular las resoluciones de combate, logrando una asimetría matemática real:
+
+- **Tirada de Ataque (T.A):** Característica (según el arma natural) + Nivel Base
+- **Tirada de Defensa (T.D):** Agilidad + Nivel Base
+- **Tirada de Reacción (T.R):** Tenacidad + Nivel Base
+- **Tirada de Contención (T.C):** Compostura + Nivel Base
+- **Tirada de Impacto (Daño Fijo):** `(Rango)d(Dado de arma) + (NR × Grado) + Característica` asociada al ataque.
+
+*(Nota: En la ficha de la criatura, estos valores se entregan pre-calculados en el bloque de combate para agilizar el juego en la mesa).*
+
+### Especializaciones (T.E) Biológicas
+
+Las criaturas no reciben bonificadores genéricos a sus Tiradas de Especialización. Para reflejar su biología e instintos, el bloque de estadísticas lista únicamente las **Especializaciones** que la bestia posee realmente (elegidas estrictamente del Catálogo, como *Percepción, Acrobacias, Rastreo o Supervivencia*). Si una criatura es forzada a tirar una especialización que no posee en su lista, tira exclusivamente con su Característica (sin sumar Nivel Base).
+
 ## Rol
 
-El rol define la función táctica de la criatura en el combate, modificando sus PV y dictaminando en qué tiradas sobresale. 
+El rol define la función táctica de la criatura en el ecosistema de combate. Bajo este sistema anclado en características, el rol ya no otorga bonificadores numéricos a las tiradas; su función mecánica es dictar el multiplicador base de los Puntos de Vida (PV) al momento de construir sus zonas anatómicas, y guiar su comportamiento de IA en mesa.
 
-### Modificador Base y Bonificadores
-A diferencia de los jugadores, los monstruos no suman Nivel + Característica, sino que usan un **Modificador Base** equivalente a su **NR + Rango** (donde el Rango de la criatura se calcula igual que el de las armas naturales: NR 1-2 = R1, NR 3-4 = R2, NR 5-6 = R3).
-
-El Rol de la criatura determina qué tiradas reciben este Modificador Base como **bonificador adicional**. Las tiradas no bonificadas usan únicamente el Modificador Base normal sin penalizaciones.
-
-| Rol | Multiplicador de PV | Tiradas Bonificadas (+Base) | Función |
-| --- | --- | --- | --- |
-| Protector | × 3 | **T.D** y **T.R** | Absorbe ataques; protege a Comunes; prioriza Bloqueo |
-| Golpeador | × 2 | **T.A** y **T.I** (Daño fijo) | Fuente de daño principal; ataques que apuntan a zonas |
-| Soporte | × 1,5 | **T.E** y **T.C** | Coordina aliados; aplica condiciones; habilita a otros |
-| Lanzador | × 1 | **T.A** (A distancia) y **T.E** | Ataques a distancia o elementales; zonas con menos PV |
-
-*(Ejemplo: Un Golpeador NR 1 tiene Rango 1. Su Modificador Base es 2. Sus tiradas de T.A. y T.I. reciben +4, mientras que su T.D., T.R., T.C. y T.E. reciben +2).*
+| Rol | Multiplicador de PV | Función |
+| --- | --- | --- |
+| Protector | × 3 | Absorbe ataques; protege a Comunes; prioriza Bloqueo |
+| Golpeador | × 2 | Fuente de daño principal; ataques agresivos y emboscadas |
+| Soporte | × 1,5 | Coordina aliados; aplica condiciones; rastrea o debilita |
+| Lanzador | × 1 | Ataques a distancia o biológicos; se mantiene lejos del daño |

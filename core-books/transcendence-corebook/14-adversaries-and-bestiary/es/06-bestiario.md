@@ -33,16 +33,26 @@ Las entradas de criatura se documentarán aquí una vez que la disección anató
 Depredador subterráneo mutado; aspecto de hiena o topo gigante sin pelo. Ciego de nacimiento, navega enteramente por calor corporal y olfato.
 </div>
 
+<div class="monster-characteristics">
+  <strong>FUE</strong> 3 | <strong>AGI</strong> 2 | <strong>TEN</strong> 3 | <strong>AST</strong> 1 | <strong>INT</strong> -1 | <strong>SAB</strong> 2 | <strong>AUR</strong> 0 | <strong>PRE</strong> 1 | <strong>COM</strong> 1
+</div>
+<div class="monster-derived">
+  <strong>Preparación:</strong> 3 | <strong>Resiliencia:</strong> 2
+</div>
+
 <div class="monster-stats-grid">
-<div class="stat-cell"><span class="stat-label">T.A.</span> <span class="stat-value">+4</span></div>
-<div class="stat-cell"><span class="stat-label">T.D.</span> <span class="stat-value">+2</span></div>
-<div class="stat-cell"><span class="stat-label">T.R.</span> <span class="stat-value">+2</span></div>
-<div class="stat-cell"><span class="stat-label">T.C.</span> <span class="stat-value">+2</span></div>
-<div class="stat-cell"><span class="stat-label">T.E.</span> <span class="stat-value">+2</span></div>
+<div class="stat-cell"><span class="stat-label">T.A.</span> <span class="stat-value">+5</span></div>
+<div class="stat-cell"><span class="stat-label">T.D.</span> <span class="stat-value">+4</span></div>
+<div class="stat-cell"><span class="stat-label">T.R.</span> <span class="stat-value">+5</span></div>
+<div class="stat-cell"><span class="stat-label">T.C.</span> <span class="stat-value">+3</span></div>
 </div>
 
 <div class="monster-damage">
-<strong>Armas:</strong> Fauces (1d8 + 5) · Garras (1d6 + 5)
+<strong>Armas:</strong> Fauces (1d8 + 4) · Garras (1d6 + 4)
+</div>
+
+<div class="monster-skills">
+<strong>Especializaciones:</strong> Agarre (+5), Percepción (+4), Rastreo (+3), Tolerancia (+5)
 </div>
 
 ## Zonas Anatómicas

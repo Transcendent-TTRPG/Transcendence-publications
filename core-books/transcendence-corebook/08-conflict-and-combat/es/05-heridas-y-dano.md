@@ -160,7 +160,7 @@ El orden de resolución es:
 | Impacto > Bloqueo × 2 y <= Bloqueo × 3 | Herida Grave | 2 |
 | Impacto > Bloqueo × 3 | Herida Crítica | 3 |
 
-Una Herida Crítica no fuerza una Tirada de Resistencia por defecto. Ya ocupa 3 ranuras y puede saturar o colapsar una zona por sí misma.
+Una Herida Crítica no fuerza una Tirada de Resistencia por defecto. Por sí sola puede llenar o colapsar una zona.
 
 La Tirada de Resistencia solo se fuerza si:
 
@@ -193,9 +193,9 @@ Si no tiene suficientes ranuras libres, se marcan las ranuras restantes y el exc
 
 | Estado de zona | Condición | Efecto |
 | --- | --- | --- |
-| Funcional | La zona tiene al menos 1 ranura libre | No aplica penalizador de zona por sí misma |
-| Saturada | La zona llegó exactamente a su máximo de ranuras | Aplica Penalizador de Saturación |
-| Colapsada | Una Herida no cupo completa o una zona Saturada recibió otra Herida | Aplica el efecto de Colapso de esa zona |
+| Sin heridas | 0 ranuras ocupadas | Sin penalizador |
+| Con heridas | 1 o más ranuras ocupadas | Penalizador de Herida = ranuras ocupadas |
+| Colapsada | Una Herida no cupo completa | Aplica el efecto de Colapso de esa zona |
 
 ---
 
@@ -211,47 +211,45 @@ El Torso queda Colapsado.
 
 ---
 
-## Penalizador de Saturación
+## Penalizador de Herida
 
-Cuando una zona está Saturada, su penalizador base es igual a la cantidad de ranuras ocupadas en esa zona.
+Cada ranura de herida ocupada en una zona impone un penalizador inmediato a las tiradas de ese dominio. El malestar no espera a que la zona se llene: una sola herida ya limita la función.
 
 ```text
-Penalizador de Saturación = ranuras ocupadas en la zona
+Penalizador de Herida = ranuras actualmente ocupadas en la zona
 ```
 
-| Zona Saturada | Penalizador base |
+| Zona | Penalizador máximo (zona llena) |
 | --- | ---: |
-| Cabeza | -3 |
-| Torso | -5 |
-| Brazos | -4 |
-| Piernas | -4 |
-| Pies | -3 |
+| Cabeza | −3 |
+| Torso | −5 |
+| Brazos | −4 |
+| Piernas | −4 |
+| Pies | −3 |
 
-Este penalizador solo se aplica a tiradas y acciones que dependan claramente de esa zona.
-
-No es un penalizador universal al personaje.
+Este penalizador aplica a tiradas y acciones que dependan claramente de esa zona. No es un penalizador universal al personaje.
 
 ---
 
-## Saturación y Colapso por zona
+## Heridas y Colapso por zona
 
-Cada zona aplica su penalizador a una categoría exclusiva de tiradas. Los penalizadores de diferentes zonas no se acumulan sobre una misma tirada — si una acción pertenece claramente al dominio de una zona, solo ese penalizador aplica.
+Cada zona aplica su penalizador a un dominio exclusivo de tiradas. Los penalizadores de diferentes zonas no se acumulan sobre una misma tirada — si una acción pertenece claramente al dominio de una zona, solo ese penalizador aplica.
 
-| Zona | Dominio del penalizador | Saturada | Colapsada |
-| --- | --- | --- | --- |
-| Cabeza | T.E. de Sabiduría, Intelecto, Compostura, Presencia y Astucia; Preparación | Penalizador de Saturación a T.E. de Sabiduría, Intelecto, Compostura y Astucia. Penalizador de Saturación a Preparación. | Debe superar una T.R. de Alteración contra la severidad de la Herida que causó el Colapso o queda Inconsciente. |
-| Torso | T.E. de Tenacidad; T.R. | Penalizador de Saturación a T.E. de Tenacidad y a Tiradas de Resistencia. El cuerpo puede seguir ejecutando, pero ya no puede absorber presión de la misma forma. | Queda Debilitado hasta estabilizarse. Si la Herida que causó el Colapso fue Crítica, también entra en Agonía. |
-| Brazos | T.A. | Penalizador de Saturación a Tiradas de Ataque | Un brazo queda inutilizado. No puede usar armas a dos manos, escudo o Técnicas que requieran coordinación de ambos brazos. Puede aplicar Impedido. |
-| Piernas | T.E. de Fuerza | Movimiento reducido a la mitad. Penalizador de Saturación a T.E. de Fuerza. | No puede llevar a cabo ninguna acción relacionada con Fuerza. |
-| Pies | T.E. y T.C. de Agilidad | No puede correr. Penalizador de Saturación a T.E. y T.C. de Agilidad. | Puede moverse solo con apoyo, ayuda o una T.E. apropiada. Si intenta moverse sin apoyo y falla, queda Derribado. |
+| Zona | Penalizador por ranura activa | Colapsada |
+| --- | --- | --- |
+| Cabeza | −1 a T.E. y T.C. de Sabiduría, Intelecto, Compostura, Presencia y Astucia; −1 a Preparación | T.R. de Alteración contra la severidad de la Herida que causó el Colapso o queda Inconsciente. |
+| Torso | −1 a T.E. y T.C. de Tenacidad; −1 a T.R. de todo tipo | T.R. de Alteración contra la severidad de la Herida que causó el Colapso o queda Debilitado. Si la Herida fue Crítica, entra en Agonía independientemente del resultado. |
+| Brazos | −1 a T.A. | Un brazo queda inutilizado. No puede usar armas a dos manos, escudo o Técnicas que requieran coordinación de ambos brazos. Puede aplicar Impedido. |
+| Piernas | −1 a T.E. y T.C. de Fuerza | Movimiento reducido a la mitad. No puede usar Técnicas que combinen movimiento y ataque en la misma activación. |
+| Pies | −1 a T.E. y T.C. de Agilidad | Queda Derribado. Movimiento reducido a la mitad (solo arrastrándose). No puede realizar T.E. ni T.C. de Agilidad sin apoyo. |
 
-La dificultad para la Tirada de Resistencia por Colapso depende de la Herida que causó el Desbordamiento.
+La dificultad para la T.R. de Alteración por Colapso depende de la Herida que causó el Desbordamiento.
 
-| Herida que causó Colapso | Dificultad |
-| --- | --- |
-| Leve | Desafiante |
-| Grave | Rigurosa |
-| Crítica | Exigente |
+| Herida que causó Colapso | Dificultad | Valor Base |
+| --- | --- | --- |
+| Leve | Desafiante | 8 + NR |
+| Grave | Rigurosa | 11 + NR |
+| Crítica | Exigente | 13 + NR |
 
 ---
 
@@ -287,11 +285,11 @@ Para ataques de PNJs contra jugadores, la localización se determina antes de re
 
 | 1d100 | Zona |
 | --- | --- |
-| 01–04 | Cabeza |
-| 05–10 | Pies |
-| 11–45 | Torso |
-| 46–65 | Brazos |
-| 66–100 | Piernas |
+| 01–10 | Cabeza |
+| 11–15 | Pies |
+| 16–55 | Torso |
+| 56–75 | Brazos |
+| 76–100 | Piernas |
 
 Los ataques de jugadores contra PNJs no usan esta tabla por defecto. El jugador declara objetivo, intención, Técnica o punto vulnerable según lo permita la escena y la información disponible.
 

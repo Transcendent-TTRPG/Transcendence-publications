@@ -376,7 +376,7 @@
     <section class="panel wounds-panel" aria-labelledby="wounds-title">
       <div class="panel-heading">
         <h2 id="wounds-title">Heridas</h2>
-        <p>Penalizador de saturaci&oacute;n = ranuras ocupadas en la zona</p>
+        <p>Penalizador de Herida = ranuras ocupadas en la zona</p>
       </div>
       <div class="wounds-grid">
         <table class="sheet-table wound-slots-table">
@@ -385,7 +385,7 @@
               <th>Zona</th>
               <th>Ranuras</th>
               <th>Estado</th>
-              <th>Saturaci&oacute;n penaliza</th>
+              <th>Penalizador por ranura</th>
               <th>Colapso</th>
             </tr>
           </thead>
@@ -393,37 +393,37 @@
             <tr>
               <td>Cabeza</td>
               <td class="wound-boxes"><i></i><i></i><i></i></td>
-              <td class="zone-state"><i></i>S <i></i>C</td>
-              <td class="sat-note">T.E. mentales y de percepci&oacute;n, Preparaci&oacute;n</td>
+              <td class="zone-state"><i></i>C</td>
+              <td class="sat-note">T.E./T.C. de Sab., Int., Comp., Pres. y Ast.; Preparaci&oacute;n</td>
               <td class="collapse-note">T.R. de Alteraci&oacute;n o queda Inconsciente</td>
             </tr>
             <tr>
               <td>Torso</td>
               <td class="wound-boxes"><i></i><i></i><i></i><i></i><i></i></td>
-              <td class="zone-state"><i></i>S <i></i>C</td>
-              <td class="sat-note">T.E. Tenacidad, Tiradas de Resistencia</td>
-              <td class="collapse-note">Incapacitado hasta estabilizarse; +Agon&iacute;a si la herida fue Cr&iacute;tica</td>
+              <td class="zone-state"><i></i>C</td>
+              <td class="sat-note">T.E./T.C. de Tenacidad; T.R. de todo tipo</td>
+              <td class="collapse-note">T.R. de Alteraci&oacute;n o queda Debilitado; +Agon&iacute;a si la herida fue Cr&iacute;tica</td>
             </tr>
             <tr>
               <td>Brazos</td>
               <td class="wound-boxes"><i></i><i></i><i></i><i></i></td>
-              <td class="zone-state"><i></i>S <i></i>C</td>
-              <td class="sat-note">Tiradas de Ataque</td>
+              <td class="zone-state"><i></i>C</td>
+              <td class="sat-note">T.A.</td>
               <td class="collapse-note">Brazo inutilizado; sin armas a dos manos ni escudo; puede aplicar Impedido</td>
             </tr>
             <tr>
               <td>Piernas</td>
               <td class="wound-boxes"><i></i><i></i><i></i><i></i></td>
-              <td class="zone-state"><i></i>S <i></i>C</td>
-              <td class="sat-note">Movimiento &divide;2, T.E. Fuerza</td>
-              <td class="collapse-note">Sin caminar sin apoyo; no puede cargar ni saltar</td>
+              <td class="zone-state"><i></i>C</td>
+              <td class="sat-note">T.E./T.C. de Fuerza</td>
+              <td class="collapse-note">Movimiento &divide;2; sin T&eacute;cnicas que combinen movimiento y ataque</td>
             </tr>
             <tr>
               <td>Pies</td>
               <td class="wound-boxes"><i></i><i></i><i></i></td>
-              <td class="zone-state"><i></i>S <i></i>C</td>
-              <td class="sat-note">Sin esprintar, T.E. y T.C. de Agilidad</td>
-              <td class="collapse-note">Solo con apoyo o T.E. apropiada; sin apoyo y fallo &rarr; Derribado</td>
+              <td class="zone-state"><i></i>C</td>
+              <td class="sat-note">T.E./T.C. de Agilidad</td>
+              <td class="collapse-note">Derribado; movimiento &divide;2 (arrastr&aacute;ndose); sin T.E./T.C. de Agilidad sin apoyo</td>
             </tr>
           </tbody>
         </table>
@@ -431,7 +431,7 @@
           <span><strong>Leve</strong> = 1 ranura</span>
           <span><strong>Grave</strong> = 2 ranuras</span>
           <span><strong>Cr&iacute;tica</strong> = 3 ranuras</span>
-          <span class="state-key">S = Saturada &middot; C = Colapsada</span>
+          <span class="state-key">C = Colapsada</span>
         </div>
       </div>
     </section>

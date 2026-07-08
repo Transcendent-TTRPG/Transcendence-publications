@@ -498,8 +498,27 @@ font-style: italic;
 font-family: 'Crimson Text', serif;
 font-size: 1em;
 font-style: italic;
-margin-bottom: 1.2em;
+margin-bottom: 0.8em;
 color: var(--ink-body);
+}
+.monster-characteristics, .monster-derived, .monster-skills {
+font-family: 'Crimson Text', serif;
+font-size: 0.95em;
+margin-bottom: 0.5em;
+color: var(--ink-body);
+}
+.monster-characteristics strong, .monster-derived strong, .monster-skills strong {
+font-family: 'Cinzel', serif;
+font-size: 0.85em;
+font-weight: 700;
+color: var(--ink);
+letter-spacing: 0.05em;
+}
+.monster-derived {
+margin-bottom: 1em;
+}
+.monster-skills {
+margin-bottom: 1.2em;
 }
 .monster-stats-grid {
 display: flex;
@@ -1463,6 +1482,8 @@ Categoría y Rol</a>
 comportamiento</a></li>
 <li><a href="#naturaleza" id="toc-naturaleza">Naturaleza</a></li>
 <li><a href="#categoría" id="toc-categoría">Categoría</a></li>
+<li><a href="#características-y-estadísticas-base" id="toc-características-y-estadísticas-base">Características y
+Estadísticas Base</a></li>
 <li><a href="#rol" id="toc-rol">Rol</a></li>
 </ul></li>
 <li><a href="#sistema-de-zonas" id="toc-sistema-de-zonas">Sistema de
@@ -29315,32 +29336,74 @@ Requiere daño umbral entregado a través de un ataque coordinado
 declarado. Hasta que se ejecute el Golpe Final, la criatura en Apoteosis
 no puede reducirse por debajo de 1 PV en ninguna zona.</p>
 <hr />
+<h2 id="características-y-estadísticas-base">Características y
+Estadísticas Base</h2>
+<p>A diferencia de versiones anteriores de diseño abstracto, las
+criaturas de <em>Transcendence</em> están ancladas al mismo motor
+simulacionista que los jugadores. Toda bestia, sin importar su
+intelecto, posee las 9 características base: <strong>Fuerza, Agilidad,
+Tenacidad, Astucia, Intelecto, Sabiduría, Aura, Presencia y
+Compostura</strong>.</p>
+<p>A partir de estas características, se derivan sus atributos de
+supervivencia de la misma forma que un personaje jugador: -
+<strong>Preparación:</strong>
+<code>(Agilidad + Astucia + Compostura) / 3</code> (redondeado hacia
+arriba). Puede recibir bonificadores pasivos si la bestia es un
+depredador de emboscada. - <strong>Resiliencia:</strong>
+<code>(Tenacidad + Sabiduría + Compostura) / 3</code> (redondeado hacia
+arriba).</p>
+<h3 id="nivel-base-y-tiradas-de-combate">Nivel Base y Tiradas de
+Combate</h3>
+<p>Las criaturas no tienen “Niveles de Especialización” genéricos en
+armas como un jugador. En su lugar, el juego les asigna un <strong>Nivel
+Base</strong> dictado por su letalidad biológica:
+<code>Nivel Base = NR + Rango</code> <em>(donde el Rango es 1 para NR
+1-2, R2 para NR 3-4, R3 para NR 5-6)</em>.</p>
+<p>Este Nivel Base se suma a la Característica relevante de la criatura
+para calcular las resoluciones de combate, logrando una asimetría
+matemática real:</p>
+<ul>
+<li><strong>Tirada de Ataque (T.A):</strong> Característica (según el
+arma natural) + Nivel Base</li>
+<li><strong>Tirada de Defensa (T.D):</strong> Agilidad + Nivel Base</li>
+<li><strong>Tirada de Reacción (T.R):</strong> Tenacidad + Nivel
+Base</li>
+<li><strong>Tirada de Contención (T.C):</strong> Compostura + Nivel
+Base</li>
+<li><strong>Tirada de Impacto (Daño Fijo):</strong>
+<code>(Rango)d(Dado de arma) + (NR × Grado) + Característica</code>
+asociada al ataque.</li>
+</ul>
+<p><em>(Nota: En la ficha de la criatura, estos valores se entregan
+pre-calculados en el bloque de combate para agilizar el juego en la
+mesa).</em></p>
+<h3 id="especializaciones-t.e-biológicas">Especializaciones (T.E)
+Biológicas</h3>
+<p>Las criaturas no reciben bonificadores genéricos a sus Tiradas de
+Especialización. Para reflejar su biología e instintos, el bloque de
+estadísticas lista únicamente las <strong>Especializaciones</strong> que
+la bestia posee realmente (elegidas estrictamente del Catálogo, como
+<em>Percepción, Acrobacias, Rastreo o Supervivencia</em>). Si una
+criatura es forzada a tirar una especialización que no posee en su
+lista, tira exclusivamente con su Característica (sin sumar Nivel
+Base).</p>
 <h2 id="rol">Rol</h2>
-<p>El rol define la función táctica de la criatura en el combate,
-modificando sus PV y dictaminando en qué tiradas sobresale.</p>
-<h3 id="modificador-base-y-bonificadores">Modificador Base y
-Bonificadores</h3>
-<p>A diferencia de los jugadores, los monstruos no suman Nivel +
-Característica, sino que usan un <strong>Modificador Base</strong>
-equivalente a su <strong>NR + Rango</strong> (donde el Rango de la
-criatura se calcula igual que el de las armas naturales: NR 1-2 = R1, NR
-3-4 = R2, NR 5-6 = R3).</p>
-<p>El Rol de la criatura determina qué tiradas reciben este Modificador
-Base como <strong>bonificador adicional</strong>. Las tiradas no
-bonificadas usan únicamente el Modificador Base normal sin
-penalizaciones.</p>
+<p>El rol define la función táctica de la criatura en el ecosistema de
+combate. Bajo este sistema anclado en características, el rol ya no
+otorga bonificadores numéricos a las tiradas; su función mecánica es
+dictar el multiplicador base de los Puntos de Vida (PV) al momento de
+construir sus zonas anatómicas, y guiar su comportamiento de IA en
+mesa.</p>
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <thead>
 <tr>
 <th>Rol</th>
 <th>Multiplicador de PV</th>
-<th>Tiradas Bonificadas (+Base)</th>
 <th>Función</th>
 </tr>
 </thead>
@@ -29348,32 +29411,25 @@ penalizaciones.</p>
 <tr>
 <td>Protector</td>
 <td>× 3</td>
-<td><strong>T.D</strong> y <strong>T.R</strong></td>
 <td>Absorbe ataques; protege a Comunes; prioriza Bloqueo</td>
 </tr>
 <tr>
 <td>Golpeador</td>
 <td>× 2</td>
-<td><strong>T.A</strong> y <strong>T.I</strong> (Daño fijo)</td>
-<td>Fuente de daño principal; ataques que apuntan a zonas</td>
+<td>Fuente de daño principal; ataques agresivos y emboscadas</td>
 </tr>
 <tr>
 <td>Soporte</td>
 <td>× 1,5</td>
-<td><strong>T.E</strong> y <strong>T.C</strong></td>
-<td>Coordina aliados; aplica condiciones; habilita a otros</td>
+<td>Coordina aliados; aplica condiciones; rastrea o debilita</td>
 </tr>
 <tr>
 <td>Lanzador</td>
 <td>× 1</td>
-<td><strong>T.A</strong> (A distancia) y <strong>T.E</strong></td>
-<td>Ataques a distancia o elementales; zonas con menos PV</td>
+<td>Ataques a distancia o biológicos; se mantiene lejos del daño</td>
 </tr>
 </tbody>
 </table>
-<p><em>(Ejemplo: Un Golpeador NR 1 tiene Rango 1. Su Modificador Base es
-2. Sus tiradas de T.A. y T.I. reciben +4, mientras que su T.D., T.R.,
-T.C. y T.E. reciben +2).</em></p>
 <h1 id="sistema-de-zonas">Sistema de Zonas</h1>
 <p>En este ecosistema, ninguna bestia hace nada por arte de magia. Cada
 zona es una estructura anatómica concreta con un comportamiento anclado
@@ -29979,25 +30035,35 @@ NR 1 · Rol: Golpeador · Naturaleza: Mortal
 pelo. Ciego de nacimiento, navega enteramente por calor corporal y
 olfato.</p>
 </div>
+<div class="monster-characteristics">
+<p><strong>FUE</strong> 3 | <strong>AGI</strong> 2 |
+<strong>TEN</strong> 3 | <strong>AST</strong> 1 | <strong>INT</strong>
+-1 | <strong>SAB</strong> 2 | <strong>AUR</strong> 0 |
+<strong>PRE</strong> 1 | <strong>COM</strong> 1</p>
+</div>
+<div class="monster-derived">
+<p><strong>Preparación:</strong> 3 | <strong>Resiliencia:</strong> 2</p>
+</div>
 <div class="monster-stats-grid">
 <div class="stat-cell">
-<span class="stat-label">T.A.</span> <span class="stat-value">+4</span>
+<span class="stat-label">T.A.</span> <span class="stat-value">+5</span>
 </div>
 <div class="stat-cell">
-<span class="stat-label">T.D.</span> <span class="stat-value">+2</span>
+<span class="stat-label">T.D.</span> <span class="stat-value">+4</span>
 </div>
 <div class="stat-cell">
-<span class="stat-label">T.R.</span> <span class="stat-value">+2</span>
+<span class="stat-label">T.R.</span> <span class="stat-value">+5</span>
 </div>
 <div class="stat-cell">
-<span class="stat-label">T.C.</span> <span class="stat-value">+2</span>
-</div>
-<div class="stat-cell">
-<span class="stat-label">T.E.</span> <span class="stat-value">+2</span>
+<span class="stat-label">T.C.</span> <span class="stat-value">+3</span>
 </div>
 </div>
 <div class="monster-damage">
-<p><strong>Armas:</strong> Fauces (1d8 + 5) · Garras (1d6 + 5)</p>
+<p><strong>Armas:</strong> Fauces (1d8 + 4) · Garras (1d6 + 4)</p>
+</div>
+<div class="monster-skills">
+<p><strong>Especializaciones:</strong> Agarre (+5), Percepción (+4),
+Rastreo (+3), Tolerancia (+5)</p>
 </div>
 <h2 id="zonas-anatómicas">Zonas Anatómicas</h2>
 <p><strong>Fauces y Cráneo</strong> · Hueso · PV 20 · Bloqueo 4 · Dur 10
@@ -30776,7 +30842,194 @@ industrial, enfocado en el procesamiento de carne.</p>
 <p>Para sobrevivir y escapar de este estrato de la ciudadela, los
 personajes deberán explorar una serie de colosales “Nodos”
 interconectados que conforman las ruinas del sector.</p>
-<h3 id="nodo-1-el-sumidero-quirúrgico-la-llegada">1. Nodo 1: El Sumidero
+<h3 id="bautismo-de-fuego-tutorial-de-combate">1. Bautismo de Fuego
+(Tutorial de Combate)</h3>
+<p>Apenas el primer jugador asoma la cabeza sobre el borde del Pozo
+Vertical, se topa de frente con la realidad del Distrito Industrial. El
+Narrador debe pedir a todos que ordenen sus fichas en la pista ATB
+evaluando su <strong>Preparación</strong> y leer o parafrasear lo
+siguiente:</p>
+<blockquote>
+<p><em>“La cornisa de piedra negra frente a ustedes está resbaladiza por
+la sangre fresca. A escasos metros, bloqueando la salida del pozo y
+dándoles la espalda, hay una bestia del tamaño de un buey destrozando
+los restos de un Vesper. Su piel es gris y sin pelo, semejante a la de
+una hiena hipertrofiada. No tiene ojos en su rostro, pero el sonido de
+ustedes al subir y el penetrante olor del líquido amnésico que empapa su
+ropa la alertan.</em></p>
+<p><em>La bestia suelta el cadáver. Su cuello se expande violentamente,
+revelando unas gruesas branquias palpitantes que rastrean el calor de
+sus cuerpos. Lanza un chillido ensordecedor y se prepara para saltar
+sobre la cornisa.”</em></p>
+</blockquote>
+<h4 id="la-pista-atb-y-la-táctica-anatómica">La Pista ATB y la Táctica
+Anatómica</h4>
+<p>Este es el momento exacto para que el Narrador emplace la
+<strong>Pista ATB</strong>. Los personajes no pueden evadir ni dialogar;
+están acorralados entre el monstruo y el vacío del pozo a sus espaldas.
+1. <strong>Despliegue:</strong> Ubica las fichas de los jugadores y la
+del Carroñero Abisal en las posiciones de inicio ATB. 2.
+<strong>Advertencia de Supervivencia:</strong> El Narrador debe hacer
+una pausa didáctica y decir a los jugadores: <em>“En Transcendence,
+cargar ciegamente a golpear el torso de una bestia es un suicidio.
+Observen la anatomía. Esta criatura es ciega, y por ende, letal en la
+penumbra. Sin embargo, su único órgano sensorial (sus branquias) late
+expuesto en su cuello. Su objetivo no es reducir sus puntos de vida a
+cero; su objetivo es romper aquello que la hace peligrosa.”</em> 3.
+<strong>El Puzzle:</strong> Si los jugadores logran superar la
+<em>Durabilidad 2</em> de las Branquias (usando un Impacto Crítico o
+habilidades precisas), el núcleo de la bestia colapsa. Perderá sus
+rasgos de rastreo y quedará inútil, permitiéndoles rematarla fácilmente
+o huir hacia el cráter.</p>
+<div class="monster-block" data-markdown="1">
+<div class="monster-header">
+<h2 class="monster-name">
+Carroñero Abisal (Ciego)
+</h2>
+<div class="monster-meta">
+NR 1 · Rol: Golpeador · Naturaleza: Mortal
+</div>
+</div>
+<div class="monster-desc">
+<p>Depredador subterráneo mutado; aspecto de hiena o topo gigante sin
+pelo. Ciego de nacimiento, navega enteramente por calor corporal y
+olfato.</p>
+</div>
+<div class="monster-characteristics">
+<p><strong>FUE</strong> 3 | <strong>AGI</strong> 2 |
+<strong>TEN</strong> 3 | <strong>AST</strong> 1 | <strong>INT</strong>
+-1 | <strong>SAB</strong> 2 | <strong>AUR</strong> 0 |
+<strong>PRE</strong> 1 | <strong>COM</strong> 1</p>
+</div>
+<div class="monster-derived">
+<p><strong>Preparación:</strong> 3 | <strong>Resiliencia:</strong> 2</p>
+</div>
+<div class="monster-stats-grid">
+<div class="stat-cell">
+<span class="stat-label">T.A.</span> <span class="stat-value">+5</span>
+</div>
+<div class="stat-cell">
+<span class="stat-label">T.D.</span> <span class="stat-value">+4</span>
+</div>
+<div class="stat-cell">
+<span class="stat-label">T.R.</span> <span class="stat-value">+5</span>
+</div>
+<div class="stat-cell">
+<span class="stat-label">T.C.</span> <span class="stat-value">+3</span>
+</div>
+</div>
+<div class="monster-damage">
+<p><strong>Armas:</strong> Fauces (1d8 + 4) · Garras (1d6 + 4)</p>
+</div>
+<div class="monster-skills">
+<p><strong>Especializaciones:</strong> Agarre (+5), Percepción (+4),
+Rastreo (+3), Tolerancia (+5)</p>
+</div>
+<h2 id="zonas-anatómicas-1">Zonas Anatómicas</h2>
+<p><strong>Fauces y Cráneo</strong> · Hueso · PV 20 · Bloqueo 4 · Dur 10
+· Colmillos P 18 Planchas óseas que encierran los colmillos y absorben
+el choque de las embestidas frontales. Ancla de <em>Desgarre
+Ciego</em>.</p>
+<p><strong>Branquias Sensoriales</strong> <em>(Núcleo)</em> · Órgano ·
+PV 30 · Bloqueo 1 · Dur 2 Órganos expuestos a los lados del cuello;
+único sistema sensorial activo de la bestia. Obstruirlas o destruirlas
+elimina <em>Cazador Sin Ojos</em> y <em>Fijación del Rastro</em>. Su
+colapso total es letal.</p>
+<p><strong>Torso Central</strong> · Cuero · PV 20 · Bloqueo 3 · Dur 10
+Lomo acorazado y vientre combinados en la masa central de la bestia.
+Ancla de <em>Absorción Reactiva</em>.</p>
+<p><strong>Patas Delanteras</strong> · Cuero escamado · PV 20 · Bloqueo
+3 · Dur 14 · Garras P 16 Extremidades musculosas usadas para atacar,
+barrer y excavar. Ancla de <em>Barrido de Túnel</em>.</p>
+<p><strong>Patas Traseras</strong> · Cuero · PV 20 · Bloqueo 2 · Dur 10
+Fuente del impulso explosivo y los saltos repentinos. Ancla de <em>Salto
+de Emboscada</em>; su colapso reduce el movimiento a la mitad.</p>
+<h2 id="rasgos-3">Rasgos</h2>
+<p><strong>Cazador Sin Ojos</strong> <em>(Entorno)</em> — En oscuridad
+completa o niebla densa: Ventaja de Ejecución en T.A. Requiere branquias
+funcionales; dañarlas o bloquearlas químicamente anula este rasgo.</p>
+<p><strong>Frenesí de Sangre</strong> <em>(Estado)</em> — Al perseguir o
+atacar a una presa con Sangrado activo: Ventaja de Ejecución en T.A. y
+en cualquier T.E. dirigida a ese objetivo.</p>
+<h2 id="técnicas-2">Técnicas</h2>
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 20%" />
+<col style="width: 12%" />
+<col style="width: 20%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th>Técnica</th>
+<th>Ancla</th>
+<th style="text-align: center;">Ritmo</th>
+<th>Rango / Área</th>
+<th style="text-align: center;">T.A.</th>
+<th>T.I.</th>
+<th>Efecto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desgarre Ciego</td>
+<td>Fauces</td>
+<td style="text-align: center;">5</td>
+<td>1 mt / 1 criatura</td>
+<td style="text-align: center;">+4</td>
+<td>1d8+5</td>
+<td>Si el ataque causa daño a PV: el objetivo realiza T.R. Alteraciones
+(Leve) o queda <em>Sangrado</em>.</td>
+</tr>
+<tr>
+<td>Barrido de Túnel</td>
+<td>Patas Del.</td>
+<td style="text-align: center;">6</td>
+<td>1 mt / Cono 2m</td>
+<td style="text-align: center;">+4</td>
+<td>1d6+5</td>
+<td>Todos los objetivos en el cono reciben el ataque. Si reciben daño:
+T.R. Alteraciones (Leve) o caen Derribados.</td>
+</tr>
+<tr>
+<td>Salto de Emboscada</td>
+<td>Patas Tras.</td>
+<td style="text-align: center;">5</td>
+<td>5 mt / 1 criatura</td>
+<td style="text-align: center;">Arma</td>
+<td>Arma</td>
+<td>Mueve hasta 5m en línea recta y ataca con el arma natural elegida.
+Si recorrió más de 3m antes del impacto: +2 al daño final.</td>
+</tr>
+<tr>
+<td>Absorción Reactiva</td>
+<td>Torso</td>
+<td style="text-align: center;">3</td>
+<td>Personal</td>
+<td style="text-align: center;">—</td>
+<td>—</td>
+<td><em>Reacción —</em> Al recibir un ataque, arquea su lomo para
+interponer la parte más gruesa. +2 al Bloqueo de la zona impactada para
+ese golpe.</td>
+</tr>
+<tr>
+<td>Fijación del Rastro</td>
+<td>Branquias</td>
+<td style="text-align: center;">3</td>
+<td>10 mt / 1 criatura</td>
+<td style="text-align: center;">—</td>
+<td>—</td>
+<td>Satura sus branquias con la firma térmica del objetivo. Ataques
+posteriores contra él: +2 T.A. e ignoran coberturas visuales. Solo una
+marca activa a la vez.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="nodo-1-el-sumidero-quirúrgico-la-llegada">2. Nodo 1: El Sumidero
 Quirúrgico (La Llegada)</h3>
 <p>Si el Foso de Gestación era una pequeña sala de descarte, el Sumidero
 Quirúrgico es la inmensa caverna que lo alimenta. Es un cráter del

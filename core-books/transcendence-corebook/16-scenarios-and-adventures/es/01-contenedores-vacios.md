@@ -16,6 +16,10 @@ Este módulo está diseñado como una **experiencia de tutorial inmersivo**. Los
 
 El módulo inicia con la selección orgánica de especie: los jugadores no leen el manual ni saben cómo se llama su raza. Simplemente "despiertan" y eligen la anatomía que sienten.
 
+### Nota de Diseño: El Reflejo en los Otros (Rasgos de Personalidad)
+A diferencia de una creación de personaje estándar, en este inicio amnésico **los jugadores dejarán en blanco sus 5 Rasgos de Personalidad**. Ya que no saben quiénes son, no pueden definir cómo reaccionan al mundo. En su lugar, aplicaremos la mecánica de "El Reflejo".
+Durante el transcurso de este módulo (y a lo largo de múltiples sesiones), los rasgos no serán decididos por el propio jugador, sino que **los demás jugadores en la mesa se los irán asignando** basados en cómo lo ven actuar. Si un jugador dice ser "calculador" pero es el primero en saltar de un acantilado, la mesa puede asignarle orgánicamente el rasgo *Impulsivo*. La personalidad del personaje será, literalmente, la impresión ineludible que proyecta a los demás.
+
 ---
 
 ## Acto I: El Despertar
@@ -130,6 +134,11 @@ Pero la aventura apenas comienza.
 Con las mentes vacías pero sus instintos biológicos activos, los personajes ahora enfrentan el mundo real. Este es el momento de romper la calma estéril de la arquitectura Vesper con un caos repentino.
 
 ### 1. El Colapso Ambiental (La Huida)
+
+#### Condiciones Ambientales del Foso
+*   **Iluminación (Oscuridad casi absoluta):** La única fuente de luz son los parpadeos biológicos de las vainas rotas y la bioluminiscencia tenue del líquido amnésico. Mecánicamente actúa como la luz de una **Vela** dispersa (Rango visual efectivo: 2 m).
+*   **Visibilidad:** Más allá de esos 2 metros, los personajes están bajo *Oscuridad absoluta* (Rango: 0 m). Si intentan interactuar o percibir amenazas lejanas (como los trozos de techo cayendo), dependen por completo del oído o sus sentidos especiales.
+
 El Narrador no debe dar detalles tácticos de inmediato, sino construir la atmósfera de tensión. Justo después de que asimilen su liberación, lee o parafrasea lo siguiente:
 
 > *"El lugar en el que han caído no es un calabozo común. Es una inmensa bóveda acústica de piedra pulida. Sin embargo, el impecable silencio se rompe con un crujido sordo muy por encima de ustedes. El inmenso saco biológico que palpita incrustado en el centro del techo sufre una violenta convulsión. De repente, enormes trozos de resina translúcida y vainas sin eclosionar comienzan a llover desde la penumbra como rocas afiladas, destrozándose violentamente contra el impecable basalto.*
@@ -230,13 +239,114 @@ Antes del desastre, este inmenso distrito era el motor biológico de la civiliza
 
 Para sobrevivir y escapar de este estrato de la ciudadela, los personajes deberán explorar una serie de colosales "Nodos" interconectados que conforman las ruinas del sector.
 
-### 1. Nodo 1: El Sumidero Quirúrgico (La Llegada)
+### 1. Bautismo de Fuego (Tutorial de Combate)
+
+Apenas el primer jugador asoma la cabeza sobre el borde del Pozo Vertical, se topa de frente con la realidad del Distrito Industrial. El Narrador debe pedir a todos que ordenen sus fichas en la pista ATB evaluando su **Preparación** y leer o parafrasear lo siguiente:
+
+> *"La cornisa de piedra negra frente a ustedes está resbaladiza por la sangre fresca. A escasos metros, bloqueando la salida del pozo y dándoles la espalda, hay una bestia del tamaño de un buey destrozando los restos de un Vesper. Su piel es gris y sin pelo, semejante a la de una hiena. No tiene ojos en su rostro, pero el sonido de ustedes al subir y el penetrante olor del líquido amnésico que empapa su ropa la alertan.*
+> 
+> *La bestia suelta el cadáver. Su cuello se expande violentamente. Lanza un chillido ensordecedor y se prepara para saltar sobre la cornisa."*
+
+#### El Despertar de la Memoria Muscular
+Antes de desplegar las posiciones y calcular daños, el Narrador debe pausar brevemente. Los personajes sufren de amnesia, pero la proximidad de la muerte dispara instintos físicos primitivos. 
+El Narrador indica: *"El terror absoluto al ver cómo la bestia devora al guardia despierta una memoria muscular dormida en sus cuerpos. Antes de que el Carroñero salte sobre ustedes, decidan en este instante y anoten en su hoja si instintivamente se sienten más cómodos empuñando Armas Fabricadas (martillos, espadas, lanzas) o usando las Armas Naturales de su propia especie (garras, colmillos, púas). Esto definirá su competencia y nivel base para calcular con qué impactan y cuánto daño harán."*
+
+#### La Pista ATB y la Táctica Anatómica
+Este es el momento exacto para que el Narrador emplace la **Pista ATB**. Los personajes no pueden evadir ni dialogar; están acorralados entre el monstruo y el vacío del pozo a sus espaldas.
+1. **Despliegue:** Ubica las fichas de los jugadores y la del Carroñero Abisal en las posiciones de inicio ATB.
+2. **Advertencia de Supervivencia:** El Narrador debe hacer una pausa didáctica y decir a los jugadores: *"En Transcendence, cargar ciegamente a golpear el torso de una bestia es un suicidio. Observen la anatomía. Su objetivo no es reducir sus puntos de vida a cero; su objetivo es romper aquello que la hace peligrosa."*
+3. **El Puzzle:** Si los jugadores logran superar la *Durabilidad 2* de las Branquias (usando un Impacto Crítico o habilidades precisas), el núcleo de la bestia colapsa. Perderá sus rasgos de rastreo y quedará inútil, permitiéndoles rematarla fácilmente o huir hacia el cráter.
+
+<div class="monster-block" markdown="1">
+
+<div class="monster-header">
+<h2 class="monster-name">Carroñero Abisal (Ciego)</h2>
+<div class="monster-meta">NR 1 · Rol: Golpeador · Naturaleza: Mortal</div>
+</div>
+
+<div class="monster-desc">
+Depredador subterráneo mutado; aspecto de hiena o topo gigante sin pelo. Ciego de nacimiento, navega enteramente por calor corporal y olfato.
+</div>
+
+<div class="monster-characteristics">
+  <strong>FUE</strong> 3 | <strong>AGI</strong> 2 | <strong>TEN</strong> 3 | <strong>AST</strong> 1 | <strong>INT</strong> -1 | <strong>SAB</strong> 2 | <strong>AUR</strong> 0 | <strong>PRE</strong> 1 | <strong>COM</strong> 1
+</div>
+<div class="monster-derived">
+  <strong>Preparación:</strong> 3 | <strong>Resiliencia:</strong> 2
+</div>
+
+<div class="monster-stats-grid">
+<div class="stat-cell"><span class="stat-label">T.A.</span> <span class="stat-value">+5</span></div>
+<div class="stat-cell"><span class="stat-label">T.D.</span> <span class="stat-value">+4</span></div>
+<div class="stat-cell"><span class="stat-label">T.R.</span> <span class="stat-value">+5</span></div>
+<div class="stat-cell"><span class="stat-label">T.C.</span> <span class="stat-value">+3</span></div>
+</div>
+
+<div class="monster-damage">
+<strong>Armas:</strong> Fauces (1d8 + 4) · Garras (1d6 + 4)
+</div>
+
+<div class="monster-skills">
+<strong>Especializaciones:</strong> Agarre (+5), Percepción (+4), Rastreo (+3), Tolerancia (+5)
+</div>
+
+## Zonas Anatómicas
+
+**Fauces y Cráneo** · Hueso · PV 20 · Bloqueo 4 · Dur 10 · Colmillos P 18
+Planchas óseas que encierran los colmillos y absorben el choque de las embestidas frontales. Ancla de *Desgarre Ciego*.
+
+**Branquias Sensoriales** *(Núcleo)* · Órgano · PV 30 · Bloqueo 1 · Dur 2
+Órganos expuestos a los lados del cuello; único sistema sensorial activo de la bestia. Obstruirlas o destruirlas elimina *Cazador Sin Ojos* y *Fijación del Rastro*. Su colapso total es letal.
+
+**Torso Central** · Cuero · PV 20 · Bloqueo 3 · Dur 10
+Lomo acorazado y vientre combinados en la masa central de la bestia. Ancla de *Absorción Reactiva*.
+
+**Patas Delanteras** · Cuero escamado · PV 20 · Bloqueo 3 · Dur 14 · Garras P 16
+Extremidades musculosas usadas para atacar, barrer y excavar. Ancla de *Barrido de Túnel*.
+
+**Patas Traseras** · Cuero · PV 20 · Bloqueo 2 · Dur 10
+Fuente del impulso explosivo y los saltos repentinos. Ancla de *Salto de Emboscada*; su colapso reduce el movimiento a la mitad.
+
+## Rasgos
+
+**Cazador Sin Ojos** *(Entorno)* — En oscuridad completa o niebla densa: Ventaja de Ejecución en T.A. Requiere branquias funcionales; dañarlas o bloquearlas químicamente anula este rasgo.
+
+**Frenesí de Sangre** *(Estado)* — Al perseguir o atacar a una presa con Sangrado activo: Ventaja de Ejecución en T.A. y en cualquier T.E. dirigida a ese objetivo.
+
+## Técnicas
+
+| Técnica | Ancla | Ritmo | Rango / Área | T.A. | T.I. | Efecto |
+| --- | --- | :---: | --- | :---: | --- | --- |
+| Desgarre Ciego | Fauces | 5 | 1 mt / 1 criatura | +4 | 1d8+5 | Si el ataque causa daño a PV: el objetivo realiza T.R. Alteraciones (Leve) o queda *Sangrado*. |
+| Barrido de Túnel | Patas Del. | 6 | 1 mt / Cono 2m | +4 | 1d6+5 | Todos los objetivos en el cono reciben el ataque. Si reciben daño: T.R. Alteraciones (Leve) o caen Derribados. |
+| Salto de Emboscada | Patas Tras. | 5 | 5 mt / 1 criatura | Arma | Arma | Mueve hasta 5m en línea recta y ataca con el arma natural elegida. Si recorrió más de 3m antes del impacto: +2 al daño final. |
+| Absorción Reactiva | Torso | 3 | Personal | — | — | *Reacción —* Al recibir un ataque, arquea su lomo para interponer la parte más gruesa. +2 al Bloqueo de la zona impactada para ese golpe. |
+| Fijación del Rastro | Branquias | 3 | 10 mt / 1 criatura | — | — | Satura sus branquias con la firma térmica del objetivo. Ataques posteriores contra él: +2 T.A. e ignoran coberturas visuales. Solo una marca activa a la vez. |
+
+</div>
+
+### Clímax del Combate: La Cicatriz
+Este primer combate no solo enseña mecánicas, es un detonante narrativo para la amnesia. Cuando ocurra el momento de mayor tensión en el enfrentamiento —ya sea cuando un personaje reciba su primera herida brutal, cuando colapse por la fatiga, o justo cuando vea morir a la bestia ahogada en su propia sangre— el Narrador debe "detener el tiempo".
+
+Pide al jugador directamente involucrado que cierre los ojos. El dolor físico extremo o la violenta descarga de adrenalina perforan el bloqueo de memoria por un microsegundo. El jugador debe definir en ese instante su **Cicatriz** (el segundo Pilar de Biografía: Trauma o Arrepentimiento).
+El Narrador le pregunta: *"El dolor y la violencia de este lugar despiertan un destello incontrolable de tu pasado. En este instante de puro instinto de supervivencia, ¿cuál es el mayor error de tu vida o la herida emocional profunda que alguien te dejó antes de despertar en los tubos amnésicos?"* 
+
+Este arrepentimiento o trauma debe anotarse; será la cicatriz psicológica que moldeará cómo este personaje reacciona al peligro y la pérdida de aquí en adelante.
+
+---
+
+### 2. Nodo 1: El Sumidero Quirúrgico (La Llegada)
 Si el Foso de Gestación era una pequeña sala de descarte, el Sumidero Quirúrgico es la inmensa caverna que lo alimenta. Es un cráter del tamaño de un estadio, sumido en penumbras y fuegos químicos, y representa la "Zona Cero" absoluta del nacimiento de la Aberración. 
 
 *(Contexto para el Narrador: Antes del desastre, esta inmensa caverna era el principal Almacén de Biomasa del sector industrial. Cientos de contenedores esféricos, sostenidos por el inmenso Puente de Hueso central, guardaban la bilis y el ácido amniótico que alimentaba los laboratorios inferiores. Cuando la Aberración estalló desde abajo, fracturó el puente, provocó un derrumbe masivo que bloqueó todo el flanco oeste, y reventó los contenedores, inundando el fondo de la caverna con lo que hoy es el letal Mar de Ácido).* 
 
 El Narrador debe pausar el ritmo y describir la devastación a escala kilométrica:
 > *"Salen del túnel arrastrándose y el aire aquí es espeso, saturado de humo ácido y olor a cobre. No están en un pasillo. Están en el borde de un inmenso cráter de escombros dentro de una caverna cuyas paredes se pierden en la oscuridad. A lo lejos, gigantescos pilares de piedra están partidos por la mitad, y enormes contenedores esféricos del tamaño de rascacielos derraman cascadas de líquido biológico. No hay monstruos atacándolos. Hay un silencio de muerte, apenas interrumpido por el eco distante del colapso estructural. Lo que sea que nació aquí, arrasó con batallones enteros de Vesper en un instante."*
+
+#### Condiciones Ambientales del Sumidero
+*   **Visibilidad (Niebla y Humo denso):** El inmenso cráter está saturado de gases industriales, esporas ácidas y humo tóxico (Rango visual efectivo: restringido a 10 m). 
+*   **Iluminación:** Hay enormes colonias de hongos bioluminiscentes alimentándose de la biomasa derramada, y fuegos químicos azules ardiendo entre los escombros. Mecánicamente actúan como una red irregular de **Antorchas** (Rango de luz clara: 4 m, pero reducido a 2 m por la condición visual densa del humo).
+*   **Mecánica de Ocultación:** Debido a los gases opresivos y la luz caótica, cualquier criatura (PJs o carroñeros) más allá de los 10 metros entra en pérdida total de línea de visión, lo que justifica perfectamente el uso de la acción *Ocultarse* a campo abierto.
 
 ### 2. Sandbox Sensorial (Herramientas para el Narrador)
 En este inmenso nodo **no hay combates formales** y **no hay un camino predefinido**. La Aberración mayor ya abrió una inmensa brecha en las bóvedas superiores y se fue. El verdadero enemigo aquí es el entorno inestable. 
@@ -251,13 +361,50 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 *   **Conexiones:** Si bordean la pared este por esta ruta inferior, llegarán directamente a la *Entrada al Matadero*.
 
 #### B. El Puente de Hueso (La Ruta Superior)
-*   **Impresión Sensorial:** Viento helado que corta la piel. El crujido constante de una inmensa viga de piedra y hueso (del tamaño de un puente colgante) que resiste a punto de colapsar. Falta de oxígeno por la altitud dentro de la caverna.
-*   **El Estado Actual:** Es la estructura más alta que quedó en pie cruzando el cráter. Está fracturada por la mitad y cubierta de resina y sangre negra resbaladiza.
-*   **Peligros (Mecánica):** Abajo, a cientos de metros, se ven las sombras titánicas de carroñeros ciegos. Cualquier ruido fuerte, luz repentina o paso en falso los expone por completo o los hace resbalar al abismo (requiere tiradas de *Acrobacias* o *Atletismo*).
-*   **Conexiones:** Atraviesa el abismo por el aire, conectando su punto de partida con el techo de la *Entrada al Matadero*.
+*   **El Propósito Original:** Los arquitectos Vesper son criaturas ciegas que odian el suelo y navegan por ecolocalización. Este inmenso puente de calcio no era solo una pasarela; era una red acústica. Al golpear las barandas de hueso poroso, las vibraciones resonaban de tal forma que los supervisores Vesper podían "ver" el estado de todos los contenedores colgantes sin descender.
+*   **El Estado Actual:** Tras la explosión de la Aberración, la inmensa viga central (del tamaño de un puente colgante moderno) está partida y al borde del colapso estructural. No tiene barandas de seguridad (los Vesper no las necesitaban) y está cubierta de sangre negra y resbaladiza.
+*   **Impresión Sensorial:** Un viento helado que corta la piel por la altitud. Un vacío absoluto bajo sus pies. El sonido de un crujido sordo constante de un material orgánico a punto de quebrarse.
+*   **Peligros (Mecánica):** El mayor peligro no es caer (lo cual es letal de por sí), sino **el sonido**. El puente amplifica cualquier pisada torpe como un tambor de resonancia. Un paso en falso no solo requiere tirar *Acrobacias*, sino que alertará a los horrores ciegos que deambulan por el abismo abajo, haciéndoles trepar por los pilares hacia los jugadores.
+*   **Conexiones:** Atraviesa el abismo por el aire, conectando de forma directa y expuesta con las cornisas superiores de la *Entrada al Matadero*.
 
 #### C. El Cráter Central (El Epicentro)
-*   **Impresión Sensorial:** Calor insoportable. Olor a carne quemada y cobre. La luz parpadeante de las lentas reacciones químicas de la biomasa derramada.
-*   **El Estado Actual:** El punto exacto donde nació la Aberración. El suelo es liso como vidrio por la explosión térmica. Hay pedazos de tecnología y armaduras Vesper derretidas incrustadas en la roca.
-*   **Peligros y Oportunidades:** Es el terreno de alimentación de gigantescas criaturas carroñeras ciegas. Caminar por aquí es un suicidio absoluto a menos que ideen una distracción magistral. Si logran acercarse, encontrarán botín de alto valor (armamento Vesper intacto o curaciones potentes).
-*   **Conexiones:** El epicentro conecta con todas las rutas, pero es el camino más mortal para intentar cruzar la Zona Cero.
+*   **Impresión Sensorial:** Calor insoportable que irradia desde la piedra. Olor agrio a carne quemada, cobre y amoníaco. La única iluminación proviene del latido parpadeante de masas biológicas adheridas al suelo liso.
+*   **El Estado Actual:** Es el punto exacto donde la Aberración estalló de su crisálida. El suelo basáltico quedó liso y cristalizado por la inmensa explosión de presión térmica. En el centro exacto, yacen los cadáveres aplastados de la guardia de élite Vesper.
+*   **Peligros (Mecánica):** El suelo del cráter está tapizado por **Fragmentos Aberrantes (Parásitos)**. Estas horripilantes criaturas carnosas se desprendieron del cuerpo de la bestia masiva al nacer. Parecen sanguijuelas del tamaño de un perro, apenas móviles. No atacarán para matar, sino que actúan como una red nerviosa y de alarma. Si los jugadores los pisan o hacen vibrar el suelo cristalizado cerca de ellos, estallarán en un chillido químico que atraerá de inmediato a una jauría entera de Carroñeros Ciegos desde las sombras. *(Cruzar exige tiradas continuas y críticas de Sigilo y Acrobacias).*
+*   **Oportunidades (El Riesgo/Recompensa):** Caminar entre los parásitos es tentar al suicidio, pero el epicentro guarda el mayor tesoro del nodo: viales sellados de líquido curativo y coagulantes. 
+*   **Conexiones:** Es la ruta a pie más corta y plana hacia la *Entrada al Matadero*, pero garantiza la aniquilación total si el grupo falla en el sigilo.
+
+---
+
+### 3. El Umbral del Matadero (El Fin del Módulo)
+
+Sin importar qué ruta hayan tomado (y cuán heridos lleguen), el inmenso cráter termina abruptamente frente a un muro colosal de basalto tallado. Incrustada en la roca, se alza la **Puerta del Matadero de Tinta**: una estructura ciclópea de bronce ennegrecido y fémures entrelazados, sellada herméticamente.
+
+Aquí se desarrolla el último desafío del tutorial: **El Acorde Hidráulico** (Un puzzle de deducción bajo presión).
+A medida que los personajes se acercan a la puerta, el Narrador debe narrar cómo el eco de sus pasos, el olor de su sangre o simplemente su presencia atrae la atención de la jauría de Carroñeros Ciegos que patrullan el fondo del cráter. No es un combate que puedan ganar; es una avalancha biológica inminente. Tienen exactamente **3 Turnos de Error** para abrir la bóveda antes de ser devorados.
+
+#### El Puzzle de la Puerta Vesper
+Fieles a su biología ciega, los Vesper no usaban paneles numéricos ni cerraduras visuales. A un costado de la enorme puerta hay un panel de gruesos tubos de hueso poroso conectados a tres pesadas válvulas de latón. Para liberar los colosales pasadores internos, los jugadores deben generar una **frecuencia acústica de resonancia específica** tirando de las válvulas en el orden correcto.
+
+Si tiran de una secuencia incorrecta, el sistema expulsará gas a presión emitiendo un chirrido agudo y disonante. Este ruido ensordecedor viaja por el cráter y **consume 1 Turno de Error**, atrayendo peligrosamente a las bestias ciegas.
+
+**¿Cómo descubrir el orden sin morir?**
+El Narrador no debe darles la solución, pero si los jugadores investigan su entorno o usan sus sentidos bajo presión, descubrirán dos formas de entender el patrón:
+1. **La Pista Táctil/Acústica:** Si un jugador describe que presiona su oreja contra el frío metal de la puerta, o palpa los conductos (tirada de *Percepción* o *Intuición*), podrá escuchar/sentir el zumbido constante de la presión hidráulica del otro lado rebotando contra los seguros. El zumbido repite cíclicamente un patrón rítmico: *Vibración pesada - Vibración fina - Vibración pesada*.
+2. **El Cadáver del Supervisor:** A unos metros del umbral yace un Vesper aplastado por los escombros. Si lo registran, encuentran un "Silbato de Mando" atado a su cuello. Al soplarlo suavemente, el silbato no emite sonido, sino que expulsa tres ráfagas de aire que vibran físicamente en las manos en el mismo patrón: *Pesado - Fino - Pesado*.
+
+**La Ejecución (Resolución)**
+Los jugadores deben probar qué válvula hace qué. El Narrador les revela esto a medida que interactúan físicamente con ellas:
+- **Válvula 1:** Emite un soplido grave y profundo que hace temblar el suelo bajo sus botas (*Pesado*).
+- **Válvula 2:** Emite un silbido cortante y vibrante (*Fino*).
+- **Válvula 3:** Expulsa un chorro de vapor químico hirviente y caótico (Válvula trampa/purga. Si la accionan, gastan 1 Turno de Error inmediatamente).
+
+**La Solución:** Deben coordinarse y declarar que jalan la **Válvula 1**, luego la **Válvula 2**, y finalmente la **Válvula 1**. 
+Al introducir este "Acorde Hidráulico", la perfecta armonía hace vibrar los pasadores de bronce internos hasta desencajarlos, abriendo la masiva puerta justo a tiempo.
+
+#### La Transición al Nodo 02
+Si los personajes logran forzar la puerta, esta cederá con un quejido metálico ensordecedor. Entrarán tropezando en la oscuridad justo cuando las fauces del primer carroñero gigante chocan contra el marco. Los jugadores logran activar el cierre de emergencia desde adentro, sellando la bóveda y dejando los chillidos monstruosos del cráter ahogados al otro lado del metal masivo.
+
+> *"Se desploman en el suelo, rodeados por la oscuridad más absoluta y un abrumador olor a hierro y fluidos rancios. Han sobrevivido al nacimiento de la aberración y han escapado de la Zona Cero... pero al encender un farol químico encontrado en el suelo, la tenue luz azul revela dónde están. De los altos techos abovedados cuelgan miles de ganchos oxidados y cadenas manchadas de negro. Canales de drenaje recorren el suelo como venas vacías. Bienvenidos al Nodo 02: Los Mataderos de Tinta."*
+
+**FIN DEL MÓDULO 01**
