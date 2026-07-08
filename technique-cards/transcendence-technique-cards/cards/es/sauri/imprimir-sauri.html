@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Sauri</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-weapon" data-card-id="sauri-abrir-la-vasija">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Abrir la Vasija</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La herida abierta no habla — cobra cuando el cuerpo olvida que está ahí.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Desgarro</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Desgarro</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. (Desgarro) contra el objetivo; si impacta, resuelve el daño normalmente. Tras el impacto, el objetivo realiza una T.R. (Alteraciones) contra Lacerado — la severidad depende de tu rango de competencia.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Severidad</th></tr>
+            <tr><td>Novato–Adepto</td><td>Menor</td></tr>
+            <tr><td>Experto–Maestro</td><td>Moderado</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Severo</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-anclar-el-contrapeso">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Anclar el Contrapeso</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La cola no sigue al cuerpo que empujan — ya estaba en el suelo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil: Control de Línea</li>
+            <li>Desplazamiento físico forzado o pérdida de estabilidad física.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Control de Línea</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando serías desplazado físicamente o forzado a resistir Derribado o Desequilibrado por impacto físico, reduce el desplazamiento en 1m + Valor. Si lo lleva a 0, conservas tu posición y cualquier efecto de posición activo. Si el mismo efecto aplica Derribado o Desequilibrado, añades Valor como bonificador a tu T.R. (Alteraciones).</p>
+          <table class="mini-table">
+            <tr><th>Rango</th><th>Valor</th></tr>
+            <tr><td>Novato</td><td>1</td></tr>
+            <tr><td>Adepto</td><td>2</td></tr>
+            <tr><td>Experto</td><td>3</td></tr>
+            <tr><td>Maestro</td><td>4</td></tr>
+            <tr><td>Consumado</td><td>5</td></tr>
+            <tr><td>Trascendente</td><td>6</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-anudar-la-vasija">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Anudar la Vasija</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El nudo no devuelve la sangre perdida — detiene la que queda.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Medicina)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especialización: Medicina</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Medicina</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.E. (Medicina). Con éxito, aplica Estabilizar a una herida <strong>no estabilizada</strong> del objetivo: sus agravios y penalizaciones terminan, y el estado de Agonía se retira si estaba presente. Al estabilizar la herida de esta forma, el objetivo recupera una cantidad de Desgaste igual a tu Rango de competencia en Medicina.</p>
+          <p>La ranura de herida permanece ocupada.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-asentar-la-piedra">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Asentar la Piedra</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El cuerpo que se asienta ya no ocupa el suelo: se vuelve parte de él.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de escudo: Bastión</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Bastión</span>
+          <span>Postura</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Recibes un bonificador igual a tu rango de competencia a tu T.D. contra ataques por tu frente y a tu T.R. contra movimiento forzado, agarre, derribo, empuje y Alteraciones físicas. Puedes seguir actuando siempre que no abandones el punto. La postura termina si te desplazas más de 1 metro, pierdes la postura o apartas el escudo.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-bajar-el-nucleo">
+        <header class="card-header">
+          <p class="origin">Pasivo - Utilidad</p>
+          <h1>Bajar el Núcleo</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El cuerpo no se vuelve frío. Se vuelve exacto.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Aclimatación)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Aclimatación (Rango Novato o superior)</li>
+            <li>Resistencia al Calor (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Aclimatación</span>
+          <span>Resistencia al Calor</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando realizas T.E. (Aclimatación) para resistir un peligro ambiental de origen térmico, añades un bonificador igual al bono de rango de tu Resistencia al Calor a esa tirada.</p>
+          <p>Solo aplica contra calor ambiental natural.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="sauri-barrer-la-orilla">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Barrer la Orilla</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El cuerpo recordó demasiado tarde que estaba parado en la orilla.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Impacto</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Impacto</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. (Impacto) contra el objetivo; si impacta, resuelve el daño normalmente. Tras el impacto, el objetivo realiza una T.R. (Alteraciones) contra Desequilibrado — la severidad depende de tu rango de competencia.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Severidad</th></tr>
+            <tr><td>Novato–Adepto</td><td>Menor</td></tr>
+            <tr><td>Experto–Maestro</td><td>Moderado</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Severo</td></tr>
+          </table>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-shield" data-card-id="sauri-cerrar-el-flanco">
+        <header class="card-header">
+          <p class="origin">Reactivo - Ataque</p>
+          <h1>Cerrar el Flanco</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El flanco que el enemigo creyó abierto ya tenía la cola cruzándolo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil: Intercepción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Intercepción</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti o contra una criatura u objeto dentro de ese mismo alcance, puedes reemplazar tu propia T.D. o la del objetivo protegido.</p>
+          <p>Realiza una T.A. contra el atacante y compárala con su T.A. Si la tuya es igual o mayor, el ataque no alcanza al objetivo y resuelves tu daño normalmente. Si la tuya es menor, el ataque resuelve como si la T.D. del objetivo hubiera fallado — sin tirada adicional.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="sauri-cerrar-el-juicio">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Cerrar el Juicio</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La mandíbula cierra como veredicto — lo que no aguanta, cede.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Impacto</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Impacto</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Antes de tirar, declara un objetivo de ruptura alcanzable: arma, escudo, armadura, extremidad u otra parte establecida. Realiza una T.A. contra ese objetivo; si impacta, resuelve el daño normalmente. El umbral de la T.I. para validar la ruptura se reduce según tu rango de competencia.</p>
+          <table class="mini-table">
+            <tr><th>Rango</th><th>Red.</th></tr>
+            <tr><td>Novato</td><td>1</td></tr>
+            <tr><td>Adepto</td><td>2</td></tr>
+            <tr><td>Experto</td><td>3</td></tr>
+            <tr><td>Maestro</td><td>4</td></tr>
+            <tr><td>Consumado</td><td>5</td></tr>
+            <tr><td>Trascendente</td><td>6</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-cerrar-la-compuerta">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Cerrar la Compuerta</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El paso está cerrado antes de que alguien decida cruzarlo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Circular (Alcance del arma + 1m)</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de escudo: Control de Línea</li>
+            <li>Debes permanecer en tu posición mientras la postura esté activa</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Control de Línea</span>
+          <span>Postura</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Adoptas una postura defensiva centrada en tu posición. Los aliados dentro del alcance de tu arma + 1 quedan bajo tu cobertura. Cuando un enemigo ataque a uno de esos aliados, su T.A. sufre una penalización igual a tu rango de competencia con el arma usada. La postura termina si te desplazas o eres desplazado.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-cerrar-la-coraza">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad · Postura</p>
+          <h1>Cerrar la Coraza</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La armadura protege donde el cuerpo elige, no donde el golpe apunta.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>3</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Armadura pesada (Rango Novato o superior)</li>
+            <li>Llevar al menos 3 piezas de Armadura pesada equipadas</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Armadura pesada</span>
+          <span>Postura</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Mientras esta postura esté activa, puedes redirigir cualquier impacto que recibas hacia una zona de tu cuerpo cubierta por tu armadura. Declara la redirección antes de que el golpe se resuelva.</p>
+          <p>En una zona redirigida, añades un bonificador igual al bono de rango de tu competencia de armadura al Bloqueo. El mismo bonificador aplica a T.R. contra Derribado o Desequilibrado causado por ese impacto.</p>
+          <p>Termina si quedas Derribado, si llevas menos de 3 piezas funcionales, o si eliges terminarla.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-devolver-al-cauce">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Devolver al Cauce</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La cola no persigue al que huye — espera en el canal donde tiene que pasar.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil: Interrupción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interrupción</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo intenta moverse por una ruta que puedes cubrir, realiza una T.A. de forma reactiva. Si fallas, el movimiento continúa normalmente. Si tienes éxito, el objetivo realiza una T.R. (Alteraciones) contra Atrapado — la severidad depende de tu rango de competencia; si falla, su movimiento se detiene donde la sujeción lo alcanzó.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Severidad</th></tr>
+            <tr><td>Novato–Adepto</td><td>Menor</td></tr>
+            <tr><td>Experto–Maestro</td><td>Moderado</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Severo</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-guardar-el-pulso">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Guardar el Pulso</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La vasija lleva lo que no puede derramarse, aunque ya esté resquebrajada.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1+</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especialización: Tolerancia</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Tolerancia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando una Alteración interrumpa o penalice una acción que estás a punto de resolver. Puedes pagar Desgaste adicional hasta tu rango de Tolerancia y elegir uno de las siguientes opciones:</p>
+          <table class="mini-table">
+            <tr><td><strong>Mitigar</strong></td><td>Reduce la penalización del estado en 1 por cada punto de Desgaste utilizado.</td></tr>
+            <tr><td><strong>Preservar</strong></td><td>Evita que el estado interrumpa la activación en curso.</td></tr>
+          </table>
+          <p>El estado no desaparece. Todo continúa normalmente tras la resolución.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-weapon" data-card-id="sauri-la-corriente-no-retrocede">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>La Corriente No Retrocede</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El cuerpo que aguanta no detiene la fuerza — solo decide dónde va a ceder.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Imparable</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Imparable</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. contra el objetivo; si impacta, resuelve el daño normalmente. Tras el impacto, el objetivo realiza una T.R. (Alteraciones) contra desplazamiento forzado — si falla, es empujado la distancia indicada; si tiene éxito, conserva su posición.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Distancia</th></tr>
+            <tr><td>Novato–Adepto</td><td>1m</td></tr>
+            <tr><td>Experto–Maestro</td><td>2m</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>3m</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-levantar-el-dique">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Levantar el Dique</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El golpe no decide a quién alcanza. Tú sí.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de escudo: Intercepción</li>
+            <li>Debes tener un camino físico libre para interponer tu superficie entre la amenaza y el objetivo protegido.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Intercepción</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un ataque enemigo vaya a alcanzar a un aliado u objetivo designado dentro del alcance de tu arma, te interpones. El ataque se resuelve contra tu T.D. en lugar de afectar al objetivo original junto con los efectos adicionales del ataque — movimiento forzado, una condición, o cualquier otro efecto —.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-nombrar-el-umbral">
+        <header class="card-header">
+          <p class="origin">Pasivo - Utilidad</p>
+          <h1>Nombrar el Umbral</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No lo expulsa. Le da un borde.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.R. (Aflicciones)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Teología (Rango Novato o superior)</li>
+            <li>Resistencia a Aflicciones (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Teología</span>
+          <span>Resistencia a Aflicciones</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando interactúas con un Vestigio o un Vínculo y debes realizar una T.R. para evitar que aumente la intensidad de una Aflicción sensorial, añades un bonificador igual al bono de rango de tu Resistencia a Aflicciones a esa T.R.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-proteccion-natural">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Protección Natural</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Las escamas no ceden — redistribuyen.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especie: Sauri.</li>
+            <li>La herida entrante debe ser no crítica.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Sauri</span>
+          <span>Herida</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando una herida no crítica está por aplicarse en cualquier zona de tu cuerpo, puedes declarar esta técnica en tu ventana de reacción. La herida reduce su severidad en un grado: una Herida Grave se convierte en Leve, y una Herida Leve no se aplica. Las Heridas Críticas no pueden reducirse con esta técnica.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="sauri-romper-el-caudal">
+        <header class="card-header">
+          <p class="origin">Reactivo - Ataque</p>
+          <h1>Romper el Caudal</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El caudal que rompe contra el dique no llega a la orilla.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance de Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de escudo: Interrupción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interrupción</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando eres el objetivo de un ataque enemigo, realiza una T.D. contra su tirada. Si el enemigo supera tu T.D., fallas. Con éxito, interrumpes la ejecución y resuelves la T.I. inmediatamente contra el atacante, sin Ritmo adicional ni movimiento.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-sellar-la-grieta">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Sellar la Grieta</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El cuerpo puede estar roto — lo que no puede es mostrar exactamente cómo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Aplomo)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especialización: Aplomo</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Aplomo</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando alguien realiza una T.E. Mental o Social, realiza T.E. (Aplomo). El resultado se convierte en el umbral que esa acción debe superar.</p>
+          <table class="mini-table">
+            <tr><th>Resultado del oponente</th><th>Consecuencia</th></tr>
+            <tr><td>No supera el umbral</td><td>Sin contexto utilizable; todos sus efectos condicionales quedan negados.</td></tr>
+            <tr><td>Supera el umbral</td><td>La acción tiene éxito, pero pierde 1–2 efectos condicionales según tu rango de Aplomo.</td></tr>
+          </table>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-weapon" data-card-id="sauri-sellar-la-presa">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>Sellar la Presa</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El juicio no eleva al condenado — lo sella donde cae.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R.` (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Bastión</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Bastión</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. contra el objetivo; si impacta, resuelve el daño normalmente. Tras el impacto, el objetivo realiza una T.R. (Alteraciones) contra Derribado — la severidad depende de tu rango de competencia.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Severidad</th></tr>
+            <tr><td>Novato–Adepto</td><td>Menor</td></tr>
+            <tr><td>Experto–Maestro</td><td>Moderado</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Severo</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-tomar-el-eco">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Tomar el Eco</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Lo que tocó el lugar dejó un pulso — el origen ya se fue, pero el eco no.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>10m</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura, Superficie u Objeto</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Resonancia)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Resonancia (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Resonancia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Según el tipo de señal o la categoría de la criatura, realiza una T.E. (Resonancia).</p>
+          <table class="mini-table">
+            <tr><th>Señal / Criatura</th><th>Dificultad</th></tr>
+            <tr><td>Activa / Común</td><td>Desafiante</td></tr>
+            <tr><td>Atenuada / Campeona</td><td>Rigurosa</td></tr>
+            <tr><td>Suprimida / Élite</td><td>Exigente</td></tr>
+          </table>
+          <p>Con éxito, elige una cantidad de lecturas de la siguiente lista igual a tu <strong>Rango de competencia</strong> (mínimo 1):</p>
+          <table class="mini-table">
+            <tr><th>Modo</th><th>Resultado</th></tr>
+            <tr><td>Posición</td><td>Detectas la posición exacta de la fuente en ese momento si está oculta o incierta.</td></tr>
+            <tr><td>Ruta</td><td>El Narrador revela qué ruta o zona sigue la señal verdadera en ese momento.</td></tr>
+            <tr><td>Estado</td><td>El Narrador revela si la señal es activa o dormida, reciente o antigua, creciente o en declive.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-tomar-el-resguardo">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Tomar el Resguardo</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El resguardo no se crea — estaba esperando que alguien lo nombrara.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Supervivencia)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especialización: Supervivencia</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Supervivencia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.E. (Supervivencia). Con éxito, identificas un punto en la escena como cobertura según tu rango. Si fallas, el punto no protege. La técnica termina al abandonar el punto.</p>
+          <table class="mini-table">
+            <tr><th>Rangos</th><th>Cobertura</th></tr>
+            <tr><td>Novato–Adepto</td><td>Ligera</td></tr>
+            <tr><td>Experto–Maestro</td><td>Media</td></tr>
+            <tr><td>Consumado–Trascendente</td><td>Total</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-tomar-la-corriente">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Tomar la Corriente</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La corriente no perdona al cuerpo que la trata como un muro.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Nadar)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especialización: Nadar</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Nadar</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando una fuerza física intenta desplazarte, realiza una T.E. (Nadar). Si fallas, el desplazamiento se aplica normalmente. Con éxito, elige solo una:</p>
+          <table class="mini-table">
+            <tr><td><strong>Absorber</strong></td><td>Reduce el desplazamiento en 1 m más tu rango de Nadar. El exceso es movimiento gratuito.</td></tr>
+            <tr><td><strong>Evitar</strong></td><td>Evita quedar Derribado o Atrapado. El desplazamiento ocurre normalmente.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-tomar-la-costura">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Tomar la Costura</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La diferencia entre refugio y trampa es una costura que nadie aprendió a ver.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>10m</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Superficie u Objeto</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Minería)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Minería (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Minería</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Elige una superficie mineral dentro de 10m relevante como cobertura u obstáculo. Realiza una T.E. (Minería). La dificultad la establece el Narrador:</p>
+          <table class="mini-table">
+            <tr><th>Accesibilidad / Criatura</th><th>Dificultad</th></tr>
+            <tr><td>Alta / Común</td><td>Desafiante</td></tr>
+            <tr><td>Media / Campeona</td><td>Rigurosa</td></tr>
+            <tr><td>Baja / Élite</td><td>Exigente</td></tr>
+          </table>
+          <p>Con éxito, elige uno: reduce la Cobertura del enemigo una categoría mientras use esa misma superficie; o reduce el umbral de ruptura según tu rango de Minería:</p>
+          <table class="mini-table">
+            <tr><th>Rango</th><th>Red.</th></tr>
+            <tr><td>Novato</td><td>1</td></tr>
+            <tr><td>Adepto</td><td>2</td></tr>
+            <tr><td>Experto</td><td>3</td></tr>
+            <tr><td>Maestro</td><td>4</td></tr>
+            <tr><td>Consumado</td><td>5</td></tr>
+            <tr><td>Trascendente</td><td>6</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card spectrum-resistance" data-card-id="sauri-tomar-la-secuencia">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Tomar la Secuencia</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La secuencia no miente — el derrame llega siempre por el mismo paso.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>10m</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Superficie u Objeto</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Taumaturgia)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Taumaturgia (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Taumaturgia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.E. (Taumaturgia) sobre un fenómeno, objeto o zona con comportamiento taumático observable. La dificultad la establece el Narrador. Con éxito, el Narrador revela una condición de funcionamiento del fenómeno u otra regla que el fenómeno necesite para mantenerse, activarse o escalar.</p>
+          <p>Mientras el fenómeno conserve ese patrón, todas las T.E. o T.A. que realices contra él reciben un bonificador igual a tu rango de Taumaturgia.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-shield" data-card-id="sauri-volver-la-placa">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Volver la Placa</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La armadura no promete sobrevivir — promete ser la última en ceder.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Armadura intermedia o Armadura pesada (Rango Novato o superior)</li>
+            <li>La zona golpeada debe estar protegida por una pieza funcional de esa armadura</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Armadura intermedia</span>
+          <span>Armadura pesada</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando recibes un golpe crítico contra una zona protegida por tu armadura, la pieza en esa zona no enfrenta el chequeo de ruptura de material por este golpe. Las heridas se resuelven con normalidad.</p>
+        </section>
+      </article>
+    </div>
+</body>
+</html>

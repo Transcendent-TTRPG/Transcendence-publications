@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Formix</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-resistance" data-card-id="formix-senal-quimica">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Señal Química</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Las antenas no preguntan. Distinguen.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Circular 10 m</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.C. (Astucia)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especie: Formix.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Formix</span>
+          <span>Detección</span>
+          <span>Oculto</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.C. (Astucia) contra un umbral fijado por la saturación química del entorno.</p>
+          <table class="mini-table">
+            <tr><th>Condición</th><th>Dificultad</th><th>Umbral</th></tr>
+            <tr><td>Neutro</td><td>Fundamentos</td><td>5 + NR</td></tr>
+            <tr><td>Actividad moderada</td><td>Desafiante</td><td>8 + NR</td></tr>
+            <tr><td>Contaminación significativa</td><td>Rigurosa</td><td>11 + NR</td></tr>
+            <tr><td>Saturación extrema</td><td>Exigente</td><td>14 + NR</td></tr>
+          </table>
+          <p>Con éxito, distingues dentro del área: posición de criaturas vivas (no pueden estar Ocultas contra ti), rastros recientes de criaturas que ya no están, sustancias peligrosas activas (venenos, ácidos, gases), y materiales específicos si tienes alguna especialización relevante.</p>
+        </section>
+      </article>
+    </div>
+</body>
+</html>

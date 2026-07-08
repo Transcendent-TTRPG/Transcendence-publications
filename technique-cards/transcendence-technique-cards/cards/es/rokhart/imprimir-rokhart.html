@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Rokhart</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-resistance" data-card-id="rokhart-la-batida">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>La Batida</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Las alas no vuelan. Pero saben separarse del lugar donde termina el golpe.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.C. (Agilidad)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especie: Rokhart.</li>
+            <li>Un ataque cuerpo a cuerpo es ejecutado contra ti.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Rokhart</span>
+          <span>Desplazamiento</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un ataque cuerpo a cuerpo es ejecutado contra ti, puedes declarar esta técnica en tu ventana de reacción. Realiza una T.C. (Agilidad). Con éxito, te desplazas hasta la mitad de tu Velocidad (6 m) en cualquier dirección sin provocar reacciones del atacante. Si el desplazamiento te saca del alcance del arma del atacante, el ataque falla automáticamente. Si permaneces dentro de su alcance, el ataque procede normalmente pero quedas reposicionado.</p>
+        </section>
+      </article>
+    </div>
+</body>
+</html>

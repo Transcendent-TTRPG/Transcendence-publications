@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Lapinni</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-weapon" data-card-id="lapinni-aceleracion-del-caos">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Aceleración del Caos</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El dolor no te detiene. Solo obliga al cuerpo a cambiar de estado antes de entender lo que pasó.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especie: Lapinni.</li>
+            <li>Debes haber recibido una herida.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Lapinni</span>
+          <span>Movimiento</span>
+          <span>ATB</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando recibes una herida, puedes activar esta técnica. Tu sistema nervioso fuerza una transición inmediata.</p>
+          <p>Elige una opción: retrocedes tu ficha en el track ATB, o realizas un movimiento inmediato ignorando terreno difícil y sin provocar reacciones de los enemigos de los que te alejas.</p>
+          <table class="mini-table">
+            <tr><th>NR</th><th>Retroceso ATB</th><th>Movimiento</th></tr>
+            <tr><td>1–4</td><td>1 casilla</td><td>1 m</td></tr>
+            <tr><td>5–8</td><td>2 casillas</td><td>2 m</td></tr>
+            <tr><td>9–12</td><td>3 casillas</td><td>3 m</td></tr>
+          </table>
+        </section>
+      </article>
+    </div>
+</body>
+</html>

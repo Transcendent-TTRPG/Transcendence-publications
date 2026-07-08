@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Drakkai</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-antes-de-que-cambie">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>Antes De Que Cambie</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El gradiente cambia antes de que el peligro se nombre.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Rango Sensorial</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Percepción)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Percepción (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Percepción</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando una criatura de tamaño Mediano o mayor entra en tu rango sensorial sin ser observable por medios ordinarios, realiza una T.E. (Percepción). Con éxito, desplázate hasta tu Velocidad de Movimiento antes de que la criatura sea perceptible por otros medios. Sabes que algo ha cambiado; no sabes qué es.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-cierre-en-el-umbral">
+        <header class="card-header">
+          <p class="origin">Reactivo - Ataque</p>
+          <h1>Cierre en el Umbral</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Cuando el brazo llegó, ya lo estaba esperando.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Intercepción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Intercepción</span>
+          <span>Impedido</span>
+          <span>No Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo dentro de tu alcance de arma realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de Intercepción contra el atacante. Esta tirada reemplaza tu T.D. contra ese ataque.</p>
+          <p>Si tu T.A. es igual o mayor que la del atacante, el ataque falla. El atacante realiza una T.R. (Alteraciones): si falla, queda Impedido a la severidad correspondiente a tu rango.</p>
+          <p>Si tu T.A. es menor, la intercepción falla y el ataque resuelve como si tu T.D. hubiera fallado.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-el-angulo-que-falla">
+        <header class="card-header">
+          <p class="origin">Reactivo - Ataque</p>
+          <h1>El Ángulo Que Falla</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El golpe encontró aire. La mandíbula encontró al golpe.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>7</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Desvío</li>
+            <li>Una arma natural distinta disponible para el seguimiento</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Desvío</span>
+          <span>No Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de Desvío. Esta tirada reemplaza tu T.D. Compara tu T.A. con la T.A. del atacante.</p>
+          <p>Si tu T.A. es igual o mayor, el ataque falla y resuelves tu T.I. normalmente. Puedes realizar de inmediato una T.A. adicional con una arma natural distinta, con un bonificador igual al valor de tu rango de competencia.</p>
+          <p>Si tu T.A. es menor, la deflexión falla y el ataque resuelve como si tu T.D. hubiera fallado.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-el-cierre-que-no-se-negocia">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>El Cierre Que No Se Negocia</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Lo que decidió cerrarse no encontró muro suficiente.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Imparable</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Imparable</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Imparable. Si impacta, resuelve la T.I. ignorando una cantidad de Bloqueo de la zona impactada igual al valor de tu rango de competencia.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-el-cuello-que-todo-lo-atraviesa">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>El Cuello Que Todo Lo Atraviesa</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No hace falta fuerza cuando ya sabes dónde va el peso.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Geografía)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Geografía (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Geografía</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando vas a realizar una T.E. de Saltar, Trepar, Marcha, Orientación, Acrobacias o Lanzamiento en un espacio que puedes observar o que has atravesado, puedes sustituirla por T.E. (Geografía) con un bonificador igual a tu rango de Geografía. El Narrador confirma si la sustitución es plausible antes de que realices la tirada. Si la tarea no tiene componente espacial, la sustitución no aplica.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-defense" data-card-id="drakkai-el-cuerpo-que-se-calibra">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>El Cuerpo Que Se Calibra</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El primer golpe es el peor. El cuerpo aprende el resto.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Armadura pesada (Rango Novato o superior)</li>
+            <li>Llevar al menos 3 piezas de Armadura pesada equipadas</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Armadura pesada</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Mientras esta técnica esté activa, lleva un contador de golpes que resuelvan a través de tu Armadura pesada. Cuando el contador alcanza 3, el valor de Bloqueo de todas tus piezas de armadura equipadas aumenta en un valor igual a tu rango de competencia en Armadura pesada. Este bonificador persiste mientras la técnica esté activa.</p>
+          <p>La técnica termina si quedas en estado Derribado, si llevas menos de 3 piezas de armadura funcional equipadas, o si eliges terminarla voluntariamente.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-el-espacio-se-sabe">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>El Espacio Se Sabe</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El espacio no cambia cuando deja de verse.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Rango Sensorial</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Orientación)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Orientación (Rango Novato o superior)</li>
+            <li>La posición relativa de las criaturas en la escena no es discernible por medios ordinarios (oscuridad, humo denso, desorientación repentina, cambio estructural, u otra condición equivalente)</li>
+            <li>Debes tener un referente espacial previo de esta escena</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Orientación</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.E. (Orientación). Si fallas, no obtienes ninguna reconstrucción. Si tienes éxito, el Narrador confirma las posiciones relativas actuales de todas las criaturas en la escena dentro de tu alcance sensorial.</p>
+          <p>La reconstrucción parte de razonamiento espacial acumulado, no de percepción directa — no revela intenciones, equipamiento oculto ni información que no sea posicional.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-defense" data-card-id="drakkai-el-golpe-que-cobra">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>El Golpe Que Cobra</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La armadura no absorbe todo. Una parte siempre vuelve.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Armadura pesada (Rango Novato o superior)</li>
+            <li>La zona impactada debe estar cubierta por una pieza funcional de Armadura pesada</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Armadura pesada</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando falles una T.D. y el ataque resuelva en una zona cubierta por una pieza funcional de tu armadura, la ficha del atacante avanza un número de posiciones en el track ATB igual a tu rango de competencia en Armadura pesada.</p>
+          <p>Esta técnica no se activa si el ataque ignora el Bloqueo de armadura.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-el-marco-antes-del-paso">
+        <header class="card-header">
+          <p class="origin">Reacción - Utilidad</p>
+          <h1>El Marco Antes Del Paso</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La pregunta equivocada mata antes que la cosa.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Tú</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.R. (Aflicciones)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Identificación (Rango Novato o superior)</li>
+            <li>Tocar físicamente un objeto y que este exija una T.R. inicial de Aflicciones (debido a ser un Vestigio o Vínculo).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Identificación</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Lees empíricamente el desgaste y contexto de un objeto. Al tocarlo físicamente, si resulta ser un <strong>Vestigio</strong> o <strong>Vínculo</strong> que dispara una T.R. de Aflicciones por exposición inicial, activas esta reacción.</p>
+          <p>Pagas el coste y sumas tu Rango en Identificación a esa T.R. de Aflicciones específica. Tu mente ya estaba empíricamente encuadrada para el choque, mitigando el impacto inicial del Tauma.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-el-margen-que-quedo-abierto">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>El Margen Que Quedó Abierto</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La lengua no miente sobre quien la habla.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Lingüística)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Lingüística (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Lingüística</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando vas a realizar una T.E. de Engaño, Liderazgo, Negociación, Intimidación o Imitación en una situación con componente lingüístico o comunicativo, puedes sustituirla por T.E. (Lingüística) con un bonificador igual a tu rango de Lingüística. El Narrador confirma si la sustitución es plausible antes de que realices la tirada. Si la situación no tiene componente lingüístico real, la sustitución no aplica.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="drakkai-el-margen-que-se-mueve">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>El Margen Que Se Mueve</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El escudo no dice que no pases. Dice a dónde vas.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Control de Línea</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Control de Línea</span>
+          <span>No Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Control de Línea. Si el ataque impacta, el objetivo es reposicionado a un espacio válido que tú designas, a una distancia máxima igual a tu rango de competencia en metros. El objetivo queda en pie y puede actuar con normalidad.</p>
+          <p>Puedes desplazarte hasta 1 metro en la dirección del impulso como parte de la técnica.</p>
+          <p>Si el objetivo está en una Postura inmóvil, o tiene significativamente más masa comprometida que tú, el reposicionamiento no se produce aunque el ataque impacte.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-el-peso-que-gira">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>El Peso Que Gira</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El peso decide adónde van los dos.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Torsión</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Torsión</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Torsión. Si impacta, resuelve la T.I. normalmente. Elige una posición legal a tu alrededor dentro de un radio de metros igual a la <strong>mitad de tu Rango de competencia</strong> (redondeado hacia arriba, mínimo 1 metro) y que no exceda el alcance del arma: el objetivo es reposicionado a esa posición.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-el-peso-que-planta">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>El Peso Que Planta</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No es una guardia. Es una razón por la que ese camino ya no existe.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Alcance del arma +1</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Bastión</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Bastión</span>
+          <span>Postura</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Mientras la postura esté activa, cualquier enemigo dentro del área que intente avanzar a través del eje controlado debe realizar una T.R. (Alteraciones) contra Desequilibrado: si falla, el movimiento no completa. La severidad corresponde a tu rango de competencia.</p>
+          <p>Además, recibes un bonificador igual a tu rango de competencia a tu T.R. contra desplazamiento forzado proveniente del eje controlado.</p>
+          <p>Puedes atacar, usar técnicas y realizar cualquier otra acción sin romper la postura. La postura termina si te desplazas voluntariamente del eje de contacto o si un efecto te fuerza a abandonarlo.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-el-transito-que-no-llega">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>El Tránsito Que No Llega</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La ruta que eligió ya no existía.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D.</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Intercepción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Intercepción</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo dentro de tu alcance de arma inicia un movimiento para reposicionarse, flanquearte o cruzar el espacio que ocupas hacia otro objetivo o destino, realiza una T.A. con tu perfil de Intercepción contra la T.D. del objetivo.</p>
+          <p>Si tu T.A. es igual o mayor que su T.D., el movimiento no completa: el objetivo queda detenido dentro de tu espacio.</p>
+          <p>Si tu T.A. es menor que su T.D., el movimiento completa normalmente.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-la-base-que-falta">
+        <header class="card-header">
+          <p class="origin">Reactivo - Ataque</p>
+          <h1>La Base Que Falta</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Cuando el pie busca apoyo, la garra ya lo está esperando.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Interrupción</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interrupción</span>
+          <span>Desequilibrado</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un enemigo dentro de tu alcance comienza una acción de ataque, realiza una T.A. con tu perfil de Interrupción. Esta tirada reemplaza tu T.D. Compara tu T.A. con la T.A. del atacante.</p>
+          <p>Si tu T.A. es igual o mayor, la acción falla y resuelves tu T.I. normalmente. El atacante realiza una T.R. (Alteraciones) contra Desequilibrado: si falla, queda Desequilibrado a la severidad correspondiente a tu rango.</p>
+          <p>Si tu T.A. es menor, la interrupción falla y la acción resuelve como si tu T.D. hubiera fallado.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-la-carga-que-no-acaba">
+        <header class="card-header">
+          <p class="origin">Pasivo - Resistencia</p>
+          <h1>La Carga Que No Acaba</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La práctica no vacía la carga. Agranda lo que la carga.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Meditación (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Meditación</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Tu Aguante aumenta de forma permanente en un valor igual a tu rango en Meditación. Recalcula los umbrales de Fatiga con este nuevo valor. Si tu rango en Meditación cae por debajo de Novato.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-la-costura-que-cede">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>La Costura Que Cede</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La armadura recuerda el lugar. El cuerpo todavía no lo sabe.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Ruptura</li>
+            <li>El objetivo debe llevar armadura en la zona declarada</li>
+            <li>El usuario debe haber leído esa zona — por contacto previo, observación directa, o conocimiento acumulado</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ruptura</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Declara una zona de armadura en el objetivo. Realiza una T.A. con tu perfil de Ruptura contra el objetivo. Si el ataque impacta, resuelve tu T.I. normalmente.</p>
+          <p>Además, la armadura en esa zona queda estructuralmente fallada: su contribución de Bloqueo en esa zona se reduce en un valor igual a tu rango de competencia en el arma usada por el resto del encuentro.</p>
+          <p>Si el objetivo no lleva armadura en la zona declarada, la técnica no puede ser usada contra esa zona.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-la-grieta-que-ya-aparecio-antes">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>La Grieta Que Ya Apareció Antes</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La grieta ya estuvo aquí. Solo hay que saber dónde.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Rango Sensorial</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Historia)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>2</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Historia (Rango Novato o superior)</li>
+            <li>La situación, método o patrón que enfrentás debe tener un análogo posible en la experiencia acumulada del personaje</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Historia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza T.E. (Historia). Si tienes éxito, el Narrador declara un punto de quiebre. Mientras esté activo, recibes un bonificador igual a tu rango de Historia en las tiradas indicadas. Termina cuando el punto de quiebre deja de aplicar o es destruido.</p>
+          <table class="mini-table">
+            <tr><th scope="row">1</th><td>Historia → T.D.</td></tr>
+            <tr><th scope="row">2</th><td>+ T.A.</td></tr>
+            <tr><th scope="row">3</th><td>+ T.E.</td></tr>
+            <tr><th scope="row">4</th><td>+ T.R.</td></tr>
+            <tr><th scope="row">5</th><td>+1 dado del arma (T.I.)</td></tr>
+            <tr><th scope="row">6</th><td>crítico en máx − 1</td></tr>
+          </table>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-la-linea-que-no-se-rompe">
+        <header class="card-header">
+          <p class="origin">Reactivo - Utilidad</p>
+          <h1>La Línea Que No Se Rompe</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No es que no llegó. Es que llegó y no bastó.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Enfoque (Rango Novato o superior)</li>
+            <li>Debes estar manteniendo una Postura activa o una técnica con una condición de terminación definida</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Enfoque</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Cuando un evento activara la condición de terminación de una Postura activa o técnica que estés manteniendo, puedes activar esta técnica como respuesta. El evento interrumpidor se resuelve con normalidad — recibes el impacto, efecto o alteración — pero la técnica o Postura que estabas manteniendo no termina.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-la-masa-continua">
+        <header class="card-header">
+          <p class="origin">Activo - Ataque</p>
+          <h1>La Masa Continúa</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>La masa no negocia con lo que encuentra.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D. / T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>T.I.</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Impacto</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Impacto</span>
+          <span>Derribado</span>
+          <span>Hereda Efectos</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Impacto. Si impacta, resuelve la T.I. normalmente. El objetivo realiza una T.R. (Alteraciones) contra Derribado: si falla, queda Derribado a la severidad correspondiente a tu rango.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-shield" data-card-id="drakkai-la-posicion-que-se-hunde">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad · Postura</p>
+          <h1>La Posición Que Se Hunde</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Lo que intenta moverla se convierte en razón para quedarse.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Bastión</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Bastión</span>
+          <span>Postura</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Mientras la postura esté activa, cada vez que resuelvas una T.D. o una T.R. (Alteraciones) desde la posición mantenida, recibes +1 a T.D. y T.R. (Alteraciones) posteriores mientras permanezcas en ella. Este bonificador se acumula con cada resolución, hasta un máximo igual al doble de tu rango de competencia. Al terminar la postura, el bonificador acumulado se reinicia.</p>
+          <p>Puedes atacar, usar técnicas y realizar cualquier otra acción sin romper la postura.</p>
+          <p>La postura termina si te desplazas voluntariamente o si un efecto te fuerza a abandonar la posición.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-weapon" data-card-id="drakkai-la-vuelta-que-suelta">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>La Vuelta Que Suelta</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>No se arranca. Se convence al ángulo de que es imposible.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Alcance del arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>1 Criatura</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>T.D. / T.R. (Alteraciones)</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Perfil de arma: Torsión</li>
+            <li>El objetivo debe estar sosteniendo un arma u objeto con una mano o extremidad dentro del alcance</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Torsión</span>
+          <span>Desarmado</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.A. con tu perfil de Torsión. Si impacta, el objetivo realiza una T.R. (Alteraciones) contra Desarmado: si falla, queda Desarmado a la severidad correspondiente a tu rango.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-lo-que-este-lugar-recuerda">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Lo Que Este Lugar Recuerda</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Lo que caminó aquí no se fue del todo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E. (Rastreo)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Rastreo (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Rastreo</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.E. (Rastreo). Con éxito, el Narrador declara una cantidad de lecturas de este espacio de la siguiente lista igual a tu <strong>Rango de competencia</strong> (mínimo 1):</p>
+          <table class="mini-table">
+            <tr><th scope="row">a</th><td>Ruta usada regularmente en este espacio</td></tr>
+            <tr><th scope="row">b</th><td>Sección evitada y su causa concreta</td></tr>
+            <tr><th scope="row">c</th><td>Si el paso más reciente fue único o habitual</td></tr>
+            <tr><th scope="row">d</th><td>Dirección general del paso más reciente</td></tr>
+          </table>
+          <p>Inmediatamente después, desplázate hasta tu Velocidad de Movimiento.</p>
+        </section>
+      </article>
+        <article class="tech-card spectrum-specialization" data-card-id="drakkai-lo-que-se-conoce-no-sorprende">
+        <header class="card-header">
+          <p class="origin">Pasivo - Resistencia</p>
+          <h1>Lo Que Se Conoce No Sorprende</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Lo que ya se vio no destruye de la misma forma.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Tú</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Competencia: Taumaturgia (Rango Novato o superior)</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Taumaturgia</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Tu Cordura aumenta de forma permanente en un valor igual a tu rango en Taumaturgia. Recalcula los umbrales de Disonancia con este nuevo valor. Si tu rango en Taumaturgia cae por debajo de Novato.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card spectrum-resistance" data-card-id="drakkai-magnetorrecepcion">
+        <header class="card-header">
+          <p class="origin">Activo - Utilidad</p>
+          <h1>Magnetorrecepción</h1>
+          <p class="subtitle">Rango Novato</p>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>El campo no miente. Solo espera a que alguien aprenda a escucharlo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>Circular 15 m</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Permanente</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.C. (Sabiduría)</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>2</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Especie: Drak'kai.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Drak'kai</span>
+          <span>Detección</span>
+          <span>Oculto</span>
+        </section>
+
+<section class="effect">
+          <h2>Efecto</h2>
+          <p>Realiza una T.C. (Sabiduría) contra un umbral fijado por las condiciones del entorno. Con éxito, conoces la posición exacta de todas las criaturas dentro del área con firma biomagnética activa o masa metálica significativa, independientemente de visibilidad, oscuridad, cobertura o estado Oculto. Las criaturas dentro del área no pueden establecer ni mantener el estado Oculto contra ti. No puedes ser sorprendido por criaturas dentro del área. El estado termina si quedas Inconsciente o lo finalizas voluntariamente.</p>
+        </section>
+      </article>
+    </div>
+</body>
+</html>

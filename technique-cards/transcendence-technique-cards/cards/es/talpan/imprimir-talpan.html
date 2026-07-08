@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Talpan</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card spectrum-utility" data-card-id="talpan-torax-de-forja">
+      <header class="card-header">
+        <p class="origin">Reacción - Utilidad</p>
+        <h1>Tórax de Forja</h1>
+        <p class="subtitle">Rango Novato</p>
+      </header>
+
+      <section class="flavor-text" aria-label="Texto de ambientación">
+        <p>El fuego de la fragua no te asfixia, te limpia.</p>
+      </section>
+
+      <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+        <div class="stat-cell--long"><svg>
+            <use href="#icon-range"></use>
+          </svg><span>Rango</span><strong>Tú</strong></div>
+        <div><svg>
+            <use href="#icon-area"></use>
+          </svg><span>Área</span><strong>—</strong></div>
+        <div class="stat-cell--long"><svg>
+            <use href="#icon-duration"></use>
+          </svg><span>Duración</span><strong>Instantáneo</strong></div>
+        <div><svg>
+            <use href="#icon-attack"></use>
+          </svg><span>Tirada</span><strong>T.C. (Tenacidad)</strong></div>
+        <div><svg>
+            <use href="#icon-attack"></use>
+          </svg><span>Salvación</span><strong>—</strong></div>
+        <div><svg>
+            <use href="#icon-impact"></use>
+          </svg><span>Impacto</span><strong>—</strong></div>
+        <div><svg>
+            <use href="#icon-rhythm"></use>
+          </svg><span>Ritmo</span><strong>0</strong></div>
+        <div><svg>
+            <use href="#icon-attrition"></use>
+          </svg><span>Desgaste</span><strong>1</strong></div>
+      </section>
+
+      <section class="requirements">
+        <h2>Requisitos</h2>
+        <ul>
+          <li>Especie: Talpán</li>
+          <li>Fallas una T.R. contra la alteración de Asfixiado o frente a un Veneno o Infección respiratoria.</li>
+        </ul>
+      </section>
+
+      <section class="tag-bar" aria-label="Keywords">
+        <span>Talpán</span>
+        <span>Tenacidad</span>
+      </section>
+
+      <section class="effect">
+        <h2>Efecto</h2>
+        <p>Tus pulmones purgan la toxina. Realiza de inmediato una T.C. de Tenacidad contra la Dificultad del agravio que acabas de fallar.</p>
+        <p>Si la superas, tu biología destruye la sustancia y anulas el daño o la alteración por completo.</p>
+      </section>
+    </article>
+    </div>
+</body>
+</html>
