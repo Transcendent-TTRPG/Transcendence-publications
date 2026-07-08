@@ -166,7 +166,7 @@ La distancia base proviene de la velocidad de la especie del personaje. El terre
 | Condición | Efecto en la distancia |
 | --- | --- |
 | Terreno difícil | Velocidad a la mitad |
-| Reptar | Velocidad a la mitad |
+| Arrastrarse | Velocidad a la mitad |
 | Correr | Velocidad al doble |
 
 Nadar, trepar y saltar forman parte del Movimiento cuando se usan para desplazarse. Cada uno puede requerir una Tirada de Especialización apropiada: **Nadar**, **Trepar** o **Saltar**.
