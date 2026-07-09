@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Impresión - Acciones Base (x3)</title>
+    <link rel="stylesheet" href="../../../styles/technique-cards.css">
+    <style>
+        @media print {
+            @page { size: letter; margin: 0; }
+            body { background: none; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .print-page {
+                width: 215.9mm;
+                height: 279.4mm;
+                padding-top: 10mm;
+                padding-left: 0.95mm;
+                display: grid;
+                grid-template-columns: repeat(3, 70mm);
+                grid-template-rows: repeat(2, 125mm);
+                gap: 2mm; 
+                page-break-after: always;
+                box-sizing: border-box;
+            }
+            .print-page:last-child {
+                page-break-after: auto;
+            }
+            .technique-card {
+                box-shadow: none !important;
+                border: 1px dotted #ccc;
+                margin: 0;
+            }
+        }
+        body { background: #e5e5e5; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .print-page {
+            background: white;
+            width: 215.9mm;
+            height: 279.4mm;
+            padding-top: 10mm;
+            padding-left: 0.95mm;
+            margin-bottom: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 70mm);
+            grid-template-rows: repeat(2, 125mm);
+            gap: 2mm;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .technique-card { border: 1px dotted #ccc; }
+    </style>
+</head>
+<body>
+    <div class="print-page">
+        <article class="tech-card" data-card-id="base-ataque-dos-manos">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Dos Manos</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Comprometer todo el torque corporal para quebrar blindajes.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>7</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma usando ambas manos libremente.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Pesado</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con un arma de contundencia brutal o de gran tamaño.</p>
+          <p>El daño masivo de estas herramientas compensa el riesgo de quedar expuesto. Al exigir el compromiso de todo tu peso, te retrasas significativamente en la línea temporal, volviendo a actuar más tarde que si hicieras otros ataques base.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ataque-una-mano">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Una Mano</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Versatilidad letal para dejar opciones abiertas.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma de una mano.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Versátil</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con una herramienta rápida y de corto alcance, ideal para combates cerrados.</p>
+          <p>Este ataque sacrifica peso de impacto a cambio de dejar tu otra mano libre para defender, empuñar un escudo, o interactuar ágilmente con tu entorno.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-dos-armas">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Combate con Dos Armas</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un torbellino de ataques coordinados a costa del desgaste.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A. + T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>8</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma auxiliar en cada mano (incluyendo armas anatómicas veloces).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Cadena</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Permite encadenar ataques dentro de una misma activación, dependiendo de tu coordinación bajo presión:</p>
+          <table class="mini-table">
+            <tr><th>Paso 1</th><td>Realiza una <strong>T.A. inicial</strong> con la mano principal.</td></tr>
+            <tr><th>Paso 2</th><td>Realiza una <strong>T.E. de Destreza</strong> contra la T.D.</td></tr>
+            <tr><th>Paso 3</th><td>Si superas, ganas <strong>+1 ataque</strong> por cada 2 pts de Destreza (mín. 1).</td></tr>
+            <tr><th>Paso 4</th><td>Los ataques adicionales alternan obligatoriamente entre ambas manos.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-interactuar">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Interactuar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Intervenciones físicas breves que exigen atención.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Toque</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interacción</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Se usa para intervenciones que no son ataques ni movimiento:</p>
+          <table class="mini-table">
+            <tr><th>Manejo</th><td>Tomar un objeto del suelo o guardarlo.</td></tr>
+            <tr><th>Mecanismos</th><td>Abrir o cerrar un mecanismo, puerta o válvula.</td></tr>
+            <tr><th>Residuos</th><td>Limpiar un residuo u obstrucción brevemente.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-movimiento">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Movimiento</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un desplazamiento deliberado dentro del caos.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Velocidad</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Desplazamiento</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Avanzas, retrocedes, flanqueas o alcanzas cobertura. La distancia máxima es tu Velocidad. El terreno no cambia el costo de ritmo, sino la distancia avanzada.</p>
+          <table class="mini-table">
+            <tr><th>Terreno difícil</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Arrastrarse</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Correr</th><td>Velocidad al doble.</td></tr>
+          </table>
+          <p>Nadar, trepar o saltar forman parte del Movimiento y pueden requerir una Tirada de Especialización apropiada si hay riesgo.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ocultarse">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ocultarse</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aprovechar el caos ambiental para fundirte con las sombras.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Mantenida</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>No estar siendo observado claramente (usar Cobertura, Visibilidad Reducida o distracciones).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Sigilo</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Si la oportunidad lo permite, realizas una <strong>Tirada de Especialización</strong> (usualmente Sigilo o Supervivencia) enfrentada contra la Percepción del enemigo o la dificultad del entorno.</p>
+          <p>Si superas, obtienes el estado <strong>Oculto</strong>. Un enemigo no puede fijarte como objetivo directo de ataques mientras mantengas este estado.</p>
+          <p>Atacar, correr por campo abierto o interactuar ruidosamente compromete tu estado Oculto y permite nuevas tiradas de detección.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card" data-card-id="base-soltar">
+        <header class="card-header">
+          <p class="origin">Acción Gratuita</p>
+          <h1>Soltar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Dejar caer el peso muerto para reaccionar a tiempo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>El objeto no debe estar envuelto en un forcejeo activo o bloqueo mecánico.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Manipulación</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Simplemente dejas caer al suelo un objeto o arma que sostienes. Esta acción es tan breve que no consume tiempo táctico.</p>
+          <p>Si el objeto es parte activa de un agarre, combate cuerpo a cuerpo de resistencia o un mecanismo que requiere fuerza para desengancharse, se considera una acción de <strong>Interactuar</strong>.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-usar-especializacion">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Usar Especialización</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aplicar entrenamiento profesional en medio de la carnicería.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Variable</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Entrenamiento</span>
+          <span>Procedural</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Representa aplicar una habilidad entrenada bajo presión táctica. Ejemplos:</p>
+          <table class="mini-table">
+            <tr><th>Tecnología</th><td>Interpretar inscripciones o lecturas antes de un desastre.</td></tr>
+            <tr><th>Medicina</th><td>Identificar toxinas o aplicar tratamientos rápidos.</td></tr>
+            <tr><th>Anatomía</th><td>Deducir vulnerabilidades físicas o estructurales.</td></tr>
+          </table>
+          <p>Donde una Especialización abre una posibilidad, su éxito dictamina el resultado práctico. Tratamientos técnicos más lentos pueden tener un ritmo mayor asignado por el Narrador.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ataque-dos-manos">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Dos Manos</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Comprometer todo el torque corporal para quebrar blindajes.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>7</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma usando ambas manos libremente.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Pesado</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con un arma de contundencia brutal o de gran tamaño.</p>
+          <p>El daño masivo de estas herramientas compensa el riesgo de quedar expuesto. Al exigir el compromiso de todo tu peso, te retrasas significativamente en la línea temporal, volviendo a actuar más tarde que si hicieras otros ataques base.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ataque-una-mano">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Una Mano</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Versatilidad letal para dejar opciones abiertas.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma de una mano.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Versátil</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con una herramienta rápida y de corto alcance, ideal para combates cerrados.</p>
+          <p>Este ataque sacrifica peso de impacto a cambio de dejar tu otra mano libre para defender, empuñar un escudo, o interactuar ágilmente con tu entorno.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-dos-armas">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Combate con Dos Armas</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un torbellino de ataques coordinados a costa del desgaste.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A. + T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>8</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma auxiliar en cada mano (incluyendo armas anatómicas veloces).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Cadena</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Permite encadenar ataques dentro de una misma activación, dependiendo de tu coordinación bajo presión:</p>
+          <table class="mini-table">
+            <tr><th>Paso 1</th><td>Realiza una <strong>T.A. inicial</strong> con la mano principal.</td></tr>
+            <tr><th>Paso 2</th><td>Realiza una <strong>T.E. de Destreza</strong> contra la T.D.</td></tr>
+            <tr><th>Paso 3</th><td>Si superas, ganas <strong>+1 ataque</strong> por cada 2 pts de Destreza (mín. 1).</td></tr>
+            <tr><th>Paso 4</th><td>Los ataques adicionales alternan obligatoriamente entre ambas manos.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-interactuar">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Interactuar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Intervenciones físicas breves que exigen atención.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Toque</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interacción</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Se usa para intervenciones que no son ataques ni movimiento:</p>
+          <table class="mini-table">
+            <tr><th>Manejo</th><td>Tomar un objeto del suelo o guardarlo.</td></tr>
+            <tr><th>Mecanismos</th><td>Abrir o cerrar un mecanismo, puerta o válvula.</td></tr>
+            <tr><th>Residuos</th><td>Limpiar un residuo u obstrucción brevemente.</td></tr>
+          </table>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card" data-card-id="base-movimiento">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Movimiento</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un desplazamiento deliberado dentro del caos.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Velocidad</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Desplazamiento</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Avanzas, retrocedes, flanqueas o alcanzas cobertura. La distancia máxima es tu Velocidad. El terreno no cambia el costo de ritmo, sino la distancia avanzada.</p>
+          <table class="mini-table">
+            <tr><th>Terreno difícil</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Arrastrarse</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Correr</th><td>Velocidad al doble.</td></tr>
+          </table>
+          <p>Nadar, trepar o saltar forman parte del Movimiento y pueden requerir una Tirada de Especialización apropiada si hay riesgo.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ocultarse">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ocultarse</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aprovechar el caos ambiental para fundirte con las sombras.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Mantenida</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>No estar siendo observado claramente (usar Cobertura, Visibilidad Reducida o distracciones).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Sigilo</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Si la oportunidad lo permite, realizas una <strong>Tirada de Especialización</strong> (usualmente Sigilo o Supervivencia) enfrentada contra la Percepción del enemigo o la dificultad del entorno.</p>
+          <p>Si superas, obtienes el estado <strong>Oculto</strong>. Un enemigo no puede fijarte como objetivo directo de ataques mientras mantengas este estado.</p>
+          <p>Atacar, correr por campo abierto o interactuar ruidosamente compromete tu estado Oculto y permite nuevas tiradas de detección.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-soltar">
+        <header class="card-header">
+          <p class="origin">Acción Gratuita</p>
+          <h1>Soltar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Dejar caer el peso muerto para reaccionar a tiempo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>El objeto no debe estar envuelto en un forcejeo activo o bloqueo mecánico.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Manipulación</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Simplemente dejas caer al suelo un objeto o arma que sostienes. Esta acción es tan breve que no consume tiempo táctico.</p>
+          <p>Si el objeto es parte activa de un agarre, combate cuerpo a cuerpo de resistencia o un mecanismo que requiere fuerza para desengancharse, se considera una acción de <strong>Interactuar</strong>.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-usar-especializacion">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Usar Especialización</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aplicar entrenamiento profesional en medio de la carnicería.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Variable</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Entrenamiento</span>
+          <span>Procedural</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Representa aplicar una habilidad entrenada bajo presión táctica. Ejemplos:</p>
+          <table class="mini-table">
+            <tr><th>Tecnología</th><td>Interpretar inscripciones o lecturas antes de un desastre.</td></tr>
+            <tr><th>Medicina</th><td>Identificar toxinas o aplicar tratamientos rápidos.</td></tr>
+            <tr><th>Anatomía</th><td>Deducir vulnerabilidades físicas o estructurales.</td></tr>
+          </table>
+          <p>Donde una Especialización abre una posibilidad, su éxito dictamina el resultado práctico. Tratamientos técnicos más lentos pueden tener un ritmo mayor asignado por el Narrador.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ataque-dos-manos">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Dos Manos</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Comprometer todo el torque corporal para quebrar blindajes.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>7</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma usando ambas manos libremente.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Pesado</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con un arma de contundencia brutal o de gran tamaño.</p>
+          <p>El daño masivo de estas herramientas compensa el riesgo de quedar expuesto. Al exigir el compromiso de todo tu peso, te retrasas significativamente en la línea temporal, volviendo a actuar más tarde que si hicieras otros ataques base.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ataque-una-mano">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ataque con Arma a Una Mano</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Versatilidad letal para dejar opciones abiertas.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma de una mano.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Versátil</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Realizas una Tirada de Ataque estándar con una herramienta rápida y de corto alcance, ideal para combates cerrados.</p>
+          <p>Este ataque sacrifica peso de impacto a cambio de dejar tu otra mano libre para defender, empuñar un escudo, o interactuar ágilmente con tu entorno.</p>
+        </section>
+      </article>
+    </div>
+    <div class="print-page">
+        <article class="tech-card" data-card-id="base-dos-armas">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Combate con Dos Armas</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un torbellino de ataques coordinados a costa del desgaste.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.A. + T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>Arma</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>8</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Empuñar un arma auxiliar en cada mano (incluyendo armas anatómicas veloces).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Ataque</span>
+          <span>Cadena</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Permite encadenar ataques dentro de una misma activación, dependiendo de tu coordinación bajo presión:</p>
+          <table class="mini-table">
+            <tr><th>Paso 1</th><td>Realiza una <strong>T.A. inicial</strong> con la mano principal.</td></tr>
+            <tr><th>Paso 2</th><td>Realiza una <strong>T.E. de Destreza</strong> contra la T.D.</td></tr>
+            <tr><th>Paso 3</th><td>Si superas, ganas <strong>+1 ataque</strong> por cada 2 pts de Destreza (mín. 1).</td></tr>
+            <tr><th>Paso 4</th><td>Los ataques adicionales alternan obligatoriamente entre ambas manos.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-interactuar">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Interactuar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Intervenciones físicas breves que exigen atención.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Toque</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>3</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Interacción</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Se usa para intervenciones que no son ataques ni movimiento:</p>
+          <table class="mini-table">
+            <tr><th>Manejo</th><td>Tomar un objeto del suelo o guardarlo.</td></tr>
+            <tr><th>Mecanismos</th><td>Abrir o cerrar un mecanismo, puerta o válvula.</td></tr>
+            <tr><th>Residuos</th><td>Limpiar un residuo u obstrucción brevemente.</td></tr>
+          </table>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-movimiento">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Movimiento</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Un desplazamiento deliberado dentro del caos.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Velocidad</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>5</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Desplazamiento</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Avanzas, retrocedes, flanqueas o alcanzas cobertura. La distancia máxima es tu Velocidad. El terreno no cambia el costo de ritmo, sino la distancia avanzada.</p>
+          <table class="mini-table">
+            <tr><th>Terreno difícil</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Arrastrarse</th><td>Velocidad a la mitad.</td></tr>
+            <tr><th>Correr</th><td>Velocidad al doble.</td></tr>
+          </table>
+          <p>Nadar, trepar o saltar forman parte del Movimiento y pueden requerir una Tirada de Especialización apropiada si hay riesgo.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-ocultarse">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Ocultarse</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aprovechar el caos ambiental para fundirte con las sombras.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Mantenida</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>6</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>No estar siendo observado claramente (usar Cobertura, Visibilidad Reducida o distracciones).</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Sigilo</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Si la oportunidad lo permite, realizas una <strong>Tirada de Especialización</strong> (usualmente Sigilo o Supervivencia) enfrentada contra la Percepción del enemigo o la dificultad del entorno.</p>
+          <p>Si superas, obtienes el estado <strong>Oculto</strong>. Un enemigo no puede fijarte como objetivo directo de ataques mientras mantengas este estado.</p>
+          <p>Atacar, correr por campo abierto o interactuar ruidosamente compromete tu estado Oculto y permite nuevas tiradas de detección.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-soltar">
+        <header class="card-header">
+          <p class="origin">Acción Gratuita</p>
+          <h1>Soltar</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Dejar caer el peso muerto para reaccionar a tiempo.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Personal</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>—</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>0</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>0</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>El objeto no debe estar envuelto en un forcejeo activo o bloqueo mecánico.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Manipulación</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Simplemente dejas caer al suelo un objeto o arma que sostienes. Esta acción es tan breve que no consume tiempo táctico.</p>
+          <p>Si el objeto es parte activa de un agarre, combate cuerpo a cuerpo de resistencia o un mecanismo que requiere fuerza para desengancharse, se considera una acción de <strong>Interactuar</strong>.</p>
+        </section>
+      </article>
+        <article class="tech-card" data-card-id="base-usar-especializacion">
+        <header class="card-header">
+          <p class="origin">Acción Activa</p>
+          <h1>Usar Especialización</h1>
+        </header>
+
+        <section class="flavor-text" aria-label="Texto de ambientación">
+          <p>Aplicar entrenamiento profesional en medio de la carnicería.</p>
+        </section>
+
+        <section class="stat-grid stat-grid--full-last-row" aria-label="Datos mecánicos">
+          <div class="stat-cell--long"><svg><use href="#icon-range"></use></svg><span>Rango</span><strong>Variable</strong></div>
+          <div><svg><use href="#icon-area"></use></svg><span>Área</span><strong>—</strong></div>
+          <div class="stat-cell--long"><svg><use href="#icon-duration"></use></svg><span>Duración</span><strong>Instantáneo</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Tirada</span><strong>T.E.</strong></div>
+          <div><svg><use href="#icon-attack"></use></svg><span>Salvación</span><strong>—</strong></div>
+          <div><svg><use href="#icon-impact"></use></svg><span>Impacto</span><strong>—</strong></div>
+          <div><svg><use href="#icon-rhythm"></use></svg><span>Ritmo</span><strong>4</strong></div>
+          <div><svg><use href="#icon-attrition"></use></svg><span>Desgaste</span><strong>1</strong></div>
+        </section>
+
+        <section class="requirements">
+          <h2>Requisitos</h2>
+          <ul>
+            <li>Ninguno.</li>
+          </ul>
+        </section>
+
+        <section class="tag-bar" aria-label="Keywords">
+          <span>Entrenamiento</span>
+          <span>Procedural</span>
+        </section>
+
+        <section class="effect">
+          <h2>Efecto</h2>
+          <p>Representa aplicar una habilidad entrenada bajo presión táctica. Ejemplos:</p>
+          <table class="mini-table">
+            <tr><th>Tecnología</th><td>Interpretar inscripciones o lecturas antes de un desastre.</td></tr>
+            <tr><th>Medicina</th><td>Identificar toxinas o aplicar tratamientos rápidos.</td></tr>
+            <tr><th>Anatomía</th><td>Deducir vulnerabilidades físicas o estructurales.</td></tr>
+          </table>
+          <p>Donde una Especialización abre una posibilidad, su éxito dictamina el resultado práctico. Tratamientos técnicos más lentos pueden tener un ritmo mayor asignado por el Narrador.</p>
+        </section>
+      </article>
+    </div>
+</body>
+</html>
