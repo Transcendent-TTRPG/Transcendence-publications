@@ -52,7 +52,7 @@ body {
   padding: 0.35in 0.44in;
   display: grid;
   grid-template-columns: repeat(2, 70mm);
-  grid-auto-rows: 120mm;
+  grid-auto-rows: 125mm;
   gap: 6mm 8mm;
   justify-content: center;
   align-content: start;
@@ -80,13 +80,13 @@ body {
   width: auto;
   min-height: auto;
   grid-template-columns: 70mm;
-  grid-auto-rows: 120mm;
+  grid-auto-rows: 125mm;
 }
 
 .tech-card {
   position: relative;
   width: 70mm;
-  height: 120mm;
+  height: 125mm;
   padding: 4.5mm;
   display: grid;
   grid-template-rows: auto auto auto auto auto 1fr;
