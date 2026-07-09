@@ -30,7 +30,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| `—` | `—` | `2` | `3` |
+| `—` | `—` | `2` | `1` |
 
 ## Requisitos
 
