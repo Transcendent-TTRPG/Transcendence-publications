@@ -66,6 +66,6 @@ Mandíbulas retráctiles expuestas solo al agarrar a un objetivo. Un ataque que 
 | --- | --- | :---: | --- | :---: | --- | --- |
 | Embestida de Caída | Caparazón | 6 | 3 mt (Vertical) | Fuerza | Fuerza | Se deja caer desde el techo. Si impacta: Daño y el objetivo realiza T.R. Física o queda *Derribado*. Si falla, la garrapata cae al suelo perdiendo su Rasgo. |
 | Vómito Corrosivo | Saco de Tinta | 4 | Cono 2m | Agilidad | Tenacidad | Expulsa a presión sus fluidos ácidos. Todos en el área sufren daño y deben superar una T.R. Alteraciones o quedar **Corroídos**. |
-| Drenaje Ácido | Probóscide | 5 | 1 mt / 1 objetivo | Agilidad | Tenacidad | Drena sangre e inyecta un anticoagulante. Si el objetivo está Derribado/Agarrado, ataca con Ventaja de Ejecución. Si conecta por 3 o más: inflige el Veneno **Inhibido** (Leve). |
+| Drenaje Ácido | Probóscide | 5 | 1 mt / 1 objetivo | Agilidad | Tenacidad | Drena sangre e inyecta un anticoagulante. Si el objetivo está Derribado/Agarrado, ataca con Ventaja de Ejecución. Si el ataque impacta, el objetivo debe superar una T.R. contra Veneno o sufrir el Veneno **Inhibido** (Leve). |
 
 </div>
