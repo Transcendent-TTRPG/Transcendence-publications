@@ -1,5 +1,5 @@
 ---
-title: "Garrapata Abisal (Sifón de Cadena)"
+title: "Garrapata Abisal"
 type: bestiary
 content_kind: creature
 writing_mode: rules
@@ -12,12 +12,10 @@ related:
   - core-books/transcendence-bestiary/es/06-bestiario.md
 ---
 
-# Garrapata Abisal (Sifón de Cadena)
-
 <div class="monster-block" markdown="1">
 
 <div class="monster-header">
-<h2 class="monster-name">Garrapata Abisal (Sifón de Cadena)</h2>
+<h2 class="monster-name">Garrapata Abisal</h2>
 <div class="monster-meta">NR 1 · Rol: Golpeador/Emboscador · Tamaño: Pequeño</div>
 </div>
 
@@ -67,6 +65,7 @@ Mandíbulas retráctiles expuestas solo al agarrar a un objetivo. Un ataque que 
 | Técnica | Ancla | Ritmo | Rango / Área | T.A. | T.I. | Efecto |
 | --- | --- | :---: | --- | :---: | --- | --- |
 | Embestida de Caída | Caparazón | 6 | 3 mt (Vertical) | Fuerza | Fuerza | Se deja caer desde el techo. Si impacta: Daño y el objetivo realiza T.R. Física o queda *Derribado*. Si falla, la garrapata cae al suelo perdiendo su Rasgo. |
+| Vómito Corrosivo | Saco de Tinta | 4 | Cono 2m | Agilidad | Tenacidad | Expulsa a presión sus fluidos ácidos. Todos en el área sufren daño y T.R. Alteraciones o quedan *Envenenados*. |
 | Drenaje Ácido | Probóscide | 5 | 1 mt / 1 objetivo | Agilidad | Tenacidad | Drena sangre e inyecta veneno. Si el objetivo está Derribado/Agarrado, ataca con Ventaja de Ejecución. Si conecta por 3 o más: inflige *Envenenado (Corrosivo)*. |
 
 </div>
