@@ -426,6 +426,7 @@ Si los personajes logran forzar la puerta, esta cederá con un quejido metálico
 ---
 
 # Módulo 02: La Nave de Drenaje (El Matadero de Tinta)
+![El Matadero de Tinta](../assets/maps/mapa_matadero_gran_escala.png)
 
 *Tercer segmento del módulo introductorio, Distrito Industrial. Diseñado para introducir la extracción de recursos y el combate táctico en terreno tridimensional.*
 
@@ -441,7 +442,6 @@ Antes de la llegada de la Aberración, esta monumental nave industrial funcionab
 *   **Iluminación:** Oscuridad casi total. Solo unas luces de emergencia rojas parpadeantes (estroboscópicas) a nivel del suelo, revelando el "bosque" de cadenas colgantes.
 
 ## 3. Estado Actual y Terreno
-![El Bosque de Cadenas](../assets/maps/mapa_bosque_cadenas.png)
 
 La inmensa sala se ha convertido en un laberinto vertical. Cientos de gruesas cadenas cuelgan del techo (15 metros de altura) oscureciendo la línea de visión a más de 5 metros (*Condición: Oculto/Visibilidad Reducida*). 
 Enganchados en estas cadenas hay cadáveres monstruosos de aberraciones gigantes. Esta es una **pista falsa** para crear paranoia: los cadáveres están deshidratados y no representan ninguna amenaza.
