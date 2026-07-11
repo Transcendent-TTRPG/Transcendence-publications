@@ -56,10 +56,15 @@ def create_matadero_map(output_path):
     ax.add_patch(entrance)
     ax.text(50, 15, "PUERTA HERMÉTICA\n(ACORDE HIDRÁULICO)", color="#ffffff", ha="center", va="center", fontsize=10, fontweight="bold", zorder=15)
     
-    # Exit (Escotilla hacia Anfiteatros)
-    exit_poly = Polygon([(45, 108), (55, 108), (55, 112), (45, 112)], facecolor=COLOR_HIGHLIGHT, alpha=0.5, zorder=2)
+    # Descent (Escotilla hacia Anfiteatros - Sótano)
+    exit_poly = Polygon([(40, 103), (60, 103), (60, 107), (40, 107)], facecolor="#a24545", alpha=0.8, zorder=2)
     ax.add_patch(exit_poly)
-    ax.text(50, 115, "ESCOTILLAS\n(AL NODO 03)", color="#ffffff", ha="center", va="center", fontsize=10, fontweight="bold", zorder=15)
+    ax.text(50, 105, "ESCOTILLAS\n(DESCENSO AL NODO 03)", color="#ffffff", ha="center", va="center", fontsize=9, fontweight="bold", zorder=15)
+
+    # Ascent (El Gran Montacargas hacia el Distrito Residencial)
+    elevator_poly = Polygon([(30, 108), (70, 108), (70, 118), (30, 118)], facecolor=COLOR_HIGHLIGHT, alpha=0.5, hatch='\\\\', zorder=2)
+    ax.add_patch(elevator_poly)
+    ax.text(50, 113, "EL GRAN MONTACARGAS\n(ASCENSO BLOQUEADO AL NODO 4)", color="#ffffff", ha="center", va="center", fontsize=10, fontweight="bold", zorder=15)
 
     # 4. Fosas Quirúrgicas / Filtros de Sangre (Lower Levels - Planta Baja)
     # Left Side
@@ -109,7 +114,7 @@ def create_matadero_map(output_path):
     
     ax.text(4, 16, "NIVEL 2: EL MATADERO DE TINTA", color="#ffffff", fontsize=14, fontweight="bold", zorder=16)
     ax.text(4, 13, "Mapa Topográfico de Referencia", color=COLOR_HIGHLIGHT, fontsize=10, fontstyle='italic', zorder=16)
-    ax.text(4, 9, "• Sin Cuadrícula Táctica (Escala Kilométrica)\n• Planta Alta: Cadenas y Pasarelas\n• Planta Baja: Drenaje Quirúrgico", color=COLOR_TEXT, fontsize=9, linespacing=1.5, zorder=16)
+    ax.text(4, 9, "• Sin Cuadrícula Táctica (Escala Kilométrica)\n• Planta Alta: Cadenas y Pasarelas\n• Planta Baja: Drenaje Quirúrgico\n• Ascenso Bloqueado: Montacargas Principal", color=COLOR_TEXT, fontsize=9, linespacing=1.5, zorder=16)
 
     # Final touches
     ax.axis('off')
