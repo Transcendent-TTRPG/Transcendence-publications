@@ -419,4 +419,51 @@ Si los personajes logran forzar la puerta, esta cederá con un quejido metálico
 
 > *"Se desploman en el suelo, rodeados por la oscuridad más absoluta y un abrumador olor a hierro y fluidos rancios. Han sobrevivido al nacimiento de la aberración y han escapado de la Zona Cero... pero al encender un farol químico encontrado en el suelo, la tenue luz azul revela dónde están. De los altos techos abovedados cuelgan miles de ganchos oxidados y cadenas manchadas de negro. Canales de drenaje recorren el suelo como venas vacías. Bienvenidos al Nodo 02: Los Mataderos de Tinta."*
 
-**FIN DEL MÓDULO 01**
+---
+
+# Módulo 02: La Nave de Drenaje (El Matadero de Tinta)
+
+*Tercer segmento del módulo introductorio, Distrito Industrial. Diseñado para introducir la extracción de recursos y el combate táctico en terreno tridimensional.*
+
+## 1. Contexto para el Narrador (Pasado y Propósito)
+
+Antes de la llegada de la Aberración, esta monumental nave industrial funcionaba como el principal "Matadero de Tinta" del distrito. Las bestias abisales y prisioneros políticos eran ingresados aquí, suspendidos de masivos ganchos neumáticos para drenar su sangre y fluidos exóticos. El material biológico se estabilizaba en soluciones alquímicas y se bombeaba hacia el Archivo Hemográfico o hacia las fosas de investigación. Cuando la catástrofe golpeó, el lugar fue abandonado en pánico. Los sistemas de enfriamiento quedaron atascados en máxima potencia y los especímenes colgados fueron olvidados, momificándose lentamente con los meses o años.
+
+## 2. Impresión Sensorial
+
+*   **Temperatura y Atmósfera:** Un frío penetrante y antinatural quema los pulmones. El aliento se vuelve vapor denso de inmediato. La sangre y el cieno traídos del Cráter comienzan a congelarse en la ropa de los personajes.
+*   **Olores:** El aire es estéril, con un denso trasfondo a amoniaco, óxido y sangre vieja cristalizada.
+*   **Sonidos:** El silencio ensordecedor tras cerrar la esclusa del Cráter. Solo se escucha el zumbido moribundo de un compresor de hielo a lo lejos, y el repiqueteo lento, rítmico y pesado de inmensas cadenas metálicas chocando suavemente impulsadas por corrientes de aire frío.
+*   **Iluminación:** Oscuridad casi total. Solo unas luces de emergencia rojas parpadeantes (estroboscópicas) a nivel del suelo, revelando el "bosque" de cadenas colgantes.
+
+## 3. Estado Actual y Terreno
+
+La inmensa sala se ha convertido en un laberinto vertical. Cientos de gruesas cadenas cuelgan del techo (15 metros de altura) oscureciendo la línea de visión a más de 5 metros (*Condición: Oculto/Visibilidad Reducida*). 
+Enganchados en estas cadenas hay cadáveres monstruosos de aberraciones gigantes. Esta es una **pista falsa** para crear paranoia: los cadáveres están deshidratados y no representan ninguna amenaza.
+En el centro de la sala, elevada por una pasarela metálica oxidada, se encuentra la **Cabina de Supervisión**.
+
+## 4. Desarrollo de la Escena (Fases)
+
+### Fase A: La Paranoia y el Hallazgo (Exploración)
+Los jugadores avanzan asustados por los monstruos gigantes colgados. Al llegar a la Cabina de Supervisión en el centro, encuentran el "Botín de Conocimiento":
+*   **Diarios de Operarios:** Detallan los protocolos de extracción. Explican que cortar mal una glándula causa un derrame tóxico (Riesgo de Infección/Veneno) y que los tejidos *Volátiles* deben guardarse inmediatamente en líquido estático o se pudren.
+*   **El Equipo:** Cajas metálicas selladas de la corporación Vesper. Contienen un **Kit de Extracción (Grado 1)** y un **Kit de Conservación (Grado 1)** con usos restantes.
+*   **Recetas Alquímicas:** Un manual deteriorado sobre cómo procesar glándulas de parásitos abisales para crear *Filtros Curativos Adrenales* o *Corrosivos para Armas*.
+
+### Fase B: El Detonante y la Emboscada (Combate)
+Mientras leen el equipo y entienden que las bestias colgadas están muy podridas para ser útiles, el Narrador pide una revisión pasiva.
+*   La sangre fresca de los jugadores (de sus heridas en el Cráter) gotea en la pasarela metálica.
+*   El repiqueteo de las cadenas en el techo deja de ser azaroso. Suena a decenas de patas escurriéndose por el metal hacia abajo.
+*   **El Combate:** Las verdaderas residentes despiertan. Las **Garrapatas Abisales** caen desde la oscuridad. Usan el entorno en 3D: se descuelgan, atacan, y usan las cadenas para ganar *Cobertura* natural, obligando a los jugadores a vigilar la altura, usar ataques de área o mecánicas de interrupción (ATB). *(Ver perfil completo en `transcendence-bestiary/es/07-garrapata-abisal.md`)*.
+
+### Fase C: La Cosecha (Tutorial de Extracción)
+Una vez derrotados los parásitos, el combate termina pero el trabajo logístico empieza. 
+*   El suelo está cubierto de cadáveres *frescos* de Garrapatas.
+*   **Práctica:** Los jugadores deben usar los Kits recién encontrados y aplicar *Medicina* o *Alquimia* para extraer los Sacos de Tinta Coagulada (Sensible) o caparazones (No Sensible).
+*   **Consecuencias en tiempo real:** Si alguien falla la extracción del saco, esta estalla (Tirada de Resistencia contra Veneno: *Escaldado*). Si tienen éxito, el Narrador activa el temporizador: *"El tejido está palpitando, es volátil. Tienes horas antes de que se pudra"*. Obligando al jugador a gastar inmediatamente un uso de su *Kit de Conservación* para estabilizar la muestra.
+
+## 5. Conexiones del Nodo
+*   **Hacia Atrás:** El Sumidero Quirúrgico (Nodo 1 - El Cráter). Imposible de retroceder, la esclusa está sellada para evitar el avance de los carroñeros del cráter.
+*   **Hacia Adelante:** Tras procesar el botín y cruzar el laberinto de cadenas de la nave, llegan a unas pesadas escotillas en el suelo que conducen a los niveles inferiores: **Los Anfiteatros de Escultura (Nodo 3)**, desde donde se escucha el eco de quejidos agonizantes (El encuentro con el Arquitecto Vesper).
+
+**FIN DEL MÓDULO 02**
