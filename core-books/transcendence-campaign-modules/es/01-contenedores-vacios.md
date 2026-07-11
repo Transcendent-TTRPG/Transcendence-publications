@@ -373,6 +373,7 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 *   **Conexiones:** Si bordean la pared este por esta ruta inferior, llegarán directamente a la *Entrada al Matadero*.
 
 #### B. El Puente de Hueso (La Ruta Superior)
+![El Puente de Hueso](../assets/maps/escena_puente_hueso.png)
 *   **El Propósito Original:** Los arquitectos Vesper son criaturas que odian el suelo y navegan principalmente por ecolocalización en espacios cerrados. Este inmenso puente de calcio no era solo una pasarela; era una red acústica. Al golpear las barandas de hueso poroso, las vibraciones resonaban de tal forma que los supervisores Vesper podían "ver" el estado de todos los contenedores colgantes sin descender.
 *   **El Estado Actual:** Tras la explosión de la Aberración, la inmensa viga central (del tamaño de un puente colgante moderno) está partida y al borde del colapso estructural. No tiene barandas de seguridad (los Vesper no las necesitaban) y está cubierta de sangre negra y resbaladiza.
 *   **Impresión Sensorial:** Un viento helado que corta la piel por la altitud. Un vacío absoluto bajo sus pies. El sonido de un crujido sordo constante de un material orgánico a punto de quebrarse.
@@ -380,6 +381,7 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 *   **Conexiones:** Atraviesa el abismo por el aire, conectando de forma directa y expuesta con las cornisas superiores de la *Entrada al Matadero*.
 
 #### C. El Cráter Central (El Epicentro)
+![El Cráter Central](../assets/maps/escena_crater_acido.png)
 *   **Impresión Sensorial:** Calor insoportable que irradia desde la piedra. Olor agrio a carne quemada, cobre y amoníaco. La única iluminación proviene del latido parpadeante de masas biológicas adheridas al suelo liso.
 *   **El Estado Actual:** Es el punto exacto donde la Aberración estalló de su crisálida. El suelo basáltico quedó liso y cristalizado por la inmensa explosión de presión térmica. En el centro exacto, yacen los cadáveres aplastados de la guardia de élite Vesper.
 *   **Peligros (Mecánica):** El suelo del cráter está tapizado por **Fragmentos Aberrantes (Parásitos)**. Estas horripilantes criaturas carnosas se desprendieron del cuerpo de la bestia masiva al nacer. Parecen sanguijuelas del tamaño de un perro, apenas móviles. No atacarán para matar, sino que actúan como una red nerviosa y de alarma. Si los jugadores los pisan o hacen vibrar el suelo cristalizado cerca de ellos, estallarán en un chillido químico que atraerá de inmediato a una jauría entera de Carroñeros Ciegos desde las sombras. *(Cruzar exige tiradas continuas y críticas de Sigilo y Acrobacias).*
@@ -391,6 +393,8 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 ### 3. El Umbral del Matadero (El Fin del Módulo)
 
 Sin importar qué ruta hayan tomado (y cuán heridos lleguen), el inmenso cráter termina abruptamente frente a un muro colosal de basalto tallado. Incrustada en la roca, se alza la **Puerta del Matadero de Tinta**: una estructura ciclópea de bronce ennegrecido y fémures entrelazados, sellada herméticamente.
+
+![La Puerta del Matadero](../assets/maps/escena_puerta_matadero.png)
 
 Aquí se desarrolla el último desafío del tutorial: **El Acorde Hidráulico** (Un puzzle de deducción bajo presión).
 A medida que los personajes se acercan a la puerta, el Narrador debe narrar cómo el eco de sus pasos, el olor de su sangre o simplemente su presencia atrae la atención de la jauría de Carroñeros Ciegos que patrullan el fondo del cráter. No es un combate que puedan ganar; es una avalancha biológica inminente. Tienen exactamente **3 Turnos de Error** para abrir la bóveda antes de ser devorados.
@@ -437,6 +441,7 @@ Antes de la llegada de la Aberración, esta monumental nave industrial funcionab
 *   **Iluminación:** Oscuridad casi total. Solo unas luces de emergencia rojas parpadeantes (estroboscópicas) a nivel del suelo, revelando el "bosque" de cadenas colgantes.
 
 ## 3. Estado Actual y Terreno
+![El Bosque de Cadenas](../assets/maps/mapa_bosque_cadenas.png)
 
 La inmensa sala se ha convertido en un laberinto vertical. Cientos de gruesas cadenas cuelgan del techo (15 metros de altura) oscureciendo la línea de visión a más de 5 metros (*Condición: Oculto/Visibilidad Reducida*). 
 Enganchados en estas cadenas hay cadáveres monstruosos de aberraciones gigantes. Esta es una **pista falsa** para crear paranoia: los cadáveres están deshidratados y no representan ninguna amenaza.
