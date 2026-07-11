@@ -51,7 +51,7 @@ Depredador parasitario del tamaño de un lobo mastín, con exoesqueleto oxidado 
 Placa dorsal hiper-densa. Si un ataque impacta esta zona, el daño se anula y el arma atacante sufre una T.R. de Ruptura o Desgaste Inmediato.
 
 **Saco de Tinta Coagulada** *(Botín/Sensible)* · Órgano · PV 12 · Bloqueo 1 · Dur 2
-Vientre hinchado y ácido. Vulnerable al daño perforante y cortante. Si explota, causa T.R. Veneno en 2 metros. Si se extrae post-mortem con éxito (*Medicina*), otorga material orgánico **Volátil** (Grado 1).
+Vientre hinchado y ácido. Vulnerable al daño perforante y cortante. Si explota, todos a 2 metros deben superar una T.R. contra Veneno o sufrir el Veneno **Escaldado** (Leve). Si se extrae post-mortem con éxito (*Medicina*), otorga material orgánico **Volátil** (Grado 1).
 
 **Probóscide** *(Núcleo)* · Apéndice · PV 10 · Bloqueo 0 · Dur 2
 Mandíbulas retráctiles expuestas solo al agarrar a un objetivo. Un ataque que destruya la probóscide causa fallo sistémico letal inmediato.
@@ -65,7 +65,7 @@ Mandíbulas retráctiles expuestas solo al agarrar a un objetivo. Un ataque que 
 | Técnica | Ancla | Ritmo | Rango / Área | T.A. | T.I. | Efecto |
 | --- | --- | :---: | --- | :---: | --- | --- |
 | Embestida de Caída | Caparazón | 6 | 3 mt (Vertical) | Fuerza | Fuerza | Se deja caer desde el techo. Si impacta: Daño y el objetivo realiza T.R. Física o queda *Derribado*. Si falla, la garrapata cae al suelo perdiendo su Rasgo. |
-| Vómito Corrosivo | Saco de Tinta | 4 | Cono 2m | Agilidad | Tenacidad | Expulsa a presión sus fluidos ácidos. Todos en el área sufren daño y T.R. Alteraciones o quedan *Envenenados*. |
-| Drenaje Ácido | Probóscide | 5 | 1 mt / 1 objetivo | Agilidad | Tenacidad | Drena sangre e inyecta veneno. Si el objetivo está Derribado/Agarrado, ataca con Ventaja de Ejecución. Si conecta por 3 o más: inflige *Envenenado (Corrosivo)*. |
+| Vómito Corrosivo | Saco de Tinta | 4 | Cono 2m | Agilidad | Tenacidad | Expulsa a presión sus fluidos ácidos. Todos en el área sufren daño y deben superar una T.R. Alteraciones o quedar **Corroídos**. |
+| Drenaje Ácido | Probóscide | 5 | 1 mt / 1 objetivo | Agilidad | Tenacidad | Drena sangre e inyecta un anticoagulante. Si el objetivo está Derribado/Agarrado, ataca con Ventaja de Ejecución. Si conecta por 3 o más: inflige el Veneno **Inhibido** (Leve). |
 
 </div>
