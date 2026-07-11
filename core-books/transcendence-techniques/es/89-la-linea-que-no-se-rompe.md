@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Tú | Instantáneo | — |
+| Personal | Tú | Instantáneo | T.E. (Enfoque) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -42,4 +42,6 @@ related:
 
 ## Efecto
 
-Cuando un evento activara la condición de terminación de una `Postura` activa o técnica que estés manteniendo, puedes activar esta técnica como respuesta. El evento interrumpidor se resuelve con normalidad — recibes el impacto, efecto o alteración — pero la técnica o `Postura` que estabas manteniendo no termina.
+Cuando un evento activara la condición de terminación de una `Postura` activa o técnica que estés manteniendo, puedes activar esta técnica como respuesta. Realiza `T.E. (Enfoque)` contra dificultad Fundamental. El Narrador puede aumentar la dificultad si la interrupción fue particularmente severa.
+
+El evento interrumpidor se resuelve con normalidad — recibes el impacto, efecto o alteración — pero si tienes éxito, la técnica o `Postura` que estabas manteniendo no termina. Si fallas, el Desgaste se pierde y la terminación ocurre normalmente.

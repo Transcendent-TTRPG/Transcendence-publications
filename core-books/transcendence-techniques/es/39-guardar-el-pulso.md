@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Tú | Instantáneo | `—` |
+| Personal | Tú | Instantáneo | `T.E. (Tolerancia)` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -43,7 +43,15 @@ related:
 
 Cuando estás a punto de resolver una acción física, mantener una tarea sostenida o completar un tramo de exploración mientras ya sufres un estado físico que penalizaría o interrumpiría esa función, activa esta técnica sin coste de Ritmo.
 
-Elige un estado físico concreto que ya te afecta. Paga el Desgaste base de `1`. Antes de resolver, puedes pagar Desgaste adicional — hasta un máximo igual a tu rango de Tolerancia. Cada punto de Desgaste adicional aumenta la mitigación en `1`, en proporción estricta de `1:1`.
+Paga el Desgaste base de `1` y realiza `T.E. (Tolerancia)` contra la dificultad correspondiente a la severidad de la Alteración que intentas superar:
+
+| Severidad | Dificultad |
+| --- | --- |
+| Leve | Fundamental |
+| Moderada | Desafiante |
+| Grave | Rigurosa |
+
+Si fallas, el Desgaste se pierde y el efecto no se produce. Si tienes éxito, elige un estado físico concreto que ya te afecta. Antes de resolver, puedes pagar Desgaste adicional — hasta un máximo igual a tu rango de Tolerancia. Cada punto de Desgaste adicional aumenta la mitigación en `1`, en proporción estricta de `1:1`.
 
 Para esta resolución, elige uno de los siguientes efectos:
 
