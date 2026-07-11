@@ -25,7 +25,7 @@ Las entradas de criatura se documentarán aquí una vez que la disección anató
 <div class="monster-block" markdown="1">
 
 <div class="monster-header">
-<h2 class="monster-name">Carroñero Abisal (Ciego)</h2>
+<h2 class="monster-name">Carroñero Abisal</h2>
 <div class="monster-meta">NR 1 · Rol: Golpeador · Naturaleza: Mortal</div>
 </div>
 
