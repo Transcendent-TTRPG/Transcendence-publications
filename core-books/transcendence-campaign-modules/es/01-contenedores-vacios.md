@@ -464,7 +464,8 @@ Una vez derrotados los parásitos, el combate termina pero el trabajo logístico
 *   **Consecuencias en tiempo real:** Si alguien falla la extracción del saco, esta estalla (Tirada de Resistencia contra Veneno: *Escaldado*). Si tienen éxito, el Narrador activa el temporizador: *"El tejido está palpitando, es volátil. Tienes horas antes de que se pudra"*. Obligando al jugador a gastar inmediatamente un uso de su *Kit de Conservación* para estabilizar la muestra.
 
 ## 5. Conexiones del Nodo
-*   **Hacia Atrás:** El Sumidero Quirúrgico (Nodo 1 - El Cráter). Imposible de retroceder, la esclusa está sellada para evitar el avance de los carroñeros del cráter.
-*   **Hacia Adelante:** Tras procesar el botín y cruzar el laberinto de cadenas de la nave, llegan a unas pesadas escotillas en el suelo que conducen a los niveles inferiores: **Los Anfiteatros de Escultura (Nodo 3)**, desde donde se escucha el eco de quejidos agonizantes (El encuentro con el Arquitecto Vesper).
+*   **Hacia Atrás (Sur):** El Sumidero Quirúrgico (Nodo 1 - El Cráter). Imposible de retroceder, la esclusa está sellada para evitar el avance de los carroñeros del cráter.
+*   **Hacia Arriba (Norte - Bloqueado):** Al fondo de la nave se alza el gigantesco **Montacargas Principal**, la única ruta para ascender hacia la Esclusa de Cuarentena (Nodo 4) y escapar del Distrito Industrial. Sin embargo, el inmenso panel hidráulico está desactivado; requiere una "Llave de Resonancia Vesper" para operar.
+*   **Hacia Abajo (Descenso Forzado):** Sin otra opción para activar el montacargas, los jugadores deben abrir unas pesadas escotillas rojas en el suelo de la cabina y descender hacia los sótanos oscuros de la nave: **Los Anfiteatros de Escultura (Nodo 3)**. Desde la negrura del pozo, se escucha el eco de un quejido agonizante.
 
 **FIN DEL MÓDULO 02**
