@@ -40,6 +40,7 @@ related:
 
 - `Contención`
 - `Resistencia a Aterrorizado`
+- `No Hereda Efectos`
 
 ## Efecto
 

@@ -515,9 +515,9 @@ Un espeso vapor esmeralda nubla la visión más allá de los cinco metros. El ol
 
 ### Desarrollo del Encuentro (Exploración y Parkour)
 *   **Peligro Aéreo (Vapor Tóxico):** Por cada 10 minutos (tiempo narrativo) que los personajes pasen aquí, deben realizar una **T.R. contra Venenos**. Si fallan, adquieren el Agravio de Veneno: **Escaldado (Leve)**; el vapor cáustico quema sus córneas y mucosas, aplicando una penalización a sus Tiradas de Ataque.
-*   **La Travesía de Tuberías:** Avanzar hacia el botín requiere pruebas consecutivas de *Agilidad / Atletismo*. Fomentar el uso de equipo (cuerdas, arneses). Un fallo no significa la muerte, sino la caída al pozo.
+*   **La Travesía de Tuberías:** Avanzar hacia el botín requiere pruebas consecutivas de *Agilidad / Acrobacias*. Fomentar el uso de equipo (cuerdas, arneses). Un fallo no significa la muerte, sino la caída al pozo.
 *   **El Castigo del Fango:** Caer al fango químico aplica de inmediato **1 Punto de Corrupción** (al ingerir material abisal corrupto) y requiere una prueba de *Fuerza* difícil para salir de la espesa melaza.
-*   **Rompecabezas del Botín:** Los gabinetes de cristal templado están conectados a un aspersor de purga. Romper el cristal a la fuerza bruta dispara ácido sobre los maletines, arruinando los consumibles (Kits de Medicina y Conservación). Los jugadores deben realizar una prueba de *Intelecto / Sabotaje* para forzar la cerradura hidráulica, o usar la creatividad (congelar el aspersor, bloquear el conducto) para extraer el equipo a salvo.
+*   **Rompecabezas del Botín:** Los gabinetes de cristal templado son unidades de contención biológica Vesper. En el techo de cada compartimiento interno hay un pequeño aspersor conectado a un vial de ácido. Si se rompe el cristal a la fuerza bruta, la descompresión súbita hace que el sistema asuma una "Brecha de Contaminación": el aspersor inunda inmediatamente el interior con ácido para destruir los suministros, evitando que material comprometido caiga en manos de personal infectado. Para extraer el equipo a salvo (Kits de Medicina y Conservación), los jugadores deben forzar la cerradura neumática sin alterar la presión interna (prueba de *Intelecto / Sabotaje*), o usar la creatividad táctica (ej. inyectar líquido congelante por las juntas para taponar el aspersor antes de romper el cristal).
 
 ---
 

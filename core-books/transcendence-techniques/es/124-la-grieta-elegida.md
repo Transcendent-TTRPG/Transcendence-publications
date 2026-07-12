@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Desgarro`
+- `Hereda Efectos`
 
 ## Efecto
 

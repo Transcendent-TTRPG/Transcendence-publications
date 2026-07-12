@@ -81,7 +81,7 @@ Todos los Yacani tienen acceso al Mordisco y la Bilis desde el inicio.
 | --- | --- | --- | --- | --- | --- |
 | Tenacidad | Tenacidad | 5 m | d6 | 3 × rango | 4 × rango |
 
-**Perfiles:** Corrosión · Hostigamiento · Interrupción · Impredecibilidad
+**Perfiles:** Corrosión · Hostigamiento · Interrupción · Impredecible
 
 **Efecto:** Si la T.A. supera la T.D., el objetivo realiza una T.R. de Veneno. Si falla, sufre el estado **Erosionado**. La severidad escala con el rango del atacante.
 

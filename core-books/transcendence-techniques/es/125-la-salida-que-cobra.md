@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Acecho`
+- `Hereda Efectos`
 
 ## Efecto
 

@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Fluidez`
+- `Hereda Efectos`
 
 ## Efecto
 

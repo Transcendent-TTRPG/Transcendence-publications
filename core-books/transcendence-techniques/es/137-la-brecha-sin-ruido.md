@@ -41,6 +41,7 @@ related:
 ## Keywords
 
 - `Evasión`
+- `No Hereda Efectos`
 
 ## Efecto
 

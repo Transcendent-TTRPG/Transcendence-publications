@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Letalidad`
+- `Hereda Efectos`
 
 ## Efecto
 

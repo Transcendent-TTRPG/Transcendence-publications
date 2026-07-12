@@ -41,6 +41,7 @@ related:
 
 - `Tolerancia`
 - `Resistencia a Ensordecido`
+- `No Hereda Efectos`
 
 ## Efecto
 

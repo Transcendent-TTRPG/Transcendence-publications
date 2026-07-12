@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Hostigamiento`
+- `Hereda Efectos`
 
 ## Efecto
 

@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Perforación`
+- `Hereda Efectos`
 
 ## Efecto
 

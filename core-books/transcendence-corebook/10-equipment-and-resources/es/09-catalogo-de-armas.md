@@ -161,7 +161,7 @@ Armas con partes articuladas, cadenas o materiales que permiten golpear desde á
 | --- | :---: | :---: | --- | --- | --- | --- | --- |
 | Kusarigama | 2 | d6 / d4 | 1–3 m | 1,5 kg | Agilidad | Primaria | +1 por rango a T.A. al alternar entre hoz y cadena en secuencias de múltiples ataques |
 | Scourge | 1 | d4 | 1–3 m | 1 kg | Fuerza | Auxiliar | +1 por rango a T.A. contra enemigos a más de 1 metro |
-| Nekode | 1 | d4 | 1 m | 0,5 kg | Agilidad | Auxiliar | +1 por rango a T.A. en Técnicas de los perfiles de Interrupción o Imprevisibilidad |
+| Nekode | 1 | d4 | 1 m | 0,5 kg | Agilidad | Auxiliar | +1 por rango a T.A. en Técnicas de los perfiles de Interrupción o Impredecible |
 | Kusari Fundo | 2 | d6 | 1–3 m | 1,2 kg | Astucia | Primaria | +1 por rango a T.I. cuando el objetivo ya está desequilibrado, tambaleante o derribado |
 | Spider Gloves | 1 | d4 | 1–3 m | 0,4 kg | Agilidad | Auxiliar | +1 por rango a T.E. de Trepar o Agarre cuando se usa para escalar, enganchar o bloquear a presión cercana |
 | Urumi | 1 | d6 | 1–4 m | 1,6 kg | Agilidad | Primaria | Ignora 1 punto de Bloqueo por rango cuando se ataca desde más de 1 metro |

@@ -40,6 +40,7 @@ related:
 ## Keywords
 
 - `Armadura Ligera`
+- `No Hereda Efectos`
 
 ## Efecto
 

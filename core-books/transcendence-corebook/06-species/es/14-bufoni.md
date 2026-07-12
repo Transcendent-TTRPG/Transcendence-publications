@@ -76,7 +76,7 @@ Todos los Bufoni tienen acceso a la Lengua desde el inicio.
 | --- | --- | --- | --- | --- | --- |
 | Agilidad | Agilidad | 3 m | d6 | 3 × rango | 4 × rango |
 
-**Perfiles:** Torsión · Interrupción · Impredecibilidad · Corrosión
+**Perfiles:** Torsión · Interrupción · Impredecible · Corrosión
 
 **Efecto:** Si la T.A. supera la T.D. del objetivo, este debe realizar una T.R. de Veneno. Si falla, sufre el efecto de la secreción neurotóxica. La severidad escala según tu rango:
 
