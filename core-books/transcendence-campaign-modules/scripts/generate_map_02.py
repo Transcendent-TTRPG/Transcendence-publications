@@ -17,16 +17,17 @@ def create_pointcrawl_map(output_path):
         # NODO 2: Nave de Drenaje (Matadero)
         "Entrada al\nMatadero": {"pos": (6, 0), "cat": "path"},
         "Bosque de Cadenas\n(Combate)": {"pos": (8, 1), "cat": "combat"},
-        "Filtros de Sangre": {"pos": (8, -1), "cat": "path"},
         "Cabina del\nSupervisor": {"pos": (10, 2), "cat": "loot"},
+        "Cruce del\nSótano": {"pos": (10, 0), "cat": "path"},
+        "Filtros de Sangre\n(Exploración)": {"pos": (8, -1.5), "cat": "path"},
         
         # NODO 3: Anfiteatros
-        "Fosas Quirúrgicas\n(Dilema)": {"pos": (11, 0), "cat": "story"},
-        "Bóveda de Resina": {"pos": (11, -2), "cat": "loot"},
+        "Fosas Quirúrgicas\n(Dilema)": {"pos": (12, -1.5), "cat": "story"},
+        "Bóveda de Resina": {"pos": (12, -3), "cat": "loot"},
         
         # NODO 4: La Esclusa
-        "Válvulas\nNeumáticas": {"pos": (13, 0), "cat": "puzzle"},
-        "La Gran Esclusa\n(Salida)": {"pos": (15, 0), "cat": "exit"}
+        "Válvulas\nNeumáticas": {"pos": (14, 0), "cat": "puzzle"},
+        "La Gran Esclusa\n(Salida)": {"pos": (16, 0), "cat": "exit"}
     }
     
     # Add nodes to graph
@@ -44,13 +45,13 @@ def create_pointcrawl_map(output_path):
         ("Cráter Central\n(Zona Cero)", "Entrada al\nMatadero"),
         
         ("Entrada al\nMatadero", "Bosque de Cadenas\n(Combate)"),
-        ("Entrada al\nMatadero", "Filtros de Sangre"),
         ("Bosque de Cadenas\n(Combate)", "Cabina del\nSupervisor"),
-        ("Bosque de Cadenas\n(Combate)", "Fosas Quirúrgicas\n(Dilema)"),
-        ("Filtros de Sangre", "Fosas Quirúrgicas\n(Dilema)"),
-        ("Filtros de Sangre", "Bóveda de Resina"),
+        ("Cabina del\nSupervisor", "Cruce del\nSótano"),
+        ("Cruce del\nSótano", "Filtros de Sangre\n(Exploración)"),
+        ("Cruce del\nSótano", "Fosas Quirúrgicas\n(Dilema)"),
+        ("Filtros de Sangre\n(Exploración)", "Bóveda de Resina"),
+        ("Filtros de Sangre\n(Exploración)", "Fosas Quirúrgicas\n(Dilema)"),
         
-        ("Cabina del\nSupervisor", "Válvulas\nNeumáticas"),
         ("Fosas Quirúrgicas\n(Dilema)", "Válvulas\nNeumáticas"),
         ("Bóveda de Resina", "Válvulas\nNeumáticas"),
         

@@ -469,3 +469,44 @@ Una vez derrotados los parásitos, el combate termina pero el trabajo logístico
 *   **Hacia Abajo (Descenso Forzado):** Sin otra opción para activar el montacargas, los jugadores deben abrir unas pesadas escotillas rojas en el suelo de la cabina y descender hacia los sótanos oscuros de la nave: **Los Anfiteatros de Escultura (Nodo 3)**. Desde la negrura del pozo, se escucha el eco de un quejido agonizante.
 
 **FIN DEL MÓDULO 02**
+
+---
+
+# Módulo 03: Los Anfiteatros de Escultura
+
+*Cuarto segmento del módulo introductorio. Un descenso a la oscuridad que divide al grupo entre la exploración táctica por recursos vitales y un dilema moral que subvertirá sus expectativas heroicas.*
+
+## 1. El Cruce del Sótano (La Bifurcación)
+
+Al descender por las frías escotillas de la cabina, los personajes se adentran en el verdadero vientre de la bestia. El aire aquí abajo es radicalmente distinto: denso, caliente y saturado de un olor cobrizo que marea. Un solitario pasillo de metal oxidado avanza unos metros en la penumbra hasta terminar en una intersección en "T". 
+
+En la pared de basalto frente a ellos, un grabado Vesper manchado de sangre indica los caminos:
+*   **A la Izquierda (Oeste):** Un túnel del que emana un espeso vapor verdoso y el sonido de líquido burbujeante. Una placa reza: *Filtros de Sangre / Bóveda de Resina*.
+*   **A la Derecha (Este):** Un pasillo lúgubre, flanqueado por inmensas costillas incrustadas en la roca. De allí proviene un eco inconfundible: la respiración rasposa y los quejidos de algo agonizante. La placa reza: *Fosas Quirúrgicas*.
+
+*(Nota para el Narrador: Los jugadores pueden explorar los Filtros primero para recuperar recursos, o ir directo al origen de los gritos. Esta sección detalla la ruta Oeste. El encuentro en las Fosas se abordará en la siguiente parte del módulo).*
+
+## 2. Los Filtros de Sangre (La Ruta Oeste)
+
+### El Terreno y la Atmósfera
+Si deciden explorar los Filtros de Sangre, el túnel desemboca en una inmensa caverna artificial cilíndrica. No hay suelo visible; la base entera de la caverna es un pozo de **Fango** de 4 metros de profundidad. Este "fango" es una mezcla tóxica de sangre Vesper coagulada, bilis y químicos de embalsamar desechados por las fosas quirúrgicas.
+
+Suspendida a solo centímetros por encima de esta sopa letal, se extiende una intrincada y frágil red de tuberías de bronce, válvulas giratorias, y gigantescos filtros porosos cubiertos de moho. 
+
+En la pared opuesta de la caverna (a unos 20 metros de distancia), parpadean unas luces de emergencia azules, iluminando los **Gabinetes de Esterilización**. A simple vista, los jugadores pueden distinguir los maletines metálicos que contienen *Kits de Conservación*, *Jeringas de Adrenalina* y bio-gel curativo.
+
+### El Desafío de Navegación (Peligro Ambiental)
+Este es un desafío puro de exploración, desgaste y riesgo/recompensa. No hay monstruos aquí; la instalación misma es la trampa mortal.
+
+*   **Peligro Aéreo (Vapor Tóxico):** El ambiente de la caverna exuda gases ácidos. Por cada 10 minutos (tiempo narrativo) que los personajes pasen intentando cruzar, deben realizar una **Tirada de Resistencia contra Venenos**. Si fallan, ganan el Agravio de Veneno: **Escaldado (Leve)** debido a que el alcaloide cáustico les quema las mucosas respiratorias y los ojos, dificultando sus Tiradas de Ataque.
+*   **La Travesía (Acrobacias):** Para avanzar sobre la resbaladiza red de tuberías hacia el botín, los jugadores deben usar su movilidad, equilibro e ingenio. Obliga a tirar pruebas de *Agilidad / Atletismo*. El uso creativo de herramientas (cuerdas, garras de escalada) otorga ventajas. 
+*   **El Castigo del Fango:** Si un personaje falla su prueba de travesía, no muere, pero cae de bruces al pozo de sangre química. El personaje sufre de inmediato **1 Punto de Corrupción** al tragar accidentalmente el fango biológico. Además, salir de la espesa mezcla requiere una tirada de *Fuerza* difícil o la ayuda de un aliado lanzándole una cuerda.
+
+### El Rompecabezas del Botín
+Al llegar a los gabinetes, descubren que están cerrados herméticamente por paneles de cristal templado. Si deciden romper el cristal a la fuerza bruta, se activará un aspersor de purga de emergencia que empapará el botín en ácido, arruinando los suministros médicos y dañando a los jugadores de cerca. 
+
+Para obtener los suministros limpios, deben realizar una prueba de *Intelecto / Sabotaje* para forzar la cerradura neumática Vesper, o ingeniárselas para congelar el aspersor antes de reventar el cristal.
+
+Si tienen éxito, recuperan los suministros vitales, preparándose para lo que sea que esté agonizando en la sala del Este.
+
+**FIN DEL MÓDULO 03 - PARTE 1**
