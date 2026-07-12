@@ -466,7 +466,7 @@ Una vez derrotados los parásitos, el combate termina pero el trabajo logístico
 ## 5. Conexiones del Nodo
 *   **Hacia Atrás (Sur):** El Sumidero Quirúrgico (Nodo 1 - El Cráter). Imposible de retroceder, la esclusa está sellada para evitar el avance de los carroñeros del cráter.
 *   **Hacia Arriba (Norte - Bloqueado):** Al fondo de la nave se alza el gigantesco **Montacargas Principal**, la única ruta para ascender hacia la Esclusa de Cuarentena (Nodo 4) y escapar del Distrito Industrial. Sin embargo, el inmenso panel hidráulico está desactivado; requiere una "Llave de Resonancia Vesper" para operar.
-*   **Hacia Abajo (Descenso Forzado):** Sin otra opción para activar el montacargas, los jugadores deben abrir unas pesadas escotillas rojas en el suelo de la cabina y descender hacia los sótanos oscuros de la nave: **Los Anfiteatros de Escultura (Nodo 3)**. Desde la negrura del pozo, se escucha el eco de un quejido agonizante.
+*   **Hacia Abajo (Descenso Forzado):** Sin otra opción para activar el montacargas, los jugadores deben abrir unas pesadas escotillas rojas en el suelo frente al panel inactivo y descender hacia los sótanos oscuros de la nave: **Los Anfiteatros de Escultura (Nodo 3)**. Desde la negrura del pozo, se escucha el eco de un quejido agonizante.
 
 **FIN DEL MÓDULO 02**
 
@@ -474,39 +474,76 @@ Una vez derrotados los parásitos, el combate termina pero el trabajo logístico
 
 # Módulo 03: Los Anfiteatros de Escultura
 
-*Cuarto segmento del módulo introductorio. Un descenso a la oscuridad que divide al grupo entre la exploración táctica por recursos vitales y un dilema moral que subvertirá sus expectativas heroicas.*
+*Cuarto segmento del módulo introductorio. Un descenso a la oscuridad que divide al grupo entre la exploración táctica por recursos vitales y un brutal dilema moral que subvertirá sus expectativas de heroísmo.*
 
-## 1. El Cruce del Sótano (La Bifurcación)
+---
 
-Al descender por las frías escotillas de la cabina, los personajes se adentran en el verdadero vientre de la bestia. El aire aquí abajo es radicalmente distinto: denso, caliente y saturado de un olor cobrizo que marea. Un solitario pasillo de metal oxidado avanza unos metros en la penumbra hasta terminar en una intersección en "T". 
+## 3.1 El Cruce del Sótano (La Bifurcación)
 
-En la pared de basalto frente a ellos, un grabado Vesper manchado de sangre indica los caminos:
-*   **A la Izquierda (Oeste):** Un túnel del que emana un espeso vapor verdoso y el sonido de líquido burbujeante. Una placa reza: *Filtros de Sangre / Bóveda de Resina*.
-*   **A la Derecha (Este):** Un pasillo lúgubre, flanqueado por inmensas costillas incrustadas en la roca. De allí proviene un eco inconfundible: la respiración rasposa y los quejidos de algo agonizante. La placa reza: *Fosas Quirúrgicas*.
+### Contexto para el Narrador
+Este es el distribuidor principal de fluidos del Matadero de Tinta. Todo el desecho biológico, los químicos de embalsamar y la sangre abisal cosechada en los pisos superiores bajaba por gravedad a este cruce para ser redirigido a las plantas de filtración. Ahora es un corredor abandonado que sirve como zona de transición y toma de decisiones.
 
-*(Nota para el Narrador: Los jugadores pueden explorar los Filtros primero para recuperar recursos, o ir directo al origen de los gritos. Esta sección detalla la ruta Oeste. El encuentro en las Fosas se abordará en la siguiente parte del módulo).*
+### Impresión Sensorial
+Al descender por las frías escotillas y caer sobre el enrejado de metal, el cambio de atmósfera es violento. El aire aquí abajo es denso, caliente y asfixiante, saturado con un olor cobrizo a sangre vieja que marea casi de inmediato. Solo se escucha el eco de sus propias botas metálicas y, a lo lejos, el siseo de una tubería rota. 
 
-## 2. Los Filtros de Sangre (La Ruta Oeste)
+### Estado Actual y Terreno
+*   **Zona de Caída (Norte):** Un espacio claustrofóbico de 4x4 metros directamente debajo del montacargas. 
+*   **La Intersección en "T":** Caminando unos metros hacia el Sur por el pasillo de metal oxidado, se topan con una bifurcación obligatoria.
+*   **El Grabado Vesper:** Pintado con sangre espesa en la pared de basalto frente a ellos, hay un símbolo direccional de la corporación. 
+    *   **Flecha Oeste (Verde):** Una flecha que apunta a un túnel del que emana un espeso vapor verdoso y el sonido de líquido burbujeante. La placa corroída reza: *Filtros de Sangre / Bóveda de Resina*.
+    *   **Flecha Este (Roja):** Una flecha que apunta a un túnel flanqueado por inmensas costillas incrustadas en la roca. De allí proviene un eco inconfundible: una respiración rasposa y quejidos de agonía. La placa reza: *Fosas Quirúrgicas*.
 
-### El Terreno y la Atmósfera
-Si deciden explorar los Filtros de Sangre, el túnel desemboca en una inmensa caverna artificial cilíndrica. No hay suelo visible; la base entera de la caverna es un pozo de **Fango** de 4 metros de profundidad. Este "fango" es una mezcla tóxica de sangre Vesper coagulada, bilis y químicos de embalsamar desechados por las fosas quirúrgicas.
+### El Desafío (Decisión Táctica)
+No hay combate aquí. El desafío es puramente narrativo y de gestión de recursos.
+Los jugadores deben decidir cómo proceder. Si están malheridos tras el enfrentamiento en el Bosque de Cadenas, la ruta Oeste (Filtros de Sangre) ofrece botín médico pero con un alto riesgo ambiental. Si deciden priorizar el origen de los gritos y el avance directo, la ruta Este (Fosas Quirúrgicas) los llevará al encuentro final del nodo. 
+*(Nota: Pueden visitar ambos lugares, pero el orden afecta la tensión narrativa).*
 
-Suspendida a solo centímetros por encima de esta sopa letal, se extiende una intrincada y frágil red de tuberías de bronce, válvulas giratorias, y gigantescos filtros porosos cubiertos de moho. 
+---
 
-En la pared opuesta de la caverna (a unos 20 metros de distancia), parpadean unas luces de emergencia azules, iluminando los **Gabinetes de Esterilización**. A simple vista, los jugadores pueden distinguir los maletines metálicos que contienen *Kits de Conservación*, *Jeringas de Adrenalina* y bio-gel curativo.
+## 3.2 Los Filtros de Sangre (Ruta Oeste)
 
-### El Desafío de Navegación (Peligro Ambiental)
-Este es un desafío puro de exploración, desgaste y riesgo/recompensa. No hay monstruos aquí; la instalación misma es la trampa mortal.
+### Contexto para el Narrador
+Las antiguas piscinas de decantación donde los fluidos abisales se separaban de las toxinas antes de ser procesados. Con el colapso del sistema, el sistema de purificación ha fallado catastróficamente, inundando la zona con una sopa letal y llenando el aire de nubes cáusticas.
 
-*   **Peligro Aéreo (Vapor Tóxico):** El ambiente de la caverna exuda gases ácidos. Por cada 10 minutos (tiempo narrativo) que los personajes pasen intentando cruzar, deben realizar una **Tirada de Resistencia contra Venenos**. Si fallan, ganan el Agravio de Veneno: **Escaldado (Leve)** debido a que el alcaloide cáustico les quema las mucosas respiratorias y los ojos, dificultando sus Tiradas de Ataque.
-*   **La Travesía (Acrobacias):** Para avanzar sobre la resbaladiza red de tuberías hacia el botín, los jugadores deben usar su movilidad, equilibro e ingenio. Obliga a tirar pruebas de *Agilidad / Atletismo*. El uso creativo de herramientas (cuerdas, garras de escalada) otorga ventajas. 
-*   **El Castigo del Fango:** Si un personaje falla su prueba de travesía, no muere, pero cae de bruces al pozo de sangre química. El personaje sufre de inmediato **1 Punto de Corrupción** al tragar accidentalmente el fango biológico. Además, salir de la espesa mezcla requiere una tirada de *Fuerza* difícil o la ayuda de un aliado lanzándole una cuerda.
+### Impresión Sensorial
+Un espeso vapor esmeralda nubla la visión más allá de los cinco metros. El olor a químicos industriales quema las fosas nasales y hace llorar los ojos. Abajo, en la oscuridad, una inmensa masa líquida y espesa burbujea lentamente, como si respirara. La única luz proviene de unos tenues parpadeos azules al otro extremo de la inmensa caverna.
 
-### El Rompecabezas del Botín
-Al llegar a los gabinetes, descubren que están cerrados herméticamente por paneles de cristal templado. Si deciden romper el cristal a la fuerza bruta, se activará un aspersor de purga de emergencia que empapará el botín en ácido, arruinando los suministros médicos y dañando a los jugadores de cerca. 
+### Estado Actual y Terreno
+*   **El Pozo de Fango:** La base entera de la caverna circular es un pozo de 4 metros de profundidad lleno de "fango", una mezcla altamente tóxica de sangre coagulada, bilis y ácidos de embalsamar. No hay suelo firme.
+*   **Las Tuberías (El Puente):** Suspendida a solo un metro sobre la sopa letal, hay una intrincada, frágil y resbaladiza red de tuberías de bronce y válvulas giratorias que cruza la caverna hacia el botín. Varias secciones están colapsadas, exigiendo saltos peligrosos.
+*   **Los Gabinetes de Esterilización:** Al fondo (Oeste), iluminados por la luz azul, hay gabinetes sellados herméticamente. A simple vista, se distinguen maletines metálicos impecables.
 
-Para obtener los suministros limpios, deben realizar una prueba de *Intelecto / Sabotaje* para forzar la cerradura neumática Vesper, o ingeniárselas para congelar el aspersor antes de reventar el cristal.
+### Desarrollo del Encuentro (Exploración y Parkour)
+*   **Peligro Aéreo (Vapor Tóxico):** Por cada 10 minutos (tiempo narrativo) que los personajes pasen aquí, deben realizar una **T.R. contra Venenos**. Si fallan, adquieren el Agravio de Veneno: **Escaldado (Leve)**; el vapor cáustico quema sus córneas y mucosas, aplicando una penalización a sus Tiradas de Ataque.
+*   **La Travesía de Tuberías:** Avanzar hacia el botín requiere pruebas consecutivas de *Agilidad / Atletismo*. Fomentar el uso de equipo (cuerdas, arneses). Un fallo no significa la muerte, sino la caída al pozo.
+*   **El Castigo del Fango:** Caer al fango químico aplica de inmediato **1 Punto de Corrupción** (al ingerir material abisal corrupto) y requiere una prueba de *Fuerza* difícil para salir de la espesa melaza.
+*   **Rompecabezas del Botín:** Los gabinetes de cristal templado están conectados a un aspersor de purga. Romper el cristal a la fuerza bruta dispara ácido sobre los maletines, arruinando los consumibles (Kits de Medicina y Conservación). Los jugadores deben realizar una prueba de *Intelecto / Sabotaje* para forzar la cerradura hidráulica, o usar la creatividad (congelar el aspersor, bloquear el conducto) para extraer el equipo a salvo.
 
-Si tienen éxito, recuperan los suministros vitales, preparándose para lo que sea que esté agonizando en la sala del Este.
+---
 
-**FIN DEL MÓDULO 03 - PARTE 1**
+## 3.3 Las Fosas Quirúrgicas (Ruta Este)
+
+### Contexto para el Narrador
+El quirófano magno. Un anfiteatro excavado en la roca madre donde los biólogos Vesper diseccionaban los cadáveres de especímenes abisales colosales frente a los supervisores corporativos. Aquí, la frialdad industrial se unía con la carnicería visceral.
+
+### Impresión Sensorial
+Un frío sepulcral y clínico corta la respiración. El hedor a formol, antisépticos caducados y carne añeja es penetrante. El eco del lugar es inmenso. Y en el centro, el siseo agónico: la respiración irregular de un traje de soporte vital averiado, mezclada con llantos secos.
+
+### Estado Actual y Terreno
+*   **Gradas de Observación:** Terrazas circulares concéntricas, de metal oscurecido por la sangre, que descienden en escalones abruptos hacia el foso central.
+*   **El Foso Quirúrgico:** El núcleo del anfiteatro. Hay gigantescas mesas de disección volcadas y canales de drenaje tapados. 
+*   **El Pilar Óseo Colapsado:** Un inmenso fémur abisal que servía de soporte estructural se ha desplomado en el centro del foso. 
+*   **El Atrapado (Arquitecto Vesper):** Debajo de cientos de kilos de hueso calcificado, está atrapado un oficial corporativo. Su traje exoesqueleto lo mantiene con vida, pero sus piernas están irreparablemente aplastadas. Aún está lúcido.
+*   **La Esclusa (Salida):** Al norte, en el nivel superior, una pesada puerta neumática iluminada en rojo bloquea el acceso al **Nodo 04**. Tiene un receptor que parpadea esperando una "Llave de Resonancia Vesper".
+
+### Desarrollo del Encuentro (El Dilema Moral)
+*   **El Contacto Inicial:** El Arquitecto (identificación: *Superintendente Kael*) no es un aliado amable. Es un burócrata arrogante, cínico y desesperado. Al ver a los jugadores, exigirá que lo liberen levantando el escombro o cortando el hueso con herramientas pesadas. Prometerá abrir la Esclusa si lo salvan.
+*   **El Engaño Corporativo (Insight):** Si los jugadores analizan la situación (prueba de *Intelecto / Empatía* o leyendo sus gestos), notarán que Kael tiene su mano libre apoyada sobre una baliza de purga en su pecho. **Si lo liberan por completo, su primer instinto no será agradecerles, será presionar la baliza para gasear el anfiteatro (iniciando una trampa letal automatizada) bajo la premisa Vesper de "No dejar testigos del fracaso corporativo".**
+*   **La Llave:** La "Llave de Resonancia" necesaria para salir NO es una tarjeta de plástico. **Es el propio antebrazo biomecánico del Arquitecto**.
+*   **La Resolución Brutal:** El dilema central estalla cuando los jugadores comprenden la naturaleza de la traición y de la llave. 
+    *   *La Opción Heroica/Ingenua:* Intentar un rescate exhaustivo, exponiéndose a la traición letal de Kael y un probable combate en total desventaja. 
+    *   *La Opción Oscura (Amputación):* La forma más rápida y segura de obtener la llave es amputarle el antebrazo cibernético mientras está inmovilizado. Esta acción brutal e inhumana otorga **2 Puntos de Corrupción** automáticos al personaje que ejecute el corte, fracturando su moralidad, pero dándoles la herramienta necesaria para abrir la Esclusa y sobrevivir.
+
+*(Nota: Con el antebrazo cibernético, los jugadores pueden abrir la compuerta del Norte y abandonar los Anfiteatros de Escultura, adentrándose en el cierre del Módulo).*
+
+**FIN DEL MÓDULO 03**
