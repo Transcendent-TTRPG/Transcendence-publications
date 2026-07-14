@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Horror de Resina — NR 1</title>
+<style>
+@page { size: A4 portrait; margin: 0; }
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:              #090806;
+  --card:            #131009;
+  --surface:         #1b1611;
+  --border:          #2a2018;
+  --border-light:    #3d3025;
+  --accent:          #c46a32;
+  --danger:          #cc3c3c;
+  --nucleo:          #9452d0;
+  --nucleo-dim:      #3a1a5c;
+  --nucleo-bg:       #1a0f2e;
+  --text:            #d4c5a8;
+  --text-dim:        #8a7a62;
+  --text-faint:      #524535;
+  --stat-hi:         #e2c46a;
+}
+
+html, body {
+  width: 210mm;
+  height: 297mm;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 8.5pt;
+}
+
+.card {
+  width: 210mm;
+  height: 297mm;
+  background: var(--card);
+  display: flex;
+  flex-direction: column;
+}
+
+/* ─── HEADER ─── */
+.card-header {
+  background: var(--surface);
+  border-bottom: 2px solid var(--accent);
+  padding: 5pt 10pt;
+  display: flex;
+  align-items: center;
+  gap: 8pt;
+  flex-shrink: 0;
+}
+.nr-badge {
+  background: var(--accent);
+  color: #080604;
+  font-weight: bold;
+  font-size: 6pt;
+  letter-spacing: 0.12em;
+  padding: 2pt 5pt;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+.creature-name {
+  font-size: 13pt;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ecdabb;
+  flex: 1;
+}
+.meta-tags {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 1pt;
+  font-size: 5.5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+.meta-tags b { color: var(--accent); font-weight: normal; }
+
+/* ─── TOP SECTION: image + stats ─── */
+.top-section {
+  display: grid;
+  grid-template-columns: 148pt 1fr;
+  flex-shrink: 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.image-slot {
+  height: 155pt;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  overflow: hidden;
+}
+.image-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+.stats-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.char-grid {
+  padding: 4pt 7pt;
+  border-bottom: 1px solid var(--border);
+}
+.section-label {
+  font-size: 5pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 3pt;
+}
+.char-values {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 1pt;
+  text-align: center;
+}
+.char-abbr { display: block; font-size: 5pt; color: var(--text-faint); text-transform: uppercase; }
+.char-val  { font-size: 9pt; font-weight: bold; color: var(--stat-hi); display: block; }
+.char-val.neg { color: var(--danger); }
+
+.derived-row {
+  padding: 3pt 7pt;
+  display: flex;
+  gap: 10pt;
+  border-bottom: 1px solid var(--border);
+}
+.d-label { font-size: 5pt; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.08em; }
+.d-val   { font-size: 8pt; font-weight: bold; }
+
+.combat-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-bottom: 1px solid var(--border);
+}
+.combat-cell {
+  padding: 4pt 0;
+  text-align: center;
+  border-right: 1px solid var(--border);
+}
+.combat-cell:last-child { border-right: none; }
+.combat-abbr { display: block; font-size: 5pt; color: var(--text-faint); text-transform: uppercase; }
+.combat-val  { font-size: 12pt; font-weight: bold; color: var(--danger); display: block; line-height: 1.1; }
+
+.info-block {
+  padding: 3pt 7pt;
+  border-bottom: 1px solid var(--border);
+  font-size: 6pt;
+  flex: 1;
+}
+.info-block:last-child { border-bottom: none; }
+.info-val     { color: var(--stat-hi); margin-top: 1pt; line-height: 1.4; }
+.info-val.dim { color: var(--text-dim); }
+
+/* ─── DESCRIPTION ─── */
+.desc-block {
+  padding: 5pt 10pt;
+  font-family: Georgia, serif;
+  font-size: 7pt;
+  line-height: 1.55;
+  color: var(--text-dim);
+  font-style: italic;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+/* ─── ZONAS ─── */
+.zones-section { flex-shrink: 0; }
+.section-header {
+  padding: 3pt 10pt;
+  font-size: 5pt;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  text-transform: uppercase;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+.zones-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3pt;
+  padding: 3pt;
+}
+.zone-entry {
+  display: grid;
+  grid-template-columns: 4pt 1fr auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+.zone-strip { width: 4pt; }
+.zone-main  { padding: 4pt 6pt; }
+.zone-material { font-size: 5pt; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.08em; }
+.zone-name     { font-size: 7pt; font-weight: bold; color: var(--text); line-height: 1.2; }
+.zone-desc     { font-size: 6pt; color: var(--text-dim); line-height: 1.4; margin-top: 2pt; }
+.zone-desc .anchor   { color: var(--accent); }
+.zone-desc .collapse { color: #c48032; }
+.zone-stats {
+  padding: 4pt 6pt;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 2pt;
+  border-left: 1px solid var(--border);
+  min-width: 48pt;
+  flex-shrink: 0;
+}
+.zs-label { font-size: 5pt; color: var(--text-faint); text-transform: uppercase; }
+.zs-val   { font-size: 9pt; font-weight: bold; color: var(--stat-hi); }
+
+.zone-entry.bolsa { background: var(--nucleo-bg); border-color: var(--nucleo-dim); }
+.zone-entry.bolsa .zone-name  { color: var(--nucleo); }
+.zone-entry.bolsa .zone-desc  { color: #9a82b8; }
+.zone-entry.bolsa .zone-stats { border-left-color: var(--nucleo-dim); }
+.zone-entry.bolsa .zs-val     { color: var(--nucleo); }
+
+.strip-ambar    { background: #c8a030; }
+.strip-organico { background: #9452d0; }
+
+/* ─── RASGOS ─── */
+.rasgos-section {
+  border-top: 1px solid var(--border);
+  padding: 5pt 10pt;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4pt 14pt;
+  background: var(--surface);
+  flex-shrink: 0;
+}
+.rasgos-label {
+  grid-column: 1 / -1;
+  font-size: 5pt;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  text-transform: uppercase;
+  margin-bottom: 1pt;
+}
+.rasgo-name { color: var(--text); font-weight: bold; font-size: 6pt; }
+.rasgo-type { color: var(--text-faint); font-size: 5pt; margin-left: 2pt; }
+.rasgo-desc { font-size: 5.5pt; color: var(--text-dim); line-height: 1.4; margin-top: 1pt; }
+.rasgo-type.debilidad { color: var(--danger); }
+
+/* ─── TÉCNICAS ─── */
+.tecnicas-section { border-top: 2px solid var(--border-light); flex: 1; overflow: hidden; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 5.5pt;
+}
+thead th {
+  padding: 2pt 5pt;
+  text-align: left;
+  font-size: 5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  font-weight: normal;
+  white-space: nowrap;
+}
+tbody tr   { border-bottom: 1px solid var(--border); }
+tbody tr:last-child { border-bottom: none; }
+tbody td   { padding: 2pt 5pt; vertical-align: top; }
+.tc-name   { font-weight: bold; color: var(--text); white-space: nowrap; }
+.tc-anchor { color: var(--text-faint); white-space: nowrap; }
+.tc-ritmo  { color: var(--stat-hi); text-align: center; }
+.tc-ta     { color: var(--danger); font-weight: bold; text-align: center; }
+.tc-ti     { color: var(--stat-hi); font-weight: bold; text-align: center; }
+.tc-effect { color: var(--text-dim); line-height: 1.4; }
+.tc-effect em { color: var(--accent); font-style: normal; }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <!-- HEADER -->
+  <div class="card-header">
+    <div class="nr-badge">NR 1</div>
+    <div class="creature-name">Horror de Resina</div>
+    <div class="meta-tags">
+      <div>Rol: <b>Protector</b></div>
+      <div>Naturaleza: <b>Anomalía</b></div>
+      <div>Tamaño: <b>Pequeño</b></div>
+    </div>
+  </div>
+
+  <!-- TOP: image + stats -->
+  <div class="top-section">
+    <div class="image-slot">
+      <img src="../../assets/creatures/es/horror-resina.png" alt="Horror de Resina">
+    </div>
+    <div class="stats-panel">
+      <div class="char-grid">
+        <div class="section-label">Características</div>
+        <div class="char-values">
+          <div><span class="char-abbr">FUE</span><span class="char-val">1</span></div>
+          <div><span class="char-abbr">AGI</span><span class="char-val neg">−1</span></div>
+          <div><span class="char-abbr">TEN</span><span class="char-val">4</span></div>
+          <div><span class="char-abbr">AST</span><span class="char-val neg">−1</span></div>
+          <div><span class="char-abbr">INT</span><span class="char-val neg">−2</span></div>
+          <div><span class="char-abbr">SAB</span><span class="char-val">0</span></div>
+          <div><span class="char-abbr">AUR</span><span class="char-val">0</span></div>
+          <div><span class="char-abbr">PRE</span><span class="char-val neg">−1</span></div>
+          <div><span class="char-abbr">COM</span><span class="char-val">2</span></div>
+        </div>
+      </div>
+      <div class="derived-row">
+        <div><div class="d-label">Preparación</div><div class="d-val">0</div></div>
+        <div><div class="d-label">Resiliencia</div><div class="d-val">3</div></div>
+        <div><div class="d-label">Vel.</div><div class="d-val">4 m</div></div>
+      </div>
+      <div class="combat-stats">
+        <div class="combat-cell"><span class="combat-abbr">T.A.</span><span class="combat-val">+2</span></div>
+        <div class="combat-cell"><span class="combat-abbr">T.D.</span><span class="combat-val">+1</span></div>
+        <div class="combat-cell"><span class="combat-abbr">T.R.</span><span class="combat-val">+6</span></div>
+        <div class="combat-cell"><span class="combat-abbr">T.C.</span><span class="combat-val">+2</span></div>
+      </div>
+      <div class="info-block">
+        <div class="section-label">Armas</div>
+        <div class="info-val">Extremidad Fosilizada (1d6 + 2)</div>
+      </div>
+      <div class="info-block">
+        <div class="section-label">Especializaciones</div>
+        <div class="info-val dim">Tolerancia +6 · Agarre +3</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DESCRIPTION -->
+  <div class="desc-block">
+    Experimentos biológicos Vesper descartados y sellados vivos en ámbar. Pequeñas amalgamas asimétricas fusionadas con la resina que debía ser su tumba. Al descongelarse, el ámbar que aún tienen pegado es lo único que mantiene unidos sus cuerpos mutilados. Son extremadamente lentos, pero casi impermeables a las armas convencionales.
+  </div>
+
+  <!-- ZONAS -->
+  <div class="zones-section">
+    <div class="section-header">Zonas Anatómicas</div>
+    <div class="zones-grid">
+
+      <div class="zone-entry">
+        <div class="zone-strip strip-ambar"></div>
+        <div class="zone-main">
+          <div class="zone-material">Caparazón</div>
+          <div class="zone-name">Coraza de Ámbar</div>
+          <div class="zone-desc">
+            Cuerpo recubierto de resina petrificada. Ancla de <span class="anchor">Embestida Torpe</span> y <span class="anchor">Abrazo Pegajoso</span>. <span class="collapse">Al colapsar: expone la Bolsa Amniótica.</span>
+            <br>Debilidad: Fuego ablanda la resina — Bloqueo baja a 3 por el resto del combate.
+          </div>
+        </div>
+        <div class="zone-stats">
+          <div><span class="zs-label">PV</span><span class="zs-val">30</span></div>
+          <div><span class="zs-label">BLQ</span><span class="zs-val">6</span></div>
+        </div>
+      </div>
+
+      <div class="zone-entry bolsa">
+        <div class="zone-strip strip-organico"></div>
+        <div class="zone-main">
+          <div class="zone-material">Órgano vital</div>
+          <div class="zone-name">Bolsa Amniótica</div>
+          <div class="zone-desc">
+            Saco blando en espalda o cuello donde la resina nunca endureció. Atacable directamente sin colapsar la Coraza. <span class="collapse">A 0 PV: la criatura muere.</span>
+          </div>
+        </div>
+        <div class="zone-stats">
+          <div><span class="zs-label">PV</span><span class="zs-val">45</span></div>
+          <div><span class="zs-label">BLQ</span><span class="zs-val" style="color:var(--text-faint)">0</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- RASGOS -->
+  <div class="rasgos-section">
+    <div class="rasgos-label">Rasgos</div>
+    <div>
+      <span class="rasgo-name">Fusión Estructural</span><span class="rasgo-type">(Físico)</span>
+      <div class="rasgo-desc">Su bajo centro de gravedad y la resina pegajosa lo hacen casi inamovible. Inmune a la Alteración <em>Derribado</em>.</div>
+    </div>
+    <div>
+      <span class="rasgo-name">Prisión Combustible</span><span class="rasgo-type debilidad">(Debilidad)</span>
+      <div class="rasgo-desc">Cualquier cantidad de daño por Fuego ablanda la resina. Pierde el modificador de Caparazón — Bloqueo de la Coraza de Ámbar baja a 3 por el resto del combate.</div>
+    </div>
+  </div>
+
+  <!-- TÉCNICAS -->
+  <div class="tecnicas-section">
+    <div class="section-header">Técnicas</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Técnica</th><th>Ancla</th><th style="text-align:center">Ritmo</th>
+          <th>Rango / Área</th><th style="text-align:center">T.A.</th>
+          <th style="text-align:center">T.I.</th><th>Efecto</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tc-name">Golpe Fosilizado</td>
+          <td class="tc-anchor">Coraza</td>
+          <td class="tc-ritmo">6</td>
+          <td>1 mt / 1 criatura</td>
+          <td class="tc-ta">+2</td>
+          <td class="tc-ti">1d6+3</td>
+          <td class="tc-effect">Golpe con extremidad pesada recubierta de ámbar.</td>
+        </tr>
+        <tr>
+          <td class="tc-name">Abrazo Pegajoso</td>
+          <td class="tc-anchor">Coraza</td>
+          <td class="tc-ritmo">5</td>
+          <td>1 mt / 1 criatura</td>
+          <td class="tc-ta">+2</td>
+          <td class="tc-ti">—</td>
+          <td class="tc-effect">En lugar de daño: C.R. Agilidad o el objetivo queda <em>Apresado</em> (pegado a la resina del Horror).</td>
+        </tr>
+        <tr>
+          <td class="tc-name">Embestida Torpe</td>
+          <td class="tc-anchor">Coraza</td>
+          <td class="tc-ritmo">3</td>
+          <td>3 mt / 1 criatura</td>
+          <td class="tc-ta">+1</td>
+          <td class="tc-ti">1d8+3</td>
+          <td class="tc-effect">Mueve 3m en línea recta tropezando. Solo disponible si no está en combate cuerpo a cuerpo.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+</body>
+</html>

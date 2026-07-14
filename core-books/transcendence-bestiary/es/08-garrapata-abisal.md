@@ -4,7 +4,7 @@ type: bestiary
 content_kind: creature
 writing_mode: rules
 language: es
-chapter: 7
+chapter: 8
 status: draft
 canonical: false
 tags: [bestiary, adversary, parasite, abyssal, NR1, small]
@@ -16,7 +16,7 @@ related:
 
 <div class="monster-header">
 <h2 class="monster-name">Garrapata Abisal</h2>
-<div class="monster-meta">NR 1 · Rol: Golpeador/Emboscador · Tamaño: Pequeño</div>
+<div class="monster-meta">NR 1 · Rol: Golpeador/Emboscador · Naturaleza: Mortal · Tamaño: Pequeño</div>
 </div>
 
 <div class="monster-desc">
@@ -47,14 +47,20 @@ Depredador parasitario del tamaño de un lobo mastín, con exoesqueleto oxidado 
 
 ## Zonas Anatómicas
 
-**Caparazón de Óxido** *(Defensiva)* · Placa · PV 15 · Bloqueo 4 · Dur 10
-Placa dorsal hiper-densa. Si un ataque impacta esta zona, el daño se anula y el arma atacante sufre una T.R. de Ruptura o Desgaste Inmediato.
+**Caparazón de Óxido** · Placa · PV 15 · Bloqueo 4 · Dur 10
+Placa dorsal hiper-densa. Ancla de *Embestida de Caída*. Si un ataque impacta esta zona, el daño se anula y el arma atacante sufre una T.R. de Ruptura o Desgaste Inmediato.
 
-**Saco de Tinta Coagulada** *(Botín/Sensible)* · Órgano · PV 12 · Bloqueo 1 · Dur 2
-Vientre hinchado y ácido. Vulnerable al daño perforante y cortante. Si explota, todos a 2 metros deben superar una T.R. contra Veneno o sufrir el Veneno **Escaldado** (Leve). Si se extrae post-mortem con éxito (*Medicina*), otorga material orgánico **Volátil** (Grado 1).
+**Saco de Tinta Coagulada** · Órgano · PV 12 · Bloqueo 1 · Dur 2
+Vientre hinchado y ácido. Vulnerable al daño perforante y cortante. Ancla de *Vómito Corrosivo*. Si se extrae post-mortem con éxito (*Medicina*), otorga material orgánico **Volátil** (Grado 1). Al colapsar: el saco estalla — todos en 2 metros realizan T.R. contra Veneno o sufren **Escaldado** (Leve). Expone el Núcleo.
 
-**Probóscide** *(Núcleo)* · Apéndice · PV 10 · Bloqueo 0 · Dur 2
-Mandíbulas retráctiles expuestas solo al agarrar a un objetivo. Un ataque que destruya la probóscide causa fallo sistémico letal inmediato.
+**Probóscide** · Apéndice · PV 10 · Bloqueo 0 · Dur 2
+Mandíbulas retráctiles expuestas solo al engancharse a un objetivo. Ancla de *Drenaje Ácido*. Al colapsar: la criatura pierde toda capacidad de succionar y alimentarse; *Drenaje Ácido* deja de estar disponible.
+
+**Patas Articuladas** · Quitina · PV 15 · Bloqueo 2
+Ocho extremidades multiarticuladas usadas para aferrarse a superficies verticales y estructuras colgantes. Al colapsar: la criatura pierde la capacidad de trepar; si está en superficie vertical o colgante, cae al suelo. *Cazador de Sombras* se anula permanentemente.
+
+**Núcleo** · Vísceras · PV 20 · Bloqueo 0
+Órganos vitales internos. Accesible únicamente a través del Saco de Tinta Coagulada colapsado. Al llegar a 0 PV: la criatura muere.
 
 ## Rasgos
 
