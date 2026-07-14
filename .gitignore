@@ -9,3 +9,6 @@ core-books/transcendence-corebook/assets/puzzles/
 
 # Python virtual environments
 **/venv/
+
+# Local artifact backups (AGY export tool)
+agy-artifacts-backup/

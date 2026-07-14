@@ -62,25 +62,17 @@
     min-height: 0;
   }
 
-  /* Pág 02 — ataques crecen (6 filas) */
+  /* Pág 02 — ataques: altura explícita por fila, overflow:hidden evita desborde */
   .attacks-panel {
     flex: 1;
     min-height: 0;
     display: flex;
     flex-direction: column;
-  }
-
-  .attacks-panel .attacks-table {
-    flex: 1;
-    height: 100%;
-  }
-
-  .attacks-panel .attacks-table tbody {
-    height: 100%;
+    overflow: hidden;
   }
 
   .attacks-panel .attacks-table tbody tr {
-    height: 16.67%;
+    height: 0.32in;
   }
 
   /* Pág 03 — especializaciones crecen (16 filas por tabla) */
@@ -593,8 +585,8 @@ h2 {
 }
 
 .roll-reminder div {
-  min-height: 0.44in;
-  padding: 6px 8px;
+  min-height: 0.36in;
+  padding: 4px 8px;
   border: 1px solid #395d40;
   background: var(--paper-panel);
 }
@@ -647,8 +639,8 @@ h2 {
 }
 
 .mid-roll-grid .sheet-table td {
-  height: 0.225in;
-  padding: 2px 4px;
+  height: 0.19in;
+  padding: 1px 4px;
   font-size: 7pt;
 }
 
@@ -718,6 +710,7 @@ h2 {
 .impact-format i {
   display: block;
   height: 0.16in;
+  border-bottom: 1px solid #6f7f70;
 }
 
 .roll-grid {
@@ -741,6 +734,11 @@ h2 {
 
 .defense-table th:nth-child(5) {
   width: 22%;
+}
+
+.mid-roll-grid .zones-table td {
+  height: 0.165in;
+  padding: 1px 4px;
 }
 
 .zones-table th:nth-child(1) {
@@ -816,6 +814,10 @@ h2 {
   padding: 0;
 }
 
+.resistance-mod-block .writing-lines i {
+  height: 0.22in;
+}
+
 .wounds-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -844,7 +846,7 @@ h2 {
 }
 
 .wound-slots-table td {
-  height: 0.31in;
+  height: 0.26in;
 }
 
 .wound-boxes {
