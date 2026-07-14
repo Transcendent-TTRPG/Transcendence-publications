@@ -50,4 +50,86 @@ La dificultad de contagio y la dificultad de propagación pueden ser distintas �
 
 ## Catálogo
 
-El catálogo de entradas individuales de Infecciones — sus efectos mecánicos, períodos de incubación, dificultades de contagio y propagación, y condiciones de tratamiento — *está pendiente de definición*.
+---
+
+## Infección de Herida
+
+*Una herida mal cerrada no es solo dolor — es una puerta. Bacterias, esporas y parásitos oportunistas entran donde el tejido ya no puede defenderse.*
+
+**Aplicación:** Se establece cuando una herida abierta entra en contacto con material contaminado — cadáveres, agua estancada, suelo con alta carga orgánica, extracción de criatura sin kit adecuado, o herramientas no esterilizadas. La T.R. de Infecciones se realiza al finalizar la escena donde ocurrió la exposición.
+
+**Incubación:** 1 Descanso Corto. Los síntomas (enrojecimiento, calor local, supuración) se manifiestan antes del primer Descanso Completo.
+
+**Contagio:** Desafiante (8)
+
+**Propagación:** Solo por contacto directo con la zona infectada sin protección — manipular la herida sin kit. Fundamentos (5). No se propaga por contacto casual.
+
+**Escalación:** Sin tratamiento antes de cada Descanso Completo, escala un nivel de severidad.
+
+**Duración:** hasta eliminar
+
+**Recuperación:** T.E. Medicina durante Descanso Completo. Una T.E. exitosa reduce la severidad un nivel. Kit Básico (Leve), Kit Avanzado (Moderado), Kit Especializado (Grave).
+
+**Índice Alquímico:** 4 — fácil de identificar; cualquier entrenamiento básico en Medicina o Alquimia reconoce los signos.
+
+| Severidad | Efectos |
+| --- | --- |
+| **Leve** | Las ranuras de la zona infectada no pueden liberarse con Tratar mientras la infección esté activa, aunque la T.E. de Medicina tenga éxito. La infección debe tratarse primero. |
+| **Moderado** | Leve, más: la zona infectada tampoco puede ser Estabilizada — el tejido rechaza la intervención de cierre. |
+| **Grave** | Moderado, más: al inicio de cada Descanso Completo sin tratamiento previo, la zona infectada suma 1 ranura ocupada. Si la zona colapsa, aplican las reglas normales de zona colapsada. |
+
+---
+
+## Fiebre de Colapso
+
+*El cuerpo tiene una respuesta para casi todo. Esta lo obliga a pelear dos batallas al mismo tiempo — y ninguna las puede ganar.*
+
+**Aplicación:** Contacto físico sostenido con un portador sintomático — combate cuerpo a cuerpo, atención médica sin protección, agua o alimento compartidos en el mismo recipiente. La T.R. de Infecciones se realiza al terminar la escena de exposición.
+
+**Incubación:** 1 Descanso Completo. El personaje parece en buen estado hasta que aparecen los síntomas sistémicos: escalofríos, temperatura, desorientación leve.
+
+**Contagio:** Desafiante (8)
+
+**Propagación:** Contacto físico con un portador sintomático, incluyendo descanso compartido en espacio cerrado. Desafiante (8). Se propaga fácilmente entre grupos que no separan al infectado.
+
+**Escalación:** Sin tratamiento, escala un nivel de severidad por cada Descanso Completo adicional.
+
+**Duración:** hasta eliminar
+
+**Recuperación:** T.E. Medicina durante Descanso Completo. Una T.E. exitosa reduce la severidad un nivel. Kit Avanzado (Leve y Moderado), Kit Especializado (Grave). El Descanso Completo con T.E. exitosa recupera Fatiga normalmente para ese descanso.
+
+**Índice Alquímico:** 6
+
+| Severidad | Efectos |
+| --- | --- |
+| **Leve** | El Descanso Completo recupera solo 2 niveles de Fatiga en lugar de 3. |
+| **Moderado** | El Descanso Completo recupera solo 1 nivel de Fatiga. |
+| **Grave** | El Descanso Completo no recupera Fatiga. El cuerpo no puede metabolizar el estrés mientras la fiebre consume sus recursos. |
+
+---
+
+## Podredumbre Necrótica
+
+*No es que el tejido muera. Es que algo lo reemplaza.*
+
+**Aplicación:** Exposición a criaturas necrotizantes, heridas causadas por garras o mordiscos de portadores activos, o contacto directo con materia orgánica en estado de putrefacción avanzada. La T.R. de Infecciones se realiza inmediatamente tras la exposición.
+
+**Incubación:** 1 Descanso Completo. Sin síntomas visibles. Al manifestarse: decoloración y pérdida local de sensación en la zona de exposición.
+
+**Contagio:** Exigente (14)
+
+**Propagación:** Solo por contacto directo con tejido infectado expuesto — herida abierta, fluidos de la zona afectada. Desafiante (8). No se propaga por contacto casual o proximidad.
+
+**Escalación:** Sin tratamiento, escala un nivel de severidad por cada Descanso Completo adicional.
+
+**Duración:** hasta eliminar
+
+**Recuperación:** T.E. Medicina durante Descanso Completo. Una T.E. exitosa reduce la severidad un nivel. Kit Especializado en todas las severidades. Identificación del agente requiere Entendimiento (Alquimia o Medicina) a dificultad Rigurosa.
+
+**Índice Alquímico:** 9
+
+| Severidad | Efectos |
+| --- | --- |
+| **Leve** | Las ranuras de todas las zonas heridas del objetivo no pueden liberarse con Tratar mientras la infección esté activa. |
+| **Moderado** | Leve, más: al inicio de cada Descanso Completo sin tratamiento previo, la zona de mayor ocupación suma 1 ranura ocupada. Si la zona colapsa, aplican las reglas normales. |
+| **Grave** | Moderado, pero la suma de ranura ocurre también al inicio de cada Descanso Corto de 60 minutos sin tratamiento. Si una zona ya está colapsada, la suma pasa a la siguiente zona de mayor ocupación. |

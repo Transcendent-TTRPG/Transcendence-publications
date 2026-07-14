@@ -109,11 +109,13 @@ Cada fórmula especifica cuántas unidades del reactivo y cuántas plantas o rea
 
 A continuación se presentan fórmulas representativas. Las cantidades de reactivos aparecen en la entrada de cada fórmula; la rareza de la fórmula determina el tiempo de fabricación y el número de dosis del lote.
 
+Cada fórmula indica el **Índice mín.** requerido. Este valor es el índice alquímico total que deben sumar las plantas usadas como reactivos botánicos. Cada planta tiene su índice alquímico definido en el catálogo de plantas. Si las plantas elegidas no alcanzan ese total, la síntesis no puede comenzar — la complejidad catalítica mínima no está cubierta.
+
 ---
 
 ### Elixir Curativo
 
-**Rareza:** Común · **Vía:** Ingestión · **Reactivo:** Glándula (1) · **Plantas:** 1
+**Rareza:** Común · **Vía:** Ingestión · **Reactivo:** Glándula (1) · **Plantas:** 1 · **Índice mín.:** 4
 
 Fuerza al metabolismo a estabilizar tejido rasgado y cerrar hemorragias por pura sobremarcha biológica. Al consumirlo, el personaje reduce 2 puntos de Desgaste. No tiene efecto mientras el personaje esté Inconsciente o en Agonía.
 
@@ -123,7 +125,7 @@ Fuerza al metabolismo a estabilizar tejido rasgado y cerrar hemorragias por pura
 
 ### Elixir de Aguante
 
-**Rareza:** Común · **Vía:** Contacto · **Reactivo:** Órgano (1) · **Plantas:** 2 · **Duración:** 3 horas
+**Rareza:** Común · **Vía:** Contacto · **Reactivo:** Órgano (1) · **Plantas:** 2 · **Índice mín.:** 8 · **Duración:** 3 horas
 
 Inyecta una densa capa de estimulantes bioquímicos para adormecer el dolor y estabilizar la fatiga estructural. Mientras dura el efecto, el personaje incrementa su Aguante en 1. Los beneficios de múltiples dosis no se acumulan — aplica el valor más alto.
 
@@ -133,7 +135,7 @@ Inyecta una densa capa de estimulantes bioquímicos para adormecer el dolor y es
 
 ### Elixir de Agudeza Sensorial
 
-**Rareza:** Común · **Vía:** Inhalación · **Reactivo:** Fluido (1) · **Plantas:** 3 · **Duración:** 2 horas
+**Rareza:** Común · **Vía:** Inhalación · **Reactivo:** Fluido (1) · **Plantas:** 3 · **Índice mín.:** 10 · **Duración:** 2 horas
 
 Agudiza la percepción sensorial de forma temporal. Mientras dura el efecto, el personaje obtiene +1 a las tiradas de Percepción. Los beneficios de múltiples dosis no se acumulan.
 
@@ -143,7 +145,7 @@ Agudiza la percepción sensorial de forma temporal. Mientras dura el efecto, el 
 
 ### Veneno Paralizante
 
-**Rareza:** Raro · **Vía:** Inoculación · **Reactivo:** Fluido (1) · **Plantas:** 3
+**Rareza:** Raro · **Vía:** Inoculación · **Reactivo:** Fluido (1) · **Plantas:** 3 · **Índice mín.:** 15
 
 Al entrar en el flujo sanguíneo, el compuesto compromete el control neuromuscular. El objetivo realiza una T.R. de Veneno — si falla, sufre Ralentizado. Si falla por 3 rangos o más, queda Inmovilizado.
 
@@ -153,7 +155,7 @@ Al entrar en el flujo sanguíneo, el compuesto compromete el control neuromuscul
 
 ### Veneno de Confusión
 
-**Rareza:** Común · **Vía:** Inoculación · **Reactivo:** Glándula (1) · **Plantas:** 2
+**Rareza:** Común · **Vía:** Inoculación · **Reactivo:** Glándula (1) · **Plantas:** 2 · **Índice mín.:** 10
 
 Interfiere con los procesos de orientación y toma de decisiones del objetivo. El objetivo realiza una T.R. de Veneno — si falla, sufre Desorientado.
 
@@ -163,7 +165,7 @@ Interfiere con los procesos de orientación y toma de decisiones del objetivo. E
 
 ### Veneno de Letargo
 
-**Rareza:** Raro · **Vía:** Ingestión · **Reactivo:** Fluido (1) · **Plantas:** 2
+**Rareza:** Raro · **Vía:** Ingestión · **Reactivo:** Fluido (1) · **Plantas:** 2 · **Índice mín.:** 12
 
 Suprime la reactividad muscular y la velocidad de respuesta. El objetivo realiza una T.R. de Veneno — si falla, sufre −1 a todas las T.A. y no puede realizar reacciones hasta que el efecto cese.
 
@@ -173,8 +175,47 @@ Suprime la reactividad muscular y la velocidad de respuesta. El objetivo realiza
 
 ### Veneno de Inercia
 
-**Rareza:** Excepcional · **Vía:** Inoculación · **Reactivo:** Sistema nervioso (1) · **Plantas:** 2
+**Rareza:** Excepcional · **Vía:** Inoculación · **Reactivo:** Sistema nervioso (1) · **Plantas:** 2 · **Índice mín.:** 18
 
 Un colapso neurológico total. Ataca directamente el puente espinal de la bestia, ahogando sus señales nerviosas. El objetivo realiza una T.R. de Veneno — si falla, queda Inmovilizado. Mientras persiste el efecto, no puede tomar ninguna acción voluntaria. La T.R. puede repetirse al inicio de cada activación del objetivo.
 
 **Disponibilidad:** Singular
+
+---
+
+### Veneno Inhibidor
+
+**Rareza:** Raro · **Vía:** Inoculación · **Reactivo:** Glándula (1) · **Plantas:** 2 · **Índice mín.:** 12
+
+Suprime la respuesta bioquímica de reparación del objetivo. El objetivo realiza una T.R. de Veneno — si falla, todas las T.E. de Medicina para Estabilizar o Tratar cualquier Zona del objetivo aumentan su dificultad en un nivel mientras el veneno esté activo. La T.R. puede repetirse al inicio de cada activación del objetivo.
+
+**Disponibilidad:** Limitada
+
+---
+
+### Veneno Anticoagulante
+
+**Rareza:** Raro · **Vía:** Inoculación · **Reactivo:** Fluido (1) · **Plantas:** 3 · **Índice mín.:** 15
+
+Desactiva los mecanismos de coagulación del objetivo. El objetivo realiza una T.R. de Veneno — si falla, la acción Estabilizar no puede ejecutarse sobre ninguna Zona del objetivo mientras el veneno esté activo. Las ranuras ocupadas siguen sujetas al deterioro normal. La T.R. puede repetirse al inicio de cada activación del objetivo.
+
+**Disponibilidad:** Limitada
+
+---
+
+### Cataplasma Estabilizadora
+
+**Rareza:** Común · **Vía:** Contacto · **Reactivo:** Fluido (1) · **Plantas:** 2 · **Índice mín.:** 8
+
+Combina extractos coagulantes y astringentes para sellar hemorragias superficiales y contener el deterioro de tejido comprometido. La cataplasma se aplica directamente sobre la Zona herida.
+
+Al usarla para ejecutar la acción Estabilizar:
+
+- No requiere Kit Médico — la cataplasma actúa como sustituto del kit para esa acción.
+- Si la Zona tiene 1–2 ranuras ocupadas, puede intentarse durante un Descanso Corto de 15 minutos en lugar de los 30 minutos normalmente requeridos.
+
+La cataplasma no libera ranuras de herida. Solo detiene el deterioro activo. La tirada de Medicina sigue siendo necesaria.
+
+Una dosis cubre una Zona.
+
+**Disponibilidad:** General
