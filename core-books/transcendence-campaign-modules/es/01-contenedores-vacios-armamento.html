@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contenedores Vacíos — Armamento del Almacén</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+    @page { size: A4 portrait; margin: 0; }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { background: #ccc9bc; }
+
+    body {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 10pt;
+      line-height: 1.4;
+      color: #102016;
+      padding: 1rem;
+    }
+
+    /* ── Page shell ── */
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto 1.5rem;
+      padding: 13mm 15mm 14mm;
+      background:
+        linear-gradient(90deg, rgba(68,48,28,0.032) 1px, transparent 1px),
+        linear-gradient(rgba(68,48,28,0.028) 1px, transparent 1px),
+        repeating-linear-gradient(11deg, rgba(70,51,30,0.025) 0 1px, transparent 1px 7px),
+        #efe8d5;
+      background-size: 0.22in 0.22in, 0.22in 0.22in, auto, auto;
+      border: 1px solid #213624;
+      box-shadow: 0 16px 48px rgba(10,26,15,0.22);
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    @media print {
+      body { background: none; padding: 0; }
+      .page {
+        width: 210mm;
+        height: 297mm;
+        min-height: unset;
+        margin: 0;
+        box-shadow: none;
+        page-break-after: always;
+        overflow: hidden;
+      }
+      .page:last-child { page-break-after: auto; }
+    }
+
+    /* ── Page header ── */
+    .page-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 12px;
+      padding-bottom: 9px;
+      border-bottom: 3px double #203722;
+      margin-bottom: 11px;
+    }
+
+    .page-header .kicker {
+      display: block;
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 7pt;
+      color: #395d40;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+
+    .page-header h1 {
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 20pt;
+      color: #0a1a0f;
+      text-transform: uppercase;
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .page-mark {
+      text-align: right;
+      flex-shrink: 0;
+      font-family: 'Cinzel', Palatino, serif;
+    }
+    .page-mark span {
+      display: block;
+      font-size: 14pt;
+      color: #0a1a0f;
+      line-height: 1;
+    }
+    .page-mark small {
+      display: block;
+      font-size: 7pt;
+      color: #395d40;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    /* ── Context box ── */
+    .context-box {
+      border: 1px solid #7c927d;
+      background: rgba(57, 93, 64, 0.06);
+      padding: 6px 10px;
+      margin-bottom: 10px;
+      font-size: 8pt;
+      color: #243727;
+      font-style: italic;
+      line-height: 1.45;
+    }
+    .context-box strong {
+      font-style: normal;
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 7.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #0a1a0f;
+    }
+
+    /* ── Panel ── */
+    .panel {
+      border: 1.5px solid #203722;
+      margin-top: 10px;
+    }
+
+    .panel:first-of-type { margin-top: 0; }
+
+    .panel-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 5px 9px 4px;
+      background: rgba(23, 43, 26, 0.94);
+      border-bottom: 1px solid #395d40;
+    }
+
+    .panel-heading h2 {
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 8.5pt;
+      font-weight: 600;
+      color: #e8efe8;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .panel-heading .sub {
+      font-family: 'Crimson Text', Georgia, serif;
+      font-size: 7.5pt;
+      color: rgba(232, 239, 232, 0.7);
+      font-style: italic;
+    }
+
+    /* ── Tables ── */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    thead th {
+      padding: 3px 5px 2px;
+      background: rgba(23, 43, 26, 0.78);
+      color: #d4e4d4;
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 6pt;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      text-align: left;
+      border: 1px solid #395d40;
+      line-height: 1.1;
+    }
+
+    tbody td {
+      padding: 4px 6px;
+      border: 1px solid #7c927d;
+      font-size: 8.5pt;
+      color: #102016;
+      vertical-align: middle;
+      background: rgba(249, 243, 226, 0.28);
+      line-height: 1.3;
+    }
+
+    tbody tr:nth-child(even) td {
+      background: rgba(249, 243, 226, 0.12);
+    }
+
+    td.center, th.center { text-align: center; }
+
+    td .name {
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 8.5pt;
+      font-weight: 600;
+      color: #0a1a0f;
+    }
+
+    /* ── Armor type badges ── */
+    .badge {
+      display: inline-block;
+      padding: 1px 7px;
+      border-radius: 1px;
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 6.5pt;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      vertical-align: middle;
+    }
+    .badge-ligera    { background: #b89650; color: #1a1000; }
+    .badge-intermedia{ background: #6a7a8a; color: #eef0f4; }
+    .badge-pesada    { background: #2e3040; color: #d8d4e0; }
+
+    /* ── Characteristic badges ── */
+    .char-badge {
+      display: inline-block;
+      padding: 1px 6px;
+      font-family: 'Cinzel', Palatino, serif;
+      font-size: 6.5pt;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border-radius: 1px;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+    .char-FUE { background: #7a2a2a; color: #f5e0e0; }
+    .char-AGI { background: #2a5a3a; color: #e0f0e8; }
+    .char-TEN { background: #4a3a7a; color: #ece8f5; }
+    .char-AST { background: #6a5820; color: #f5f0dc; }
+    .char-SAB { background: #1e4a6a; color: #daeef8; }
+
+    /* ── Mobility notes ── */
+    .mob-full  { color: #1a4a2a; font-size: 8pt; }
+    .mob-half  { color: #4a3a0a; font-size: 8pt; }
+    .mob-none  { color: #4a1a1a; font-size: 8pt; }
+
+    /* ── Panel note ── */
+    .panel-note {
+      padding: 5px 9px 6px;
+      border-top: 1px solid rgba(57,93,64,0.3);
+      background: rgba(57,93,64,0.04);
+      font-size: 7.5pt;
+      color: #2e4f32;
+      font-style: italic;
+      line-height: 1.4;
+    }
+
+    /* ── Bonus cell highlights ── */
+    .bonus-lig { color: #6b4e10; }
+    .bonus-int { color: #2a3d52; }
+    .bonus-pes { color: #1a1e2e; }
+
+    /* ── Divider ── */
+    .divider {
+      border: none;
+      border-top: 1px solid rgba(57,93,64,0.25);
+      margin: 10px 0;
+    }
+
+    /* ── Weapon family color stripe ── */
+    .family-cell {
+      font-size: 8pt;
+      color: #243727;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════════════
+       PÁGINA 1 — ARMADURAS
+       ═══════════════════════════════════════════════════ -->
+  <div class="page">
+    <header class="page-header">
+      <div>
+        <span class="kicker">Módulo 01 · Contenedores Vacíos — Almacén de Contención</span>
+        <h1>Armaduras</h1>
+      </div>
+      <div class="page-mark">
+        <span>01</span>
+        <small>Armamento</small>
+      </div>
+    </header>
+
+    <div class="context-box">
+      <strong>Recuerdo Muscular</strong> — El Narrador les indica que elijan con qué vestirse. Sus manos se mueven instintivamente
+      hacia lo que les resulta familiar. Llena las 5 zonas de la tabla ZONAS (pág. 02) con los mismos valores según el tipo elegido.
+      Todos son de <strong>Grado 1</strong>. No tienes Competencia Defensiva todavía — no suma al Bloqueo.
+    </div>
+
+    <!-- Main armor table -->
+    <div class="panel">
+      <div class="panel-heading">
+        <h2>Tipo de Armadura</h2>
+        <span class="sub">mismos valores para las 5 zonas</span>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:23%">Tipo · Material</th>
+            <th style="width:10%" class="center">Bloqueo</th>
+            <th style="width:8%"  class="center">BC</th>
+            <th style="width:8%"  class="center">BM</th>
+            <th style="width:12%" class="center">Durabilidad</th>
+            <th style="width:39%">Movilidad</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="badge badge-ligera">Ligera</span>&ensp;<span style="font-size:7.5pt;color:#5a4020">Cuero</span></td>
+            <td class="center"><strong>3</strong></td>
+            <td class="center">2</td>
+            <td class="center">1</td>
+            <td class="center">10</td>
+            <td class="mob-full">Evasión Completa &middot; Agilidad Completa</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-intermedia">Intermedia</span>&ensp;<span style="font-size:7.5pt;color:#3a4a5a">Hierro</span></td>
+            <td class="center"><strong>6</strong></td>
+            <td class="center">4</td>
+            <td class="center">2</td>
+            <td class="center">14</td>
+            <td class="mob-half">Evasión Completa &middot; Agilidad a la Mitad</td>
+          </tr>
+          <tr>
+            <td><span class="badge badge-pesada">Pesada</span>&ensp;<span style="font-size:7.5pt;color:#3a3a4a">Acero</span></td>
+            <td class="center"><strong>9</strong></td>
+            <td class="center">6</td>
+            <td class="center">3</td>
+            <td class="center">20</td>
+            <td class="mob-none">Evasión a la Mitad &middot; Agilidad No Aplica</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="panel-note">BC = Bloqueo de Coraza (pasivo, material) · BM = Bloqueo de Maestría (competencia) · Al ser Nivel 0, BM es 0 — no lo anotes aún.</p>
+    </div>
+
+    <!-- Piece bonus table -->
+    <div class="panel">
+      <div class="panel-heading">
+        <h2>Bonificadores por Pieza</h2>
+        <span class="sub">Grado 1 — todos +1</span>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:14%">Pieza</th>
+            <th style="width:29%"><span class="badge badge-ligera" style="font-size:5.5pt">Ligera</span> Cuero</th>
+            <th style="width:29%"><span class="badge badge-intermedia" style="font-size:5.5pt">Intermedia</span> Hierro</th>
+            <th style="width:28%"><span class="badge badge-pesada" style="font-size:5.5pt">Pesada</span> Acero</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">Casco</td>
+            <td class="bonus-lig">+1 a Preparación</td>
+            <td class="bonus-int">+1 a T.E. de Compostura</td>
+            <td class="bonus-pes">+1 a T.R. contra conmoción, ceguera y aturdimiento</td>
+          </tr>
+          <tr>
+            <td class="name">Peto</td>
+            <td class="bonus-lig">+3 a Aguante</td>
+            <td class="bonus-int">+2 a Aguante</td>
+            <td class="bonus-pes">+1 a Aguante</td>
+          </tr>
+          <tr>
+            <td class="name">Brazales</td>
+            <td class="bonus-lig">+1 a T.A. en Técnicas Reactivas</td>
+            <td class="bonus-int">+1 a T.A. en Técnicas Activas</td>
+            <td class="bonus-pes">+1 a T.I. en Técnicas Activas</td>
+          </tr>
+          <tr>
+            <td class="name">Pantalón</td>
+            <td class="bonus-lig">+1 a T.E. de Agilidad</td>
+            <td class="bonus-int">+1 a T.E. de Fuerza</td>
+            <td class="bonus-pes">+1 a T.E. de Tenacidad</td>
+          </tr>
+          <tr>
+            <td class="name">Botas</td>
+            <td class="bonus-lig">+1 al Movimiento</td>
+            <td class="bonus-int">+1 a tiradas reactivas<br><span style="font-size:7.5pt;color:#395d40">(equilibrio, esquivar efectos de área)</span></td>
+            <td class="bonus-pes">+1 a T.R. contra derribo, desplazamiento y desestabilización</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="panel-note">El Peto Ligero da más Aguante porque permite mayor libertad de movimiento; el Pesado lo restringe.</p>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════════════════
+       PÁGINA 2 — ARMAS INSIGNIA
+       ═══════════════════════════════════════════════════ -->
+  <div class="page">
+    <header class="page-header">
+      <div>
+        <span class="kicker">Módulo 01 · Contenedores Vacíos — Almacén de Contención</span>
+        <h1>Armas Insignia</h1>
+      </div>
+      <div class="page-mark">
+        <span>02</span>
+        <small>Armamento</small>
+      </div>
+    </header>
+
+    <div class="context-box">
+      <strong>Recuerdo Muscular</strong> — Todas las armas del bastidor son de <strong>Hierro, Grado 1</strong> (la Honda es de Cuero)
+      y tienen estadísticas iguales. La decisión es de <em>estilo de combate</em>: elige el arma cuya
+      Característica encaje con tu Trasfondo y tus tiradas más frecuentes. <strong>No anotes Competencia — permanece en 0.</strong>
+    </div>
+
+    <div class="panel">
+      <div class="panel-heading">
+        <h2>Armas disponibles en el bastidor</h2>
+        <span class="sub">Grado 1 · Potencia 12 · Dur. 14 salvo excepción</span>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:20%">Arma</th>
+            <th style="width:19%">Familia</th>
+            <th style="width:18%">Característica</th>
+            <th style="width:9%" class="center">Potencia</th>
+            <th style="width:9%" class="center">Dur.</th>
+            <th style="width:25%">Notas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">Dory</td>
+            <td class="family-cell">Lanza</td>
+            <td><span class="char-badge char-AGI">Agilidad</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Skeggox</td>
+            <td class="family-cell">Hacha</td>
+            <td><span class="char-badge char-FUE">Fuerza</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Khopesh</td>
+            <td class="family-cell">Hoja Larga</td>
+            <td><span class="char-badge char-TEN">Tenacidad</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Kris</td>
+            <td class="family-cell">Daga</td>
+            <td><span class="char-badge char-AST">Astucia</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Schiavona</td>
+            <td class="family-cell">Hoja Larga</td>
+            <td><span class="char-badge char-SAB">Sabiduría</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Kusari-Fundo</td>
+            <td class="family-cell">Arma Flexible</td>
+            <td><span class="char-badge char-AST">Astucia</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#395d40">Hierro</td>
+          </tr>
+          <tr>
+            <td class="name">Francisca</td>
+            <td class="family-cell">Arma Arrojadiza</td>
+            <td><span class="char-badge char-FUE">Fuerza</span></td>
+            <td class="center">12</td>
+            <td class="center">14</td>
+            <td style="font-size:7.5pt;color:#243727">Hierro · solo Hoja</td>
+          </tr>
+          <tr>
+            <td class="name">Balearic</td>
+            <td class="family-cell">Arma a Distancia</td>
+            <td><span class="char-badge char-AGI">Agilidad</span></td>
+            <td class="center">3</td>
+            <td class="center">10</td>
+            <td style="font-size:7.5pt;color:#5a4020">Cuero (Honda)</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="panel-note">El Balearic (Honda) tiene Potencia 3 y Durabilidad 10 — su material es cuero, no hierro. Elegir por estilo, no por estadísticas.</p>
+    </div>
+
+    <!-- Natural weapons note -->
+    <div class="panel">
+      <div class="panel-heading">
+        <h2>Armas Naturales (Alternativa)</h2>
+      </div>
+      <div style="padding: 7px 10px 8px; font-size: 8.5pt; line-height: 1.5; color: #102016; background: rgba(249,243,226,0.28);">
+        Si tu especie posee <strong>Armas Naturales</strong> (garras, mordisco, cola, aguijón), puedes elegirlas
+        en lugar de tomar un arma del bastidor. Los valores de Potencia y Característica los define tu especie.
+        Anota los valores en la tabla de <strong>Ataques e Impacto</strong> de tu hoja de personaje (pág. 02).
+      </div>
+    </div>
+
+    <!-- Trasfondo crossref -->
+    <div class="panel">
+      <div class="panel-heading">
+        <h2>Guía de Selección por Trasfondo</h2>
+        <span class="sub">elige el arma cuya característica usas más</span>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:25%">Trasfondo</th>
+            <th style="width:22%">Característica principal</th>
+            <th style="width:53%">Armas sugeridas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">Artista Marcial</td>
+            <td><span class="char-badge char-FUE">Fuerza</span> &middot; <span class="char-badge char-AGI">Agilidad</span></td>
+            <td style="font-size:8pt">Skeggox · Francisca · Dory</td>
+          </tr>
+          <tr>
+            <td class="name">Errante</td>
+            <td><span class="char-badge char-AST">Astucia</span></td>
+            <td style="font-size:8pt">Kris · Kusari-Fundo</td>
+          </tr>
+          <tr>
+            <td class="name">Artesano</td>
+            <td><span class="char-badge char-SAB">Sabiduría</span></td>
+            <td style="font-size:8pt">Schiavona</td>
+          </tr>
+          <tr>
+            <td class="name">Custodio</td>
+            <td><span class="char-badge char-TEN">Tenacidad</span></td>
+            <td style="font-size:8pt">Khopesh · Balearic (distancia)</td>
+          </tr>
+          <tr>
+            <td class="name">Noble</td>
+            <td><span class="char-badge char-AGI">Agilidad</span> &middot; <span class="char-badge char-TEN">Tenacidad</span></td>
+            <td style="font-size:8pt">Dory · Khopesh · Schiavona</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="panel-note">La tabla es orientativa. Un Noble puede elegir un Hacha si lo desea — el Recuerdo Muscular no tiene reglas, solo ficción.</p>
+    </div>
+  </div>
+
+</body>
+</html>

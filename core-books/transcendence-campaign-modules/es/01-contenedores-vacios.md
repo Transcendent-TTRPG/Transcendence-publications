@@ -160,6 +160,9 @@ Este cuarto era el almacén de contención donde los Vesper guardaban las armadu
 
 Al entrar, descubren bastidores con armas forjadas y petos colgados en la penumbra. El Narrador debe pedirles a los jugadores que elijan con qué vestirse y armarse. Al igual que con su Trasfondo, sus manos se mueven por puro **Recuerdo Muscular** hacia aquello que les resulta familiar.
 
+#### El Despertar del Estilo de Combate
+Al sostener el peso de un arma (o al rechazarla por ser incómoda), los instintos de combate de los personajes se asientan. El Narrador debe indicarles: *"Al sopesar el acero en sus manos o al mirar sus propias garras, la memoria muscular regresa a ustedes. Decidan en este instante y anoten en su hoja si instintivamente se sienten más cómodos empuñando Armas Fabricadas (espadas, hachas, lanzas) o usando las Armas Naturales de su propia especie. Esto definirá su nivel base para calcular con qué impactan y cuánto daño harán."*
+
 #### 3.1. El Hallazgo del Ancla (El Primer Recuerdo Emocional)
 Mientras se equipan buscando entre las pilas de pertrechos, descubren un cajón de descarte donde los Vesper arrojaban las pertenencias confiscadas a los sujetos antes de arrojarlos al foso. Al rebuscar allí, sucede algo inesperado:
 
@@ -235,7 +238,7 @@ Este es el primer obstáculo físico del juego. El sonido húmedo de la biomasa 
 En *Transcendence*, las soluciones no están predefinidas por el módulo; nacen de la interacción de los jugadores con su entorno. El Narrador debe describir el húmedo pozo de 8 metros y preguntar a la mesa: *"¿Qué hacen para lograr subir?"*.
 Dependiendo de la idea propuesta, el Narrador asignará la **Tirada de Especialización** o **Atributo** adecuada. Ejemplos de enfoques:
 - **Físico:** Si deciden trepar a pulso puro, arriesgándose a resbalar, realizarán una tirada de **Agilidad (Acrobacias)** o **Fuerza (Atletismo)** con penalización por la humedad. Sin embargo, si en el almacén tuvieron la astucia de llevarse correas de cuero o cadenas pesadas, el Narrador debería narrar cómo se aseguran unos a otros, reduciendo o eliminando la dificultad.
-- **Técnico/Mental:** Si un personaje prefiere examinar el pozo en lugar de saltar a ciegas, puede hacer una tirada de **Intelecto (Identificación/Ingeniería)** o **Sabiduría (Interpretación)**. Un éxito podría revelar un viejo sistema de contrapesos y poleas incrustado en la pared bajo una costra de resina, permitiendo hackear un montacargas primitivo para que el grupo suba sin esfuerzo atlético.
+- **Técnico/Mental:** Si un personaje prefiere examinar el pozo en lugar de saltar a ciegas, puede hacer una tirada de **Intelecto (Identificación)** o **Sabiduría (Ingeniería o Percepción)**. Un éxito podría revelar un viejo sistema de contrapesos y poleas incrustado en la pared bajo una costra de resina, permitiendo hackear un montacargas primitivo para que el grupo suba sin esfuerzo atlético.
 - **Colaborativo:** Alguien con gran envergadura (ej. un Ursari o Ceratox) podría simplemente tirar de Fuerza para impulsar a los más livianos hacia arriba.
 
 *(Una vez que superen el pozo vertical de 8 metros, los personajes dejarán atrás el drenaje e ingresarán oficialmente a la Capa Media (Nivel 2: La Ciudadela Vesper).*
@@ -258,10 +261,6 @@ Apenas el primer jugador asoma la cabeza sobre el borde del Pozo Vertical, se to
 > *"La cornisa de piedra negra frente a ustedes está resbaladiza por la sangre fresca. A escasos metros, bloqueando la salida del pozo y dándoles la espalda, hay una bestia del tamaño de un buey destrozando los restos de un Vesper. Su piel es gris y sin pelo, semejante a la de una hiena. No tiene ojos en su rostro, pero el sonido de ustedes al subir y el penetrante olor del líquido amnésico que empapa su ropa la alertan.*
 > 
 > *La bestia suelta el cadáver. Su cuello se expande violentamente. Lanza un chillido ensordecedor y se prepara para saltar sobre la cornisa."*
-
-#### El Despertar de la Memoria Muscular
-Antes de desplegar las posiciones y calcular daños, el Narrador debe pausar brevemente. Los personajes sufren de amnesia, pero la proximidad de la muerte dispara instintos físicos primitivos. 
-El Narrador indica: *"El terror absoluto al ver cómo la bestia devora al guardia despierta una memoria muscular dormida en sus cuerpos. Antes de que el Carroñero salte sobre ustedes, decidan en este instante y anoten en su hoja si instintivamente se sienten más cómodos empuñando Armas Fabricadas (martillos, espadas, lanzas) o usando las Armas Naturales de su propia especie (garras, colmillos, púas). Esto definirá su competencia y nivel base para calcular con qué impactan y cuánto daño harán."*
 
 #### La Pista ATB y la Táctica Anatómica
 Este es el momento exacto para que el Narrador emplace la **Pista ATB**. Los personajes no pueden evadir ni dialogar; están acorralados entre el monstruo y el vacío del pozo a sus espaldas.
@@ -360,7 +359,7 @@ El Narrador debe pausar el ritmo y describir la devastación a escala kilométri
 *   **Iluminación:** Hay enormes colonias de hongos bioluminiscentes alimentándose de la biomasa derramada, y fuegos químicos azules ardiendo entre los escombros. Mecánicamente actúan como una red irregular de **Antorchas** (Rango de luz clara: 4 m, pero reducido a 2 m por la condición visual densa del humo).
 *   **Mecánica de Ocultación:** Debido a los gases opresivos y la luz caótica, cualquier criatura (PJs o carroñeros) más allá de los 10 metros entra en pérdida total de línea de visión, lo que justifica perfectamente el uso de la acción *Ocultarse* a campo abierto.
 
-### 2. Sandbox Sensorial (Herramientas para el Narrador)
+### 3. Sandbox Sensorial (Herramientas para el Narrador)
 En este inmenso nodo **no hay combates formales** y **no hay un camino predefinido**. La Aberración mayor ya abrió una inmensa brecha en las bóvedas superiores y se fue. El verdadero enemigo aquí es el entorno inestable. 
 El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es describir lo que perciben y dejar que los jugadores decidan cómo navegar este gigantesco cráter de varias horas de extensión.
 
@@ -369,7 +368,7 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 #### A. El Mar de Ácido (La Ruta Inferior)
 *   **Impresión Sensorial:** Un hedor picante que irrita los pulmones (azufre y bilis). Niebla densa amarillenta a ras del fango. El sonido constante de burbujeo espeso y un calor abrumador.
 *   **El Estado Actual:** El líquido biológico de los contenedores reventados se empozó en el fondo del cráter. Visibilidad casi nula.
-*   **Peligros (Mecánica):** No hay monstruos aquí porque el fango derrite la carne lentamente. El riesgo es pisar un sumidero ácido oculto o desorientarse en la niebla (requiere tiradas de *Supervivencia* o *Resistencia Físico-Química*).
+*   **Peligros (Mecánica):** No hay monstruos aquí porque el fango derrite la carne lentamente. El riesgo es pisar un sumidero ácido oculto o desorientarse en la niebla (requiere tiradas de *Supervivencia* o una **T.R. contra Venenos** para soportar el entorno).
 *   **Conexiones:** Si bordean la pared este por esta ruta inferior, llegarán directamente a la *Entrada al Matadero*.
 
 #### B. El Puente de Hueso (La Ruta Superior)
@@ -393,12 +392,12 @@ El Narrador no debe ofrecer un menú de opciones a los jugadores. Su tarea es de
 Sin importar qué ruta hayan tomado (y cuán heridos lleguen), el inmenso cráter termina abruptamente frente a un muro colosal de basalto tallado. Incrustada en la roca, se alza la **Puerta del Matadero de Tinta**: una estructura ciclópea de bronce ennegrecido y fémures entrelazados, sellada herméticamente.
 
 Aquí se desarrolla el último desafío del tutorial: **El Acorde Hidráulico** (Un puzzle de deducción bajo presión).
-A medida que los personajes se acercan a la puerta, el Narrador debe narrar cómo el eco de sus pasos, el olor de su sangre o simplemente su presencia atrae la atención de la jauría de Carroñeros Ciegos que patrullan el fondo del cráter. No es un combate que puedan ganar; es una avalancha biológica inminente. Tienen exactamente **3 Turnos de Error** para abrir la bóveda antes de ser devorados.
+A medida que los personajes se acercan a la puerta, el Narrador debe describir el fondo del cráter. Una jauría entera de Carroñeros Ciegos está reunida en la oscuridad, devorando frenéticamente los cadáveres Vesper. No los han detectado, pero la distancia es alarmantemente corta y no es un combate que puedan ganar. Tienen exactamente **3 Niveles de Tolerancia al Ruido (Turnos de Error)** para abrir la bóveda sin alertar a la manada.
 
 #### El Puzzle de la Puerta Vesper
 Fieles a su biología ciega, los Vesper no usaban paneles numéricos ni cerraduras visuales. A un costado de la enorme puerta hay un panel de gruesos tubos de hueso poroso conectados a tres pesadas válvulas de latón. Para liberar los colosales pasadores internos, los jugadores deben generar una **frecuencia acústica de resonancia específica** tirando de las válvulas en el orden correcto.
 
-Si tiran de una secuencia incorrecta, el sistema expulsará gas a presión emitiendo un chirrido agudo y disonante. Este ruido ensordecedor viaja por el cráter y **consume 1 Turno de Error**, atrayendo peligrosamente a las bestias ciegas.
+Si tiran de una secuencia incorrecta, el sistema expulsará gas a presión emitiendo un chirrido agudo y disonante. Este ruido ensordecedor resuena por todo el cráter y **consume 1 Turno de Error**. Con cada chirrido, las bestias ciegas dejan de comer, giran sus horribles cabezas hacia la puerta y comienzan a acercarse. Al tercer error, la jauría entera chillará y se abalanzará sobre ellos.
 
 **¿Cómo descubrir el orden sin morir?**
 El Narrador no debe darles la solución, pero si los jugadores investigan su entorno o usan sus sentidos bajo presión, descubrirán dos formas de entender el patrón:
@@ -421,7 +420,7 @@ Si los personajes logran forzar la puerta, esta cederá con un quejido metálico
 
 ---
 
-# Módulo 02: La Nave de Drenaje (El Matadero de Tinta)
+## Módulo 02: La Nave de Drenaje (El Matadero de Tinta)
 ![El Matadero de Tinta](../../transcendence-corebook/assets/maps/mapa_04.png)
 
 *Tercer segmento del módulo introductorio, Distrito Industrial. Diseñado para introducir la extracción de recursos y el combate táctico en terreno tridimensional.*
@@ -465,14 +464,14 @@ Una vez derrotados los parásitos, el combate termina pero el trabajo logístico
 
 ## 5. Conexiones del Nodo
 *   **Hacia Atrás (Sur):** El Sumidero Quirúrgico (Nodo 1 - El Cráter). Imposible de retroceder, la esclusa está sellada para evitar el avance de los carroñeros del cráter.
-*   **Hacia Arriba (Norte - Bloqueado):** Al fondo de la nave se alza el gigantesco **Montacargas Principal**, la única ruta para ascender hacia la Esclusa de Cuarentena (Nodo 4) y escapar del Distrito Industrial. Sin embargo, el inmenso panel hidráulico está desactivado; requiere una "Llave de Resonancia Vesper" para operar.
+*   **Hacia Arriba (Norte - Bloqueado):** El gigantesco Montacargas que lleva a la Esclusa de Cuarentena (Nodo 4). La jaula de elevación no tiene engranajes ni manivelas; tiene un grotesco **Receptáculo de Vinculación de Sangre** (un esfínter calcificado rodeado de gruesos nervios expuestos) que requiere la extremidad injertada de un alto mando Vesper para despertar la maquinaria biológica.
 *   **Hacia Abajo (Descenso Forzado):** Sin otra opción para activar el montacargas, los jugadores deben abrir unas pesadas escotillas rojas en el suelo frente al panel inactivo y descender hacia los sótanos oscuros de la nave: **Los Anfiteatros de Escultura (Nodo 3)**. Desde la negrura del pozo, se escucha el eco de un quejido agonizante.
 
 **FIN DEL MÓDULO 02**
 
 ---
 
-# Módulo 03: Los Anfiteatros de Escultura
+## Módulo 03: Los Anfiteatros de Escultura
 
 *Cuarto segmento del módulo introductorio. Un descenso a la oscuridad que divide al grupo entre la exploración táctica por recursos vitales y un brutal dilema moral que subvertirá sus expectativas de heroísmo.*
 
@@ -511,13 +510,19 @@ Un espeso vapor esmeralda nubla la visión más allá de los cinco metros. El ol
 ### Estado Actual y Terreno
 *   **El Pozo de Fango:** La base entera de la caverna circular es un pozo de 4 metros de profundidad lleno de "fango", una mezcla altamente tóxica de sangre coagulada, bilis y ácidos de embalsamar. No hay suelo firme.
 *   **Las Tuberías (El Puente):** Suspendida a solo un metro sobre la sopa letal, hay una intrincada, frágil y resbaladiza red de tuberías de bronce y válvulas giratorias que cruza la caverna hacia el botín. Varias secciones están colapsadas, exigiendo saltos peligrosos.
-*   **Los Gabinetes de Esterilización:** Al fondo (Oeste), iluminados por la luz azul, hay gabinetes sellados herméticamente. A simple vista, se distinguen maletines metálicos impecables.
+*   **El Nido del Traga-Cargas:** Al fondo (Oeste), iluminada por la luz azul, hay una inmensa masa biológica adherida a las válvulas y tuberías principales. A simple vista, se distinguen impecables maletines metálicos atrapados en su interior translúcido.
 
 ### Desarrollo del Encuentro (Exploración y Parkour)
 *   **Peligro Aéreo (Vapor Tóxico):** Por cada 10 minutos (tiempo narrativo) que los personajes pasen aquí, deben realizar una **T.R. contra Venenos**. Si fallan, adquieren el Agravio de Veneno: **Escaldado (Leve)**; el vapor cáustico quema sus córneas y mucosas, aplicando una penalización a sus Tiradas de Ataque.
 *   **La Travesía de Tuberías:** Avanzar hacia el botín requiere pruebas consecutivas de *Agilidad / Acrobacias*. Fomentar el uso de equipo (cuerdas, arneses). Un fallo no significa la muerte, sino la caída al pozo.
 *   **El Castigo del Fango:** Caer al fango químico aplica de inmediato **1 Punto de Corrupción** (al ingerir material abisal corrupto) y requiere una prueba de *Fuerza* difícil para salir de la espesa melaza.
-*   **Rompecabezas del Botín:** Los gabinetes de cristal templado son unidades de contención biológica Vesper. En el techo de cada compartimiento interno hay un pequeño aspersor conectado a un vial de ácido. Si se rompe el cristal a la fuerza bruta, la descompresión súbita hace que el sistema asuma una "Brecha de Contaminación": el aspersor inunda inmediatamente el interior con ácido para destruir los suministros, evitando que material comprometido caiga en manos de personal infectado. Para extraer el equipo a salvo (Kits de Medicina y Conservación), los jugadores deben forzar la cerradura neumática sin alterar la presión interna (prueba de *Intelecto / Sabotaje*), o usar la creatividad táctica (ej. inyectar líquido congelante por las juntas para taponar el aspersor antes de romper el cristal).
+*   **El Botín Vivo (El "Traga-Cargas"):** Los Kits de Medicina y Conservación están atrapados entre las mandíbulas esqueléticas del **"Traga-Cargas"**, el inmenso parásito bivalvo modificado genéticamente que reposa sobre el pedestal de bronce.
+    *   **La Amenaza:** Si intentan golpear, apuñalar o forzar las mandíbulas con palancas, el parásito entra en pánico y segrega un ácido gástrico que disuelve los kits irremediablemente en segundos.
+    *   **El Acertijo Biológico:** Una placa de latón corroída indica el *Protocolo de Extracción Simbiótica*: *"Los Traga-Cargas carecen de visión, operan por resonancia de pulso. Para liberar un cargamento inerte, debe ofrecerse una firma biológica de mayor vitalidad en el Receptáculo de Intercambio. No alterar el ritmo cardíaco durante la transferencia."*
+    *   **La Ejecución (Dilema y Tensión):** El pedestal tiene un orificio lateral revestido de tejido blando. Un jugador debe introducir su brazo desnudo allí. El parásito sentirá el pulso cálido, abrirá lentamente sus mandíbulas principales (liberando los kits) y comenzará a cerrar sus ventosas húmedas alrededor del brazo del jugador, clavando pequeñas agujas orgánicas.
+    *   **Control del Pánico:** Mientras el parásito clava sus agujas, el jugador atrapado debe superar una prueba de **C.R. de Compostura (Desafiante)**. Si falla, el pánico acelera su pulso, el parásito detecta la inestabilidad y destruye el botín de inmediato. Si tiene éxito, los kits caen al suelo a salvo.
+    *   **Consecuencias (Saturación Zonal):** ¡El botín es suyo, pero ahora el jugador tiene el brazo atrapado dentro de la bestia! Por cada asalto de inacción, el parásito ejerce compresión y drena sangre, causando un **Impacto** a la zona de **Brazos** (ignorando Bloqueo). Cada impacto genera una **Herida Leve** (ocupa 1 slot). Si la zona se satura y colapsa, el brazo queda inhabilitado aplicando la Alteración **Impedido**.
+    *   **La Extracción:** Para liberar el brazo antes del colapso, el grupo debe pensar rápido y usar el entorno: infligir Daño Estructural a las fauces (Potencia Crítica), o provocar una Alteración al parásito vertiéndole "Fango" tóxico de la piscina o anestésicos para obligarlo a abrirse.
 
 ---
 
@@ -534,16 +539,13 @@ Un frío sepulcral y clínico corta la respiración. El hedor a formol, antisép
 *   **El Foso Quirúrgico:** El núcleo del anfiteatro. Hay gigantescas mesas de disección volcadas y canales de drenaje tapados. 
 *   **El Pilar Óseo Colapsado:** Un inmenso fémur abisal que servía de soporte estructural se ha desplomado en el centro del foso. 
 *   **El Atrapado (Arquitecto Vesper):** Debajo de cientos de kilos de hueso calcificado, está atrapado un oficial corporativo. Su traje exoesqueleto lo mantiene con vida, pero sus piernas están irreparablemente aplastadas. Aún está lúcido.
-*   **La Esclusa (Salida):** Al norte, en el nivel superior, una pesada puerta neumática iluminada en rojo bloquea el acceso al **Nodo 04**. Tiene un receptor que parpadea esperando una "Llave de Resonancia Vesper".
+### Desarrollo del Encuentro (El Dilema Moral y La Pieza Faltante)
+*   **El Contacto Inicial:** El Arquitecto (identificación: *Superintendente Kael*) está irremediablemente aplastado bajo toneladas de hueso, tosiendo sangre negra. Al ver a los jugadores, su desesperación rompe su orgullo corporativo. Les suplica entre lágrimas que no lo dejen atrás, rogándoles que intenten levantar el pilar o que, por piedad, le corten la garganta antes de que los parásitos lo encuentren.
+*   **El Rompecabezas Orgánico:** Aquí es donde el diseño no lineal del mapa brilla. Kael no está junto a la salida. El **Montacargas Principal** que bloquea su escape quedó atrás, en el Matadero de Tinta (Nodo 02). Si los jugadores examinan a Kael, notarán que su antebrazo derecho es un injerto impío: una extremidad pálida fusionada con conductos de resina endurecida y cartílago vibrante que encaja visualmente con el **Receptáculo de Vinculación de Sangre** del montacargas. Los jugadores deben deducirlo: **La pieza que necesitan para salir de aquí es el propio brazo sagrado del Vesper.**
+*   **El Dilema del Pragmatismo:** Liberar a Kael es imposible sin maquinaria pesada, y el ruido de sus llantos pronto atraerá horrores. El dilema no es una trampa mortal, sino la aplastante carga de la supervivencia.
+    *   *La Opción Clemente:* Pueden intentar calmarlo, asfixiarlo o darle una muerte rápida y limpia antes de tomar lo que necesitan.
+    *   *La Opción Brutal (Amputación en Vivo):* Arrancarle o cortarle la extremidad injertada mientras está consciente y rogando requiere un grado de frialdad espantoso. Esta acción puramente pragmática y sangrienta es la forma más rápida de obtener la pieza biológica, pero impondrá un peso psicológico brutal en el grupo y en quien ejecute el corte, marcándolos para siempre sin necesidad de reglas artificiales de corrupción.
 
-### Desarrollo del Encuentro (El Dilema Moral)
-*   **El Contacto Inicial:** El Arquitecto (identificación: *Superintendente Kael*) no es un aliado amable. Es un burócrata arrogante, cínico y desesperado. Al ver a los jugadores, exigirá que lo liberen levantando el escombro o cortando el hueso con herramientas pesadas. Prometerá abrir la Esclusa si lo salvan.
-*   **El Engaño Corporativo (Insight):** Si los jugadores analizan la situación (prueba de *Intelecto / Empatía* o leyendo sus gestos), notarán que Kael tiene su mano libre apoyada sobre una baliza de purga en su pecho. **Si lo liberan por completo, su primer instinto no será agradecerles, será presionar la baliza para gasear el anfiteatro (iniciando una trampa letal automatizada) bajo la premisa Vesper de "No dejar testigos del fracaso corporativo".**
-*   **La Llave:** La "Llave de Resonancia" necesaria para salir NO es una tarjeta de plástico. **Es el propio antebrazo biomecánico del Arquitecto**.
-*   **La Resolución Brutal:** El dilema central estalla cuando los jugadores comprenden la naturaleza de la traición y de la llave. 
-    *   *La Opción Heroica/Ingenua:* Intentar un rescate exhaustivo, exponiéndose a la traición letal de Kael y un probable combate en total desventaja. 
-    *   *La Opción Oscura (Amputación):* La forma más rápida y segura de obtener la llave es amputarle el antebrazo cibernético mientras está inmovilizado. Esta acción brutal e inhumana otorga **2 Puntos de Corrupción** automáticos al personaje que ejecute el corte, fracturando su moralidad, pero dándoles la herramienta necesaria para abrir la Esclusa y sobrevivir.
-
-*(Nota: Con el antebrazo cibernético, los jugadores pueden abrir la compuerta del Norte y abandonar los Anfiteatros de Escultura, adentrándose en el cierre del Módulo).*
+*(Nota: Con el brazo injertado asegurado como un macabro trofeo, los jugadores deberán desandar sus pasos hacia el Matadero de Tinta para alimentar el Montacargas Principal y abandonar la zona, adentrándose en el cierre del Módulo).*
 
 **FIN DEL MÓDULO 03**
