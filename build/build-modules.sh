@@ -47,7 +47,7 @@ while IFS= read -r -d '' f; do
   [[ "$(basename "$f")" == "README.md" ]] && continue
   [[ "$(basename "$f")" == *.html ]] && continue
   CHAPTERS+=("$f")
-done < <(find "$CONTENT_DIR" -maxdepth 1 -name "*.md" -print0 | sort -z)
+done < <(find "$CONTENT_DIR" -name "*.md" -print0 | sort -z)
 
 if [ ${#CHAPTERS[@]} -eq 0 ]; then
   echo "ERROR: No .md files found in $CONTENT_DIR"; exit 1
