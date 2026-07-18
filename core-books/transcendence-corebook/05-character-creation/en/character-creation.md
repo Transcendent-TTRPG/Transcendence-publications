@@ -163,6 +163,10 @@ All other specializations need `10` progress points.
 
 ## Available Backgrounds
 
+Any character, regardless of background, may replace any number of starting species natural-weapon competencies with crafted-weapon competencies. This choice reflects whether the character built their combat around their own biology or adopted the tools of the outside world.
+
+---
+
 ### Martial Artist
 
 The Martial Artist has devoted their life to bodily refinement, combat, or physical endurance.
@@ -171,7 +175,6 @@ The Martial Artist has devoted their life to bodily refinement, combat, or physi
 | --- | --- |
 | Major affinity | Physical |
 | Starting specializations | 2 Physical + 1 Mental, Social, or Knowledge |
-| Additional rule | May replace any number of starting species natural-weapon competencies with crafted-weapon competencies. |
 
 ---
 

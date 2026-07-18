@@ -25,7 +25,7 @@ section_modes:
 
 # ATB: Flujo Temporal de Combate
 
-El combate en Transcendence no es un intercambio ordenado de turnos fijos. Es un caos hiperactivo de adrenalina, pánico y reflejos de supervivencia. El **ATB (Línea de Tiempo Activa)** no divide el tiempo en rondas estáticas; representa el avance inexorable de una masacre y los preciosos segundos que tardan tus músculos en volver a reaccionar tras un esfuerzo táctico.
+El combate en Transcendence no es un intercambio ordenado de turnos fijos. Es un caos hiperactivo de adrenalina, pánico y reflejos de supervivencia. El **ATB** no divide el tiempo en rondas estáticas; representa el avance los preciosos segundos que tardan tus músculos en volver a reaccionar tras un esfuerzo táctico.
 
 El ATB responde dos preguntas:
 

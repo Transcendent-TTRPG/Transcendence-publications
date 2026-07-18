@@ -163,6 +163,10 @@ Las demás especializaciones necesitan `10` puntos de progreso.
 
 ## Trasfondos disponibles
 
+Cualquier personaje, independientemente de su trasfondo, puede sustituir cualquier cantidad de competencias iniciales en armas naturales de su especie por competencias en armas fabricadas. La decisión refleja si el personaje desarrolló su combate usando su biología o adoptando las herramientas del mundo exterior.
+
+---
+
 ### Artista Marcial
 
 Guerreros de foso, guardias de caravanas o devotos de monasterios asediados que forjaron su cuerpo como un arma para sobrevivir.
@@ -171,7 +175,6 @@ Guerreros de foso, guardias de caravanas o devotos de monasterios asediados que 
 | --- | --- |
 | Afinidad mayor | Física |
 | Especializaciones iniciales | 2 Físicas + 1 de Mental, Social o Conocimiento |
-| Regla adicional | Puede sustituir cualquier cantidad de competencias iniciales en armas naturales de su especie por armas fabricadas. |
 
 ---
 
