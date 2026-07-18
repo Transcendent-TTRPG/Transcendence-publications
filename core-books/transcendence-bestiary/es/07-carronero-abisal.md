@@ -75,10 +75,10 @@ Fuente del impulso explosivo y los saltos repentinos. Ancla de *Salto de Embosca
 
 | Técnica | Ancla | Ritmo | Rango / Área | T.A. | T.I. | Efecto |
 | --- | --- | :---: | --- | :---: | --- | --- |
-| Desgarre Ciego | Placas Frontales | 5 | 1 mt / 1 criatura | +4 | 1d8+5 | Si el ataque causa daño a PV: el objetivo realiza T.R. Alteraciones (Leve) o queda *Sangrado*. |
+| Desgarre Ciego | Placas Frontales | 4 | 1 mt / 1 criatura | +4 | 1d8+5 | Si el ataque causa daño a PV: el objetivo realiza T.R. Alteraciones (Leve) o queda *Sangrado*. |
 | Barrido de Túnel | Patas Del. | 6 | 1 mt / Cono 2m | +4 | 1d6+5 | Todos los objetivos en el cono reciben el ataque. Si reciben daño: T.R. Alteraciones (Leve) o caen Derribados. |
-| Salto de Emboscada | Patas Tras. | 5 | 5 mt / 1 criatura | Arma | Arma | Mueve hasta 5m en línea recta y ataca con el arma natural elegida. Si recorrió más de 3m antes del impacto: +2 al daño final. |
-| Absorción Reactiva | Lomo | 3 | Personal | — | — | *Reacción —* Al recibir un ataque, arquea su lomo para interponer la parte más gruesa. +2 al Bloqueo de la zona impactada para ese golpe. |
+| Salto de Emboscada | Patas Tras. | 4 | 5 mt / 1 criatura | Arma | Arma | Mueve hasta 5m en línea recta y ataca con el arma natural elegida. Si recorrió más de 3m antes del impacto: +2 al daño final. |
+| Absorción Reactiva | Lomo | 2 | Personal | — | — | *Reacción —* Al recibir un ataque, arquea su lomo para interponer la parte más gruesa. +2 al Bloqueo de la zona impactada para ese golpe. |
 | Fijación del Rastro | Branquias | 3 | 10 mt / 1 criatura | — | — | Satura sus branquias con la firma térmica del objetivo. Ataques posteriores contra él: +2 T.A. e ignoran coberturas visuales. Solo una marca activa a la vez. |
 
 </div>

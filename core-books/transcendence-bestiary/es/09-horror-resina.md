@@ -65,6 +65,6 @@ Núcleo vital del espécimen. Un saco blando y translúcido en la espalda o cuel
 | --- | --- | :---: | --- | :---: | --- | --- |
 | Golpe Fosilizado | Coraza | 6 | 1 mt / 1 criatura | +2 | 1d6+3 | Un golpe básico con una extremidad pesada y recubierta de ámbar. |
 | Abrazo Pegajoso | Coraza | 5 | 1 mt / 1 criatura | +2 | — | En lugar de daño, el objetivo debe superar un C.R. de Agilidad o quedar *Apresado* (pegado a la resina del Horror). |
-| Embestida Torpe | Coraza | 3 | 3 mt / 1 criatura | +1 | 1d8+3 | Mueve 3 metros en línea recta tropezando. Solo puede usarse si no está en combate cuerpo a cuerpo. |
+| Embestida Torpe | Coraza | 4 | 3 mt / 1 criatura | +1 | 1d8+3 | Mueve 3 metros en línea recta tropezando. Solo puede usarse si no está en combate cuerpo a cuerpo. |
 
 </div>
