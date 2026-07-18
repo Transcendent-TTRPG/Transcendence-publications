@@ -192,7 +192,7 @@ Si los personajes logran forzar la puerta, esta cederá con un quejido metálico
 ---
 
 ## Nodo 2: La Nave de Drenaje (El Matadero de Tinta)
-![El Matadero de Tinta](../../transcendence-corebook/assets/maps/mapa_04.png)
+![El Matadero de Tinta](../../transcendence-corebook/assets/maps/mapa_04_matadero_tinta.png)
 
 
 ## 1. Contexto para el Narrador (Pasado y Propósito)
@@ -321,43 +321,61 @@ Un frío sepulcral y clínico corta la respiración. El hedor a formol, antisép
 *(Nota: Con el brazo injertado asegurado como un macabro trofeo, los jugadores deberán desandar sus pasos hacia el Matadero de Tinta para alimentar el Montacargas Principal y abandonar la zona, adentrándose en el cierre del Módulo).*
 
 
-## 2. Llegada a las Bóvedas (Entorno Táctico)
+## Nodo 4: Las Bóvedas de Resina
 
-El ascensor se detiene con un golpe húmedo. Las compuertas óseas se abren hacia una caverna de proporciones titánicas, débilmente iluminada por un brillo dorado nauseabundo que emana de las propias paredes.
+El ascensor se detiene con un golpe húmedo. Las compuertas óseas se abren hacia una caverna de proporciones titánicas.
 
-### Rasgos del Entorno
-*   **Paredes de Ámbar Fracturado:** Miles de nichos hexagonales masivos cubren las paredes, formando un panal dorado. En su interior, siluetas grotescas de monstruos amorfos flotan fosilizados en resina. Muchas de estas celdas están fuertemente agrietadas por el terremoto y gotean líquido tibio.
-*   **Suelo de Savia (Mecánica de Terreno):** El suelo de toda la bóveda está cubierto por una capa de resina semi-líquida de 30 centímetros de profundidad. Es **Terreno Difícil Extremo**. Cualquier movimiento que exceda un cauteloso paso base requiere una prueba de **C.R. de Agilidad o Acrobacias**; si fallan, quedan inmovilizados mientras intentan arrancar sus botas de la melaza pegajosa.
-*   **Niebla de Feromonas:** El aire está cargado de esporas de resina. La visión es nítida, pero el olor es tan dulzón y sofocante que enmascara por completo el hedor a sangre de los jugadores, dándoles una ventaja temporal para evitar emboscadas basadas en el olfato.
+### Contexto para el Narrador
+Este nivel es el archivo de contención criogénica de los Vesper. Aquí es donde traían a los especímenes o anomalías biológicas que consideraban demasiado valiosas para ejecutar, pero demasiado inestables para mantener activas. A diferencia del hielo o la tecnología metálica, los Vesper utilizaban una resina endurecedora secretada por artrópodos abisales para fosilizar a las criaturas en estasis dorado.
+
+### Impresión Sensorial
+*   **Atmósfera y Temperatura:** Un calor pegajoso y sofocante, similar al de una colmena tropical, que contrasta violentamente con el frío de los niveles inferiores.
+*   **Iluminación:** La caverna no tiene luces artificiales; está débilmente iluminada por un brillo dorado y nauseabundo que emana de las propias paredes de ámbar.
+*   **Olores:** El aire está cargado de esporas de resina. El olor es tan dulzón y empalagoso que marea, enmascarando por completo el hedor a sangre de los jugadores.
+*   **Sonidos:** El silencio es interrumpido por un siseo constante de vapor y el latido lento, sordo y desacompasado de cientos de corazones monstruosos atrapados en las paredes.
+
+### 1. Rasgos del Entorno (Exploración)
+*   **Paredes de Ámbar Fracturado:** Miles de nichos hexagonales masivos cubren las paredes, formando un panal dorado. En su interior, siluetas grotescas de monstruos amorfos flotan fosilizados. Muchas celdas están fuertemente agrietadas por el terremoto y gotean líquido tibio.
+*   **Suelo de Savia (Mecánica de Terreno):** El suelo de toda la bóveda está cubierto por una capa de resina semi-líquida de 30 centímetros de profundidad. Es **Terreno Difícil**. Cualquier movimiento que exceda un cauteloso paso base requiere una prueba de **C.R. de Agilidad o Acrobacias**; si fallan, quedan inmovilizados temporalmente intentando arrancar sus botas de la melaza pegajosa.
+
+---
+
+## 2. La Estación de Válvulas Neumáticas (Tensión Mecánica)
+
+A mitad de la enorme caverna, antes de llegar a la puerta final, el grupo se topa con un obstáculo: una sub-estación de control semi-sumergida en la resina. 
+
+### El Desafío
+Al fondo de la caverna se ve la enorme Esclusa de Cuarentena, pero su pedestal biológico (donde deben insertar el brazo de Kael) está apagado y gris. Para que reciba presión hidráulica, deben abrir manualmente **tres pesadas válvulas neumáticas** en esta estación central.
+*   **Mecánica:** Girar cada válvula requiere una **Tirada de Especialización (Fuerza, Ingeniería o Aguante)**. 
+*   **La Tensión (El Deshielo):** Este no es un puzzle de ingenio, es un puzzle de presión psicológica. El sistema hidráulico Vesper funciona con calor geotérmico. Cada vez que los jugadores logran girar una válvula exitosamente, un chorro de vapor ardiente es expulsado hacia la caverna.
+*   **Reacción del Entorno:** Con cada válvula abierta, el calor derrite drásticamente la resina de las paredes. El Narrador debe describir cómo, con el primer giro, el ámbar se vuelve líquido; con el segundo giro, algunas siluetas masivas caen al suelo envueltas en sacos pegajosos; con el tercer giro, los sacos empiezan a palpitar y desgarrarse.
 
 ---
 
 ## 3. El Asedio a la Esclusa (Clímax del Distrito)
 
-Al fondo de la caverna de resina (a unos 60 metros del ascensor), se erige el verdadero obstáculo final: **La Esclusa de Cuarentena**.
-Es una colosal compuerta circular de basalto negro puro, de 10 metros de altura, incrustada directamente en la roca madre del abismo. Frente a ella hay un gran atrio de piedra pulida libre de resina, dominado por un pedestal de control biológico idéntico al del montacargas.
+Una vez que las tres válvulas están abiertas, la energía fluye hacia el fondo de la caverna (a unos 30 metros de la estación). Allí se erige **La Esclusa de Cuarentena**: una colosal compuerta circular de basalto negro puro. Frente a ella hay un atrio de piedra pulida, dominado por el pedestal de control biológico.
 
 ### El Despertar
-A medida que los jugadores avanzan pesadamente por el mar de resina hacia el atrio de la Esclusa, el ruido de sus pasos (o el calor corporal que emiten) provoca una reacción en cadena. 
-*El Narrador debe describir cómo el sonido agudo de cristales astillándose resuena por toda la caverna. Grandes bloques de ámbar caen al suelo. Tres nichos masivos a sus espaldas acaban de ceder por completo, derramando líquido amniótico dorado.*
+A medida que corren por el mar de resina hacia el atrio, el calor de las válvulas cumple su terrible propósito. 
+*El Narrador debe describir el sonido espeluznante de la resina rasgándose. De los nichos derretidos se arrastran formas grotescas, envueltas en restos de ámbar endurecido, girando sus cabezas ciegas hacia los jugadores.*
 
 ### Mecánica del Asedio
-Los jugadores no pueden simplemente abrir la puerta y salir caminando. La Esclusa de Cuarentena es una pieza de seguridad Vesper masiva. 
-*   **La Activación:** Un personaje debe llegar al atrio y empalar nuevamente el brazo de Kael en el pedestal de la Esclusa. La puerta de basalto emitirá un bramido sordo y comenzará a girar lentamente sobre sus ejes de piedra.
-*   **El Reloj Biológico:** La maquinaria es antigua y masiva. La Esclusa requiere **4 Asaltos Completos** para abrirse lo suficiente como para dejar pasar a una criatura.
-*   **Los Descongelados (Los Enemigos):** Durante estos 4 asaltos, los jugadores deben defender el atrio a toda costa. De las grietas de la caverna emergen **Horrores de Resina** (variantes endurecidas de los Carroñeros Abisales que poseen armadura natural de ámbar, otorgándoles +2 al Bloqueo pero restándoles Agilidad).
-*   **Objetivo Táctico:** Este es un combate de **Supervivencia, no de Exterminio**. Los jugadores no necesitan matar a las oleadas que se acercan lentamente por la melaza; solo deben sobrevivir en el atrio, usar ataques de empuje o control de áreas para mantener a raya a las bestias y, una vez que la Esclusa ceda en el asalto 4, cruzarla y accionar la palanca de sellado rápido desde el otro lado.
+*   **La Activación:** Un personaje debe llegar al atrio y empalar el brazo de Kael en el pedestal energizado. La puerta de basalto emitirá un bramido sordo y comenzará a girar lentamente.
+*   **El Reloj Biológico:** La maquinaria es masiva. La Esclusa requiere **4 Asaltos Completos** para abrirse lo suficiente como para dejar pasar a una criatura.
+*   **Los Descongelados (Los Enemigos):** Durante estos 4 asaltos, los jugadores deben defender el atrio. Las bestias que emergen son **Horrores de Resina** (variantes de los Carroñeros Abisales con armadura natural de ámbar que les otorga +2 al Bloqueo pero les resta Agilidad).
+*   **Objetivo Táctico:** Este combate es de **Supervivencia, no de Exterminio**. Los jugadores no necesitan (ni pueden) matar a la oleada infinita que se acerca por la melaza; solo deben sobrevivir en el atrio, usar ataques de empuje o control de áreas, y cruzar la Esclusa en cuanto ceda en el asalto 4.
 
 ### Variantes Tácticas para los Jugadores
-*   **Fuego Purificador:** Si los jugadores disponen de fuego químico, antorchas o armas incendiarias, pueden prender fuego a los charcos de resina. Esto crea un muro de fuego temporal que bloquea o daña severamente a las oleadas, quemando la armadura de ámbar de los Horrores.
-*   **Fallo en el Receptáculo:** Si el personaje que está estabilizando la conexión del brazo en el pedestal es herido de gravedad o empujado del atrio, el proceso de apertura se pausa (el Reloj Biológico de la puerta no avanza durante ese momento).
+*   **Fuego Purificador:** Si disponen de fuego químico o armas incendiarias, pueden prender fuego a los charcos de resina. Esto crea un muro ignífugo temporal que bloquea a las oleadas, fundiendo la armadura de los Horrores.
+*   **Fallo en el Receptáculo:** Si el personaje que estabiliza el brazo en el pedestal es empujado del atrio, el proceso se pausa (el Reloj Biológico no avanza ese turno).
 
 ---
 
-## 4. El Cierre del Módulo
+## 4. El Cierre del Acto 2
 
-Una vez que el grupo logra cruzar el umbral estrecho, deben accionar inmediatamente la pesada palanca interna. Los gigantescos pasadores de basalto caen en su lugar de golpe, sellando la Esclusa de Cuarentena con un estruendo ensordecedor que corta de tajo los chillidos frenéticos de los horrores.
+Una vez que cruzan el umbral estrecho, deben accionar inmediatamente la palanca interna. Los gigantescos pasadores de basalto caen de golpe, sellando la Esclusa de Cuarentena con un estruendo ensordecedor que ahoga los chillidos de los horrores.
 
-La oscuridad de la esclusa es reemplazada por un túnel de ventilación increíblemente amplio, limpio y ascendente. El hedor a bilis, sangre y ácido desaparece por completo, reemplazado por corrientes de aire frío de las cavernas superiores y el lejano, masivo eco de cientos de miles de chasquidos (la ecolocalización de toda una civilización).
+La oscuridad opresiva y el calor pegajoso son reemplazados por un túnel de ventilación increíblemente amplio y ascendente. Corrientes de aire frío les golpean el rostro, trayendo consigo el lejano y masivo eco de millones de chasquidos (la ecolocalización de toda una civilización).
 
-Han sobrevivido al colapso del Distrito Industrial y cerrado la puerta a la pesadilla. Frente a ellos, hacia arriba, se extiende el laberinto infinito y majestuoso: **El Distrito Residencial**.
+Han sobrevivido a la Zona Cero y cerrado la puerta a la pesadilla. Frente a ellos, hacia arriba, se extiende el laberinto majestuoso y definitivo: **El Distrito Residencial**.

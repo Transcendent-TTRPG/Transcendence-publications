@@ -12,6 +12,22 @@ tags: [module, tutorial, amnesia, cult, vestigo]
 
 # Campaña: Contenedores Vacíos
 
+## Contexto Global para el Narrador: La Caída de los Vesper
+
+Antes de dirigir la campaña, el Narrador debe entender la verdad oculta detrás del colapso de esta inmensa ciudad cavernícola.
+
+**La Ambición y las Aberraciones**
+Los Vesper eran una corporación despiadada, estratificada y bio-pragmática. Durante siglos experimentaron fusionando biología con *Tauma* (la energía mística del limbo). Sus resultados siempre fueron **Aberraciones**: bestias deformes, horrores de resina o monstruos enloquecidos. Eran criaturas muy peligrosas, pero los Vesper podían controlarlas. Cuando fallaban, simplemente las acribillaban, las disolvían en el Matadero de Tinta, o las congelaban en las Bóvedas de Resina. Se creían dioses intocables que habían domado la biología bruta.
+
+**El Evento Cero: La Primera Anomalía**
+Todo cambió con el espécimen que yace en el Foso de Gestación (Acto 1). Tras siglos de intentos fallidos, los Vesper finalmente lograron crear a la **Primera Anomalía**: una criatura mortal que asimiló el Tauma de forma natural, estable y perfecta. 
+
+En lugar de temerle, los Vesper se maravillaron. Para su retorcida cosmología, ver nacer a una verdadera Anomalía no era una crisis de seguridad, era presenciar el pináculo de la evolución. Lo admiraron como su mayor logro científico. Pero cometieron un error fatal: su arrogancia los cegó. Como los Vesper no pueden *ver* ni medir el Tauma directamente, creyeron que la criatura solo era una bestia biológica enorme y perfecta. No comprendieron que el Tauma le otorgaba habilidades que rompían las barreras de su ciencia.
+
+**El Colapso (El presente de la Campaña)**
+Cuando la Anomalía finalmente despertó y empezó a cazar, las medidas de contención Vesper (puertas de basalto, resina, armas cinéticas pesadas) fueron inútiles contra su poder puro. La Anomalía destrozó el Distrito Industrial en cuestión de días. 
+El desastre no fue una rebelión de monstruos genéricos; fue un solo depredador supremo cazando a una raza entera que se creía intocable. Ese es el infierno desolado, en ruinas y consumido por la naturaleza en el que los jugadores acaban de despertar.
+
 # Acto 1: El Despertar
 
 Este módulo está diseñado como una **experiencia de tutorial inmersivo**. Los jugadores inician la campaña con amnesia total y sin haber llenado su hoja de personaje. A medida que avanzan, irán "recordando" sus especializaciones, atributos y trasfondos mediante una mecánica de ingeniería inversa llamada *Recuerdo Muscular*.
@@ -227,7 +243,7 @@ A partir de este momento, el tutorial del Foso termina y los jugadores tienen un
 ---
 
 ## 4. La Ascensión (Tiradas de Especialización)
-*(Nota para el Narrador: Utiliza el mapa visual `assets/maps/mapa_01.png` para ubicar espacialmente a los jugadores. Cada zona mencionada aquí corresponde a la numeración del plano).*
+*(Nota para el Narrador: Utiliza el mapa visual `assets/maps/mapa_01_drenaje.png` para ubicar espacialmente a los jugadores. Cada zona mencionada aquí corresponde a la numeración del plano).*
 
 ### 1. El Corredor de Sangre [Salas 1 a 3]
 El Portón Principal del **Foso de Gestación [1]** cede con relativa facilidad, pues sus pesados sellos biométricos de hueso y resina fueron reventados desde afuera por lo que sea que mató a los Vesper. Al empujarlo, ingresan al **Corredor [3]**, un túnel angosto y curvo de 10 metros de largo por apenas 1.5 metros de ancho. El basalto oscuro está seccionado por un canal central de sangre coagulada que drena de vuelta hacia el Foso.
