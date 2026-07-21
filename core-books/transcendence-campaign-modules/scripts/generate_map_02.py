@@ -52,7 +52,6 @@ def create_pointcrawl_map(output_path):
         ("Filtros de Sangre\n(Exploración)", "Bóveda de Resina"),
         ("Filtros de Sangre\n(Exploración)", "Fosas Quirúrgicas\n(Dilema)"),
         
-        ("Fosas Quirúrgicas\n(Dilema)", "Válvulas\nNeumáticas"),
         ("Bóveda de Resina", "Válvulas\nNeumáticas"),
         
         ("Válvulas\nNeumáticas", "La Gran Esclusa\n(Salida)")

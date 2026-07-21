@@ -66,10 +66,7 @@ def create_fosas_map(output_path):
     ax.add_patch(entrance)
     ax.text(5, 50, "ENTRADA\n(DESDE CRUCE)", color="#ffffff", ha="center", va="center", fontsize=7, fontweight="bold", rotation=90, zorder=10)
     
-    # Exit to Nodo 4 (North)
-    exit_door = Rectangle((45, 90), 10, 10, facecolor=COLOR_DOOR, alpha=0.6, edgecolor=COLOR_WALLS, lw=2, zorder=9)
-    ax.add_patch(exit_door)
-    ax.text(50, 95, "ESCLUSA SELLADA\n(AL NODO 04)", color="#ffffff", ha="center", va="center", fontsize=7, fontweight="bold", zorder=10)
+    # Exit to Nodo 4 (North) - REMOVED (Dead end)
     
     # Labels for terraces
     ax.text(50, 20, "GRADAS DE OBSERVACIÓN", color="#888888", ha="center", va="center", fontsize=10, fontweight="bold", zorder=10)
