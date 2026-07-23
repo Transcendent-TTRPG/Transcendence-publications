@@ -48,11 +48,8 @@ Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra `La
 
 | Rango de competencia | Severidad |
 | --- | ---: |
-| Novato | Menor |
-| Adepto | Menor |
-| Experto | Moderado |
-| Maestro | Moderado |
-| Consumado | Severo |
-| Trascendente | Severo |
+| 1 - 2 | Leve |
+| 3 - 4 | Moderado |
+| 5 - 6 | Grave |
 
 Si falla la `T.R.`, el objetivo gana `Lacerado` a esa severidad. Si tiene éxito, `Lacerado` no se aplica, pero el daño del ataque resuelve igualmente si el golpe impactó.

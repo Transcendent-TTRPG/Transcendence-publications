@@ -54,9 +54,9 @@ Mientras el enemigo no cierre esa distancia, no cambie de zona o no recupere cla
 
 | Rango | Bonificador |
 | --- | --- |
-| Novato | `+1` |
-| Adepto | `+2` |
-| Experto | `+3` |
-| Maestro | `+4` |
-| Consumado | `+5` |
-| Trascendente | `+6` |
+| 1 | `+1` |
+| 2 | `+2` |
+| 3 | `+3` |
+| 4 | `+4` |
+| 5 | `+5` |
+| 6 | `+6` |

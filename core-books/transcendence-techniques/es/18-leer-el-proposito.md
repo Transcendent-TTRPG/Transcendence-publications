@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Rango Sensorial | 1 Criatura | Instantáneo | T.E. (Arquitectura) |
+| Rango Sensorial | 1 Criatura | Permanente | T.E. (Arquitectura) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

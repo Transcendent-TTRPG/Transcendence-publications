@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Arma | 1 Criatura | Hasta limpiar | `T.A.` |
+| Arma | 1 Criatura | Permanente | `T.A.` |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -48,6 +48,12 @@ Declara un canal sensorial o punto de lectura expuesto del objetivo. Realiza una
 
 Si no superas su `T.D.`, el residuo no se aplica.
 
-Si la técnica resuelve con éxito, el residuo nubla ese canal y el objetivo queda obstruido. Mientras permanezca obstruido, sufre una penalidad igual a tu bonificador de rango con el arma usada en cualquier tirada, técnica o intercambio que dependa del canal afectado.
+Si la técnica resuelve con éxito, el residuo nubla ese canal. Mientras permanezca, el objetivo pierde cualquier ventaja sensorial que dependa exclusivamente de ese canal y sufre una **Alteración** basada en el canal obstruido:
 
-El objetivo puede gastar `Interactuar` para limpiar el residuo. El residuo también puede desaparecer si una condición ambiental apropiada lo remueve.
+- **Vista:** `Cegado`
+- **Oído:** `Ensordecido`
+- **Olfato, tacto u otros canales:** `Desorientado`
+
+La severidad de la alteración es igual a tu Rango de competencia (1-2: Leve, 3-4: Moderado, 5-6: Grave).
+
+El objetivo puede gastar la acción `Interactuar` para limpiar el residuo y eliminar la alteración asociada. El residuo también desaparece si una condición ambiental apropiada lo lava o remueve.

@@ -52,11 +52,11 @@ Si el mismo efecto desencadenante aplica `Derribado` o `Desequilibrado` por post
 
 | Rango de competencia | Valor |
 | --- | ---: |
-| Novato | 1 |
-| Adepto | 2 |
-| Experto | 3 |
-| Maestro | 4 |
-| Consumado | 5 |
-| Trascendente | 6 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
 
 Esta técnica no aplica daño, condiciones al objetivo, ni protege a aliados. No puede usarse contra teletransportación, transposición espacial, movimiento incorpóreo, movimiento por control mental o miedo, ni ningún efecto que no mueva el cuerpo físicamente.

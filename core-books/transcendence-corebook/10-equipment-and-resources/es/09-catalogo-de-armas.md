@@ -28,6 +28,24 @@ Las armas **Primarias** son el arma principal de un combatiente. Las **Auxiliare
 
 ---
 
+## Perfiles de Técnica
+
+Un **perfil de técnica** define el modo táctico de un arma: cómo se mueve, qué mecánicas explota y qué técnicas puede ejecutar quien la empuña con competencia. Cada familia de arma fabricada otorga acceso a cuatro perfiles. Las armas naturales de cada especie listan sus perfiles propios en el capítulo de Especies.
+
+| Familia | Perfiles |
+| --- | --- |
+| Lanzas | Perforación · Guarda · Embestida · Hostigamiento |
+| Hachas | Desgarro · Ruptura · Imparable · Control de Línea |
+| Mazas | Impacto · Ruptura · Imparable · Bastión |
+| Hojas Largas | Fluidez · Desgarro · Letalidad · Desvío |
+| Hojas Cortas | Acecho · Corrosión · Letalidad · Hostigamiento |
+| Dagas | Impredecible · Acecho · Letalidad · Desvío |
+| Armas Arrojadizas | Precisión · Rebote · Cadencia · Interrupción |
+| Armas a Distancia | Precisión · Rebote · Cadencia · Corrosión |
+| Armas Flexibles | Torsión · Impredecible · Hostigamiento · Interrupción |
+
+---
+
 ## Lanzas
 
 Armas de asta larga diseñadas para el alcance. La mayoría requieren dos manos para aprovechar su longitud y su palanca.

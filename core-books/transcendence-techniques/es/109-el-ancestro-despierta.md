@@ -52,4 +52,4 @@ Mientras el estado esté activo, cada vez que realices una T.E.:
 
 El contador sube hasta un máximo igual a tu Tenacidad y puede bajar hasta ese mismo valor en negativo. Una vez en cualquiera de los dos extremos, las tiradas del tipo que lo llevaría más allá ya no lo modifican.
 
-El estado termina cuando el combate concluye, o cuando realizas una T.C. de Enfoque contra una dificultad que el Narrador fija según las condiciones del entorno. Si tienes éxito, el estado termina y el contador se reinicia.
+El estado es permanente. Termina de forma natural cuando dejas de percibir amenazas, o prematuramente cuando realizas una T.C. de Enfoque contra una dificultad que el Narrador fija según las condiciones del entorno. Si tienes éxito, el estado termina y el contador se reinicia.

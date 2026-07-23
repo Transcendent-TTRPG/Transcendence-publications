@@ -46,11 +46,11 @@ Cuando meditas específicamente para reducir la intensidad de una Aflicción act
 
 | Rango de `Meditación` | Bonificador |
 | --- | --- |
-| Novato | `+1` |
-| Adepto | `+2` |
-| Experto | `+3` |
-| Maestro | `+4` |
-| Consumado | `+5` |
-| Trascendente | `+6` |
+| 1 | `+1` |
+| 2 | `+2` |
+| 3 | `+3` |
+| 4 | `+4` |
+| 5 | `+5` |
+| 6 | `+6` |
 
 La técnica no modifica el costo de la acción de meditación en tiempo ni en enfoque — mejora la calidad de la recuperación que esa acción produce.

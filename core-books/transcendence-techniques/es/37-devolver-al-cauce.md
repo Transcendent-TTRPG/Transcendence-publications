@@ -49,12 +49,9 @@ Si la `T.A.` tiene éxito, el objetivo realiza una `T.R. (Alteraciones)` contra 
 
 | Rango de competencia | Severidad |
 | --- | ---: |
-| Novato | Menor |
-| Adepto | Menor |
-| Experto | Moderado |
-| Maestro | Moderado |
-| Consumado | Severo |
-| Trascendente | Severo |
+| 1 - 2 | Leve |
+| 3 - 4 | Moderado |
+| 5 - 6 | Grave |
 
 Si falla la `T.R.`, el objetivo gana `Atrapado` a esa severidad y su movimiento se detiene en el punto donde la sujeción lo alcanzó. Si tiene éxito, `Atrapado` no se aplica y el objetivo puede completar el movimiento si aún tiene una ruta legal.
 

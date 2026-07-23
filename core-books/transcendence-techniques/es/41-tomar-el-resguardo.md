@@ -45,12 +45,9 @@ Realiza `T.E. (Supervivencia)`. Con éxito, identificas en la escena un punto qu
 
 | Rango de Supervivencia | Cobertura máxima |
 | --- | --- |
-| Novato | Ligera |
-| Adepto | Ligera |
-| Experto | Media |
-| Maestro | Media |
-| Consumado | Total |
-| Trascendente | Total |
+| 1 - 2 | Ligera |
+| 3 - 4 | Media |
+| 5 - 6 | Total |
 
 Ese punto cuenta como cobertura hasta que lo abandones.
 

@@ -97,8 +97,7 @@ Existen dos categorías de resolución para las técnicas de ataque:
 
 La Técnica es, en su núcleo, un ataque normal. Puede que permita un reposicionamiento después, un estado extra o un contraataque, pero el flujo del impacto sigue las físicas de tu arma. 
 
-Se reconoce porque la técnica usa explícitamente esta frase (o una variación muy similar):
-> *"Si impacta, resuelve la T.I. normalmente. Este ataque conserva los efectos y bonificadores inherentes del arma usada."*
+Se reconoce por la presencia de la keyword `Hereda Efectos`.
 
 En esta categoría, tu arma **aplica todos sus bonos pasivos** (ej: ignorar Bloqueo, +1 a Impacto). Si usas un arma natural (o un arma con efecto por umbral) y superas la Tirada de Defensa enemiga por 3 o más, detonas el efecto especial de tu arma **además** de cualquier cosa que haga la técnica.
 
@@ -106,8 +105,7 @@ En esta categoría, tu arma **aplica todos sus bonos pasivos** (ej: ignorar Bloq
 
 La técnica usa el alcance o el perfil de tu arma, pero su ejecución es anormal o hiper-específica. (Por ejemplo: golpear el suelo para levantar escombros, o forzar la hoja en un ángulo letal garantizado). La técnica secuestra la física del arma y la sustituye por una rutina completamente nueva.
 
-Se reconoce porque la técnica no habla de daño normal, o porque usa explícitamente esta cláusula de protección:
-> *"Esta técnica utiliza el perfil de tu arma, pero su ejecución es una resolución propia. No hereda ni dispara los efectos y bonificadores inherentes del arma usada."*
+Se reconoce por la presencia de la keyword `No Hereda Efectos`. (Las técnicas que no son ataques, como las de Utilidad sin impacto de daño, no requieren estas keywords ya que no resuelven el daño del arma).
 
 En esta categoría, el arma es solo un implemento. No suma bonificadores pasivos ni detona estados de arma natural, sin importar qué tan alto ruedes. Solo ocurre el efecto explícito descrito por la técnica.
 

@@ -48,11 +48,8 @@ Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra des
 
 | Rango de competencia | Distancia |
 | --- | ---: |
-| Novato | 1m |
-| Adepto | 1m |
-| Experto | 2m |
-| Maestro | 2m |
-| Consumado | 3m |
-| Trascendente | 3m |
+| 1 - 2 | 1m |
+| 3 - 4 | 2m |
+| 5 - 6 | 3m |
 
 Si falla la `T.R.`, el objetivo es empujado esa distancia. Si tiene éxito, el objetivo conserva su posición, pero el daño del ataque resuelve igualmente si el golpe impactó.

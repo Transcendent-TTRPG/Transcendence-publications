@@ -48,16 +48,7 @@ Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.
 
 Por cada ataque que impacte, resuelves el impacto. 
 
-Si al menos un ataque impacta, la distancia restante de ese movimiento desencadenante se reduce en 1m por rango de la competencia usada para esta técnica:
-
-| Rango de competencia | Reducción |
-| --- | --- |
-| Novato | 1m |
-| Adepto | 2m |
-| Experto | 3m |
-| Maestro | 4m |
-| Consumado | 5m |
-| Trascendente | 6m |
+Si al menos un ataque impacta, la distancia restante de ese movimiento desencadenante se reduce en una cantidad de metros igual a tu rango de la competencia usada para esta técnica.
 
 Si esta reducción impide que la criatura alcance su posición declarada, se detiene en la última posición legal que pueda alcanzar.
 

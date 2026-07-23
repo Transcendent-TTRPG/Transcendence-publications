@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Alcance del arma | 1 Criatura | Instantáneo | T.A. |
+| Alcance del arma | 1 Criatura | Permanente | T.A. |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ related:
 
 Declara una zona de armadura en el objetivo. Realiza una T.A. con tu perfil de `Ruptura` contra el objetivo. Si el ataque impacta, resuelve tu T.I. normalmente.
 
-Además, la armadura en esa zona queda estructuralmente fallada: su contribución de Bloqueo en esa zona se reduce en un valor igual a tu rango de competencia en el arma usada por el resto del encuentro.
+Además, la armadura en esa zona queda estructuralmente fallada: su contribución de Bloqueo en esa zona se reduce en un valor igual a tu rango de competencia en el arma usada de forma permanente.
 
 Si el objetivo no lleva armadura en la zona declarada, la técnica no puede ser usada contra esa zona.
 

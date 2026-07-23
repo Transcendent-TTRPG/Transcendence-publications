@@ -50,12 +50,12 @@ El número de espacios libres es igual a tu rango de `Equilibrio` + 1:
 
 | Rango de `Equilibrio` | Espacios libres |
 | --- | ---: |
-| Novato | 2 |
-| Adepto | 3 |
-| Experto | 4 |
-| Maestro | 5 |
-| Consumado | 6 |
-| Trascendente | 7 |
+| 1 | 2 |
+| 2 | 3 |
+| 3 | 4 |
+| 4 | 5 |
+| 5 | 6 |
+| 6 | 7 |
 
 Las penalizaciones de velocidad, aumentos de dificultad y tiradas de Equilibrio obligatorias no aplican a esos espacios. Más allá de esos espacios, los efectos del terreno aplican con normalidad.
 

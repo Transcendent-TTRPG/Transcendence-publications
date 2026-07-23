@@ -48,6 +48,8 @@ Realiza una T.E. con `Agarre` contra el objetivo. Si fallas, la técnica falla y
 
 Si tienes éxito, el objetivo debe realizar una Tirada de Resistencia de Alteraciones para evitar quedar `Atrapado`. La severidad se establece por tu rango de `Agarre`:
 
-- Rangos 1–2: Menor
-- Rangos 3–4: Moderado
-- Rangos 5–6: Severo
+| Rango de competencia | Severidad |
+| --- | ---: |
+| 1 - 2 | Leve |
+| 3 - 4 | Moderado |
+| 5 - 6 | Grave |

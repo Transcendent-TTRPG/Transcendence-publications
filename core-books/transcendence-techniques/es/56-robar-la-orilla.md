@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, hostigamiento, attack, active, zarnag, mobility, skirmish]
+tags: [techniques, hostigamiento, attack, active, zarnag, mobility, skirmish, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Hostigamiento`
+- `Hereda Efectos`
 
 ## Efecto
 

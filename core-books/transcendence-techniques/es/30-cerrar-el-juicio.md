@@ -50,12 +50,12 @@ Para este ataque, el resultado de `T.I.` necesario para validar una ruptura se r
 
 | Rango de competencia | Reducción |
 | --- | ---: |
-| Novato | 1 |
-| Adepto | 2 |
-| Experto | 3 |
-| Maestro | 4 |
-| Consumado | 5 |
-| Trascendente | 6 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
 
 Si la `T.I.` cae dentro del rango, resuelve la validación de ruptura con la fórmula habitual: `Potencia Crítica > Durabilidad del objetivo`.
 

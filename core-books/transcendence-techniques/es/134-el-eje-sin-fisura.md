@@ -7,43 +7,44 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, armadura-ligera, reactive, defense, vesper, stability, displacement-resistance, derribado, desequilibrado]
+tags: [techniques, armadura-ligera, acecho, reactive, attack, vesper, counterattack, acoustic-read]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
 related:
-  - core-books/transcendence-corebook/08-conflict-and-combat/es/07-cobertura-visibilidad-y-ocultacion.md
-  - core-books/transcendence-techniques/es/132-el-angulo-muerto.md
+  - core-books/transcendence-techniques/es/137-la-brecha-sin-ruido.md
+  - core-books/transcendence-techniques/es/125-la-salida-que-cobra.md
 ---
 
 # El Eje Sin Fisura
 
-### Reactivo - Defensa
+### Reactivo - Ataque
 
 **Rango Novato**
 
-*No necesitó esquivarlo. Necesitó saber cómo iba a llegar.*
+*El vacío que dejó el golpe fue el mapa. El mapa ya tenía una salida.*
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Personal | Instantáneo | — |
+| Alcance del arma | 1 Criatura | Instantáneo | T.A. |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `3` | `1` |
+| — | T.I. | `4` | `1` |
 
 ## Requisitos
 
 - Competencia defensiva: `Armadura Ligera`
-- Armadura ligera funcional en la zona golpeada
+- Perfil de arma: `Acecho`
 
 ## Keywords
 
 - `Armadura Ligera`
-- `No Hereda Efectos`
+- `Acecho`
+- `Hereda Efectos`
 
 ## Efecto
 
-Cuando un ataque físico conecta contra ti — porque la T.D. falló o no fue declarada — y ese golpe genera una T.R. contra desplazamiento involuntario, `Derribado`, o `Desequilibrado`, puedes declarar esta técnica. Esa T.R. recibe un bonificador igual a tu rango de competencia en Armadura Ligera.
+Cuando declaras una T.D. usando `Armadura Ligera` y esa T.D. tiene éxito, puedes declarar esta técnica. Realiza una T.A. con tu perfil de `Acecho` contra el atacante que activó la T.D. Si la T.A. falla, la técnica termina.
 
-Esta técnica no reduce el daño del golpe ni mejora el Bloqueo. Actúa únicamente sobre la T.R. de estabilidad posicional generada por ese impacto.
+Con éxito, resuelve la T.I.

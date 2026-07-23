@@ -56,6 +56,6 @@ Si ambos ataques impactan, resuelves el impacto para cada uno. El objetivo debe 
 
 | Rango | Severidad |
 | --- | --- |
-| 1 - 2 | Menor |
+| 1 - 2 | Leve |
 | 3 - 4 | Moderado |
-| 5 - 6 | Severo |
+| 5 - 6 | Grave |

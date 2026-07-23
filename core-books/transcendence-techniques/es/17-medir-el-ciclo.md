@@ -53,12 +53,12 @@ Realiza `T.E. (Astronomía)` sobre un ciclo autónomo visible en el ATB. La difi
 | 4 | Exigente |
 | 5 | Extrema |
 
-Si tienes éxito, el Narrador revela de inmediato el costo de Ritmo de las próximas N activaciones visibles en la secuencia de ese ciclo, donde N es igual a tu rango actual de `Astronomía`. En Rango 1, se revela una activación; en Rango 2, dos; y así sucesivamente para el mismo ciclo objetivo.
+Si tienes éxito, el Narrador revela de inmediato la estructura rítmica de ese ciclo. A partir de ese momento y mientras el ciclo se mantenga activo, conoces siempre el costo exacto de Ritmo de sus activaciones antes de que se resuelvan.
 
-Recibes un bonificador igual a tu rango de `Astronomía` en todas las tiradas de salvación resultantes de las activaciones reveladas de ese ciclo.
+Además, recibes de forma permanente un bonificador igual a tu rango de `Astronomía` en todas las tiradas de salvación resultantes de las activaciones de ese ciclo.
 
 Si fallas, no se revela información y no se otorga bonificador.
 
 La información no altera el ciclo ni retrasa su activación. No impide que el efecto ocurra. El bonificador aplica únicamente a tus tiradas de salvación — no a tiradas de ataque, especialización, o impacto.
 
-El beneficio termina cuando esas activaciones se resuelven o cuando el ciclo deja de seguir la secuencia que lograste medir.
+El beneficio persiste hasta que el ciclo cambie fundamentalmente su patrón o deje de existir.

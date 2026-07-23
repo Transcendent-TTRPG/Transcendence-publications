@@ -48,8 +48,8 @@ Cuando una aflicción de la familia Veneno se asienta sobre ti, realiza una T.E.
 
 Si tienes éxito, reduce la severidad final asentada en un paso:
 
-- Severo → Moderado
-- Moderado → Menor
-- Menor → no se asienta
+- Grave → Moderado
+- Moderado → Leve
+- Leve → no se asienta
 
 Si fallas, la severidad se asienta normalmente.

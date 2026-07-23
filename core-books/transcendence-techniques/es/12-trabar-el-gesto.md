@@ -47,7 +47,7 @@ Sustituye tu `T.D.` normal por una `T.A.` contra el atacante.
 
 Si tu `T.A.` supera la del atacante, no recibes daño del ataque y resuelves la `T.I.` normalmente contra el atacante.  El atacante realiza entonces una `T.R.` de Resistencia a las Alteraciones. La severidad se determina según tu rango:
 
-- Rangos 1-2: Menor
+- Rangos 1-2: Leve
 - Rangos 3-4: Moderado
 - Rangos 5-6: Grave
 

@@ -49,11 +49,8 @@ Si supera el umbral: la acción tiene éxito, pero pierde un número de efectos 
 
 | Rango de Aplomo | Efectos condicionales negados |
 | --- | ---: |
-| Novato | 1 |
-| Adepto | 1 |
-| Experto | 2 |
-| Maestro | 2 |
-| Consumado | 2 |
-| Trascendente | 2 |
+| 1 - 2 | 1 |
+| 3 - 4 | 2 |
+| 5 - 6 | 3 |
 
 Esta técnica no te vuelve invisible, sano o intrépido. Solo hace que tu estado interno sea menos legible para quien intenta usarlo como base de acción.

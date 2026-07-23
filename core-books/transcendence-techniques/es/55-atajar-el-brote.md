@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, embestida, attack, active, zarnag, breakthrough, commitment]
+tags: [techniques, embestida, attack, active, zarnag, breakthrough, commitment, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -38,6 +38,7 @@ related:
 ## Keywords
 
 - `Embestida`
+- `Hereda Efectos`
 
 ## Efecto
 

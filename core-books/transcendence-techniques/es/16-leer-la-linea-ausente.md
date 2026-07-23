@@ -25,7 +25,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Tú | Rango Sensorial | Instantáneo | T.E. (Interpretación) |
+| Tú | Rango Sensorial | Permanente | T.E. (Interpretación) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |

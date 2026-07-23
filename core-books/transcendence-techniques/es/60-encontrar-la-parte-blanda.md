@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, letalidad, attack, active, zarnag, finishing, lethality]
+tags: [techniques, letalidad, attack, active, zarnag, finishing, lethality, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -39,6 +39,7 @@ related:
 ## Keywords
 
 - `Letalidad`
+- `Hereda Efectos`
 
 ## Efecto
 

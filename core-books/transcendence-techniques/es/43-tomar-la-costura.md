@@ -52,13 +52,4 @@ Con éxito, elige uno:
 
 - Si un enemigo usa la superficie elegida como `Cobertura`, reduce esa `Cobertura` una categoria, hasta un mínimo de sin cobertura. El efecto dura mientras ese enemigo continúe usando esa misma superficie como cobertura; termina si el enemigo cambia de posición, cambia de cobertura, o el la superficie cambia materialmente.
 
-- El resultado mínimo para validar la ruptura se reduce según tu rango de competencia en `Minería`:
-
-| Rango de `Minería` | Reducción |
-| --- | ---: |
-| Novato | 1 |
-| Adepto | 2 |
-| Experto | 3 |
-| Maestro | 4 |
-| Consumado | 5 |
-| Trascendente | 6 |
+- El resultado mínimo para validar la ruptura se reduce en una cantidad igual a tu rango de competencia en `Minería`.

@@ -46,8 +46,8 @@ Realiza una T.E. (Intimidación) contra una criatura dentro de tu rango sensoria
 
 | Rangos | Severidad |
 | --- | --- |
-| 1-2 | Menor |
+| 1-2 | Leve |
 | 3-4 | Moderado |
-| 5-6 | Severo |
+| 5-6 | Grave |
 
 Si la T.R. falla, el objetivo queda Aterrorizado.

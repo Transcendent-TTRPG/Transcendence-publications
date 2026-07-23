@@ -26,7 +26,7 @@ related:
 
 | Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
-| Personal | Circular 8 m | Instantáneo | T.C. (Aura) |
+| Personal | Circular 8 m | Permanente | T.C. (Aura) |
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
@@ -51,4 +51,4 @@ La lectura no revela origen, causa ni naturaleza exacta de la anomalía. Solo co
 
 Además, si durante esa lectura hay ciclos autónomos visibles en el ATB operando sobre criaturas, zonas o efectos dentro del área, puedes clasificarlos como `Biológicos`, `de Coordinación de Aliados` o `Ambientales`.
 
-Hasta el final de la escena, obtienes un bonificador de `+1` por cada cuatro Niveles de Referencia a tus `T.E.` para identificar `Puntos Vitales` o `zonas` vinculadas a cualquiera de esos ciclos. Este beneficio te aplica solo a ti.
+De forma permanente, obtienes un bonificador de `+1` por cada cuatro Niveles de Referencia a tus `T.E.` para identificar `Puntos Vitales` o `zonas` vinculadas a cualquiera de esos ciclos. Este beneficio te aplica solo a ti.

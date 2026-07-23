@@ -45,6 +45,12 @@ related:
 
 Cuando una criatura dentro de tu línea de tiro declara o inicia un desplazamiento, puedes interrumpirlo para realizar una `T.A.`.
 
-Si aciertas, resuelves `T.I.` normalmente. Luego reduce el movimiento restante de ese desplazamiento en `1` metro por cada rango de la competencia usada para esta `T.A.`.
+Si aciertas, resuelves `T.I.` normalmente. El fuego de supresión rompe la inercia del objetivo: la distancia total que puede recorrer con este desplazamiento se reduce a la mitad.
 
-Si la reducción impide que la criatura alcance la posición declarada, se detiene en la última casilla legal que pueda ocupar. Si fallas, el desplazamiento continúa normalmente.
+Además, si el objetivo decide continuar moviéndose bajo este fuego de supresión, debe pagar un costo de Ritmo adicional. Este sobrecargo aumenta según tu rango de competencia:
+
+- Rangos 1-2: `+1` Ritmo
+- Rangos 3-4: `+2` Ritmo
+- Rangos 5-6: `+3` Ritmo
+
+Si el objetivo no puede o no quiere pagar el costo adicional, su acción de movimiento termina inmediatamente en la casilla donde recibió el impacto. Si fallas la `T.A.`, el desplazamiento del objetivo continúa normalmente.
