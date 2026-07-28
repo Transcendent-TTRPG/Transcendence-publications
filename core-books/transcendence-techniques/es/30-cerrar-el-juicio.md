@@ -46,16 +46,7 @@ Antes de tirar, declara un objetivo de ruptura que tu ataque pueda alcanzar: arm
 
 Realiza un ataque con perfil `Impacto` contra ese objetivo. Si el ataque impacta, resuelve el daño normalmente.
 
-Para este ataque, el resultado de `T.I.` necesario para validar una ruptura se reduce en 1 por cada rango de competencia:
-
-| Rango de competencia | Reducción |
-| --- | ---: |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
-| 4 | 4 |
-| 5 | 5 |
-| 6 | 6 |
+Para este ataque, el resultado de `T.I.` necesario para validar una ruptura se reduce en un valor igual a tu rango de competencia.
 
 Si la `T.I.` cae dentro del rango, resuelve la validación de ruptura con la fórmula habitual: `Potencia Crítica > Durabilidad del objetivo`.
 

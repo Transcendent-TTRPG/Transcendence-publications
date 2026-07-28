@@ -29,7 +29,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `3` | `1` |
+| — | — | `0` | `2` |
 
 ## Requisitos
 
@@ -41,4 +41,4 @@ related:
 
 ## Efecto
 
-Cuando una criatura de tamaño Mediano o mayor entra en tu rango sensorial sin ser observable por medios ordinarios, realiza una T.E. (Percepción). Con éxito, el cambio en el gradiente llega con un intercambio de anticipación: desplázate hasta tu Velocidad de Movimiento antes de que la criatura sea perceptible por otros medios. Sabes que algo ha cambiado; no sabes qué es.
+Cuando una criatura de tamaño Mediano o mayor entra en tu rango sensorial sin ser observable por medios ordinarios, realiza una T.E. (Percepción). Con éxito, desplázate hasta tu Velocidad de Movimiento antes de que la criatura sea perceptible por otros medios. Sabes que algo ha cambiado; no sabes qué es.

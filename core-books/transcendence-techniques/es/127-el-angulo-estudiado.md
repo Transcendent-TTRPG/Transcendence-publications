@@ -53,4 +53,4 @@ Si fallas, la técnica no tiene efecto.
 
 Si tienes éxito, mientras este efecto esté activo, cada T.R. que ese objetivo realice en respuesta a tus acciones se hace con una penalización igual a tu rango de competencia en Alquimia.
 
-Este efecto termina si activas esta técnica contra un objetivo diferente, o cuando el encuentro termina.
+Este efecto termina si activas esta técnica contra un objetivo diferente, o cuando dejas de percibir al objetivo.

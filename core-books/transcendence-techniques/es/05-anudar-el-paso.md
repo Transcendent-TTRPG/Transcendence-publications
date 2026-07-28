@@ -42,8 +42,6 @@ related:
 
 ## Efecto
 
-Cuando un enemigo que ya está dentro del alcance de tu perfil intenta retirarse, realiza una `T.A.`.
+Cuando un objetivo que ya está dentro del alcance de tu perfil intenta retirarse, realiza una `T.A.` contra él.
 
-Si aciertas, resuelve la `T.I.` con normalidad. Luego, el enemigo permanece en su posición disputada o en la posición válida más cercana que todavía lo deja dentro del alcance de tu perfil.
-
-Si fallas, completa su movimiento normalmente.
+Si aciertas, resuelves tu `T.I.` con normalidad y obligas al objetivo a permanecer en su posición actual o en el espacio válido más cercano que lo mantenga dentro de tu alcance.

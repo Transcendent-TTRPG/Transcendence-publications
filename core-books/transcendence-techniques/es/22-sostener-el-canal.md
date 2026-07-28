@@ -42,15 +42,6 @@ related:
 
 ## Efecto
 
-Cuando meditas específicamente para reducir la intensidad de una Aflicción activa, añades un bonificador a la tirada de Meditación igual a tu rango de `Meditación`:
-
-| Rango de `Meditación` | Bonificador |
-| --- | --- |
-| 1 | `+1` |
-| 2 | `+2` |
-| 3 | `+3` |
-| 4 | `+4` |
-| 5 | `+5` |
-| 6 | `+6` |
+Cuando meditas específicamente para reducir la intensidad de una Aflicción activa, añades un bonificador a la tirada igual a tu rango de competencia en `Meditación`.
 
 La técnica no modifica el costo de la acción de meditación en tiempo ni en enfoque — mejora la calidad de la recuperación que esa acción produce.

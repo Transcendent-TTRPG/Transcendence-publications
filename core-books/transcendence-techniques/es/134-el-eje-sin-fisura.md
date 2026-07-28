@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, armadura-ligera, acecho, reactive, attack, vesper, counterattack, acoustic-read]
+tags: [techniques, armadura-ligera, acecho, reactive, attack, vesper, counterattack, acoustic-read, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -30,7 +30,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | T.I. | `4` | `1` |
+| — | T.I. | `2` | `1` |
 
 ## Requisitos
 

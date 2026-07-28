@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, unpredictability, short-blades, daggers, active, attack, vesper, acoustic-masking, td-bypass]
+tags: [techniques, unpredictability, short-blades, daggers, active, attack, vesper, acoustic-masking, td-bypass, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -43,8 +43,6 @@ related:
 
 ## Efecto
 
-Declara esta técnica antes de realizar la T.A. El usuario suprime la señal acústica del vector de ataque — la trayectoria no genera cue sonoro detectable antes de que el golpe se comprometa.
-
-Realiza la T.A. normalmente. La T.D. del objetivo contra este ataque no puede incluir bonificadores de rango de ninguna competencia defensiva. El objetivo sigue realizando la T.D., pero sin el bonificador de competencia que normalmente aplicaría.
+Realiza una T.A. normalmente. La T.D. del objetivo contra este ataque no puede incluir bonificadores de rango de ninguna competencia defensiva. El objetivo sigue realizando la T.D., pero sin el bonificador de competencia que normalmente aplicaría.
 
 Esta técnica no funciona contra objetivos que no dependan de señales sensoriales para su defensa.

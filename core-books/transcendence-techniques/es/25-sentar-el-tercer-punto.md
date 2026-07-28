@@ -42,21 +42,8 @@ related:
 
 ## Efecto
 
-**Disparador:** intentas moverte a través de terreno que impondría una penalización de velocidad, aumento de dificultad o tirada de Equilibrio obligatoria por terreno inestable, inclinado, colapsado o dañado.
+Realiza una `T.E. (Equilibrio)`. Si fallas, los efectos del terreno aplican con normalidad.
 
-Realiza `T.E. (Equilibrio)`. Si tienes éxito, identifica y usa un punto de anclaje estable a lo largo del trayecto — la cola contra un bloque roto, el arma apoyada en el escalón inferior, una mano en la pared, o cualquier superficie de contacto disponible — y muévete a través del terreno como si fuera estable.
+Si tienes éxito, identificas puntos de anclaje impredecibles a lo largo del trayecto. Ignoras todas las penalizaciones de ese terreno inestable durante tu acción de movimiento actual completa.
 
-El número de espacios libres es igual a tu rango de `Equilibrio` + 1:
-
-| Rango de `Equilibrio` | Espacios libres |
-| --- | ---: |
-| 1 | 2 |
-| 2 | 3 |
-| 3 | 4 |
-| 4 | 5 |
-| 5 | 6 |
-| 6 | 7 |
-
-Las penalizaciones de velocidad, aumentos de dificultad y tiradas de Equilibrio obligatorias no aplican a esos espacios. Más allá de esos espacios, los efectos del terreno aplican con normalidad.
-
-Si fallas, los efectos del terreno aplican con normalidad.
+Además, como tu trayectoria se vuelve errática y anclada al caos del entorno, recibes un bonificador a tu `T.D.` contra cualquier reacción o ataque de oportunidad enemigo que provoque este desplazamiento, igual a tu rango de competencia en `Equilibrio`.

@@ -45,6 +45,6 @@ Declara un punto exacto dentro de un radio de metros igual a **10 + (tu Rango de
 
 Realiza una T.E. (Lanzamiento) contra un umbral determinado por la distancia, la visibilidad y la presión de la escena.
 
-Con éxito, durante esta misma activación, una T.E. de Nadar, Trepar, Salto, Acrobacia o Equitación que atraviese ese punto exacto trata su umbral de dificultad como un grado menor, hasta un mínimo de Fundamental.
+Con éxito, toda T.E. de Nadar, Trepar, Salto, Acrobacia o Equitación que atraviese ese punto exacto trata su umbral de dificultad como un grado menor, hasta un mínimo de Fundamental.
 
 Si no atraviesas ese punto exacto en esta misma activación, no obtienes ningún beneficio.

@@ -24,7 +24,7 @@ related:
 
 *El instinto puro es más rápido que el pensamiento.*
 
-| Alcance | Área | Duración | Tirada |
+| Rango | Área | Duración | Tirada |
 | --- | --- | --- | --- |
 | Personal | Tú | Permanente | — |
 
@@ -43,6 +43,6 @@ related:
 
 ## Efecto
 
-Al activar esta técnica, apagas voluntariamente tus lóbulos frontales para cederle el control absoluto al instinto motriz. Mientras la técnica esté activa, tus características de **Intelecto** y **Compostura** se consideran `0`. 
+Al activar esta técnica, apagas voluntariamente tus lóbulos frontales para cederle el control absoluto al instinto motriz. Mientras la técnica esté activa, tus características de **Intelecto** y **Compostura** se consideran `0`.
 
 A cambio, tu **Velocidad de Movimiento** base aumenta en `+2 m` por cada cuatro Niveles de Referencia, y el costo de Ritmo de todas tus acciones de movimiento se reduce en `1` por cada cuatro Niveles de Referencia (hasta un mínimo de 1).

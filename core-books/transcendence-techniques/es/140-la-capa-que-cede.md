@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, corrosion, short-blades, active, attack, vesper, td-penalty, alchemical-residue, defensive-surface-degradation]
+tags: [techniques, corrosion, short-blades, active, attack, vesper, td-penalty, alchemical-residue, defensive-surface-degradation, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -45,4 +45,3 @@ related:
 Realiza una T.A. con tu perfil de Corrosión contra el objetivo. Si la T.A. falla, la técnica no produce efecto adicional.
 
 Si la T.A. impacta, resuelve la T.I. normalmente. El golpe encuentra el ángulo donde la defensa del objetivo deja de sostenerse — no la rompe, sino que la deja comprometida en una posición desde la que no puede responder igual. El bonificador de rango del objetivo en T.D. se reduce por un valor igual a tu rango de competencia.
-

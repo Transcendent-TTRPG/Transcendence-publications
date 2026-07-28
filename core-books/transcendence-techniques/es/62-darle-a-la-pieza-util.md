@@ -45,7 +45,7 @@ related:
 
 Antes de realizar la tirada, declara una parte visible del cuerpo que el objetivo use para atacar: brazos, garras, mandíbula, tentáculo u otra estructura de ataque identificable.
 
-Realiza una T.A. con tu perfil de `Precisión` contra el objetivo. Si el ataque conecta, la parte declarada queda **dañada**. Las T.A. que el objetivo realice usando esa parte reciben una penalización igual al bono de rango de la competencia usada en esta técnica.
+Realiza una T.A. con tu perfil de `Precisión` contra el objetivo. Si el ataque conecta, la parte declarada queda **afectada**. Las T.A. que el objetivo realice usando esa parte reciben una penalización igual al bono de rango de la competencia usada en esta técnica.
 
 Este efecto es permanente hasta que la ficción lo resuelva: tratar la herida, inmovilizar la parte, o recuperarse de un modo que atienda específicamente esa zona.
 

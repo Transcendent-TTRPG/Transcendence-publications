@@ -42,6 +42,6 @@ related:
 
 ## Efecto
 
-Cuando un ataque enemigo o golpe vinculado a movimiento alcanzaría a un aliado, criatura protegida, testigo transportado, reliquia u objetivo designado dentro del alcance de tu arma, interpones tu superficie entre la amenaza y ese objetivo. El ataque se resuelve contra tu T.D. en lugar de afectar a su objetivo original. Te conviertes en el punto de contacto con la fuerza hostil; el ataque es bloqueado, redirigido o resuelto contra tu defensa según lo que exija la escena.
+Cuando un ataque enemigo o golpe vinculado a movimiento alcanzaría a un aliado u objetivo designado dentro del alcance de tu arma, interpones tu superficie entre la amenaza y ese objetivo. El ataque se resuelve contra tu T.D. en lugar de afectar a su objetivo original. Te conviertes en el punto de contacto con la fuerza hostil; el ataque es bloqueado, redirigido o resuelto contra tu defensa según lo que exija la escena.
 
 Si el ataque interceptado lleva un efecto adicional — movimiento forzado, una condición o una sujeción — ese efecto no se transfiere automáticamente al objetivo protegido. El Narrador determina si puede afectarte a ti según lo que tenga sentido para la ficción del contacto.

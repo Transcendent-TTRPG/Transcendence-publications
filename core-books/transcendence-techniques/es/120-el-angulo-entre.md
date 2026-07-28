@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, fluidez, flow, active, attack, vesper, chain, repositioning]
+tags: [techniques, fluidez, flow, active, attack, vesper, chain, repositioning, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml

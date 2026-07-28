@@ -42,11 +42,9 @@ related:
 
 ## Efecto
 
-Realiza una `T.A.` (Ataque) enfrentada a la `T.E. (Intuición)` del objetivo.
+Realiza una `T.A.` enfrentada a la `T.E. (Intuición)` de tu objetivo. 
 
-Si fallas, la técnica no tiene efecto.
-
-Si tienes éxito, puedes desplazarte hasta la mitad de tu Velocidad de Movimiento sin provocar reacciones de ese objetivo. Además, al "robar su ángulo", el objetivo debe realizar una `T.R. (Alteraciones)`. Si falla, queda `Desequilibrado` a la severidad que corresponda a tu rango de competencia:
+Si tienes éxito, puedes desplazarte hasta la mitad de tu Velocidad de Movimiento sin provocar reacciones de su parte. Además, al robar su ángulo táctico, obligas al objetivo a realizar una `T.R. (Alteraciones)`. Si falla, queda `Desequilibrado` con la severidad correspondiente a tu rango de competencia:
 
 | Rango | Severidad |
 | --- | --- |

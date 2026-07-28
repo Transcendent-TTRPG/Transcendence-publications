@@ -34,7 +34,6 @@ related:
 ## Requisitos
 
 - Competencia: `Historia` (Rango Novato o superior)
-- La situación, método o patrón que enfrentás debe tener un análogo posible en la experiencia acumulada del personaje
 
 ## Keywords
 
@@ -42,15 +41,11 @@ related:
 
 ## Efecto
 
-Realiza T.E. (Historia). Si fallas, no se localiza ningún precedente aplicable. Si tienes éxito, el Narrador declara un punto de quiebre específico — el lugar donde una situación de este tipo ya cedió o reveló su vulnerabilidad.
+Realiza T.E. (Historia). Si fallas, no se localiza ningún precedente aplicable. Si tienes éxito, el Narrador declara un punto de quiebre específico — el lugar donde una situación de este tipo ya reveló su vulnerabilidad.
 
-Mientras el punto de quiebre esté activo, recibes un bonificador igual a tu rango de `Historia` en T.D. cuando el ataque o efecto que enfrentás corresponde al patrón del punto de quiebre declarado. El bonificador aplica únicamente a ti.
+Recibes un bonificador acumulativo de acuerdo a tu rango de competencia en `Historia`.
 
 La técnica termina cuando el punto de quiebre deja de ser aplicable: la situación cambia, el patrón se modifica o abandona, o el Narrador declara que la grieta fue explotada o cerrada.
-
-## Escalado
-
-Los bonificadores son acumulativos — cada rango agrega un nuevo tipo de tirada al que aplica el bonus. Todos aplican únicamente al usuario y solo mientras el punto de quiebre esté activo.
 
 El bonificador es siempre igual a tu rango de Historia. Con cada rango, el punto de quiebre cubre una tirada adicional.
 

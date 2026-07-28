@@ -55,4 +55,4 @@ Si fallas, la técnica no tiene efecto.
 
 Si tienes éxito, lees los patrones de pre-movimiento biológico del objetivo. Mientras el efecto esté activo, tu T.D. contra cualquier acción de ese objetivo lleva un bonificador igual a tu rango de competencia en Identificación. Además, cualquier reacción que ese objetivo ejecute como respuesta directa a una activación tuya tiene una penalización de Ritmo igual a tu rango de competencia en Identificación.
 
-Este efecto termina si activas esta técnica sobre un objetivo diferente o cuando el encuentro termina.
+Este efecto termina si activas esta técnica sobre un objetivo diferente o cuando dejas de percibir al objetivo.

@@ -43,4 +43,4 @@ related:
 
 ## Efecto
 
-Cuando un enemigo realiza cualquier acción que involucre movimiento y entra en una casilla dentro del rango de tu arma, interrumpes ese movimiento para realizar una `T.A.`. Si aciertas, resuelves `T.I.` normalmente y el enemigo debe detener su movimiento en esa casilla. Si fallas, el enemigo continúa su acción normalmente.
+Cuando un enemigo realiza una acción que involucre movimiento y entra en el rango de tu arma, puedes interrumpir su avance para realizar una `T.A.` contra él. Si aciertas, resuelves tu `T.I.` normalmente y obligas al enemigo a detener su movimiento en esa misma posición.

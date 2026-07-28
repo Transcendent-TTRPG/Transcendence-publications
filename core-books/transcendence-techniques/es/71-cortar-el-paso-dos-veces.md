@@ -46,7 +46,7 @@ related:
 
 Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.A. con tu perfil de `Cadencia`, consumiendo 2 armas arrojadizas.
 
-Por cada ataque que impacte, resuelves el impacto. 
+Por cada ataque que impacte, resuelves el impacto.
 
 Si al menos un ataque impacta, la distancia restante de ese movimiento desencadenante se reduce en una cantidad de metros igual a tu rango de la competencia usada para esta técnica.
 

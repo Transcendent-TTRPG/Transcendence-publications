@@ -41,16 +41,9 @@ related:
 
 ## Efecto
 
-Cuando alguien realiza una T.E. Mental o Social, realiza `T.E. (Aplomo)`. El resultado de tu tirada se convierte en el umbral que esa acción debe superar.
+Cuando alguien realiza una T.E. Mental o Social con la intención de leer, manipular o extraer información de ti, puedes declarar esta técnica. Realiza `T.E. (Aplomo)`. El resultado de tu tirada establece la dificultad que el agresor debe superar.
 
-Si no supera el umbral: la acción no produce contexto narrativo utilizable y todos sus efectos condicionales quedan negados.
+- **Si no te supera:** Su intento falla por completo. No obtiene información, ventaja ni contexto utilizable sobre ti, y cualquier efecto mecánico derivado queda anulado.
+- **Si te supera:** Su acción tiene éxito, pero tu postura defensiva mitiga el daño. Anulas una cantidad de efectos mecánicos o conclusiones narrativas del agresor igual a la mitad de tu rango de competencia en `Aplomo` (redondeado hacia arriba).
 
-Si supera el umbral: la acción tiene éxito, pero pierde un número de efectos condicionales según tu rango de Aplomo.
-
-| Rango de Aplomo | Efectos condicionales negados |
-| --- | ---: |
-| 1 - 2 | 1 |
-| 3 - 4 | 2 |
-| 5 - 6 | 3 |
-
-Esta técnica no te vuelve invisible, sano o intrépido. Solo hace que tu estado interno sea menos legible para quien intenta usarlo como base de acción.
+Esta técnica no te vuelve invisible o sano, simplemente hace que tu estado interno sea ilegible para quien intente usarlo en tu contra.

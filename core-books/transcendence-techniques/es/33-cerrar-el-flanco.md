@@ -42,12 +42,9 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti o contra una criatura u objeto dentro de ese mismo alcance, puedes reemplazar tu propia `T.D.` o la del objetivo protegido contra ese ataque. Si el objetivo protegido es una criatura capaz de defenderse, debe aceptarlo antes de la tirada.
+Cuando un enemigo dentro del alcance de tu arma ataca físicamente a un aliado o a ti mismo, puedes sustituir la `T.D.` del objetivo por una `T.A.` tuya contra el agresor (un aliado debe aceptar tu intervención).
 
-Realiza `T.A.` contra el atacante y compárala con su `T.A.`:
+- **Si tu `T.A.` es igual o mayor:** Bloqueas el ataque por completo y resuelves tu `T.I.` contra el agresor.
+- **Si tu `T.A.` es menor:** El ataque enemigo impacta automáticamente a su objetivo original, sin posibilidad de otra `T.D.`
 
-- **Si tu `T.A.` es igual o superior:** el ataque no alcanza al objetivo protegido, resuelves la `T.I.` normalmente contra el atacante.  Cualquier efecto secundario del ataque desencadenante no afecta al objetivo protegido salvo que una regla específica indique lo contrario.
-
-- **Si tu `T.A.` es inferior:** el ataque resuelve contra el objetivo protegido como si su `T.D.` hubiera fallado. El objetivo no realiza una `T.D.` separada contra ese ataque.
-
-Esta técnica no detiene el movimiento del enemigo ni aplica condiciones. No puede usarse contra ataques de área, efectos no físicos, ni líneas de ataque que no puedas percibir o alcanzar físicamente.
+Solo aplica contra ataques físicos directos de un solo objetivo que puedas percibir y alcanzar físicamente.

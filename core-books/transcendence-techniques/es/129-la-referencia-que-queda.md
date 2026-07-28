@@ -47,8 +47,8 @@ Realiza `T.E. (Orientación)`. La dificultad la establece el Narrador según las
 
 Si tienes éxito, estableces un punto de referencia espacial con radio igual a 10 metros multiplicado por tu rango de competencia en Orientación.
 
-Cualquier desplazamiento forzado que sufras mientras estés dentro de esa zona no determina tu posición de llegada — puedes redirigir el vector del desplazamiento a cualquier dirección dentro de la distancia indicada por la fuente.
+Cualquier desplazamiento forzado que sufras mientras estés dentro de esa zona no determina tu posición de llegada — puedes redirigir el desplazamiento a cualquier dirección dentro de la distancia indicada por la fuente.
 
-Al momento de la activación, registras un mapa mental del área: posiciones de criaturas, objetos y elementos del terreno tal como estaban en ese instante. Puedes consultar ese mapa al Narrador durante el encuentro; proporciona posiciones del momento de activación, no posiciones actuales.
+Al momento de la activación, registras un mapa mental del área: posiciones de criaturas, objetos y elementos del terreno tal como estaban en ese instante. Puedes consultar ese mapa al Narrador durante el encuentro; proporcionando posiciones del momento de activación, no posiciones actuales.
 
-Este efecto termina si activas esta técnica de nuevo o abandonas el encuentro.
+Este efecto termina si activas esta técnica de nuevo o abandonas la zona.

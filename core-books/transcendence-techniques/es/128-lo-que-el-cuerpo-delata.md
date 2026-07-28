@@ -54,4 +54,4 @@ Si fallas, la técnica no tiene efecto.
 
 Si tienes éxito, sabes si ese objetivo porta alguna Infección o Veneno activo, incluyendo el período de incubación, y qué tipo de contacto activa su riesgo de Contagio. Además, tu T.R. contra cualquier Infección o Veneno infligido directamente por ese objetivo recibe un bonificador igual a tu rango de competencia en Herboristería.
 
-Este efecto termina si activas esta técnica sobre un objetivo diferente, o cuando el encuentro termina.
+Este efecto termina si activas esta técnica sobre un objetivo diferente, o cuando dejas de percibir al objetivo.

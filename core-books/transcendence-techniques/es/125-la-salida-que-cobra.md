@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, acecho, shadow-pressure, reactive, attack, vesper, pursuit, movement]
+tags: [techniques, acecho, shadow-pressure, reactive, attack, vesper, pursuit, movement, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml

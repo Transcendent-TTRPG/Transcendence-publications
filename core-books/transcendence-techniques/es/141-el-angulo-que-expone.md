@@ -47,7 +47,7 @@ Cuando un enemigo declara un ataque físico contra el usuario, declara esta téc
 
 Compara tu T.A. con la T.A. del agresor:
 
-- **Si tu T.A. es igual o mayor:** el ataque falla. Resuelve tu T.I. normalmente contra el agresor. Además, la próxima T.A. del agresor contra el usuario recibe una penalización igual a tu rango de competencia en la superficie de Desvío usada. Este efecto es `Permanente` hasta que el agresor realice su próxima T.A. contra el usuario, o hasta que el encuentro termine.
+- **Si tu T.A. es igual o mayor:** el ataque falla. Resuelve tu T.I. normalmente contra el agresor. Además, la próxima T.A. del agresor contra el usuario recibe una penalización igual a tu rango de competencia en la superficie de Desvío usada. Este efecto es `Permanente` hasta que el agresor realice su próxima T.A. contra el usuario.
 
 - **Si tu T.A. es menor:** el desvío falla. El ataque resuelve como si tu T.D. hubiera fallado.
 

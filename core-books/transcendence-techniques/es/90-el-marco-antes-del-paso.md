@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-La determinación parte del reconocimiento de patrones físicos y de comportamiento acumulados en el entorno (desgaste antinatural, reacciones previas, contexto del lugar). Aunque no puedes "ver" el Tauma desde lejos, lees el marco del objeto antes de tocarlo.
+Cuando interactúas con un objeto mundano, no sucede nada. Sin embargo, al tocar un objeto por primera vez que resulta ser un `Vestigio` o `Vínculo` y te exige una T.R. de Aflicciones por el impacto inicial de exposición al Tauma, activas esta técnica como reacción.
 
-Cuando interactúas con un objeto mundano, no sucede nada. Sin embargo, al tocar un objeto por primera vez que resulta ser un `Vestigio` o `Vínculo` y te exige una T.R. de Aflicciones por el impacto inicial de exposición al Tauma, activas esta técnica como reacción. 
+La determinación parte del reconocimiento de patrones físicos y de comportamiento acumulados en el entorno (desgaste antinatural, reacciones previas, contexto del lugar). Aunque no puedes "ver" el Tauma desde lejos, lees el marco del objeto antes de tocarlo.
 
 Pagas el coste de Desgaste y sumas tu Rango de competencia en `Identificación` como bonificador a esa T.R. de Aflicciones específica. Tu mente estaba encuadrada empíricamente para el horror, mitigando el impacto del descubrimiento anómalo.

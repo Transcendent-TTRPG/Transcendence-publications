@@ -31,7 +31,7 @@ related:
 
 | Salvación | Impacto | Ritmo | Desgaste |
 | --- | --- | --- | --- |
-| — | — | `3` | `1` |
+| — | — | `3` | `3` |
 
 ## Requisitos
 

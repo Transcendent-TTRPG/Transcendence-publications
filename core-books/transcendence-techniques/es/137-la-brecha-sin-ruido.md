@@ -47,4 +47,4 @@ Cuando un enemigo declara un ataque físico de un solo objetivo contra ti, puede
 
 Si la T.D. falla, la técnica falla y el ataque se resuelve normalmente.
 
-Si la T.D. tiene éxito, la siguiente T.D. que ese atacante declare contra tu próxima T.A. dirigida a ellos recibe una penalización igual a tu rango de competencia en `Evasión`. Este efecto termina en cuanto esa T.D. se resuelve, o cuando el encuentro termina.
+Si la T.D. tiene éxito, la siguiente T.D. que ese atacante declare contra tu próxima T.A. dirigida a ellos recibe una penalización igual a tu rango de competencia en `Evasión`. Este efecto es Permanente y termina en cuanto esa T.D. se resuelve.

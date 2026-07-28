@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, desgarro, rend, active, attack, vesper, ti-advantage, precision]
+tags: [techniques, desgarro, rend, active, attack, vesper, ti-advantage, precision, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml
@@ -45,4 +45,4 @@ related:
 
 Realiza una T.A. con tu perfil de `Desgarro`. Si no impactas, la técnica termina.
 
-Con éxito, resuelves la T.I. Para esta T.I., tira dos veces y usa el resultado más alto — el mapa acústico del objetivo identificó la estructura interna más vulnerable antes de que las garras llegaran.
+Con éxito, resuelves la T.I. Para esta T.I., tira dos veces y usa el resultado más alto.

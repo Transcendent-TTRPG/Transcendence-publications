@@ -43,14 +43,13 @@ related:
 
 ## Efecto
 
-Elige una zona de cruce declarada de hasta 4m que esté siendo observada, percibida o vigilada: un borde, umbral en ruinas, linde de humo, abertura de lona, callejón sucio u otro paso de terreno malo similar. Realiza una T.E. (Sigilo) contra la tirada de percepción relevante del observador, o contra un umbral fijado por las condiciones del entorno.
+Declara una línea recta de movimiento a través de una zona observada que contenga elementos de fondo (humo, escombros, muchedumbre o desorden). La longitud máxima de esta línea es igual a **3 metros multiplicados por tu rango de competencia en Sigilo**.
 
-Con éxito, ganas el estado `Oculto` contra aquellos observadores que fallen la tirada opuesta de percepción.
+Realiza una `T.E. (Sigilo)` enfrentada a la percepción de los observadores o contra una dificultad establecida por el entorno. Si tienes éxito, puedes moverte a lo largo de esa línea manteniendo (o ganando) el estado `Oculto` respecto a quienes fallaron la tirada enfrentada.
 
-Ese estado `Oculto` dura hasta que ocurra uno de estos:
+Este estado `Oculto` se mantiene hasta que ocurra una de las siguientes condiciones:
+- Completas el movimiento a lo largo de la línea declarada y no terminas en cobertura válida.
+- Un observador supera activamente tu tirada de Sigilo.
+- Realizas una acción abrupta o violenta que rompe claramente la ilusión de pertenecer al fondo.
 
-- completas el cruce por esa zona declarada
-- el observador te localiza limpiamente mediante Percepción u otra capacidad que supere el valor activo
-- realizas algo abrupto, evidente o claramente fuera del patrón del fondo que rompe la lectura
-
-Esta técnica no crea invisibilidad y no engaña a todos los observadores de la escena.
+Esta técnica no te hace invisible; simplemente engaña la atención del observador haciéndole creer que eres parte del caos natural de la escena.

@@ -47,11 +47,10 @@ Realiza `T.E. (Astronomía)` sobre un ciclo autónomo visible en el ATB. La difi
 
 | Ciclos activos | Dificultad |
 | --- | --- |
-| 1 | Fundamental |
-| 2 | Desafiante |
-| 3 | Rigurosa |
-| 4 | Exigente |
-| 5 | Extrema |
+| 1 | Desafiante |
+| 2 | Rigurosa |
+| 3 | Exigente |
+| 4 o mas | Extrema |
 
 Si tienes éxito, el Narrador revela de inmediato la estructura rítmica de ese ciclo. A partir de ese momento y mientras el ciclo se mantenga activo, conoces siempre el costo exacto de Ritmo de sus activaciones antes de que se resuelvan.
 

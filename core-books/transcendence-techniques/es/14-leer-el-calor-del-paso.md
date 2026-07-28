@@ -42,8 +42,10 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Percepción)`. La técnica integra todos los canales sensoriales disponibles — calor corporal, aliento, vibración, postura, olor, residuo de movimiento, presión en el espacio — como una sola lectura simultánea de la criatura o del espacio que ocupó recientemente.
+Realiza `T.E. (Percepción)` enfrentada al sigilo de la criatura (si aplica). La técnica integra todos los canales sensoriales disponibles para aislar la firma del objetivo.
 
 Si fallas, no se revela nada.
 
-Si tienes éxito, el Narrador proporciona una verdad inmediata sobre el estado o la intención de la criatura: si se aproxima, huye, rodea, o espera; si está herida, agotada o físicamente limitada; si está a punto de atacar, retroceder, o intentar ocultarse; o hacia dónde continuó una señal viva reciente.
+Si tienes éxito:
+- Conoces la posición exacta de la criatura, ignorando cualquier estado de `Oculto` o penalización por falta de visibilidad dentro de tu rango sensorial.
+- Puedes anticipar su acción inminente. Obtienes un bonificador igual a tu rango de competencia en Percepción que puedes aplicar a tu próxima `T.A.` contra ese objetivo, o a tu próxima `T.D.` para defenderte de él.

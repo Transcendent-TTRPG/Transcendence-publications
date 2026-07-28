@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Realiza una `T.A.` contra el objetivo. Si aciertas, resuelves `T.I.` normalmente y luego puedes reposicionarte hasta una cantidad de metros igual a tu **Rango de competencia + 1** para recuperar la distancia óptima de tu arma. Ese reposicionamiento no genera reacciones adicionales.
+Realiza una `T.A.` contra tu objetivo. Si aciertas, resuelves tu `T.I.` normalmente y luego puedes reposicionarte una cantidad de metros igual a tu **rango de competencia + 1** para recuperar la distancia óptima de tu arma. Este desplazamiento no provoca reacciones.

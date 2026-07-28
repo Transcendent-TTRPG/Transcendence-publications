@@ -7,7 +7,7 @@ language: es
 chapter: 9
 status: draft
 canonical: false
-tags: [techniques, hostigamiento, skirmish, active, attack, vesper, atb-disruption, tempo-theft]
+tags: [techniques, hostigamiento, skirmish, active, attack, vesper, atb-disruption, tempo-theft, hereda-efectos]
 authority_refs:
   - Transcendence-design/docs/system/techniques.md
   - Transcendence-design/data/system/techniques.yaml

@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Avanza hasta una cantidad de metros igual a tu **Rango de competencia + 1** hacia el objetivo como parte de esta acción, sin gastar una acción de movimiento separada, y luego realiza una `T.A.` desde tu nueva posición. Si aciertas, resuelves `T.I.` normalmente.
+Desplázate una cantidad de metros igual a tu **rango de competencia + 1** hacia tu objetivo sin gastar una acción de movimiento separada. Desde esa nueva posición, realiza una `T.A.` contra él. Si aciertas, resuelves tu `T.I.` normalmente.

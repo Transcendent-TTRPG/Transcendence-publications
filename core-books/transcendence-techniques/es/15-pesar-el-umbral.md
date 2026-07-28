@@ -34,7 +34,7 @@ related:
 ## Requisitos
 
 - Competencia: `Sigilo`
-- Posición oculta válida
+- Estar en estado `Oculto` respecto a la criatura objetivo
 
 ## Keywords
 
@@ -43,7 +43,7 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Sigilo)` desde tu posición oculta contra una criatura a 4 metros o menos. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `T.R. (Alteraciones)` contra `Aterrorizado`.
+Realiza `T.E. (Sigilo)` contra una criatura objetivo (frente a la cual tengas el estado `Oculto` activo) que se encuentre a una distancia igual o menor a tu Velocidad de Movimiento actual. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `T.R. (Alteraciones)` contra `Aterrorizado`.
 
 **Severidad por tu rango de `Sigilo`:**
 

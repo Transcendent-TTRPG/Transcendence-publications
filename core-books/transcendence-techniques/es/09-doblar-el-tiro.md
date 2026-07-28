@@ -43,8 +43,8 @@ related:
 
 ## Efecto
 
-Declara una cantidad de superficies de rebote o desvío hasta un máximo de la **mitad de tu Rango de competencia** (redondeado hacia arriba) y realiza una `T.A.` a través de esa línea indirecta. Si aciertas, resuelves `T.I.` normalmente.
+Declara una línea indirecta usando superficies de rebote o desvío y realiza una `T.A.` a través de ella. Si aciertas, resuelves `T.I.` normalmente.
 
-El objetivo conserva cualquier defensa que tenga sentido contra la trayectoria final, pero no puede reclamar protección del borde de cobertura original si la línea declarada lo bordea.
+Debido a lo impredecible de la trayectoria, este ataque reduce tanto la `T.D.` como el `Bloqueo` del objetivo en un valor igual a tu rango de competencia. Además, el objetivo no puede beneficiarse de bonificadores por Cobertura direccional.
 
 La técnica no atraviesa barreras selladas, no curva libremente en aire abierto y no busca objetivos cuya posición no puedas localizar de forma razonable.

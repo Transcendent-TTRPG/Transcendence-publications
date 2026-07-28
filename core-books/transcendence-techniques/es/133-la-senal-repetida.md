@@ -42,10 +42,10 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Historia)`. La dificultad la establece el Narrador según la antigüedad o la obscuridad del análogo histórico. Si fallas, la técnica no tiene efecto.
+Realiza una `T.E. (Historia)` contra la dificultad del entorno. Si fallas, la técnica no tiene efecto.
 
-Si tienes éxito, el Narrador confirma que el comportamiento del grupo enemigo corresponde a un patrón histórico conocido. Declara una categoría de comportamiento — carga ofensiva, flanqueo, explotación de terreno, u otra que el Narrador apruebe — basada en ese análogo.
+Si tienes éxito, el Narrador confirma que el comportamiento del grupo enemigo corresponde a un patrón conocido.
 
-Mientras el patrón persista, todos los aliados que declaren una `T.R.` contra una acción enemiga que el Narrador confirme encaja en la categoría declarada ganan un bonificador igual a tu rango de competencia en Historia a esa `T.R.` Tú también te beneficias de este efecto.
+Todos los aliados que declaren una `T.R.` contra una acción enemiga que haga parte de un ciclo autonomo de coordinación ganan un bonificador igual a tu rango de competencia en Historia a esa `T.R.`
 
-Este efecto termina cuando el grupo enemigo abandona el patrón declarado o cuando el encuentro termina.
+Este efecto termina cuando el grupo enemigo abandona el ciclo autonomo o cuando dejas de percibir a los enemigos.
