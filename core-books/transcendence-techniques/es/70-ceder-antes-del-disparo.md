@@ -41,4 +41,6 @@ related:
 
 ## Efecto
 
-Cuando una trampa requiere de ti una tirada en respuesta, puedes sustituir esa tirada por una T.E. (Trampas) con un bonificador igual al bono de rango de tu `Trampas`.
+Cuando actives una trampa que te exija realizar una tirada de reacción (Evasión, Destreza, Tenacidad, etc.), puedes sustituirla inmediatamente por una `T.E. (Trampas)`. 
+
+Al hacerlo, sumas tu **bono de rango de Trampas** a esta tirada defensiva.

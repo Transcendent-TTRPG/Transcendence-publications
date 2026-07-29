@@ -44,12 +44,10 @@ related:
 
 ## Efecto
 
-Cuando una criatura en rango de lanzamiento inicia un movimiento, realiza dos T.A. con tu perfil de `Cadencia`, consumiendo 2 armas arrojadizas.
+Cuando un enemigo dentro de tu rango de lanzamiento inicie un movimiento, reaccionas lanzando rápidamente. 
 
-Por cada ataque que impacte, resuelves el impacto.
+Realiza dos `T.A.` (Cadencia), consumiendo 2 armas arrojadizas. Resuelves el daño por cada impacto que logres. 
 
-Si al menos un ataque impacta, la distancia restante de ese movimiento desencadenante se reduce en una cantidad de metros igual a tu rango de la competencia usada para esta técnica.
+Si **al menos uno** de los ataques conecta, entorpeces su avance. Restas a su movimiento actual una cantidad de metros igual a tu **rango de competencia** con el arma. Si esto le impide llegar a su destino, se detiene en la última posición válida que alcance.
 
-Si esta reducción impide que la criatura alcance su posición declarada, se detiene en la última posición legal que pueda alcanzar.
-
-Esta técnica afecta solo ese movimiento. No crea una penalización de velocidad persistente.
+Esto no penaliza su Velocidad de forma permanente, solo frena este desplazamiento específico.

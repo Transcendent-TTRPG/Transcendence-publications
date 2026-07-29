@@ -43,10 +43,8 @@ related:
 
 ## Efecto
 
-Antes de realizar la tirada, declara una parte visible del cuerpo que el objetivo use para atacar: brazos, garras, mandíbula, tentáculo u otra estructura de ataque identificable.
+Declara como objetivo una parte visible del cuerpo que tu enemigo use para atacar (brazo, garra, mandíbula).
 
-Realiza una T.A. con tu perfil de `Precisión` contra el objetivo. Si el ataque conecta, la parte declarada queda **afectada**. Las T.A. que el objetivo realice usando esa parte reciben una penalización igual al bono de rango de la competencia usada en esta técnica.
+Realiza tu `T.A.` (Precisión). Con éxito, la parte declarada queda **afectada**. Cualquier `T.A.` que el objetivo realice usando esa parte específica recibe una penalización igual a tu **bono de rango de competencia** con el arma utilizada.
 
-Este efecto es permanente hasta que la ficción lo resuelva: tratar la herida, inmovilizar la parte, o recuperarse de un modo que atienda específicamente esa zona.
-
-Esta técnica no inutiliza la parte por completo, solo impone la penalización.
+Este efecto dura hasta que el objetivo trate la herida o repare la zona. La parte no queda inutilizada por completo, solo recibe la penalización.

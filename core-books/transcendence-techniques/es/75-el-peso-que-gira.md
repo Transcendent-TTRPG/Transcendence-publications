@@ -42,6 +42,6 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Torsión`. Si impacta, resuelve la T.I. normalmente. Elige una posición legal a tu alrededor dentro de un radio de metros igual a la **mitad de tu Rango de competencia** (redondeado hacia arriba, mínimo 1 metro). El objetivo es reposicionado a esa posición.
+Realiza tu `T.A.` (Torsión). Con éxito, resuelves el daño y reubicas de inmediato a tu enemigo a una posición legal a tu alrededor, dentro de un radio en metros igual a la **mitad de tu rango de competencia** (redondeado hacia arriba, mínimo 1 metro).
 
-El reposicionamiento es una consecuencia física del cierre y la rotación — no puede ser resistido por separado. Si la posición elegida está ocupada o es inaccesible, el objetivo queda en el espacio legal más cercano a lo largo de la trayectoria de rotación.
+Este reposicionamiento es forzado e irresistible. Si la posición elegida está ocupada o es inaccesible, el enemigo queda en el espacio legal más cercano en la trayectoria.

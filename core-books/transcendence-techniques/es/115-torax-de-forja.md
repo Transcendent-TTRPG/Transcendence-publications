@@ -44,4 +44,8 @@ related:
 
 ## Efecto
 
-Tus pulmones purgan la sustancia nociva. Realizas de inmediato una **Tirada de Característica (T.C.) de Tenacidad** contra la misma dificultad del efecto original. Si la superas, el filtro natural de tu biología destruye la toxina antes de que asiente, evitando sufrir el agravio por completo.
+Al activar esta técnica, tu sistema respiratorio aísla y purga agresivamente la sustancia nociva introducida en tu cuerpo. 
+
+Realiza de inmediato una tu **T.C.** (Tenacidad) contra exactamente la misma dificultad del efecto original que acabas de fallar. 
+
+Con éxito, el espeso filtro natural de tu biología destruye la toxina antes de que logre asentarse en tu torrente sanguíneo, anulando por completo el estado o el agravio que ibas a sufrir.

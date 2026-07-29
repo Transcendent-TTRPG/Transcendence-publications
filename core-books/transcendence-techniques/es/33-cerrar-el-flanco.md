@@ -42,9 +42,7 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro del alcance de tu arma ataca físicamente a un aliado o a ti mismo, puedes sustituir la `T.D.` del objetivo por una `T.A.` tuya contra el agresor (un aliado debe aceptar tu intervención).
+Cuando un enemigo ataque físicamente a un aliado (que acepte tu intervención) o a ti mismo dentro del alcance de tu arma, sustituye la `T.D.` del objetivo original por tu propia `T.A.` contra el atacante.
 
-- **Si tu `T.A.` es igual o mayor:** Bloqueas el ataque por completo y resuelves tu `T.I.` contra el agresor.
-- **Si tu `T.A.` es menor:** El ataque enemigo impacta automáticamente a su objetivo original, sin posibilidad de otra `T.D.`
-
-Solo aplica contra ataques físicos directos de un solo objetivo que puedas percibir y alcanzar físicamente.
+- **Éxito (T.A. igual o mayor):** Bloqueas su ataque por completo y resuelves inmediatamente tu `T.I.` contra el atacante.
+- **Fallo:** Su ataque impacta automáticamente al objetivo original.

@@ -43,6 +43,8 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Hostigamiento`. Si no impactas, la técnica termina.
+Realiza tu **T.A.** utilizando el perfil de **Hostigamiento**. 
 
-Con éxito, resuelves la T.I. La ficha del objetivo en el ATB avanza un número de ticks igual a tu rango de competencia — el golpe interrumpe su preparación en el momento exacto que identificaste con tu lectura acústica.
+Con éxito, resuelves tu **T.I.** de forma normal, pero el verdadero daño es táctico: el golpe interrumpe violentamente la preparación del objetivo justo en su punto más vulnerable. 
+
+Avanzas la ficha del objetivo en el medidor **ATB** un número de ticks igual a tu **Nivel de Referencia**, alejándolo de su próxima activación y robándole el tempo del combate.

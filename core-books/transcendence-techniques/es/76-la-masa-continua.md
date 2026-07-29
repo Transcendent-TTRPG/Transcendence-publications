@@ -43,10 +43,12 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Impacto`. Si impacta, resuelve la T.I. normalmente. El objetivo realiza una T.R. (Alteraciones) contra `Derribado`: si falla, queda `Derribado` a la severidad determinada por tu rango de competencia.
+Realiza tu `T.A.` (Impacto). Con éxito, resuelves el daño y fuerzas al enemigo a realizar una `T.R. (Alteraciones)` para resistir el estado `Derribado`. 
 
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
+
+Si su tirada falla, sufre el estado `Derribado` con la severidad indicada.

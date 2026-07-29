@@ -43,6 +43,6 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Perforación`. Si no impactas, la técnica termina.
+Realiza tu **T.A.** utilizando tu perfil de **Perforación**. Si fallas el golpe, el arma resbala en la armadura y la técnica termina.
 
-Con éxito, resuelves la T.I. Esta T.I. ignora un valor de Bloqueo igual a tu rango de competencia.
+Con éxito, la punta encuentra la grieta milimétrica que buscaba. Resuelves tu **T.I.** (Tirada de Impacto) de forma normal, pero este golpe directo **ignora un valor de Bloqueo igual a tu Nivel de Referencia**, penetrando hasta la carne blanda debajo del metal.

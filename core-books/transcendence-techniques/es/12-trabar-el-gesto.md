@@ -45,12 +45,10 @@ related:
 
 Sustituye tu `T.D.` normal por una `T.A.` contra el atacante.
 
-Si tu `T.A.` supera la del atacante, no recibes daño del ataque y resuelves la `T.I.` normalmente contra el atacante.  El atacante realiza entonces una `T.R.` de Resistencia a las Alteraciones. La severidad se determina según tu rango:
+Si tu `T.A.` supera la de tu atacante, no recibes daño de su ataque y resuelves tu `T.I.` normalmente contra él. Tu atacante debe realizar entonces una `T.R.` de Resistencia a las Alteraciones. La severidad se determina según tu rango de competencia:
 
 - Rangos 1-2: Leve
 - Rangos 3-4: Moderado
 - Rangos 5-6: Grave
 
-Si falla la `T.R.`, el atacante queda `Impedido` a esa severidad. Si supera la `T.R.`, `Impedido` no se aplica.
-
-Si tu `T.A.` no supera la del atacante, el contraataque falla y el ataque se resuelve normalmente contra ti.
+Si falla la `T.R.`, queda `Impedido` con esa severidad. Si la supera, no sufre la alteración.

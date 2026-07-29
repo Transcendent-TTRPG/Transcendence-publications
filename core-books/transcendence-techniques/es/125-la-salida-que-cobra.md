@@ -43,6 +43,8 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance se desplaza voluntariamente fuera de él, puedes hacer una T.A. con tu perfil de `Acecho` contra ese enemigo. Si no impactas, no ocurre nada adicional.
+Cuando un enemigo que se encuentra actualmente dentro de tu alcance decide desplazarse voluntariamente para escapar de él, reaccionas a su retirada.
 
-Con éxito, resuelves la T.I. De inmediato, desplázate hasta un número de metros igual a tu rango de competencia hacia el objetivo. Este desplazamiento no provoca reacciones del objetivo.
+Realiza de inmediato tu **T.A.** utilizando tu perfil de **Acecho** contra ese enemigo antes de que abandone tu zona de control. Si fallas, el objetivo logra escapar limpiamente.
+
+Con éxito, resuelves tu **T.I.** de forma normal sobre la presa en retirada. Además, la sangre atrae tus pasos: de inmediato, puedes realizar un desplazamiento gratuito de hasta un número de metros igual a tu **Nivel de Referencia** directo hacia el objetivo. Esta persecución refleja no provoca ataques de oportunidad por parte de la criatura que huyes.

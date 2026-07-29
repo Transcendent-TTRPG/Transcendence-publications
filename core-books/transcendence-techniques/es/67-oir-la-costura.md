@@ -41,16 +41,14 @@ related:
 
 ## Efecto
 
-Realiza una T.E. con `Resonancia` sobre un fenómeno, objeto o zona con comportamiento taumático observable dentro de tu campo de visión. La dificultad la establece el Narrador según la complejidad del patrón o la categoría de la criatura:
+Realiza una `T.E. (Resonancia)` sobre un fenómeno, objeto o zona con comportamiento taumático observable. La dificultad dependerá de la complejidad o del tipo de criatura involucrada:
 
-| Complejidad del patrón / Categoría de criatura | Dificultad |
+| Patrón / Criatura | Dificultad |
 | --- | --- |
-| Patrón estable / Criatura Común | Desafiante |
-| Patrón cíclico / Criatura Campeona | Rigurosa |
-| Patrón inestable / Criatura Élite | Exigente |
+| Estable / Común | Desafiante |
+| Cíclico / Campeona | Rigurosa |
+| Inestable / Élite | Exigente |
 
-Con éxito, el Narrador revela el origen del fenómeno: desde dónde llama con más fuerza, cómo fluctua o hacia dónde fluye el fenomeno.
+Con éxito, descubres el origen del fenómeno (desde dónde llama, cómo fluctúa o hacia dónde fluye). Esta lectura es instintiva: no te explica mecánicamente el fenómeno ni te da control sobre él, pero te previene. 
 
-La lectura no explica el fenómeno completo y no permite controlarlo directamente.
-
-Mientras el fenómeno conserve ese patrón, todas las T.R. o T.C. de Tenacidad que realices contra ese mismo fenómeno reciben un bonificador igual a tu rango de `Resonancia`.
+Mientras el fenómeno mantenga ese patrón, sumarás tu **rango de Resonancia** como bonificador a cualquier `T.R.` o `T.C. (Tenacidad)` que realices contra ese fenómeno específico.

@@ -46,31 +46,28 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Compostura) contra un umbral fijado por la legibilidad acústica del entorno:
+Realiza tu `T.C.` (Compostura) contra un umbral determinado por la legibilidad acústica del entorno en ese momento:
 
-| Condición del entorno | Dificultad | Umbral |
-| --- | --- | --- |
-| Cámara clara, cerrada y estable | Fundamentos | 5 + NR |
-| Espacio útil con interferencia menor (mobiliario denso, humedad, eco roto parcial) | Desafiante | 8 + NR |
-| Espacio inestable o difícil de leer (ruido fuerte, derrumbe parcial, agua en movimiento, geometría quebrada) | Rigurosa | 11 + NR |
-| Espacio casi ilegible (viento dominante, maquinaria, inundación ruidosa, colapso activo) | Exigente | 14 + NR |
+| Condición del Entorno | Dificultad | Umbral |
+| :--- | :---: | :---: |
+| **Cámara clara, cerrada y estable.** | Fundamentos | 5 + NR |
+| **Interferencia menor** (mobiliario denso, humedad, eco roto parcial). | Desafiante | 8 + NR |
+| **Inestable o difícil de leer** (ruido fuerte, agua en movimiento, geometría quebrada). | Rigurosa | 11 + NR |
+| **Casi ilegible** (viento dominante, maquinaria, inundación ruidosa, colapso). | Exigente | 14 + NR |
 
-Con éxito, estableces una zona de lectura ecolocativa anclada al espacio que ocupas. Mientras permanezcas dentro de la zona y la geometría del espacio no cambie materialmente:
+Con éxito, estableces una **Zona de Lectura Ecolocativa** anclada al espacio estático que ocupas. Mientras permanezcas dentro de esta zona y la geometría del lugar no cambie de forma drástica, obtienes los siguientes beneficios:
 
-- tu `Movement` aumenta dentro de la zona;
-- otras criaturas no pueden usar `Cobertura` por sí sola como soporte suficiente para establecer `Oculto` contra ti dentro de la zona;
-- esto no revela automáticamente a una criatura ya oculta y no anula métodos especializados de ocultamiento;
-- obtienes un bonificador a las T.E. de **Orientación**, **Arquitectura** y **Arqueología** cuando la tirada dependa de leer el espacio inmediato, su estructura, rutas internas, huecos, soportes, desniveles o cambios de geometría.
+- Tu **Velocidad de Movimiento** aumenta dentro de la zona.
+- Ninguna criatura puede utilizar simple `Cobertura` visual como soporte suficiente para establecer el estado `Oculto` contra ti si se encuentra dentro de tu zona (esto no revela automáticamente a alguien que ya estuviera oculto previamente, ni anula técnicas especializadas de ocultamiento).
+- Obtienes un bonificador a tus `T.E.` de **Orientación**, **Arquitectura** y **Arqueología** siempre que dependan de leer el espacio físico, rutas ocultas, huecos o fallas estructurales.
 
-| NR | Alcance de la zona | Movement dentro de la zona | Bono a T.E. |
-| --- | --- | --- | --- |
-| 1–3 | 4 m | +1 m | +1 |
-| 4–6 | 8 m | +2 m | +2 |
-| 7–9 | 12 m | +3 m | +3 |
-| 10–12 | 16 m | +4 m | +4 |
+La potencia de la zona escala con tu Nivel de Referencia:
 
-La técnica falla o termina de inmediato si:
+| Nivel de Referencia | Radio de la Zona | Bono a Movimiento | Bono a T.E. |
+| :---: | :---: | :---: | :---: |
+| **1 – 3** | 4 m | +1 m | +1 |
+| **4 – 6** | 8 m | +2 m | +2 |
+| **7 – 9** | 12 m | +3 m | +3 |
+| **10 – 12** | 16 m | +4 m | +4 |
 
-- sales de la zona;
-- el espacio deja de ser eco-legible por viento fuerte, ruido extremo, inundación ruidosa, maquinaria, derrumbe o interferencia equivalente;
-- la geometría del área cambia de forma material.
+Esta lectura profunda es frágil. La técnica termina de inmediato si sales de los límites de tu propia zona, si un evento extremo inunda el área de ruido (explosiones, maquinaria pesada encendiéndose), o si la arquitectura cambia drásticamente (un derrumbe).

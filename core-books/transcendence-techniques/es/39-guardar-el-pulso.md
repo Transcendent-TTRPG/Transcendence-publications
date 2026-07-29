@@ -41,9 +41,9 @@ related:
 
 ## Efecto
 
-Cuando estás a punto de resolver una acción física, mantener una tarea sostenida o completar un tramo de exploración mientras ya sufres un estado físico que penalizaría o interrumpiría esa función, activa esta técnica sin coste de Ritmo.
+Puedes activar esta técnica sin coste de Ritmo cuando vayas a realizar una acción física que se vería penalizada o interrumpida por una Alteración que ya sufres.
 
-Paga el Desgaste base de `1` y realiza `T.E. (Tolerancia)` contra la dificultad correspondiente a la severidad de la Alteración que intentas superar:
+Paga el coste de Desgaste base de `1` y realiza `T.E. (Tolerancia)`. La dificultad depende de la severidad de la Alteración que deseas ignorar momentáneamente:
 
 | Severidad | Dificultad |
 | --- | --- |
@@ -51,15 +51,10 @@ Paga el Desgaste base de `1` y realiza `T.E. (Tolerancia)` contra la dificultad 
 | Moderada | Desafiante |
 | Grave | Rigurosa |
 
-Si fallas, el Desgaste se pierde y el efecto no se produce. Si tienes éxito, elige un estado físico concreto que ya te afecta. Antes de resolver, puedes pagar Desgaste adicional — hasta un máximo igual a tu rango de Tolerancia. Cada punto de Desgaste adicional aumenta la mitigación en `1`, en proporción estricta de `1:1`.
+Si tienes éxito, puedes pagar Desgaste adicional (máximo hasta tu rango de Tolerancia). Cada punto extra suma `1` a tu nivel de mitigación. Luego, aplica la mitigación total (`1` + Desgaste adicional) a uno de estos efectos solo durante esta acción:
 
-Para esta resolución, elige uno de los siguientes efectos:
+- **Reducir severidad:** Reduce los pasos de severidad de la Alteración.
+- **Ignorar penalización:** Ignora puntos de penalización de la Alteración.
+- **Prevenir interrupción / Mantener sostenida:** Evita que la Alteración interrumpa tu acción actual o te permite mantener una tarea continua hasta tu próxima activación.
 
-- **Reducir severidad:** si el estado usa pasos de severidad, reduce esa severidad en `1` más el Desgaste adicional pagado, hasta un mínimo de ninguno.
-- **Ignorar penalización:** si el estado no usa pasos de severidad, ignora hasta `1` más el Desgaste adicional pagado puntos de su penalización concreta para esta resolución.
-- **Prevenir interrupción:** impide que ese estado interrumpa una acción física ya declarada, siempre que la acción siga siendo físicamente posible.
-- **Mantener tarea sostenida:** mantén una función continua hasta tu próxima activación — cargar un cuerpo, sujetar una compuerta, conservar el agarre, permanecer en pie, o completar un tramo corto de movimiento forzado.
-
-Esta técnica aplica únicamente a Alteraciones.
-
-Esta técnica no elimina el estado. Cuando la función preservada resuelve, todas las heridas, Fatiga, Aflicciones, penalizaciones y consecuencias continúan normalmente.
+El estado no se elimina; finalizada tu acción, todas sus consecuencias retoman su curso normal.

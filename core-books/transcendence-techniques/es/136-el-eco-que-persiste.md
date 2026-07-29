@@ -45,6 +45,6 @@ related:
 
 ## Efecto
 
-Cuando realizas una T.R. para resistir `Ensordecido`, añade un bonificador igual a tu rango de competencia en Tolerancia a esa tirada.
+Cada vez que realices una `T.R.` contra la Alteración `Ensordecido`, aplicas un bonificador igual a tu rango en `Tolerancia`.
 
-Este efecto es permanente mientras mantengas ambas competencias en rango Novato o superior. No requiere activación consciente.
+Este es un efecto pasivo y permanente, siempre y cuando conserves tanto `Tolerancia` como tu Resistencia a `Ensordecido` en rango Novato o superior. No tiene coste de Ritmo ni Desgaste.

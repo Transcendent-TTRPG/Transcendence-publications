@@ -44,4 +44,12 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Sabiduría) contra un umbral fijado por las condiciones del entorno. Con éxito, el Drak'kai enfoca su sentido magnético sobre el entorno inmediato: conoce la posición exacta de todas las criaturas dentro del área con firma biomagnética activa o masa metálica significativa, independientemente de visibilidad, oscuridad, cobertura o estado Oculto. Las criaturas dentro del área no pueden establecer ni mantener el estado Oculto contra el Drak'kai. El Drak'kai no puede ser sorprendido por criaturas dentro del área. El estado termina si el Drak'kai queda Inconsciente o lo finaliza voluntariamente.
+Realiza tu `T.C.` (Sabiduría) contra el umbral que fije el Narrador según la estática del entorno. 
+
+Con éxito, enfocas tu sentido magnético. Pasas a conocer la posición exacta de todas las criaturas dentro del área que posean una firma biomagnética activa (criaturas vivas) o lleven una masa metálica significativa (armaduras, armas pesadas). Esto ignora por completo la visibilidad, oscuridad, cobertura o el estado `Oculto`. 
+
+Mientras mantengas este sentido enfocado:
+- Las criaturas dentro del área no pueden establecer ni mantener el estado `Oculto` frente a ti.
+- Es imposible que seas Sorprendido por criaturas dentro de este radio.
+
+El efecto persiste hasta que quedes `Inconsciente` o decidas terminarlo voluntariamente.

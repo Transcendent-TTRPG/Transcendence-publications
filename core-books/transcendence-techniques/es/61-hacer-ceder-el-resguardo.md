@@ -42,6 +42,6 @@ related:
 
 ## Efecto
 
-Antes de realizar la tirada, declara una estructura rompible que tu ataque pueda alcanzar: un escudo, pieza de armadura u otra estructura dura local que esté protegiendo, apantallando o estabilizando al objetivo en ese momento.
+Declara como objetivo una estructura sólida y rompible que esté protegiendo a tu enemigo (como un escudo o pieza de armadura). 
 
-Realiza una T.A. con tu perfil de `Ruptura` contra esa estructura. Si el ataque conecta, se genera un intento de quiebra válido contra la estructura declarada sin necesidad de Impacto Crítico. Resuelve la quiebra con las reglas normales, pero sumando tu **Rango de competencia** a la Potencia Base del arma antes de calcular el daño a la Durabilidad.
+Realiza tu `T.A.` (Ruptura). Con éxito, logras un intento de quiebra válido contra la estructura sin necesidad de Impacto Crítico. Para calcular el daño a su durabilidad, sumas tu **rango de competencia** a la Potencia Base del arma usada.

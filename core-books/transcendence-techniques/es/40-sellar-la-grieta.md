@@ -41,9 +41,9 @@ related:
 
 ## Efecto
 
-Cuando alguien realiza una T.E. Mental o Social con la intención de leer, manipular o extraer información de ti, puedes declarar esta técnica. Realiza `T.E. (Aplomo)`. El resultado de tu tirada establece la dificultad que el agresor debe superar.
+Cuando alguien realice una T.E. Mental o Social para leer, manipular o extraer información de ti, realiza tu propia `T.E. (Aplomo)`. Tu resultado establece la dificultad que el agresor debe superar.
 
-- **Si no te supera:** Su intento falla por completo. No obtiene información, ventaja ni contexto utilizable sobre ti, y cualquier efecto mecánico derivado queda anulado.
-- **Si te supera:** Su acción tiene éxito, pero tu postura defensiva mitiga el daño. Anulas una cantidad de efectos mecánicos o conclusiones narrativas del agresor igual a la mitad de tu rango de competencia en `Aplomo` (redondeado hacia arriba).
+- **Éxito (no te supera):** Su intento falla por completo. No obtiene información, ventaja ni contexto utilizable.
+- **Fallo (te supera):** Su intento tiene éxito, pero anulas una cantidad de efectos mecánicos o deducciones narrativas de tu agresor igual a la **mitad de tu rango de Aplomo** (redondeado hacia arriba).
 
-Esta técnica no te vuelve invisible o sano, simplemente hace que tu estado interno sea ilegible para quien intente usarlo en tu contra.
+No te vuelves indetectable ni escondes tus heridas, simplemente sellas tu estado interno para que sea ilegible.

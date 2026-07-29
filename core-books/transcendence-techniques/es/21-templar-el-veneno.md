@@ -44,12 +44,10 @@ related:
 
 ## Efecto
 
-Cuando una aflicción de la familia Veneno se asienta sobre ti, realiza una T.E. con `Tolerancia`. La dificultad la fija la severidad del veneno.
+Cuando una aflicción de la familia Veneno se asiente sobre ti, realiza una `T.E. (Tolerancia)`. La dificultad la fija la severidad del veneno.
 
-Si tienes éxito, reduce la severidad final asentada en un paso:
+Si tienes éxito, reduces la severidad final asentada en un paso:
 
-- Grave → Moderado
-- Moderado → Leve
+- Grave → Moderada
+- Moderada → Leve
 - Leve → no se asienta
-
-Si fallas, la severidad se asienta normalmente.

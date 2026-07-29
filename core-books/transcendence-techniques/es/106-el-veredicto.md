@@ -45,4 +45,10 @@ related:
 
 ## Efecto
 
-Cuando eres atacado, puedes declarar El Veredicto como reacción en lugar de defender. No realizas tirada de defensa; recibes el daño completo. Al recibir el impacto, el Aguijón hace contacto con el atacante de forma automática, resolviendo el impacto.  El atacante realiza T.R. de Veneno. Si falla, su Ritmo aumenta permanentemente en 1 por cada cuatro NR del Chelicer (mínimo 1). Este efecto permanece hasta que el Veneno sea tratado.
+Cuando vayas a recibir un ataque, puedes declarar El Veredicto como reacción **en lugar de defenderte**. 
+
+Abrazas el golpe. No realizas tirada de Defensa y recibes todo el daño del ataque de forma limpia. 
+
+A cambio de esta vulnerabilidad absoluta, en el momento en que tu agresor te impacta, tu Aguijón perfora sus defensas automáticamente, sin necesidad de tirada de ataque por tu parte. 
+
+El agresor debe realizar una `T.R.` (Veneno) inmediata. Si falla, su Ritmo (o valor de acción equivalente en ATB) empeora y **aumenta en 1** por cada cuatro Niveles de Referencia que poseas (mínimo 1). Este envenenamiento neurotóxico ralentizará sus acciones drásticamente, y el efecto penalizador permanece hasta que logre tratar el veneno con métodos médicos o purgantes.

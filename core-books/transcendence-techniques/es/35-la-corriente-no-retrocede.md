@@ -42,14 +42,12 @@ related:
 
 ## Efecto
 
-Realiza un ataque con perfil `Imparable` contra el objetivo. Si el ataque impacta, resuelve el daño normalmente.
+Realiza un ataque con perfil `Imparable` contra tu objetivo. Si aciertas, resuelves el daño normalmente.
 
-Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra desplazamiento forzado. La distancia depende de tu rango de competencia:
+Tras resolver el daño, tu objetivo debe realizar inmediatamente una `T.R. (Alteraciones)` contra desplazamiento forzado. La distancia depende de tu rango de competencia:
 
 | Rango de competencia | Distancia |
 | --- | ---: |
 | 1 - 2 | 1m |
 | 3 - 4 | 2m |
 | 5 - 6 | 3m |
-
-Si falla la `T.R.`, el objetivo es empujado esa distancia. Si tiene éxito, el objetivo conserva su posición, pero el daño del ataque resuelve igualmente si el golpe impactó.

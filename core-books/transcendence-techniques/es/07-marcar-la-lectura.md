@@ -44,8 +44,8 @@ related:
 
 ## Efecto
 
-Realiza una `T.A.` con una munición preparada desde tu `Kit de Munición` para dejar una marca visible, olfativa, luminosa o equivalente. Si el objetivo supera su `T.D.`, la marca no se aplica.
+Realiza una `T.A.` con una munición preparada desde tu `Kit de Munición` para dejar una marca visible, olfativa, luminosa o equivalente en tu objetivo.
 
-Si la técnica resuelve con éxito, el objetivo queda marcado hasta que utilice `Interactuar` para limpiar la marca o hasta que cruce una barrera fuera de tu alcance sensorial. Puedes procesar simultáneamente una cantidad de marcas activas igual a tu **Rango de competencia**. Si marcas a un nuevo objetivo superando este límite, pierdes la capacidad de aislar y rastrear la firma de la marca más antigua (aunque físicamente siga allí), dejando de percibir sus beneficios.
+Si aciertas, tu objetivo queda marcado hasta que utilice `Interactuar` para limpiarse o hasta que cruce una barrera fuera de tu alcance sensorial. Puedes procesar simultáneamente una cantidad de marcas activas igual a tu **rango de competencia**. Si marcas a un nuevo objetivo superando este límite, pierdes la capacidad de aislar y rastrear la firma de la marca más antigua (aunque físicamente siga allí), perdiendo sus beneficios.
 
-Mientras logres procesar la marca, su movimiento inmediato, la cobertura, la oscuridad, el humo, el amontonamiento o un intento rápido de perderse no vuelven ambigua su ruta para ti. Si se mueve o intenta ocultarse, sabes qué ruta, cobertura, vano o línea de escondite tomó mientras la marca siga dentro de tu alcance sensorial.
+Mientras mantengas la marca activa, su movimiento inmediato, la cobertura, la oscuridad, el humo o la muchedumbre no ocultan su ruta para ti. Sabes exactamente qué trayectoria, vano o línea de escondite tomó, siempre que siga dentro de tu alcance sensorial.

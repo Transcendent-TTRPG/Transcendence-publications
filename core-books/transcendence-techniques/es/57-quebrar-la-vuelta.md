@@ -41,4 +41,4 @@ related:
 
 ## Efecto
 
-Cuando un enemigo en contacto cercano te realiza un ataque físico, realiza una T.D. con un bonificador igual al bono de rango de tu competencia `Evasión`. Con éxito, puedes reposicionarte a otro ángulo a su alrededor sin coste adicional de Ritmo, manteniéndote en contacto cercano.
+Cuando un enemigo en contacto cuerpo a cuerpo te realice un ataque físico, realiza una `T.D.` sumando tu **bono de rango de Evasión**. Con éxito, puedes reposicionarte a otro ángulo a su alrededor sin coste adicional de Ritmo, manteniéndote en contacto.

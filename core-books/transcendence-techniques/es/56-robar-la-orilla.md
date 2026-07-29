@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Hostigamiento`. Con éxito, resuelve la T.I. y puedes reposicionarte hasta una cantidad de metros igual a **3 + tu Rango de competencia** sin coste adicional de Ritmo.
+Realiza tu `T.A.` (Hostigamiento). Con éxito, resuelves tu `T.I.` y puedes reposicionarte libremente una cantidad de metros igual a **tu rango de competencia + 3**, sin coste adicional de Ritmo.

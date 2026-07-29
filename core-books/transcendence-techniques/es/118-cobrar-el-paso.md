@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Cuando un enemigo se desplaza voluntariamente hasta el alcance de tu arma, puedes realizar una T.A. con tu perfil de `Acecho`.
+En el instante en que un enemigo se desplaza voluntariamente ingresando al alcance de tu arma, puedes reaccionar antes de que complete su movimiento.
 
-Si fallas, no ocurre nada.
+Realiza tu **T.A.** utilizando el perfil de **Acecho**. 
 
-Con éxito, resuelve la T.I. El movimiento restante del objetivo esta activación se cancela.
+Con éxito, resuelves de inmediato tu **T.I.** (Tirada de Impacto) sobre ese objetivo y el impacto lo frena en seco: cualquier movimiento que le restara en su activación actual se cancela de inmediato.

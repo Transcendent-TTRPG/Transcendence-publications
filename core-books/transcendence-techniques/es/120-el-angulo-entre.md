@@ -43,8 +43,8 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Fluidez`. Si no impactas, la técnica termina.
+Realiza tu **T.A.** utilizando tu perfil de **Fluidez**. Si este ataque inicial falla, la inercia se corta y la técnica termina de inmediato.
 
-Con éxito, resuelves la T.I. Antes de la segunda T.A., puedes desplazarte hasta un número de metros igual a tu rango de competencia a una posición válida. Este desplazamiento no provoca reacciones del objetivo que acabas de golpear. Luego, realiza una segunda T.A. contra el mismo objetivo desde tu nueva posición.
+Con éxito, resuelves tu **T.I.** y obligas al enemigo a cubrirse. Aprovechando esa apertura, antes de efectuar tu siguiente golpe, puedes desplazarte una distancia de hasta tu **Nivel de Referencia en metros** hacia una nueva posición táctica. Este rápido reposicionamiento no provoca ataques de oportunidad por parte de la criatura que acabas de golpear. 
 
-Si la segunda T.A. también impacta, resuelves la T.I. normalmente.
+Tras reubicarte, encadenas el impulso y realizas una **segunda T.A.** contra el mismo objetivo desde tu nuevo ángulo. Si impactas, resuelves la **T.I.** de forma normal.

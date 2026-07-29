@@ -44,6 +44,6 @@ related:
 
 ## Efecto
 
-Cuando realizas una T.R. para resistir `Aterrorizado`, añade un bonificador igual a tu rango de competencia en Contención a esa tirada.
+Cada vez que realices una `T.R.` contra la Aflicción `Aterrorizado`, aplicas un bonificador igual a tu rango en `Contención`.
 
-Este efecto es permanente mientras mantengas ambas competencias en rango Novato o superior. No requiere activación consciente.
+Este es un efecto pasivo y permanente, siempre y cuando conserves tanto `Contención` como tu Resistencia a `Aterrorizado` en rango Novato o superior. No tiene coste de Ritmo ni Desgaste.

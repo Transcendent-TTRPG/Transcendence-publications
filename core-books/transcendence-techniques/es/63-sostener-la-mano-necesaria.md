@@ -42,4 +42,6 @@ related:
 
 ## Efecto
 
-Cuando una criatura ejecute una acción basada en una T.E. Mental o Social —Astucia, Sabiduría, Intelecto, Aura, Presencia, Compostura— y esa acción imponga un efecto sobre ti o sobre un aliado adyacente, puedes sustituir la tirada de salvación requerida por una T.E. (Contención). Esa tirada recibe un bonificador igual a tu rango de competencia en Contención. El afectado no realiza su propia tirada de salvación: si tu T.E. (Contención) falla, el efecto se aplica.
+Cuando una criatura ejecute una acción basada en una tirada Mental o Social (Astucia, Sabiduría, Intelecto, Aura, Presencia, Compostura) y esa acción imponga un efecto sobre ti o sobre un aliado adyacente, puedes sustituir la tirada de salvación requerida por tu propia `T.E. (Contención)`. 
+
+Sumas tu **rango de Contención** a esta tirada. Si defiendes a un aliado, este no realiza su propia salvación: tú asumes el riesgo y, si fallas, el efecto recae sobre él.

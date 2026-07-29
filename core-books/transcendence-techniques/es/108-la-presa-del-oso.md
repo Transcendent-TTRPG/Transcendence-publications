@@ -45,14 +45,18 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con garras contra un objetivo dentro de tu alcance. Si impacta, resuelves el impacto.  El objetivo realiza una T.R. (Alteraciones). Si falla, queda Atrapado a la severidad que corresponda a tu rango.
+Realiza una `T.A.` con tus garras contra un objetivo dentro de tu alcance cuerpo a cuerpo. Si impactas, resuelves el daño normalmente. 
 
-| Rango | Severidad |
-| --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+Inmediatamente después, el objetivo debe realizar una `T.R.` (Alteraciones). Si falla, queda bajo el estado `Atrapado`, con una severidad que depende de tu Rango de Competencia en la habilidad base de tu ataque:
 
-Mientras el objetivo permanece Atrapado, en cada una de tus activaciones puedes pagar 1 Desgaste adicional para aplicar impacto de garras sin una nueva T.A. No puedes moverte mientras mantienes el agarre.
+| Rango de Competencia | Severidad del Estado |
+| :---: | :--- |
+| **1 – 2 (Novato/Aprendiz)** | Leve |
+| **3 – 4 (Competente/Diestro)** | Moderado |
+| **5 – 6 (Experto/Maestro)** | Grave |
 
-El objetivo puede intentar liberarse durante su activación contra tu T.C. (Fuerza). Si tiene éxito, el efecto termina. Si fallas voluntariamente esta tirada o decides soltar, el efecto también termina.
+Mientras mantengas al objetivo `Atrapado`:
+- En cada una de tus activaciones, puedes pagar **1 de Desgaste** adicional para aplicarle automáticamente el impacto de tus garras sin necesidad de realizar una nueva `T.A.`
+- Tu movilidad se reduce a cero (no puedes desplazarte mientras mantienes el agarre).
+
+El objetivo puede intentar liberarse durante su propia activación realizando una prueba enfrentada contra tu `T.C.` (Fuerza). Si tiene éxito, el agarre se rompe y el efecto termina. Por tu parte, si fallas voluntariamente esta prueba resistida o simplemente decides soltar a tu presa en cualquier momento, el efecto también termina de inmediato.

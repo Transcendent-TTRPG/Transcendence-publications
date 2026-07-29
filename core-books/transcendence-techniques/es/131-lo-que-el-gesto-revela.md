@@ -42,18 +42,18 @@ related:
 
 ## Efecto
 
-Elige un objetivo observable y realiza `T.E. (Interpretación)` enfrentada contra una `T.C.` del objetivo usando el mayor entre sus características Aura y Presencia. Si la tirada del objetivo es igual o mayor, la técnica no tiene efecto.
+## Efecto
 
-Si tienes éxito, reconoces en el comportamiento del objetivo uno o más rasgos que estaban ocultos. Para cada rasgo revelado, el Narrador te da su nombre y el tipo de tirada que le otorga Ventaja de Ejecución — nada más. La condición de activación no se revela: eso lo deduces observando a la criatura durante el encuentro.
+Realiza una `T.E.` de `Interpretación` enfrentada contra una `T.C.` del objetivo (usando la mayor entre su Aura o Presencia). Si fallas, la técnica termina sin efecto.
 
-El número de rasgos revelados depende de tu rango de competencia en Interpretación:
+Con éxito, el Narrador te revela Rasgos de la criatura (su nombre y el tipo de tirada que le otorga Ventaja de Ejecución, pero no su condición de activación). El número de Rasgos depende de tu rango:
 
-| Rango de competencia | Rasgos revelados |
-| --- | --- |
-| 1–2 | 1 |
-| 3–4 | 2 |
-| 5–6 | 3 |
+| Rango | Rasgos Revelados |
+| :---: | :---: |
+| 1-2 | 1 Rasgo |
+| 3-4 | 2 Rasgos |
+| 5-6 | 3 Rasgos |
 
-Saber el nombre y la tirada afectada no equivale a controlar el rasgo — es información para guiar la deducción. Si llegas a identificar la condición de activación y actúas para neutralizarla, el objetivo pierde la Ventaja de Ejecución correspondiente hasta que la condición se restablezca.
+Si durante el combate logras identificar empíricamente la condición de activación y la neutralizas, el objetivo pierde esa Ventaja de Ejecución. 
 
-Este efecto termina cuando el encuentro termina.
+El efecto persiste hasta que termine el encuentro.

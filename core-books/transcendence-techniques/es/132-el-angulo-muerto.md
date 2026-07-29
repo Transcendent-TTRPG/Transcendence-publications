@@ -44,8 +44,8 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Sigilo)`. La dificultad la establece el Narrador según las señales no visuales presentes en el entorno — sonido ambiental, olores, vibración. Si fallas, la técnica no tiene efecto.
+Realiza una `T.E.` de `Sigilo`. La Dificultad depende de señales no visuales del entorno. Si fallas, la técnica termina sin efecto.
 
-Si tienes éxito, quedas `Oculto` para todos los enemigos que no tenían línea de visión sobre ti en el momento de la activación. El valor activo del estado es el resultado de tu tirada. No necesitas estar físicamente tras una cobertura — suprimiste tu señal sensorial completa en el instante en que su visión no te alcanzaba.
+Con éxito, adquieres el estado `Oculto` para todos los enemigos que no tenían línea de visión directa sobre ti en el momento de la activación. El valor de tu estado Oculto es el resultado de la tirada. 
 
-Este efecto termina cuando el estado `Oculto` se compromete según las reglas normales de Ocultación.
+Esta técnica no requiere cobertura física, pero el estado termina si realizas un ataque, entras en la visión directa de un enemigo o te comprometes según las reglas de Ocultación.

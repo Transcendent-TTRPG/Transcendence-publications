@@ -43,8 +43,10 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Fluidez`. Si no impactas, la técnica termina.
+Realiza tu **T.A.** utilizando tu perfil de **Fluidez**. Si este ataque inicial falla, la inercia se rompe y la técnica termina.
 
-Con éxito, resuelves la T.I. De inmediato, realiza una segunda T.A. contra el mismo objetivo. Esta segunda T.A. recibe un bonificador igual a tu rango de competencia — el primer contacto reveló la respuesta del objetivo y el segundo golpe sabe adónde ir.
+Con éxito, resuelves tu **T.I.** y la secuencia continúa. De inmediato, encadenas el movimiento y realizas una **segunda T.A.** contra el mismo objetivo. 
 
-Si la segunda T.A. también impacta, resuelves la T.I. normalmente.
+Esta segunda T.A. recibe un bonificador directo igual a tu Nivel de Referencia, ya que el primer contacto reveló los reflejos del objetivo y tu arma ya sabe hacia dónde se moverá.
+
+Si esta segunda T.A. también impacta, resuelves una nueva **T.I.** de forma normal sobre la presa acorralada.

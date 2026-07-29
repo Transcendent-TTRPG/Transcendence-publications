@@ -44,14 +44,21 @@ related:
 
 ## Efecto
 
-Anclas una red de hilos desde un punto de anclaje dentro de tu Alcance. Realiza una T.C. (Agilidad) contra una dificultad fijada por las condiciones del entorno. Si fallas, no ocurre nada. Con éxito, el área de 6 m de radio desde ese punto queda cubierta por la red.
+Disparas y anclas una intrincada red de hilos partiendo desde un punto de anclaje ubicado dentro de tu alcance. 
 
-Mientras la red esté activa, recibes firmas vibratorias de todo movimiento dentro del área sin necesidad de línea de visión ni de iluminación. Toda criatura que se mueva dentro del área realiza una T.R. (Alteraciones); si falla, queda Atrapada. Puedes moverte dentro de la red sin activar el efecto de Atrapado. La red es detectable mediante T.E. (Percepción) contra una dificultad igual a tu T.C de Astucia.
+Realiza una `T.C.` (Agilidad) contra la dificultad que fije el Narrador según la complejidad geométrica del entorno. Con éxito, tejes rápidamente y el área (un radio de 6 m desde el punto de anclaje) queda completamente cubierta por tu red. 
 
-La severidad de Atrapado escala según tu rango:
+Mientras esta red permanezca intacta y activa:
+- Estás conectado a ella. Recibes las firmas vibratorias precisas de cualquier movimiento dentro del área cubierta, ignorando por completo la falta de iluminación o de línea de visión.
+- Toda criatura que intente moverse a través del área debe realizar una `T.R.` (Alteraciones). Las que fallen quedan bajo el estado `Atrapado`. 
+- Tú (y solo tú) puedes moverte libremente por tu propia red sin activar los efectos de atrapamiento.
 
-| Rango | Severidad |
-| --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+La red es físicamente sutil y solo puede detectarse si un observador supera una `T.E.` (Percepción) cuya dificultad es igual a una `T.C.` (Astucia) tuya, que estableces al momento de tejerla.
+
+La severidad del estado `Atrapado` para quienes caigan en la red escala según tu Rango de Competencia en la habilidad base usada para activarla:
+
+| Rango de Competencia | Severidad del Estado |
+| :---: | :--- |
+| **1 – 2 (Novato/Aprendiz)** | Leve |
+| **3 – 4 (Competente/Diestro)** | Moderado |
+| **5 – 6 (Experto/Maestro)** | Grave |

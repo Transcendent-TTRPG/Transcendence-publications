@@ -43,13 +43,13 @@ related:
 
 ## Efecto
 
-Al activar esta técnica, entras en el estado **Furia Instintiva** y mantienes un **contador de Furia** que comienza en 0.
+Al activar esta técnica, tu mente analítica retrocede y cede el control. Entras en el estado **Furia Instintiva** y pasas a llevar un **Contador de Furia** que inicia en 0.
 
-Mientras el estado esté activo, cada vez que realices una T.E.:
+Mientras este estado se mantenga activo, tu comportamiento se altera y cada vez que realices una prueba de habilidad (`T.E.`) se aplica lo siguiente:
 
-- **Instintiva** (Saltar, Trepar, Acrobacias, Supervivencia, Intuición, Rastreo): el contador aumenta en 1 antes de resolverse. Esa tirada recibe un modificador igual al nuevo valor del contador.
-- **Cognitiva** (Identificación, Interpretación, Percepción, Saberes): el contador disminuye en 1 antes de resolverse. Esa tirada recibe un modificador igual al valor del contador negado (si el contador es +3, recibes −3 en esa tirada; si el contador es −1, recibes +1).
+- **Tirada Instintiva** (Saltar, Trepar, Acrobacias, Supervivencia, Intuición, Rastreo): El contador **aumenta en 1** antes de resolverse. Sumas el nuevo valor del contador como modificador positivo a esa tirada.
+- **Tirada Cognitiva** (Identificación, Interpretación, Percepción, Saberes): El contador **disminuye en 1** antes de resolverse. Aplicas el valor del contador invertido a esta tirada (por ejemplo, si tu contador está en +3 de Furia, recibes un -3 a tu tirada cognitiva; si lograste llevar el contador a -1 de Furia, recibes un +1).
 
-El contador sube hasta un máximo igual a tu Tenacidad y puede bajar hasta ese mismo valor en negativo. Una vez en cualquiera de los dos extremos, las tiradas del tipo que lo llevaría más allá ya no lo modifican.
+El contador puede subir hasta un máximo igual a tu **Tenacidad**, y puede bajar hasta ese mismo valor en negativo. Una vez alcances cualquiera de los dos extremos, las tiradas que seguirían empujándolo más allá simplemente no lo modifican.
 
-El estado es permanente. Termina de forma natural cuando dejas de percibir amenazas, o prematuramente cuando realizas una T.C. de Enfoque contra una dificultad que el Narrador fija según las condiciones del entorno. Si tienes éxito, el estado termina y el contador se reinicia.
+Este estado es permanente. Terminará de forma natural y pacífica cuando dejes de percibir amenazas tangibles, o puedes forzar un fin prematuro realizando una `T.C.` (Enfoque) contra una dificultad fijada por el Narrador basada en la tensión del entorno. Con éxito, recuperas la lucidez, el estado termina y el contador se reinicia.

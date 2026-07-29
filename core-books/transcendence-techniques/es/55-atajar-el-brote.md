@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Desplázate hasta quedar en contacto cercano con el objetivo. Realiza T.A. con tu perfil de `Embestida`. Con éxito, realiza una T.I. ignorando una cantidad de Bloqueo igual al bono de rango de la competencia que usaste para esta técnica.
+Desplázate hasta quedar en contacto cuerpo a cuerpo con tu objetivo y realiza tu `T.A.` (Embestida). Con éxito, resuelves tu `T.I.` ignorando una cantidad de Bloqueo de tu objetivo igual a tu **bono de rango de competencia** con el arma utilizada.

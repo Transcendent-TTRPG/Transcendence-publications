@@ -42,12 +42,14 @@ related:
 
 ## Efecto
 
-Realiza una T.E. (Intimidación) contra una criatura dentro de tu rango sensorial. Si fallas, no ocurre nada. Con éxito, el objetivo realiza una T.R. (Alteraciones) contra Aterrorizado. La severidad depende de tu rango de competencia en `Intimidación`:
+Realiza una `T.E. (Intimidación)` contra un enemigo dentro de tu rango sensorial. 
 
-| Rangos | Severidad |
+Con éxito, lo fuerzas a realizar una `T.R. (Alteraciones)` para resistir el estado `Aterrorizado`. La severidad de este estado dependerá de tu rango en la competencia:
+
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1-2 | Leve |
-| 3-4 | Moderado |
-| 5-6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
 
-Si la T.R. falla, el objetivo queda Aterrorizado.
+Si su tirada falla, tu enemigo sufre el estado `Aterrorizado` con la severidad indicada.

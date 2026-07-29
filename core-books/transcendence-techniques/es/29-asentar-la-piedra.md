@@ -42,11 +42,11 @@ related:
 
 ## Efecto
 
-Mientras la postura esté activa, recibes un bonificador igual a tu rango de competencia a:
+Mientras mantengas la postura activa, recibes un bonificador igual a tu rango de competencia a:
 
-- tu T.D. siempre y cuando el enemigo sea visible
-- tu T.R. contra movimiento forzado, derribo, agarre, empuje, arrastre, desestabilización, y Alteraciones físicas causadas por impacto o desplazamiento corporal
+- tu `T.D.` (siempre y cuando tu atacante sea visible).
+- tu `T.R.` contra movimiento forzado, derribo, agarre, empuje, arrastre, desestabilización y Alteraciones físicas causadas por impacto o desplazamiento corporal.
 
-Puedes usar cualquier tipo de acción, siempre que esas acciones no te hagan abandonar el punto anclado ni romper la postura portadora de perfil.
+Puedes usar cualquier tipo de acción, siempre que dichas acciones no te hagan abandonar tu punto anclado ni romper la postura.
 
-La postura termina si te desplazas voluntariamente más de 1 metro del punto anclado, si un movimiento forzado, derribo u otro efecto rompe tu postura, o si apartas el escudo de la presión que sostienes.
+La postura termina si te desplazas voluntariamente más de 1 metro de tu punto anclado, si un efecto rompe tu postura o si dejas de sostener la presión con el escudo.

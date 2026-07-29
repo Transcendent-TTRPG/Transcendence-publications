@@ -42,8 +42,6 @@ related:
 
 ## Efecto
 
-Cuando un enemigo realiza una T.E. o una T.A. que normalmente contestarías con T.D., T.E. o T.R., puedes sustituir esa tirada por una T.A. con tu perfil de `Interrupción`.
+Cuando un enemigo realice una tirada (T.A. o T.E.) que normalmente contestarías con T.D., T.E. o T.R., puedes sustituir tu tirada defensiva por tu `T.A.` (Interrupción).
 
-Si tu T.A. iguala o supera la tirada del enemigo, su acción no se resuelve y resuelves el impacto.
-
-Si tu T.A. es menor, la acción del enemigo se resuelve con normalidad.
+Si tu `T.A.` iguala o supera la tirada del enemigo, cancelas su acción por completo y resuelves tu impacto de forma normal. Si tu `T.A.` es menor, su acción se resuelve y tú sufres las consecuencias de no haberte defendido.

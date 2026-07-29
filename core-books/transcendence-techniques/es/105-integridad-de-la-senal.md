@@ -45,10 +45,13 @@ related:
 
 ## Efecto
 
-Realiza `T.C. (Aura)` sobre el área. Con éxito, sabes si dentro de ella hay una señal anormal y si esa señal está `Estable`, `Escalando` o `Cediendo`.
+Realiza tu `T.C.` (Aura) sobre tu entorno inmediato. Con éxito, el cuerno de resonancia te permite leer el "ruido de fondo". Descubres inmediatamente si hay alguna anomalía energética o señal discordante en el área, y percibes su estado: `Estable`, `Escalando` (empeorando) o `Cediendo` (disipándose).
 
-La lectura no revela origen, causa ni naturaleza exacta de la anomalía. Solo confirma que algo en esa zona está alterando el entorno de una manera que el cuerno reconoce como no ordinaria.
+Esta lectura es puramente instintiva; no te dirá el origen, la causa ni la naturaleza exacta de la anomalía, solo que está ahí alterando la realidad local.
 
-Además, si durante esa lectura hay ciclos autónomos visibles en el ATB operando sobre criaturas, zonas o efectos dentro del área, puedes clasificarlos como `Biológicos`, `de Coordinación de Aliados` o `Ambientales`.
+Adicionalmente, si mientras "lees" el área observas mecánicas del sistema operando en el ATB (como timers o efectos prolongados) que actúan sobre criaturas o zonas cercanas, logras clasificarlas intuitivamente como:
+- `Biológicas` (venenos, sangrados, toxinas).
+- `De Coordinación de Aliados` (órdenes, bufos tácticos, formaciones enemigas).
+- `Ambientales` (fuego, trampas, gas).
 
-De forma permanente, obtienes un bonificador de `+1` por cada cuatro Niveles de Referencia a tus `T.E.` para identificar `Puntos Vitales` o `zonas` vinculadas a cualquiera de esos ciclos. Este beneficio te aplica solo a ti.
+Por último, de forma permanente y gracias a tu conexión con las frecuencias orgánicas, recibes un **+1** (acumulable cada 4 Niveles de Referencia) a todas tus pruebas (`T.E.`) orientadas a identificar Puntos Vitales o vulnerabilidades estructurales en cualquiera de los ciclos listados anteriormente. Este beneficio te aplica solo a ti.

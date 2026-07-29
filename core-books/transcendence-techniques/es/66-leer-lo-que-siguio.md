@@ -41,4 +41,8 @@ related:
 
 ## Efecto
 
-Elige una zona específica en una criatura dentro de tu campo de visión que muestre una herida fresca visible, una costura abierta, una línea de sangre, un miembro arrastrado, un vendaje cedido u otro patrón de daño reciente legible. Realiza una T.E. (Rastreo) contra un umbral determinado por las condiciones del entorno. Con éxito, mientras esa zona siga siendo legible y relevante para la función del objetivo, cualquier T.A. o T.E. que dirijas específicamente a esa zona gana un bonificador igual al rango de competencia en Rastreo. La técnica termina si esa zona queda destruida, pierde la función relevante, es tratada o cubierta de manera que la lectura original ya no describa su estado, o si inicias una nueva lectura con esta técnica sobre una zona distinta.
+Elige una zona específica en un enemigo visible que muestre daño reciente evidente (una herida abierta, sangre, un miembro arrastrado). Realiza una `T.E. (Rastreo)`. 
+
+Con éxito, siempre que esa herida siga siendo relevante, cualquier `T.A.` o `T.E.` que dirijas explícitamente contra esa zona específica suma tu **rango de Rastreo** como bonificador. 
+
+Este beneficio se pierde si la zona es curada, destruida, cubierta, o si usas esta técnica para leer otra herida.

@@ -40,16 +40,14 @@ related:
 
 ## Efecto
 
-Realiza una T.E. con `Taumaturgia` sobre un fenómeno, objeto o zona con comportamiento taumático observable dentro de 10m. La dificultad la establece el Narrador según la complejidad del patrón o la categoría de la criatura:
+Realiza `T.E. (Taumaturgia)` sobre un fenómeno, objeto o zona con comportamiento taumático observable (a 10m o menos). La dificultad depende de su complejidad o la categoría de su origen:
 
-| Complejidad del patrón / Categoría de criatura | Dificultad |
+| Complejidad / Categoría | Dificultad |
 | --- | --- |
-| Patrón estable / Criatura Común | Desafiante |
-| Patrón cíclico / Criatura Campeona | Rigurosa |
-| Patrón inestable / Criatura Élite | Exigente |
+| Patrón estable / Común | Desafiante |
+| Patrón cíclico / Campeona | Rigurosa |
+| Patrón inestable / Élite | Exigente |
 
-Con éxito, el Narrador revela una condición de funcionamiento relevante del fenómeno u otra regla que el fenómeno parezca necesitar para mantenerse, activarse o escalar.
+Con éxito, descubres una condición de funcionamiento clave del fenómeno, o una regla necesaria para que se mantenga, active o escale. Esto no explica todo el fenómeno, no revela su origen ni te da control sobre él.
 
-La lectura no explica el fenómeno completo, no revela su origen y no permite controlarlo directamente.
-
-Mientras el fenómeno conserve el patrón revelado, todas las T.E. o T.A. que realices contra ese mismo fenómeno reciben un bonificador igual a tu rango de `Taumaturgia`.
+Además, mientras el fenómeno conserve este patrón, recibes un bonificador igual a tu rango de Taumaturgia en cualquier `T.A.` o `T.E.` futura que realices directamente contra él.

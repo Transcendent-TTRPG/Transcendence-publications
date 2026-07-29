@@ -42,14 +42,14 @@ related:
 
 ## Efecto
 
-Cuando un enemigo en rango cuerpo a cuerpo intenta moverse, desengancharse, retirarse, o pasar por tu posición, puedes declarar esta técnica como respuesta. Puedes declararla incluso contra movimiento que declare explícitamente que no provoca reacciones.
+Cuando un enemigo en rango cuerpo a cuerpo intente moverse, desengancharse, retirarse o pasar por tu posición, puedes declarar esta técnica como respuesta (incluso contra movimiento que declare explícitamente que no provoca reacciones).
 
-Realiza una T.E. con `Agarre` contra el objetivo. Si fallas, la técnica falla y el movimiento se resuelve normalmente.
+Realiza una `T.E. (Agarre)` contra tu objetivo. 
 
-Si tienes éxito, el objetivo debe realizar una Tirada de Resistencia de Alteraciones para evitar quedar `Atrapado`. La severidad se establece por tu rango de `Agarre`:
+Si tienes éxito, el objetivo debe realizar inmediatamente una `T.R. (Alteraciones)` para evitar quedar `Atrapado`. La severidad se establece por tu rango de competencia en `Agarre`:
 
 | Rango de competencia | Severidad |
 | --- | ---: |
 | 1 - 2 | Leve |
-| 3 - 4 | Moderado |
+| 3 - 4 | Moderada |
 | 5 - 6 | Grave |

@@ -40,16 +40,15 @@ related:
 
 ## Efecto
 
-Elige una superficie, estructura o elemento mineral dentro de 10m que sea actualmente relevante como cobertura, barrera, borde u obstáculo. Realiza una T.E. con `Minería`. La dificultad la establece el Narrador según la accesibilidad del material o la categoría de la criatura:
+Elige una superficie, estructura o elemento mineral dentro de 10m que funcione como cobertura, barrera u obstáculo. Realiza `T.E. (Minería)`. La dificultad depende de la accesibilidad del material o la categoría del enemigo que lo utiliza:
 
-| Accesibilidad del material / Categoría de criatura | Dificultad |
+| Accesibilidad / Categoría | Dificultad |
 | --- | --- |
-| Alta / Criatura Común | Desafiante |
-| Media / Criatura Campeona | Rigurosa |
-| Baja / Criatura Élite | Exigente |
+| Alta / Común | Desafiante |
+| Media / Campeona | Rigurosa |
+| Baja / Élite | Exigente |
 
-Con éxito, elige uno:
+Con éxito, elige uno de los siguientes efectos:
 
-- Si un enemigo usa la superficie elegida como `Cobertura`, reduce esa `Cobertura` una categoria, hasta un mínimo de sin cobertura. El efecto dura mientras ese enemigo continúe usando esa misma superficie como cobertura; termina si el enemigo cambia de posición, cambia de cobertura, o el la superficie cambia materialmente.
-
-- El resultado mínimo para validar la ruptura se reduce en una cantidad igual a tu rango de competencia en `Minería`.
+- **Debilitar cobertura:** Si un enemigo usa esta superficie como cobertura, reduce su nivel de cobertura en una categoría (hasta un mínimo de ninguna). Esto dura mientras siga usando esa misma superficie, sin moverse.
+- **Facilitar ruptura:** Si alguien ataca la superficie, el resultado mínimo de `T.I.` necesario para intentar una validación de ruptura sobre ella se reduce en una cantidad igual a tu rango de Minería.

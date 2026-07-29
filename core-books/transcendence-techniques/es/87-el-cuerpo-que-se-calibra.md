@@ -42,6 +42,8 @@ related:
 
 ## Efecto
 
-Mientras esta técnica esté activa, lleva un contador de golpes que resuelvan a través de tu `Armadura pesada`. Cuando el contador alcanza 3, el valor de `Bloqueo` de todas tus piezas de armadura equipadas aumenta en un valor igual a tu rango de competencia en `Armadura pesada`. Este bonificador persiste mientras la técnica esté activa.
+Mientras mantengas esta técnica activa, tu cuerpo se adapta al castigo. Lleva un registro de los golpes que logran dañarte a través de tu Armadura Pesada.
 
-La técnica termina si quedas en estado `Derribado`, si llevas menos de 3 piezas de armadura funcional equipadas, o si eliges terminarla voluntariamente.
+Cuando recibes tu **tercer golpe**, el sistema de tu armadura y tu resistencia se sincronizan: el valor de Bloqueo de todas tus piezas equipadas aumenta en una cantidad igual a tu **rango de competencia** en Armadura Pesada por el resto del combate o hasta que la técnica termine.
+
+La técnica termina si caes en el estado `Derribado`, si pierdes piezas y te quedan menos de 3 funcionales, o si decides terminarla voluntariamente.

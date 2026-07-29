@@ -41,7 +41,9 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Supervivencia)`. Con éxito, identificas en la escena un punto que puede usarse como cobertura — un saliente de piedra, una grieta, un borde de terreno, una línea de sombra u otro rasgo contextualmente válido que otros no habrían reconocido como resguardo. El nivel de cobertura que ese punto puede ofrecer depende de tu rango de Supervivencia:
+Realiza `T.E. (Supervivencia)`. Con éxito, identificas un rasgo del terreno existente (salientes, sombras, bordes) que otros habrían ignorado y lo conviertes en tu cobertura.
+
+El nivel máximo de cobertura que puedes aprovechar de este rasgo depende de tu rango en Supervivencia:
 
 | Rango de Supervivencia | Cobertura máxima |
 | --- | --- |
@@ -49,8 +51,4 @@ Realiza `T.E. (Supervivencia)`. Con éxito, identificas en la escena un punto qu
 | 3 - 4 | Media |
 | 5 - 6 | Total |
 
-Ese punto cuenta como cobertura hasta que lo abandones.
-
-Si fallas, el punto elegido no ofrece protección real.
-
-Esta técnica no crea cobertura desde cero — requiere que exista un rasgo físico real en la escena que pueda cumplir esa función.
+Este punto te otorga esa cobertura hasta que lo abandones. La técnica no crea cobertura mágica de la nada; utiliza tu entorno.

@@ -42,10 +42,10 @@ related:
 
 ## Efecto
 
-Cuando un efecto físico fuera a desplazarte, arrastrarte o empujarte en contra de tu voluntad, o cuando un impacto, colisión o inestabilidad te exija resistir `Derribado` o `Desequilibrado`, puedes usar tu superficie portadora (cola, escudo, arma pesada) para anclarte al terreno.
+Cuando un efecto físico fuera a desplazarte forzosamente o te exija resistir `Derribado` o `Desequilibrado`, puedes anclarte al terreno.
 
-Reduce la distancia del desplazamiento forzado en una cantidad de metros igual a tu rango de competencia + 1.
+Reduce la distancia de cualquier desplazamiento forzado en tu **rango de competencia + 1** (en metros). Si esto reduce el desplazamiento a `0`, no eres movido y conservas cualquier postura o guardia activa. 
 
-Si esa reducción lleva el desplazamiento a `0`, permaneces en tu espacio actual y conservas cualquier postura, guardia o anclaje que se habría perdido al ser movido. Si se reduce parcialmente, te mueves la distancia restante.
+Adicionalmente, si el efecto desencadenante impone `Derribado` o `Desequilibrado`, recibes un bonificador a tu `T.R. (Alteraciones)` contra ese estado igual a tu rango de competencia.
 
-Además, si el efecto desencadenante impone `Derribado` o `Desequilibrado`, obtienes un bonificador a tu `T.R. (Alteraciones)` contra ese estado igual a tu rango de competencia. Ambos beneficios (reducción de movimiento y bono a T.R.) se aplican simultáneamente si el ataque o efecto incluye ambos riesgos.
+Ambos beneficios (reducción de distancia y bonificador a la T.R.) se aplican simultáneamente si el ataque incluye ambos riesgos.

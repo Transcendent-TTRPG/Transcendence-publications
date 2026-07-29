@@ -41,4 +41,4 @@ related:
 
 ## Efecto
 
-Cuando una criatura te realiza un ataque físico, realiza una T.D. mientras usas `Armadura Ligera`. Con éxito, puedes reposicionarte hasta una cantidad de metros igual a tu **Rango de competencia + 1** a un espacio válido sin coste adicional de Ritmo.
+Cuando un enemigo te realice un ataque físico mientras vistes `Armadura Ligera`, realiza una `T.D.` de forma normal. Con éxito, puedes reposicionarte libremente una cantidad de metros igual a **tu rango de competencia + 1**, sin coste adicional de Ritmo.

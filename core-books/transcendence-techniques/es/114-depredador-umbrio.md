@@ -46,9 +46,11 @@ related:
 
 ## Efecto
 
-Normalmente, realizar un ataque físico revela inmediatamente tu posición y rompe tu estado `Oculto`. Sin embargo, al activar esta técnica en el instante exacto en que tu golpe conecta, reaccionas antes de que la sangre toque el suelo.
+Normalmente, realizar un ataque físico revela inmediatamente tu posición y rompe de forma inevitable tu estado `Oculto`. 
 
-Realizas un movimiento gratuito de reposicionamiento de hasta **2 metro por cada 4 Niveles de Referencia**, sin provocar reacciones (ataques de oportunidad). 
+Sin embargo, al activar esta técnica en el instante exacto en que tu golpe conecta, reaccionas mucho antes de que la sangre de tu presa toque el suelo. 
 
-Si terminas este movimiento en una zona que te permita continuar oculto válido contra tus enemigos, **no pierdes el estado Oculto** tras el ataque.
+Realizas un desplazamiento gratuito de reposicionamiento de hasta **2 metros por cada 4 Niveles de Referencia** que poseas, sin provocar ataques de oportunidad por abandonar el combate cuerpo a cuerpo.
+
+Si logras terminar este rápido movimiento en una zona de penumbra, cobertura o cualquier lugar que califique lógicamente como soporte para esconderte, **no pierdes el estado Oculto** tras el ataque; tus enemigos creerán que el golpe provino de las sombras.
 

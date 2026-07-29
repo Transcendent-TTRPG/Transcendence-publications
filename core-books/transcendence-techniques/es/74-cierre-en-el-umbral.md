@@ -43,14 +43,18 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance de arma realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de `Intercepción` contra el atacante. Esta tirada reemplaza tu T.D. contra ese ataque.
+Cuando un enemigo a tu alcance realice un ataque físico contra ti, te defiendes atacando. 
 
-Si tu T.A. es igual o mayor que la del atacante, el ataque falla.  El atacante realiza una T.R. (Alteraciones): si falla, queda `Impedido` a la severidad determinada por tu rango de competencia.
+Realiza una `T.A. reactiva` (Intercepción). El resultado de esta tirada reemplaza a tu `T.D.` contra el ataque. 
 
-Si tu T.A. es menor que la del atacante, la intercepción falla y el ataque resuelve como si tu T.D. hubiera fallado.
+Si tu `T.A.` iguala o supera a la del atacante, su ataque falla automáticamente y lo fuerzas a realizar una `T.R. (Alteraciones)` para resistir el estado `Impedido`. 
 
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
+
+Si su tirada falla, sufre el estado `Impedido` con la severidad indicada. 
+
+Si tu `T.A.` es menor que la suya, recibes el ataque como si hubieras fallado tu Defensa normalmente.

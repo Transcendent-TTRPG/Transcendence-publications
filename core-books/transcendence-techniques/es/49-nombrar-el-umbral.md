@@ -43,6 +43,4 @@ related:
 
 ## Efecto
 
-Cuando interactúas con un `Vestigio` o un `Vínculo` y debes realizar una T.R. para evitar que aumente en 1 la intensidad de una Aflicción sensorial, añades un bonificador igual al bono de rango de tu `Resistencia a Aflicciones` a esa T.R.
-
-Este bonificador solo aplica cuando el aumento de intensidad proviene específicamente de la interacción con un `Vestigio` o un `Vínculo`.
+Cuando interactúes con un `Vestigio` o un `Vínculo` y debas realizar una `T.R.` para evitar ganar un punto de intensidad de una Aflicción sensorial, sumas tu **bono de rango de Resistencia a Aflicciones** a tu tirada.

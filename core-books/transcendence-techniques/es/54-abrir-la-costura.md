@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Desgarro`. Con éxito, resuelve la T.I. ignorando una cantidad de Bloqueo igual a tu nivel de competencia en el arma que usaste para esta técnica.
+Realiza tu `T.A.` (Desgarro). Con éxito, resuelves tu `T.I.` ignorando una cantidad de Bloqueo del objetivo igual a tu **rango de competencia** en el arma utilizada.

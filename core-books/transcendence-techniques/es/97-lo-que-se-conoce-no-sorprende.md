@@ -41,4 +41,6 @@ related:
 
 ## Efecto
 
-Tu Cordura aumenta de forma permanente en un valor igual a tu rango en Taumaturgia. Recalcula los umbrales de Disonancia con este nuevo valor.
+Tu valor máximo de Cordura aumenta de forma permanente en una cantidad igual a tu **rango de competencia** en Taumaturgia. 
+
+Recalcula inmediatamente tus umbrales de Disonancia con este nuevo valor.

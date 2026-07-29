@@ -43,6 +43,4 @@ related:
 
 ## Efecto
 
-Cuando realizas una T.E. con `Aclimatación` para resistir un peligro ambiental de origen térmico, añades un bonificador igual al bono de rango de tu `Resistencia al Calor` a esa tirada.
-
-Este bonificador solo aplica a T.E. de `Aclimatación` contra peligros térmicos ambientales naturales ya presentes en la escena.
+Cuando realices una `T.E. (Aclimatación)` para resistir un peligro térmico ambiental natural ya presente en la escena, sumas tu **bono de rango de Resistencia al Calor** a esa tirada.

@@ -42,10 +42,8 @@ related:
 
 ## Efecto
 
-Cuando un enemigo ejecuta un ataque físico de objetivo único, puedes declarar esta técnica como respuesta.
+Cuando un enemigo ejecuta un ataque físico de objetivo único contra ti, puedes declarar esta técnica como respuesta.
 
-Realiza tu T.D. con `Evasión` contra el ataque desencadenante.
+Realiza tu `T.D.` con `Evasión` contra el ataque desencadenante.
 
-Si la T.D. falla, el ataque se resuelve normalmente.
-
-Si la T.D. tiene éxito, avanza hasta una cantidad de metros igual a tu **Rango de competencia + 1** hacia el atacante en el momento en que el golpe llega.
+Si tienes éxito en la defensa, puedes avanzar una cantidad de metros de hasta tu **rango de competencia + 1** directamente hacia tu atacante en el momento en que el golpe llega.

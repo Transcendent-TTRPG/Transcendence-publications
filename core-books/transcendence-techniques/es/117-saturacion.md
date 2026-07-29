@@ -43,4 +43,8 @@ related:
 
 ## Efecto
 
-Realizas una T.C. de Tenacidad contra la severidad de la Alteración activa que estás sufriendo. Si tienes éxito, la eliminas. No aplica a Aflicciones ni a Venenos — solo a Alteraciones de origen físico.
+Realiza tu **T.C.** (Tenacidad) contra la Dificultad (Severidad) de la Alteración activa que estás sufriendo actualmente. 
+
+Con éxito, la presión de tus eritrocitos expulsa el agente ajeno o estabiliza el daño estructural, eliminando la Alteración por completo de tu sistema. 
+
+Esta técnica purga la sangre, no el alma; por lo tanto, no aplica contra Aflicciones, Maldiciones ni Venenos, solo funciona contra Alteraciones de origen puramente físico.

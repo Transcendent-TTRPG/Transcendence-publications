@@ -44,10 +44,14 @@ related:
 
 ## Efecto
 
-Cede una cantidad de tus especializaciones de afinidad mayor actuales y adopta otras diferentes en su lugar. La nueva configuración es funcional hasta tu siguiente descanso prolongado o hasta que uses esta técnica de nuevo, lo que ocurra primero.
+Abandona temporalmente una cantidad de tus especializaciones de Afinidad Mayor actuales y adopta otras diferentes en su lugar (siempre y cuando cumplas los requisitos para ellas). 
 
-| Rango NR | Especializaciones |
-| --- | --- |
-| 1–4 | 1 |
-| 5–8 | 2 |
-| 9+ | 3 |
+La cantidad de especializaciones que puedes sustituir de esta forma depende de tu Nivel de Referencia:
+
+| Nivel de Referencia | Especializaciones Sustituibles |
+| :---: | :---: |
+| **1 – 4** | 1 |
+| **5 – 8** | 2 |
+| **9+** | 3 |
+
+Esta nueva configuración neuroplástica es completamente funcional y se mantendrá activa hasta que realices un descanso prolongado o hasta que vuelvas a usar esta técnica, lo que ocurra primero.

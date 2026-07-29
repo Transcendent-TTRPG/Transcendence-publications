@@ -45,6 +45,8 @@ related:
 
 ## Efecto
 
-Cuando declaras una T.D. usando `Armadura Ligera` y esa T.D. tiene éxito, puedes declarar esta técnica. Realiza una T.A. con tu perfil de `Acecho` contra el atacante que activó la T.D. Si la T.A. falla, la técnica termina.
+En el mismo instante en que tu `T.D.` con `Armadura Ligera` tiene éxito evadiendo un golpe, puedes declarar esta técnica. 
 
-Con éxito, resuelve la T.I.
+Realiza una `T.A.` como respuesta utilizando tu perfil de `Acecho` contra el atacante que falló. Si tu ataque falla, el intercambio concluye.
+
+Con éxito, resuelves tu `T.I.` de forma normal.

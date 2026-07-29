@@ -43,8 +43,10 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance realiza un ataque físico contra ti, realiza una T.A. reactiva con tu perfil de `Desvío` contra el atacante. Esta tirada reemplaza tu T.D. contra ese ataque. Compara tu T.A. con la T.A. del atacante.
+Cuando un enemigo a tu alcance realice un ataque físico contra ti, te defiendes atacando. 
 
-Si tu T.A. es igual o mayor que la del atacante, el ataque falla y resuelves tu impacto.  Puedes realizar de inmediato una T.A. adicional con una arma natural distinta a la usada en el desvío, con un bonificador a la T.A. igual al valor de tu rango de competencia.
+Realiza una `T.A. reactiva` (Desvío). El resultado reemplaza tu `T.D.` contra el ataque. 
 
-Si tu T.A. es menor que la del atacante, la deflexión falla y el ataque resuelve como si tu T.D. hubiera fallado.
+Si tu `T.A.` iguala o supera a la del atacante, su ataque falla automáticamente y tú resuelves tu daño. Además, puedes realizar de inmediato una segunda `T.A.` usando una arma natural distinta a la que usaste para defenderte, sumando tu **rango de competencia** como bonificador a esta segunda tirada.
+
+Si tu `T.A.` original es menor que la del atacante, recibes su ataque como si hubieras fallado tu Defensa normalmente.

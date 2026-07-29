@@ -43,16 +43,13 @@ related:
 
 ## Efecto
 
-Elige un objetivo observable y realiza `T.E. (Identificación)` contra la dificultad correspondiente a la naturaleza del objetivo:
+## Efecto
 
-| Naturaleza | Dificultad |
-| --- | --- |
-| Mortal | Desafiante |
-| Anomalía | Rigurosa |
-| Primordial | Exigente |
+Realiza una `T.E.` de `Identificación` contra el objetivo (Dificultad: Desafiante para mortales, Rigurosa para anomalías, Exigente para primordiales). Si fallas, la técnica termina sin efecto.
 
-Si fallas, la técnica no tiene efecto.
+Con éxito, aíslas sus micro-expresiones de pre-movimiento. Mientras el estudio esté activo:
 
-Si tienes éxito, lees los patrones de pre-movimiento biológico del objetivo. Mientras el efecto esté activo, tu T.D. contra cualquier acción de ese objetivo lleva un bonificador igual a tu rango de competencia en Identificación. Además, cualquier reacción que ese objetivo ejecute como respuesta directa a una activación tuya tiene una penalización de Ritmo igual a tu rango de competencia en Identificación.
+1. Tu `T.D.` contra cualquier acción de ese objetivo recibe un bonificador igual a tu rango en `Identificación`.
+2. Cualquier Reacción que ese objetivo intente ejecutar en respuesta directa a ti sufre una penalización en su coste de Ritmo igual a tu rango.
 
-Este efecto termina si activas esta técnica sobre un objetivo diferente o cuando dejas de percibir al objetivo.
+Este efecto termina si activas la técnica sobre otro objetivo o si dejas de percibir al original.

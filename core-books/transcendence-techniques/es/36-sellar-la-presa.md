@@ -42,14 +42,12 @@ related:
 
 ## Efecto
 
-Realiza un ataque con perfil `Bastión` contra el objetivo. Si el ataque impacta, resuelve el daño normalmente.
+Realiza un ataque con perfil `Bastión` contra tu objetivo. Si aciertas, resuelves el daño normalmente.
 
-Tras resolver el daño, el objetivo realiza una `T.R. (Alteraciones)` contra `Derribado`. La severidad depende de tu rango de competencia:
+Tras resolver el daño, tu objetivo debe realizar inmediatamente una `T.R. (Alteraciones)` contra `Derribado`. La severidad depende de tu rango de competencia:
 
 | Rango de competencia | Severidad |
 | --- | ---: |
 | 1 - 2 | Leve |
-| 3 - 4 | Moderado |
+| 3 - 4 | Moderada |
 | 5 - 6 | Grave |
-
-Si falla la `T.R.`, el objetivo gana `Derribado` a esa severidad. Si tiene éxito, `Derribado` no se aplica, pero el daño del ataque resuelve igualmente si el golpe impactó.

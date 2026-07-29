@@ -44,8 +44,8 @@ related:
 
 Plantas una guardia centrada en tu posición actual. La zona de guardia se extiende hasta el alcance de tu arma + `1` metro.
 
-Mientras la guardia esté activa, cada enemigo que inicie una acción dentro de la zona o entre en ella durante una acción debe pagar un costo adicional de Ritmo igual a tu rango de competencia con el arma usada.
+Mientras mantengas la guardia activa, cada enemigo que inicie una acción dentro de tu zona o entre en ella durante su turno debe pagar un costo adicional de Ritmo igual a tu rango de competencia con el arma usada.
 
-Este costo adicional se aplica una sola vez por acción.
+Este costo adicional se aplica una sola vez por acción del enemigo.
 
-La guardia termina si te desplazas de tu posición. Puedes atacar, defenderte, usar técnicas o realizar otras acciones mientras no impliquen movimiento.
+La guardia termina si te desplazas de tu posición. Puedes atacar, defenderte, usar técnicas o realizar otras acciones libremente mientras no impliquen moverte.

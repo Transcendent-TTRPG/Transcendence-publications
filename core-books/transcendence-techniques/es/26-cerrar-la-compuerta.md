@@ -45,8 +45,6 @@ related:
 
 Adoptas una postura defensiva centrada en tu posición. La zona de guardia se extiende hasta el alcance de tu arma + `1` metro.
 
-Mientras la postura esté activa, los aliados dentro de tu zona de guardia quedan bajo tu cobertura. Cuando un enemigo realice un ataque contra uno de esos aliados, su `T.A.` sufre una penalización igual a tu rango de competencia con el arma usada para esta técnica.
+Mientras mantengas la postura activa, los aliados dentro de tu zona de guardia quedan bajo tu cobertura. Cada vez que un enemigo realice un ataque contra uno de esos aliados, su `T.A.` sufre una penalización igual a tu rango de competencia con el arma usada para esta técnica.
 
-La postura no impide que los enemigos ataquen a tus aliados.
-
-La postura termina si te desplazas o eres desplazado de tu posición.
+Esta postura no impide físicamente que los enemigos ataquen a tus aliados, simplemente dificulta el impacto. La postura termina si te desplazas o eres desplazado de tu posición actual.

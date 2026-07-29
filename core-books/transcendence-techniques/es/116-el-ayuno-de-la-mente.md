@@ -43,6 +43,10 @@ related:
 
 ## Efecto
 
-Al activar esta técnica, apagas voluntariamente tus lóbulos frontales para cederle el control absoluto al instinto motriz. Mientras la técnica esté activa, tus características de **Intelecto** y **Compostura** se consideran `0`.
+Al activar esta técnica, apagas voluntariamente tus lóbulos frontales y el pensamiento consciente, cediéndole el control absoluto de tu cuerpo a tu instinto motriz. 
 
-A cambio, tu **Velocidad de Movimiento** base aumenta en `+2 m` por cada cuatro Niveles de Referencia, y el costo de Ritmo de todas tus acciones de movimiento se reduce en `1` por cada cuatro Niveles de Referencia (hasta un mínimo de 1).
+Mientras esta técnica se mantenga activa, te vuelves incapaz de razonar lógicamente: tus atributos de **Intelecto** y **Compostura** se consideran `0` para cualquier efecto o prueba.
+
+A cambio de esta vulnerabilidad mental, tu biología opera sin las restricciones de la autopreservación consciente:
+- Tu **Velocidad de Movimiento** base aumenta en **+2 m** por cada 4 Niveles de Referencia.
+- El costo de Ritmo de todas tus acciones relacionadas directamente con el movimiento se reduce en **1** por cada 4 Niveles de Referencia (hasta un mínimo de costo 1).

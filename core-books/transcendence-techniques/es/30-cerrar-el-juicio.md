@@ -42,12 +42,12 @@ related:
 
 ## Efecto
 
-Antes de tirar, declara un objetivo de ruptura que tu ataque pueda alcanzar: arma, escudo, pieza de armadura, objeto portado, ataque natural expuesto, extremidad, mandíbula, cuerno, borde de caparazón, u otro punto del cuerpo establecido.
+Antes de tirar, declara un objetivo de ruptura que tu ataque pueda alcanzar (arma, escudo, pieza de armadura, objeto portado, extremidad, mandíbula, cuerno, u otro punto establecido del cuerpo).
 
-Realiza un ataque con perfil `Impacto` contra ese objetivo. Si el ataque impacta, resuelve el daño normalmente.
+Realiza un ataque con perfil `Impacto` contra tu objetivo. Si aciertas, resuelves el daño normalmente.
 
 Para este ataque, el resultado de `T.I.` necesario para validar una ruptura se reduce en un valor igual a tu rango de competencia.
 
-Si la `T.I.` cae dentro del rango, resuelve la validación de ruptura con la fórmula habitual: `Potencia Crítica > Durabilidad del objetivo`.
+Si logras que la `T.I.` caiga dentro del rango, resuelves la validación de ruptura con la fórmula habitual: `Potencia Crítica > Durabilidad del objetivo`.
 
-Esta técnica no aumenta la Potencia; solo amplía los resultados de `T.I.` que permiten intentar la ruptura.
+Esta técnica no aumenta tu Potencia Crítica; solo amplía los resultados de `T.I.` que te permiten intentar la ruptura.

@@ -43,6 +43,8 @@ related:
 
 ## Efecto
 
-Realiza una T.A. normalmente. La T.D. del objetivo contra este ataque no puede incluir bonificadores de rango de ninguna competencia defensiva. El objetivo sigue realizando la T.D., pero sin el bonificador de competencia que normalmente aplicaría.
+Realiza una `T.A.` con tu perfil `Impredecible`. El vector de ataque no genera señal detectable.
 
-Esta técnica no funciona contra objetivos que no dependan de señales sensoriales para su defensa.
+La `T.D.` que el objetivo realice contra este ataque no puede incluir ningún bonificador de rango de competencia defensiva; tira únicamente con su atributo.
+
+Esta técnica no funciona contra entidades que no dependan de señales sensoriales físicas para su defensa.

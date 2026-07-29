@@ -41,8 +41,8 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance de arma inicia un movimiento para reposicionarse, flanquearte o cruzar un espacio al alcance de tu arma hacia otro objetivo o destino, realiza una T.A. con tu perfil de `Intercepción` contra la T.D. del objetivo.
+Cuando un enemigo a tu alcance inicie un movimiento para reposicionarse, flanquearte o cruzar tu área hacia otro lado, puedes interponerte. 
 
-Si tu T.A. es igual o mayor que su T.D., el movimiento no completa: el objetivo queda detenido dentro de tu espacio.
+Realiza una `T.A.` (Intercepción) contra su Defensa (`T.D.`). 
 
-Si tu T.A. es menor que su T.D., el movimiento completa normalmente.
+Con éxito, cortas su avance en seco: el enemigo queda detenido inmediatamente dentro de tu alcance y pierde el resto de su movimiento. Si fallas, el enemigo completa su trayectoria normalmente.

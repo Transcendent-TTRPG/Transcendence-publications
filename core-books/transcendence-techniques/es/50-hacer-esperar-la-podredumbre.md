@@ -43,8 +43,6 @@ related:
 
 ## Efecto
 
-Cuando tengas una Infección aún en periodo de incubación, extiende ese período en un intervalo adicional igual al propio período de incubación de la Infección antes de que los síntomas se vuelvan activos.
+Si contraes una Infección, duplicas su período de incubación original (horas, días o semanas) antes de que sus síntomas se vuelvan activos.
 
-Si la Infección incuba normalmente en horas, tarda esas mismas horas adicionales antes de que los síntomas aparezcan. Si incuba en días, tarda esos mismos días adicionales.
-
-Esta técnica no cancela la Infección, no reduce su severidad ni impide la propagación una vez que se vuelve activa.
+Esta técnica no cancela la Infección, no reduce su severidad ni detiene su propagación una vez activada; solo te da más tiempo.

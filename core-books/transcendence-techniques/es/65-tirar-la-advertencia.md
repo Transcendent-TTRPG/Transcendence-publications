@@ -41,10 +41,8 @@ related:
 
 ## Efecto
 
-Declara un punto exacto dentro de un radio de metros igual a **10 + (tu Rango de competencia × 2)** al que vayas a comprometerte: un borde de paso, inicio de descenso, cruce, salto u otro punto de ruta delimitado.
+Declara un punto exacto en el terreno al que planees moverte en este mismo turno, dentro de un radio en metros igual a **10 + (tu rango de competencia × 2)** (un borde, un saliente, un cruce).
 
-Realiza una T.E. (Lanzamiento) contra un umbral determinado por la distancia, la visibilidad y la presión de la escena.
+Realiza una `T.E. (Lanzamiento)`. Con éxito, cualquier tirada de movimiento (Nadar, Trepar, Salto, Acrobacia, Equitación) que realices para atravesar exactamente ese punto reduce su dificultad en un grado (mínimo Fundamental).
 
-Con éxito, toda T.E. de Nadar, Trepar, Salto, Acrobacia o Equitación que atraviese ese punto exacto trata su umbral de dificultad como un grado menor, hasta un mínimo de Fundamental.
-
-Si no atraviesas ese punto exacto en esta misma activación, no obtienes ningún beneficio.
+Si no llegas a ese punto exacto durante esta misma activación, pierdes el beneficio.

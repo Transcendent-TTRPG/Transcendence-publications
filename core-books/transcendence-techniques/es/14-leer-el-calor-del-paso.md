@@ -42,10 +42,8 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Percepción)` enfrentada al sigilo de la criatura (si aplica). La técnica integra todos los canales sensoriales disponibles para aislar la firma del objetivo.
+Realiza una `T.E. (Percepción)` enfrentada al Sigilo de tu objetivo (si aplica). Esta técnica integra todos tus canales sensoriales disponibles para aislar su firma.
 
-Si fallas, no se revela nada.
-
-Si tienes éxito:
-- Conoces la posición exacta de la criatura, ignorando cualquier estado de `Oculto` o penalización por falta de visibilidad dentro de tu rango sensorial.
-- Puedes anticipar su acción inminente. Obtienes un bonificador igual a tu rango de competencia en Percepción que puedes aplicar a tu próxima `T.A.` contra ese objetivo, o a tu próxima `T.D.` para defenderte de él.
+Si tienes éxito, obtienes los siguientes beneficios:
+- Conoces la posición exacta de tu objetivo, ignorando el estado `Oculto` o penalizaciones por falta de visibilidad dentro de tu alcance sensorial.
+- Anticipas su acción inminente. Obtienes un bonificador igual a tu rango de competencia en Percepción que puedes aplicar a tu próxima `T.A.` contra ese objetivo o a tu próxima `T.D.` para defenderte de él.

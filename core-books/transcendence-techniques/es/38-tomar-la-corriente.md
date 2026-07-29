@@ -41,13 +41,11 @@ related:
 
 ## Efecto
 
-Cuando una fuerza física intenta desplazarte — una corriente, un empujón, terreno inestable, presión de masa, un derrumbe u otra fuerza que quiera llevarte a donde no elegiste ir — realiza `T.E. (Nadar)` contra el umbral de esa fuerza.
+Cuando una fuerza física intente desplazarte involuntariamente, realiza `T.E. (Nadar)` contra el umbral de esa fuerza.
 
-Si fallas, el desplazamiento y sus consecuencias se aplican normalmente.
+Si tienes éxito, elige una de las siguientes opciones:
 
-Con éxito, elige una de las siguientes opciones. No puedes elegir ambas al mismo tiempo:
-
-- **Absorber el desplazamiento:** reduce el desplazamiento forzado en 1 metro más tu bonificador de rango de Nadar. Si esa reducción supera la distancia total del desplazamiento, puedes usar la diferencia como movimiento gratuito en cualquier dirección legal. Las consecuencias secundarias de ese desplazamiento se aplican normalmente.
-- **Evitar la consecuencia:** evita quedar `Derribado` o `Atrapado` como resultado directo de ese desplazamiento. El desplazamiento se aplica normalmente.
+- **Absorber el desplazamiento:** Reduce la distancia del desplazamiento en tu **rango de Nadar + 1** (en metros). Si esta reducción supera la distancia original, puedes usar la diferencia como movimiento gratuito. Otras consecuencias del desplazamiento se aplican normalmente.
+- **Evitar la consecuencia:** Evitas quedar `Derribado` o `Atrapado` como resultado directo del desplazamiento, pero te mueves la distancia normal.
 
 Esta técnica no frena ni daña la fuente del desplazamiento.

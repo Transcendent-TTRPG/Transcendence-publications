@@ -42,6 +42,8 @@ related:
 
 ## Efecto
 
-Cuando un evento activara la condición de terminación de una `Postura` activa o técnica que estés manteniendo, puedes activar esta técnica como respuesta. Realiza `T.E. (Enfoque)` contra dificultad Fundamental. El Narrador puede aumentar la dificultad si la interrupción fue particularmente severa.
+Cuando recibas un impacto o efecto que normalmente terminaría una Postura o técnica que estás manteniendo, puedes resistirte.
 
-El evento interrumpidor se resuelve con normalidad — recibes el impacto, efecto o alteración — pero si tienes éxito, la técnica o `Postura` que estabas manteniendo no termina. Si fallas, el Desgaste se pierde y la terminación ocurre normalmente.
+Como reacción, realiza tu `T.E.` (Enfoque) contra una dificultad Fundamental (el Narrador puede aumentarla si el impacto fue devastador).
+
+El ataque o efecto te afecta normalmente con todo su daño o alteraciones, pero si tienes éxito en la tirada, te niegas a ceder y **tu Postura o técnica se mantiene activa**. Si fallas, sufres las consecuencias normales y la postura se rompe.

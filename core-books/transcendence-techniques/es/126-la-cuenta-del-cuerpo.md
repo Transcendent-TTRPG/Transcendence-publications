@@ -42,16 +42,18 @@ related:
 
 ## Efecto
 
-Elige un objetivo que tenga al menos una Alteración activa y realiza una `T.E. (Medicina)` contra la dificultad correspondiente a la naturaleza del objetivo:
+Elige como objetivo a una criatura en tu línea de visión que esté sufriendo al menos una **Alteración activa** (sangrado, quemadura, toxina, etc.). 
 
-| Naturaleza | Dificultad |
-| --- | --- |
-| Mortal | Desafiante |
-| Anomalía | Rigurosa |
-| Primordial | Exigente |
+Realiza una **T.E.** de **Medicina** para analizar clínicamente cómo el cuerpo del objetivo intenta compensar el daño, utilizando la siguiente dificultad según la rareza biológica de la criatura:
 
-Si fallas, la técnica no tiene efecto.
+| Naturaleza del Objetivo | Dificultad |
+| :--- | :---: |
+| **Mortal** (humanoides, bestias comunes). | Desafiante |
+| **Anomalía** (quimeras, espectros, mutados). | Rigurosa |
+| **Primordial** (entidades superiores, avatares). | Exigente |
 
-Si tienes éxito, mientras ese objetivo conserve al menos una Alteración activa, tu T.I. contra él lleva un bonificador igual a tu rango de competencia en Medicina.
+Si fallas, no logras leer el patrón de compensación y la técnica termina sin efecto.
 
-Este efecto termina si el objetivo pierde todas sus Alteraciones activas.
+Con éxito, descifras los signos vitales comprometidos de tu presa. Mientras ese objetivo conserve al menos una Alteración activa en su sistema, todas tus **T.I.** (Tiradas de Impacto) contra él reciben un bonificador de daño directo igual a tu **Nivel de Referencia**. El dolor te indica exactamente dónde volver a golpear.
+
+Este efecto de lectura anatómica termina inmediatamente si el objetivo logra eliminar o purgar todas sus Alteraciones activas, o si muere.

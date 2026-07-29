@@ -44,19 +44,19 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Astucia) contra un umbral fijado por la saturación química del entorno:
+Realiza tu `T.C.` (Astucia) contra un umbral determinado por la saturación química del entorno en ese momento:
 
 | Condición del entorno | Dificultad | Umbral |
-| --- | --- | --- |
-| Neutro o limpio | Fundamentos | 5 + NR |
-| Actividad química moderada (rastros de veneno, fuego reciente, materiales fuertes) | Desafiante | 8 + NR |
-| Contaminación significativa (ácido activo, humo denso, veneno en el aire) | Rigurosa | 11 + NR |
-| Saturación extrema (batalla química activa, área inundada de ácido o gas) | Exigente | 14 + NR |
+| :---: | :--- | :---: |
+| **Neutro o limpio** | Fundamentos | 5 + NR |
+| **Actividad química moderada** (fuego reciente, sudor intenso, materiales fuertes) | Desafiante | 8 + NR |
+| **Contaminación significativa** (ácido activo, humo denso, veneno libre en el aire) | Rigurosa | 11 + NR |
+| **Saturación extrema** (batalla química masiva, área inundada de gas) | Exigente | 14 + NR |
 
-Con éxito, el Formix enfoca su lectura química sobre el entorno inmediato y distingue lo siguiente dentro del área:
+Con éxito, enfocas tu radar olfativo sobre tu entorno inmediato. Distingues lo siguiente dentro del área, ignorando por completo la falta de visibilidad, oscuridad o cobertura:
 
-- **Criaturas vivas** — posición por firma metabólica, independientemente de visibilidad, cobertura o estado Oculto. Las criaturas dentro del área no pueden establecer ni mantener el estado Oculto contra el Formix.
-- **Rastros recientes** — criaturas que pasaron por el área recientemente dejaron señal química detectable aunque ya no estén presentes. El Formix sabe por dónde se movieron.
-- **Sustancias peligrosas** — venenos activos, ácidos, gases y otros agentes químicos; detecta su presencia y ubicación aproximada aunque no tengan fuente visible.
+- **Criaturas vivas:** Detectas su firma metabólica. Nadie puede establecer ni mantener el estado `Oculto` frente a ti dentro del radio.
+- **Rastros recientes:** Percibes el eco químico de criaturas que pasaron por el área hace poco y puedes saber exactamente por dónde se movieron.
+- **Sustancias peligrosas:** Detectas venenos activos, ácidos, gases y otros agentes químicos, conociendo su ubicación aproximada aunque estén invisibles o inodoros para otras especies.
 
-El estado termina si el Formix queda Inconsciente, si la saturación química del entorno sube al punto de hacer la tirada fallida, o si lo finaliza voluntariamente.
+Este sentido químico enfocado se mantiene activo hasta que quedes `Inconsciente`, lo termines voluntariamente, o el entorno sufra una saturación química tan repentina y extrema que supere tu tirada original.

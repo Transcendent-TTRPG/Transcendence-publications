@@ -42,8 +42,6 @@ related:
 
 ## Efecto
 
-Cuando eres el objetivo de un ataque enemigo, ya sea por designación directa o a través de cualquier efecto o condición que te convierta en su objetivo, realiza una T.D. contra su tirada de ataque.
+Cuando eres el objetivo de un ataque enemigo (ya sea por designación directa o a través de cualquier efecto o condición), realiza tu `T.D.` contra su tirada de ataque.
 
-Si el enemigo supera tu T.D., la técnica falla y el enemigo resuelve normalmente.
-
-Con éxito, interrumpes la ejecución y resuelves la T.I. inmediatamente contra el atacante. No añade Ritmo adicional y no puede incluir movimiento ni una segunda Técnica.
+Si tienes éxito en la defensa, interrumpes su ejecución y resuelves tu `T.I.` inmediatamente contra tu atacante. Esta respuesta no añade Ritmo adicional a tu costo y no puede incluir movimiento ni combinarse con una segunda técnica.

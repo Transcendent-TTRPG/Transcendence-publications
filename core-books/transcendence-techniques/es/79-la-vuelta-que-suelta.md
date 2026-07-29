@@ -43,10 +43,12 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Torsión` contra el objetivo. Si impacta, el objetivo realiza una T.R. (Alteraciones) contra `Desarmado`: si falla, queda `Desarmado` a la severidad determinada por tu rango de competencia.
+Realiza tu `T.A.` (Torsión). Con éxito, fuerzas a tu enemigo a realizar una `T.R. (Alteraciones)` para evitar perder lo que sostiene, resistiendo el estado `Desarmado`. 
 
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
+
+Si su tirada falla, sufre el estado `Desarmado` con la severidad indicada.

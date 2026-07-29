@@ -45,4 +45,6 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Agilidad) enfrentada a la Percepción relevante del observador, o contra un umbral fijado por las condiciones del entorno. Con éxito, ganas el estado Oculto. El estado termina conforme a las reglas de Ocultamiento.
+Aprovechando la cobertura del entorno, realiza tu `T.C.` (Agilidad). Esta tirada se enfrenta directamente a la Percepción pasiva o activa de quienes podrían verte, o contra un umbral que fije el Narrador según el entorno.
+
+Con éxito, te fundes con el ambiente y ganas el estado `Oculto`. Este estado se mantendrá hasta que rompas las reglas de Ocultamiento (por ejemplo, atacando, haciendo ruido excesivo o moviéndote a plena luz).

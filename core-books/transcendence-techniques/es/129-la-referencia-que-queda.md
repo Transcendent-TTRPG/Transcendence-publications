@@ -43,12 +43,12 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Orientación)`. La dificultad la establece el Narrador según las condiciones del entorno. Si fallas, la técnica no tiene efecto.
+## Efecto
 
-Si tienes éxito, estableces un punto de referencia espacial con radio igual a 10 metros multiplicado por tu rango de competencia en Orientación.
+Realiza una `T.E.` de `Orientación`. Si fallas, la técnica termina sin efecto.
 
-Cualquier desplazamiento forzado que sufras mientras estés dentro de esa zona no determina tu posición de llegada — puedes redirigir el desplazamiento a cualquier dirección dentro de la distancia indicada por la fuente.
+Con éxito, estableces un punto de referencia espacial centrado en ti, con un radio de 10 metros por cada nivel de rango en `Orientación`. Dentro de esta zona, si sufres un desplazamiento forzado, la fuente determina la distancia, pero tú eliges la dirección exacta de llegada.
 
-Al momento de la activación, registras un mapa mental del área: posiciones de criaturas, objetos y elementos del terreno tal como estaban en ese instante. Puedes consultar ese mapa al Narrador durante el encuentro; proporcionando posiciones del momento de activación, no posiciones actuales.
+Además, en el instante de activación el Narrador debe confirmarte posiciones, líneas de visión y distancias exactas del momento en que se activó la técnica (no se actualiza en tiempo real).
 
-Este efecto termina si activas esta técnica de nuevo o abandonas la zona.
+Este anclaje se rompe si activas la técnica nuevamente o si abandonas físicamente el radio establecido.

@@ -43,6 +43,6 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Desgarro`. Si no impactas, la técnica termina.
+Realiza tu **T.A.** utilizando tu perfil de **Desgarro**. Si fallas, el ataque solo raspa la superficie y la técnica termina.
 
-Con éxito, resuelves la T.I. Para esta T.I., tira dos veces y usa el resultado más alto.
+Con éxito, la hoja o la garra se engancha profundamente. Al resolver tu **T.I.** (Tirada de Impacto), la realizas con **Ventaja** (tiras el dado de Daño o Impacto dos veces y te quedas con el resultado más alto), maximizando el trauma del desgarro.

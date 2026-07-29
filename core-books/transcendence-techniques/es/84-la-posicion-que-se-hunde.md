@@ -42,8 +42,10 @@ related:
 
 ## Efecto
 
-Mientras la postura esté activa, cada vez que resuelvas una T.D. o una T.R. (Alteraciones) desde la posición mantenida, recibes un bonificador de +1 a T.D. y T.R. (Alteraciones) posteriores mientras permanezcas en ella. Este bonificador se acumula con cada resolución, hasta un máximo igual al doble de tu rango de competencia. Al terminar la postura, el bonificador acumulado se reinicia.
+Adoptas una defensa estática y te aferras al terreno. Entras en Postura.
 
-Puedes atacar, usar técnicas y realizar cualquier otra acción sin romper la postura.
+Mientras mantengas esta postura, te vas atrincherando con cada golpe. Cada vez que realices una Defensa (`T.D.`) o una `T.R. (Alteraciones)`, ganas un bonificador acumulable de **+1** a todas tus futuras `T.D.` y `T.R. (Alteraciones)`. 
 
-La postura termina si te desplazas voluntariamente o si un efecto te fuerza a abandonar la posición.
+Este bono se acumula hasta un máximo igual al **doble de tu rango de competencia**. 
+
+Puedes atacar, usar técnicas y realizar otras acciones con normalidad sin romper la postura. Solo termina si te mueves de esa posición por voluntad propia o si te empujan fuera de ella, momento en el cual pierdes todo el bonificador acumulado.

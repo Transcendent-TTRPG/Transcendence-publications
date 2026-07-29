@@ -41,18 +41,14 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance intenta moverse por una ruta que puedes cubrir — pasar por tu flanco, abandonar tu alcance, cruzar un paso guardado o completar una acción vinculada a movimiento a través de ese canal — realiza `T.A.` de forma reactiva.
+Cuando un enemigo intente moverse por una ruta dentro de tu alcance (pasar por tu flanco, abandonar tu alcance o cruzar un paso guardado), realiza tu `T.A.` de forma reactiva.
 
-Si la `T.A.` falla, el enemigo completa el movimiento normalmente.
-
-Si la `T.A.` tiene éxito, el objetivo realiza una `T.R. (Alteraciones)` contra `Atrapado`. La severidad depende de tu rango de competencia:
+Si tienes éxito, el objetivo debe realizar inmediatamente una `T.R. (Alteraciones)` contra `Atrapado`. La severidad depende de tu rango de competencia:
 
 | Rango de competencia | Severidad |
 | --- | ---: |
 | 1 - 2 | Leve |
-| 3 - 4 | Moderado |
+| 3 - 4 | Moderada |
 | 5 - 6 | Grave |
 
-Si falla la `T.R.`, el objetivo gana `Atrapado` a esa severidad y su movimiento se detiene en el punto donde la sujeción lo alcanzó. Si tiene éxito, `Atrapado` no se aplica y el objetivo puede completar el movimiento si aún tiene una ruta legal.
-
-Esta técnica no inflige daño por sí sola.
+Si el enemigo falla esta `T.R.`, su movimiento se detiene en el punto donde la sujeción lo alcanzó. Esta técnica no inflige daño por sí sola.

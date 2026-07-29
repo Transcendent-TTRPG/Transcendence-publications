@@ -43,16 +43,16 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Sigilo)` contra una criatura objetivo (frente a la cual tengas el estado `Oculto` activo) que se encuentre a una distancia igual o menor a tu Velocidad de Movimiento actual. Si fallas, la técnica no tiene efecto. Si tienes éxito, el objetivo realiza inmediatamente una `T.R. (Alteraciones)` contra `Aterrorizado`.
+Realiza una `T.E. (Sigilo)` contra tu objetivo (frente al cual debes tener el estado `Oculto` activo) que se encuentre a una distancia igual o menor a tu Velocidad de Movimiento actual. 
 
-**Severidad por tu rango de `Sigilo`:**
+Si tienes éxito, tu objetivo debe realizar inmediatamente una `T.R. (Alteraciones)` contra `Aterrorizado`. La severidad depende de tu rango de competencia en Sigilo:
 
 | Rango | Severidad |
 | --- | --- |
-| 1-2 | Leve |
-| 3-4 | Moderada |
-| 5-6 | Grave |
+| 1 - 2 | Leve |
+| 3 - 4 | Moderada |
+| 5 - 6 | Grave |
 
-Si la `T.R.` falla, el objetivo gana `Aterrorizado` a esa severidad. Si tiene éxito, el miedo no se asienta.
+Si falla la `T.R.`, queda `Aterrorizado` con esa severidad. Si la supera, el miedo no se asienta.
 
-Esta técnica no funciona si el objetivo no tiene instinto de autopreservación relevante, ni en campo abierto donde estás completamente expuesto y visible.
+Esta técnica no funciona si tu objetivo no tiene un instinto de autopreservación relevante, ni en campo abierto donde estés completamente expuesto.

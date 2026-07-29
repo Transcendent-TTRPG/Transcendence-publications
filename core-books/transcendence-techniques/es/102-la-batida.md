@@ -44,4 +44,8 @@ related:
 
 ## Efecto
 
-Cuando un ataque cuerpo a cuerpo es ejecutado contra ti, puedes declarar esta técnica en tu ventana de reacción. Realiza una T.C. (Agilidad). Con éxito, te desplazas hasta la mitad de tu Velocidad (6 m) en cualquier dirección sin provocar reacciones del atacante. Si el desplazamiento te saca del alcance del arma del atacante, el ataque falla automáticamente. Si permaneces dentro de su alcance, el ataque procede normalmente pero quedas reposicionado.
+Cuando seas el objetivo de un ataque cuerpo a cuerpo, puedes declarar esta técnica como reacción antes de que el golpe resuelva. 
+
+Realiza tu `T.C.` (Agilidad). Con éxito, te desplazas rápidamente hasta la mitad de tu **Velocidad de Movimiento** (típicamente 6 m) en cualquier dirección, sin provocar ataques de oportunidad ni reacciones del atacante. 
+
+Si este movimiento rápido te saca del alcance del arma enemiga, el ataque falla automáticamente y quedas intacto. Si, por el contrario, permaneces dentro del alcance (ya sea por elección o falta de espacio), el ataque procede normalmente, pero al menos te habrás reposicionado.

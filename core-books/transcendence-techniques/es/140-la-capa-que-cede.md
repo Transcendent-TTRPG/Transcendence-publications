@@ -42,6 +42,8 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de Corrosión contra el objetivo. Si la T.A. falla, la técnica no produce efecto adicional.
+Realiza una `T.A.` con tu perfil de `Corrosión`. Si fallas, la técnica termina sin efecto adicional.
 
-Si la T.A. impacta, resuelve la T.I. normalmente. El golpe encuentra el ángulo donde la defensa del objetivo deja de sostenerse — no la rompe, sino que la deja comprometida en una posición desde la que no puede responder igual. El bonificador de rango del objetivo en T.D. se reduce por un valor igual a tu rango de competencia.
+Si impactas, resuelves tu `T.I.` normalmente. El golpe encuentra el ángulo donde la defensa del objetivo se quiebra: el bonificador pasivo a la `T.D.` del objetivo se reduce en un valor igual a tu rango en `Corrosión`.
+
+Este efecto persiste de forma Permanente en el objetivo.

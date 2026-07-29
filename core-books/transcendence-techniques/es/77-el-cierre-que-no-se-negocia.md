@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Imparable`. Si impacta, resuelve la T.I. ignorando una cantidad de Bloqueo de la zona impactada igual al valor de tu rango de competencia.
+Realiza tu `T.A.` (Imparable). Con éxito, resuelves el daño ignorando una cantidad de armadura (Bloqueo) de la zona impactada igual a tu **rango de competencia** con el arma.

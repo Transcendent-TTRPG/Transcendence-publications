@@ -42,4 +42,4 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Acecho`. Con éxito, todas las T.D. que el objetivo realice directamente contra ti sufren una penalización igual al bono de rango de la competencia que usaste para esta técnica.
+Realiza tu `T.A.` (Acecho). Con éxito, todas las `T.D.` que el objetivo realice directamente contra ti sufren una penalización igual a tu **bono de rango de la competencia** usada para esta técnica.

@@ -43,10 +43,12 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Presencia). Con éxito, todas las criaturas enemigas dentro del área realizan una T.R. (Alteraciones) contra umbral Desafiante aumentado por tu Nivel de Referencia. Las que fallen quedan Aterrorizadas a la severidad que corresponda a tu Nivel de Referencia.
+Realiza tu `T.C.` (Presencia). Con éxito, desatas una carcajada perturbadora que afecta a todas las criaturas enemigas dentro del área. 
 
-| NR | Severidad |
-| --- | --- |
-| 1–4 | Leve |
-| 5–8 | Moderado |
-| 9+ | Grave |
+Estas deben realizar inmediatamente una `T.R.` (Alteraciones) contra un umbral Desafiante (aumentado por tu Nivel de Referencia). Las criaturas que fallen la salvación quedan bajo el estado `Aterrorizado`, con una severidad que depende de tu Nivel de Referencia actual:
+
+| Nivel de Referencia | Severidad del Estado |
+| :---: | :--- |
+| **1 – 4** | Leve |
+| **5 – 8** | Moderado |
+| **9+** | Grave |

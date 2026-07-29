@@ -41,19 +41,17 @@ related:
 
 ## Efecto
 
-Realiza T.E. (Historia). Si fallas, no se localiza ningún precedente aplicable. Si tienes éxito, el Narrador declara un punto de quiebre específico — el lugar donde una situación de este tipo ya reveló su vulnerabilidad.
+Realiza tu `T.E.` (Historia). Con éxito, logras extrapolar un precedente histórico similar a tu situación actual. El Narrador declara un "punto de quiebre", una vulnerabilidad específica en el patrón del enemigo o el problema.
 
-Recibes un bonificador acumulativo de acuerdo a tu rango de competencia en `Historia`.
+Mientras aproveches este punto de quiebre, recibes un bonificador igual a tu **rango de competencia** en Historia, y la ventaja se amplía a más áreas según tu rango:
 
-La técnica termina cuando el punto de quiebre deja de ser aplicable: la situación cambia, el patrón se modifica o abandona, o el Narrador declara que la grieta fue explotada o cerrada.
-
-El bonificador es siempre igual a tu rango de Historia. Con cada rango, el punto de quiebre cubre una tirada adicional.
-
-| Rango | Bonificador |
+| Rango de competencia | Beneficio acumulativo que recibe el bono |
 | --- | --- |
-| 1 | T.D. |
-| 2 | T.A. |
-| 3 | T.E. |
-| 4 | T.R. |
-| 5 | +1 dado del tipo del arma a T.I. |
-| 6 | reduce el valor necesario para un impacto crítico en 1 |
+| 1 | Tu Defensa (`T.D.`) |
+| 2 | Tus Ataques (`T.A.`) |
+| 3 | Tus Pruebas (`T.E.`) |
+| 4 | Tus Salvaciones (`T.R.`) |
+| 5 | Sumas +1 dado (del mismo tipo del arma) al daño (`T.I.`) |
+| 6 | El margen de tu Crítico se reduce en 1 |
+
+Esta técnica termina cuando el punto de quiebre ya no es aplicable (el enemigo cambia su táctica o la vulnerabilidad se cierra).

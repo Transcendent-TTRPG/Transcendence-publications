@@ -42,6 +42,4 @@ related:
 
 ## Efecto
 
-Cuando recibas un golpe crítico contra una zona protegida por tu `Armadura intermedia` o `Armadura pesada`, la pieza de armadura en esa zona no enfrenta el chequeo de ruptura de material por este golpe. Las heridas se resuelven con normalidad.
-
-La pieza debe seguir siendo funcional en el momento de activar la técnica.
+Cuando recibas un golpe crítico contra una zona protegida por una pieza funcional de tu `Armadura intermedia` o `Armadura pesada`, evitas el chequeo de ruptura de material para esa pieza en este golpe. Tus heridas se resuelven con normalidad.

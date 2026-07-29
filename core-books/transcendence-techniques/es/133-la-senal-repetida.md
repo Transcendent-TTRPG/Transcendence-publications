@@ -42,10 +42,8 @@ related:
 
 ## Efecto
 
-Realiza una `T.E. (Historia)` contra la dificultad del entorno. Si fallas, la técnica no tiene efecto.
+Realiza una `T.E.` de `Historia` para analizar el comportamiento enemigo. Si fallas, la técnica termina sin efecto.
 
-Si tienes éxito, el Narrador confirma que el comportamiento del grupo enemigo corresponde a un patrón conocido.
+Con éxito, identificas un ciclo de coordinación en sus tácticas. Mientras este patrón persista, todos los aliados que realicen una `T.R.` contra una acción de ese ciclo reciben un bonificador igual a tu rango en `Historia`.
 
-Todos los aliados que declaren una `T.R.` contra una acción enemiga que haga parte de un ciclo autonomo de coordinación ganan un bonificador igual a tu rango de competencia en Historia a esa `T.R.`
-
-Este efecto termina cuando el grupo enemigo abandona el ciclo autonomo o cuando dejas de percibir a los enemigos.
+El efecto termina si el enemigo rompe voluntariamente su coordinación o si dejas de percibirlos.

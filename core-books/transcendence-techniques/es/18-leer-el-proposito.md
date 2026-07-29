@@ -41,18 +41,16 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Arquitectura)` sobre una criatura visible en escena. La dificultad se establece por la categoría de la criatura:
+Realiza una `T.E. (Arquitectura)` sobre un objetivo visible. La dificultad depende de su categoría:
 
 | Categoría | Dificultad |
 | --- | --- |
 | Común | Desafiante |
 | Campeona | Rigurosa |
-| Elite | Exigente |
+| Élite | Exigente |
 
-Si tienes éxito, el Narrador declara la ubicación de un Punto Vital específico en esa criatura. Recibes un bonificador igual a tu rango de `Arquitectura` en todas las T.A y T.E dirigidas a ese Punto Vital.
+Si tienes éxito, el Narrador te revela la ubicación de un Punto Vital específico en ese objetivo. Recibes un bonificador igual a tu rango de competencia en `Arquitectura` en todas tus `T.A.` y `T.E.` dirigidas a ese Punto Vital.
 
-El bonificador aplica únicamente a ti — no se comparte con aliados — y persiste hasta que el Punto Vital es destruido o la criatura reubica sus puntos vitales.
+Este bonificador aplica únicamente a ti y persiste hasta que el Punto Vital sea destruido o el objetivo reubique sus puntos vitales. 
 
-Si fallas, no se identifica ningún Punto Vital y no se otorga bonificador.
-
-La técnica no revela qué controla el Punto Vital, qué ciclos gobierna, ni qué técnicas habilita.
+Esta técnica no te revela qué controla el Punto Vital, qué ciclos gobierna, ni qué técnicas habilita.

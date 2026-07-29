@@ -41,8 +41,8 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Medicina)`. Si fallas, no ocurre nada.
+Realiza `T.E. (Medicina)`. Con éxito, aplicas el efecto *Estabilizar* a una herida **no estabilizada** de tu objetivo. 
 
-Con éxito, aplica Estabilizar a una herida **no estabilizada** del objetivo. Los agravios y penalizaciones causados por esa herida terminan y, si el objetivo estaba en Agonía, ese estado se retira. Al estabilizar la herida de esta forma, el objetivo recupera una cantidad de Desgaste igual a tu Rango de competencia en Medicina.
+Los agravios y penalizaciones causados por esa herida terminan inmediatamente y, si tu objetivo estaba en Agonía, ese estado se retira. Además, al estabilizar la herida mediante esta técnica, el objetivo recupera una cantidad de Desgaste igual a tu rango de Medicina.
 
 Las ranuras de herida permanecen ocupadas.

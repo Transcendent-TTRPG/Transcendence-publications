@@ -47,8 +47,9 @@ related:
 
 ## Efecto
 
-Cuando declaras un ataque con la Lengua desde estado Oculto, en el momento en que ese estado normalmente se comprometería, puedes activar esta técnica.
+Cuando declares un ataque utilizando tu Lengua mientras te encuentras bajo el estado `Oculto`, puedes activar esta técnica justo en el momento en el que tu ataque normalmente revelaría tu posición.
 
-Fuera de distancia cuerpo a cuerpo: el ataque no genera señal que pueda localizarte. Ningún enemigo realiza Percepción. Tu estado Oculto permanece intacto.
+El efecto depende de tu distancia respecto al objetivo:
 
-En distancia cuerpo a cuerpo: te desplazas de inmediato, antes de que tu posición pueda identificarse. Si ese desplazamiento te lleva a una posición que sostenga tu estado Oculto, el efecto aplica. Si no existe ninguna posición válida disponible, la técnica no surte efecto.
+- **Fuera de distancia cuerpo a cuerpo (a rango):** Tu ataque es tan absurdamente veloz que no genera ninguna señal visual, auditiva o cinética que permita rastrearte. Los enemigos ni siquiera tienen derecho a realizar una tirada de Percepción; tu estado `Oculto` permanece perfectamente intacto, sin importar el resultado del ataque.
+- **En distancia cuerpo a cuerpo:** La inercia del golpe te impulsa. Te desplazas de inmediato (antes de que tu posición pueda ser registrada por el enemigo) como parte de la misma acción. Si este desplazamiento relámpago te lleva a una nueva cobertura o posición que lógicamente sostenga el estado `Oculto`, lo mantienes con éxito. Si el entorno no ofrece ninguna posición válida de refugio a la que puedas llegar, esta técnica no surtirá efecto y quedarás expuesto.

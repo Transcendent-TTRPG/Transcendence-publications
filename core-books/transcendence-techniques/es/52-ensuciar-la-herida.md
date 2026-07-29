@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Realiza una `T.A.`. Si aciertas, resuelves `T.I.` normalmente, pero en lugar de un tajo limpio, creas una herida irregular. 
+Realiza tu `T.A.`. Con éxito, resuelves tu `T.I.` normalmente, pero al impactar creas una herida irregular. 
 
-Mientras esta herida no sea preparada, cualquier T.E. (Medicina) para **estabilizar** o **tratar** a la criatura sufre una penalización igual a tu Rango de Competencia con el arma.
+Mientras esta herida no sea preparada, cualquier `T.E. (Medicina)` para **estabilizar** o **tratar** a tu objetivo sufre una penalización igual a tu rango de competencia con el arma.
 
-Para poder tratar la herida con normalidad, la criatura afectada (o un aliado) debe gastar primero una acción `Interactuar` específicamente dedicada a limpiar, alinear y preparar los tejidos destrozados.
+Para tratar la herida con normalidad, el objetivo (o un aliado) debe gastar primero una acción de `Interactuar` dedicada exclusivamente a limpiar y alinear los tejidos destrozados.

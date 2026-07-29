@@ -46,15 +46,17 @@ related:
 
 ## Efecto
 
-Cuando recibes una herida, puedes activar esta técnica. Tu sistema nervioso fuerza una transición inmediata. Elige una de las siguientes opciones:
+En el instante exacto en que recibes una Herida, puedes activar esta técnica como reacción. El pico de dolor obliga a tu sistema nervioso a forzar una transición inmediata. 
 
-- retrocedes tu ficha en el track `ATB`;
-- realizas un movimiento inmediato, ignorando terreno difícil y sin provocar reacciones de los enemigos de los que te alejas.
+Elige uno de los siguientes efectos para aplicar al instante, cuya potencia dependerá de tu Nivel de Referencia:
 
-| NR | Retroceso en ATB | Movimiento inmediato |
-| --- | --- | --- |
-| 1–4 | 1 casilla | 1 m |
-| 5–8 | 2 casillas | 2 m |
-| 9–12 | 3 casillas | 3 m |
+- **Efecto de Tiempo:** Retrocedes tu ficha en el track del `ATB` hacia tu siguiente activación.
+- **Efecto de Espacio:** Realizas un movimiento reflejo inmediato de reposicionamiento. Durante este desplazamiento relámpago ignoras el terreno difícil y no provocas ataques de oportunidad de los enemigos de los que te alejas.
+
+| Nivel de Referencia | Retroceso en ATB | Movimiento Inmediato |
+| :---: | :---: | :---: |
+| **1 – 4** | 1 casilla | 1 m |
+| **5 – 8** | 2 casillas | 2 m |
+| **9 – 12** | 3 casillas | 3 m |
 
 

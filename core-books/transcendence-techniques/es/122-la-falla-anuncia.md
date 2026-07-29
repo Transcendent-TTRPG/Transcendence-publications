@@ -42,12 +42,14 @@ related:
 
 ## Efecto
 
-Cuando un enemigo falla su T.A. contra ti, puedes hacer una T.A. con tu perfil de `Letalidad` contra ese enemigo.
+En el instante en que un enemigo falla su T.A. contra ti, ya sea por esquiva o parry, puedes aprovechar el desequilibrio de su postura para realizar un contraataque inmediato.
 
-Con éxito, resuelves la T.I. El umbral de Impacto Crítico de esta T.I. se reduce según tu rango de competencia:
+Realiza tu **T.A.** utilizando tu perfil de **Letalidad** contra ese enemigo. 
 
-| Rangos | Reducción al umbral |
-| --- | ---: |
-| 1–2 | 1 |
-| 3–4 | 2 |
-| 5–6 | 3 |
+Con éxito, resuelves tu **T.I.** (Tirada de Impacto). Debido a la apertura perfecta, el umbral numérico necesario para conseguir un **Impacto Crítico** en esta tirada se reduce según tu Nivel de Referencia:
+
+| Nivel de Referencia | Reducción al Umbral de Crítico |
+| :---: | :---: |
+| **1 – 4** | – 1 |
+| **5 – 8** | – 2 |
+| **9 – 12** | – 3 |

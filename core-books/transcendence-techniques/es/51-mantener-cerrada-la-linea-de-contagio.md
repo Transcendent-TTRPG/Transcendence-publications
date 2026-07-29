@@ -44,8 +44,8 @@ related:
 
 ## Efecto
 
-Cuando realizas una T.E. con `Medicina` para prevenir la propagación de una Infección desde ti mismo o desde un portador adyacente, añades un bonificador igual al bono de rango de tu `Resistencia a Infecciones` a esa tirada.
+Cuando realices `T.E. (Medicina)` para prevenir la propagación de una Infección (en ti mismo o en un portador adyacente), sumas tu **bono de rango de Resistencia a Infecciones** a la tirada.
 
-Si esa T.E. de `Medicina` tiene éxito, la Infección tratada no se propaga mediante contacto físico desde ese portador mientras la contención permanezca intacta.
+Con éxito, bloqueas completamente la propagación por contacto físico desde ese portador mientras la contención médica que aplicaste siga intacta. 
 
-Esta técnica no bloquea otros factores de propagación o incubación que la Infección defina y tampoco cura al portador de dicha Infección.
+No bloqueas otros métodos de propagación, no reduces la incubación ni curas la Infección base.

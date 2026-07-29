@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Cuando interactúas con un objeto mundano, no sucede nada. Sin embargo, al tocar un objeto por primera vez que resulta ser un `Vestigio` o `Vínculo` y te exige una T.R. de Aflicciones por el impacto inicial de exposición al Tauma, activas esta técnica como reacción.
+Tocas un objeto asumiendo que es mundano, pero resulta ser un `Vestigio` o `Vínculo` que te exige una `T.R.` (Aflicciones) inmediata por la exposición repentina a su naturaleza anómala.
 
-La determinación parte del reconocimiento de patrones físicos y de comportamiento acumulados en el entorno (desgaste antinatural, reacciones previas, contexto del lugar). Aunque no puedes "ver" el Tauma desde lejos, lees el marco del objeto antes de tocarlo.
+Como tu mente ya estaba buscando patrones y micro-señales en el entorno, el shock no te toma desprevenido. Activas esta técnica como reacción.
 
-Pagas el coste de Desgaste y sumas tu Rango de competencia en `Identificación` como bonificador a esa T.R. de Aflicciones específica. Tu mente estaba encuadrada empíricamente para el horror, mitigando el impacto del descubrimiento anómalo.
+Al hacerlo, sumas tu **rango de competencia** en Identificación como bonificador a esa tirada de salvación. Estás racionalizando el horror empíricamente para mitigar el golpe a tu cordura.

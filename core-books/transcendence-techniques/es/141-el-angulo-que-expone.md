@@ -43,12 +43,11 @@ related:
 
 ## Efecto
 
-Cuando un enemigo declara un ataque físico contra el usuario, declara esta técnica antes de que el ataque resuelva. Realiza una T.A. reactiva con tu perfil de Desvío contra el agresor. Esta T.A. reemplaza tu T.D. contra ese ataque.
+Cuando un enemigo declare un ataque físico contra ti, puedes declarar esta técnica. Realiza una `T.A.` reactiva con tu perfil de `Desvío` contra el agresor. Esta tirada reemplaza tu `T.D.` para este ataque.
 
-Compara tu T.A. con la T.A. del agresor:
+Compara tu `T.A.` contra la `T.A.` del agresor:
 
-- **Si tu T.A. es igual o mayor:** el ataque falla. Resuelve tu T.I. normalmente contra el agresor. Además, la próxima T.A. del agresor contra el usuario recibe una penalización igual a tu rango de competencia en la superficie de Desvío usada. Este efecto es `Permanente` hasta que el agresor realice su próxima T.A. contra el usuario.
+- **Si tu T.A. es Igual o Mayor:** El ataque enemigo falla. Resuelves tu `T.I.` normalmente contra el agresor. Además, la próxima `T.A.` que ese agresor intente realizar contra ti sufre una penalización igual a tu rango en `Desvío`. Este efecto es Permanente hasta aplicarse.
+- **Si tu T.A. es Menor:** El desvío fracasa y recibes el ataque como si tu `T.D.` hubiera fallado.
 
-- **Si tu T.A. es menor:** el desvío falla. El ataque resuelve como si tu T.D. hubiera fallado.
-
-Esta técnica no produce un segundo ataque adicional. La penalización no se acumula — si existe una penalización mayor, aplica la mayor.
+La penalización a la `T.A.` enemiga no se acumula.

@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Mientras esta postura esté activa, puedes redirigir cualquier impacto que recibas hacia una zona de tu cuerpo cubierta por tu armadura. Declara la redirección antes de que el golpe se resuelva. Esa zona absorbe el impacto en lugar de la zona original.
+Mientras mantengas esta postura activa, puedes redirigir cualquier impacto físico que vayas a recibir hacia otra zona de tu cuerpo que esté cubierta por una pieza de armadura funcional. Debes declarar esta redirección antes de que se resuelva el daño.
 
-Cuando un impacto se resuelve en una zona redirigida de este modo, añades un bonificador igual al bono de rango de tu competencia de armadura al `Bloqueo` de esa zona. Si ese impacto también causaría `Derribado` o `Desequilibrado`, aplica el mismo bonificador a esa `T.R.`.
+Al redirigir el impacto, sumas tu **bono de rango de Armadura pesada** al valor de `Bloqueo` de la pieza de armadura receptora para ese golpe. Adicionalmente, si el impacto incluye riesgo de quedar `Derribado` o `Desequilibrado`, aplicas ese mismo bonificador a tu `T.R.` correspondiente.
 
-La técnica termina si quedas en estado `Derribado`, si ya no llevas al menos 3 piezas de armadura funcional equipadas, o eliges terminarla voluntariamente.
+La postura termina si caes `Derribado`, si tus piezas de armadura funcional equipadas se reducen a menos de 3, o si la terminas voluntariamente.

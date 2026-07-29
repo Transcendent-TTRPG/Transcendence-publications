@@ -44,9 +44,8 @@ related:
 
 ## Efecto
 
-Declara una zona de armadura en el objetivo. Realiza una T.A. con tu perfil de `Ruptura` contra el objetivo. Si el ataque impacta, resuelve tu T.I. normalmente.
+Declara una zona protegida por armadura en tu enemigo. 
 
-Además, la armadura en esa zona queda estructuralmente fallada: su contribución de Bloqueo en esa zona se reduce en un valor igual a tu rango de competencia en el arma usada de forma permanente.
+Realiza tu `T.A.` (Ruptura). Con éxito, resuelves el daño normalmente y la armadura en la zona elegida sufre una falla estructural: su valor de Bloqueo se reduce permanentemente en una cantidad igual a tu **rango de competencia** con el arma. 
 
-Si el objetivo no lleva armadura en la zona declarada, la técnica no puede ser usada contra esa zona.
-
+No puedes usar esta técnica contra una zona que no tenga armadura.

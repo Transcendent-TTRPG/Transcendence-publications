@@ -41,6 +41,8 @@ related:
 
 ## Efecto
 
-Cuando vas a realizar una T.E. de Saltar, Trepar, Marcha, Orientación, Acrobacias o Lanzamiento en un espacio que puedes observar o que has atravesado, puedes sustituirla por T.E. (Geografía) con un bonificador igual a tu rango de Geografía.
+Cuando vayas a realizar una prueba (`T.E.`) de Saltar, Trepar, Marcha, Orientación, Acrobacias o Lanzamiento en un espacio que estés observando o que ya hayas recorrido, puedes sustituirla por una `T.E.` (Geografía). 
 
-El Narrador confirma si la sustitución es plausible antes de que realices la tirada. Si la tarea no tiene componente espacial, la sustitución no aplica.
+Si lo haces, sumas tu **rango de competencia** en Geografía como bonificador a la tirada.
+
+El Narrador debe confirmar si esta sustitución espacial es plausible. Si la tarea dependiera puramente de destreza aislada sin componente geográfico, no podrás aplicarla.

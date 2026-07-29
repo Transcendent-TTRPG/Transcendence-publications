@@ -41,13 +41,13 @@ related:
 
 ## Efecto
 
-Realiza una T.E. (Rastreo). Con éxito, el Narrador declara una cantidad de lecturas de este espacio de la siguiente lista igual a tu **Rango de competencia** (mínimo 1):
+Realiza tu `T.E.` (Rastreo). Con éxito, logras leer el historial de movimiento del área. El Narrador te revela una cantidad de detalles de la siguiente lista igual a tu **rango de competencia** (mínimo 1):
 
-| | |
-| --- | --- |
-| a | Ruta usada regularmente en este espacio |
-| b | Sección consistentemente evitada y la causa concreta que la hace peligrosa |
-| c | Si el paso más reciente fue único o parte de un patrón habitual |
-| d | La dirección general de la que vino el paso más reciente |
+| | Opciones de Lectura |
+| :---: | :--- |
+| **A** | La ruta más usada regularmente en este espacio |
+| **B** | Una sección que es consistentemente evitada y la causa concreta que la hace peligrosa |
+| **C** | Confirmación de si el paso más reciente fue único o parte de un patrón habitual |
+| **D** | La dirección general de la que vino el paso más reciente |
 
-Inmediatamente después, desplázate hasta tu Velocidad de Movimiento hacia una posición que ese conocimiento te indica.
+Inmediatamente después de obtener esta información, puedes desplazarte hasta tu **Velocidad de Movimiento** hacia una posición ventajosa fundamentada en lo que acabas de deducir.

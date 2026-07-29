@@ -43,6 +43,6 @@ related:
 
 ## Efecto
 
-Realiza una T.E. (Orientación). Si fallas, no obtienes ninguna reconstrucción. Si tienes éxito, el Narrador confirma las posiciones relativas actuales de todas las criaturas en la escena dentro de tu alcance sensorial.
+Realiza tu `T.E.` (Orientación). Con éxito, calculas mentalmente la distribución del entorno. El Narrador debe confirmarte la posición exacta de todas las criaturas presentes dentro de tu alcance sensorial actual, independientemente de que no puedas verlas.
 
-La reconstrucción parte de razonamiento espacial acumulado, no de percepción directa — no revela intenciones, equipamiento oculto ni información que no sea posicional.
+Esta técnica es pura deducción espacial. No te permite saber qué intenciones tienen, qué armas llevan ocultas ni ninguna otra información más allá de su ubicación física exacta.

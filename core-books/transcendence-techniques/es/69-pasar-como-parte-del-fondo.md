@@ -43,13 +43,11 @@ related:
 
 ## Efecto
 
-Declara una línea recta de movimiento a través de una zona observada que contenga elementos de fondo (humo, escombros, muchedumbre o desorden). La longitud máxima de esta línea es igual a **3 metros multiplicados por tu rango de competencia en Sigilo**.
+Declara una línea recta de movimiento cruzando una zona observada que tenga elementos visuales de fondo (humo, escombros, muchedumbre). Puedes trazar una línea de hasta **3 metros × tu rango de Sigilo**.
 
-Realiza una `T.E. (Sigilo)` enfrentada a la percepción de los observadores o contra una dificultad establecida por el entorno. Si tienes éxito, puedes moverte a lo largo de esa línea manteniendo (o ganando) el estado `Oculto` respecto a quienes fallaron la tirada enfrentada.
+Realiza una `T.E. (Sigilo)` enfrentada a la percepción de quienes observan la zona. Con éxito, puedes cruzar esa línea manteniendo (o ganando) el estado `Oculto` contra quienes fallaron al observarte. 
 
-Este estado `Oculto` se mantiene hasta que ocurra una de las siguientes condiciones:
-- Completas el movimiento a lo largo de la línea declarada y no terminas en cobertura válida.
-- Un observador supera activamente tu tirada de Sigilo.
-- Realizas una acción abrupta o violenta que rompe claramente la ilusión de pertenecer al fondo.
-
-Esta técnica no te hace invisible; simplemente engaña la atención del observador haciéndole creer que eres parte del caos natural de la escena.
+No eres invisible, solo te fundes con el caos del entorno. Perderás tu estado `Oculto` prematuramente si:
+- Completas el movimiento y no terminas en una cobertura válida.
+- Alguien usa su acción para buscarte y supera tu tirada original de Sigilo.
+- Realizas una acción abrupta o violenta (como atacar) mientras te mueves.

@@ -41,4 +41,6 @@ related:
 
 ## Efecto
 
-Cuando falles una T.E. de Salto, Destreza, Acrobacia, Trepar, Equitación o Equilibrio y la falla aún no haya derivado en un resultado irreversible, puedes invocar esta técnica de inmediato. Realiza una T.E. (Destreza) contra el mismo umbral o resultado opuesto que causó la falla. Con éxito, ese resultado se reemplaza por este nuevo éxito. Si fallas, el resultado original se mantiene y la técnica no permite un tercer intento.
+Cuando falles una `T.E.` de Salto, Destreza, Acrobacia, Trepar, Equitación o Equilibrio, y las consecuencias aún no sean irreversibles (como ya estar cayendo al vacío), puedes actuar de inmediato. 
+
+Realiza una `T.E. (Destreza)` contra la misma dificultad original. Con éxito, reemplazas tu fallo por este nuevo éxito. Si fallas de nuevo, sufres las consecuencias del fallo original y no puedes volver a intentarlo con esta técnica.

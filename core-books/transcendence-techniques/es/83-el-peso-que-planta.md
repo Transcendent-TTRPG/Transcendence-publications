@@ -42,18 +42,16 @@ related:
 
 ## Efecto
 
-Declara un eje de contacto y ancla tu masa con la maza. La postura queda activa.
+Declara un eje de control y ancla tu posición. Entras en Postura.
 
-Mientras la postura esté activa, cualquier enemigo dentro del área que intente avanzar a través del eje controlado debe realizar una T.R. (Alteraciones) contra `Desequilibrado`. Si falla, el movimiento no completa. La severidad depende de tu rango de competencia:
+Mientras mantengas esta postura, recibes un bonificador igual a tu **rango de competencia** a tus tiradas para resistir ser movido o desplazado. Además, cualquier enemigo a tu alcance que intente cruzar el eje que controlas debe realizar una `T.R. (Alteraciones)` para resistir el estado `Desequilibrado`. Su severidad depende de tu rango:
 
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
 
-Además, mientras la postura esté activa, recibes un bonificador igual a tu rango de competencia a tu T.R. contra desplazamiento.
+Si su tirada falla, sufre el estado `Desequilibrado` con la severidad indicada y **su movimiento se detiene**. 
 
-Puedes atacar, usar técnicas y realizar cualquier otra acción sin romper la postura.
-
-La postura termina si te desplazas voluntariamente del eje de contacto o si un efecto te fuerza a abandonarlo.
+Puedes atacar, usar técnicas y realizar otras acciones con normalidad sin romper la postura. Solo termina si te mueves de ese eje por voluntad propia o si algún efecto te arranca forzosamente de él.

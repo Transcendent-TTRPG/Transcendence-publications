@@ -41,4 +41,6 @@ related:
 
 ## Efecto
 
-Cuando una criatura de tamaño Mediano o mayor entra en tu rango sensorial sin ser observable por medios ordinarios, realiza una T.E. (Percepción). Con éxito, desplázate hasta tu Velocidad de Movimiento antes de que la criatura sea perceptible por otros medios. Sabes que algo ha cambiado; no sabes qué es.
+Cuando una criatura de tamaño Mediano o mayor ingrese en tu rango sensorial pero no sea detectable por medios ordinarios (invisibilidad, ofuscación o total cobertura), tu instinto te advierte. 
+
+Realiza una `T.E.` (Percepción). Con éxito, logras reaccionar y puedes desplazarte hasta tu **Velocidad de Movimiento** antes de que la criatura revele su posición. Sabes que algo en el gradiente de la sala acaba de cambiar, pero no sabes exactamente qué es.

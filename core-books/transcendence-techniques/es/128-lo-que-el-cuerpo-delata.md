@@ -42,16 +42,12 @@ related:
 
 ## Efecto
 
-Elige un objetivo y realiza una `T.E. (Herboristería)` contra la dificultad correspondiente a la naturaleza del objetivo:
+## Efecto
 
-| Naturaleza | Dificultad |
-| --- | --- |
-| Mortal | Desafiante |
-| Anomalía | Rigurosa |
-| Primordial | Exigente |
+Realiza una `T.E.` de `Herboristería` contra el objetivo (Dificultad: Desafiante para mortales, Rigurosa para anomalías, Exigente para primordiales). Si fallas, la técnica termina sin efecto.
 
-Si fallas, la técnica no tiene efecto.
+Con éxito, conoces inmediatamente si el objetivo porta una Infección o Veneno activo y qué tipo de contacto activa el contagio.
 
-Si tienes éxito, sabes si ese objetivo porta alguna Infección o Veneno activo, incluyendo el período de incubación, y qué tipo de contacto activa su riesgo de Contagio. Además, tu T.R. contra cualquier Infección o Veneno infligido directamente por ese objetivo recibe un bonificador igual a tu rango de competencia en Herboristería.
+Además, cualquier `T.R.` que debas realizar para resistir una Infección o Veneno infligido directamente por ese objetivo recibe un bonificador igual a tu rango en `Herboristería`.
 
-Este efecto termina si activas esta técnica sobre un objetivo diferente, o cuando dejas de percibir al objetivo.
+Este efecto termina si activas la técnica sobre otro objetivo o si dejas de percibir al original.

@@ -42,8 +42,8 @@ related:
 
 ## Efecto
 
-Realiza una `T.E. (Equilibrio)`. Si fallas, los efectos del terreno aplican con normalidad.
+Realiza una `T.E. (Equilibrio)` al moverte por terreno inestable. 
 
-Si tienes éxito, identificas puntos de anclaje impredecibles a lo largo del trayecto. Ignoras todas las penalizaciones de ese terreno inestable durante tu acción de movimiento actual completa.
+Si tienes éxito, identificas puntos de anclaje impredecibles a lo largo de tu trayecto. Ignoras todas las penalizaciones de ese terreno inestable durante tu acción de movimiento actual completa.
 
-Además, como tu trayectoria se vuelve errática y anclada al caos del entorno, recibes un bonificador a tu `T.D.` contra cualquier reacción o ataque de oportunidad enemigo que provoque este desplazamiento, igual a tu rango de competencia en `Equilibrio`.
+Además, como tu trayectoria se vuelve errática y anclada al caos del entorno, recibes un bonificador a tu `T.D.` contra cualquier reacción o ataque de oportunidad enemigo que provoque este desplazamiento igual a tu rango de competencia en `Equilibrio`.

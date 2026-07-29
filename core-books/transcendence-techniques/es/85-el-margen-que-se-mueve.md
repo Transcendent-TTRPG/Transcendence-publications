@@ -42,4 +42,6 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Control de Línea`. Si el ataque impacta, el objetivo es reposicionado a un espacio válido que tú designas, a una distancia máxima igual a tu rango de competencia en metros. El objetivo queda en pie y puede actuar con normalidad. Puedes desplazarte hasta `1` metro en la dirección del impulso como parte de la técnica.
+Realiza tu `T.A.` (Control de Línea). Con éxito, empujas al enemigo y lo reposicionas en el espacio válido que elijas, empujándolo una distancia máxima en metros igual a tu **rango de competencia** con el arma.
+
+El enemigo no sufre daño y permanece en pie. Opcionalmente, puedes avanzar hasta 1 metro acompañando el empuje como parte de la técnica.

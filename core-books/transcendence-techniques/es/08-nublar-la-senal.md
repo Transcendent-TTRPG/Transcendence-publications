@@ -44,16 +44,14 @@ related:
 
 ## Efecto
 
-Declara un canal sensorial o punto de lectura expuesto del objetivo. Realiza una `T.A.` con `-2` contra su `T.D.` para fijar el residuo en ese punto.
+Declara un canal sensorial o punto de lectura expuesto en tu objetivo. Realiza una `T.A.` con un penalizador de `-2` contra él para fijar tu residuo alquímico en ese punto.
 
-Si no superas su `T.D.`, el residuo no se aplica.
-
-Si la técnica resuelve con éxito, el residuo nubla ese canal. Mientras permanezca, el objetivo pierde cualquier ventaja sensorial que dependa exclusivamente de ese canal y sufre una **Alteración** basada en el canal obstruido:
+Si aciertas, el residuo nubla ese canal. Mientras permanezca, tu objetivo pierde cualquier ventaja sensorial que dependa exclusivamente de ese canal y sufre una **Alteración** basada en el canal obstruido:
 
 - **Vista:** `Cegado`
 - **Oído:** `Ensordecido`
 - **Olfato, tacto u otros canales:** `Desorientado`
 
-La severidad de la alteración es igual a tu Rango de competencia (1-2: Leve, 3-4: Moderado, 5-6: Grave).
+La severidad de la alteración es igual a tu rango de competencia (1-2: Leve, 3-4: Moderado, 5-6: Grave).
 
-El objetivo puede gastar la acción `Interactuar` para limpiar el residuo y eliminar la alteración asociada. El residuo también desaparece si una condición ambiental apropiada lo lava o remueve.
+Tu objetivo puede gastar la acción `Interactuar` para limpiar el residuo y eliminar la alteración. El residuo también desaparece si una condición ambiental apropiada lo remueve.

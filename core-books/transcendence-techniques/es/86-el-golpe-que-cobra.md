@@ -42,4 +42,8 @@ related:
 
 ## Efecto
 
-Cuando falles una T.D. y el ataque resuelva en una zona cubierta por una pieza funcional de tu armadura, la ficha del atacante avanza un número de posiciones en el track ATB igual a tu rango de competencia en `Armadura pesada`. Esta técnica no se activa si el ataque ignora el Bloqueo de armadura.
+Cuando falles tu Defensa (`T.D.`) y el ataque impacte en una zona protegida por una pieza funcional de tu armadura pesada, absorbes el impacto y cobras el tiempo.
+
+El atacante es penalizado, su ficha avanza un número de casillas en el track ATB igual a tu **rango de competencia** en Armadura Pesada.
+
+No puedes usar esta técnica si el ataque ignora completamente el Bloqueo de tu armadura.

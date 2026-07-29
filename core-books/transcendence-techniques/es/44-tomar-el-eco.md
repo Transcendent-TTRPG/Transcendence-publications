@@ -40,22 +40,18 @@ related:
 
 ## Efecto
 
-Elige una superficie, objeto o lugar dentro de 10m. Realiza una T.E. con `Resonancia`. La dificultad la establece el Narrador según la intensidad de señal detectada o la categoría de la criatura:
+Elige una superficie, objeto o lugar dentro de 10m. Realiza `T.E. (Resonancia)`. La dificultad depende de la intensidad de la señal o la categoría de la criatura que la emite:
 
-| Intensidad de señal / Categoría de criatura | Dificultad |
+| Intensidad / Categoría | Dificultad |
 | --- | --- |
-| Señal activa / Criatura Común | Desafiante |
-| Señal atenuada / Criatura Campeona | Rigurosa |
-| Señal suprimida / Criatura Élite | Exigente |
+| Señal activa / Común | Desafiante |
+| Señal atenuada / Campeona | Rigurosa |
+| Señal suprimida / Élite | Exigente |
 
-Si la fuente suprime activamente su señal, el Narrador puede solicitar una tirada opuesta.
+*(Si la fuente suprime activamente su señal, puede requerir una tirada opuesta).*
 
-Con éxito, elige una cantidad de lecturas de la siguiente lista igual a tu **Rango de competencia** (mínimo 1):
+Con éxito, puedes hacer una cantidad de lecturas de la siguiente lista igual a tu rango de competencia (mínimo 1):
 
-- **Posición:** si la fuente está oculta o posicionalmente incierta, detectas su posición exacta en ese momento.
-
-- **Ruta:** el Narrador revela qué ruta o zona sigue la señal verdadera en ese momento si la fuente se desplazó por varias rutas posibles.
-
-- **Estado:** el Narrador revela una verdad inmediata sobre la señal: si está activa o dormida, si es reciente o antigua, si crece o ya declina. Inmediato.
-
-Si fallas, no obtienes ninguna lectura fiable.
+- **Posición:** Detectas la posición exacta actual de la fuente si estaba oculta o incierta.
+- **Ruta:** Revelas qué ruta o zona siguió la fuente si había varias opciones posibles.
+- **Estado:** Obtienes una verdad inmediata sobre la señal (ej. activa o dormida, reciente o antigua, creciente o en declive).

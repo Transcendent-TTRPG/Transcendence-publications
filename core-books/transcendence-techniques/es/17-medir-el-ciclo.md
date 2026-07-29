@@ -43,21 +43,19 @@ related:
 
 ## Efecto
 
-Realiza `T.E. (Astronomía)` sobre un ciclo autónomo visible en el ATB. La dificultad se establece por el número total de ciclos autónomos activos en el ATB en ese momento:
+Realiza una `T.E. (Astronomía)` sobre un ciclo autónomo visible en el ATB. La dificultad depende del número total de ciclos autónomos activos en el ATB en ese momento:
 
 | Ciclos activos | Dificultad |
 | --- | --- |
 | 1 | Desafiante |
 | 2 | Rigurosa |
 | 3 | Exigente |
-| 4 o mas | Extrema |
+| 4 o más | Extrema |
 
-Si tienes éxito, el Narrador revela de inmediato la estructura rítmica de ese ciclo. A partir de ese momento y mientras el ciclo se mantenga activo, conoces siempre el costo exacto de Ritmo de sus activaciones antes de que se resuelvan.
+Si tienes éxito, el Narrador te revela de inmediato la estructura rítmica de ese ciclo. A partir de ese momento y mientras el ciclo se mantenga activo, conoces siempre el costo exacto de Ritmo de sus activaciones antes de que se resuelvan.
 
-Además, recibes de forma permanente un bonificador igual a tu rango de `Astronomía` en todas las tiradas de salvación resultantes de las activaciones de ese ciclo.
+Además, recibes de forma permanente un bonificador igual a tu rango de competencia en `Astronomía` en todas tus tiradas de salvación resultantes de las activaciones de ese ciclo.
 
-Si fallas, no se revela información y no se otorga bonificador.
-
-La información no altera el ciclo ni retrasa su activación. No impide que el efecto ocurra. El bonificador aplica únicamente a tus tiradas de salvación — no a tiradas de ataque, especialización, o impacto.
+Esta información no altera el ciclo ni retrasa su activación. El bonificador aplica únicamente a tus tiradas de salvación, no a ataques o impacto.
 
 El beneficio persiste hasta que el ciclo cambie fundamentalmente su patrón o deje de existir.

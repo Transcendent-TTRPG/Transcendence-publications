@@ -44,12 +44,12 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de Torsión contra el objetivo. Si la T.A. falla, la técnica no produce efecto adicional.
+Realiza una `T.A.` con tu perfil de `Torsión`. Si fallas, la técnica termina sin efecto secundario.
 
-Si la T.A. impacta, resuelve la T.I. normalmente. Además, el objetivo realiza una T.R. de Alteraciones contra `Desequilibrado`. La severidad de Desequilibrado escala con tu rango de competencia:
+Si impactas, resuelves tu `T.I.` normalmente. Además, el objetivo debe realizar una `T.R.` de Alteraciones. Si falla, adquiere la Alteración `Desequilibrado` con una severidad que depende de tu rango:
 
-| Rango | Severidad |
-| --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| Rango | Severidad de Desequilibrado |
+| :---: | :---: |
+| 1-2 | Leve |
+| 3-4 | Moderada |
+| 5-6 | Grave |

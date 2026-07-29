@@ -41,6 +41,8 @@ related:
 
 ## Efecto
 
-Cuando vas a realizar una T.E. de Engaño, Liderazgo, Negociación, Intimidación o Imitación, puedes sustituirla por T.E. (Lingüística) con un bonificador igual a tu rango de Lingüística.
+Cuando vayas a realizar una prueba (`T.E.`) de Engaño, Liderazgo, Negociación, Intimidación o Imitación, puedes sustituirla por una `T.E.` (Lingüística). 
 
-El Narrador confirma si la sustitución es plausible antes de que realices la tirada. Si la situación no tiene componente lingüístico real, la sustitución no aplica.
+Si lo haces, sumas tu **rango de competencia** en Lingüística como bonificador a la tirada.
+
+El Narrador debe confirmar si esta sustitución es plausible en la ficción. Si el intento no depende del uso meditado de las palabras, la técnica no aplica.

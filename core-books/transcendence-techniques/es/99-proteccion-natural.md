@@ -45,4 +45,8 @@ related:
 
 ## Efecto
 
-Cuando una herida no crítica está por aplicarse en cualquier zona de tu cuerpo, puedes declarar esta técnica en tu ventana de reacción. La herida reduce su severidad en un grado: una Herida Grave se convierte en Leve, y una Herida Leve no se aplica. Las Heridas Críticas no pueden reducirse con esta técnica.
+Cuando recibas una herida (que no sea crítica) en cualquier zona de tu cuerpo, puedes activar esta técnica como reacción antes de anotarla. 
+
+Tus escamas y musculatura redistribuyen el impacto, reduciendo la severidad de la herida en un grado: una Herida Grave se reduce a Leve, y una Herida Leve es negada por completo (no la sufres). 
+
+Las Heridas Críticas atraviesan esta protección natural y no pueden reducirse con esta técnica.

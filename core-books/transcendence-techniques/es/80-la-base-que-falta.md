@@ -43,14 +43,18 @@ related:
 
 ## Efecto
 
-Cuando un enemigo dentro de tu alcance comienza una acción de ataque, realiza una T.A. con tu perfil de `Interrupción` contra el atacante. Esta tirada reemplaza tu T.D. contra esa acción. Compara tu T.A. con la T.A. del atacante.
+Cuando un enemigo a tu alcance inicie una acción de ataque contra ti, te adelantas. 
 
-Si tu T.A. es igual o mayor que la del atacante, la acción falla y resuelves tu T.I. normalmente. El atacante realiza una T.R. (Alteraciones) contra `Desequilibrado`: si falla, queda `Desequilibrado` a la severidad determinada por tu rango de competencia.
+Realiza una `T.A. reactiva` (Interrupción). El resultado reemplaza a tu `T.D.` contra ese ataque. 
 
-Si tu T.A. es menor que la del atacante, la interrupción falla y la acción resuelve como si tu T.D. hubiera fallado.
+Si tu `T.A.` iguala o supera a la del atacante, su acción falla antes de resolverse y tú conectas tu daño normalmente. Además, lo fuerzas a realizar una `T.R. (Alteraciones)` para resistir el estado `Desequilibrado`. 
 
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1–2 | Leve |
-| 3–4 | Moderado |
-| 5–6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
+
+Si su tirada falla, sufre el estado `Desequilibrado` con la severidad indicada. 
+
+Si tu `T.A.` original es menor que la suya, recibes su ataque como si hubieras fallado tu Defensa normalmente.

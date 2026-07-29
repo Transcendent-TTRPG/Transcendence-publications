@@ -41,16 +41,10 @@ related:
 
 ## Efecto
 
-Elige un objetivo y realiza una `T.E. (Alquimia)` contra la dificultad correspondiente a la naturaleza del objetivo:
+## Efecto
 
-| Naturaleza | Dificultad |
-| --- | --- |
-| Mortal | Desafiante |
-| Anomalía | Rigurosa |
-| Primordial | Exigente |
+Realiza una `T.E.` de `Alquimia` contra el objetivo (Dificultad: Desafiante para mortales, Rigurosa para anomalías, Exigente para primordiales). Si fallas, la técnica termina sin efecto.
 
-Si fallas, la técnica no tiene efecto.
+Con éxito, cada `T.R.` que esa criatura realice en respuesta a cualquiera de tus acciones sufre una penalización igual a tu rango en `Alquimia`.
 
-Si tienes éxito, mientras este efecto esté activo, cada T.R. que ese objetivo realice en respuesta a tus acciones se hace con una penalización igual a tu rango de competencia en Alquimia.
-
-Este efecto termina si activas esta técnica contra un objetivo diferente, o cuando dejas de percibir al objetivo.
+Este efecto termina si activas la técnica sobre un objetivo diferente o si dejas de percibir al original.

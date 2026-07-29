@@ -42,12 +42,10 @@ related:
 
 ## Efecto
 
-Cuando un enemigo ejecuta un ataque físico contra ti, puedes declarar esta técnica como respuesta.
+Cuando un enemigo ejecuta un ataque físico contra ti, puedes declarar esta técnica como respuesta y realizar tu `T.D.`
 
-Si la T.D. falla, el ataque se resuelve normalmente.
+Si tienes éxito, evitas el ataque y puedes desplazarte una cantidad de metros igual a tu rango de competencia en `Evasión` hacia un espacio válido, sin provocar reacciones de ese enemigo.
 
-Si la T.D. tiene éxito, evitas el ataque y puedes desplazarte una cantidad de metros igual a tu rango de competencia en `Evasión` hacia un espacio válido sin provocar reacciones de ese enemigo.
+Si ese desplazamiento te deja fuera del alcance inmediato de tu atacante o lo obliga a recomponer claramente su línea para alcanzarte, vacías su blanco.
 
-Si ese desplazamiento te deja fuera del alcance inmediato del enemigo o lo obliga a recomponer claramente su línea para alcanzarte, vacías su blanco.
-
-Mientras el enemigo no cierre esa distancia, no cambie de zona o no recupere claramente esa línea contigo, recibes un bonificador a tus `T.A.` y `T.E.` contra él igual a tu rango de competencia en `Evasión`.
+Mientras tu atacante no cierre esa distancia, no cambie de zona o no recupere claramente esa línea contigo, recibes un bonificador a tus `T.A.` y `T.E.` contra él igual a tu rango de competencia en `Evasión`.

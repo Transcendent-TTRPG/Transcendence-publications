@@ -43,10 +43,10 @@ related:
 
 ## Efecto
 
-Realiza T.A. con tu perfil de `Letalidad`. Con éxito, realiza una T.I. cuyo umbral de Impacto Crítico se reduce según tu rango de competencia:
+Realiza tu `T.A.` (Letalidad). Con éxito, resuelves tu `T.I.` reduciendo el umbral necesario para conseguir un Impacto Crítico según tu rango:
 
-| Rangos | Reducción al umbral |
-| --- | ---: |
-| 1–2 | 1 |
-| 3–4 | 2 |
-| 5–6 | 3 |
+| Rango de competencia | Reducción al umbral |
+| --- | --- |
+| 1 a 2 | Reduce en 1 |
+| 3 a 4 | Reduce en 2 |
+| 5 a 6 | Reduce en 3 |

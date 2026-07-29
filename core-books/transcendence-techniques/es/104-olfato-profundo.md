@@ -45,10 +45,12 @@ related:
 
 ## Efecto
 
-Realiza una T.C. (Compostura) contra un umbral fijado por las condiciones del entorno. Con éxito, dentro del área el Loxod distingue lo siguiente:
+Realiza tu `T.C.` (Compostura) contra el umbral que determine el Narrador basado en las condiciones ambientales. 
 
-- **Alteraciones** — conoces las Alteraciones activas en cada criatura visible y su severidad.
-- **Aflicciones** — si una criatura tiene una Aflicción activa, sabes que algo más profundo la afecta, pero no qué ni con qué intensidad.
-- **Criaturas Ocultas con estados activos** — si una criatura está Oculta pero tiene Alteraciones o Aflicciones activas, percibes su señal química. Sabes que hay algo en el área sin conocer su posición exacta. El estado Oculto no se rompe — esta señal no te permite atacar a la criatura ni actuar sobre ella como si supieras su posición.
+Con éxito, tu olfato especializado descifra los sutiles desajustes bioquímicos que el estrés, la enfermedad y el trauma dejan en los cuerpos a tu alrededor. Dentro del área logras distinguir lo siguiente:
 
-El estado termina si quedas Inconsciente o si lo finalizas voluntariamente.
+- **Alteraciones:** Reconoces cualquier Alteración física activa en las criaturas visibles y deduces su severidad exacta.
+- **Aflicciones:** Percibes si una criatura sufre una Aflicción (un daño interno persistente). Sabes que algo fundamental falla en ella, aunque no puedes diagnosticar con precisión de qué se trata ni su severidad sin un chequeo directo.
+- **Presencias en las sombras:** Si una criatura está bajo el estado `Oculto` pero sufre alguna Alteración o Aflicción, su sudor frío o su estrés metabólico la delatan. Sabes que **hay alguien** sufriendo en el área, pero tu olfato no es lo suficientemente direccional para revelar su posición exacta. El estado Oculto del enemigo no se rompe, y no puedes atacarlo a ciegas solo por este olor.
+
+Este sentido profundo permanece activo hasta que quedes `Inconsciente` o decidas detenerte voluntariamente.

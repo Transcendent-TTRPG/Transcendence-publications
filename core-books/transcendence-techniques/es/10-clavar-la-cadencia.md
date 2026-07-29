@@ -43,14 +43,14 @@ related:
 
 ## Efecto
 
-Cuando una criatura dentro de tu línea de tiro declara o inicia un desplazamiento, puedes interrumpirlo para realizar una `T.A.`.
+Cuando un objetivo dentro de tu línea de tiro declara o inicia un desplazamiento, puedes interrumpirlo para realizar una `T.A.` contra él.
 
-Si aciertas, resuelves `T.I.` normalmente. El fuego de supresión rompe la inercia del objetivo: la distancia total que puede recorrer con este desplazamiento se reduce a la mitad.
+Si aciertas, resuelves tu `T.I.` normalmente. Tu fuego de supresión rompe la inercia de tu objetivo: la distancia total que puede recorrer con este desplazamiento se reduce a la mitad.
 
-Además, si el objetivo decide continuar moviéndose bajo este fuego de supresión, debe pagar un costo de Ritmo adicional. Este sobrecargo aumenta según tu rango de competencia:
+Además, si tu objetivo decide continuar moviéndose bajo tu fuego de supresión, debe pagar un costo de Ritmo adicional. Este sobrecargo aumenta según tu rango de competencia:
 
 - Rangos 1-2: `+1` Ritmo
 - Rangos 3-4: `+2` Ritmo
 - Rangos 5-6: `+3` Ritmo
 
-Si el objetivo no puede o no quiere pagar el costo adicional, su acción de movimiento termina inmediatamente en la casilla donde recibió el impacto. Si fallas la `T.A.`, el desplazamiento del objetivo continúa normalmente.
+Si tu objetivo no puede o no quiere pagar el costo adicional, su acción de movimiento termina inmediatamente en la posición donde recibió el impacto.

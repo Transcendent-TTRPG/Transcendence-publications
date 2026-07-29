@@ -44,18 +44,16 @@ related:
 
 ## Efecto
 
-Realiza una T.A. con tu perfil de `Impredecible`.
+Realiza tu `T.A.` (Impredecible). Si no impactas, la técnica termina.
 
-Si el ataque no impacta, la secuencia termina.
+Si el primer ataque impacta, resuelves su daño y realizas de inmediato una segunda `T.A.` contra el mismo enemigo sin coste de Ritmo adicional. 
 
-Si impacta, resuelves el impacto. Realiza de inmediato una segunda T.A. contra el mismo objetivo sin coste adicional de Ritmo. 
+Si **ambos** ataques impactan, tras resolver el daño de ambos, fuerzas a tu enemigo a realizar una `T.R. (Alteraciones)` para resistir el estado `Desequilibrado`. Su severidad depende de tu rango:
 
-Si la segunda T.A. no impacta, nada ocurre más allá de su resolución normal.
-
-Si ambos ataques impactan, resuelves el impacto para cada uno. El objetivo debe realizar una T.R. (Alteraciones) contra `Desequilibrado`. Si falla, queda `Desequilibrado` a la severidad determinada por tu rango de competencia:
-
-| Rango | Severidad |
+| Rango de competencia | Severidad |
 | --- | --- |
-| 1 - 2 | Leve |
-| 3 - 4 | Moderado |
-| 5 - 6 | Grave |
+| 1 a 2 | Leve |
+| 3 a 4 | Moderado |
+| 5 a 6 | Grave |
+
+Si su tirada falla, sufre el estado `Desequilibrado` con la severidad indicada.
