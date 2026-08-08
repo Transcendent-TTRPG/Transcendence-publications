@@ -254,6 +254,34 @@ El nivel aporta práctica acumulada. El rango aporta el grado de dominio alcanza
 
 ---
 
+### Umbral Pasivo de Especialización
+
+Algunas especializaciones mantienen una capa de recepción continua: el personaje no está buscando nada, pero su entrenamiento o su naturaleza lo hacen receptivo al entorno sin esfuerzo consciente. Cuando el estímulo en la escena supera ese umbral, el personaje lo registra automáticamente, sin que el Narrador necesite pedir una tirada.
+
+A este valor se lo llama **Umbral Pasivo**.
+
+**Fórmula:**
+
+```text
+Umbral Pasivo = 5 + característica asociada + nivel de competencia + rango de competencia
+```
+
+El `5` representa el resultado promedio del `d10` — lo que el personaje obtendría en una tirada ordinaria sin prestar atención especial. Los bonificadores situacionales no se incluyen en el umbral pasivo: esos dependen de atención activa.
+
+El Umbral Pasivo no reemplaza la tirada activa. Una T.E. deliberada puede detectar cosas por debajo del umbral pasivo, porque la atención dirigida supera la simple receptividad. El umbral pasivo solo determina qué registra el personaje sin intentarlo.
+
+Las especializaciones con Umbral Pasivo son:
+
+| Especialización | Detecta pasivamente |
+| --- | --- |
+| **Percepción** | Estímulos físicos presentes en el entorno: figuras, sonidos anómalos, detalles relevantes |
+| **Instinto** | Presencias amenazantes o señales primarias que interpelan la naturaleza profunda del personaje |
+| **Resonancia** | Filtraciones taumáticas, vestigos activos o vínculos en proximidad |
+
+El Narrador compara la dificultad del estímulo contra el Umbral Pasivo del personaje. Si lo supera, describe lo que el personaje registra sin pedir tirada. Si no lo supera, el estímulo pasa desapercibido a menos que el personaje busque activamente.
+
+---
+
 ### Tirada de Rasgo de Personalidad (T.P.)
 
 Durante la exploración o el conflicto, un jugador puede proponer que uno de sus Rasgos de Personalidad influya sobre la situación. Si el Narrador acepta la justificación, el personaje puede realizar una Tirada de Rasgo de Personalidad en lugar de una Tirada de Característica o de Especialización.
@@ -295,6 +323,24 @@ El Narrador anuncia el nivel de dificultad antes de pedir la tirada, salvo cuand
 Si una T.A., T.D. o T.E. puede generar progreso mediante Ventaja en el Aprendizaje, el jugador debe conocer el umbral antes de elegir cómo tirar.
 
 Las T.R. no usan Ventaja en el Aprendizaje. Si una Resistencia puede progresar, lo hace por exposición después de resolver el efecto.
+
+---
+
+## Interpretación de resultados
+
+Una tirada no produce un resultado binario de éxito o fracaso. Produce un número. El Narrador interpreta ese número en términos de lo que el personaje percibe, logra o comprende: con más precisión, claridad y ventaja a mayor resultado, y con más ambigüedad, distorsión o información parcial a menor resultado.
+
+Anunciar el resultado como «pasaste» o «fallaste» antes de describir lo que ocurre transfiere la señal al jugador y rompe la capa de incertidumbre que sostiene la escena. El resultado numérico es información del Narrador, no del personaje.
+
+Esta regla aplica a todas las tiradas del sistema.
+
+### Tiradas que no señalizan presencia
+
+Pedir una tirada antes de que algo suceda inevitablemente señaliza que algo existe. Para evitar que la mecánica filtre información hacia los jugadores, el Narrador puede:
+
+- **Agrupar tiradas**: pedir varias especializaciones a la vez sin indicar cuál importa en ese momento.
+- **Tirar en momentos neutros**: pedir la tirada en un instante donde la conexión con el estímulo no sea obvia.
+- **Usar el Umbral Pasivo**: cuando la especialización tiene umbral pasivo, el Narrador compara internamente sin pedir tirada. La información aparece o no en la descripción de la escena, sin que el jugador sepa que se hizo una comparación.
 
 ---
 
