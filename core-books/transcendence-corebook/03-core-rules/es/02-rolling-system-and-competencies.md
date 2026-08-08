@@ -274,11 +274,12 @@ Las especializaciones con Umbral Pasivo son:
 
 | Especialización | Detecta pasivamente |
 | --- | --- |
-| **Percepción** | Estímulos físicos presentes en el entorno: figuras, sonidos anómalos, detalles relevantes |
-| **Instinto** | Presencias amenazantes o señales primarias que interpelan la naturaleza profunda del personaje |
-| **Resonancia** | Filtraciones taumáticas, vestigos activos o vínculos en proximidad |
+| **Instinto** | Amenazas naturales antes de que sean visibles: trampas, emboscadas, presencias hostiles ocultas. No hay decisión consciente — el cuerpo reacciona. |
+| **Resonancia** | Filtraciones taumáticas, vestigos activos o vínculos en proximidad esencial. |
 
-El Narrador compara la dificultad del estímulo contra el Umbral Pasivo del personaje. Si lo supera, describe lo que el personaje registra sin pedir tirada. Si no lo supera, el estímulo pasa desapercibido a menos que el personaje busque activamente.
+Percepción no tiene Umbral Pasivo: es atención activa por definición. Cuando el personaje decide mirar, escuchar o examinar deliberadamente, usa Percepción y tira.
+
+El Narrador compara la dificultad del estímulo contra el Umbral Pasivo del personaje. Si lo supera, describe lo que el personaje registra sin pedir tirada. Si no lo supera, el estímulo pasa desapercibido salvo que el personaje busque activamente.
 
 ---
 
