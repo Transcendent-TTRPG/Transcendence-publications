@@ -38,7 +38,6 @@ related:
 ## Keywords
 
 - `Intercepción`
-- `No Hereda Efectos`
 
 ## Efecto
 
