@@ -44,5 +44,3 @@ related:
 Cuando un enemigo declare un ataque físico contra ti, puedes declarar esta técnica en tu ventana de reacción. En lugar de tu `T.D.`, realizas una `T.E.` (Engaño) enfrentada a la tirada de ataque del enemigo, sea esta una `T.A.`, `T.E.` o `T.C.`
 
 Si tu `T.E.` iguala o supera la tirada del enemigo, el ataque falla: impacta donde parecías estar, no donde estás.
-
-Si tu `T.E.` es menor, el ataque se resuelve como si tu `T.D.` hubiera fallado.
