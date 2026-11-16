@@ -14,6 +14,7 @@ related:
   - core-books/transcendence-corebook/13-gm-toolkit/es/01-condiciones-del-entorno.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
 authority_refs:
+  - Transcendence-design/docs/adr/system-initial-weapon-competencies.md
   - Transcendence-design/docs/system/roll-types.md
   - Transcendence-design/docs/system/competencies.md
   - Transcendence-design/docs/system/difficulty-thresholds.md
@@ -390,9 +391,11 @@ Se obtiene un nuevo rango cada 2 niveles de competencia. Las especializaciones o
 
 ### Competencias iniciales
 
-El trasfondo del personaje determina con qué competencias comienza entrenado. Las competencias otorgadas por el trasfondo empiezan en nivel 1, lo que equivale al rango Novato.
+El trasfondo determina tres especializaciones iniciales. La creación añade una especialización universal de Tenacidad y dos competencias de arma distintas, elegidas entre armas naturales disponibles y armas fabricadas. Todas estas competencias comienzan en nivel `1`, rango `Novato`.
 
-Todas las demás competencias comienzan en nivel 0. El personaje se considera No Entrenado en ellas.
+Las dos competencias de arma son independientes de la especie y el trasfondo; no se acumulan en una sola competencia. Las competencias restantes comienzan en nivel `0`, salvo que una regla específica conceda otro valor inicial. La anatomía de un arma natural no concede entrenamiento adicional.
+
+La elección de armas, sus límites y los ejemplos aparecen en [Competencias de arma iniciales](../../05-character-creation/es/character-creation.md#competencias-de-arma-iniciales).
 
 ---
 

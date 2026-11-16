@@ -1,5 +1,15 @@
 # ES
 
+Incorporación Bufoni (borrador editorial; regla aprobada, simulación pendiente):
+
+- `162-la-respuesta-que-no-llega.md` — Interrupción; aprovecha Entorpecido para intentar cancelar una Reacción física concreta, sin daño ni restricción de especie.
+- `163-la-fuerza-prestada.md` — Torsión; intenta redirigir un golpe físico hacia otra criatura alcanzable, conservando el ataque ajeno. Ritmo 3 / Desgaste 1; sin impacto propio ni restricción de especie. Simulación y revisión visual de tarjeta pendientes.
+- `164-el-rastro-ofrecido.md` — Impredecible; dirige una pista de posición falsa para un detector sin anular su detección real ni modificar Oculto. Ritmo 2 / Desgaste 1; sin impacto propio ni restricción de especie. Simulación y revisión visual de tarjeta pendientes.
+- `165-la-mancha-que-vuelve.md` — Corrosión; intenta reaplicar un residuo químico externo después de resolver su retirada normal. Ritmo 3 / Desgaste 2; sin daño ni cancelación de tratamientos internos. Simulación y revisión visual de tarjeta pendientes.
+- `166-el-gesto-inadvertido.md` — Sigilo; incluye una interacción breve y controla sus señales sin reemplazar Oculto ni borrar consecuencias visibles. Ritmo 3 / Desgaste 1, incluso al fallar; sin ataque o movimiento. Simulación y revisión visual pendientes.
+- `167-la-dosis-perdida.md` — Alquimia; intenta neutralizar una dosis externa de veneno sobre el arma atacante, antes de la defensa y a 1 metro. Ritmo 3 / Desgaste 1 y una dosis de neutralizador incluso al fallar; conserva el ataque físico. Simulación y revisión visual pendientes.
+- `168-el-aliento-reservado.md` — Nadar + Resistencia al Veneno; intenta evitar una aplicación puntual percibida por inhalación antes de la exposición y su T.R. Ritmo 0 / Desgaste 1 incluso al fallar; no protege de exposición continua, otras vías ni Asfixiado. Simulación y revisión visual pendientes.
+
 Contenido en espanol para esta seccion.
 
 Archivos actuales:

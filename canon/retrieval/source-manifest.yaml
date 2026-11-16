@@ -1,0 +1,83 @@
+# Initial source manifest. Paths are relative to Transcendence-publications.
+manifest_version: 1
+primary_language: es
+sources:
+  - id: corebook_species_vesper_es
+    path: core-books/transcendence-corebook/06-species/es/15-vesper.md
+    language: es
+    authority: primary
+    domains: [species, vesper, biology, perception, culture, techniques]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_limbo_es
+    path: core-books/transcendence-corebook/12-cosmic-horror-and-corruption/es/01-el-limbo.md
+    language: es
+    authority: primary
+    domains: [limbo, tauma, vestiges, links, environmental-flow, detection]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_limbo_discovery_es
+    path: core-books/transcendence-corebook/12-cosmic-horror-and-corruption/es/02-el-descubrimiento.md
+    language: es
+    authority: primary
+    domains: [limbo, discovery, perception, affliction]
+    audiences: [campaign, narrative]
+    status: draft
+
+  - id: corebook_vestiges_es
+    path: core-books/transcendence-corebook/12-cosmic-horror-and-corruption/es/03-vestigos.md
+    language: es
+    authority: primary
+    domains: [limbo, vestiges, belief, objects]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_links_aspects_es
+    path: core-books/transcendence-corebook/12-cosmic-horror-and-corruption/es/04-vinculos-y-aspectos.md
+    language: es
+    authority: primary
+    domains: [limbo, links, aspects, echo, dissonance]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_limbo_entities_es
+    path: core-books/transcendence-corebook/12-cosmic-horror-and-corruption/es/05-entidades.md
+    language: es
+    authority: primary
+    domains: [limbo, entities, behavior]
+    audiences: [campaign, narrative]
+    status: draft
+
+  - id: corebook_environmental_conditions_es
+    path: core-books/transcendence-corebook/13-gm-toolkit/es/01-condiciones-del-entorno.md
+    language: es
+    authority: primary
+    domains: [environment, exploration, hazards, visibility]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_visibility_concealment_es
+    path: core-books/transcendence-corebook/08-conflict-and-combat/es/07-cobertura-visibilidad-y-ocultacion.md
+    language: es
+    authority: primary
+    domains: [combat, visibility, concealment, cover]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_wounds_damage_es
+    path: core-books/transcendence-corebook/08-conflict-and-combat/es/05-heridas-y-dano.md
+    language: es
+    authority: primary
+    domains: [combat, wounds, damage, zones]
+    audiences: [campaign, narrative, simulation]
+    status: draft
+
+  - id: corebook_actions_es
+    path: core-books/transcendence-corebook/08-conflict-and-combat/es/03-acciones.md
+    language: es
+    authority: primary
+    domains: [combat, actions, exploration]
+    audiences: [campaign, narrative, simulation]
+    status: draft

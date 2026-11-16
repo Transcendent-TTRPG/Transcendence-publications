@@ -13,6 +13,8 @@ related:
   - core-books/transcendence-corebook/03-core-rules/en/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
+  - Transcendence-design/docs/system/competencies.md
+  - Transcendence-design/docs/adr/system-initial-weapon-competencies.md
   - Transcendence-design/docs/system/backgrounds.md
   - Transcendence-design/docs/system/specializations.md
   - Transcendence-design/docs/system/characteristics.md
@@ -40,7 +42,7 @@ To create a character, follow these steps in order:
 1. Define the concept.
 2. Record base characteristics.
 3. Choose species.
-4. Choose background.
+4. Choose background and weapon competencies.
 5. Select starting specializations.
 6. Apply Synapsis.
 7. Calculate derived attributes.
@@ -144,7 +146,7 @@ At the end of this step, your sheet should have:
 
 ---
 
-## 4. Choose Background
+## 4. Choose Background and Weapon Competencies
 
 Background represents the character’s life before the adventure.
 
@@ -161,9 +163,19 @@ All other specializations need `10` progress points.
 
 ---
 
-## Available Backgrounds
+### Starting Weapon Competencies
 
-Any character, regardless of background, may replace any number of starting species natural-weapon competencies with crafted-weapon competencies. This choice reflects whether the character built their combat around their own biology or adopted the tools of the outside world.
+Every character begins with **two distinct weapon competencies**, both at level `1`, Novice rank, regardless of species and background. Choose from the character's anatomically available natural weapons and manufactured weapon types practiced before the adventure.
+
+You cannot repeat a competency or combine both choices to start one competency at level `2`. The number of natural weapons does not increase or reduce these two choices. Unselected weapon competencies begin at level `0`; untrained natural weapons remain available and follow the **Impact with Untrained Weapons** rules in the Rolling System and Competencies chapter.
+
+These choices are separate from starting specializations and do not activate Synapsis. Choosing a manufactured weapon competency does not grant that weapon or require the character to begin with it among their possessions. Armor, Shield, and Evasion competencies are recorded separately and do not consume these two choices.
+
+> **Examples:** A Panin can begin with Bite `1` and one manufactured weapon competency `1`, or with two distinct manufactured weapon competencies `1` and Bite `0`. A creature with two natural weapons can choose both at level `1`, one natural and one manufactured weapon, or two manufactured weapons. In every case, each choice corresponds to a distinct competency, not a Weapon Technique Profile or a second copy of a weapon.
+
+---
+
+## Available Backgrounds
 
 ---
 
@@ -227,6 +239,7 @@ At the end of this step, record:
 - your background
 - your major affinity
 - the categories allowed for your three starting specializations
+- your two distinct weapon competencies at level `1`, Novice rank
 
 ---
 
@@ -525,6 +538,7 @@ At the end of character creation, your character should have:
 | Major affinity | Recorded |
 | Characteristics | Calculated with species and Synapsis |
 | Starting specializations | 3 from background + 1 universal Tenacity choice |
+| Starting weapon competencies | 2 distinct at level 1 / Novice, natural or manufactured |
 | Preparation | Calculated |
 | Resilience | Calculated |
 | Endurance | Calculated |

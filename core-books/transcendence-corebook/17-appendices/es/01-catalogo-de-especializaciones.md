@@ -16,6 +16,7 @@ related:
 authority_refs:
   - Transcendence-design/docs/system/specializations.md
   - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/docs/adr/system-belicology-scope.md
 ---
 
 # Catálogo de Especializaciones
@@ -1490,18 +1491,20 @@ Un personaje intenta detectar si una estructura esconde espacios no visibles o u
 
 ### Belicología
 
-Belicología cubre comprender formalmente la guerra, sistemas de conflicto, doctrina militar y organización del combate. Se usa cuando la pregunta central es cómo leer una situación militar como sistema y no solo como pelea inmediata.
+Belicología estudia los principios técnicos, tácticos, estratégicos, psicológicos y organizativos del combate. Permite comprender cómo una cultura afronta amenazas y por qué desarrolla determinadas formas de combatir. Abarca conflictos entre especies, defensa frente a bestias y protección de comunidades ante amenazas del entorno. No exige que exista una guerra o un ejército.
 
-Se distingue de Liderazgo. Liderazgo manda en tiempo real; Belicología entiende doctrina, despliegue y estructura de guerra. También se separa de las competencias de arma y de la improvisación táctica directa.
+Se usa para analizar la función de armas y posiciones, la coordinación de combatientes y las respuestas que un método busca provocar en el adversario. Las conclusiones dependen de la información disponible y de los conocimientos del personaje; no revelan intenciones ocultas ni permiten predecir perfectamente una conducta.
+
+Se distingue de Liderazgo, que ejerce mando en tiempo real, y de Supervivencia, que resuelve necesidades generales de subsistencia. Comprender una tradición marcial no concede sus competencias de arma ni sus Técnicas. El análisis tampoco reemplaza la ejecución con armas o la improvisación táctica directa.
 
 #### Perfil mecánico
 
 - Belicología funciona sobre todo como una acción **activa**.
 - Se resuelve contra un **umbral**.
 
-La condición de escena fija el umbral base. Escala del conflicto, claridad del despliegue, rareza doctrinal y presión del momento ajustan ese valor.
+La condición de escena fija el umbral base. Escala del conflicto, claridad de la disposición, familiaridad con el método y presión del momento ajustan ese valor.
 
-- Requiere una situación militar, doctrina o despliegue susceptible de análisis formal.
+- Requiere un método de combate, tradición marcial o disposición defensiva susceptible de análisis.
 - También requiere información suficiente para comparar la escena con patrones de conflicto conocidos.
 
 #### Penalizadores comunes
@@ -1515,11 +1518,11 @@ La condición de escena fija el umbral base. Escala del conflicto, claridad del 
 
 #### Reintentos
 
-Puede reevaluarse si el despliegue se aclara, aparecen nuevas fuerzas o cambia la situación. Sin nueva información táctica, repetir el mismo análisis rara vez mejora.
+Puede reevaluarse si la disposición se aclara, aparecen nuevas amenazas o cambia la situación. Sin nueva información táctica, repetir el mismo análisis rara vez mejora.
 
 #### Ejemplo breve
 
-Un personaje intenta anticipar cómo se reordenará una fuerza enemiga antes de que complete su maniobra. La tirada decide si la doctrina le resulta legible a tiempo.
+Un personaje examina cómo una comunidad contiene a una bestia mediante armas largas, un paso estrecho y relevos entre defensores. La tirada determina si comprende qué función cumple cada elemento y por qué ese método responde a la amenaza. Comprenderlo no le enseña a ejecutar las Técnicas de los defensores ni le permite dirigirlos automáticamente.
 
 ---
 
@@ -1821,7 +1824,7 @@ Las especializaciones de Presencia expresan cuánto pesa el personaje en la perc
 
 Liderazgo cubre dirigir a otros mediante autoridad, estructura y fuerza de mando. Se usa cuando la pregunta central no es si el personaje asusta, convence o negocia, sino si logra que varios actúen bajo una dirección reconocida.
 
-Se distingue de Intimidación. Intimidación dobla por miedo; Liderazgo organiza seguimiento voluntario. También se separa de Belicología, que conoce la guerra como sistema en vez de ejercer mando en tiempo real.
+Se distingue de Intimidación. Intimidación dobla por miedo; Liderazgo organiza seguimiento voluntario. También se separa de Belicología, que estudia cómo y por qué se combate en vez de ejercer mando en tiempo real.
 
 #### Perfil mecánico
 

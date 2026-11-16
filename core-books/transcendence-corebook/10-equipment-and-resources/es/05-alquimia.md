@@ -7,14 +7,19 @@ language: es
 chapter: 10
 status: draft
 canonical: false
-tags: [alquimia, fórmulas, elixires, venenos, fabricación, plantas]
+tags: [alquimia, fórmulas, elixires, venenos, fabricación, plantas, neutralizadores]
 related:
   - core-books/transcendence-corebook/10-equipment-and-resources/es/01-materiales.md
   - core-books/transcendence-corebook/10-equipment-and-resources/es/02-extraccion-y-conservacion.md
   - core-books/transcendence-corebook/11-ailments/es/03-aflicciones.md
+  - core-books/transcendence-corebook/11-ailments/es/04-venenos.md
+  - core-books/transcendence-corebook/08-conflict-and-combat/es/03-acciones.md
 authority_refs:
   - Transcendence-design/docs/system/materials-and-fabrication.md
   - Transcendence-design/data/system/materials-and-fabrication.yaml
+section_modes:
+  - heading: "Ejemplo de neutralización"
+    writing_mode: example
 ---
 
 # Alquimia
@@ -219,3 +224,49 @@ La cataplasma no libera ranuras de herida. Solo detiene el deterioro activo. La 
 Una dosis cubre una Zona.
 
 **Disponibilidad:** General
+
+---
+
+## Neutralizadores específicos
+
+Un **Neutralizador específico** es un compuesto preparado para tratar un tipo concreto de veneno. Cada fórmula identifica el veneno compatible y la calidad del producto. Compartir síntomas, severidad o vía de administración no hace compatibles dos venenos.
+
+| Calidad del neutralizador | Calidad de la preparación compatible que puede neutralizar |
+| --- | --- |
+| Común | Común |
+| Rara | Común o Rara |
+| Excepcional | Común, Rara o Excepcional |
+
+La calidad corresponde a la preparación química, no a la severidad del Agravio. Si una fuente no define la calidad del veneno, esa calidad debe establecerse antes de aplicar la tabla. No se deduce de que el envenenamiento sea Leve, Moderado o Grave.
+
+Para tratar a una criatura envenenada, necesitas un neutralizador compatible de calidad suficiente, acceso al paciente y el Kit de Medicina que requiera ese veneno. Resuelve la **T.E. de Medicina** del tratamiento. Con éxito, neutralizas ese veneno y cesan sus efectos activos. No recuperas automáticamente heridas ni otros daños causados, y los efectos de otras fuentes permanecen.
+
+Una dosis administrada permite un intento contra un veneno compatible en una criatura. La dosis se consume aunque falle la tirada; el fallo deja el veneno activo. No puedes repetir la tirada sin cumplir las reglas de reintento de Medicina. Comprobar que faltan compatibilidad, calidad o recursos no constituye un intento ni consume automáticamente una dosis.
+
+Una calidad superior no reduce por sí sola la dificultad, no sustituye el kit y no aumenta el kit necesario para tratar el mismo veneno. Se conservan las excepciones de recuperación de cada Veneno y los demás métodos de tratamiento autorizados.
+
+El producto no concede una aplicación reactiva sobre armas. Ese uso requiere una regla o Técnica que lo autorice.
+
+### Neutralizador del Veneno de Confusión
+
+**Compatibilidad:** Veneno de Confusión, la fórmula de este catálogo. No elimina Desorientado causado por otras fuentes.
+
+**Vía:** Ingestión. Se presenta como líquido dosificado en recipientes sellados. El paciente debe poder recibir el compuesto por esa vía.
+
+| Calidad / rareza de la fórmula | Reactivo de criatura | Unidades de plantas | Índice botánico mínimo total | Horas de progreso | Dosis por lote | Dificultad de fabricación |
+| --- | --- | --- | --- | --- | --- | --- |
+| Común | Fluido ×1 | 2 | 8 | 12 | 1d4 | Desafiante |
+| Rara | Glándula ×1 | 3 | 15 | 24 | 1d3 | Exigente |
+| Excepcional | Sistema nervioso ×1 | 4 | 24 | 36 | 1d2 | Extrema |
+
+Cada variante requiere su fórmula y un alambique u horno en instalación fija. El Kit Alquímico permite preparar los insumos, pero no terminar el compuesto. Cada hora de Alquimia resuelta con éxito suma una hora de progreso; un fallo consume la hora sin progreso y deja los reactivos intactos. El índice de la tabla es la suma mínima de los índices de las plantas utilizadas, no la dificultad de identificar el veneno ni la de tratar al paciente.
+
+**Conservación:** el producto terminado es Estable mientras permanezca sellado, sin contaminar y en condiciones normales de almacenamiento. Los ingredientes crudos conservan sus propios requisitos de conservación. Esta estabilidad no protege el recipiente ni el contenido frente a daños o exposición destructiva.
+
+**Tratamiento del Veneno de Confusión común:** requiere **Kit de Medicina Básico** y una **T.E. de Medicina Desafiante**, con los modificadores de la escena. En el ATB es una acción activa de tratamiento técnico: **Ritmo 6 / Desgaste 1**, que pagas aunque falle. Fuera del ATB, aplica los requisitos de acceso y tiempo de intervención de Medicina; una escena tranquila no genera costes de estrés por sí sola.
+
+Usar un neutralizador Raro o Excepcional contra ese mismo veneno Común no cambia el kit, la dificultad ni el coste del tratamiento. Las variantes superiores del neutralizador no crean preparaciones Raras o Excepcionales del veneno: la fórmula de Veneno de Confusión publicada en este catálogo es Común.
+
+### Ejemplo de neutralización
+
+Una criatura sufre el Veneno de Confusión común. Dispones de su neutralizador Raro y de un Kit de Medicina Básico. Durante el combate, administras una dosis y resuelves una T.E. de Medicina Desafiante con los modificadores de la escena. Con éxito, termina ese envenenamiento y cesa la desorientación que produce; si falla, el veneno permanece. En ambos casos consumes una dosis y pagas Ritmo 6 y Desgaste 1. La calidad Rara no facilita la tirada ni neutraliza otros venenos presentes.

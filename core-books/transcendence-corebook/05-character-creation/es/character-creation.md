@@ -13,6 +13,8 @@ related:
   - core-books/transcendence-corebook/03-core-rules/es/02-rolling-system-and-competencies.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/es/01-especializaciones.md
 authority_refs:
+  - Transcendence-design/docs/system/competencies.md
+  - Transcendence-design/docs/adr/system-initial-weapon-competencies.md
   - Transcendence-design/docs/system/backgrounds.md
   - Transcendence-design/docs/system/specializations.md
   - Transcendence-design/docs/system/characteristics.md
@@ -40,7 +42,7 @@ Para crear un personaje, sigue estos pasos en orden:
 1. Define el concepto.
 2. Anota las características base.
 3. Elige especie.
-4. Elige trasfondo.
+4. Elige trasfondo y competencias de arma.
 5. Escoge especializaciones iniciales.
 6. Aplica Sinapsis.
 7. Calcula atributos derivados.
@@ -144,7 +146,7 @@ Al terminar este paso, tu hoja debe tener:
 
 ---
 
-## 4. Elige trasfondo
+## 4. Elige trasfondo y competencias de arma
 
 El trasfondo representa la vida y los oficios que te mantuvieron vivo antes de que la necesidad o la tragedia te empujaran a las Zonas Primordiales.
 
@@ -161,9 +163,19 @@ Las demás especializaciones necesitan `10` puntos de progreso.
 
 ---
 
-## Trasfondos disponibles
+### Competencias de arma iniciales
 
-Cualquier personaje, independientemente de su trasfondo, puede sustituir cualquier cantidad de competencias iniciales en armas naturales de su especie por competencias en armas fabricadas. La decisión refleja si el personaje desarrolló su combate usando su biología o adoptando las herramientas del mundo exterior.
+Cada personaje comienza con **dos competencias de arma distintas**, ambas en nivel `1`, rango `Novato`, independientemente de su especie y trasfondo. Elige entre las armas naturales disponibles en su anatomía y los tipos de armas fabricadas que haya practicado antes de la aventura.
+
+No puedes repetir una competencia ni reunir las dos elecciones para comenzar con una competencia en nivel `2`. La cantidad de armas naturales no aumenta ni reduce estas dos elecciones. Las competencias de arma no elegidas comienzan en nivel `0`; las armas naturales no entrenadas siguen disponibles y se usan con las reglas de **Impacto con armas sin competencia** del capítulo de Sistema de Tiradas y Competencias.
+
+Estas elecciones son independientes de las especializaciones iniciales y no activan Sinapsis. Elegir una competencia en un arma fabricada no concede esa arma ni obliga a comenzar con ella entre las pertenencias. Las competencias en Armaduras, Escudos y Evasión se registran por separado y no consumen estas dos elecciones.
+
+> **Ejemplos:** Un Panin puede comenzar con Mordisco `1` y una competencia en arma fabricada `1`, o con dos competencias distintas en armas fabricadas `1` y Mordisco `0`. Una criatura con dos armas naturales puede elegir ambas en nivel `1`, una natural y una fabricada, o dos fabricadas. En todos los casos, cada elección corresponde a una competencia distinta, no a un perfil de técnica ni a una segunda copia de un arma.
+
+---
+
+## Trasfondos disponibles
 
 ---
 
@@ -227,6 +239,7 @@ Al terminar este paso, anota:
 - tu trasfondo
 - tu afinidad mayor
 - las categorías permitidas para tus tres especializaciones iniciales
+- tus dos competencias de arma distintas en nivel `1`, rango `Novato`
 
 ---
 
@@ -527,6 +540,7 @@ Al terminar la creación, tu personaje debe tener:
 | Afinidad mayor | Anotada |
 | Características | Calculadas con especie y Sinapsis |
 | Especializaciones iniciales | 3 por trasfondo + 1 universal de Tenacidad |
+| Competencias de arma iniciales | 2 distintas en nivel 1 / Novato, naturales o fabricadas |
 | Preparación | Calculada |
 | Resiliencia | Calculada |
 | Aguante | Calculado |

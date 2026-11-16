@@ -29,6 +29,23 @@ Lo que cambia la situación es el punto de cruce. Para que el Tauma pase del gra
 
 Vestigos y vínculos son conductos casi exclusivos del sistema nervioso humanoide — personajes jugadores y PNJs. Las criaturas no humanoides y la fauna primordial no los necesitan; simplemente mutan, se adaptan o se alimentan de la energía taumática de forma directa y evolutiva.
 
+## Integración taumática en criaturas
+
+Cuando el Tauma se integra de forma estable en una criatura, no le entrega una
+habilidad aprendida ni una magia separada de su cuerpo. Parte de una capacidad,
+relación o condición material que ya existe —regeneración, termorregulación,
+vuelo, conducción nerviosa, presión, veneno, corriente de aire— y la lleva a una
+escala que deja de obedecer los límites naturales.
+
+La relación física no es una excusa para reducir el resultado a algo ordinario:
+es la dirección que adopta la deformación. Un reptil cuya carne ya recompone una
+herida puede regenerar partes de sí mismo con velocidad imposible; un ave ligada
+a las corrientes puede levantar vientos capaces de desplazar roca; una criatura
+con electrobiología puede descargar una fuerza que atraviesa un recinto entero.
+No controlan un "elemento" como un taumaturgo ni ejecutan un hechizo por elección.
+Su organismo expresa, de manera instintiva, una condición integrada que el Tauma
+ha vuelto extranatural.
+
 ---
 
 ## Flujo ambiental

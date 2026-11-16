@@ -16,6 +16,7 @@ related:
 authority_refs:
   - Transcendence-design/docs/system/specializations.md
   - Transcendence-design/data/system/specializations-catalog.yaml
+  - Transcendence-design/docs/adr/system-belicology-scope.md
 ---
 
 # Specializations Catalog
@@ -1490,18 +1491,20 @@ A character tries to detect whether a structure hides unseen spaces or a conceal
 
 ### Belicology
 
-Belicology covers formally understanding war, conflict systems, military doctrine, and the organization of combat. It is used when the central question is how to read a military situation as a system rather than as an immediate fight.
+Belicology studies the technical, tactical, strategic, psychological, and organizational principles of combat. It explains how a culture faces threats and why it develops particular ways of fighting. It covers conflicts between species, defense against beasts, and the protection of communities against environmental threats. It does not require a war or an army.
 
-It is distinct from Leadership. Leadership commands in real time; Belicology understands doctrine, deployment, and the structure of war. It also stays separate from weapon competencies or direct tactical improvisation.
+It is used to analyze the roles of weapons and positions, coordination among combatants, and the responses a method seeks to provoke in an adversary. Conclusions depend on available information and the character's knowledge; they do not reveal hidden intentions or predict behavior perfectly.
+
+It is distinct from Leadership, which exercises command in real time, and Survival, which addresses general subsistence needs. Understanding a martial tradition does not grant its weapon competencies or Techniques. Analysis does not replace weapon execution or direct tactical improvisation either.
 
 #### Mechanical Profile
 
 - Belicology functions mostly as an **active** action.
 - It is resolved against a **threshold**.
 
-The scene condition sets the base threshold. Scale of the conflict, clarity of deployment, rarity of doctrine, and pressure of the moment adjust that value.
+The scene condition sets the base threshold. Scale of the conflict, clarity of the arrangement, familiarity with the method, and pressure of the moment adjust that value.
 
-- It requires a military situation, doctrine, or deployment susceptible to formal analysis.
+- It requires a combat method, martial tradition, or defensive arrangement that can be analyzed.
 - It also requires enough information to compare the scene with known conflict patterns.
 
 #### Common Penalties
@@ -1515,11 +1518,11 @@ The scene condition sets the base threshold. Scale of the conflict, clarity of d
 
 #### Retries
 
-It may be reevaluated if the deployment becomes clearer, new forces appear, or the situation changes. Without new tactical information, repeating the same analysis rarely improves it.
+It may be reevaluated if the arrangement becomes clearer, new threats appear, or the situation changes. Without new tactical information, repeating the same analysis rarely improves it.
 
 #### Brief Example
 
-A character tries to anticipate how an enemy force will reorder itself before the maneuver is complete. The roll decides whether the doctrine is legible in time.
+A character examines how a community contains a beast using long weapons, a narrow passage, and relief shifts among defenders. The roll determines whether the character understands each element's role and why the method addresses the threat. Understanding it does not teach the defenders' Techniques or automatically allow the character to command them.
 
 ---
 
@@ -1821,7 +1824,7 @@ Presence specializations express how much weight the character carries in the pe
 
 Leadership covers directing others through authority, structure, and force of command. It is used when the central question is not whether the character frightens, persuades, or bargains, but whether they can get several people to act under a recognized direction.
 
-It is distinct from Intimidation. Intimidation bends through fear; Leadership organizes voluntary followership. It also stays separate from War Studies, which knows war as a system rather than exercising command in real time.
+It is distinct from Intimidation. Intimidation bends through fear; Leadership organizes voluntary followership. It also stays separate from Belicology, which studies how and why combat methods work rather than exercising command in real time.
 
 #### Mechanical Profile
 

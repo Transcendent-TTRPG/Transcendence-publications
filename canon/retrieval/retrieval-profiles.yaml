@@ -1,0 +1,36 @@
+profiles_version: 1
+profiles:
+  - id: campaign_species_foundation
+    purpose: Establish the minimum canon needed to design a module focused on one species.
+    context_budget: compact
+    required_domains: [species, biology, perception, culture]
+    baseline_concepts: [vesper_species, vesper_perception, vesper_culture]
+    lookup_order: [concept_registry, source_manifest, primary_sources]
+
+  - id: campaign_location_and_society
+    purpose: Design a place as an inhabited social and material system.
+    context_budget: compact
+    required_domains: [culture, perception, setting, factions, resources]
+    baseline_concepts: [vesper_species, vesper_perception, vesper_culture]
+    lookup_order: [concept_registry, source_manifest, primary_sources]
+
+  - id: campaign_cosmology_and_horror
+    purpose: Add Limbo, Tauma, vestiges, links, or entities only when the module earns them.
+    context_budget: focused
+    required_domains: [limbo, tauma, vestiges, links, entities]
+    baseline_concepts: [limbo, vestige, entity]
+    lookup_order: [concept_registry, source_manifest, primary_sources]
+
+  - id: narrative_pov_preparation
+    purpose: Prepare only what a chosen POV can perceive, interpret, and narrate.
+    context_budget: compact
+    required_domains: [species, perception, culture]
+    baseline_concepts: [vesper_species, vesper_perception, vesper_culture]
+    lookup_order: [concept_registry, source_manifest, primary_sources]
+
+  - id: simulation_rule_resolution
+    purpose: Resolve a specific mechanical question with traceable editorial authority.
+    context_budget: focused
+    required_domains: [rules]
+    baseline_concepts: []
+    lookup_order: [concept_registry, source_manifest, primary_sources]

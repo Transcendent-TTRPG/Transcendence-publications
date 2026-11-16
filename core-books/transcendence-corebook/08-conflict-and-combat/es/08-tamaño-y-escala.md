@@ -93,8 +93,9 @@ Aguante = base de tamaño + (Tenacidad × 2)
 | Pequeño | 2 |
 | Mediano | 4 |
 | Grande | 6 |
+| Enorme | 8 |
 
-Esta base aplica a especies jugables. Los valores de Aguante para criaturas no jugables pueden diferir según la regla del narrador.
+Esta base aplica a especies jugables. Un Loxod que alcance Enorme deja de usar la base anterior y recalcula su Aguante con la base `8`. Los valores de Aguante para criaturas no jugables pueden diferir según la regla del narrador.
 
 ---
 

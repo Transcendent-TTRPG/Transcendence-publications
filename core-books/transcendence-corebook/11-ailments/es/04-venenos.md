@@ -14,6 +14,8 @@ related:
 authority_refs:
   - Transcendence-design/docs/system/ailments.md
   - Transcendence-design/data/system/ailments.yaml
+  - Transcendence-design/docs/system/materials-and-fabrication.md
+  - Transcendence-design/data/system/materials-and-fabrication.yaml
 ---
 
 # Venenos
@@ -89,6 +91,12 @@ Neutralizar un veneno activo en un organismo requiere un **Kit de Medicina** ade
 | Especializado | Venenos excepcionales (hasta Grave) |
 
 El tratamiento puede llevarse a cabo mediante técnicas de sanación o métodos alquímicos. La dificultad depende de la potencia y naturaleza del veneno.
+
+### Neutralizadores específicos
+
+Los **Neutralizadores específicos** aportan el compuesto para un método de tratamiento; no sustituyen Medicina, el kit ni las excepciones de recuperación del veneno. Una dosis administrada permite un intento contra un veneno compatible y se consume aunque la T.E. falle. La calidad del neutralizador limita las preparaciones químicas que puede neutralizar; no equivale a la severidad del Agravio.
+
+Consulta las fórmulas, el procedimiento del Veneno de Confusión común y el ejemplo en [Alquimia — Neutralizadores específicos](../../10-equipment-and-resources/es/05-alquimia.md#neutralizadores-específicos). Ese procedimiento no cambia el tratamiento de otros venenos ni concede una aplicación reactiva sobre armas.
 
 ---
 

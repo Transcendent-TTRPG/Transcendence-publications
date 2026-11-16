@@ -7,7 +7,7 @@ language: es
 chapter: 6
 status: draft
 canonical: false
-tags: [species, loxod, lore, elephant, memory, resonance, archive, tauma]
+tags: [species, loxod, lore, elephant, growth, territory, memory, survival]
 authority_refs:
   - Transcendence-design/docs/canon/species/loxod.md
 related:
@@ -16,13 +16,13 @@ related:
 
 # Loxod
 
-El Loxod que entra a una habitación donde alguien murió ayer no necesita que nadie se lo diga. Los marcadores del estrés final todavía están en el aire: las moléculas del miedo, el cese metabólico, la descarga química del cuerpo, todo lo que se liberó al final y nadie recogió porque nadie sabía que podía recogerse. Su cuerpo masivo, de linaje elefante, lo recibe directamente a través de una trompa que es más sensible que los ojos, sin intermediario, sin la demora que otros sentidos tienen antes de llegar a la memoria. No es que sepan leer los signos de la muerte. Es que la muerte les habla primero, y su historia es la de aprender a sobrevivir a todo lo que el mundo no sabe callar.
+Un Loxod nunca termina de tener el cuerpo con el que nació. Durante los primeros años cabe en los pasos, las viviendas y los brazos de quienes lo cuidan. Después crece. Cada década ensancha el torso, densifica el hueso y alarga los colmillos; con el tiempo, una persona que antes cruzaba una puerta sin pensarlo necesita saber si el umbral resistirá su peso y si el camino de regreso todavía admite su cuerpo.
 
-Los Loxod son criaturas construidas para recibir en una escala que otros no pueden imaginar. Además de una trompa capaz de quebrar madera o leer el olor del miedo oculto bajo una sonrisa, emiten un infrasonido constante, involuntario. Con él pueden saber si alguien camina en el pasillo siguiente o si otro Loxod, a kilómetros de distancia, está bajo presión. El problema no es escucharse entre ellos. El problema es que esas frecuencias comparten rango con la resonancia de las entidades, vestigios y restos antiguos. Lo que vive en esas frecuencias los detecta. Por lo tanto, un Loxod nunca puede dejar de emitir señal; solo puede aprender a no estar allí cuando algo despierte para escuchar. 
+La vejez Loxod no es una abstracción. Un anciano puede alcanzar una fuerza que otros cuerpos no igualan y guardar recuerdos de lugares que ya no existen, pero también requiere más alimento, más agua, más tierra firme y más espacio que cualquier adulto joven. Su supervivencia deja de ser una cuestión privada. Cada comunidad debe decidir cuánto territorio puede ofrecer a quien sigue creciendo y qué ocurre cuando ya no puede hacerlo.
 
-Toda su cultura, sus inmensos archivos de piedra, sus ciudades diseñadas para disipar resonancias sísmicas, no nacen de una vocación intelectual. Son infraestructura de supervivencia. Llaman *carga* a lo recibido antes de ser organizado, y *sobrecarga* cuando esa impresión química y emocional comienza a distorsionar su propio juicio. Un archivista Loxod no guarda papeles para recordar la historia: codifica la firma del terror ajeno, del duelo colectivo o de la inestabilidad de una ruina para poder *descargarla* de su propio cuerpo y seguir siendo quien era. La mayor autoridad en sus colectivos no la tiene quien lee más, sino quien ha logrado cargar más peso sin romperse, sin sufrir un *desplazamiento* donde la memoria de otro comienza a ocupar el lugar de la vida propia. 
+La trompa conserva la precisión de su linaje: huele, toca, sujeta y reconoce rastros físicos que otros pasan por alto. Los sonidos graves y las vibraciones les permiten coordinarse cuando el terreno los transmite, aunque la piedra rota, el agua, la tormenta y la multitud los vuelven imprecisos. Ninguno de esos sentidos les entrega la verdad absoluta. Los Loxod recuerdan con detalle lo que vivieron; también cargan sus propias interpretaciones, sus afectos y sus errores.
 
-Un joven Loxod tarda décadas en aprender a no ser destruido por todo lo que recibe, y los ancianos son tratados con reverencia y terror cauteloso. Algunos saben demasiado, y cada palabra que pronuncian podría transmitir a un receptor no preparado una carga que lo distorsione. Sus colmillos, que crecen toda la vida y acumulan marcas, fracturas y reparaciones, son un registro autobiográfico visible antes que un arma. Mutilarlos o tocarlos sin permiso es profanación. Para quien viaja con ellos, resultan seres de una paciencia inagotable y una empatía desconcertante, porque el Loxod está teniendo una conversación emocional mucho más profunda de lo que el otro cree estar diciendo. Sin embargo, no dudan en cortar vínculos permanentemente cuando deciden que la carga ya no justifica la resonancia. No temen al olvido ni al fin del mundo. Solo temen convertirse en el órgano por el cual algo más antiguo y terrible aprenda a recordarse a sí mismo.
+Sus colmillos crecen con ellos. Llevan desgaste, fracturas, reparaciones y marcas elegidas por quien los porta. Tocarlos o dañarlos sin permiso es una invasión grave. Para los Loxod, un colmillo no es una prueba de que alguien conozca el mundo: es la parte del cuerpo que sobrevivió a su paso por él.
 
 ---
 
@@ -32,7 +32,20 @@ Un joven Loxod tarda décadas en aprender a no ser destruido por todo lo que rec
 
 | Longevidad | Tamaño | Estatura | Peso | Velocidad |
 | --- | --- | --- | --- | --- |
-| 160–210 años | Grande | 2.50–3.00 m | 400–500 kg | 8 m |
+| 200–300 años | Progresivo: Mediano → Grande → Enorme | Ver desarrollo corporal | Ver desarrollo corporal | Ver desarrollo corporal |
+
+### Desarrollo corporal
+
+El crecimiento no se detiene y no sigue el mismo ritmo en cada individuo. Hambre, heridas, enfermedad, territorio disponible y cuidado recibido pueden retrasarlo o acabar una vida antes de que alcance la siguiente etapa.
+
+| Etapa | Edad aproximada | Tamaño | Estatura | Peso | Velocidad |
+| --- | --- | --- | --- | --- | --- |
+| Recién nacido | 0–5 años | Mediano | 0,70–0,90 m | 15–30 kg | 5 m |
+| Joven | 6–25 años | Mediano | 0,90–1,70 m | 30–200 kg | 6 m |
+| Adulto temprano | 26–70 años | Grande | 1,70–3,00 m | 200–900 kg | 8 m |
+| Adulto establecido | 71–150 años | Grande | 3,00–4,50 m | 0,9–3,5 t | 7 m |
+| Anciano | 151–230 años | Enorme | 4,50–6,00 m | 3,5–9 t | 6 m |
+| Anciano excepcional | 231–300 años | Enorme | 6,00–8,00 m | 9–20 t | 5 m |
 
 **Idiomas:** Loxian (nativo) · Común
 
@@ -42,28 +55,36 @@ Los Loxod obtienen `+1` en **Tenacidad**, **Intelecto** y **Compostura**.
 
 ### Herencia
 
-**Firma Sísmica** — Emiten infrasonido de forma continua e involuntaria. Reciben una penalización de `−3` a todas las T.E. de Sigilo: su firma vibratoria persiste a través de cualquier barrera material. Esta penalización no proviene de un estado ni de una condición — es inherente a su existencia.
+**Crecimiento Incesante** — Un Loxod no elige detener su crecimiento ni conservar una categoría de Tamaño que su cuerpo ya dejó atrás. Cuando cruza a una nueva etapa corporal, aplica de inmediato todas las reglas de **Tamaño y Escala** correspondientes: base de Aguante, Capacidad de Carga, modificadores a T.E. físicas propias, T.R. físicas, rango visual y expresión de sus Armas Naturales.
+
+El cambio no concede solo fuerza o alcance. Un cuerpo Grande gana estabilidad frente a Derribado, Desequilibrado y Atrapado, pero pierde precisión al usar Acrobacias, Equilibrio, Trepar o Sigilo. La Herencia obliga a aceptar ambas consecuencias. Ver [Tamaño y Escala](../../08-conflict-and-combat/es/08-tamaño-y-escala.md).
 
 ### Legado
 
-**Archivo Viviente** — Retienen impresiones absorbidas directamente con una fidelidad perfecta. Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Historia**, **Geografía** y **Lingüística** cuando han estado expuestos física o químicamente al sujeto.
+**Archivo Viviente** — Conservan con precisión la información que vivieron, estudiaron, escucharon o leyeron. Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Conocimiento** cuando la prueba usa una experiencia, un texto, un lugar, un fenómeno o un sistema que el personaje ya conoció de forma suficiente.
+
+Archivo Viviente no convierte la memoria en verdad. No permite recordar un hecho no presenciado, completar una fuente incompleta ni resolver una interpretación ambigua sin evidencia nueva.
 
 **Olfato Profundo** — *Activo · Ritmo 3 · Desgaste 2 · Alcance Personal · Área Circular 8 m · Duración Permanente · Tirada T.C. (Compostura).*
 
-Realiza una T.C. (Compostura). Con éxito, dentro del área: conoces las Alteraciones activas y su severidad en cada criatura visible; sabes si alguien sufre Aflicciones activas (sin conocer su tipo exacto); percibes la presencia general (sin posición exacta) de criaturas Ocultas si estas tienen Alteraciones o Aflicciones activas, sin romper su estado Oculto. Finaliza si quedas Inconsciente o voluntariamente. Ver técnica #104.
+Realiza una T.C. (Compostura) contra el umbral que fijen el viento, la lluvia, la piedra, la saturación del aire y la contaminación del lugar. Con éxito, dentro del área distingues rastros materiales relevantes y su dirección aproximada: sangre, humo, humedad, carroña, ácido, venenos conocidos, enfermedad, estrés metabólico o presencia animal reciente. Un rastro intenso puede indicar que una criatura Oculta está cerca, pero no revela su posición exacta ni elimina su Ocultación.
 
-**Trompa Versátil** — La trompa puede sostener un objeto adicional, abrir puertas o manipular elementos (no empuñar armas). Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Trepar** y **Agarre**, así como a las T.E. de **Percepción** basadas en resonancia sísmica o infrasonido transmitido por superficies sólidas.
+Olfato Profundo detecta materia y sus consecuencias, no estados mecánicos. Puede encontrar sangre en una criatura Lacerada o residuo ácido en una criatura Corroída. No identifica por sí mismo una Alteración, su severidad, una Aflicción ni la intención de otra criatura. Finaliza si quedas Inconsciente o lo finalizas voluntariamente. Ver técnica #104.
+
+**Trompa Versátil** — La trompa puede sostener un objeto adicional, abrir puertas o manipular elementos, pero no empuña armas. Obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Agarre** y a las T.E. de **Percepción** que usen tacto, olfato o vibraciones transmitidas por suelo sólido. Agua en movimiento, roca fracturada, tormentas y arquitectura saturada pueden impedir esa lectura.
 
 ### Armas Naturales
 
-Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acceso a los Colmillos y la Trompa desde el inicio.
+Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acceso a los Colmillos y la Trompa desde el inicio. El daño y el alcance de ambas armas dependen del Tamaño actual del personaje.
 
 #### Colmillos
 *Todos los Loxod · Principal*
 
-| T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
-| --- | --- | --- | --- | --- | --- |
-| Tenacidad | Tenacidad | 2 m | d10 | 7 × rango | 9 × rango |
+| Tamaño | T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mediano | Tenacidad | Tenacidad | 1 m | d8 | 7 × rango | 9 × rango |
+| Grande | Tenacidad | Tenacidad | 2 m | d10 | 7 × rango | 9 × rango |
+| Enorme | Tenacidad | Tenacidad | 3 m | d12 | 7 × rango | 9 × rango |
 
 **Perfiles:** Carga · Perforación · Ruptura · Intercepción
 
@@ -78,9 +99,11 @@ Los Loxod no tienen variantes biológicas. Todos los personajes Loxod tienen acc
 #### Trompa
 *Todos los Loxod · Auxiliar*
 
-| T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
-| --- | --- | --- | --- | --- | --- |
-| Tenacidad | Tenacidad | 3 m | d8 | 5 × rango | 6 × rango |
+| Tamaño | T.A. | T.I. | Alcance | Daño | Durabilidad | Potencia |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mediano | Tenacidad | Tenacidad | 2 m | d6 | 5 × rango | 6 × rango |
+| Grande | Tenacidad | Tenacidad | 3 m | d8 | 5 × rango | 6 × rango |
+| Enorme | Tenacidad | Tenacidad | 4 m | d10 | 5 × rango | 6 × rango |
 
 **Perfiles:** Control de Línea · Torsión · Bastión · Ruptura
 

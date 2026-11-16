@@ -1,0 +1,22 @@
+version: 1
+cases:
+  - id: vestigio_limits
+    profile: campaign_cosmology_and_horror
+    concepts: [vestige]
+    expect_sources: [corebook_limbo_es, corebook_vestiges_es, corebook_limbo_entities_es]
+    expect_decisions: []
+  - id: vesper_foundation
+    profile: campaign_species_foundation
+    concepts: []
+    expect_sources: [corebook_species_vesper_es]
+    expect_decisions: [evolutionary-paths-intelligence-or-strength]
+  - id: vesper_and_consagrado
+    profile: campaign_species_foundation
+    concepts: [consagrado]
+    expect_sources: [corebook_species_vesper_es]
+    expect_decisions: [evolutionary-paths-intelligence-or-strength]
+  - id: visibility_rule
+    profile: simulation_rule_resolution
+    concepts: [visibility_and_concealment]
+    expect_sources: [corebook_visibility_concealment_es]
+    expect_decisions: []

@@ -14,6 +14,7 @@ related:
   - core-books/transcendence-corebook/13-gm-toolkit/en/01-environmental-conditions.md
   - core-books/transcendence-corebook/04-skills-and-proficiencies/en/01-specializations.md
 authority_refs:
+  - Transcendence-design/docs/adr/system-initial-weapon-competencies.md
   - Transcendence-design/docs/system/roll-types.md
   - Transcendence-design/docs/system/competencies.md
   - Transcendence-design/docs/system/difficulty-thresholds.md
@@ -327,9 +328,11 @@ A new rank is reached every 2 competency levels. Specializations grant Synapsis 
 
 ### Starting Competencies
 
-The character's background determines which competencies begin trained. Competencies granted by background start at level 1, equivalent to Novice rank.
+Background determines three starting specializations. Character creation adds one universal Tenacity specialization and two distinct weapon competencies, chosen from available natural weapons and manufactured weapons. All these competencies begin at level `1`, Novice rank.
 
-All other competencies begin at level 0. The character is considered Untrained in them.
+The two weapon competencies are independent of species and background; the choices cannot stack into a single competency. Remaining competencies begin at level `0`, unless a specific rule grants another starting value. Natural weapon anatomy does not grant additional training.
+
+Weapon choices, restrictions, and examples appear in [Starting Weapon Competencies](../../05-character-creation/en/character-creation.md#starting-weapon-competencies).
 
 ---
 

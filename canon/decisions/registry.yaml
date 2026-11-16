@@ -1,0 +1,47 @@
+registry_version: 1
+decisions:
+  - id: evolutionary-paths-intelligence-or-strength
+    status: approved
+    scope: global_biology
+    statement: >-
+      Las líneas evolutivas pueden desarrollarse hacia inteligencia —conciencia,
+      lenguaje y vida social— o hacia fuerza —potencia corporal, sentidos,
+      resistencia y ferocidad—, pero no pueden alcanzar ambos extremos. La
+      continuidad animal ordinaria sigue siendo la norma: una línea no inteligente
+      puede conservar formas comunes y, en lugares o tiempos particulares, producir
+      formas excepcionalmente fuertes o anómalas. Cuando una línea alcanzó la vía de
+      inteligencia como especie jugable, su animal de origen no persiste separado
+      como criatura no pensante: los murciélagos son Vesper, los elefantes son Loxod
+      y las hienas son Zarnag. Los jaguares, en cambio, permanecen como bestias no
+      sapientes y pueden ser candidatos de una línea viva.
+    origin: creator_decision_2026-09-20
+    related_concepts: [vesper_species, vesper_culture]
+    consumers:
+      - core-books/transcendence-corebook
+      - Transcendence-campaigns/modules/contenedores-vacios
+      - Transcendence-narrative-engine
+    integration_required:
+      - Incorporar el límite al Corebook en español en la sección que establezca la
+        biología y el origen de las especies.
+  - id: living-technology-and-tauma-integrated-materials
+    status: approved
+    scope: global_worldbuilding
+    statement: >-
+      La tecnología puede surgir de relaciones cultivadas entre materia orgánica e
+      inorgánica: su función procede de la fisiología y el mantenimiento de organismos
+      vivos, no de control consciente del Tauma. Además, materiales que se formaron o
+      permanecieron durante generaciones bajo una condición taumatúrgica estable
+      pueden adquirir propiedades repetibles compartidas por toda materia de esa misma
+      condición. Las criaturas inteligentes no ven ni manipulan el Tauma; reconocen
+      sólo consecuencias y aprenden a convivir con ellas. Estos materiales no son
+      Vestigios: no dependen de impronta colectiva, no poseen una función simbólica
+      singular y no crean energía de la nada.
+    origin: creator_decision_2026-09-21
+    related_concepts: [tauma, vestiges, material_culture, living_technology]
+    consumers:
+      - core-books/transcendence-corebook
+      - Transcendence-campaigns
+      - Transcendence-narrative-engine
+    integration_required:
+      - Establecer vocabulario y ejemplos en español sin presentar los efectos como
+        hechicería controlable por criaturas inteligentes.

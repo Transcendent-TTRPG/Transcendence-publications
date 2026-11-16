@@ -1,0 +1,93 @@
+# Concepts are retrieval handles, not a replacement for their canonical sources.
+registry_version: 1
+concepts:
+  - id: vesper_species
+    label: Vesper
+    kind: species
+    summary_status: pending
+    primary_sources: [corebook_species_vesper_es]
+    related_concepts: [vesper_perception, vesper_culture, consagrado]
+
+  - id: vesper_perception
+    label: Percepción Vesper
+    kind: biology_and_perception
+    summary_status: pending
+    primary_sources: [corebook_species_vesper_es]
+    related_concepts: [architecture_acoustics, concealment, vesper_species]
+
+  - id: vesper_culture
+    label: Cultura Vesper
+    kind: culture_and_society
+    summary_status: pending
+    primary_sources: [corebook_species_vesper_es]
+    related_concepts: [consagrado, aberration, vesper_species]
+
+  - id: limbo
+    label: Limbo
+    kind: cosmology
+    summary_status: pending
+    primary_sources: [corebook_limbo_es]
+    related_concepts: [tauma, vestige, link, environmental_flow]
+
+  - id: tauma
+    label: Tauma
+    kind: cosmology
+    summary_status: pending
+    primary_sources: [corebook_limbo_es]
+    related_concepts: [limbo, environmental_flow, vestige]
+
+  - id: entity
+    label: Entidad
+    kind: cosmology_and_rules
+    summary_status: pending
+    primary_sources: [corebook_limbo_entities_es]
+    related_concepts: [limbo, vestige, link]
+
+  - id: vestige
+    label: Vestigio
+    kind: cosmology_and_rules
+    summary_status: pending
+    primary_sources: [corebook_limbo_es, corebook_vestiges_es]
+    related_concepts: [limbo, belief, tauma]
+
+  - id: consagrado
+    label: Consagrado
+    kind: campaign_lore
+    summary_status: pending
+    primary_sources: [corebook_species_vesper_es]
+    related_concepts: [vesper_culture, aberration, limbo]
+
+  - id: aberration
+    label: Aberración
+    kind: campaign_lore
+    summary_status: pending
+    primary_sources: [corebook_species_vesper_es]
+    related_concepts: [vesper_culture, consagrado]
+
+  - id: environmental_conditions
+    label: Condiciones del entorno
+    kind: rules_and_exploration
+    summary_status: pending
+    primary_sources: [corebook_environmental_conditions_es]
+    related_concepts: [visibility_and_concealment, wounds_and_damage]
+
+  - id: visibility_and_concealment
+    label: Cobertura, visibilidad y ocultación
+    kind: rules_and_exploration
+    summary_status: pending
+    primary_sources: [corebook_visibility_concealment_es]
+    related_concepts: [environmental_conditions, vesper_perception]
+
+  - id: wounds_and_damage
+    label: Heridas y daño
+    kind: combat_rules
+    summary_status: pending
+    primary_sources: [corebook_wounds_damage_es]
+    related_concepts: [environmental_conditions]
+
+  - id: actions
+    label: Acciones
+    kind: combat_and_exploration_rules
+    summary_status: pending
+    primary_sources: [corebook_actions_es]
+    related_concepts: [visibility_and_concealment]

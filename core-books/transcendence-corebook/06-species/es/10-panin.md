@@ -46,15 +46,24 @@ Los Panin obtienen `+1` en **Agilidad**, **Astucia** y **Aura**.
 
 ### Legado
 
-**Adaptabilidad** — *Activo · Ritmo 3 · Desgaste 2 · Alcance Personal · Área Personal · Duración Permanente · Tirada —*
+**Adaptabilidad** — *Activo · Ritmo 3 · Desgaste 1 · Alcance Personal · Área Personal · Duración Permanente · Tirada —*
 
-Cede temporalmente una cantidad de tus especializaciones de afinidad mayor actuales de acuerdo a tu nivel de referencia y adopta otras diferentes en su lugar. La nueva configuración es funcional hasta tu siguiente descanso prolongado o hasta que uses esta técnica de nuevo, lo que ocurra primero. La afinidad original se recupera al terminar el efecto. Ver técnica #107.
+Transfieres práctica entre una especialización entrenada de origen y otra distinta
+de destino, asociadas a la misma característica, sin perder ninguna competencia.
+El Narrador valida el principio transferible. En las T.E. que lo aprovechen,
+comparas tu nivel más rango propios de destino con tu rango actual de origen y
+usas el mayor, sin sumarlos. No concede conocimientos ni entrenamiento nuevos.
 
-| Rango NR | Afinidades Intercambiables (X) |
+| Nivel de Referencia | Adaptaciones simultáneas |
 | --- | --- |
-| 1–4 | 3 |
-| 5–8 | 4 |
-| 9+ | 5 |
+| 1–4 | 1 |
+| 5–8 | 2 |
+| 9+ | 3 |
+
+Cada uso añade o sustituye una pareja; permanece hasta sustituirse, incluso tras
+descansar, sin mantenimiento ni pagos por tirada. La asociación puede surgir
+espontáneamente, sin conocer o nombrar la capacidad. Se aplica una por tirada.
+Consulta requisitos, aprendizaje y límites en [Adaptabilidad, técnica #107](../../../transcendence-techniques/es/107-adaptabilidad.md).
 
 **Curiosidad** — Pueden usar **Astucia** en lugar de **Intelecto** para las T.E. de **Identificación** e **Interpretación**. Además, obtienen `+1` por cada cuatro Niveles de Referencia a las T.E. de **Identificación**, **Interpretación** e **Intuición**, reflejando su hiperatención al detalle presente.
 
